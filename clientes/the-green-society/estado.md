@@ -1,0 +1,44 @@
+# Estado del proyecto — The Green Society
+
+**Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture)
+**Flujo:** `concepto-narrativa-marca`
+**Última actualización:** 2026-09-15
+
+## Resumen del proyecto
+
+- Clientes: pareja (él catalán, ella americana de Texas). Gestionan equipos de fútbol
+  juvenil y antes tenían un local de alquiler en Barcelona para reuniones semanales
+  (cenas, meet ups) — no era rentable, solo alquiler.
+- Nueva idea: cafetería de especialidad que genere revenue y siga permitiendo esas
+  reuniones de comunidad.
+- Valores personales fuertes: estilo de vida saludable (ella superó un cáncer
+  recientemente). De ahí surgió el nombre provisional "The Green Society".
+- Ideas sueltas de producto: bagels, cócteles sin alcohol.
+- Ubicación: Avinguda Josep Tarradelles 58, Barcelona.
+- Nombre "The Green Society": **posible riesgo de asociación con cannabis** — a validar
+  en la Fase B (Plataforma de Marca), no hay que decidir nombre todavía.
+- Andrea ya exploró 4 rutas de naming/posicionamiento (ver notas) y propone un ejercicio
+  de "construir El Club" (pertenencia, rituales, código cultural) antes de cerrar nombre.
+- Referencias de inspiración aportadas por el cliente/Andrea: PopUp Bagels, Leo's Bagels
+  NYC, Courage Bagels (todas de EEUU, a validar encaje con Barcelona).
+
+## Fases del flujo
+
+- [x] **Fase A · Investigación de mercado** — en curso (2026-09-15)
+- [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente
+- [ ] **Fase B · Plataforma de Marca** — **BLOQUEADA**: falta que el cliente responda
+      el cuestionario de kick-off (`plantillas/cuestionario-kickoff.md`). Sin sus
+      respuestas (propósito, valores, líneas rojas, inspiraciones) no se puede
+      construir propósito/visión/misión/valores.
+- [ ] **GATE 2 · ¿Es esta la marca que queremos construir?** — pendiente
+- [ ] **Fase C · Desarrollo aplicado** (ecosistema, comunidad, aplicación, roadmap) — pendiente
+- [ ] **GATE 3 · ¿Se entrega al cliente?** — pendiente
+
+## Decisiones tomadas en gates
+
+(ninguna todavía)
+
+## Próximo paso
+
+Enviar el cuestionario de kick-off al cliente (si no se ha hecho) y esperar sus
+respuestas antes de avanzar a la Fase B. Mientras tanto, completar la Fase A.
