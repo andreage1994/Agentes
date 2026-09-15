@@ -24,8 +24,13 @@
 
 ## Fases del flujo
 
-- [x] **Fase A · Investigación de mercado** — completada (2026-09-15), ver
-      `fase-a-investigacion-mercado.md`
+- [x] **Fase A · Investigación de mercado** — v3 (2026-09-15), ver
+      `fase-a-investigacion-mercado.md`. Además, catálogo aparte de referencias de
+      "comunidad sin sala" en `referencias-casos-comunidad.md` (8 mecanismos:
+      running/cycling clubs, pop-ups de marca, merchandising, community events,
+      comunidad digital, drops/ediciones limitadas, memberships, colaboraciones
+      wellness/moda/música/arte), pendiente de que Andrea elija cuáles llevar a
+      la Fase B.
 - [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente de tu respuesta
 - [ ] **Fase B · Plataforma de Marca** — **BLOQUEADA**: falta que el cliente responda
       el cuestionario de kick-off (`plantillas/cuestionario-kickoff.md`). Sin sus
