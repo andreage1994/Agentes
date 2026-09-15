@@ -128,6 +128,63 @@ revisión, así que lo dejamos cerrado tal cual quedó documentado.
   confirma que el vehículo para construir esa pertenencia en un formato sin sala
   tiene que ser **de identidad de marca y ritual, no de mobiliario** — ver punto 5.
 
+### Síntesis de motivaciones principales (cruzando fase-a + habitos-consumo.md + referencias-casos-comunidad.md)
+
+Esto no es investigación nueva: es la lectura conjunta de las motivaciones que
+aparecen repetidas en los tres documentos de esta fase, ordenadas por cuántas
+fuentes distintas las respaldan.
+
+**Motivaciones con más de una fuente independiente (las más sólidas):**
+
+1. **Pertenencia a través de identidad de marca y ritual, no de espacio físico.**
+   Aparece en la tendencia de mercado (Third Place 2.0), en el patrón común de los
+   tres casos de bagel (ritual propio, cola/escasez, colaboraciones, historia de
+   origen — punto 5) y en varios mecanismos del catálogo de referencias
+   (merchandising, drops, memberships sin club físico). Es la motivación con más
+   respaldo cruzado de todo el proceso.
+2. **Bienestar como estilo de vida elegido, no como restricción.**
+   El 54% de los españoles está dispuesto a invertir más de 85€/mes en bienestar
+   (NielsenIQ, en `habitos-consumo.md` punto 4), y Gen Z redefine "comer sano" hacia
+   ingredientes reales y trazables, no hacia macros (`habitos-consumo.md` puntos 4 y
+   7). Coincide con el origen personal real de los fundadores del proyecto.
+3. **Sobriedad elegida, no impuesta.**
+   "El consumidor bebe menos veces, pero elige mejor" (`habitos-consumo.md` punto
+   6): 66% de la Gen Z española prefiere cócteles con menos alcohol, y el "tardeo"
+   desplaza el consumo social hacia el día. Coincide con la categoría zero-proof ya
+   documentada como tendencia de mercado en el punto 1 de este documento.
+4. **Calidad y trazabilidad frente a lo anónimo/de cadena.**
+   Es la motivación dominante observada en los cafés de especialidad de la zona
+   (storytelling de origen y tueste propio — punto 3 de este documento), y coincide
+   con el dato nacional de sustitución de cápsulas por café de especialidad
+   (`habitos-consumo.md` punto 1).
+5. **Practicidad/gestión del tiempo que convive con la búsqueda de experiencia,
+   no la sustituye.** El take-away crece por gestión del tiempo, pero incluso una
+   cadena 100% grab-and-go como Blank Street (punto 1) encuentra presión de sus
+   clientes hacia algo de permanencia; a nivel nacional, el consumidor busca
+   "rápido" y "con sentido" en momentos distintos del mismo día, no uno u otro
+   (`habitos-consumo.md` punto 8).
+6. **Autenticidad y narrativa personal frente a discurso corporativo.**
+   Los tres casos de bagel evitan deliberadamente una historia corporativa (el
+   abuelo de Leon, el "coraje" de Arielle en Courage, el hobby doméstico de
+   PopUp — punto 5), y Gen Z prioriza explícitamente la autenticidad frente al
+   marketing artificioso (`habitos-consumo.md` punto 7).
+
+**Motivaciones con una sola fuente, pero relevantes para el diseño de marca
+(a validar más adelante):**
+
+7. **Deseo de llevar la marca puesta como señal de identidad**, no solo consumir
+   el producto (merchandising: Leon's, Ralph's Coffee, Erewhon —
+   `referencias-casos-comunidad.md` puntos 3 y 6).
+8. **Búsqueda de experiencia compartible/fotografiable** como parte del producto,
+   no un añadido de marketing (pared de fotos de PopUp, viralidad orgánica de
+   Courage — punto 5 de este documento).
+
+**Lectura para Fase B:** las seis primeras motivaciones (con respaldo cruzado)
+son la base más sólida para construir propósito, visión, misión y valores de la
+plataforma de marca. Las dos últimas son palancas de ejecución (merchandising,
+contenido) más que motivaciones de fondo — útiles para el "cómo", no para el
+"por qué" de la marca.
+
 ## 4. Necesidades detectadas
 
 - Poca oferta en Barcelona de "bagel" como categoría con marca e identidad propia
