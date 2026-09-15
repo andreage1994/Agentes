@@ -24,8 +24,9 @@
 
 ## Fases del flujo
 
-- [x] **Fase A · Investigación de mercado** — en curso (2026-09-15)
-- [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente
+- [x] **Fase A · Investigación de mercado** — completada (2026-09-15), ver
+      `fase-a-investigacion-mercado.md`
+- [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente de tu respuesta
 - [ ] **Fase B · Plataforma de Marca** — **BLOQUEADA**: falta que el cliente responda
       el cuestionario de kick-off (`plantillas/cuestionario-kickoff.md`). Sin sus
       respuestas (propósito, valores, líneas rojas, inspiraciones) no se puede
