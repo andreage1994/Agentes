@@ -3,8 +3,11 @@
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture)
 **Ubicación del proyecto:** Avinguda Josep Tarradelles 58, Barcelona
 **Fecha:** 2026-09-15
-**Revisión:** v2 — incorpora feedback de Andrea (corrección club/grada, foco en zona concreta,
-investigación específica de café de especialidad en Barcelona)
+**Revisión:** v3 — incorpora feedback de Andrea (precios de competencia de café de
+especialidad, síntesis priorizada de oportunidades, y ampliación del caso "club"
+con Courage Bagels y PopUp Bagels + patrón común de los tres casos). No se ha
+tocado la investigación de perfil socioeconómico del barrio (cerrada en v2, según
+indicación de Andrea).
 
 ## 1. Contexto y tendencias relevantes
 
@@ -75,17 +78,9 @@ cafeterías pequeñas o de apertura reciente que no indexan bien en buscadores y
 se nos escapan. **Recomendamos una visita física a la manzana antes de cerrar el
 mapa de competencia**, tal y como ya apuntábamos en la v1 de este documento.
 
-**Perfil socioeconómico de la zona — matiz importante:** Nova Esquerra de
-l'Eixample tiene unos ~37.000 habitantes, alquiler medio de referencia ~25 €/m²
-(puesto 15 de 75 barrios de Barcelona) y precio de compra ~4.600-5.000 €/m², con un
-perfil de comprador descrito como "primera vivienda y familias" que negocia precio
-— un perfil más contenido que el de zonas como Sarrià. [Idealista — Vivir en la Nova Esquerra de l'Eixample](https://www.idealista.com/news/inmobiliario/vivienda/2024/11/12/821186-vivir-en-la-nova-esquerra-de-l-eixample-modernidad-y-encanto-historico) · [Enalquiler — Nova Esquerra Eixample](https://www.enalquiler.com/barrios/barcelona/nova-esquerra-eixample_658.html)
-Esto **matiza, sin contradecir del todo**, la caracterización de "poder
-adquisitivo medio-alto" que dimos en la v1 basándonos en Wikipedia: el tramo de la
-avenida más próximo a Francesc Macià combina oficinas y comercio de nivel
-medio-alto con un tejido residencial de Nova Esquerra algo más asequible que el
-Eixample Dreta. Lo tratamos como **una tensión de datos a validar con el
-conocimiento local de Andrea**, no como un hecho cerrado.
+**Perfil socioeconómico de la zona:** ya tratado en v2 (ver revisión anterior);
+Andrea ha indicado que no hace falta profundizar más en este punto para esta
+revisión, así que lo dejamos cerrado tal cual quedó documentado.
 
 ## 2. Cambios de hábito de consumo
 
@@ -173,9 +168,7 @@ conocimiento local de Andrea**, no como un hecho cerrado.
     asientos o no. Esto sí es relevante para esta fase y para la futura
     Plataforma de Marca (Fase B).
 
-- **Caso de inspiración documentado — Leon's Bagels (NYC), a petición de Andrea:**
-  investigamos qué hace concretamente esta marca para construir comunidad/ritual
-  sin depender del espacio físico:
+- **Caso 1 — Leon's Bagels (NYC), a petición de Andrea (investigado en v2):**
   - **Identidad simple y con historia personal:** el nombre viene del abuelo del
     fundador, asociado a los valores de comunidad; el lema de marca es "Nothing
     Fancy" — la idea de que un producto simple y bien hecho es lo que une a la
@@ -187,24 +180,127 @@ conocimiento local de Andrea**, no como un hecho cerrado.
     tote bags con el lema "Nothing Fancy" — el cliente compra y lleva puesta la
     identidad de marca, no solo el producto. [NBK Times — Leon's Bagels](https://nbktimes.com/en/food-and-drink/leons-bagels/)
   - **Colaboraciones y pop-ups constantes como generador de comunidad y cultura
-    de cola:** Leon's organiza y acoge activaciones de marca con terceros de forma
-    recurrente — Tony's Chocoloney (chocolate + merch conjunto), Mercury
-    (fintech, dirigido a founders/tech de NYC), Oh Polly (moda, 100 cafés y bagels
-    gratis por su fashion week), Beauty of Joseon (menú especial de inspiración
-    coreana en ventanilla pop-up), Better Days "Caffeinated Club" (merch exclusivo
-    para los primeros 50 de la cola). [Average Socialite — Benefiber x Leon's Bagels](https://www.averagesocialite.com/nyc-events/2025/6/24/benefiber-x-leons-bagels-pop-up-nyc) · [Average Socialite — Tony's Chocoloney x Leon's Bagels](https://www.averagesocialite.com/nyc-events/2026/4/3/tonys-chocoloney-x-leons-bagels-nyc) · [Average Socialite — Leon's Bagels x Mercury](https://www.averagesocialite.com/nyc-events/2026/8/4/leons-bagels-x-mercury-nyc) · [NYC for Free — Oh Polly x Leon's Bagels](https://www.nycforfree.co/events/oh-polly-x-leons-bagels-pop-up) · [NYC for Free — Beauty of Joseon x Leon's Bagels](https://www.nycforfree.co/events/beauty-of-joseon-x-leons-bagels) · [NYC for Free — Caffeinated Club with BetterDays & Leon's Bagels](https://www.nycforfree.co/events/caffeinated-club-with-betterdays-leons-bagels)
+    de cola:** Tony's Chocoloney, Mercury (fintech), Oh Polly (moda), Beauty of
+    Joseon (menú especial coreano), Better Days "Caffeinated Club" (merch
+    exclusivo para los primeros 50 de la cola). [Average Socialite — Tony's Chocoloney x Leon's Bagels](https://www.averagesocialite.com/nyc-events/2026/4/3/tonys-chocoloney-x-leons-bagels-nyc) · [Average Socialite — Leon's Bagels x Mercury](https://www.averagesocialite.com/nyc-events/2026/8/4/leons-bagels-x-mercury-nyc) · [NYC for Free — Oh Polly x Leon's Bagels](https://www.nycforfree.co/events/oh-polly-x-leons-bagels-pop-up) · [NYC for Free — Beauty of Joseon x Leon's Bagels](https://www.nycforfree.co/events/beauty-of-joseon-x-leons-bagels) · [NYC for Free — Caffeinated Club with BetterDays & Leon's Bagels](https://www.nycforfree.co/events/caffeinated-club-with-betterdays-leons-bagels)
   - **El propio producto como ritual cultural:** la cola y el bagel de fin de
     semana se describen como "un ritual de fin de semana" y parte de la cultura de
-    barrio, más allá de la transacción de comprar comida. [Food and Spot — Leon's Bagels Review](https://www.foodandspot.com/articles/restaurants-and-bars/cafe-and-bakery/leon-s-bagels-review)
-  - **Lectura para el proyecto:** ninguna de estas palancas depende de tener sala
-    o asientos — dependen de identidad visual consistente, un lema/tono de marca
-    memorable, merchandising y una agenda activa de colaboraciones/eventos
-    puntuales (dentro o fuera del local físico). Es la referencia directa que pidió
-    Andrea para construir "el club" en un formato take-away.
-  - **Límite honesto de esta comparación:** Leon's Bagels opera en un contexto de
-    cultura de colas y "hype" de NYC que no tenemos evidencia de que se traslade
-    igual a Barcelona; lo usamos como inspiración de mecanismos (identidad, merch,
-    colaboraciones, ritual), no como prueba de que funcionaría igual aquí.
+    barrio. [Food and Spot — Leon's Bagels Review](https://www.foodandspot.com/articles/restaurants-and-bars/cafe-and-bakery/leon-s-bagels-review)
+
+- **Caso 2 — Courage Bagels (Los Ángeles), nuevo en v3:**
+  - **Identidad con historia personal:** fundado por Arielle Skye (de Saginaw,
+    Michigan) y su pareja Christopher Moss (con trayectoria en el sector food en
+    NYC). El nombre viene de que, para Arielle, "un bagel representaba coraje" —
+    origen personal y emocional, no un naming de marketing. [Drakes US — How Courage Put LA Bagels on the Map](https://us.drakes.com/blogs/news/courage-bagels)
+  - **Narrativa de producto ligada a lugar:** bagels de fermentación salvaje
+    ("wild-yeasted"), estilo Montreal, con relato explícito de libertad creativa de
+    LA frente a la tradición neoyorquina ("LA nos dio el espacio para decir cómo
+    podía saber un bagel"). [Drakes US — How Courage Put LA Bagels on the Map](https://us.drakes.com/blogs/news/courage-bagels)
+  - **Formato mínimo, solo ventanilla:** local en 777 N. Virgil Ave (Virgil
+    Village, East Hollywood), abre jueves-lunes 7:00-14:00, pedidos únicamente en
+    la propia ventanilla (no hay pedido online ni telefónico). [LAmag — Faithful Fans Swear Courage Bagels Is Worth the Wait](https://www.lamag.com/digestblog/courage-bagels-los-angeles/) · [The Infatuation — Courage Bagels review](https://www.theinfatuation.com/los-angeles/reviews/courage-bagels)
+  - **Cola como ritual de fin de semana y prueba social:** esperas de hasta 90
+    minutos los sábados; se describe como ritual de fin de semana y motivo de
+    orgullo local ("Angelenos que antes lamentaban la falta de buenos bagels en la
+    ciudad ahora hacen cola con paciencia"). [LAmag — Faithful Fans Swear Courage Bagels Is Worth the Wait](https://www.lamag.com/digestblog/courage-bagels-los-angeles/) · [Mariana in LA — I Tried the Most Famous Bagel Shop in LA](https://marianainla.com/2025/05/30/i-tried-the-most-famous-bagels-in-la-courage-bagels/)
+  - **Gesto de comunidad de barrio:** al abrir en un local que llevaba 20 años
+    ocupado por una panadería guatemalteca, Courage pidió a esa panadería que
+    siguiera aportando su pan dulce cada mañana para ofrecerlo a los vecinos —
+    continuidad simbólica con el barrio, no solo sustitución del negocio anterior.
+    [Drakes US — How Courage Put LA Bagels on the Map](https://us.drakes.com/blogs/news/courage-bagels)
+  - **Viralidad y redes:** el reportaje del New York Times ("The Best Bagels Are
+    in California, Sorry New York") disparó su popularidad; ~99K seguidores en
+    Instagram y presencia viral en TikTok. [LAmag — Faithful Fans Swear Courage Bagels Is Worth the Wait](https://www.lamag.com/digestblog/courage-bagels-los-angeles/) · [Instagram — @courage_bagels](https://www.instagram.com/courage_bagels/?hl=en)
+  - **Colaboraciones de marca:** colección "Madhappy & Friends" — evento
+    fundraiser de una noche en Pacific Park (muelle de Santa Mónica), con merch
+    conjunto entre Madhappy, Courage Bagels, Jon & Vinny's y The Apple Pan (p. ej.
+    sudadera "I Heart Courage Bagels"). [Madhappy — I Heart Courage Bagels Fleece Hoodie](https://www.madhappy.com/products/i-heart-courage-bagels-fleece-hoodie-fudge)
+  - **Límite honesto:** no hemos encontrado que Courage tenga un lema propio tan
+    codificado como "Nothing Fancy" (Leon's) o "Grip, Rip & Dip" (PopUp); su
+    identidad se apoya más en la historia de origen, la cola y la viralidad
+    orgánica (prensa + redes) que en un sistema de marca tan diseñado.
+
+- **Caso 3 — PopUp Bagels (Connecticut → expansión nacional EEUU), profundizado en
+  v3 (en v1 solo teníamos el dato de expansión comercial):**
+  - **Origen doméstico y comunitario:** fundada en 2020 por Adam Goldberg y Jeff
+    Lewis en Westport (Connecticut); Goldberg empezó experimentando con bagels en
+    su cocina y compartiéndolos con vecinos durante la pandemia — el origen es
+    explícitamente de barrio, no corporativo. [Wikipedia — PopUp Bagels](https://en.wikipedia.org/wiki/PopUp_Bagels)
+  - **Ritual de consumo propio y registrado:** "Grip, Rip & Dip" — coger el bagel
+    entero (sin cortar), abrirlo con las manos y mojarlo en el "schmear". El dato
+    más interesante para el proyecto: el ritual **no lo inventó la marca desde
+    marketing**, nació de un comportamiento real de clientes (gente que paraba el
+    coche y se comía el bagel así, sin esperar a llegar a casa); la marca lo
+    observó, lo bautizó y lo convirtió en marca registrada y en eje de toda su
+    comunicación. [SanDiegoVille — PopUp Bagels Bringing Its "Grip, Rip & Dip" Craze to San Diego](https://www.sandiegoville.com/2025/11/popup-bagels-bringing-its-grip-rip-dip.html) · [AdLab — The Branding Behind The Bagels](https://www.buadlab.com/blog/the-branding-behind-the-bagels-how-popup-bagels-garnered-a-cult-following-in-less-than-five-years)
+  - **Posicionamiento de marca deliberadamente anti-hype:** lema "Not famous, but
+    known" — una narrativa construida a propósito para diferenciarse sin caer en
+    el discurso de "somos virales". [WBRC — 'Not famous, but known': PopUp Bagels](https://www.wbrc.com/2026/08/26/not-famous-known-popup-bagels-brings-unique-atmosphere-fresh-bagels-birmingham/) · [AdLab — The Branding Behind The Bagels](https://www.buadlab.com/blog/the-branding-behind-the-bagels-how-popup-bagels-garnered-a-cult-following-in-less-than-five-years)
+  - **Tienda diseñada para generar contenido:** música techno, empleados
+    bailando, carteles escritos a mano con "Not famous but known", tarrinas de
+    "schmears" de edición limitada, y una pared entera cubierta de fotos de
+    clientes a media mordida ("mid-bagel") — cada detalle pensado para ser
+    fotografiado y compartido. [AdLab — The Branding Behind The Bagels](https://www.buadlab.com/blog/the-branding-behind-the-bagels-how-popup-bagels-garnered-a-cult-following-in-less-than-five-years)
+  - **Escasez y formato "por packs" como generador de ritual y de contenido:**
+    solo se vende por packs (no bagel suelto), lo que fuerza un ritual grupal (se
+    comparte con quien esté al lado) y hace que "cada cliente sea un creador de
+    contenido". [AdLab — The Branding Behind The Bagels](https://www.buadlab.com/blog/the-branding-behind-the-bagels-how-popup-bagels-garnered-a-cult-following-in-less-than-five-years)
+  - **Colaboraciones recurrentes como motor de novedad:** lanzan semanalmente
+    "schmears" de edición limitada con marcas como Oreo, Guinness o Poppi — motor
+    de repetición de visita y de contenido en redes. [AdLab — The Branding Behind The Bagels](https://www.buadlab.com/blog/the-branding-behind-the-bagels-how-popup-bagels-garnered-a-cult-following-in-less-than-five-years)
+  - **Disciplina de producto como parte de la identidad:** normas explícitas de
+    no vender nunca un bagel frío o que no tenga buen aspecto, regalándolo si no
+    cumple el estándar — la calidad percibida es parte del "culto" a la marca.
+    [AdLab — The Branding Behind The Bagels](https://www.buadlab.com/blog/the-branding-behind-the-bagels-how-popup-bagels-garnered-a-cult-following-in-less-than-five-years)
+  - **Nota de expansión comercial (ya documentada en v1, contexto):** inversores
+    conocidos (Paul Rudd, JJ Watt, Michael Strahan, Michael Phelps, Patrick
+    Schwarzenegger, el productor John Davis), 9,5 M$ captados en dos rondas semilla
+    (2022-2023), comprada por la firma de capital crecimiento Stripes en 2023, con
+    acuerdos firmados para 300 locales y valoración de referencia de ~300 M$
+    (Tiger Global). Lo incluimos como contexto de escala, no como palanca de
+    identidad. [Franchise Times — PopUp Bagels Targets Big Growth](https://www.franchisetimes.com/popup-bagels-targets-big-growth-with-pe-owner-celebrity-investors/article_ef9d765a-c544-4f06-9100-768867552fc9.html) · [FranchiseWire — Tiger Global Invests in PopUp Bagels](https://www.franchisewire.com/tiger-global-invests-in-popup-bagels-valued-at-300m/) · [NRN — How PopUp Bagels went from a home kitchen to celebrity-funded](https://www.nrn.com/regional-chains/how-popup-bagels-went-from-a-home-kitchen-to-being-funded-by-paul-rudd-michael-phelps-michael-strahan-and-jj-watt)
+
+- **Patrón común entre los tres casos (Leon's, Courage, PopUp) — el hallazgo más
+  útil para el proyecto:** más allá de cada detalle individual, los tres casos
+  comparten un mismo mecanismo de construcción de "club" sin depender de tener
+  sala ni programación de eventos:
+  1. **Ritual de consumo propio, no genérico** — "Nothing Fancy" como filosofía
+     de marca en Leon's, "Grip, Rip & Dip" como verbo registrado en PopUp, la cola
+     de fin de semana como ritual explícito en Courage. En los tres, comer el
+     producto se convierte en un gesto reconocible con nombre o forma propia, no
+     en un consumo anónimo.
+  2. **Escasez o cola usada como mecanismo social**, no como un problema a
+     resolver: Leon's cultiva "cultura de cola", Courage convierte esperas de
+     hasta 90 minutos en orgullo local, PopUp fuerza el formato "por packs" y
+     alimenta deliberadamente la exclusividad y la anticipación.
+  3. **Estética muy reconocible y diseñada para fotografiarse/compartirse**:
+     tartán verde consistente en Leon's, viralidad orgánica en redes/prensa en
+     Courage, pared de fotos de clientes y carteles hechos a mano en PopUp. En los
+     tres, la experiencia está pensada (a propósito o por cómo se ha cultivado)
+     para generar contenido que el propio cliente comparte.
+  4. **Colaboraciones recurrentes con otras marcas** como motor de novedad y
+     comunidad: Leon's con Tony's Chocoloney/Mercury/Oh Polly/Beauty of
+     Joseon/Better Days, Courage con Madhappy & Friends (Jon & Vinny's, The Apple
+     Pan), PopUp con lanzamientos semanales de schmear junto a Oreo/Guinness/Poppi.
+  5. **Historia de origen personal y sencilla como narrativa de autenticidad**:
+     el abuelo de Leon, el valor de "coraje" de Arielle en Courage, el hobby
+     doméstico compartido con vecinos de Goldberg en PopUp — los tres evitan una
+     narrativa corporativa y apuestan por una historia humana y pequeña.
+  6. **Producto ancla simple y limitado** (básicamente "solo bagels", pocas
+     variantes) que hace posible sostener ese ritual y esa identidad sin
+     dispersarse en una carta amplia.
+  - **Lectura para el proyecto:** ninguna de estas seis palancas depende de tener
+    sala o asientos — todas son compatibles con un formato take-away/ventanilla.
+    Es la base más sólida y transferible para diseñar "el club" de The Green
+    Society en Fase B: ritual propio (para bagel y/o para el cóctel sin alcohol),
+    gestión de cola/escasez como activo social, estética fotografiable, agenda de
+    colaboraciones, y una historia de origen personal (la propia historia real de
+    la pareja fundadora organizando comunidad).
+  - **Límite honesto de los tres casos:** los tres operan en mercados (NYC, LA,
+    costa Este de EEUU) con una cultura de "hype", colas y consumo de contenido
+    de comida mucho más intensa que la que tenemos evidencia de que exista en
+    Barcelona. Los usamos como inspiración de mecanismos transferibles, no como
+    prueba de que el mismo nivel de fenómeno viral se replicaría aquí.
 
 - **Café de especialidad — tensión y oportunidad específica de la zona:** la zona
   ya tiene café de especialidad (punto 1), pero fragmentado en formatos que no
@@ -219,8 +315,8 @@ conocimiento local de Andrea**, no como un hecho cerrado.
   café de especialidad + sobriedad premium (cócteles sin alcohol) + comunidad/club
   construida vía identidad de marca y ritual (no vía mobiliario) — todo ello dentro
   de un formato take-away que sí tiene respaldo de tendencia de mercado
-  (grab-and-go, walk-up window) y un caso de referencia directo (Leon's Bagels)
-  sobre cómo construir club sin depender de la sala.
+  (grab-and-go, walk-up window) y tres casos de referencia (Leon's, Courage, PopUp)
+  con un patrón común documentado sobre cómo construir club sin depender de la sala.
 
 ## 6. Competencia directa
 
@@ -239,6 +335,35 @@ alcohol como propuesta central. Sobre café de especialidad específicamente: la
 zona no está vacía, pero sí fragmentada por formato (ver punto 5). **Recordatorio
 de limitación:** esta tabla no sustituye un mapeo geolocalizado exacto — procede de
 búsqueda web por calle/barrio, no de Maps.
+
+### Precios de carta — café de especialidad de la zona (nuevo en v3)
+
+Andrea pidió los precios de carta de los cinco negocios de café de especialidad
+identificados arriba. **Resultado honesto: no hemos encontrado, para ninguno de
+los cinco, una carta oficial con precios por artículo publicada por el propio
+negocio** (ni en sus webs — varias no muestran precios — ni en agregadores que
+permitieran extraer cifra exacta por bebida; algunos agregadores como
+RestaurantGuru y Uber Eats existen pero requieren introducir una dirección de
+entrega o no listan el desglose en los resultados de búsqueda disponibles). Lo que
+sí hemos encontrado son **indicadores de rango agregados por reseñas de terceros**
+(gasto medio por persona, no precio de bebida individual), que marcamos
+explícitamente como **pista no verificada**, no como precio de carta real:
+
+| Negocio | Precio de carta verificado | Pista no verificada (rango de gasto por reseñas) |
+|---|---|---|
+| El Cafè de les Paraules | No encontrado | Brunch ~10-20€/persona; desayuno/café ~1-10€/persona, descrito como "precios de ganga" en reseñas. [RestaurantGuru](https://restaurantguru.com/Cafe-De-Les-Paraules-Barcelona) · [Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g187497-d14035142-Reviews-Cafeteria_Paraules-Barcelona_Catalonia.html) |
+| On y va | No encontrado | ~10-20€/persona según reseñas; el café se describe como "muy bueno y a buen precio", sin cifra. [Tripadvisor — On y va Coffee](https://www.tripadvisor.com/Restaurant_Review-g187497-d10637022-Reviews-On_y_va_Coffee-Barcelona_Catalonia.html) |
+| Morrow Coffee | No encontrado | ~1-10€/persona según reseñas recientes; una fuente de 2017 (desactualizada, no fiable para 2026) citaba 5-8€/persona. [RestaurantGuru](https://restaurantguru.com/Morrow-Coffee-Barcelona) · [Justbefoodie, 2017](https://justbefoodie.com/morrow-coffee-barcelona-una-cafeteria-con-micro-tostador/) |
+| Starbucks Francesc Macià | No encontrado (no hemos podido acceder a la carta oficial de starbucks.es ni a un desglose por tienda de Barcelona) | Agregador no oficial (bestcafemolido.com) sitúa espresso/café solo en ~2,10-2,70€ y un latte grande con leche vegetal y sirope acercándose a 5,50-6€; la misma fuente compara con un café con leche de bar tradicional español (~1,30-2€), lo que sugiere que Starbucks se posiciona claramente por encima del bar de barrio — **cifra de fuente secundaria, no de la carta oficial**. [bestcafemolido.com — Precios Café Starbucks España](https://www.bestcafemolido.com/precios-cafe-starbucks-espana) |
+| Austral Coffee Bar | No encontrado | ~1-10€/persona (brunch) según reseñas agregadas. [RestaurantGuru — Austral Coffee Bar](https://restaurantguru.com/Austral-Barcelona) |
+
+**Conclusión honesta sobre precios:** no podemos afirmar con datos verificados si
+el proyecto estaría posicionado por encima, en línea o por debajo del café de
+especialidad de la zona. Los rangos de "gasto por persona" encontrados son
+demasiado amplios y poco fiables (agregación de reseñas, no carta) para fijar un
+precio de referencia. **Recomendamos verificar precios en persona o pedir la carta
+directamente a estos negocios antes de fijar el pricing del pilar de café** — no
+es algo que se pueda cerrar con investigación online en esta fase.
 
 ## 7. Competencia indirecta
 
@@ -262,63 +387,92 @@ Tarradelles 58 el café de especialidad ya existe, pero repartido entre formatos
 que no se solapan (bistró cultural, micro-tostadero con sala, cadena, gran cadena
 convencional). El hueco potencial — café de especialidad + formato ágil + marca
 reconocible — es más modesto y más local que el del bagel/cócteles, y **necesita
-validación con visita física** antes de darlo por confirmado.
+validación con visita física** antes de darlo por confirmado. Sobre precios, no
+tenemos datos fiables de la zona (ver punto 6) para saber si ese hueco es también
+un hueco de precio o solo de formato/marca.
 
-## 9. Oportunidad y dirección estratégica
+## 9. Síntesis de oportunidad y dirección estratégica (reescrito en v3)
 
-Construir el concepto alrededor de **"el club"** (tal como propuso Andrea) antes de
-cerrar producto o nombre: la tendencia de mercado (Third Place 2.0) premia
-pertenencia y ritual por encima del producto en sí. La corrección de esta fase es
-importante para la ejecución: **el club se construye con identidad de marca y
-ritual (caso de referencia: Leon's Bagels NYC — estética consistente, lema,
-merchandising, colaboraciones/eventos), no con mobiliario de exterior.** La grada
-es una decisión de diseño de espacio a resolver en Fase C, independiente de esto.
+Esto no es investigación nueva: es la lectura conjunta de todo lo anterior (v1 +
+v2 + v3), ordenada por prioridad para que se pueda decidir sin releer todo el
+documento.
 
-El nombre "The Green Society" tiene un riesgo documentado de asociación con
-cannabis — se recomienda tratarlo como nombre de trabajo, no definitivo, y
-decidirlo en la Fase B junto con el resto de la plataforma de marca.
+**Oportunidad 1 (la más sólida, prioridad alta): construir "el club" con
+identidad de marca y ritual, no con mobiliario.**
+Es la corrección más importante de todo el proceso y la que más impacto tiene en
+Fase B. Está respaldada por tendencia de mercado (Third Place 2.0) y por un
+patrón repetido en tres casos reales (Leon's Bagels, Courage Bagels, PopUp
+Bagels — punto 5): ritual de consumo propio, cola/escasez como activo social,
+estética fotografiable, colaboraciones recurrentes e historia de origen
+personal. Ninguna de estas palancas requiere sala ni asientos — son
+directamente aplicables a un formato take-away. La grada queda fuera de esta
+decisión: es diseño de espacio, se resuelve en Fase C.
 
-Sobre el café de especialidad: la dirección recomendada es investigar in situ la
-oferta exacta de la manzana antes de fijar el posicionamiento de este pilar de
-producto, ya que la investigación online tiene un límite claro de cobertura en esta
-fase.
+**Oportunidad 2 (sólida, prioridad alta): el cruce bagel + café de especialidad +
+cóctel sin alcohol no existe hoy en Barcelona.**
+No hemos encontrado ningún competidor, ni en la zona ni en la ciudad, que combine
+estos tres ejes. Es un hueco de producto real, no solo una intuición del cliente,
+y coincide con tendencias de fondo (bagel como marca en EEUU, zero-proof como
+categoría consolidada, grab-and-go asentado).
 
-## Para decidir en el GATE 1
+**Oportunidad 3 (moderada, prioridad media, pendiente de validar in situ): café
+de especialidad ágil + con marca, en una zona donde el café de especialidad ya
+existe pero está fragmentado por formato.**
+El hueco es real pero más modesto que el de las oportunidades 1 y 2, y depende de
+dos validaciones que la investigación online no puede cerrar: (a) visita física a
+la manzana para confirmar que no hay un competidor directo que se nos escape, y
+(b) precios reales de carta de la competencia (punto 6), que no hemos podido
+verificar — solo tenemos rangos de gasto por persona de reseñas, poco fiables
+para fijar pricing.
+
+**Riesgo a resolver en paralelo, no una oportunidad:** el nombre "The Green
+Society" coincide con una marca de cannabis activa (Vancouver). No bloquea la
+oportunidad de producto ni de club, pero sí debe tratarse como nombre de trabajo
+y resolverse en Fase B.
+
+**En una frase para Andrea:** la oportunidad más clara y accionable ahora mismo es
+construir la marca alrededor del club (ritual + escasez + estética + colaboraciones
++ historia de origen, sin depender de la sala) y del cruce bagel + café +
+sobriedad premium, dejando el pricing del pilar de café y el nombre definitivo
+como los dos frentes que necesitan más trabajo antes de cerrar Fase B.
+
+## Para decidir en el GATE 1 (actualizado v3)
 
 - **Qué hemos encontrado:**
   1. Un hueco de mercado real en Barcelona en el cruce bagel + sobriedad premium +
      comunidad, y un riesgo documentado con el nombre actual.
   2. El formato take-away/grab-and-go tiene respaldo claro de tendencia de mercado.
-  3. **Corrección clave:** el "club"/comunidad no se construye con la grada
-     (diseño de espacio, Fase C) sino con identidad de marca y ritual — con
-     Leon's Bagels (NYC) como caso de referencia documentado (estética, lema,
-     merch, colaboraciones/pop-ups).
-  4. Sobre café de especialidad: en la manzana y calles cercanas a Tarradelles 58
-     ya hay oferta (El Cafè de les Paraules en la misma avenida, On y va, Morrow
-     Coffee, Starbucks, Austral Coffee Bar más alejado), pero fragmentada por
-     formato — no hemos encontrado un actor que combine especialidad + agilidad +
-     marca fuerte en esa zona concreta.
-- **Oportunidad que proponemos:** construir la identidad desde "el club"
-  (pertenencia, rituales, código cultural, inspirado en mecanismos de Leon's
-  Bagels) antes que desde el producto o el nombre — y tratar la grada como un tema
-  de diseño de espacio totalmente aparte, a resolver en Fase C. Para el café de
-  especialidad, la oportunidad es ocupar el hueco de "especialidad + rapidez +
-  marca", pendiente de confirmación local.
+  3. **El "club" se construye con identidad de marca y ritual, no con mobiliario
+     (grada = Fase C).** Ahora con tres casos documentados (Leon's Bagels, Courage
+     Bagels, PopUp Bagels) y, sobre todo, con un **patrón común transferible entre
+     los tres**: ritual de consumo propio, cola/escasez como mecanismo social,
+     estética fotografiable, colaboraciones recurrentes e historia de origen
+     personal — ninguno depende de tener sala.
+  4. Sobre café de especialidad: la zona ya tiene oferta (El Cafè de les Paraules,
+     On y va, Morrow, Starbucks, Austral, más alejado), fragmentada por formato,
+     pero **no hemos podido verificar precios de carta reales de ninguno de los
+     cinco** — solo rangos de gasto por persona de reseñas de terceros, marcados
+     explícitamente como no verificados.
+- **Oportunidad que proponemos (priorizada):**
+  1. Construir la identidad desde "el club" (patrón Leon's/Courage/PopUp) antes
+     que desde el producto o el nombre.
+  2. Ocupar el cruce bagel + café de especialidad + cóctel sin alcohol, hueco no
+     cubierto en Barcelona.
+  3. Café de especialidad ágil + con marca como tercer pilar, pendiente de
+     validación física y de pricing local.
 - **Qué le falta validar a Andrea:**
-  1. Si esta lectura del mercado (incluida la corrección del club/grada) encaja
-     con lo que ella conoce de primera mano del barrio y del cliente.
-  2. Si el mecanismo de Leon's Bagels (identidad visual, merch, colaboraciones,
-     ritual) es el tipo de referencia que quiere llevar a Fase B, o si prefiere
-     otras palancas de club/comunidad.
-  3. **Validación física pendiente e importante:** no hemos podido mapear la zona
-     con Google Maps ni con un listado geolocalizado exacto — todo lo relativo a
-     café de especialidad en la zona concreta viene de búsqueda web por calle y
-     barrio. Recomendamos una visita a la manzana de Tarradelles 58 antes de cerrar
-     el mapa de competencia y el posicionamiento del pilar de café.
-  4. La tensión entre la caracterización "poder adquisitivo medio-alto" (Wikipedia,
-     v1) y el perfil más de "primera vivienda/familias" que describen fuentes
-     inmobiliarias para Nova Esquerra de l'Eixample (Idealista, Enalquiler) —
-     Andrea puede resolver esto con conocimiento directo del barrio.
-  5. Si quiere que profundicemos más en el pilar de café de especialidad (por
-     ejemplo, precios de carta de los competidores encontrados, que no hemos
-     podido verificar en esta fase) antes del GATE 1.
+  1. Si el patrón común de los tres casos de bagel (ritual, cola/escasez,
+     estética, colaboraciones, historia de origen) es el tipo de mecanismo que
+     quiere llevar a Fase B para "el club" de The Green Society, o si prefiere
+     dar más peso a unas palancas que a otras.
+  2. Si esta lectura del mercado encaja con lo que ella conoce de primera mano
+     del barrio y del cliente.
+  3. **Validación física pendiente e importante (repetida de v2, sigue abierta):**
+     no hemos podido mapear la zona con Google Maps ni verificar precios de carta
+     reales de la competencia de café — todo lo relativo a precios en el punto 6
+     viene de rangos de reseñas, no de cartas oficiales. Recomendamos visita a la
+     manzana de Tarradelles 58 y, si es posible, pedir carta/precio directamente a
+     estos cinco negocios antes de cerrar el pricing del pilar de café.
+  4. Si quiere que sigamos afinando el pilar de café de especialidad (por ejemplo,
+     con una llamada o visita para obtener precios reales) antes del GATE 1, dado
+     que la investigación online tiene un límite claro de cobertura en este punto.
