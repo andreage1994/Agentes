@@ -25,12 +25,17 @@
 ## Fases del flujo
 
 - [x] **Fase A · Investigación de mercado** — v3 (2026-09-15), ver
-      `fase-a-investigacion-mercado.md`. Además, catálogo aparte de referencias de
-      "comunidad sin sala" en `referencias-casos-comunidad.md` (8 mecanismos:
-      running/cycling clubs, pop-ups de marca, merchandising, community events,
-      comunidad digital, drops/ediciones limitadas, memberships, colaboraciones
-      wellness/moda/música/arte), pendiente de que Andrea elija cuáles llevar a
-      la Fase B.
+      `fase-a-investigacion-mercado.md`. Además:
+      - `referencias-casos-comunidad.md`: catálogo de 8 mecanismos de "comunidad
+        sin sala" (running/cycling clubs, pop-ups de marca, merchandising,
+        community events, comunidad digital, drops, memberships, colaboraciones
+        wellness/moda/música/arte), pendiente de que Andrea elija cuáles usar.
+      - `habitos-consumo.md`: estudio de hábitos de consumo en 9 áreas (café en
+        España/Barcelona, desayuno/lunch fuera de casa, grab&go, healthy/wellness,
+        bagels, bebidas sin alcohol, Gen Z/Millennials, frecuencia/ticket,
+        estudios sectoriales), cada dato etiquetado como dato general / evidencia
+        local / inferencia. El punto de Gen Z/Millennials es investigación
+        general, no validación del target (target aún sin confirmar).
 - [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente de tu respuesta
 - [ ] **Fase B · Plataforma de Marca** — **BLOQUEADA**: falta que el cliente responda
       el cuestionario de kick-off (`plantillas/cuestionario-kickoff.md`). Sin sus
