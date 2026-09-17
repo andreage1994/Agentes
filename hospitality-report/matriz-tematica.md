@@ -49,6 +49,12 @@ cada capítulo.
 | Mintel, "2026 Global Consumer Predictions" | 2026 | Déficit de afecto | La gente se refugia en burbujas autocontenidas, prioriza eficiencia (autopago, apps, check-in sin contacto) sobre interacción casual. Oportunidad de marca: reintroducir conexión humana genuina. |
 | Mintel, "2026 Global Consumer Predictions" | 2026 | Dato — automatización en restauración | 75% de comensales en Brasil interesado en pedir por tablet/móvil sin interacción humana. |
 | Mintel, "2026 Global Consumer Predictions" | 2026 | Dato — fatiga de autopago | 56% de compradores en EEUU valora positivamente el autopago. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 (fecha exacta no especificada) | Peso económico de la Gen Z | Gen Z representa una cuarta parte de la población mundial y su poder de gasto global se proyecta en 12 billones de dólares (trillion USD) para 2030 — segmento de consumo cada vez más determinante para F&B. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Gen Z como motor de tendencias, vía TikTok | 71% de la Gen Z en EEUU se declara entusiasmada con nuevas tendencias de comida y bebida; 70% usa TikTok como fuente de recomendaciones alimentarias — la plataforma social, no la crítica especializada, marca el descubrimiento. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Prioridades de gasto | 38% de la Gen Z en EEUU/UK prioriza el gasto en groceries (compra de alimentación) frente a otras categorías de consumo. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Comida como palanca de bienestar emocional | 79,4% de la Gen Z en EEUU cree que la comida y bebida impactan significativamente en su bienestar emocional — la elección alimentaria se vive como cuidado personal, no solo nutrición. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Socializar en casa antes que salir | 82% de los jóvenes bebedores británicos prefiere comprar alcohol para socializar en casa antes que salir — cambia el lugar del consumo social, no necesariamente las ganas de socializar. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Consumo de alcohol Gen Z — ligero repunte | En EEUU, el porcentaje de Gen Z abstemia bajó de 47% (2023) a 45% (2024) — leve repunte del consumo tras años de narrativa de caída generalizada. *(Nota: no he podido verificar esta cifra exacta con una segunda fuente independiente; una búsqueda propia sí encontró cifras de abstinencia Gen Z en rango similar —45-47%— pero referidas a 2022-2023 según otra fuente, y varios medios recientes confirman de forma independiente la tesis general de "Gen Z bebiendo más" en 2025-2026, aunque con cifras distintas — ver The Drinks Business, dic 2025, "Could Gen Z be giving up on abstinence?" y Newsweek, "Gen Z Is Drinking More Alcohol".)* |
 
 ## 06. FOOD & DRINK
 
@@ -62,6 +68,12 @@ cada capítulo.
 | Gluttonomy, "Food & Beverage Trends 2026" | 2026 | Indulgencia asequible | El consumidor no renuncia al placer, lo reduce de tamaño: cafés premium, salsas artesanales, chocolate de autor. El café se consolida como lujo asequible ligado a ritual. |
 | National Restaurant Association, "What's Hot in 2026" | dic 2025 | Bebidas más saludables y funcionales | Top 5 tendencias de bebida: energéticas bajas/sin azúcar, espirituosos de proximidad, low/no alcohol (Gen Z/millennials), fermentados gut-friendly, hidratación personalizada. Hilo común: personalización + autenticidad + salud. |
 | EHL, "Hospitality Outlook Report 2026" | 27 nov 2025 | El futuro de la comida | Comida como expresión de identidad cultural, no solo nutrición. Trazabilidad por blockchain y sous-vide como transformación tecnológica del "cómo se hace". |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Dirección de producto — Third-space feels | Productos y formatos pensados para fomentar comunidad e interacción social en casa — respuesta directa a que el consumo social se desplaza del "fuera" al "dentro". |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Dirección de producto — Food's fun era | Humor y diversión como eje de la oferta de comida y bebida, alejándose del posicionamiento serio/aspiracional. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Dirección de producto — Cosy core | Opciones reconfortantes y acogedoras como respuesta emocional, no solo gastronómica. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Dirección de producto — Fresh flex | Conveniencia fresca posicionada como lujo accesible — lo fresco y rápido deja de ser "básico" para venderse como aspiracional. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Dirección de producto — Lighter party mode | Bebidas festivas con menos alcohol — moderación sin renunciar al ritual de la fiesta. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Dirección de producto — Powered by pop | Refrescos con ingredientes energizantes y sabores complejos — cruce entre funcionalidad y indulgencia sensorial. |
 
 ## 07. BUSINESS OF HOSPITALITY
 
@@ -102,6 +114,7 @@ Espacio para preguntas abiertas/provocadoras candidatas a cerrar el capítulo.
 | Visión por computador para detectar defectos/contaminación de alimentos | Pilotos citados en Deloitte | IA aplicada a seguridad alimentaria, no solo a experiencia de cliente — ángulo poco explotado. | Deloitte, jun 2025 |
 | RoboCake (robot comestible) | Laboratorio experimental de EHL | Prueba de concepto robótica+gastronomía+provocación creativa. | EHL, nov 2025 |
 | Economía de la experiencia inmersiva (AR/VR, storytelling, diseño sensorial) | Una de las 5 grandes tendencias de EHL | Hoteles/restaurantes como "arquitectos de experiencias" — incipiente pero ya en la conversación estratégica. | EHL, nov 2025 |
+| "Powered by pop" — refrescos energizantes de sabor complejo | Una de las 6 direcciones de producto de WGSN | Cruce funcionalidad + indulgencia sensorial en bebidas sin alcohol, categoría en construcción. | WGSN, ed. 2026/27 |
 
 ## 11. CLOSING — HOSPITALITY NEVER STANDS STILL
 
@@ -152,6 +165,25 @@ los "insights nuevos" del reporte que son refuerzos mutuos, no contradicciones.
   Coca-Cola documenta con datos duros (precio real +26% desde 2020) el mismo
   fenómeno que Gluttonomy describe como comportamiento (pequeños lujos) — dos
   sectores distintos confirmando lo mismo desde ángulos complementarios.
+- **El "tercer espacio" se muda a casa (nuevo, vía WGSN):** Mintel ("déficit de
+  afecto", la gente evita interacción casual pero busca conexión) + Heineken "Bar
+  Dating" (una marca intentando reactivar la vida social) + WGSN ("third-space
+  feels": productos para fomentar comunidad en casa, y el dato de que 82% de
+  jóvenes bebedores británicos prefiere socializar en casa antes que salir) apuntan
+  al mismo fenómeno desde tres ángulos distintos: el deseo de conexión social no
+  desaparece, pero el "tercer espacio" tradicional (el bar, el restaurante) pierde
+  el monopolio de dónde ocurre. Para TBNB (un negocio que vive de que la gente
+  salga de casa), esto es más relevante que una simple curiosidad de consumo —
+  candidato a **03. THE SHIFTS** o **05. GUEST CULTURE**.
+- **Moderación como tercera vía entre "todo o nada" (nuevo, vía WGSN + NRA):** NRA
+  sitúa el low/no alcohol como tendencia fuerte de bebida 2026 (Gen Z/millennials);
+  WGSN aporta "lighter party mode" (bebidas festivas con menos alcohol, no cero) y
+  el dato de que la abstinencia Gen Z en EEUU bajó ligeramente (47%→45%,
+  2023→2024). Dos fuentes de ángulos distintos (asociación sectorial de
+  restauración en EEUU vs. consultora de tendencias de consumo) refuerzan la
+  misma lectura matizada: no se trata de una fuga masiva del alcohol, sino de un
+  desplazamiento hacia el consumo moderado/ritualizado — ver también la tensión
+  nº4 actualizada más abajo.
 
 ## Tensiones y contradicciones detectadas (revisión cruzada)
 
@@ -208,9 +240,26 @@ contradicen o tensionan. Son hipótesis a validar, no conclusiones cerradas.
   fuertes de 2026, sobre todo Gen Z/millennials.
 - **Idea B (Gluttonomy):** el regreso del steakhouse se apoya en cócteles
   clásicos (martinis) como parte central de la experiencia.
-- **Reflexión:** puede tratarse de segmentos u ocasiones distintas (steakhouse
-  como refugio de quien sí bebe, frente a caída del consumo cotidiano) — conviene
-  no presentar ambos datos sin matizarlo.
+- **Idea C, nueva (WGSN):** en EEUU, la abstinencia de Gen Z bajó ligeramente
+  (47% en 2023 → 45% en 2024) y 82% de los jóvenes bebedores británicos prefiere
+  comprar alcohol para socializar en casa antes que salir. WGSN incluye además
+  "lighter party mode" (bebidas festivas con *menos* alcohol, no necesariamente
+  cero) como una de sus 6 direcciones de producto.
+- **Reflexión (hipótesis, no cerrada):** el dato C no contradice A, lo matiza: no
+  parece una caída generalizada del consumo, sino un cambio de *dónde* se bebe
+  (de fuera a casa) y *cómo* se bebe (moderado/ritualizado en vez de abstinencia
+  total o consumo alto). El low/no alcohol de NRA y el "lighter party mode" de
+  WGSN podrían ser la misma tendencia de moderación vista desde dos fuentes
+  distintas, mientras que el ligero repunte de consumo (menos abstemios) sugiere
+  que "sobriedad" y "consumo moderado" no son sinónimos — conviene distinguirlos
+  al redactar. Sigue habiendo una pregunta abierta genuina: si el consumo social
+  se desplaza a casa, ¿qué pierde el bar/restaurante como ocasión de consumo de
+  alcohol, y qué puede ofrecer para recuperarla (el ángulo "third-space feels" de
+  WGSN apunta a una posible respuesta)? *(Nota de verificación: la cifra 47%→45%
+  no está corroborada por mí con una segunda fuente independiente exacta; sí hay
+  corroboración direccional independiente del fenómeno general "Gen Z bebiendo
+  más" en fuentes de prensa especializada de finales de 2025 — ver The Drinks
+  Business y Newsweek.)*
 
 ### 5. Precio — resistencia vs. disposición a pagar más
 
