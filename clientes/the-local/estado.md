@@ -1,8 +1,10 @@
-# Estado del proyecto — The Green Society
+# Estado del proyecto — The Local
 
+**Nombre anterior del proyecto:** "The Green Society" — renombrado el 2026-09-17
+por decisión de los fundadores.
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture)
 **Flujo:** `concepto-narrativa-marca`
-**Última actualización:** 2026-09-15
+**Última actualización:** 2026-09-17
 
 ## Resumen del proyecto
 
@@ -15,8 +17,11 @@
   recientemente). De ahí surgió el nombre provisional "The Green Society".
 - Ideas sueltas de producto: bagels, cócteles sin alcohol.
 - Ubicación: Avinguda Josep Tarradelles 58, Barcelona.
-- Nombre "The Green Society": **posible riesgo de asociación con cannabis** — a validar
-  en la Fase B (Plataforma de Marca), no hay que decidir nombre todavía.
+- **Cambio de nombre (2026-09-17):** los fundadores han decidido llamar al
+  proyecto **"The Local"**, dejando atrás "The Green Society" — coherente con
+  el riesgo de asociación con cannabis que ya detectamos en la Fase A (ver
+  `fase-a-investigacion-mercado.md`, sección 5). El nombre queda ahora
+  cerrado, no es necesario revisitarlo en la Fase B.
 - Andrea ya exploró 4 rutas de naming/posicionamiento (ver notas) y propone un ejercicio
   de "construir El Club" (pertenencia, rituales, código cultural) antes de cerrar nombre.
 - Referencias de inspiración aportadas por el cliente/Andrea: PopUp Bagels, Leo's Bagels

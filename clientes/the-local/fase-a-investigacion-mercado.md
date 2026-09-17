@@ -1,4 +1,4 @@
-# Fase A · Investigación de Mercado — The Green Society (nombre provisional)
+# Fase A · Investigación de Mercado — The Local (antes "The Green Society")
 
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture)
 **Ubicación del proyecto:** Avinguda Josep Tarradelles 58, Barcelona
@@ -211,6 +211,10 @@ contenido) más que motivaciones de fondo — útiles para el "cómo", no para e
   dispensario de cannabis por correo con sede en Vancouver (Canadá), activo y con
   presencia online. No es solo una percepción: es una marca real con ese nombre
   exacto. [Green Society Canada](https://greensocietycanada.com/) · [Cannabis Monster — Green Society brand](https://www.cannabismonster.com/brand/green-society-390)
+
+  **✅ Resuelto (2026-09-17):** los fundadores han decidido renombrar el
+  proyecto a **"The Local"**, dejando atrás este riesgo. El nombre queda
+  cerrado a partir de aquí.
 
 - **Corrección importante de Andrea sobre el "club" (v2):** en la v1 de este
   documento se presentaba la grada/plantero (asientos exteriores) como un intento
@@ -482,22 +486,23 @@ la manzana para confirmar que no hay un competidor directo que se nos escape, y
 verificar — solo tenemos rangos de gasto por persona de reseñas, poco fiables
 para fijar pricing.
 
-**Riesgo a resolver en paralelo, no una oportunidad:** el nombre "The Green
-Society" coincide con una marca de cannabis activa (Vancouver). No bloquea la
-oportunidad de producto ni de club, pero sí debe tratarse como nombre de trabajo
-y resolverse en Fase B.
+**Riesgo ya resuelto:** el nombre "The Green Society" coincidía con una marca de
+cannabis activa (Vancouver). Los fundadores han decidido renombrar el proyecto
+a **"The Local"** (2026-09-17) — el riesgo queda cerrado, no hace falta
+resolverlo en Fase B.
 
 **En una frase para Andrea:** la oportunidad más clara y accionable ahora mismo es
 construir la marca alrededor del club (ritual + escasez + estética + colaboraciones
 + historia de origen, sin depender de la sala) y del cruce bagel + café +
-sobriedad premium, dejando el pricing del pilar de café y el nombre definitivo
-como los dos frentes que necesitan más trabajo antes de cerrar Fase B.
+sobriedad premium, dejando el pricing del pilar de café como el frente que
+todavía necesita más trabajo antes de cerrar Fase B.
 
 ## Para decidir en el GATE 1 (actualizado v3)
 
 - **Qué hemos encontrado:**
   1. Un hueco de mercado real en Barcelona en el cruce bagel + sobriedad premium +
-     comunidad, y un riesgo documentado con el nombre actual.
+     comunidad. El riesgo que detectamos con el nombre "The Green Society" ya
+     se ha resuelto: el proyecto se llama ahora **"The Local"**.
   2. El formato take-away/grab-and-go tiene respaldo claro de tendencia de mercado.
   3. **El "club" se construye con identidad de marca y ritual, no con mobiliario
      (grada = Fase C).** Ahora con tres casos documentados (Leon's Bagels, Courage
@@ -520,7 +525,7 @@ como los dos frentes que necesitan más trabajo antes de cerrar Fase B.
 - **Qué le falta validar a Andrea:**
   1. Si el patrón común de los tres casos de bagel (ritual, cola/escasez,
      estética, colaboraciones, historia de origen) es el tipo de mecanismo que
-     quiere llevar a Fase B para "el club" de The Green Society, o si prefiere
+     quiere llevar a Fase B para "el club" de The Local, o si prefiere
      dar más peso a unas palancas que a otras.
   2. Si esta lectura del mercado encaja con lo que ella conoce de primera mano
      del barrio y del cliente.

@@ -1,4 +1,4 @@
-# Catálogo de referencias — Mecanismos de comunidad sin sala (The Green Society)
+# Catálogo de referencias — Mecanismos de comunidad sin sala (The Local)
 
 **Nota:** este documento es un catálogo de referencias en bruto, encargado por
 Andrea para ampliar el abanico de ejemplos reales más allá de los tres casos de
