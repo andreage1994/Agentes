@@ -33,6 +33,8 @@ Gmail, Google Calendar, Google Drive, Asana (gestión de proyectos y leads), Odo
 - `clientes/` — una subcarpeta por cliente activo.
 - `prospectos/` — posibles clientes en estudio.
 - `plantillas/` — propuestas, informes y emails modelo.
+- `hospitality-report/` — proyecto editorial semestral de posicionamiento de marca
+  (ver `hospitality-report/BRIEF.md`).
 - `TAREAS.md` — pendientes.
 - `GUIA.md` — manual de aprendizaje de Andrea sobre este sistema.
 - `.claude/skills/` y `.claude/agents/` — recetas y especialistas de Claude Code.
