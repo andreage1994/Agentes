@@ -67,10 +67,41 @@ fecha que aparecía cerca del bloque del 7 de octubre). Nos quedamos con esta
 como versión única y más completa del mes; la otra queda retirada, no se
 publica por separado.
 
-**PENDIENTE DE REDACCIÓN FINAL — director-redaccion.** La fusión de las dos
-versiones (elegir los mejores fragmentos de cada una y unificar el ángulo) es
-trabajo de redacción, no de calendario — no se inventa aquí el copy
-definitivo.
+**Formato: carrusel editorial.**
+
+**Slide 1 (portada)**
+> Tu escandallo no sirve solo para saber cuánto cuesta un plato.
+
+**Slide 2**
+> Escandallar es medir.
+
+**Slide 3**
+> Decidir qué se queda en la carta es otra cosa.
+
+**Slide 4**
+> Plato A.
+> Food cost 20%. PVP 10€.
+> Margen: 8€.
+
+**Slide 5**
+> Plato B.
+> Food cost 30%. PVP 20€.
+> Margen: 14€.
+
+**Slide 6**
+> B tiene peor food cost.
+> Y deja casi el doble de margen.
+
+**Slide 7**
+> El food cost mide un plato.
+> El margen paga el alquiler.
+
+**Slide 8 (cierre)**
+> ¿Estás vendiendo el plato con mejor food cost, o el que más te deja?
+
+**Caption:**
+> El food cost te dice cuánto cuesta hacer un plato. No te dice si deberías
+> venderlo. Guarda esto antes de tocar la carta.
 
 > 🟢 **Hueco liberado:** el slot sin fecha que antes ocupaba la versión
 > duplicada del escandallo queda libre y disponible para asignar otro
@@ -108,17 +139,46 @@ margen × popularidad (menu engineering aplicado a decisiones de carta).
 pieza en vídeo del mes; cierra el hueco de formato que señaló la revisión
 (cero reels en la hoja original).
 
-**Concepto propuesto** (a definir/cerrar por `director-redaccion`): clips
-cortos de barra y cocina en plena preparación de servicio — mise en place,
-manos trabajando el producto, apertura de barra — con voz en off o texto en
-pantalla, ritmo pausado y cinematográfico, sin cara a cámara ni tono
-influencer. No se ata a un pilar técnico (Servicios TBNB / Rentabilidad
+**Concepto:** clips cortos de barra y cocina en plena preparación de
+servicio — mise en place, manos trabajando el producto, apertura de barra —
+con texto en pantalla, ritmo pausado y cinematográfico, sin cara a cámara ni
+tono influencer. No se ata a un pilar técnico (Servicios TBNB / Rentabilidad
 incómoda) a propósito: sirve para airear el mes, que la revisión marcó con
 sobrepeso de contenido técnico-operativo.
 
-**PENDIENTE DE REDACCIÓN FINAL — director-redaccion.** Aquí solo se fija el
-concepto, el formato y el hueco de fecha; el guion, la voz en off o el texto
-en pantalla definitivos los cierra redacción.
+**Duración estimada:** 20-25 segundos. **Sonido:** ambiente de cocina/barra
+(cuchillo, hielo, fuego, puerta), sin música con letra ni voz en off
+hablada — el texto en pantalla hace el trabajo de la voz.
+
+**Guion (clip por clip):**
+
+1. Plano fijo, sala vacía, sillas aún subidas a las mesas, luz de mañana
+   entrando por una rendija. Sin texto.
+2. Manos cortando cítricos sobre una tabla, cuchillo, ritmo lento. Sin
+   texto.
+3. Hielo cayendo dentro de una cubitera. Texto en pantalla: **"Antes de la
+   primera copa,"**
+4. Mise en place en cocina: ingredientes ya cortados, ordenados en
+   bandejas, una mano los va colocando. Texto en pantalla: **"hay una hora
+   que nadie ve."**
+5. Un paño puliendo una copa hasta que queda transparente. Sin texto.
+6. Botellas colocándose una a una en la estantería de la barra (back bar).
+   Sin texto.
+7. Se enciende la máquina de café o las luces de la barra (un solo gesto,
+   un solo interruptor). Sin texto.
+8. Fuego encendiéndose bajo una sartén en la cocina. Texto en pantalla:
+   **"Se enciende la cocina."**
+9. Un plato saliendo por el pase, mano de camarero recogiéndolo (sin cara
+   a cámara). Sin texto.
+10. La puerta del local abriéndose, luz de la calle entrando, silueta de
+    un cliente entrando de espaldas o en contraluz. Texto en pantalla:
+    **"Y entonces, abre el bar."**
+11. Corte a negro. Logo TBNB, sin claim de venta, 1-2 segundos.
+
+**Nota de tono:** ningún clip debe incluir a nadie mirando a cámara ni
+hablando. El ritmo es de documental gastronómico, no de "detrás de
+cámaras" de creador de contenido — cuanto más silencio y menos texto,
+mejor.
 
 ---
 
