@@ -1,0 +1,247 @@
+<!--
+  PLANTILLA MAESTRA — NEWSLETTER MENSUAL (CAMPAÑA · "Lo que nos ha hecho pensar este mes")
+  The Bar N' Bar — identidad de marca según Manual_marca.pdf (eleyuve, 2024)
+
+  Estructura fija del mes (según MAILMARKETING X TBNB.xlsx): 3 bloques cortos tipo
+  "leer más" reciclando contenido del mes + 1 bloque de "novedad del mes" (caso de
+  cliente destacado) con más protagonismo visual.
+
+  Acento de color de esta plantilla: #A890C3 (lilacocktail) — reservado para
+  CAMPAÑA, distinto del color de cada flujo de automatización (ver
+  plantilla-flujo-automatizacion.html) para que la newsletter se distinga a
+  simple vista de los emails de automatización si algún suscriptor recibe ambos.
+
+  Uso en Mailchimp: igual que la otra plantilla (Code your own → Paste in code).
+  Las 3 fichas "leer más" y la ficha de novedad son bloques mc:edit independientes:
+  se repiten/borran según cuántas noticias tenga el mes (normalmente 3 + 1).
+-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="format-detection" content="telephone=no">
+<title>The Bar N' Bar — Newsletter</title>
+<link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600;700&display=swap" rel="stylesheet" type="text/css">
+<!--[if mso]>
+<noscript>
+<xml>
+<o:OfficeDocumentSettings>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+</noscript>
+<![endif]-->
+<style type="text/css">
+  body, table, td { font-family: 'Epilogue', Arial, Helvetica, sans-serif; }
+  body { margin: 0; padding: 0; width: 100% !important; background-color: #EDEDED; -webkit-text-size-adjust: 100%; }
+  table { border-collapse: collapse; }
+  img { border: 0; line-height: 100%; outline: none; text-decoration: none; display: block; }
+  a { color: #A890C3; text-decoration: underline; }
+
+  .headline {
+    font-family: 'Helvetica Neue', Arial Black, Arial, sans-serif;
+    font-weight: 800;
+    color: #1D1D1B;
+  }
+  .eyebrow {
+    font-family: 'Epilogue', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .body-copy {
+    font-family: 'Epilogue', Arial, Helvetica, sans-serif;
+    color: #1D1D1B;
+    line-height: 1.6;
+  }
+  .story-title {
+    font-family: 'Helvetica Neue', Arial Black, Arial, sans-serif;
+    font-weight: 800;
+    color: #1D1D1B;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .email-container { width: 100% !important; }
+    .fluid-padding { padding-left: 20px !important; padding-right: 20px !important; }
+    .headline { font-size: 24px !important; line-height: 30px !important; }
+  }
+</style>
+</head>
+<body style="margin:0; padding:0; background-color:#EDEDED;">
+
+  <!-- PREHEADER OCULTO -->
+  <div mc:edit="content_preheader" style="display:none; font-size:1px; color:#EDEDED; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; mso-hide:all;">
+    Preview text del mes — sustituir por el texto real.
+  </div>
+
+  <center>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#EDEDED;">
+    <tr>
+      <td align="center" style="padding: 32px 16px;">
+
+        <table role="presentation" class="email-container" width="600" cellpadding="0" cellspacing="0" style="width:600px; max-width:600px; background-color:#FFFFFF;">
+
+          <!-- CABECERA -->
+          <tr>
+            <td align="center" style="background-color:#1D1D1B; padding: 28px 24px;">
+              <div style="font-family:'Helvetica Neue', Arial Black, Arial, sans-serif; font-weight:800; font-size:22px; color:#FFFFFF; letter-spacing:0.5px;">
+                the BAR<span style="color:#A890C3;">'n'</span>BAR
+              </div>
+              <div style="font-family:'Epilogue', Arial, Helvetica, sans-serif; font-weight:400; font-size:11px; letter-spacing:3px; text-transform:uppercase; color:#A5A5A3; margin-top:4px;">
+                gastro consulting
+              </div>
+            </td>
+          </tr>
+
+          <!-- BARRA DE ACENTO -->
+          <tr>
+            <td style="background-color:#A890C3; height:6px; line-height:6px; font-size:0;">&nbsp;</td>
+          </tr>
+
+          <!-- CABECERA DE EDICIÓN -->
+          <tr>
+            <td class="fluid-padding" align="left" style="padding: 32px 40px 0 40px;">
+              <span class="eyebrow" style="font-size:13px; color:#A890C3;">
+                NEWSLETTER MENSUAL
+              </span>
+              <h1 class="headline" mc:edit="content_headline" style="margin:10px 0 0 0; font-size:28px; line-height:34px;">
+                Lo que nos ha hecho pensar este mes
+              </h1>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="fluid-padding body-copy" mc:edit="content_intro" align="left" style="padding: 16px 40px 8px 40px; font-size:16px;">
+              <p style="margin:0;">Este mes hemos estado dándole vueltas a varias cosas. Aquí van las tres que más nos han hecho pensar — y una novedad que queremos compartir contigo.</p>
+            </td>
+          </tr>
+
+          <!-- SEPARADOR -->
+          <tr>
+            <td style="padding: 16px 40px 0 40px;">
+              <div style="border-top:1px solid #EDEDED; line-height:1px; font-size:0;">&nbsp;</div>
+            </td>
+          </tr>
+
+          <!-- FICHA "LEER MÁS" Nº1 (repetir bloque para historia 2 y 3) -->
+          <tr>
+            <td class="fluid-padding" align="left" style="padding: 24px 40px 0 40px;">
+              <h2 class="story-title" mc:edit="content_story1_title" style="margin:0 0 8px 0; font-size:19px; line-height:24px;">
+                Título de la historia 1
+              </h2>
+              <div class="body-copy" mc:edit="content_story1_body" style="font-size:15px;">
+                <p style="margin:0 0 8px 0;">Resumen breve de la historia, 2-3 frases.</p>
+              </div>
+              <a mc:edit="content_story1_link" href="#" style="font-family:'Epilogue', Arial, Helvetica, sans-serif; font-weight:700; font-size:14px; color:#A890C3; text-decoration:none;">
+                Leer más →
+              </a>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 20px 40px 0 40px;">
+              <div style="border-top:1px solid #EDEDED; line-height:1px; font-size:0;">&nbsp;</div>
+            </td>
+          </tr>
+
+          <!-- FICHA "LEER MÁS" Nº2 -->
+          <tr>
+            <td class="fluid-padding" align="left" style="padding: 24px 40px 0 40px;">
+              <h2 class="story-title" mc:edit="content_story2_title" style="margin:0 0 8px 0; font-size:19px; line-height:24px;">
+                Título de la historia 2
+              </h2>
+              <div class="body-copy" mc:edit="content_story2_body" style="font-size:15px;">
+                <p style="margin:0 0 8px 0;">Resumen breve de la historia, 2-3 frases.</p>
+              </div>
+              <a mc:edit="content_story2_link" href="#" style="font-family:'Epilogue', Arial, Helvetica, sans-serif; font-weight:700; font-size:14px; color:#A890C3; text-decoration:none;">
+                Leer más →
+              </a>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding: 20px 40px 0 40px;">
+              <div style="border-top:1px solid #EDEDED; line-height:1px; font-size:0;">&nbsp;</div>
+            </td>
+          </tr>
+
+          <!-- FICHA "LEER MÁS" Nº3 -->
+          <tr>
+            <td class="fluid-padding" align="left" style="padding: 24px 40px 0 40px;">
+              <h2 class="story-title" mc:edit="content_story3_title" style="margin:0 0 8px 0; font-size:19px; line-height:24px;">
+                Título de la historia 3
+              </h2>
+              <div class="body-copy" mc:edit="content_story3_body" style="font-size:15px;">
+                <p style="margin:0 0 8px 0;">Resumen breve de la historia, 2-3 frases.</p>
+              </div>
+              <a mc:edit="content_story3_link" href="#" style="font-family:'Epilogue', Arial, Helvetica, sans-serif; font-weight:700; font-size:14px; color:#A890C3; text-decoration:none;">
+                Leer más →
+              </a>
+            </td>
+          </tr>
+
+          <!-- FICHA DESTACADA: NOVEDAD DEL MES / CASO DE CLIENTE -->
+          <tr>
+            <td class="fluid-padding" align="left" style="padding: 32px 40px 32px 40px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#EDEDED;">
+                <tr>
+                  <td style="background-color:#A890C3; height:4px; line-height:4px; font-size:0;">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td style="padding: 24px 24px 24px 24px;">
+                    <span class="eyebrow" style="font-size:12px; color:#A890C3;">LA NOVEDAD DEL MES</span>
+                    <h2 class="story-title" mc:edit="content_novedad_title" style="margin:8px 0 8px 0; font-size:20px; line-height:26px;">
+                      Nombre del cliente / caso
+                    </h2>
+                    <div class="body-copy" mc:edit="content_novedad_body" style="font-size:15px;">
+                      <p style="margin:0 0 12px 0;">Desarrollo del caso destacado del mes.</p>
+                    </div>
+                    <a mc:edit="content_novedad_link" href="#" style="font-family:'Epilogue', Arial, Helvetica, sans-serif; font-weight:700; font-size:14px; color:#1D1D1B; text-decoration:underline;">
+                      Ver el caso completo →
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- CIERRE -->
+          <tr>
+            <td class="fluid-padding body-copy" mc:edit="content_cierre" align="left" style="padding: 0 40px 40px 40px; font-size:15px;">
+              <p style="margin:0 0 16px 0;">¿Tu restaurante tiene las piezas pero todavía no funcionan juntas? Hablemos.</p>
+              <p style="margin:0; font-style:italic;">Un abrazo,<br>El equipo de The Bar N' Bar</p>
+            </td>
+          </tr>
+
+          <!-- SEPARADOR -->
+          <tr>
+            <td style="padding: 0 40px;">
+              <div style="border-top:1px solid #EDEDED; line-height:1px; font-size:0;">&nbsp;</div>
+            </td>
+          </tr>
+
+          <!-- FOOTER -->
+          <tr>
+            <td align="center" style="background-color:#FFFFFF; padding: 24px 40px 32px 40px;">
+              <div style="font-family:'Epilogue', Arial, Helvetica, sans-serif; font-size:12px; color:#8A8A88; line-height:1.6;">
+                <strong style="color:#1D1D1B;">the BAR'n'BAR — gastro consulting</strong><br>
+                *|LIST:ADDRESSLINE|*<br><br>
+                *|LIST:DESCRIPTION|*<br>
+                <a href="*|UNSUB|*" style="color:#8A8A88; text-decoration:underline;">Darme de baja</a>
+                &nbsp;·&nbsp;
+                <a href="*|UPDATE_PROFILE|*" style="color:#8A8A88; text-decoration:underline;">Actualizar mis preferencias</a>
+              </div>
+            </td>
+          </tr>
+
+        </table>
+
+      </td>
+    </tr>
+  </table>
+  </center>
+
+</body>
+</html>

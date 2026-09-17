@@ -1,0 +1,191 @@
+<!--
+  PLANTILLA MAESTRA — FLUJOS DE AUTOMATIZACIÓN (TOFU / MOFU / BOFU / REACTIVACIÓN)
+  The Bar N' Bar — identidad de marca según Manual_marca.pdf (eleyuve, 2024)
+
+  CÓMO USARLA EN MAILCHIMP:
+  1. Mailchimp → Content → Templates → Create Template → "Code your own" → "Paste in code".
+  2. Pega este HTML entero.
+  3. Las zonas marcadas con mc:edit="..." son editables desde el editor visual de
+     Mailchimp sin tocar código. Todas las demás (logo, colores, footer, estructura)
+     quedan fijas para mantener la identidad de marca en todos los envíos.
+  4. El asunto y el "preview text" de Mailchimp (los campos de la campaña, no del
+     HTML) deben rellenarse con el Asunto / Preview text de `contenido-emails.md`.
+     El bloque oculto "preheader" de aquí abajo es un refuerzo técnico para que
+     algunos clientes de correo (Gmail, Outlook) muestren ese preview text aunque
+     no lean bien el campo nativo de Mailchimp — se rellena con el mismo texto.
+  5. ACENTO DE COLOR: cambia el valor de "COLOR DE ACENTO" (buscar 3 apariciones
+     marcadas más abajo) según el flujo, para que cada etapa del funnel tenga su
+     propio color dentro de la misma paleta de marca:
+       TOFU (Bienvenida/Nutrición)  → #33B086  (eat this green)
+       MOFU (Consideración)         → #009FE3  (le bleu)
+       BOFU (Conversión)            → #E94A4B  (red bar)
+       REACTIVACIÓN                 → #F3A038  (tangerina)
+     (La newsletter mensual usa su propia plantilla: plantilla-newsletter.html,
+     con #A890C3 lilacocktail.)
+  6. Si el email no lleva botón CTA, borra el <tr> completo marcado
+     "BLOQUE CTA — BORRAR SI NO HAY LLAMADA A LA ACCIÓN".
+-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="format-detection" content="telephone=no">
+<title>The Bar N' Bar</title>
+<link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600;700&display=swap" rel="stylesheet" type="text/css">
+<!--[if mso]>
+<noscript>
+<xml>
+<o:OfficeDocumentSettings>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+</noscript>
+<![endif]-->
+<style type="text/css">
+  body, table, td { font-family: 'Epilogue', Arial, Helvetica, sans-serif; }
+  body { margin: 0; padding: 0; width: 100% !important; background-color: #EDEDED; -webkit-text-size-adjust: 100%; }
+  table { border-collapse: collapse; }
+  img { border: 0; line-height: 100%; outline: none; text-decoration: none; display: block; }
+  a { color: #33B086; text-decoration: underline; }
+
+  .headline {
+    font-family: 'Helvetica Neue', Arial Black, Arial, sans-serif;
+    font-weight: 800;
+    color: #1D1D1B;
+  }
+  .eyebrow {
+    font-family: 'Epilogue', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .body-copy {
+    font-family: 'Epilogue', Arial, Helvetica, sans-serif;
+    color: #1D1D1B;
+    line-height: 1.6;
+  }
+  .signoff {
+    font-family: 'Epilogue', Arial, Helvetica, sans-serif;
+    color: #1D1D1B;
+    font-style: italic;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .email-container { width: 100% !important; }
+    .fluid-padding { padding-left: 20px !important; padding-right: 20px !important; }
+    .headline { font-size: 24px !important; line-height: 30px !important; }
+  }
+</style>
+</head>
+<body style="margin:0; padding:0; background-color:#EDEDED;">
+
+  <!-- PREHEADER OCULTO: pega aquí el mismo "Preview text" del email -->
+  <div mc:edit="content_preheader" style="display:none; font-size:1px; color:#EDEDED; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; mso-hide:all;">
+    Preview text del email — sustituir por el texto real.
+  </div>
+
+  <center>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#EDEDED;">
+    <tr>
+      <td align="center" style="padding: 32px 16px;">
+
+        <table role="presentation" class="email-container" width="600" cellpadding="0" cellspacing="0" style="width:600px; max-width:600px; background-color:#FFFFFF;">
+
+          <!-- CABECERA — negro mate + wordmark, fijo, no editable -->
+          <tr>
+            <td align="center" style="background-color:#1D1D1B; padding: 28px 24px;">
+              <div style="font-family:'Helvetica Neue', Arial Black, Arial, sans-serif; font-weight:800; font-size:22px; color:#FFFFFF; letter-spacing:0.5px;">
+                the BAR<span style="color:#33B086;">'n'</span>BAR
+              </div>
+              <div style="font-family:'Epilogue', Arial, Helvetica, sans-serif; font-weight:400; font-size:11px; letter-spacing:3px; text-transform:uppercase; color:#A5A5A3; margin-top:4px;">
+                gastro consulting
+              </div>
+            </td>
+          </tr>
+
+          <!-- BARRA DE ACENTO — COLOR DE ACENTO (1/3): cambiar según flujo -->
+          <tr>
+            <td style="background-color:#33B086; height:6px; line-height:6px; font-size:0;">&nbsp;</td>
+          </tr>
+
+          <!-- EYEBROW / ETIQUETA DE FLUJO -->
+          <tr>
+            <td class="fluid-padding" align="left" style="padding: 32px 40px 0 40px;">
+              <!-- COLOR DE ACENTO (2/3): color de texto del eyebrow -->
+              <span class="eyebrow" mc:edit="content_eyebrow" style="font-size:13px; color:#33B086;">
+                TOFU · BIENVENIDA / NUTRICIÓN
+              </span>
+            </td>
+          </tr>
+
+          <!-- TITULAR (= Asunto del email, reutilizado como titular visual) -->
+          <tr>
+            <td class="fluid-padding" align="left" style="padding: 10px 40px 0 40px;">
+              <h1 class="headline" mc:edit="content_headline" style="margin:0; font-size:28px; line-height:34px;">
+                Titular del email (= Asunto)
+              </h1>
+            </td>
+          </tr>
+
+          <!-- CUERPO -->
+          <tr>
+            <td class="fluid-padding body-copy" mc:edit="content_body" align="left" style="padding: 20px 40px 8px 40px; font-size:16px;">
+              <p style="margin:0 0 16px 0;">Aquí va el cuerpo del email, párrafo a párrafo, tal como está redactado en <em>contenido-emails.md</em>. Cada párrafo en su propio &lt;p&gt;.</p>
+            </td>
+          </tr>
+
+          <!-- BLOQUE CTA — BORRAR SI NO HAY LLAMADA A LA ACCIÓN -->
+          <tr>
+            <td class="fluid-padding" align="left" style="padding: 8px 40px 24px 40px;">
+              <table role="presentation" cellpadding="0" cellspacing="0">
+                <tr>
+                  <!-- COLOR DE ACENTO (3/3): fondo del botón -->
+                  <td align="center" style="background-color:#33B086; border-radius:4px;">
+                    <a mc:edit="content_cta" href="#" target="_blank" style="display:inline-block; padding:14px 28px; font-family:'Epilogue', Arial, Helvetica, sans-serif; font-weight:700; font-size:15px; color:#FFFFFF; text-decoration:none; letter-spacing:0.5px;">
+                      Agenda tu llamada de diagnóstico gratuita
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- DESPEDIDA — fija, igual en todos los envíos -->
+          <tr>
+            <td class="fluid-padding signoff" align="left" style="padding: 0 40px 40px 40px; font-size:15px;">
+              Un abrazo,<br>El equipo de The Bar N' Bar
+            </td>
+          </tr>
+
+          <!-- SEPARADOR -->
+          <tr>
+            <td style="padding: 0 40px;">
+              <div style="border-top:1px solid #EDEDED; line-height:1px; font-size:0;">&nbsp;</div>
+            </td>
+          </tr>
+
+          <!-- FOOTER — fijo, no editable, con enlaces obligatorios de Mailchimp -->
+          <tr>
+            <td align="center" style="background-color:#FFFFFF; padding: 24px 40px 32px 40px;">
+              <div style="font-family:'Epilogue', Arial, Helvetica, sans-serif; font-size:12px; color:#8A8A88; line-height:1.6;">
+                <strong style="color:#1D1D1B;">the BAR'n'BAR — gastro consulting</strong><br>
+                *|LIST:ADDRESSLINE|*<br><br>
+                *|LIST:DESCRIPTION|*<br>
+                <a href="*|UNSUB|*" style="color:#8A8A88; text-decoration:underline;">Darme de baja</a>
+                &nbsp;·&nbsp;
+                <a href="*|UPDATE_PROFILE|*" style="color:#8A8A88; text-decoration:underline;">Actualizar mis preferencias</a>
+              </div>
+            </td>
+          </tr>
+
+        </table>
+
+      </td>
+    </tr>
+  </table>
+  </center>
+
+</body>
+</html>
