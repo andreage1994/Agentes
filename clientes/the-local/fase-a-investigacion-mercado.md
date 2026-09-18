@@ -2,12 +2,19 @@
 
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture)
 **Ubicación del proyecto:** Avinguda Josep Tarradelles 58, Barcelona
-**Fecha:** 2026-09-15
-**Revisión:** v3 — incorpora feedback de Andrea (precios de competencia de café de
-especialidad, síntesis priorizada de oportunidades, y ampliación del caso "club"
-con Courage Bagels y PopUp Bagels + patrón común de los tres casos). No se ha
-tocado la investigación de perfil socioeconómico del barrio (cerrada en v2, según
-indicación de Andrea).
+**Fecha:** 2026-09-18
+**Revisión:** v4 — a petición de Andrea: (1) se reorganiza el territorio competitivo
+bajo la estructura "Territorio Competitivo > Competencia directa / Competencia
+indirecta", "Espacio de mercado detectado", "Oportunidad Estratégica" y
+"Dirección estratégica" (antes puntos 6-9, sin perder ningún hallazgo ya
+verificado); (2) se amplía "Competencia directa" con un nuevo ángulo de
+**competencia por posicionamiento** — marcas de cualquier geografía que venden
+"saludable con disfrute" (Flax & Kale, Honest Greens, Sweetgreen, CAVA, True Food
+Kitchen, Joe & the Juice, Le Pain Quotidien, Daily Provisions); (3) se añade al
+final una nota de investigación aparte sobre si ya existe un negocio llamado
+"The Local" en Barcelona, a raíz de la duda de los fundadores sobre renombrar el
+proyecto a "The Lokal". No se ha tocado el contenido de los puntos 1-5 (contexto,
+hábitos, motivaciones, necesidades, tensiones), cerrados en v3.
 
 ## 1. Contexto y tendencias relevantes
 
@@ -216,6 +223,12 @@ contenido) más que motivaciones de fondo — útiles para el "cómo", no para e
   proyecto a **"The Local"**, dejando atrás este riesgo. El nombre queda
   cerrado a partir de aquí.
 
+  **⚠️ Nueva duda abierta (2026-09-18):** los fundadores están valorando si
+  renombrar de nuevo, esta vez a "The Lokal", por sospecha de que ya existe un
+  negocio llamado "The Local" en Barcelona. Ver la nota de investigación al
+  final de este documento — es un insumo para decidir, no una decisión tomada
+  aquí.
+
 - **Corrección importante de Andrea sobre el "club" (v2):** en la v1 de este
   documento se presentaba la grada/plantero (asientos exteriores) como un intento
   de mitigar la tensión entre "querer comunidad" y "ser take-away". Andrea corrige
@@ -340,7 +353,7 @@ contenido) más que motivaciones de fondo — útiles para el "cómo", no para e
      tres, la experiencia está pensada (a propósito o por cómo se ha cultivado)
      para generar contenido que el propio cliente comparte.
   4. **Colaboraciones recurrentes con otras marcas** como motor de novedad y
-     comunidad: Leon's con Tony's Chocoloney/Mercury/Oh Polly/Beauty of
+     comunidad: Leon's con Tony's Chocoloney/Mercury/Oh Polly/Beauty de
      Joseon/Better Days, Courage con Madhappy & Friends (Jon & Vinny's, The Apple
      Pan), PopUp con lanzamientos semanales de schmear junto a Oreo/Guinness/Poppi.
   5. **Historia de origen personal y sencilla como narrativa de autenticidad**:
@@ -352,9 +365,9 @@ contenido) más que motivaciones de fondo — útiles para el "cómo", no para e
      dispersarse en una carta amplia.
   - **Lectura para el proyecto:** ninguna de estas seis palancas depende de tener
     sala o asientos — todas son compatibles con un formato take-away/ventanilla.
-    Es la base más sólida y transferible para diseñar "el club" de The Green
-    Society en Fase B: ritual propio (para bagel y/o para el cóctel sin alcohol),
-    gestión de cola/escasez como activo social, estética fotografiable, agenda de
+    Es la base más sólida y transferible para diseñar "el club" de The Local en
+    Fase B: ritual propio (para bagel y/o para el cóctel sin alcohol), gestión de
+    cola/escasez como activo social, estética fotografiable, agenda de
     colaboraciones, y una historia de origen personal (la propia historia real de
     la pareja fundadora organizando comunidad).
   - **Límite honesto de los tres casos:** los tres operan en mercados (NYC, LA,
@@ -379,7 +392,16 @@ contenido) más que motivaciones de fondo — útiles para el "cómo", no para e
   (grab-and-go, walk-up window) y tres casos de referencia (Leon's, Courage, PopUp)
   con un patrón común documentado sobre cómo construir club sin depender de la sala.
 
-## 6. Competencia directa
+## 6. Territorio Competitivo
+
+Reorganizado en v4 a petición de Andrea, bajo esta estructura fija para el
+reporte. Incluye todo lo ya verificado en v3 (tabla de zona, precios no
+verificados, competencia indirecta) más una ampliación nueva: competencia por
+**posicionamiento** ("saludable con disfrute"), no solo por geografía.
+
+### Competencia directa
+
+**a) Por producto/formato en Barcelona y la zona**
 
 | Negocio | Qué hace | Distancia/relación con Tarradelles 58 | Fuente |
 |---|---|---|---|
@@ -397,7 +419,7 @@ zona no está vacía, pero sí fragmentada por formato (ver punto 5). **Recordat
 de limitación:** esta tabla no sustituye un mapeo geolocalizado exacto — procede de
 búsqueda web por calle/barrio, no de Maps.
 
-### Precios de carta — café de especialidad de la zona (nuevo en v3)
+**Precios de carta — café de especialidad de la zona (de v3, sin cambios):**
 
 Andrea pidió los precios de carta de los cinco negocios de café de especialidad
 identificados arriba. **Resultado honesto: no hemos encontrado, para ninguno de
@@ -426,7 +448,71 @@ precio de referencia. **Recomendamos verificar precios en persona o pedir la car
 directamente a estos negocios antes de fijar el pricing del pilar de café** — no
 es algo que se pueda cerrar con investigación online en esta fase.
 
-## 7. Competencia indirecta
+**b) Por posicionamiento — marcas que venden "saludable con disfrute" (nuevo en v4)**
+
+Andrea pidió mirar más allá de la zona geográfica: qué marcas, en cualquier
+ciudad o país, resuelven la misma tensión de fondo del proyecto — salud real sin
+sonar a dieta ni a restricción, sin sacrificar sabor o placer. No son
+competencia directa por ubicación, pero sí compiten por el mismo territorio de
+marca y son referencia obligada para Fase B.
+
+*España / Barcelona:*
+
+| Marca | Qué hace | Cómo resuelve "salud sin sacrificio" | Precio (no siempre verificado con carta oficial) | Fuente |
+|---|---|---|---|---|
+| **Flax & Kale** (Barcelona, con sedes también en Madrid) | Pionera en España del término "flexiteriano"; cocina 80% base vegetal + 20% pescado certificado, creada por la cocinera Teresa Carles con revisión de dos nutricionistas | Comunica el resultado ("felicidad" de comer bien) en vez del sacrificio; evita fritos y azúcares/harinas refinadas sin presentarse como "dieta" | Rango disperso y poco fiable según fuente: entre ~20€ y ~50€/persona en Barcelona según agregadores distintos — **marcamos la cifra exacta como no verificada**, aunque sí hay consenso en que es un restaurante de precio alto para la categoría | [Turismo Sostenible Barcelona](https://turismesostenible.barcelona/en/news/63/flax-and-kale-healthy-dining-that-cares-for-the-planet) · [SH Barcelona](https://www.shbarcelona.com/blog/es/flax-kale-cocina-sana-barcelona/) · [TheFork](https://www.thefork.es/restaurante/flax-kale-tallers-r806742/menu) |
+| **Honest Greens** (~30 locales en España, incl. Barcelona; marca que TBNB ya cita como referencia admirada en su propio contenido de marketing) | Cadena fast-casual fundada en 2017; "chef-driven honest kitchen" con menú de Benjamín Bensoussan, sin azúcares añadidos ni procesados, adaptado a distintas dietas | Tiene un **corner de café/repostería explícitamente etiquetado como "healthy indulgences"** junto a los bowls principales — separa visualmente lo indulgente de lo nutritivo en vez de forzar que todo "parezca sano" | Precio medio ~13-15€/persona (Barcelona); estructura de precios propia publicada: bowl base 6,90€, guarniciones 2-4,50€, zumos 4,90€, postres 2,90€ | [Honest Greens — Menú oficial](https://www.honestgreens.com/en/menu/) · [Julia X Eats](https://juliaxeats.com/honest-greens-where-healthy-actually-tastes-good/) · [fastfoodsmenu.com](https://fastfoodsmenu.com/precios-del-menu-de-honest-greens-en-espana/) |
+
+*Benchmark internacional (no competencia por geografía, sí por modelo):*
+
+| Marca | Qué hace | Cómo resuelve "salud sin sacrificio" | Precio (no siempre verificado) | Fuente |
+|---|---|---|---|---|
+| **Sweetgreen** (EEUU, cotizada en bolsa) | Cadena fast-casual de bowls/ensaladas con +40 ingredientes frescos preparados a diario, menú rotativo por temporada | Se dirige a diferenciación de producto, no a precio bajo: apuesta explícitamente por calidad y estacionalidad frente a "ensalada como commodity" | ~10-15$ el plato base, sube de 18$ con extras; 10-20% más caro en NYC/California | [Umbrex — Sweetgreen Strategy](https://umbrex.com/resources/company-profiles/sweetgreen/) · [Menuomics](https://menuomics.com/breakdowns/sweetgreen) |
+| **CAVA** (EEUU, +440 locales) | Fast-casual mediterráneo tipo "build-your-own" (base + dips + proteína + toppings) | Lema de marca explícito: no obligar al cliente a elegir entre sano y satisfactorio, entre sustancia y sabor | La mayoría de bowls/pitas entre ~11$ y ~16,65$, ticket típico ~13$ | [Fast Food Menu Prices — CAVA](https://fastfoodmenuprices.com/cava-menu-prices/) · [Wikipedia — Cava Group](https://en.wikipedia.org/wiki/Cava_Group) |
+| **True Food Kitchen** (EEUU) | Fundada en 2008 por el Dr. Andrew Weil (medicina integrativa) y el restaurador Sam Fox; menú basado en la pirámide antiinflamatoria de Weil | Declaración de marca explícita: "delicious dining and conscious nutrition can go hand in hand, without sacrificing flavor, creativity or indulgence" | No hemos encontrado un rango de precio verificado en esta ronda de búsqueda — **queda pendiente** | [True Food Kitchen — Our Story](https://www.truefoodkitchen.com/truestory/) · [Dr. Weil](https://www.drweil.com/diet-nutrition/anti-inflammatory-diet-pyramid/true-food-kitchen-opens/) |
+| **Joe & the Juice** (Dinamarca → expansión global) | Cadena de zumos/café/sándwiches que se define a sí misma como marca de "lifestyle", no de zumos | El producto saludable es el vehículo de identidad, no el argumento único: la experiencia de tienda (música, estética, personal) es el eje central de marca | Precio ligeramente por encima de la media del sector, dirigido a profesionales de renta media-alta; sin cifra exacta verificada | [Modern Retail — Joe & The Juice lifestyle brand](https://www.modernretail.co/marketing/joe-the-juice-global-brand-director-kasper-garnell-on-how-the-chain-is-positioning-itself-as-a-lifestyle-brand/) · [Medium — How Joe & The Juice Built a Cult Brand](https://medium.com/@TheSocialStyle/how-joe-the-juice-built-a-cult-brand-6b8660b2f094) |
+| **Le Pain Quotidien** (Bélgica → global) | Boulangerie-restaurante con panes orgánicos y menú "Better Choices" desarrollado con una nutricionista | Segmenta explícitamente en el propio menú lo "indulgente" (galleta gigante, crema de chocolate y avellana) de lo "nutritivo", sin esconder ninguna de las dos categorías | No verificado en esta búsqueda | [Le Pain Quotidien — Better Choices](https://www.lepainquotidien.com/ae/en/magazines/better-choices) · [Philadelphia Magazine — Healthiest things at LPQ](https://www.phillymag.com/be-well-philly/2018/07/09/healthy-le-pain-quotidien/) |
+| **Daily Provisions** (Union Square Hospitality Group / Danny Meyer, NYC) | "Neighborhood kitchen" de café, bollería y comida reconfortante (pollo rustido) | **Límite honesto: no es una marca "healthy" explícita** — la incluimos solo como ejemplo de calidez de marca de barrio sin discurso corporativo, no como comparable de posicionamiento saludable | No verificado | [USHG — Daily Provisions](https://www.ushg.com/daily-provisions) · [NYC Tourism — Daily Provisions](https://www.nyctourism.com/restaurants/daily-provisions-gramercy/) |
+
+**Síntesis del patrón "saludable con disfrute" (más allá de los casos de bagel ya
+documentados en el punto 5):**
+
+1. **Ninguna de estas marcas usa lenguaje de dieta o restricción.** Hablan de
+   honestidad (Honest Greens), de felicidad (Flax & Kale), de no sacrificar sabor
+   ni creatividad (True Food Kitchen, CAVA) — el vocabulario evita explícitamente
+   sonar clínico o punitivo.
+2. **Separan visualmente lo "indulgente" de lo "nutritivo" en el propio menú**,
+   en vez de forzar que cada plato parezca sano (Honest Greens con su corner de
+   "healthy indulgences", Le Pain Quotidien con su galleta gigante junto al pan
+   integral). Esto permite ofrecer un producto claramente placentero sin diluir
+   el mensaje de salud del conjunto — muy aplicable a The Local: el bagel/café
+   puede convivir con un cóctel sin alcohol "de indulgencia" sin que ninguno de
+   los dos tenga que fingir ser lo que no es.
+3. **Usan autoridad de fondo (nutricionista, médico, chef) para legitimar sin
+   sonar a prescripción médica** (Flax & Kale, True Food Kitchen, Honest
+   Greens). Relevante para Susan como fuente de autoridad personal (superviviente
+   de cáncer) sin que la marca caiga en tono clínico.
+4. **La identidad/cultura de marca es el vehículo de pertenencia; el producto
+   saludable es el medio, no el mensaje principal** (Joe & the Juice, Sweetgreen)
+   — coincide directamente con la lectura ya hecha en el punto 5 sobre "el club"
+   construido con ritual e identidad, no con el producto en sí.
+5. **Ninguna compite por precio bajo.** Todas asumen un precio premium
+   justificado por calidad de producto y experiencia (Sweetgreen, CAVA, Honest
+   Greens, Flax & Kale) — refuerza la idea de que "producto local de calidad
+   extrema a precio justo" es compatible con no competir por ser la opción barata.
+6. **La rotación de producto mantiene la relevancia** (menú estacional de
+   Sweetgreen) — es el mismo mecanismo, con otro nombre, que los "schmears"
+   semanales de PopUp Bagels ya documentados en el punto 5: novedad recurrente
+   como motor de repetición de visita.
+
+**Lectura conjunta con los casos de bagel (punto 5):** el patrón de "club" (ritual,
+escasez, estética, colaboraciones, historia de origen) explica **cómo** construir
+pertenencia sin sala; este nuevo bloque de "saludable con disfrute" explica
+**cómo hablar del producto** sin sonar a dieta ni a marketing de salud genérico.
+Juntos cubren las dos piezas que más le faltan a la narrativa de marca de The
+Local antes de Fase B.
+
+### Competencia indirecta
 
 - Bares de cóctel de Barcelona en general: cubren la ocasión social, pero con el
   alcohol como eje del negocio.
@@ -436,7 +522,7 @@ es algo que se pueda cerrar con investigación online en esta fase.
   necesidad de café rápido de calidad aceptable, pero sin narrativa de origen ni
   identidad de marca cultural.
 
-## 8. Espacio de mercado detectado
+## 7. Espacio de mercado detectado
 
 No hemos encontrado ningún competidor en Barcelona ni en la zona concreta que
 ocupe el cruce de: **producto diferenciado (bagel) + sobriedad premium (cócteles
@@ -452,11 +538,16 @@ validación con visita física** antes de darlo por confirmado. Sobre precios, n
 tenemos datos fiables de la zona (ver punto 6) para saber si ese hueco es también
 un hueco de precio o solo de formato/marca.
 
-## 9. Síntesis de oportunidad y dirección estratégica (reescrito en v3)
+Sobre el nuevo bloque de competencia por posicionamiento (punto 6b): tampoco
+hemos encontrado, ni en España ni en el benchmark internacional, una marca que
+combine el eje "salud sin sacrificio" con el eje "club/pertenencia construido
+sin sala" del punto 5 — las marcas healthy-fast-casual estudiadas (Flax & Kale,
+Honest Greens, Sweetgreen, CAVA, True Food Kitchen) casi siempre operan con sala,
+y las marcas de "club sin sala" estudiadas (Leon's, Courage, PopUp) no tienen un
+eje de salud explícito. El cruce de ambos ejes sigue siendo, con la evidencia
+reunida hasta ahora, un espacio no ocupado.
 
-Esto no es investigación nueva: es la lectura conjunta de todo lo anterior (v1 +
-v2 + v3), ordenada por prioridad para que se pueda decidir sin releer todo el
-documento.
+## 8. Oportunidad Estratégica
 
 **Oportunidad 1 (la más sólida, prioridad alta): construir "el club" con
 identidad de marca y ritual, no con mobiliario.**
@@ -486,23 +577,55 @@ la manzana para confirmar que no hay un competidor directo que se nos escape, y
 verificar — solo tenemos rangos de gasto por persona de reseñas, poco fiables
 para fijar pricing.
 
+**Oportunidad 4 (nueva en v4, prioridad alta para narrativa de marca): hablar de
+salud como "honestidad y disfrute", no como restricción, usando el patrón
+verificado en Flax & Kale, Honest Greens, CAVA, True Food Kitchen y Sweetgreen
+(punto 6b).**
+Ninguna marca healthy-fast-casual estudiada usa lenguaje de dieta; todas separan
+lo indulgente de lo nutritivo en vez de esconder una de las dos caras, y todas
+asumen precio premium sin competir por ser la opción barata. Es una oportunidad
+de **narrativa**, no de producto nuevo — se ejecuta en Fase B, pero queda
+validada aquí con evidencia de mercado real, no solo con la intuición de los
+fundadores.
+
+## 9. Dirección estratégica
+
 **Riesgo ya resuelto:** el nombre "The Green Society" coincidía con una marca de
 cannabis activa (Vancouver). Los fundadores han decidido renombrar el proyecto
 a **"The Local"** (2026-09-17) — el riesgo queda cerrado, no hace falta
-resolverlo en Fase B.
+resolverlo en Fase B. **Nueva duda abierta sobre el propio nombre "The Local"**:
+ver la nota de investigación al final de este documento.
 
-**En una frase para Andrea:** la oportunidad más clara y accionable ahora mismo es
+La dirección que proponemos para Fase B, por orden de peso:
+
+1. **Construir la identidad desde "el club"** (patrón Leon's/Courage/PopUp,
+   punto 5) antes que desde el producto o el nombre — es la palanca con más
+   respaldo cruzado de todo el proceso.
+2. **Ocupar el cruce bagel + café de especialidad + cóctel sin alcohol**, hueco
+   no cubierto en Barcelona (punto 7).
+3. **Adoptar el vocabulario de "salud con disfrute" ya validado por categoría**
+   (Honest Greens, Flax & Kale, CAVA, True Food Kitchen, Sweetgreen — punto 6b):
+   separar lo indulgente de lo nutritivo en la carta, apoyar el mensaje en
+   autoridad personal (la propia historia de Susan) sin sonar clínico, y asumir
+   precio premium sin competir por barato.
+4. **Café de especialidad ágil + con marca** como tercer pilar, pendiente de
+   validación física y de pricing local (punto 8, oportunidad 3).
+
+**En una frase para Andrea:** la dirección más clara y accionable ahora mismo es
 construir la marca alrededor del club (ritual + escasez + estética + colaboraciones
-+ historia de origen, sin depender de la sala) y del cruce bagel + café +
-sobriedad premium, dejando el pricing del pilar de café como el frente que
-todavía necesita más trabajo antes de cerrar Fase B.
++ historia de origen, sin depender de la sala), hablar de salud desde el disfrute
+y la honestidad (no desde la restricción, con el respaldo de toda una categoría
+de marcas que ya lo hacen así) y ocupar el cruce bagel + café + sobriedad premium,
+dejando el pricing del pilar de café como el frente que todavía necesita más
+trabajo antes de cerrar Fase B.
 
-## Para decidir en el GATE 1 (actualizado v3)
+## Para decidir en el GATE 1 (actualizado v4)
 
 - **Qué hemos encontrado:**
   1. Un hueco de mercado real en Barcelona en el cruce bagel + sobriedad premium +
      comunidad. El riesgo que detectamos con el nombre "The Green Society" ya
-     se ha resuelto: el proyecto se llama ahora **"The Local"**.
+     se ha resuelto: el proyecto se llama ahora **"The Local"** — aunque ver el
+     punto 4 más abajo, ese nombre tiene ahora su propia pregunta abierta.
   2. El formato take-away/grab-and-go tiene respaldo claro de tendencia de mercado.
   3. **El "club" se construye con identidad de marca y ritual, no con mobiliario
      (grada = Fase C).** Ahora con tres casos documentados (Leon's Bagels, Courage
@@ -515,12 +638,26 @@ todavía necesita más trabajo antes de cerrar Fase B.
      pero **no hemos podido verificar precios de carta reales de ninguno de los
      cinco** — solo rangos de gasto por persona de reseñas de terceros, marcados
      explícitamente como no verificados.
+  5. **Nuevo en v4:** existe una categoría entera de marcas — españolas
+     (Flax & Kale, Honest Greens) e internacionales (Sweetgreen, CAVA, True Food
+     Kitchen, Joe & the Juice, Le Pain Quotidien) — que ya resuelven "salud sin
+     sacrificio" con un patrón repetido: lenguaje sin restricción, indulgencia y
+     nutrición separadas pero conviviendo en la misma carta, autoridad de fondo
+     no clínica, identidad de marca como vehículo de pertenencia, y precio
+     premium sin competir por barato.
+  6. **Nuevo en v4:** sí existe al menos un negocio activo en Barcelona con el
+     nombre literal "The Local" (espacio de eventos) y otro muy cercano en
+     nombre y en el mismo sector amplio de hostelería ("LOCAL kitchen & bar",
+     sin "The") — ver la nota de investigación al final del documento.
 - **Oportunidad que proponemos (priorizada):**
   1. Construir la identidad desde "el club" (patrón Leon's/Courage/PopUp) antes
      que desde el producto o el nombre.
   2. Ocupar el cruce bagel + café de especialidad + cóctel sin alcohol, hueco no
      cubierto en Barcelona.
-  3. Café de especialidad ágil + con marca como tercer pilar, pendiente de
+  3. Adoptar el vocabulario de "salud con disfrute" ya validado por toda una
+     categoría de marcas (Honest Greens, Flax & Kale, CAVA, True Food Kitchen,
+     Sweetgreen), en vez de construirlo desde cero.
+  4. Café de especialidad ágil + con marca como cuarto pilar, pendiente de
      validación física y de pricing local.
 - **Qué le falta validar a Andrea:**
   1. Si el patrón común de los tres casos de bagel (ritual, cola/escasez,
@@ -538,3 +675,63 @@ todavía necesita más trabajo antes de cerrar Fase B.
   4. Si quiere que sigamos afinando el pilar de café de especialidad (por ejemplo,
      con una llamada o visita para obtener precios reales) antes del GATE 1, dado
      que la investigación online tiene un límite claro de cobertura en este punto.
+  5. **Nuevo en v4:** si, con el hallazgo de que "The Local" ya existe como
+     nombre en Barcelona (aunque en un sector distinto), los fundadores quieren
+     mantener el nombre, pasar a "The Lokal", o abrir una tercera opción — no es
+     algo que debamos decidir en esta fase de investigación.
+
+## Nota de investigación: ¿existe ya "The Local" en Barcelona? (2026-09-18)
+
+Los fundadores preguntan si ya existe un negocio llamado "The Local" en
+Barcelona, porque están valorando renombrar el proyecto a "The Lokal" para
+evitar solaparse. Esto es investigación aparte de las secciones anteriores —
+es un insumo para que decidan Andrea y los fundadores, no una recomendación de
+naming (eso es Fase B).
+
+**Lo que hemos encontrado:**
+
+1. **"The Local Bcn"** (web: thelocalbcn.com; Instagram: @thelocal_bcn) — un
+   negocio activo en Barcelona que usa el nombre **literalmente idéntico**,
+   "The Local". Es un **espacio de alquiler para eventos** ("Tu espacio con
+   alma"): exposiciones, representaciones artísticas, talleres, afterworks y
+   celebraciones privadas, con oficina, dos baños, terraza cubierta y sala
+   central configurable. No es una cafetería ni un bar con servicio diario a
+   público walk-in — es una sala que se alquila para eventos puntuales. No
+   hemos podido verificar su dirección exacta ni su actividad más reciente: el
+   acceso directo a thelocalbcn.com y a Instagram está bloqueado por la red
+   desde la que investigamos, así que esto viene de resultados de búsqueda
+   indexados (Venuu.com y snippets de Google), no de una visita directa a la
+   web o el perfil. [Venuu.com — The Local](https://venuu.com/es/es/espacios/the-local) · [thelocalbcn.com (vía snippet de búsqueda)](https://thelocalbcn.com/) · [Instagram — @thelocal_bcn (vía snippet de búsqueda)](https://www.instagram.com/thelocal_bcn/)
+2. **"LOCAL kitchen & bar"** (Instagram: @bistrot_local; web: bistrotlocal.es) —
+   un restaurante-bar activo en Carrer de Casp 92-94 / Paseo de Sant Joan,
+   Dreta de l'Eixample, Barcelona. Usa el nombre "LOCAL" (sin "The"), se
+   define como "modern bistrot", con almuerzo, cena, vinos y cócteles. Es el
+   hallazgo **más relevante en términos de sector** (hostelería, bar-restaurante
+   con carta y servicio de bebida) aunque el nombre no lleva el artículo "The"
+   y está en un barrio distinto (Dreta de l'Eixample, no Tarradelles/Les
+   Corts). [Tripadvisor — LOCAL, Barcelona](https://www.tripadvisor.com/Restaurant_Review-g187497-d10047004-Reviews-LOCAL-Barcelona_Catalonia.html) · [Instagram — @bistrot_local](https://www.instagram.com/bistrot_local/)
+3. **"LOKAL BAR"** (Instagram: @lokal.bar.barcelona) — bar de tapas y cócteles
+   en El Born, con grafía distinta ("Lokal" con K, ya parecida a la opción
+   alternativa que barajan los fundadores). Distinto barrio y estética
+   (ladrillo visto, tapas/carnes). [Tripadvisor — Lokal Bar](https://www.tripadvisor.com/Restaurant_Review-g187497-d14068352-Reviews-Lokal_Bar-Barcelona_Catalonia.html) · [Instagram — @lokal.bar.barcelona](https://www.instagram.com/lokal.bar.barcelona/)
+
+**Lo que no hemos encontrado:** ninguna cafetería, panadería o negocio de
+bagels/café de especialidad llamado exactamente "The Local" en Barcelona. El
+solape de nombre existe, pero no hay (con la evidencia reunida) un competidor
+que combine nombre idéntico y mismo formato de producto que The Local.
+
+**Conclusión honesta para decidir:** sí existe un negocio activo en Barcelona
+con el nombre literal "The Local" (un espacio de eventos, sector distinto al
+del proyecto), y además un bar-restaurante muy similar en nombre ("LOCAL
+kitchen & bar", mismo sector amplio de hostelería, pero sin el "The" y en otra
+zona de la ciudad). No es una coincidencia de percepción: hay negocios reales
+usando variaciones de "Local" en Barcelona hoy. Ninguno de los dos está en el
+mismo formato ni en la misma zona que el proyecto (cafetería take-away de
+especialidad en Tarradelles 58), así que el riesgo de confusión directa
+puerta-a-puerta parece bajo, pero el riesgo de solape de nombre en búsquedas,
+redes sociales y SEO (Google, Instagram, reservas) es real, sobre todo frente a
+"The Local Bcn" por la coincidencia exacta del nombre. **Recomendamos
+verificar directamente (visitando la web o el perfil, sin el bloqueo de red
+que hemos tenido en esta investigación) antes de que los fundadores decidan
+entre mantener "The Local", pasar a "The Lokal" o valorar otra opción** — esta
+nota es un insumo, no una recomendación de naming.

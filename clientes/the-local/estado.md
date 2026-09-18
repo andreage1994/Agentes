@@ -4,7 +4,7 @@
 por decisión de los fundadores.
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture)
 **Flujo:** `concepto-narrativa-marca`
-**Última actualización:** 2026-09-17
+**Última actualización:** 2026-09-18
 
 ## Resumen del proyecto
 
@@ -20,8 +20,16 @@ por decisión de los fundadores.
 - **Cambio de nombre (2026-09-17):** los fundadores han decidido llamar al
   proyecto **"The Local"**, dejando atrás "The Green Society" — coherente con
   el riesgo de asociación con cannabis que ya detectamos en la Fase A (ver
-  `fase-a-investigacion-mercado.md`, sección 5). El nombre queda ahora
-  cerrado, no es necesario revisitarlo en la Fase B.
+  `fase-a-investigacion-mercado.md`, sección 5).
+- **Nombre reabierto (2026-09-18):** los fundadores están valorando ahora
+  "The Lokal" en su lugar, porque sospechan que "The Local" ya existe en
+  Barcelona. Investigado y confirmado — ver
+  `fase-a-investigacion-mercado.md`, nota final: sí hay un negocio activo con
+  el nombre literal "The Local Bcn" (espacio de eventos, sector distinto) y
+  un bar-restaurante similar ("LOCAL kitchen & bar", sin "The", otra zona).
+  Riesgo de confusión física bajo, riesgo de solape en SEO/redes real. Queda
+  pendiente de decisión de Andrea y los fundadores — no cerrado todavía, a
+  diferencia de lo que decía esta nota antes.
 - Andrea ya exploró 4 rutas de naming/posicionamiento (ver notas) y propone un ejercicio
   de "construir El Club" (pertenencia, rituales, código cultural) antes de cerrar nombre.
 - Referencias de inspiración aportadas por el cliente/Andrea: PopUp Bagels, Leo's Bagels
@@ -29,8 +37,14 @@ por decisión de los fundadores.
 
 ## Fases del flujo
 
-- [x] **Fase A · Investigación de mercado** — v3 (2026-09-15), ver
-      `fase-a-investigacion-mercado.md`. Además:
+- [x] **Fase A · Investigación de mercado** — v4 (2026-09-18), ver
+      `fase-a-investigacion-mercado.md`. Novedad de v4: territorio competitivo
+      reorganizado (Territorio Competitivo / Espacio de mercado detectado /
+      Oportunidad Estratégica / Dirección estratégica) y ampliado con
+      competencia por posicionamiento — marcas "saludable con disfrute" (Flax
+      & Kale, Honest Greens, Sweetgreen, CAVA, True Food Kitchen, Joe & the
+      Juice, Le Pain Quotidien) — más la nota de investigación sobre el
+      naming (ver arriba). Además:
       - `referencias-casos-comunidad.md`: catálogo de 8 mecanismos de "comunidad
         sin sala" (running/cycling clubs, pop-ups de marca, merchandising,
         community events, comunidad digital, drops, memberships, colaboraciones
