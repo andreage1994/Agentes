@@ -32,6 +32,13 @@ de Drive el 2026-09-17.
 
 - Mintel, "2026 Global Consumer Predictions"
 - National Restaurant Association, "What's Hot in 2026"
+- WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities"
+- WGSN, "El consumidor del futuro" — serie anual de pronóstico de tendencias de
+  consumo (ed. 2027: "Emociones", aportada por Andrea el 2026-09-18). No es un
+  informe específico de hostelería, pero WGSN señala explícitamente que moda,
+  belleza, alimentación y bebidas, interiorismo, deportes y ocio al aire libre
+  son sectores a los que aplican estas emociones — encaja directamente en el
+  radar de esta matriz.
 
 **Nota para `hospitality-investigador`:** esta lista es el punto de partida, no un
 límite — el objetivo es ampliarla con fuentes nuevas y de calidad equivalente a

@@ -25,6 +25,13 @@ cada capítulo.
 | EHL, "Hospitality Outlook Report 2026" | 27 nov 2025 | IA como aliada, no sustituta | Un profesor de EHL: la IA debe complementar las capacidades humanas, no reemplazarlas; sin integración fiable, formación adecuada y enfoque centrado en las personas, su propósito queda limitado. Formulación viniendo de una escuela de hostelería, no de una consultora tecnológica. |
 | EHL, "Hospitality Outlook Report 2026" | 27 nov 2025 | Liderazgo humano-céntrico ante escasez de talento | Frente a la escasez de talento y competencia por Gen Z, el liderazgo se vuelve más colaborativo (vulnerabilidad, autenticidad, transparencia), con estructuras planas y trabajo por proyectos — giro organizativo, no solo de cara al cliente. |
 | EHL, "Hospitality Outlook Report 2026" | 27 nov 2025 | Hostelería regenerativa | El sector pasa de "net zero" a "net positive": generar impacto positivo activo (restaurar ecosistemas, comunidades, bienestar) como parte de la operación normal, no como RSC aparte. |
+| WGSN, "El consumidor del futuro 2027: Emociones" | 2026 (pronóstico para 2027) | Marco de las 6 emociones clave de 2027 | WGSN identifica seis emociones clave que determinarán el comportamiento del consumidor en 2027 y adelanta tres: **Alegría estratégica**, **Deseo de evasión** y **Optimismo suspicaz**. Metodología propia STEPIC™, que WGSN sitúa en un 93% de precisión declarada en sus pronósticos. |
+| WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Alegría estratégica — contexto | Reacción a años de estrés/aburrimiento/desregulación emocional (sentir muchas emociones a la vez sin poder controlarlas). El juego (*play*) emerge como herramienta de autodescubrimiento, conexión, inspiración e inclusión — sucede a los pronósticos de Asombro (2024), Imaginación (2025) y Destellos (2026) de la misma serie. |
+| WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Alegría estratégica — dato empresarial | En una encuesta a +2000 australianos/neozelandeses, 6 de cada 10 dicen que las marcas lúdicas/humorísticas mejoran su percepción de una empresa; en EEUU, la insatisfacción laboral costará 1,9 billones de dólares en pérdida de productividad en 2023. |
+| WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Deseo de evasión — contexto | *"Witherwill"* (deseo de evadirse, término acuñado por John Koenig): reacción al agotamiento laboral y digital que WGSN ya había pronosticado para 2026. La gente busca una existencia más lenta, con menos tareas pendientes y menos soledad. |
+| WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Deseo de evasión — minimalismo digital | *"Minimalismo ping"*: eliminar notificaciones innecesarias de los dispositivos. Hoy se percibe como un acto de rebeldía radical; en 2027 se normalizará como forma de autocuidado, ligada a la deshabituación (romper con hábitos que ya no sirven). |
+| WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Optimismo suspicaz — contexto | Ante el avance acelerado de la IA y el poder de las grandes tecnológicas, el optimismo se matiza con escepticismo — no es pesimismo, es cautela. Sucede al "Optimismo trágico" (2024) y "Optimismo racional" (2026) que WGSN ya venía trackeando en esta misma serie. |
+| WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Optimismo suspicaz — impulsores | Tres emociones lo definen: asombro ante el potencial de la innovación, miedo a consecuencias imprevistas y desilusión por decepciones/expectativas pasadas — empujan al consumidor hacia estados aspiracionales de sabiduría, equilibrio y confianza en su relación con la tecnología. |
 
 ## 03. THE SHIFTS
 
@@ -55,6 +62,8 @@ cada capítulo.
 | WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Comida como palanca de bienestar emocional | 79,4% de la Gen Z en EEUU cree que la comida y bebida impactan significativamente en su bienestar emocional — la elección alimentaria se vive como cuidado personal, no solo nutrición. |
 | WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Socializar en casa antes que salir | 82% de los jóvenes bebedores británicos prefiere comprar alcohol para socializar en casa antes que salir — cambia el lugar del consumo social, no necesariamente las ganas de socializar. |
 | WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Consumo de alcohol Gen Z — ligero repunte | En EEUU, el porcentaje de Gen Z abstemia bajó de 47% (2023) a 45% (2024) — leve repunte del consumo tras años de narrativa de caída generalizada. *(Nota: no he podido verificar esta cifra exacta con una segunda fuente independiente; una búsqueda propia sí encontró cifras de abstinencia Gen Z en rango similar —45-47%— pero referidas a 2022-2023 según otra fuente, y varios medios recientes confirman de forma independiente la tesis general de "Gen Z bebiendo más" en 2025-2026, aunque con cifras distintas — ver The Drinks Business, dic 2025, "Could Gen Z be giving up on abstinence?" y Newsweek, "Gen Z Is Drinking More Alcohol".)* |
+| WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Deseo de evasión — el impulso es doble: aislarse o conectar | El estado emocional está determinado por sentirse abrumado por la responsabilidad, sentirse solo, y una empatía creciente por los demás. Ante esta tensión entre necesidades individuales y obligaciones colectivas surgen dos respuestas: encerrarse en el aislamiento, o el deseo de conexión — con impulsos de despreocuparse, sentir curiosidad y abrazar el amor (hacia uno mismo y hacia los demás). Refuerza directamente, con mecanismo psicológico concreto, la tesis de "déficit de afecto" ya registrada de Mintel en esta misma sección. |
+| WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Optimismo suspicaz — medios y realidades autorreforzadas | Los consumidores arman su visión del futuro con medios alineados a su clase, edad, ubicación o ideología, lo que resulta en "una infinidad de realidades autorreforzadas". Los creadores de contenido ganan poder e importancia para atizar o calmar la sospecha colectiva sobre el futuro — conecta con el "Anti-Algoritmo" ya registrado en esta sección. |
 
 ## 06. FOOD & DRINK
 
@@ -93,7 +102,18 @@ cada capítulo.
 
 Espacio para preguntas abiertas/provocadoras candidatas a cerrar el capítulo.
 
-- (pendiente)
+- **(vía WGSN, "El consumidor del futuro 2027: Emociones")** Si el juego y la
+  alegría estratégica se convierten en palanca real de salud y retención, ¿cómo
+  puede un negocio de hostelería incorporarlos en su experiencia de cliente y en
+  su cultura interna de equipo, más allá de la decoración o el tono de marca?
+- **(vía WGSN)** Si el "deseo de evasión" y el minimalismo digital
+  (*"minimalismo ping"*) se normalizan en 2027, ¿qué le queda al bar o
+  restaurante como el sitio donde la gente elige desconectar, en vez de
+  convertirse en un sitio más donde seguir mirando el móvil?
+- **(vía WGSN)** Ante un cliente con "optimismo suspicaz" hacia la tecnología
+  —asombro, miedo y desilusión conviviendo en la misma persona—, ¿cómo puede la
+  hostelería usar IA y automatización sin alimentar la desconfianza que el
+  propio consumidor ya trae puesta?
 
 ## 09. THE RADAR
 
@@ -175,6 +195,20 @@ los "insights nuevos" del reporte que son refuerzos mutuos, no contradicciones.
   el monopolio de dónde ocurre. Para TBNB (un negocio que vive de que la gente
   salga de casa), esto es más relevante que una simple curiosidad de consumo —
   candidato a **03. THE SHIFTS** o **05. GUEST CULTURE**.
+- **El "optimismo suspicaz" explica el mecanismo psicológico detrás de la
+  tensión nº1 (nuevo, vía WGSN):** WGSN aporta la capa emocional que explica
+  *por qué* el consumidor pide más automatización a la vez que la rechaza
+  (tensión "Automatización vs. conexión humana", más abajo): no es
+  incoherencia, es optimismo matizado por escepticismo — asombro, miedo y
+  desilusión conviviendo en la misma persona. Refuerza que el reto de 2027 no
+  es elegir bando tecnológico, sino ganar confianza real, no solo sumar
+  funciones nuevas.
+- **El "deseo de evasión" es la contracara emocional del "déficit de afecto"
+  (nuevo, vía WGSN + Mintel):** ambos describen el mismo agotamiento
+  social/digital, pero WGSN lo enriquece con mecanismos concretos y más
+  accionables para diseño de producto/experiencia que el dato de Mintel por sí
+  solo: minimalismo *ping*, deshabituación de hábitos que ya no sirven, y el
+  impulso doble aislarse-vs-conectar.
 - **Moderación como tercera vía entre "todo o nada" (nuevo, vía WGSN + NRA):** NRA
   sitúa el low/no alcohol como tendencia fuerte de bebida 2026 (Gen Z/millennials);
   WGSN aporta "lighter party mode" (bebidas festivas con menos alcohol, no cero) y
@@ -208,6 +242,14 @@ contradicen o tensionan. Son hipótesis a validar, no conclusiones cerradas.
   gana la eficiencia y en cuál gana la calidez humana. Con cuatro fuentes de
   ángulos distintos apuntando a lo mismo, es la tesis vertebral del reporte —
   candidata fuerte para **02. THE BIG PICTURE** y **11. CLOSING**.
+- **Idea D, capa emocional (WGSN, "El consumidor del futuro 2027: Emociones"):**
+  el "Optimismo suspicaz" pronosticado para 2027 explica el *por qué*
+  psicológico de la contradicción interna ya señalada arriba (el mismo
+  consumidor que pide automatización también la rechaza): conviven asombro,
+  miedo y desilusión en la misma persona. No cambia la conclusión de la
+  tensión, pero le da un nombre y un mecanismo emocional concreto — útil para
+  redactar **02. THE BIG PICTURE** con más profundidad que "es cuestión de
+  momento del recorrido".
 
 ### 2. Personalización — ¿la quiere el cliente o no?
 
