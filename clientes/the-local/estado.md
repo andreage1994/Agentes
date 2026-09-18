@@ -42,10 +42,15 @@ por decisión de los fundadores.
         local / inferencia. El punto de Gen Z/Millennials es investigación
         general, no validación del target (target aún sin confirmar).
 - [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente de tu respuesta
-- [ ] **Fase B · Plataforma de Marca** — **BLOQUEADA**: falta que el cliente responda
-      el cuestionario de kick-off (`plantillas/cuestionario-kickoff.md`). Sin sus
-      respuestas (propósito, valores, líneas rojas, inspiraciones) no se puede
-      construir propósito/visión/misión/valores.
+- [ ] **Fase B · Plataforma de Marca** — **EN CURSO** (2026-09-18): el cliente
+      (Sergi y Susan) ya respondió el cuestionario de kick-off. Ver
+      `analisis-cuestionario-kickoff.md`: desglose de sus respuestas, cruce con
+      Fase A (convergen de forma notable sin haberse cruzado antes) y un primer
+      borrador de propósito/visión/misión/valores, pendiente de validar con los
+      fundadores en el GATE 2. Quedan 3 preguntas abiertas antes de cerrar el
+      documento formal de Fase B: papel de la coctelería, papel del "Sports
+      Bar"/deporte en la narrativa, y el criterio de contratación "por imagen"
+      que los propios fundadores señalan como delicado.
 - [ ] **GATE 2 · ¿Es esta la marca que queremos construir?** — pendiente
 - [ ] **Fase C · Desarrollo aplicado** (ecosistema, comunidad, aplicación, roadmap) — pendiente
 - [ ] **GATE 3 · ¿Se entrega al cliente?** — pendiente
@@ -56,5 +61,8 @@ por decisión de los fundadores.
 
 ## Próximo paso
 
-Enviar el cuestionario de kick-off al cliente (si no se ha hecho) y esperar sus
-respuestas antes de avanzar a la Fase B. Mientras tanto, completar la Fase A.
+Resolver con Sergi y Susan las 3 preguntas abiertas de
+`analisis-cuestionario-kickoff.md` (coctelería, deporte, criterio de
+contratación) y, con esas respuestas, cerrar el documento formal de Fase B
+(`fase-b-plataforma-marca.md`, pendiente de crear) a partir del borrador de
+propósito/visión/misión/valores ya incluido en ese análisis.
