@@ -16,7 +16,13 @@ por decisión de los fundadores.
 - Valores personales fuertes: estilo de vida saludable (ella superó un cáncer
   recientemente). De ahí surgió el nombre provisional "The Green Society".
 - Ideas sueltas de producto: bagels, cócteles sin alcohol.
-- Ubicación: Avinguda Josep Tarradelles 58, Barcelona.
+- **Ubicación (reabierta, 2026-09-18):** el local previsto en Avinguda Josep
+  Tarradelles 58 se ha caído. Nueva ubicación todavía sin decidir — la Fase B
+  se ha construido deliberadamente para no depender de la zona concreta (ver
+  `fase-b-plataforma-marca.md`). Cuando se confirme la nueva dirección, habrá
+  que rehacer solo la parte de zona del territorio competitivo en
+  `fase-a-investigacion-mercado.md` (tabla de competidores cercanos y la
+  pendiente de "visita física"), no el resto de la Fase A ni la Fase B.
 - **Cambio de nombre (2026-09-17):** los fundadores han decidido llamar al
   proyecto **"The Local"**, dejando atrás "The Green Society" — coherente con
   el riesgo de asociación con cannabis que ya detectamos en la Fase A (ver
@@ -56,15 +62,15 @@ por decisión de los fundadores.
         local / inferencia. El punto de Gen Z/Millennials es investigación
         general, no validación del target (target aún sin confirmar).
 - [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente de tu respuesta
-- [ ] **Fase B · Plataforma de Marca** — **EN CURSO** (2026-09-18): el cliente
-      (Sergi y Susan) ya respondió el cuestionario de kick-off. Ver
-      `analisis-cuestionario-kickoff.md`: desglose de sus respuestas, cruce con
-      Fase A (convergen de forma notable sin haberse cruzado antes) y un primer
-      borrador de propósito/visión/misión/valores, pendiente de validar con los
-      fundadores en el GATE 2. Quedan 3 preguntas abiertas antes de cerrar el
-      documento formal de Fase B: papel de la coctelería, papel del "Sports
-      Bar"/deporte en la narrativa, y el criterio de contratación "por imagen"
-      que los propios fundadores señalan como delicado.
+- [ ] **Fase B · Plataforma de Marca** — **v1 lista** (2026-09-18), ver
+      `fase-b-plataforma-marca.md`: implicaciones estratégicas, propósito,
+      visión, misión y valores, construidos sobre `analisis-cuestionario-kickoff.md`
+      y `fase-a-investigacion-mercado.md` (v4). Sigue pendiente de validar con
+      los fundadores en el GATE 2. Quedan 3 preguntas abiertas señaladas en el
+      propio documento, donde afectan directamente a misión o valores: papel
+      de la coctelería, papel del "Sports Bar"/deporte en la narrativa, y el
+      criterio de contratación "por imagen" que los propios fundadores
+      señalan como delicado.
 - [ ] **GATE 2 · ¿Es esta la marca que queremos construir?** — pendiente
 - [ ] **Fase C · Desarrollo aplicado** (ecosistema, comunidad, aplicación, roadmap) — pendiente
 - [ ] **GATE 3 · ¿Se entrega al cliente?** — pendiente
@@ -75,8 +81,7 @@ por decisión de los fundadores.
 
 ## Próximo paso
 
-Resolver con Sergi y Susan las 3 preguntas abiertas de
-`analisis-cuestionario-kickoff.md` (coctelería, deporte, criterio de
-contratación) y, con esas respuestas, cerrar el documento formal de Fase B
-(`fase-b-plataforma-marca.md`, pendiente de crear) a partir del borrador de
-propósito/visión/misión/valores ya incluido en ese análisis.
+Compartir `fase-b-plataforma-marca.md` con Sergi y Susan, resolver ahí las 3
+preguntas abiertas (coctelería, deporte, criterio de contratación) y cerrar
+el GATE 2. En paralelo, en cuanto haya nueva ubicación, actualizar solo la
+parte de zona del territorio competitivo en la Fase A.
