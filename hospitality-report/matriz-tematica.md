@@ -68,6 +68,9 @@ cada capítulo.
 | WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Consumo de alcohol Gen Z — ligero repunte | En EEUU, el porcentaje de Gen Z abstemia bajó de 47% (2023) a 45% (2024) — leve repunte del consumo tras años de narrativa de caída generalizada. *(Nota: no he podido verificar esta cifra exacta con una segunda fuente independiente; una búsqueda propia sí encontró cifras de abstinencia Gen Z en rango similar —45-47%— pero referidas a 2022-2023 según otra fuente, y varios medios recientes confirman de forma independiente la tesis general de "Gen Z bebiendo más" en 2025-2026, aunque con cifras distintas — ver The Drinks Business, dic 2025, "Could Gen Z be giving up on abstinence?" y Newsweek, "Gen Z Is Drinking More Alcohol".)* |
 | WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Deseo de evasión — el impulso es doble: aislarse o conectar | El estado emocional está determinado por sentirse abrumado por la responsabilidad, sentirse solo, y una empatía creciente por los demás. Ante esta tensión entre necesidades individuales y obligaciones colectivas surgen dos respuestas: encerrarse en el aislamiento, o el deseo de conexión — con impulsos de despreocuparse, sentir curiosidad y abrazar el amor (hacia uno mismo y hacia los demás). Refuerza directamente, con mecanismo psicológico concreto, la tesis de "déficit de afecto" ya registrada de Mintel en esta misma sección. |
 | WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Optimismo suspicaz — medios y realidades autorreforzadas | Los consumidores arman su visión del futuro con medios alineados a su clase, edad, ubicación o ideología, lo que resulta en "una infinidad de realidades autorreforzadas". Los creadores de contenido ganan poder e importancia para atizar o calmar la sospecha colectiva sobre el futuro — conecta con el "Anti-Algoritmo" ya registrado en esta sección. |
+| DoorDash + SevenRooms, "2026 Restaurant Industry Trends Report" (con Datalily; encuesta Dynata mar 2026: 3.001 consumidores EEUU + 509 operadores EEUU, más datos de +50M usuarios/mes de DoorDash y +13.000 locales de SevenRooms a nivel global) | 2026 | Descubrimiento por IA | 22% de los consumidores ya usa IA para descubrir restaurantes (buscar algo nuevo o cercano); 41% de las recomendaciones de IA proceden de plataformas de listado tipo DoorDash, por delante de las webs propias del restaurante. *(Nota de fuente: go.sevenrooms.com está bloqueado por la política de red de esta sesión — contenido vía fragmentos de buscador, no lectura directa del PDF.)* |
+| DoorDash + SevenRooms, "2026 Restaurant Industry Trends Report" | 2026 | Reservas — la llamada de teléfono sigue fallando | 64% de los comensales todavía llama por teléfono para reservar, pero el 40% de esas llamadas no se contesta — es una fuga de negocio medible, no una sensación. 74% de los comensales está abierto a que una IA gestione la reserva. |
+| DoorDash + SevenRooms, "2026 Restaurant Industry Trends Report" | 2026 | Contenido visual como palanca de pedido | 87% de los consumidores dice haber elegido un producto de delivery por una foto o vídeo tentador — el contenido visual no es solo marketing de marca, mueve el pedido concreto. |
 
 ## 06. FOOD & DRINK
 
@@ -112,6 +115,8 @@ cada capítulo.
 | Inpulse.ai, "Concepts de restauration en 2026" | 2026 | Por qué fracasan los conceptos | Los conceptos que desaparecen no mueren por falta de ambición ni de buenas ideas de producto: mueren por gestión de stock aproximada, control de food cost inadecuado, e incapacidad de escalar sin perder el control de los ratios. Incluso establecimientos con estrella Michelin cierran el mes con dificultad — el margen neto se queda en 3-4%. |
 | Inpulse.ai, "Concepts de restauration en 2026" | 2026 | Tesis central (cita) | *"Las tendencias atraen a los clientes, los márgenes los retienen."* Los conceptos que perduran son los que entienden esta idea, no los que mejor detectan la moda del momento — línea directamente citable para el reporte. |
 | Inpulse.ai, "Concepts de restauration en 2026" | 2026 | Los mejores ratios estructurales del mercado francés | Pizzerías napolitanas auténticas y bares de pasta artesanal muestran los mejores ratios: food cost del 24-30% y margen bruto del 70-76%. Comparten tres rasgos: menos referencias de producto, ingredientes menos volátiles en precio, y recetas más fáciles de estandarizar. |
+| DoorDash + SevenRooms, "2026 Restaurant Industry Trends Report" | 2026 | Demanda real de una app unificada | 64% de los consumidores preferiría una sola app para gestionar delivery, pickup y reservas, en vez de una app distinta para cada cosa — validación de mercado, con encuesta a 3.001 consumidores, de que la fragmentación de herramientas es un problema sentido por el cliente final, no solo por el operador. |
+| DoorDash + SevenRooms, "2026 Restaurant Industry Trends Report" | 2026 | Impacto de los programas de fidelización | 66% de los consumidores pide con más frecuencia en restaurantes donde usa activamente un programa de fidelización — dato a favor de invertir en fidelización propia frente a depender solo de marketplaces de delivery. |
 
 ## 08. ONE QUESTION
 
@@ -299,7 +304,15 @@ contradicen o tensionan. Son hipótesis a validar, no conclusiones cerradas.
   tensión, pero le da un nombre y un mecanismo emocional concreto — útil para
   redactar **02. THE BIG PICTURE** con más profundidad que "es cuestión de
   momento del recorrido".
-
+- **Idea E, dato de negocio concreto (DoorDash + SevenRooms, 2026):** si algo
+  le faltaba a esta tensión era un número que se pudiera poner en una diapositiva:
+  64% de los comensales todavía llama por teléfono para reservar — el canal
+  "humano" sigue siendo el preferido por defecto — pero el 40% de esas llamadas
+  no se contesta, y el 74% ya está dispuesto a que una IA se encargue. No es que
+  el cliente prefiera la IA a la persona; es que la persona, en la práctica,
+  muchas veces no está al otro lado del teléfono. Mejor evidencia hasta ahora
+  de que la automatización gana terreno por fallo del servicio humano actual,
+  no por deseo genuino de hablar con una máquina.
 ### 2. Personalización — ¿la quiere el cliente o no?
 
 - **Idea A (Mintel):** "Anti-Algoritmo" — rechazo a la influencia algorítmica,

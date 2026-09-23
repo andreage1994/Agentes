@@ -43,6 +43,15 @@ de Drive el 2026-09-17.
   cita son útiles igualmente. **Nota:** inpulse.ai también está bloqueado por
   la política de red de esta sesión — mismo límite que con Deloitte, contenido
   vía fragmentos de buscador.
+- [DoorDash + SevenRooms — 2026 Restaurant Industry Trends Report](https://go.sevenrooms.com/rs/519-YNM-008/images/2026-DoorDash-SevenRooms-Restaurant-Trends-Report.pdf)
+  (2026, primer informe conjunto de las dos empresas con Datalily, aportado
+  por Andrea el 2026-09-23). Buena metodología declarada: encuesta Dynata de
+  marzo 2026 a 3.001 consumidores y 509 operadores en EEUU, más datos de uso
+  real (+50M usuarios/mes de DoorDash, +13.000 locales de SevenRooms
+  globalmente) — no es solo encuesta de opinión. Igual que Deloitte e
+  Inpulse.ai, **go.sevenrooms.com está bloqueado** por la política de red de
+  esta sesión; contenido vía fragmentos de buscador, no lectura directa del
+  PDF.
 
 ## Otras fuentes ya usadas en la matriz temática
 
