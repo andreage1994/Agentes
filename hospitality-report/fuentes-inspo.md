@@ -27,6 +27,13 @@ de Drive el 2026-09-17.
 ## IA en hostelería
 
 - [Deloitte — How AI is revolutionizing restaurants](https://www.deloitte.com/us/en/insights/industry/retail-distribution/ai-in-restaurants.html)
+- [Deloitte US — Future of Hospitality: AI-Driven Industry Trends](https://www.deloitte.com/us/en/industries/consumer/articles/future-of-hospitality-ai-innovation.html)
+  (14 ene 2026, aportado por Andrea el 2026-09-23). **Nota:** deloitte.com está
+  bloqueado por la política de red de esta sesión — el contenido en la matriz
+  procede de fragmentos indexados por buscador (HotelsMag, HotelNewsResource,
+  Green Lodging News, Hospitality Net), no de una lectura directa del
+  artículo. Si alguien tiene acceso directo, vale la pena releerlo entero y
+  contrastar las cifras antes de citarlas en la edición final.
 
 ## Otras fuentes ya usadas en la matriz temática
 

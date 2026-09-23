@@ -32,6 +32,8 @@ cada capítulo.
 | WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Deseo de evasión — minimalismo digital | *"Minimalismo ping"*: eliminar notificaciones innecesarias de los dispositivos. Hoy se percibe como un acto de rebeldía radical; en 2027 se normalizará como forma de autocuidado, ligada a la deshabituación (romper con hábitos que ya no sirven). |
 | WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Optimismo suspicaz — contexto | Ante el avance acelerado de la IA y el poder de las grandes tecnológicas, el optimismo se matiza con escepticismo — no es pesimismo, es cautela. Sucede al "Optimismo trágico" (2024) y "Optimismo racional" (2026) que WGSN ya venía trackeando en esta misma serie. |
 | WGSN, "El consumidor del futuro 2027: Emociones" | 2026 | Optimismo suspicaz — impulsores | Tres emociones lo definen: asombro ante el potencial de la innovación, miedo a consecuencias imprevistas y desilusión por decepciones/expectativas pasadas — empujan al consumidor hacia estados aspiracionales de sabiduría, equilibrio y confianza en su relación con la tecnología. |
+| Deloitte US, "Future of Hospitality: AI-Driven Industry Trends" | 14 ene 2026 | Seis imperativos estratégicos del sector | Deloitte identifica seis imperativos para hostelería/viajes: (1) innovar y diversificar el portfolio para nuevos perfiles de viajero, (2) activar IA en todo el recorrido — descubrimiento y experiencia en el propio establecimiento, (3) apuntar a nuevos mercados de crecimiento por cambios demográficos/socioeconómicos, (4) convertirse en "empresa predictiva" para desbloquear eficiencia y rentabilidad, (5) tratar la operación responsable como valor central, (6) invertir en una plantilla preparada para el futuro. *(Nota de fuente: el acceso directo a deloitte.com está bloqueado por la política de red de esta sesión; este resumen procede de fragmentos indexados por buscador — HotelsMag, HotelNewsResource, Green Lodging News, Hospitality Net — no de una lectura completa del artículo original. Contrastar antes de citar cifras textuales.)* |
+| Deloitte US, "Future of Hospitality: AI-Driven Industry Trends" | 14 ene 2026 | El hilo conductor es la urgencia | Los líderes del sector deben equilibrar lo que ya funciona con experimentación más audaz, sobre todo en IA, o arriesgarse a quedar por detrás de quienes adoptan pronto — mismo tono de urgencia que ya aparece en el resto de la matriz, esta vez centrado en hoteles/viajes en vez de restauración. |
 
 ## 03. THE SHIFTS
 
@@ -97,6 +99,9 @@ cada capítulo.
 | Coca-Cola Lens, "Value Beyond Price" | mar 2025 | Percepción de valor vs. precio real | 2 de cada 3 consumidores comen menos fast food por subida de precios. Brecha percepción/real: 37% en un combo típico. Precios de carta +26% desde enero 2020. |
 | Coca-Cola Lens, "Value Beyond Price" | mar 2025 | Los 4 ejes del "valor" | (1) Conveniencia — ubicación/rapidez (74%); (2) Calidad — consistencia, raciones ajustadas (54% prefiere raciones más pequeñas); (3) Variedad — personalización (58%), bebidas exclusivas (37% pagaría más); (4) Precio — promociones/fidelización (44%). |
 | EHL, "Hospitality Outlook Report 2026" | 27 nov 2025 | Agentes de IA en hostelería | Distingue la IA actual (apoyo) de la próxima frontera: agentes autónomos que anticipan, deciden y ejecutan. Bien implementados, elevan calidad de servicio preservando el toque humano. |
+| Deloitte US, "Future of Hospitality: AI-Driven Industry Trends" | 14 ene 2026 | Prioridades tecnológicas de los hoteleros — dato | 81% de los hoteleros prioriza aumentar la productividad de sus equipos; 49% incluye "integrar soluciones con IA" entre sus iniciativas tecnológicas prioritarias. **No confundir con** la entrada de Deloitte "How AI is revolutionizing restaurants" (jun 2025) de esta misma sección — son dos informes distintos de la misma consultora, uno centrado en hoteles/viajes (este) y otro en restauración. *(Cifras vía fragmentos de buscador, ver nota de fuente en Big Picture — no verificadas contra el artículo original.)* |
+| Deloitte US, "Future of Hospitality: AI-Driven Industry Trends" | 14 ene 2026 | "Empresa predictiva" como imperativo | Uno de los seis imperativos del informe: usar predicción de datos para desbloquear eficiencia operativa y rentabilidad — converge con la distinción que ya hace EHL entre IA de apoyo y agentes autónomos que anticipan y deciden. |
+| Deloitte US, "Future of Hospitality: AI-Driven Industry Trends" | 14 ene 2026 | Operación responsable como valor central | Uno de los seis imperativos: diseñar propiedades ambientalmente resilientes, adoptar estándares de diseño inclusivo y comprometerse con precios transparentes — converge con "hostelería regenerativa" (net positive) ya registrada de EHL en Big Picture. |
 
 ## 08. ONE QUESTION
 
@@ -195,6 +200,14 @@ los "insights nuevos" del reporte que son refuerzos mutuos, no contradicciones.
   el monopolio de dónde ocurre. Para TBNB (un negocio que vive de que la gente
   salga de casa), esto es más relevante que una simple curiosidad de consumo —
   candidato a **03. THE SHIFTS** o **05. GUEST CULTURE**.
+- **La "operación responsable" de Deloitte confirma "net positive" de EHL desde
+  un ángulo distinto (nuevo, vía Deloitte US):** dos fuentes independientes
+  (una escuela de hostelería, una consultora) llegan a la misma idea —
+  sostenibilidad/transparencia como parte central de la operación, no como
+  RSC aparte — reforzando que es candidata sólida para **02. THE BIG PICTURE**.
+  El imperativo de "empresa predictiva" del mismo informe también refuerza,
+  con otras palabras, la distinción que EHL ya hace entre IA de apoyo y
+  agentes autónomos.
 - **El "optimismo suspicaz" explica el mecanismo psicológico detrás de la
   tensión nº1 (nuevo, vía WGSN):** WGSN aporta la capa emocional que explica
   *por qué* el consumidor pide más automatización a la vez que la rechaza
