@@ -52,6 +52,13 @@ de Drive el 2026-09-17.
   Inpulse.ai, **go.sevenrooms.com está bloqueado** por la política de red de
   esta sesión; contenido vía fragmentos de buscador, no lectura directa del
   PDF.
+- [Innovorder — "15 original restaurant concepts for 2026"](https://www.innovorder.com/en/blog/ideas-restaurant-concepts)
+  (2026, mercado francés, aportado por Andrea el 2026-09-23). Innovorder es una
+  empresa francesa de software de caja/pedidos para restauración — su blog
+  lista arquetipos de concepto, no marcas concretas ni datos cuantitativos.
+  **Nota:** innovorder.com también está bloqueado por la política de red de
+  esta sesión; contenido vía fragmentos de buscador, y solo pudimos confirmar
+  14 de los "15" conceptos que anuncia el título.
 - [Restaurant Business Online — "Papa Johns fights an uphill battle as its
   brand perception lags behind pizza rivals"](https://www.restaurantbusinessonline.com/consumer-trends/papa-johns-fights-uphill-battle-its-brand-perception-lags-behind-pizza-rivals)
   (ago-sep 2026, datos de YouGov BrandIndex, aportado por Andrea el

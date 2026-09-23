@@ -48,6 +48,8 @@ cada capítulo.
 |---|---|---|---|
 | Wallpaper*, "Cup of Joy's London debut" | 28 ago 2026 | Expansión internacional / diseño | Cup of Joy (café/bollería, Estambul 2013, 8 locales en Turquía) abre su primera sede internacional en Marylebone, Londres. EBBA Architects tradujo Estambul a Londres estudiando muros de piedra, huecos y patios sombreados antes de diseñar. |
 | Wallpaper*, "Cup of Joy's London debut" | 28 ago 2026 | Diseño como narrativa de marca | Tazas de cerámica hechas a mano por la cofundadora, con perfiles irregulares — un objeto funcional convertido en identidad de marca y elemento fotografiable. |
+| Innovorder, "15 original restaurant concepts for 2026" (Francia) | 2026 | Catálogo de arquetipos de concepto para 2026 | Listado de arquetipos de concepto (no marcas concretas): experiencia multisensorial (decoración+sonido+olor+carta); comida sana y rápida de proveedores locales con modelo de delivery rentable; conceptos que "hacen viajar el paladar"; "un momento fuera del tiempo, solo para comer"; recuperar clásicos de la gastronomía francesa; menús/ambientación salidos de una película; sabores múltiples bajo un universo común; un solo ingrediente llevado a la perfección; convertir al cliente en cocinero (personalización total del plato); curiosidad por descubrir la solución tras una restricción (ej. alergia/dieta); alimentación funcional y nutritiva; cocina comprometida, feminista, local e inclusiva; platos reconfortantes de la infancia revisitados; mezcla dulce-salado en un ambiente inspirador. *(Nota de fuente: innovorder.com está bloqueado por la política de red de esta sesión; contenido vía fragmentos de buscador — encontramos 14 de los "15" conceptos anunciados en el título, falta uno por identificar si se quiere el listado completo.)* |
+| Innovorder, "15 original restaurant concepts for 2026" | 2026 | Tesis de cierre del artículo | En 2026, los conceptos de restauración más prometedores combinan originalidad, digitalización y sostenibilidad — buena frase candidata a cita si se referencia esta fuente. |
 
 ## 05. GUEST CULTURE
 
@@ -216,6 +218,20 @@ los "insights nuevos" del reporte que son refuerzos mutuos, no contradicciones.
   Coca-Cola documenta con datos duros (precio real +26% desde 2020) el mismo
   fenómeno que Gluttonomy describe como comportamiento (pequeños lujos) — dos
   sectores distintos confirmando lo mismo desde ángulos complementarios.
+- **"Cosy core" de WGSN se confirma desde Francia, de forma independiente
+  (nuevo, vía Innovorder):** uno de los 14 arquetipos de concepto que lista
+  Innovorder para 2026 es "los platos reconfortantes de la infancia
+  revisitados" — es literalmente "Cosy core" (WGSN, Food & Drink) dicho con
+  otras palabras, por una fuente francesa de software de restauración sin
+  relación con WGSN. Dos fuentes de países y sectores distintos coincidiendo
+  en la misma dirección de producto — sube la confianza en "Cosy core" como
+  tendencia real y no solo un nombre bonito de un solo informe.
+- **La cocina "comprometida, feminista, local e inclusiva" conecta con
+  "operación responsable" (nuevo, vía Innovorder):** un tercer ángulo (tras
+  EHL y Deloitte) sobre el mismo fenómeno de propósito/sostenibilidad como
+  parte central de la operación, esta vez a nivel de concepto de producto en
+  vez de estrategia corporativa — refuerza aún más la candidatura de esta
+  idea para **02. THE BIG PICTURE**.
 - **Papa John's es el caso real de los "4 ejes del valor" de Coca-Cola (nuevo,
   vía Restaurant Business Online / YouGov):** Coca-Cola propone el marco
   (conveniencia, calidad, variedad, precio) como cuatro ejes distintos del
