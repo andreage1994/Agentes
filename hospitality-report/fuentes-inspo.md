@@ -34,6 +34,15 @@ de Drive el 2026-09-17.
   Green Lodging News, Hospitality Net), no de una lectura directa del
   artículo. Si alguien tiene acceso directo, vale la pena releerlo entero y
   contrastar las cifras antes de citarlas en la edición final.
+- [Inpulse.ai — Concepts de restauration en 2026: quelles tendances saisir sans
+  sacrifier sa marge?](https://www.inpulse.ai/en/blog/concepts-de-restauration-en-2026-quelles-tendances-saisir-sans-sacrifier-sa-marge)
+  (2026, mercado francés, aportado por Andrea el 2026-09-23). Inpulse.ai es una
+  plataforma de IA para gestión de restaurantes (food cost, márgenes) — su
+  blog es fuente de parte interesada, no un medio neutral, pero las cifras de
+  sector (facturación, tasa de cierre) y los ratios de food cost/margen que
+  cita son útiles igualmente. **Nota:** inpulse.ai también está bloqueado por
+  la política de red de esta sesión — mismo límite que con Deloitte, contenido
+  vía fragmentos de buscador.
 
 ## Otras fuentes ya usadas en la matriz temática
 

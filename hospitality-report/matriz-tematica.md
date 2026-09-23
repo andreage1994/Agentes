@@ -108,6 +108,10 @@ cada capítulo.
 | Deloitte US, "Future of Hospitality: AI-Driven Industry Trends" | 14 ene 2026 | Prioridades tecnológicas de los hoteleros — dato | 81% de los hoteleros prioriza aumentar la productividad de sus equipos; 49% incluye "integrar soluciones con IA" entre sus iniciativas tecnológicas prioritarias. **No confundir con** la entrada de Deloitte "How AI is revolutionizing restaurants" (jun 2025) de esta misma sección — son dos informes distintos de la misma consultora, uno centrado en hoteles/viajes (este) y otro en restauración. *(Cifras vía fragmentos de buscador, ver nota de fuente en Big Picture — no verificadas contra el artículo original.)* |
 | Deloitte US, "Future of Hospitality: AI-Driven Industry Trends" | 14 ene 2026 | "Empresa predictiva" como imperativo | Uno de los seis imperativos del informe: usar predicción de datos para desbloquear eficiencia operativa y rentabilidad — converge con la distinción que ya hace EHL entre IA de apoyo y agentes autónomos que anticipan y deciden. |
 | Deloitte US, "Future of Hospitality: AI-Driven Industry Trends" | 14 ene 2026 | Operación responsable como valor central | Uno de los seis imperativos: diseñar propiedades ambientalmente resilientes, adoptar estándares de diseño inclusivo y comprometerse con precios transparentes — converge con "hostelería regenerativa" (net positive) ya registrada de EHL en Big Picture. |
+| Inpulse.ai, "Concepts de restauration en 2026" (Francia) | 2026 | Panorama del sector — cifras de fondo | La restauración comercial francesa marca en 2026 una facturación récord de más de 123.000 millones de euros, pero los cierres/fracasos de restauración rápida subieron un 19% en el tercer trimestre de 2025 — crecimiento del sector y fragilidad de los conceptos individuales conviven. *(Nota de fuente: inpulse.ai está bloqueado por la política de red de esta sesión; contenido vía fragmentos de buscador, no lectura directa — mismo límite que con Deloitte.)* |
+| Inpulse.ai, "Concepts de restauration en 2026" | 2026 | Por qué fracasan los conceptos | Los conceptos que desaparecen no mueren por falta de ambición ni de buenas ideas de producto: mueren por gestión de stock aproximada, control de food cost inadecuado, e incapacidad de escalar sin perder el control de los ratios. Incluso establecimientos con estrella Michelin cierran el mes con dificultad — el margen neto se queda en 3-4%. |
+| Inpulse.ai, "Concepts de restauration en 2026" | 2026 | Tesis central (cita) | *"Las tendencias atraen a los clientes, los márgenes los retienen."* Los conceptos que perduran son los que entienden esta idea, no los que mejor detectan la moda del momento — línea directamente citable para el reporte. |
+| Inpulse.ai, "Concepts de restauration en 2026" | 2026 | Los mejores ratios estructurales del mercado francés | Pizzerías napolitanas auténticas y bares de pasta artesanal muestran los mejores ratios: food cost del 24-30% y margen bruto del 70-76%. Comparten tres rasgos: menos referencias de producto, ingredientes menos volátiles en precio, y recetas más fáciles de estandarizar. |
 
 ## 08. ONE QUESTION
 
@@ -125,6 +129,10 @@ Espacio para preguntas abiertas/provocadoras candidatas a cerrar el capítulo.
   —asombro, miedo y desilusión conviviendo en la misma persona—, ¿cómo puede la
   hostelería usar IA y automatización sin alimentar la desconfianza que el
   propio consumidor ya trae puesta?
+- **(vía Inpulse.ai)** Si "las tendencias atraen a los clientes, los márgenes
+  los retienen", ¿cuántos de los conceptos más virales de este reporte
+  (bagels con marca, pollo frito viral en TikTok, third-space feels...)
+  sobrevivirían un análisis de food cost antes de copiarlos?
 
 ## 09. THE RADAR
 
@@ -138,6 +146,7 @@ Espacio para preguntas abiertas/provocadoras candidatas a cerrar el capítulo.
 | Bebidas de bienestar mental (adaptógenos, hongos funcionales) | EEUU | Bebidas pensadas para gestionar estrés y mejorar el foco — categoría emergente junto a CBD. | National Restaurant Association, dic 2025 |
 | Croissound | Montreal, Canadá | Estudio que organiza fiestas dentro de cafeterías y panaderías — cruce música/DJ + repostería como nuevo formato de ocio diurno. | WGSN, "Key Trend 2026/27" |
 | Pop-up de Louis Bekk | Amberes, Bélgica | Productor de música francés monta una sesión de DJ dentro de una panadería — mismo patrón que Croissound, en otro país, reforzando que no es un caso aislado. | WGSN, "Key Trend 2026/27" |
+| Ola de pollo frito crujiente viral (Tasty Crousty, Krousty Sabaïdi, Chikin Bang, Chick Chill) | Francia | Explosión de marcas de pollo frito nacidas en TikTok en pocos meses, colonizando dark kitchens y abriendo cientos de locales — caso de manual de tendencia viral sin garantía de que sobreviva al filtro de margen (ver Inpulse.ai en Business of Hospitality). | Inpulse.ai, 2026 |
 
 ## 10. EARLY SIGNAL
 
@@ -198,6 +207,17 @@ los "insights nuevos" del reporte que son refuerzos mutuos, no contradicciones.
   Coca-Cola documenta con datos duros (precio real +26% desde 2020) el mismo
   fenómeno que Gluttonomy describe como comportamiento (pequeños lujos) — dos
   sectores distintos confirmando lo mismo desde ángulos complementarios.
+- **El filtro de margen que le falta a la "indulgencia asequible" (nuevo, vía
+  Inpulse.ai):** Gluttonomy y Coca-Cola describen el lado de la demanda —el
+  cliente quiere pequeños lujos y paga más por lo que siente especial— pero
+  Inpulse.ai aporta el lado de la oferta que ninguna de las dos toca: ese
+  mismo lujo solo es rentable si el food cost lo aguanta. El caso del pollo
+  frito viral en TikTok (radar) es el ejemplo perfecto de tendencia con toda
+  la demanda del mundo y sin garantía de margen — contraste directo con las
+  pizzerías napolitanas/bares de pasta que cita el mismo informe (food cost
+  24-30%, margen bruto 70-76%) precisamente por tener pocas referencias e
+  ingredientes estables. Buen candidato para matizar cualquier sección que
+  recomiende "montarse a una tendencia" sin más.
 - **El "tercer espacio" se muda a casa (nuevo, vía WGSN):** Mintel ("déficit de
   afecto", la gente evita interacción casual pero busca conexión) + Heineken "Bar
   Dating" (una marca intentando reactivar la vida social) + WGSN ("third-space
