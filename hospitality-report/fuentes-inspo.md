@@ -52,6 +52,17 @@ de Drive el 2026-09-17.
   Inpulse.ai, **go.sevenrooms.com está bloqueado** por la política de red de
   esta sesión; contenido vía fragmentos de buscador, no lectura directa del
   PDF.
+- [Restaurant Business Online — "Papa Johns fights an uphill battle as its
+  brand perception lags behind pizza rivals"](https://www.restaurantbusinessonline.com/consumer-trends/papa-johns-fights-uphill-battle-its-brand-perception-lags-behind-pizza-rivals)
+  (ago-sep 2026, datos de YouGov BrandIndex, aportado por Andrea el
+  2026-09-23). Caso de una sola marca (no es un pronóstico de sector), pero
+  cuantifica muy bien la distinción calidad/valor que ya aporta Coca-Cola.
+  **Nota:** restaurantbusinessonline.com también está bloqueado por la
+  política de red de esta sesión pese a estar en la lista de medios de
+  confianza de arriba — contenido vía fragmentos de buscador. Dos búsquedas
+  distintas dieron cifras algo distintas para la tendencia temporal del
+  índice general (ver matriz) — los ejes de valor/calidad sí son
+  consistentes entre ambas.
 
 ## Otras fuentes ya usadas en la matriz temática
 

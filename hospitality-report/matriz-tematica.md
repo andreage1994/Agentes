@@ -117,6 +117,10 @@ cada capítulo.
 | Inpulse.ai, "Concepts de restauration en 2026" | 2026 | Los mejores ratios estructurales del mercado francés | Pizzerías napolitanas auténticas y bares de pasta artesanal muestran los mejores ratios: food cost del 24-30% y margen bruto del 70-76%. Comparten tres rasgos: menos referencias de producto, ingredientes menos volátiles en precio, y recetas más fáciles de estandarizar. |
 | DoorDash + SevenRooms, "2026 Restaurant Industry Trends Report" | 2026 | Demanda real de una app unificada | 64% de los consumidores preferiría una sola app para gestionar delivery, pickup y reservas, en vez de una app distinta para cada cosa — validación de mercado, con encuesta a 3.001 consumidores, de que la fragmentación de herramientas es un problema sentido por el cliente final, no solo por el operador. |
 | DoorDash + SevenRooms, "2026 Restaurant Industry Trends Report" | 2026 | Impacto de los programas de fidelización | 66% de los consumidores pide con más frecuencia en restaurantes donde usa activamente un programa de fidelización — dato a favor de invertir en fidelización propia frente a depender solo de marketplaces de delivery. |
+| Restaurant Business Online (datos de YouGov BrandIndex), "Papa Johns fights an uphill battle..." | ago-sep 2026 | Caso Papa John's — el eje "valor" es el que falla, no la calidad | Papa John's puntúa 8.4 en el eje "Valor" del BrandIndex de YouGov frente a una media de categoría de 14.0 — su mayor déficit, con diferencia. En cambio, en "Calidad" el hueco es pequeño (12.8 frente a un benchmark de 13.5). Caso real y cuantificado de exactamente la distinción que ya hace Coca-Cola en "Value Beyond Price" (esta misma sección): calidad y valor percibido son ejes distintos, y se puede tener una casi resuelta y la otra rota. |
+| Restaurant Business Online (YouGov BrandIndex) | ago-sep 2026 | Caso Papa John's — resto de ejes de marca | Recomendación: 10.6 frente a 14.5 del top-5 de la categoría. Satisfacción: 12.6 frente a 16.6. Impresión general: 15.1 frente a una media de 19.4. Cuadro consistente de una marca por debajo de sus rivales en casi todos los ejes de percepción, no solo en precio. |
+| Restaurant Business Online (YouGov BrandIndex) | ago-sep 2026 | Caso Papa John's — traducción a ventas | Ventas comparables de Papa John's en Norteamérica cayeron 4% (periodo de referencia no precisado con exactitud en las fuentes secundarias consultadas), mientras Domino's creció 3.2% en ventas mismas tiendas EEUU en su año fiscal 2024 — la percepción de marca débil no es solo un problema de imagen, se traduce en cifra de ventas frente al rival directo. |
+| Restaurant Business Online (encuesta de sabor citada en el artículo) | ago-sep 2026 | Caso Papa John's — ranking de sabor entre las 5 grandes cadenas de pizza EEUU | Pizza Hut fue elegida "mejor sabor" por el 19,1% de los consumidores encuestados, Domino's 17,1%, Papa John's 11,4%, Little Caesars 5,3% y Marco's Pizza 4,7% — Papa John's queda tercera en sabor, ni la mejor ni la peor, lo que refuerza que su problema de marca no es (solo) de producto. *(Nota de fuente: restaurantbusinessonline.com está bloqueado por la política de red de esta sesión; contenido vía fragmentos de buscador, no lectura directa del artículo. Dos búsquedas distintas dieron cifras algo distintas para la evolución del índice general de Papa John's en el tiempo —de 7,2 a 10,4 desde marzo, o de 5,5 a 10,4 interanual—, así que esa cifra de tendencia concreta se marca aquí como no verificada con precisión; los ejes de valor/calidad/recomendación/satisfacción/impresión sí son consistentes entre búsquedas.)* |
 
 ## 08. ONE QUESTION
 
@@ -212,6 +216,14 @@ los "insights nuevos" del reporte que son refuerzos mutuos, no contradicciones.
   Coca-Cola documenta con datos duros (precio real +26% desde 2020) el mismo
   fenómeno que Gluttonomy describe como comportamiento (pequeños lujos) — dos
   sectores distintos confirmando lo mismo desde ángulos complementarios.
+- **Papa John's es el caso real de los "4 ejes del valor" de Coca-Cola (nuevo,
+  vía Restaurant Business Online / YouGov):** Coca-Cola propone el marco
+  (conveniencia, calidad, variedad, precio) como cuatro ejes distintos del
+  "valor" percibido; el caso de Papa John's lo demuestra con una marca real:
+  su calidad percibida está casi a la par de sus rivales (12.8 vs 13.5), pero
+  su eje de "valor" está muy por detrás (8.4 vs 14.0) y eso es lo que arrastra
+  ventas. Buen ejemplo concreto para ilustrar el marco teórico de Coca-Cola
+  con una marca que el lector reconoce.
 - **El filtro de margen que le falta a la "indulgencia asequible" (nuevo, vía
   Inpulse.ai):** Gluttonomy y Coca-Cola describen el lado de la demanda —el
   cliente quiere pequeños lujos y paga más por lo que siente especial— pero
