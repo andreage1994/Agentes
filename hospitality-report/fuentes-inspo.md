@@ -71,6 +71,20 @@ de Drive el 2026-09-17.
   índice general (ver matriz) — los ejes de valor/calidad sí son
   consistentes entre ambas.
 
+## Informes de gran consumo (adyacentes a hostelería, no específicos del sector)
+
+- McKinsey & Company, ["State of Food & Beverage: The choices CPG leaders can
+  make to renew growth"](https://www.mckinsey.com) (abr 2026, PDF completo
+  aportado por Andrea el 2026-09-23, leído íntegramente sin bloqueo de red —
+  la fuente más fiable de esta matriz hasta ahora). Es un informe de gran
+  consumo envasado (supermercado), no de hostelería, pero su encuesta propia a
+  15.169 consumidores en 10 mercados (nov-dic 2025) aporta datos de
+  comportamiento de compra, salud, GLP-1 y "share of stomach" restauración vs.
+  supermercado directamente relevantes. Usar con criterio: los casos de marca
+  (Nerds, Sting, Bettergoods, etc.) son de gran consumo puro y solo se han
+  traído a la matriz cuando el patrón es transferible a hostelería (ritual de
+  marca, indulgencia funcional, tácticas de disruptor).
+
 ## Otras fuentes ya usadas en la matriz temática
 
 - Mintel, "2026 Global Consumer Predictions"
