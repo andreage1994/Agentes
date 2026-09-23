@@ -80,6 +80,10 @@ cada capítulo.
 | National Restaurant Association, "What's Hot in 2026" | dic 2025 | Bebidas más saludables y funcionales | Top 5 tendencias de bebida: energéticas bajas/sin azúcar, espirituosos de proximidad, low/no alcohol (Gen Z/millennials), fermentados gut-friendly, hidratación personalizada. Hilo común: personalización + autenticidad + salud. |
 | EHL, "Hospitality Outlook Report 2026" | 27 nov 2025 | El futuro de la comida | Comida como expresión de identidad cultural, no solo nutrición. Trazabilidad por blockchain y sous-vide como transformación tecnológica del "cómo se hace". |
 | WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Dirección de producto — Third-space feels | Productos y formatos pensados para fomentar comunidad e interacción social en casa — respuesta directa a que el consumo social se desplaza del "fuera" al "dentro". |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" ([enlace directo a la página de "Third-space feels"](https://www.wgsn.com/fd/p/article/69026bf597d333da642132f7#page3)) | ed. 2026/27 | Third-space feels — contexto | El auge de "terceros espacios" (supper clubs exclusivos, running clubs, tiendas de yogur que hacen sesiones de DJ) refleja el deseo creciente de la Gen Z de comunidad y experiencias offline de nicho. La cafetería emerge como hub comunitario, como alternativa más relajada y menos centrada en el alcohol a la vida nocturna clásica. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Third-space feels — dato (deporte como third space) | En 2024, los consumidores Gen Z a nivel global eran 4 veces más propensos a querer conocer gente haciendo ejercicio que en un bar (Strava, "Year in Sport"). Refuerza que el "tercer espacio" ya no es necesariamente hostelería — puede ser un club de running. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Third-space feels — estrategias de producto sugeridas | Kits de matcha/hojicha para recrear en casa el ritual social de cafetería; reformular el desayuno como "trato lúdico para todo el día" (pasteles + fiesta, ej. brunch-fiesta); snacks/bebidas funcionales para comunidades deportivas (hidratación, energía, proteína); kits de cena "sin esfuerzo" para la "era de anfitrión" de la Gen Z mayor (Galentine's, Friendsgiving); atajos para explorar cocina global en casa con calidad de restaurante. |
+| WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Third-space feels — ejemplos de producto citados | VUUM Protein Sparkling Water (EEUU): agua con gas + 10g proteína vegetal + 135mg cafeína natural + teanina, sin azúcar. EZ Bomb (EEUU): "Birria Bombs" listas para cocinar solo con agua, viral en TikTok. DELLI x Sambal Shiok (Reino Unido): kit de curry laksa "calidad de restaurante" con receta incluida. |
 | WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Dirección de producto — Food's fun era | Humor y diversión como eje de la oferta de comida y bebida, alejándose del posicionamiento serio/aspiracional. |
 | WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Dirección de producto — Cosy core | Opciones reconfortantes y acogedoras como respuesta emocional, no solo gastronómica. |
 | WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" | ed. 2026/27 | Dirección de producto — Fresh flex | Conveniencia fresca posicionada como lujo accesible — lo fresco y rápido deja de ser "básico" para venderse como aspiracional. |
@@ -130,6 +134,8 @@ Espacio para preguntas abiertas/provocadoras candidatas a cerrar el capítulo.
 | Menús de agua con "water sommelier" | EEUU | Cartas de agua curadas con perfil de sabor y origen — premiumización llevada a un producto básico. | National Restaurant Association, dic 2025 |
 | Soju en el mercado estadounidense | EEUU | Espirituoso coreano ligado a cultura K-pop entra al top de tendencias emergentes de bebida en EEUU. | National Restaurant Association, dic 2025 |
 | Bebidas de bienestar mental (adaptógenos, hongos funcionales) | EEUU | Bebidas pensadas para gestionar estrés y mejorar el foco — categoría emergente junto a CBD. | National Restaurant Association, dic 2025 |
+| Croissound | Montreal, Canadá | Estudio que organiza fiestas dentro de cafeterías y panaderías — cruce música/DJ + repostería como nuevo formato de ocio diurno. | WGSN, "Key Trend 2026/27" |
+| Pop-up de Louis Bekk | Amberes, Bélgica | Productor de música francés monta una sesión de DJ dentro de una panadería — mismo patrón que Croissound, en otro país, reforzando que no es un caso aislado. | WGSN, "Key Trend 2026/27" |
 
 ## 10. EARLY SIGNAL
 
@@ -200,6 +206,14 @@ los "insights nuevos" del reporte que son refuerzos mutuos, no contradicciones.
   el monopolio de dónde ocurre. Para TBNB (un negocio que vive de que la gente
   salga de casa), esto es más relevante que una simple curiosidad de consumo —
   candidato a **03. THE SHIFTS** o **05. GUEST CULTURE**.
+  **Actualización (misma fuente, página específica sobre "Third-space feels"):**
+  el dato de Strava (Gen Z 4x más propensa a querer conocer gente haciendo
+  deporte que en un bar) y los casos de Croissound/Louis Bekk (fiestas dentro
+  de panaderías) muestran que el "tercer espacio" no solo se muda a casa —
+  también migra a formatos que no son hostelería tradicional (clubs de
+  running, panaderías con DJ). El bar/restaurante compite ahora con el
+  gimnasio y la panadería-evento por el mismo rato social, no solo con el
+  salón de casa.
 - **La "operación responsable" de Deloitte confirma "net positive" de EHL desde
   un ángulo distinto (nuevo, vía Deloitte US):** dos fuentes independientes
   (una escuela de hostelería, una consultora) llegan a la misma idea —

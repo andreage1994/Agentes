@@ -39,7 +39,11 @@ de Drive el 2026-09-17.
 
 - Mintel, "2026 Global Consumer Predictions"
 - National Restaurant Association, "What's Hot in 2026"
-- WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities"
+- WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" — [página "Third-space
+  feels"](https://www.wgsn.com/fd/p/article/69026bf597d333da642132f7#page3)
+  aportada por Andrea el 2026-09-23, con estrategias y ejemplos concretos
+  (Croissound, VUUM, EZ Bomb, DELLI x Sambal Shiok) y el dato de Strava sobre
+  Gen Z prefiriendo conocer gente haciendo deporte antes que en un bar.
 - WGSN, "El consumidor del futuro" — serie anual de pronóstico de tendencias de
   consumo (ed. 2027: "Emociones", aportada por Andrea el 2026-09-18). No es un
   informe específico de hostelería, pero WGSN señala explícitamente que moda,
