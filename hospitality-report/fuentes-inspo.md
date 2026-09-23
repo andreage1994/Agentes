@@ -43,7 +43,11 @@ de Drive el 2026-09-17.
   feels"](https://www.wgsn.com/fd/p/article/69026bf597d333da642132f7#page3)
   aportada por Andrea el 2026-09-23, con estrategias y ejemplos concretos
   (Croissound, VUUM, EZ Bomb, DELLI x Sambal Shiok) y el dato de Strava sobre
-  Gen Z prefiriendo conocer gente haciendo deporte antes que en un bar.
+  Gen Z prefiriendo conocer gente haciendo deporte antes que en un bar. La
+  página general del informe (también aportada el 2026-09-23) cita como
+  fuentes originales de sus datos a NielsenIQ ("Spend Z", 2024), Datassential
+  ("2025 Trends Preview Report", 2024) y Statista (2024) — reflejado ya en la
+  matriz temática con esa atribución.
 - WGSN, "El consumidor del futuro" — serie anual de pronóstico de tendencias de
   consumo (ed. 2027: "Emociones", aportada por Andrea el 2026-09-18). No es un
   informe específico de hostelería, pero WGSN señala explícitamente que moda,
