@@ -2,7 +2,7 @@
 
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture) ·
 Identidad Visual
-**Fecha:** 2026-09-25
+**Fecha:** 2026-09-25 · **añadida sección 5 (dirección de fotografía), mismo día**
 **Rol:** Dirección de arte (`lokal-direccion-arte`) — sensaciones, referencias
 y principios. No fija hex ni tipografías finales: eso es trabajo de
 `lokal-diseno-identidad` a partir de este marco.
@@ -52,7 +52,7 @@ demostrarlo.
   Ángulo visual honesto: no aporta referencia de fachada ni de carta, sino de
   cómo se cuida y se presenta a un "equipo" — relevante para uniformidad y
   gestos de servicio, pero **depende de la pregunta abierta sobre el papel
-  del Sports Bar/deporte** (ver sección 5).
+  del Sports Bar/deporte** (ver sección 6).
 - **Sita Murt / Ese o Ese** (moda) — citadas por cómo cuidan y aconsejan al
   cliente, y en el caso de Sita Murt por el valor del textil catalán como
   "algo que vale la pena invertir y ayudar". Ángulo visual: prendas y
@@ -147,7 +147,70 @@ producto sobre mármol con luz de estudio de alta gama.
 
 ---
 
-## 5. Dependencias con las 3 preguntas abiertas de Fase B
+## 5. Dirección de fotografía — qué tipo de imágenes usa la marca
+
+Se deriva directamente de las secciones 1-4: no es un criterio de gusto, es
+la traducción fotográfica de las 5 tensiones y de que el formato es
+take-away sin sala física (el mecanismo de pertenencia es identidad y
+ritual, no espacio — ver Fase A punto 5).
+
+### Cuatro tipos de imagen, en orden de prioridad
+
+1. **Producto, documental, no editorial.** Mordisco real, textura, brillo,
+   grasa y sombra visibles — el bagel se fotografía como algo apetecible
+   primero, saludable después (modelo CAVA/Honest Greens, sección 2.2).
+   Planos cercanos, luz natural, nunca el "plato de dieta perfecto y frío".
+   Es el tipo de imagen que más se repetirá (packaging, carta, redes).
+2. **Gente real — equipo y clientes.** Nunca casting ni sonrisa de stock.
+   Gestos naturales, diversidad real de edades/cuerpos/orígenes (**Pertenencia
+   sin exclusión**). Hasta que se resuelva la pregunta abierta sobre el
+   criterio de "buena presencia", dirigir por energía y autenticidad, no por
+   estética (ver sección 6, punto 3).
+3. **Proceso y manos.** Manos preparando el bagel, mostrador, el momento de
+   entrega — documental, no montado. Referencia directa: Courage Bagels, que
+   no "estiliza" ni siquiera la cola de la gente esperando — la fotografía
+   registra el ritual real, no lo recrea. Es la imagen que más comunica
+   **Quality, but never pretentious** (cuidado visible en el gesto, no en el
+   mármol de estudio).
+4. **Origen y proveedor.** Cuando aparezca un ingrediente o proveedor
+   concreto (el café, un producto de Mercat de Sant Antoni), siempre con cara
+   y nombre reales, nunca con un símbolo genérico de "producto local" o
+   "internacional" — resuelve **International, but never disconnected** tal
+   como ya especifica la sección 4.
+
+### Cómo se ejecutan (luz, color, formato)
+
+- **Luz natural**, nunca de estudio ni de fluorescente de bar de siempre —
+  es el punto medio entre "local, but never closed" (accesible, sin
+  pretensión) y "quality" (cuidado real, no impostado).
+- **Gradación de color anclada a la paleta** (`02-sistema-identidad.md`
+  sección 2): tonos cálidos hacia crema/carbón, con el sage como acento de
+  fondo o de props — nunca un grading frío o desaturado tipo clínica de
+  nutrición.
+- **Formato pensado para llevar la marca fuera del local físico**: al no
+  haber sala, la fotografía en redes/packaging tiene que funcionar también
+  como la "postal" del sitio — gente comiendo en la calle, de camino, en el
+  parque — coherente con el Propósito de Fase B ("vivir bien lo cotidiano").
+
+### Qué evitar explícitamente
+
+| Nunca | Por qué |
+|---|---|
+| Fotografía de stock genérica (manos de modelo, sonrisa perfecta) | Rompe **Trato familiar** y **Pertenencia sin exclusión** de raíz |
+| Comida "perfecta", sin grasa, sombra ni mordisco | El lado fácil de **Healthy, but not boring** (sección 3) |
+| Luz de estudio fría, mármol, fondo de "editorial de revista" | El lado fácil de **Quality, but never pretentious** |
+| Iconografía o atrezzo de "mundo" (mapas, banderas, objetos étnicos como decoración) | El lado fácil de **International, but never disconnected** |
+| Producción distinta o packaging fotografiado de forma distinta cada campaña | Rompe la disciplina de repetición que exige **Homemade, but never ordinary** — ver el caso Leon's Bagels (sección 2.2) |
+
+**Pendiente de validación:** esta dirección de fotografía es un marco, no un
+brief de shooting — antes de la primera producción real (equipo, producto o
+local), conviene una sesión de test con Andrea/Sergio para validar que la
+gradación de color funciona sobre el packaging kraft real, y confirmar con
+Sergi/Susan qué caras del equipo pueden aparecer.
+
+---
+
+## 6. Dependencias con las 3 preguntas abiertas de Fase B
 
 No se asume respuesta en ninguno de los tres casos — se documenta dónde
 impactarían en el mood una vez se resuelvan con Sergi y Susan:
