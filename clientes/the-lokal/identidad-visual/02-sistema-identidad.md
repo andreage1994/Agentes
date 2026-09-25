@@ -2,8 +2,11 @@
 
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture) ·
 Identidad Visual
-**Fecha:** 2026-09-25 (v1) · revisión 2 · **revisión 3, mismo día: texto del
-ticket con identidad real + corrección de THE LOKAL WAY**
+**Fecha:** 2026-09-25 (v1) · revisión 2 · revisión 3 (texto del ticket con
+identidad real + corrección de THE LOKAL WAY) · **revisión 4, mismo día:
+conceptos de logo 1 y 3 sustituidos por feedback directo de Andrea — "muy
+básicos", inspirados ahora en marcas lifestyle (Leon's Bagels, Courage
+Bagels)**
 **Rol:** Diseño de identidad (`lokal-diseno-identidad`) — convierte la
 dirección de arte en especificaciones concretas: logotipo, color, tipografía,
 iconografía. No decide mood ni referencias (`lokal-direccion-arte`, ver
@@ -41,25 +44,32 @@ puntos, de Sergi/Susan) antes de pasar a `lokal-diseno-aplicado`.
 
 ---
 
-## 1. Logotipo — 3 conceptos de dirección a explorar (revisión 2)
+## 1. Logotipo — 3 conceptos de dirección a explorar (revisión 4)
 
-No son artes finales: son direcciones para bocetar y testar. Sustituyen a
-los 3 conceptos de v1 (sello circular, wordmark + garabato, monograma en
-círculo) tras el feedback de que se leían genéricos — eran, literalmente,
-los tres recursos más repetidos del sector de café/bagels.
+No son artes finales: son direcciones para bocetar y testar. Los conceptos 1
+y 3 de esta lista son los de **revisión 4** — sustituyen a "Cabecera de
+barrio" y "Wordmark con ligadura" (revisión 2), que Andrea vio "muy básicos"
+tras ver el artifact en vivo: *"inspirate en marcas mas modernas con estilo
+de vida, como courage bagels o leon bagels para sustituir la propuesta de
+logo 1 y 3. manten la 2"*. El concepto 2 (Ticket de barra) no cambia.
 
-### Concepto 1 — "Cabecera de barrio" (masthead editorial)
+### Concepto 1 — "Parche de club" (antes: "Cabecera de barrio")
 
-El wordmark "The Lokal" tratado como la cabecera de un fanzine o gaceta de
-barrio: tipografía Fraunces en peso grueso, flanqueada por dos filetes finos
-(arriba y abajo, como un masthead de prensa) y una línea pequeña tipo
-"GACETA LOCAL · Nº 01" encima.
+Un parche/badge de 208px, fondo sage, con franjas superior e inferior de
+motivo de damero (checker, no tartán escocés — deliberadamente sin
+apropiarse de un patrón cultural concreto): eyebrow "BARCELONA" en mono,
+"THE LOKAL" en Bricolage Grotesque ExtraBold a dos líneas, filete fino y
+caption "EL CLUB".
 
-- **Por qué encaja:** responde directamente al feedback de "más editorial" —
-  usa un código visual de publicación/medio local, no de marca de
-  restauración. Conecta con la Visión de Fase B ("convertirse en una
-  referencia"). Resuelve **Quality, but never pretentious**: la disciplina
-  tipográfica hace el trabajo, sin ningún ornamento.
+- **Referencia directa:** el parche gráfico de **Leon's Bagels** (tartán,
+  tipografía condensada bold, actitud de equipo/streetwear) — pero
+  sustituyendo el tartán por un damero neutro.
+- **Por qué encaja:** "EL CLUB" no es decoración — es el mecanismo de
+  pertenencia que Fase A ya identificó como el patrón común de
+  Leon's/Courage/PopUp Bagels (identidad y ritual, no sala física, clave
+  porque el formato es take-away). Resuelve **Homemade, but never ordinary**
+  *(tensión corregida — ver `fase-b-plataforma-marca.md` v3)*: un parche de
+  club no es genérico, es una credencial.
 
 ### Concepto 2 — "Ticket de barra" (revisión 3 — texto con identidad, no relleno)
 
@@ -85,19 +95,24 @@ que sí dicen algo de la marca:
   `fase-b-plataforma-marca.md` v3)* y da un uso concreto, escalable y
   coleccionable a las 5 tensiones de THE LOKAL WAY.
 
-### Concepto 3 — Wordmark con ligadura (solo tipografía, sin marco)
+### Concepto 3 — "Wordmark a sangre" (antes: "Wordmark con ligadura")
 
-"the" + "Lokal" en Bricolage Grotesque, unidos por un pequeño punto de
-enlace en sage — sin badge, sin icono, sin marco. Referencia directa: marcas
-lifestyle como Aesop, que no necesitan un símbolo para reconocerse.
+"the lokal" en Bricolage Grotesque ExtraBold, a una escala deliberadamente
+grande dentro de un contenedor oscuro (carbón), recortado a sangre por
+ambos lados — sin badge, sin icono, sin marco, sin nada que "quepa" dentro
+del recuadro.
 
-- **Por qué encaja:** resuelve **Pertenencia sin exclusión** — nada que
-  "descifrar" — y es la dirección más "lifestyle" de las tres, al apoyarse
-  solo en el nombre bien tratado.
+- **Referencia directa:** la restricción de **Courage Bagels** (sin badge,
+  sin icono, toda la confianza puesta en la tipografía y la escala).
+- **Por qué encaja:** más contundente que la ligadura de v2 (que seguía
+  siendo "un wordmark cuidado" y no arriesgaba nada) — aquí la marca se
+  comporta como si fuera más grande que el propio marco, sin nada que
+  descifrar. Resuelve **Pertenencia sin exclusión** y **Quality, but never
+  pretentious** por pura contención tipográfica, no por ornamento.
 
 **Pendiente de validación:** elegir uno (o combinar, p. ej. Concepto 1 como
-cabecera para packaging/carta + Concepto 3 como wordmark digital ligero) y
-llevarlo a boceto real con Andrea/Sergio.
+credencial de club para packaging/merchandising + Concepto 3 como wordmark
+digital de gran formato) y llevarlo a boceto real con Andrea/Sergio.
 
 ---
 
@@ -257,7 +272,8 @@ resto del sistema — **Homemade, but never inconsistent**.
 ## 5. Resumen de lo que necesita validación de Andrea/Sergio antes de pasar a `lokal-diseno-aplicado`
 
 1. **Elegir concepto de logotipo** (o combinación) entre los tres descritos
-   en la sección 1 — hoy son direcciones, no una decisión.
+   en la sección 1 (revisión 4: Parche de club / Ticket de barra / Wordmark
+   a sangre) — hoy son direcciones, no una decisión.
 2. **Confirmar los hex de la paleta** tras prueba real sobre papel kraft e
    impresión (el color percibido cambia sobre soporte no blanqueado).
 3. **Decidir si Fraunces se descarta o se testa** como tipografía de
