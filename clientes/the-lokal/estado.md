@@ -1,10 +1,11 @@
-# Estado del proyecto — The Local
+# Estado del proyecto — The Lokal
 
-**Nombre anterior del proyecto:** "The Green Society" — renombrado el 2026-09-17
-por decisión de los fundadores.
+**Nombres anteriores del proyecto:** "The Green Society" (hasta 2026-09-17) →
+"The Local" (2026-09-17 a 2026-09-25) → **"The Lokal"**, nombre definitivo
+confirmado por los fundadores el 2026-09-25.
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture)
 **Flujo:** `concepto-narrativa-marca`
-**Última actualización:** 2026-09-18
+**Última actualización:** 2026-09-25
 
 ## Resumen del proyecto
 
@@ -23,19 +24,23 @@ por decisión de los fundadores.
   que rehacer solo la parte de zona del territorio competitivo en
   `fase-a-investigacion-mercado.md` (tabla de competidores cercanos y la
   pendiente de "visita física"), no el resto de la Fase A ni la Fase B.
-- **Cambio de nombre (2026-09-17):** los fundadores han decidido llamar al
-  proyecto **"The Local"**, dejando atrás "The Green Society" — coherente con
+- **Cambio de nombre (2026-09-17):** los fundadores decidieron llamar al
+  proyecto "The Local", dejando atrás "The Green Society" — coherente con
   el riesgo de asociación con cannabis que ya detectamos en la Fase A (ver
   `fase-a-investigacion-mercado.md`, sección 5).
-- **Nombre reabierto (2026-09-18):** los fundadores están valorando ahora
-  "The Lokal" en su lugar, porque sospechan que "The Local" ya existe en
-  Barcelona. Investigado y confirmado — ver
-  `fase-a-investigacion-mercado.md`, nota final: sí hay un negocio activo con
-  el nombre literal "The Local Bcn" (espacio de eventos, sector distinto) y
-  un bar-restaurante similar ("LOCAL kitchen & bar", sin "The", otra zona).
-  Riesgo de confusión física bajo, riesgo de solape en SEO/redes real. Queda
-  pendiente de decisión de Andrea y los fundadores — no cerrado todavía, a
-  diferencia de lo que decía esta nota antes.
+- **Nombre reabierto (2026-09-18):** surgió la duda de pasar a "The Lokal",
+  porque ya existe un negocio activo en Barcelona con el nombre literal
+  "The Local Bcn" (espacio de eventos, sector distinto) y uno muy cercano en
+  nombre ("LOCAL kitchen & bar", sin "The", otra zona) — ver
+  `fase-a-investigacion-mercado.md`, nota de investigación. Riesgo de
+  confusión física bajo, riesgo de solape en SEO/redes real.
+- **Nombre definitivo (2026-09-25): "The Lokal".** Confirmado por los
+  fundadores. Carpeta y documentos renombrados de `the-local/` a `the-lokal/`.
+  Este mismo día Andrea compartió el "Brand Strategy Book" (Google Slides/PDF,
+  `CONCEPTO_Y_NARRATIVA_DE_MARCA_GS_X_TBNB`) con propósito, misión y visión ya
+  redactados por el equipo de TBNB a partir del borrador de
+  `fase-b-plataforma-marca.md` — ver esa Fase B, ahora actualizada a v2 con
+  esa versión oficial.
 - Andrea ya exploró 4 rutas de naming/posicionamiento (ver notas) y propone un ejercicio
   de "construir El Club" (pertenencia, rituales, código cultural) antes de cerrar nombre.
 - Referencias de inspiración aportadas por el cliente/Andrea: PopUp Bagels, Leo's Bagels
@@ -62,17 +67,23 @@ por decisión de los fundadores.
         local / inferencia. El punto de Gen Z/Millennials es investigación
         general, no validación del target (target aún sin confirmar).
 - [ ] **GATE 1 · ¿Es correcta esta lectura del mercado?** — pendiente de tu respuesta
-- [ ] **Fase B · Plataforma de Marca** — **v1 lista** (2026-09-18), ver
-      `fase-b-plataforma-marca.md`: implicaciones estratégicas, propósito,
-      visión, misión y valores, construidos sobre `analisis-cuestionario-kickoff.md`
-      y `fase-a-investigacion-mercado.md` (v4). Sigue pendiente de validar con
-      los fundadores en el GATE 2. Quedan 3 preguntas abiertas señaladas en el
-      propio documento, donde afectan directamente a misión o valores: papel
-      de la coctelería, papel del "Sports Bar"/deporte en la narrativa, y el
-      criterio de contratación "por imagen" que los propios fundadores
-      señalan como delicado.
+- [ ] **Fase B · Plataforma de Marca** — **v2** (2026-09-25), ver
+      `fase-b-plataforma-marca.md`: propósito, misión y visión reemplazados por
+      la versión oficial del Brand Strategy Book de TBNB (que partió del
+      borrador v1 de este mismo documento), más el mantra **"THE LOKAL WAY"**
+      y la definición concreta de "¿qué es saludable para The Lokal?" a nivel
+      de producto (bagels y bebidas). **Ojo:** las 3 preguntas abiertas de v1
+      (papel de la coctelería, papel del "Sports Bar"/deporte, criterio de
+      contratación "por imagen") **no aparecen resueltas** en el Brand
+      Strategy Book — siguen abiertas, no las he dado por cerradas.
 - [ ] **GATE 2 · ¿Es esta la marca que queremos construir?** — pendiente
-- [ ] **Fase C · Desarrollo aplicado** (ecosistema, comunidad, aplicación, roadmap) — pendiente
+- [~] **Fase C · Desarrollo aplicado** — **arrancada** (2026-09-25): el Brand
+      Strategy Book ya incluye un índice de qué cubre el "Diseño del
+      ecosistema" (identidad visual, lenguaje y tono, packaging, uniformidad
+      del equipo, naming de productos, música, rituales, gestos de servicio...)
+      — ver `fase-c-diseno-ecosistema.md`. Primer bloque en marcha: **identidad
+      visual**, con equipo de agentes creado en `.claude/agents/` (ver más
+      abajo).
 - [ ] **GATE 3 · ¿Se entrega al cliente?** — pendiente
 
 ## Decisiones tomadas en gates
@@ -81,7 +92,8 @@ por decisión de los fundadores.
 
 ## Próximo paso
 
-Compartir `fase-b-plataforma-marca.md` con Sergi y Susan, resolver ahí las 3
-preguntas abiertas (coctelería, deporte, criterio de contratación) y cerrar
-el GATE 2. En paralelo, en cuanto haya nueva ubicación, actualizar solo la
-parte de zona del territorio competitivo en la Fase A.
+Resolver con Sergi y Susan las 3 preguntas abiertas que siguen sin respuesta
+(coctelería, deporte, criterio de contratación) y cerrar el GATE 2. En
+paralelo, avanzar la identidad visual con el equipo de agentes creado (ver
+`fase-c-diseno-ecosistema.md`). Cuando haya nueva ubicación, actualizar solo
+la parte de zona del territorio competitivo en la Fase A.

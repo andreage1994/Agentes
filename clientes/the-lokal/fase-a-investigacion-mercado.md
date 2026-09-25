@@ -1,8 +1,9 @@
-# Fase A · Investigación de Mercado — The Local (antes "The Green Society")
+# Fase A · Investigación de Mercado — The Lokal (antes "The Local" y "The Green Society")
 
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture)
-**Ubicación del proyecto:** Avinguda Josep Tarradelles 58, Barcelona
-**Fecha:** 2026-09-18
+**Ubicación del proyecto:** por decidir — el local previsto en Avinguda Josep
+Tarradelles 58 se cayó (ver `estado.md`)
+**Fecha:** 2026-09-18 (contenido) · nombre actualizado a "The Lokal" el 2026-09-25
 **Revisión:** v4 — a petición de Andrea: (1) se reorganiza el territorio competitivo
 bajo la estructura "Territorio Competitivo > Competencia directa / Competencia
 indirecta", "Espacio de mercado detectado", "Oportunidad Estratégica" y
@@ -219,15 +220,14 @@ contenido) más que motivaciones de fondo — útiles para el "cómo", no para e
   presencia online. No es solo una percepción: es una marca real con ese nombre
   exacto. [Green Society Canada](https://greensocietycanada.com/) · [Cannabis Monster — Green Society brand](https://www.cannabismonster.com/brand/green-society-390)
 
-  **✅ Resuelto (2026-09-17):** los fundadores han decidido renombrar el
-  proyecto a **"The Local"**, dejando atrás este riesgo. El nombre queda
-  cerrado a partir de aquí.
+  **✅ Resuelto (2026-09-17):** los fundadores decidieron renombrar el
+  proyecto a "The Local", dejando atrás este riesgo.
 
-  **⚠️ Nueva duda abierta (2026-09-18):** los fundadores están valorando si
-  renombrar de nuevo, esta vez a "The Lokal", por sospecha de que ya existe un
-  negocio llamado "The Local" en Barcelona. Ver la nota de investigación al
-  final de este documento — es un insumo para decidir, no una decisión tomada
-  aquí.
+  **✅ Resuelto de nuevo (2026-09-25):** por sospecha de que ya existía un
+  negocio llamado "The Local" en Barcelona (ver la nota de investigación al
+  final de este documento, que confirmó el riesgo de solape), los fundadores
+  han renombrado el proyecto por segunda vez, ahora a **"The Lokal"** —
+  nombre definitivo, carpeta y documentos ya actualizados.
 
 - **Corrección importante de Andrea sobre el "club" (v2):** en la v1 de este
   documento se presentaba la grada/plantero (asientos exteriores) como un intento
@@ -365,7 +365,7 @@ contenido) más que motivaciones de fondo — útiles para el "cómo", no para e
      dispersarse en una carta amplia.
   - **Lectura para el proyecto:** ninguna de estas seis palancas depende de tener
     sala o asientos — todas son compatibles con un formato take-away/ventanilla.
-    Es la base más sólida y transferible para diseñar "el club" de The Local en
+    Es la base más sólida y transferible para diseñar "el club" de The Lokal en
     Fase B: ritual propio (para bagel y/o para el cóctel sin alcohol), gestión de
     cola/escasez como activo social, estética fotografiable, agenda de
     colaboraciones, y una historia de origen personal (la propia historia real de
@@ -485,7 +485,7 @@ documentados en el punto 5):**
    en vez de forzar que cada plato parezca sano (Honest Greens con su corner de
    "healthy indulgences", Le Pain Quotidien con su galleta gigante junto al pan
    integral). Esto permite ofrecer un producto claramente placentero sin diluir
-   el mensaje de salud del conjunto — muy aplicable a The Local: el bagel/café
+   el mensaje de salud del conjunto — muy aplicable a The Lokal: el bagel/café
    puede convivir con un cóctel sin alcohol "de indulgencia" sin que ninguno de
    los dos tenga que fingir ser lo que no es.
 3. **Usan autoridad de fondo (nutricionista, médico, chef) para legitimar sin
@@ -590,11 +590,13 @@ fundadores.
 
 ## 9. Dirección estratégica
 
-**Riesgo ya resuelto:** el nombre "The Green Society" coincidía con una marca de
-cannabis activa (Vancouver). Los fundadores han decidido renombrar el proyecto
-a **"The Local"** (2026-09-17) — el riesgo queda cerrado, no hace falta
-resolverlo en Fase B. **Nueva duda abierta sobre el propio nombre "The Local"**:
-ver la nota de investigación al final de este documento.
+**Riesgo de nombre ya resuelto (dos veces):** el nombre "The Green Society"
+coincidía con una marca de cannabis activa (Vancouver); los fundadores
+renombraron el proyecto a "The Local" (2026-09-17). Después, la nota de
+investigación al final de este documento confirmó que "The Local" también
+coincidía con negocios reales de Barcelona, así que los fundadores volvieron
+a renombrar el proyecto, esta vez a **"The Lokal"** (2026-09-25) — nombre
+definitivo, no hace falta resolver nada más al respecto en Fase B.
 
 La dirección que proponemos para Fase B, por orden de peso:
 
@@ -623,9 +625,9 @@ trabajo antes de cerrar Fase B.
 
 - **Qué hemos encontrado:**
   1. Un hueco de mercado real en Barcelona en el cruce bagel + sobriedad premium +
-     comunidad. El riesgo que detectamos con el nombre "The Green Society" ya
-     se ha resuelto: el proyecto se llama ahora **"The Local"** — aunque ver el
-     punto 4 más abajo, ese nombre tiene ahora su propia pregunta abierta.
+     comunidad. El riesgo que detectamos con el nombre "The Green Society" y,
+     después, con "The Local" (ver punto 6 más abajo) ya está resuelto: el
+     proyecto se llama ahora **"The Lokal"**, nombre definitivo.
   2. El formato take-away/grab-and-go tiene respaldo claro de tendencia de mercado.
   3. **El "club" se construye con identidad de marca y ritual, no con mobiliario
      (grada = Fase C).** Ahora con tres casos documentados (Leon's Bagels, Courage
@@ -662,7 +664,7 @@ trabajo antes de cerrar Fase B.
 - **Qué le falta validar a Andrea:**
   1. Si el patrón común de los tres casos de bagel (ritual, cola/escasez,
      estética, colaboraciones, historia de origen) es el tipo de mecanismo que
-     quiere llevar a Fase B para "el club" de The Local, o si prefiere
+     quiere llevar a Fase B para "el club" de The Lokal, o si prefiere
      dar más peso a unas palancas que a otras.
   2. Si esta lectura del mercado encaja con lo que ella conoce de primera mano
      del barrio y del cliente.
@@ -675,10 +677,9 @@ trabajo antes de cerrar Fase B.
   4. Si quiere que sigamos afinando el pilar de café de especialidad (por ejemplo,
      con una llamada o visita para obtener precios reales) antes del GATE 1, dado
      que la investigación online tiene un límite claro de cobertura en este punto.
-  5. **Nuevo en v4:** si, con el hallazgo de que "The Local" ya existe como
-     nombre en Barcelona (aunque en un sector distinto), los fundadores quieren
-     mantener el nombre, pasar a "The Lokal", o abrir una tercera opción — no es
-     algo que debamos decidir en esta fase de investigación.
+  5. **Resuelto (2026-09-25):** con el hallazgo de que "The Local" ya existía
+     como nombre en Barcelona, los fundadores decidieron pasar a "The Lokal" —
+     ya no es una pregunta abierta.
 
 ## Nota de investigación: ¿existe ya "The Local" en Barcelona? (2026-09-18)
 
@@ -718,7 +719,7 @@ naming (eso es Fase B).
 **Lo que no hemos encontrado:** ninguna cafetería, panadería o negocio de
 bagels/café de especialidad llamado exactamente "The Local" en Barcelona. El
 solape de nombre existe, pero no hay (con la evidencia reunida) un competidor
-que combine nombre idéntico y mismo formato de producto que The Local.
+que combine nombre idéntico y mismo formato de producto que The Lokal.
 
 **Conclusión honesta para decidir:** sí existe un negocio activo en Barcelona
 con el nombre literal "The Local" (un espacio de eventos, sector distinto al
@@ -730,8 +731,8 @@ mismo formato ni en la misma zona que el proyecto (cafetería take-away de
 especialidad en Tarradelles 58), así que el riesgo de confusión directa
 puerta-a-puerta parece bajo, pero el riesgo de solape de nombre en búsquedas,
 redes sociales y SEO (Google, Instagram, reservas) es real, sobre todo frente a
-"The Local Bcn" por la coincidencia exacta del nombre. **Recomendamos
-verificar directamente (visitando la web o el perfil, sin el bloqueo de red
-que hemos tenido en esta investigación) antes de que los fundadores decidan
-entre mantener "The Local", pasar a "The Lokal" o valorar otra opción** — esta
-nota es un insumo, no una recomendación de naming.
+"The Local Bcn" por la coincidencia exacta del nombre.
+
+**Actualización (2026-09-25):** con este riesgo sobre la mesa, los fundadores
+decidieron renombrar el proyecto a **"The Lokal"** — nombre definitivo. Esta
+nota queda como el registro de por qué se tomó esa decisión.

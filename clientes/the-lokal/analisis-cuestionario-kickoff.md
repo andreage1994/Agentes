@@ -1,23 +1,19 @@
-# Análisis del cuestionario de kick-off — The Local
+# Análisis del cuestionario de kick-off — The Lokal
 
 **Fuente:** respuestas de Sergi y Susan (fundadores) al formulario de kick-off,
 recibidas el 17/09/2026. El archivo original conserva el nombre del proyecto
-en su fase anterior ("The Green Society") porque así se llamaba el formulario
-cuando se envió — no afecta al cambio de nombre a "The Local", ya cerrado.
+en su fase más antigua ("The Green Society") porque así se llamaba el
+formulario cuando se envió — no afecta al nombre definitivo actual, "The
+Lokal" (confirmado el 2026-09-25, antes brevemente "The Local").
 
-**Qué desbloquea:** con esto ya tenemos el input que faltaba para la
+**Qué desbloqueó:** con esto se consiguió el input que faltaba para la
 **Fase B · Plataforma de Marca** (`estado.md` la marcaba como BLOQUEADA
 exactamente por esto). Este documento hace dos cosas: (1) desgrana y organiza
 las respuestas del cliente, cruzándolas con lo ya investigado en Fase A, y
-(2) propone un primer borrador de propósito/visión/misión/valores — la
-"bajada a tierra" que pediste. Es un borrador para validar con Sergi y Susan
-en el GATE 2, no la Fase B cerrada todavía.
-
-Nota sobre el nombre: en el chat te has referido al proyecto como "Lokal".
-No he tocado nada de nomenclatura por eso — si es un nuevo nombre confirmado
-por los fundadores (como pasó con "The Local"), dímelo explícitamente y lo
-actualizo en todos los documentos igual que la vez anterior. Mientras tanto
-sigo usando "The Local", que es el nombre cerrado en `estado.md`.
+(2) propone un primer borrador de propósito/visión/misión/valores. Ese
+borrador dio pie a la versión oficial que TBNB terminó de redactar y que hoy
+vive en `fase-b-plataforma-marca.md` (v2) — este análisis queda como el
+registro de por dónde empezó.
 
 ---
 

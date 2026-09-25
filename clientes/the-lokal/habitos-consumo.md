@@ -1,4 +1,4 @@
-# Cambios de Hábitos de Consumo — The Local
+# Cambios de Hábitos de Consumo — The Lokal
 
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture) — Fase A
 **Documento:** complementario a `fase-a-investigacion-mercado.md` (v3). No sustituye
@@ -33,12 +33,13 @@ metodología, tamaño de muestra o fecha exacta de publicación en la mayoría d
 casos — solo en el caso de Bacardi, donde varias fuentes coinciden en "11.000
 encuestados en 11 mercados, 1.000 en España".
 
-**Nota sobre el punto 7 (Gen Z/Millennials):** el cliente (The Local, antes "The Green Society")
-**todavía no ha definido su target con precisión** — el cuestionario de
-kick-off no se ha recibido. Por tanto, el punto 7 es investigación general sobre
+**Nota sobre el punto 7 (Gen Z/Millennials):** en el momento de escribir esto,
+el cliente (hoy "The Lokal"; antes "The Green Society" y "The Local")
+**todavía no había definido su target con precisión** — el cuestionario de
+kick-off no se había recibido. Por tanto, el punto 7 es investigación general sobre
 hábitos de consumo de Gen Z/Millennials en hostelería, no una descripción del
-"target confirmado" del proyecto. No debe leerse como validación de que este es
-el cliente objetivo de The Local.
+"target confirmado" del proyecto en ese momento. No debe leerse como validación de que este era
+el cliente objetivo de The Lokal.
 
 ---
 
@@ -420,7 +421,7 @@ el cliente objetivo de The Local.
 **Aviso explícito, repetido de la nota inicial:** el target del proyecto **no
 está confirmado** (falta el cuestionario de kick-off de Andrea). Este punto es
 investigación general sobre cómo consume Gen Z/Millennials en hostelería en
-España, no una descripción validada del cliente objetivo de The Local.
+España, no una descripción validada del cliente objetivo de The Lokal.
 
 **Observaciones**
 
