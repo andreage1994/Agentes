@@ -1,7 +1,8 @@
 # Fase B · Plataforma de Marca — The Lokal
 
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture)
-**Fecha:** 2026-09-18 (v1) · **2026-09-25 (v2)**
+**Fecha:** 2026-09-18 (v1) · 2026-09-25 (v2) · **v3, mismo día: corrección de
+THE LOKAL WAY y de las implicaciones estratégicas, directamente de Andrea**
 **Fuentes:** `fase-a-investigacion-mercado.md` (v4), `analisis-cuestionario-kickoff.md`
 (respuestas de Sergi y Susan) y el **Brand Strategy Book** de TBNB
 (`CONCEPTO_Y_NARRATIVA_DE_MARCA_GS_X_TBNB`, compartido por Andrea el
@@ -99,21 +100,46 @@ rato de mirarse a los ojos..."; se mantiene el mismo espíritu de fondo.)*
 > Propósito: *vivir bien lo cotidiano* → Misión: *hacerlo fácil, rico y
 > cercano* → Visión: *convertirnos en esa forma de vivir*.
 
-### THE LOKAL WAY — el mantra de marca
+### Implicaciones estratégicas (versión corregida, 2026-09-25)
 
-El Brand Strategy Book resume la identidad en cinco tensiones deliberadas,
-cada una con un "pero" que evita el cliché fácil:
+> The Lokal representa una forma contemporánea de entender lo local.
+>
+> The Lokal no importa culturas. Las interpreta desde aquí.
+>
+> Esta mezcla entre lo global y lo próximo se convierte en uno de los
+> principales códigos de la marca.
 
-- **Local, but good.**
-- **Healthy, but not never boring** *(sic — "pero nunca aburrido")*.
+*(Sustituye a la primera redacción de esta idea, algo más tosca: "The Lokal
+no importa cultura. La interpreta desde local... una de las palancas claves
+para diferenciarnos". Mismo concepto, mejor formulado por Andrea.)*
+
+### THE LOKAL WAY — el mantra de marca (corregido, 2026-09-25)
+
+Cinco tensiones deliberadas, cada una con un "pero" que evita el cliché
+fácil. **Esta es la versión correcta — corrige los "not never" (errores de
+tecleo) de la primera lectura, y cambia el sentido de dos tensiones, no solo
+la redacción:**
+
+- **Local, but never closed.** *(antes decía "Local, but good" — ya no es
+  sobre el nivel de calidad, es sobre no ser un sitio cerrado/excluyente.)*
+- **Healthy, but never boring.**
 - **International, but never disconnected.**
-- **Homemade, but never inconsistent.**
-- **Quality, but not never pretentious** *(sic — "pero nunca pretencioso")*.
+- **Homemade, but never ordinary.** *(antes decía "Homemade, but never
+  inconsistent" — ya no es sobre control de calidad/repetición, es sobre no
+  caer en lo genérico.)*
+- **Quality, but never pretentious.**
 
 Es la formulación más citable y aplicable del documento para el trabajo de
 identidad visual: cada aplicación (packaging, tono de redes, carta) se puede
 contrastar contra estos cinco pares para comprobar que no se ha caído en el
 lado fácil de ninguno.
+
+**Nota para quien retome `01-direccion-arte.md` y `02-sistema-identidad.md`:**
+esos documentos todavía citan la redacción anterior de "Local, but good" y
+"Homemade, but never inconsistent" en varios sitios (qué evitar, cómo se
+traduce cada tensión). El cambio de sentido es real, no solo de palabras —
+conviene que `lokal-direccion-arte` revise esas dos tensiones específicamente
+en la próxima pasada, en vez de dar por válida la prose antigua.
 
 ## 5. Valores — principios que guían las decisiones
 

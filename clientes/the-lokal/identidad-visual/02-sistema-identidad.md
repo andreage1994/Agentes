@@ -2,7 +2,8 @@
 
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture) ·
 Identidad Visual
-**Fecha:** 2026-09-25 (v1) · **revisión 2, 2026-09-25 mismo día**
+**Fecha:** 2026-09-25 (v1) · revisión 2 · **revisión 3, mismo día: texto del
+ticket con identidad real + corrección de THE LOKAL WAY**
 **Rol:** Diseño de identidad (`lokal-diseno-identidad`) — convierte la
 dirección de arte en especificaciones concretas: logotipo, color, tipografía,
 iconografía. No decide mood ni referencias (`lokal-direccion-arte`, ver
@@ -60,16 +61,29 @@ barrio: tipografía Fraunces en peso grueso, flanqueada por dos filetes finos
   referencia"). Resuelve **Quality, but never pretentious**: la disciplina
   tipográfica hace el trabajo, sin ningún ornamento.
 
-### Concepto 2 — "Ticket de barra"
+### Concepto 2 — "Ticket de barra" (revisión 3 — texto con identidad, no relleno)
 
 Un ticket rectangular con borde de perforación (línea discontinua + dos
 muescas circulares, como un tique de mostrador o de coat-check), con "the
-lokal" dentro y una línea tipo "SIRVE Nº 01" / "HECHO HOY · LOCAL".
+lokal" dentro. Tras el feedback de que el texto de apoyo era relleno
+genérico ("SIRVE Nº 01" / "HECHO HOY · LOCAL"), se sustituye por dos líneas
+que sí dicen algo de la marca:
+
+- **Línea superior:** "GLOBAL, DESDE AQUÍ" — traducción a formato ticket de
+  la idea de las implicaciones estratégicas de Fase B: *"The Lokal no
+  importa culturas. Las interpreta desde aquí."*
+- **Línea inferior:** el "Nº" deja de ser un número de pedido y pasa a ser
+  la **edición de THE LOKAL WAY** que estampa esa tirada de packaging —
+  "Nº 01 — LOCAL, BUT NEVER CLOSED", rotando entre las 5 tensiones del
+  mantra (Nº 01 a Nº 05) en distintas tiradas de bolsas/pegatinas/servilletas.
 
 - **Por qué encaja:** es un objeto real de barra/mercado, no un sello de
-  artesano genérico (el recurso circular más visto del sector). Vive bien
-  estampado en bolsas y vasos. Resuelve **Local, but good** con algo
-  concreto y cotidiano, no folclórico.
+  artesano genérico (el recurso circular más visto del sector), y ahora
+  además convierte cada ticket en una pequeña declaración de marca en vez
+  de un dato de utilería. Resuelve **Local, but never closed** *(antes
+  citaba "Local, but good" — ver la nota de sentido en
+  `fase-b-plataforma-marca.md` v3)* y da un uso concreto, escalable y
+  coleccionable a las 5 tensiones de THE LOKAL WAY.
 
 ### Concepto 3 — Wordmark con ligadura (solo tipografía, sin marco)
 
