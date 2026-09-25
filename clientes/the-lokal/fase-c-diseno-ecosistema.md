@@ -22,7 +22,7 @@ Checklist tal como lo definió el Brand Strategy Book. Estado de cada pieza:
 
 | Pieza | Estado | Dueño / próximo paso |
 |---|---|---|
-| Identidad visual (logo, color, tipografía, sistema) | 🟡 **En marcha** | Dirección de arte (`01-direccion-arte.md`) y sistema de identidad (`02-sistema-identidad.md`, 2026-09-25) listos: 3 conceptos de logo, paleta de 6 hex, tipografía (Bricolage Grotesque/Fraunces + Work Sans + IBM Plex Mono) e iconografía básica — todo pendiente de validación de Andrea/Sergio antes de pasar a `lokal-diseno-aplicado`. |
+| Identidad visual (logo, color, tipografía, sistema) | 🟡 **En marcha** | `02-sistema-identidad.md` en revisión 2 (2026-09-25) tras feedback directo: paleta reducida de 6 a 4 colores con **sage** (`#96A178`, pedido por Sergi y Susan) como protagonista, y 3 nuevos conceptos de logo más distintivos (cabecera de barrio, ticket de barra, wordmark con ligadura) sustituyendo los de v1, vistos como genéricos. Vista visual en artifact (canvas de identidad). Sigue pendiente de validación de Andrea/Sergio antes de pasar a `lokal-diseno-aplicado`. |
 | Lenguaje y tono | ⚪ Pendiente | Puede apoyarse en el tono ya definido para `comunicacion-redes-sociales/` (aunque ese es el tono de TBNB hacia sus clientes, no el de The Lokal hacia los suyos — habrá que definirlo aparte). |
 | Códigos gráficos | 🟡 En marcha, dentro de identidad visual | — |
 | Packaging | ⚪ Pendiente | Depende de que la identidad visual tenga ya paleta/tipografía cerradas. Ideas sueltas ya recogidas en la sección "Material de trabajo" de abajo. |

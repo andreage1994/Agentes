@@ -2,7 +2,7 @@
 
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture) ·
 Identidad Visual
-**Fecha:** 2026-09-25
+**Fecha:** 2026-09-25 (v1) · **revisión 2, 2026-09-25 mismo día**
 **Rol:** Diseño de identidad (`lokal-diseno-identidad`) — convierte la
 dirección de arte en especificaciones concretas: logotipo, color, tipografía,
 iconografía. No decide mood ni referencias (`lokal-direccion-arte`, ver
@@ -10,6 +10,26 @@ iconografía. No decide mood ni referencias (`lokal-direccion-arte`, ver
 (`lokal-diseno-aplicado`).
 **Fuentes:** `identidad-visual/01-direccion-arte.md`,
 `fase-b-plataforma-marca.md` (v2), `fase-c-diseno-ecosistema.md`.
+
+## Revisión 2 — feedback directo de Andrea, Sergi y Susan
+
+Tras ver la v1 en el artifact de identidad visual, feedback recibido:
+
+1. **La paleta de 6 colores era demasiado para algo "editorial y con
+   identidad"** — se reduce a 4: un color protagonista, dos neutros y un
+   acento de uso puntual.
+2. **Sergi y Susan piden verde sage como primer color de marca.** Se adopta
+   como protagonista — un sage grisáceo y profundo, no pastel de spa, para
+   que sostenga "editorial" y no derive en estética de wellness genérico.
+3. **Los 3 conceptos de logo de v1 se vieron "genéricos, poco lifestyle"** —
+   eran, en efecto, los tres recursos más repetidos del sector (sello
+   circular de artesano, wordmark bold + garabato, monograma en círculo).
+   Se sustituyen por tres direcciones menos vistas (sección 1, más abajo).
+
+Lo que sigue en este documento ya es la versión revisada. La v1 (sello de
+origen / trazo de mercado / monograma TL, paleta de 6 colores con verde
+oliva/mostaza/kraft) queda registrada solo en el historial de git de este
+archivo, no repetida aquí.
 
 **Cómo leer este documento:** cada decisión cita entre paréntesis el
 valor, tensión THE LOKAL WAY o referencia concreta que la respalda. Donde no
@@ -20,102 +40,82 @@ puntos, de Sergi/Susan) antes de pasar a `lokal-diseno-aplicado`.
 
 ---
 
-## 1. Logotipo — 3 conceptos de dirección a explorar
+## 1. Logotipo — 3 conceptos de dirección a explorar (revisión 2)
 
-No son artes finales: son direcciones para bocetar y testar. Se proponen
-tres porque responden a tensiones distintas del mantra; la elección final
-necesita validación de Andrea/Sergio (y probablemente boceto real antes de
-decidir).
+No son artes finales: son direcciones para bocetar y testar. Sustituyen a
+los 3 conceptos de v1 (sello circular, wordmark + garabato, monograma en
+círculo) tras el feedback de que se leían genéricos — eran, literalmente,
+los tres recursos más repetidos del sector de café/bagels.
 
-### Concepto 1 — "Sello de origen"
+### Concepto 1 — "Cabecera de barrio" (masthead editorial)
 
-Una marca-sello (stamp) circular u ovalada, pequeña, pensada para vivir sobre
-papel kraft, bolsas y tarjetas de origen — como un sello de mercado o de
-proveedor, no como un logo corporativo. El wordmark "The Lokal" puede existir
-también suelto (sin el sello) para usos donde el sello no cabe, pero el sello
-es la pieza que se repite siempre igual, en el mismo sitio, en cada
-packaging.
+El wordmark "The Lokal" tratado como la cabecera de un fanzine o gaceta de
+barrio: tipografía Fraunces en peso grueso, flanqueada por dos filetes finos
+(arriba y abajo, como un masthead de prensa) y una línea pequeña tipo
+"GACETA LOCAL · Nº 01" encima.
 
-- **Por qué encaja:** traduce directamente la lección de Leon's Bagels
-  (sección 2.2 de `01-direccion-arte.md`) — un sistema gráfico reducido y
-  repetido sin variación es lo que construye reconocimiento sin sala física.
-  También resuelve la tensión **"Homemade, but never inconsistent"**: el
-  sello puede sentirse hecho a mano en su trazo, pero se aplica siempre
-  exactamente igual, nunca "distinto cada semana".
-- **Qué comunica:** procedencia y trazabilidad — coherente con el valor
-  **Localidad** y con la idea de mercado (Ametller, Mercat de Sant Antoni)
-  de sellar/etiquetar producto con su origen.
+- **Por qué encaja:** responde directamente al feedback de "más editorial" —
+  usa un código visual de publicación/medio local, no de marca de
+  restauración. Conecta con la Visión de Fase B ("convertirse en una
+  referencia"). Resuelve **Quality, but never pretentious**: la disciplina
+  tipográfica hace el trabajo, sin ningún ornamento.
 
-### Concepto 2 — "Trazo de mercado" (wordmark custom)
+### Concepto 2 — "Ticket de barra"
 
-Un wordmark de "The Lokal" con letras dibujadas a medida (no una tipografía
-de catálogo sin retocar): base de sans humanista pero con uno o dos detalles
-de trazo con carácter (por ejemplo, un enlace o corte en la "k" o la "L")
-que recuerde a una pizarra de mercado bien escrita, redibujado como vector
-limpio y no como caligrafía suelta.
+Un ticket rectangular con borde de perforación (línea discontinua + dos
+muescas circulares, como un tique de mostrador o de coat-check), con "the
+lokal" dentro y una línea tipo "SIRVE Nº 01" / "HECHO HOY · LOCAL".
 
-- **Por qué encaja:** es la traducción literal del punto 4 de
-  `01-direccion-arte.md` sobre **"Local, but good"**: "una pizarra con letra
-  cuidada y repetida; no encaja una pizarra distinta y desordenada cada
-  semana". El wordmark tiene que leerse como mercado, pero ejecutado con el
-  nivel de disciplina de una marca de café de especialidad (Fonik).
-- **Qué comunica:** cercanía de barrio sin descuido — evita explícitamente
-  el "azulejo desgastado sin intención" que la dirección de arte marca como
-  el lado fácil a evitar de esta misma tensión.
+- **Por qué encaja:** es un objeto real de barra/mercado, no un sello de
+  artesano genérico (el recurso circular más visto del sector). Vive bien
+  estampado en bolsas y vasos. Resuelve **Local, but good** con algo
+  concreto y cotidiano, no folclórico.
 
-### Concepto 3 — "Marca mínima TL" (monograma complementario)
+### Concepto 3 — Wordmark con ligadura (solo tipografía, sin marco)
 
-Un monograma geométrico simple ("TL") como marca secundaria, pensado para
-espacios pequeños donde el wordmark completo no cabe (tazas, stickers,
-favicon, uniformidad si la hubiera). No sustituye al logotipo principal —
-convive con él como parte del mismo sistema.
+"the" + "Lokal" en Bricolage Grotesque, unidos por un pequeño punto de
+enlace en sage — sin badge, sin icono, sin marco. Referencia directa: marcas
+lifestyle como Aesop, que no necesitan un símbolo para reconocerse.
 
-- **Por qué encaja:** el minimalismo cálido de Fonik (mostrador visible,
-  materiales nobles de uso diario, "sensación inmediata de pertenencia al
-  entrar") se traduce aquí en una marca sin adorno que no exige que el
-  cliente "esté a la altura" para entenderla — resuelve **"Quality, but
-  never pretentious"** al no recurrir a ningún símbolo de estatus.
-- **Qué comunica:** una marca fácil de reconocer y repetir en cualquier
-  soporte pequeño, sin depender de artificios — coherente también con
-  **Pertenencia sin exclusión**: un signo simple no excluye por código
-  estético (no hay "gusto" que descifrar).
+- **Por qué encaja:** resuelve **Pertenencia sin exclusión** — nada que
+  "descifrar" — y es la dirección más "lifestyle" de las tres, al apoyarse
+  solo en el nombre bien tratado.
 
-**Pendiente de validación:** Andrea/Sergio deben elegir cuál de los tres
-—o qué combinación de dos de ellos (p. ej. Concepto 2 como logo principal +
-Concepto 3 como marca secundaria)— se lleva a boceto real. Ningún concepto
-aquí es una decisión cerrada.
+**Pendiente de validación:** elegir uno (o combinar, p. ej. Concepto 1 como
+cabecera para packaging/carta + Concepto 3 como wordmark digital ligero) y
+llevarlo a boceto real con Andrea/Sergio.
 
 ---
 
-## 2. Paleta de color
+## 2. Paleta de color (revisión 2 — de 6 a 4 colores, sage como protagonista)
 
-Paleta reducida deliberadamente (seis colores: dos neutros base y cuatro
-acentos) siguiendo la misma lógica de "sistema repetido sin variación" del
-Concepto 1 de logotipo. Todos los hex son punto de partida para testar en
-materiales reales (papel kraft, impresión) antes de fijarlos.
+Tras el feedback de que 6 colores era demasiado para algo "editorial", y de
+que Sergi y Susan piden verde sage como primer color de marca, la paleta se
+reduce a la fórmula clásica de identidad editorial: un protagonista, dos
+neutros, un acento de uso puntual.
 
 | Rol | Nombre | Hex | Justificación |
 |---|---|---|---|
-| Neutro base (fondo) | Crema cálido | `#F5EFE4` | Sustituye al blanco clínico. Evoca papel sin blanquear / kraft claro, no vitrina fría de supermercado — directamente contra el "lado fácil" de **Healthy, but not boring** (fotografía de bowl perfecto, ausencia de calidez) y contra **Quality, but never pretentious** (nada de mármol blanco genérico). |
-| Neutro base (texto) | Carbón cálido | `#2B2622` | Negro cálido, no negro puro ni gris frío de interfaz. Un texto "de trato familiar", no de sistema corporativo — apoya el valor **Trato familiar** en el nivel más básico del sistema: cómo se ve una palabra escrita. |
-| Acento primario | Terracota | `#C1592D` | Color de corteza de pan horneado y de cajas de madera de mercado (referencia directa a Ametller / Mercat de Sant Antoni, sección 2.1). Es el color que más se repite en sellos y packaging — sostiene el valor **Localidad** sin caer en folclore de postal. |
-| Acento secundario | Verde oliva profundo | `#4F5D34` | Deliberadamente **no** es el "verde lechuga genérico" que `01-direccion-arte.md` marca como lo primero a evitar en **Healthy, but not boring**. Remite a aceituna/aceite de oliva —producto real, mediterráneo— en vez de a iconografía de gimnasio o de app de fitness. Uso reservado a contextos de información nutricional/producto, nunca como color dominante de marca. |
-| Acento terciario | Mostaza | `#D9A441` | Color de toldo de mercado y de yema de huevo — apetecible, cálido, nunca dorado de lujo. Sostiene **Cuidado como producto**: se usa donde queremos que algo se vea sabroso (packaging de producto indulgente), en línea con la dirección de fotografía "textura, mordisco, brillo" de CAVA/Honest Greens citada en la sección 2.2. |
-| Neutro complementario | Kraft | `#A47551` | El marrón exacto del papel de bolsa que se repite en cada pieza de packaging — es el color que hace de "Homemade, but never inconsistent" algo literal: la misma bolsa, el mismo tono, siempre. |
+| **Protagonista** | Sage | `#96A178` | Pedido explícitamente por Sergi y Susan. Elegido deliberadamente grisáceo y profundo, no pastel de spa — así sostiene "editorial" en vez de derivar en estética de wellness genérico. Es el color que más se repite: packaging, digital, señalética. |
+| Neutro base (fondo) | Crema cálido | `#F5EFE4` | Sin cambios respecto a v1 — sustituye al blanco clínico, nunca vitrina fría. |
+| Neutro base (texto) | Carbón cálido | `#2B2622` | Sin cambios respecto a v1 — negro cálido, no negro puro de interfaz. Apoya **Trato familiar**. |
+| Acento — uso puntual | Terracota | `#C1592D` | Único contraste cálido contra tanto sage: botón, dato destacado, acento de producto indulgente. Nunca a la par del sage en superficie — es acento, no protagonista. |
 
-**Regla de uso que se desprende de la propia paleta:** el verde oliva
-(`#4F5D34`) no debe usarse nunca como codificación tipo "semáforo nutricional"
-(rojo/ámbar/verde de etiquetado). Eso reintroduciría el "vocabulario ni
-iconografía clínica" que Fase B pide evitar explícitamente al hablar de qué
-es "saludable" para The Lokal. Es un color de familia de marca, no un
-indicador de salud.
+**Qué se retira respecto a v1:** verde oliva profundo, mostaza y kraft dejan
+de ser "colores de marca". El kraft sigue existiendo como **material** de
+packaging (la bolsa de papel sigue siendo de ese marrón), pero ya no forma
+parte de la paleta cromática del sistema — es una decisión de producción, no
+de identidad.
 
-**Pendiente de validación:** los hex son de partida, no definitivos —
-necesitan prueba real sobre kraft y en impresión antes de fijarse (el color
-percibido cambia mucho sobre papel no blanqueado). También pendiente:
-confirmar con Andrea/Sergio si el sistema necesita un séptimo color de
-"alerta/atención" para señalización (p. ej. alérgenos) — hoy no se incluye
-ninguno porque no hay una tensión de Fase B que lo pida todavía.
+**Regla de uso que se mantiene:** el sage no se usa nunca como codificación
+tipo "semáforo nutricional" (rojo/ámbar/verde de etiquetado) — sigue
+aplicando el mismo criterio que ya evitaba esto con el verde oliva en v1.
+
+**Pendiente de validación:** los hex son de partida — necesitan prueba real
+sobre kraft y en impresión antes de fijarse (el color percibido cambia
+mucho sobre papel no blanqueado, y el sage en particular puede virar según
+el soporte). También pendiente: confirmar con Andrea/Sergio si hace falta
+un color de alerta/atención para alérgenos — no incluido hoy.
 
 ---
 
@@ -169,7 +169,7 @@ vestirlo de discurso ni de alarma visual.
 | H1 | Nombre de marca, titulares de packaging/carta | Bricolage Grotesque ExtraBold (o Fraunces Black, a testar) | Carbón cálido `#2B2622` sobre Crema `#F5EFE4`, o Crema sobre Terracota `#C1592D` |
 | H2 | Categorías de carta, secciones | Bricolage Grotesque Bold | Carbón cálido |
 | Body | Descripciones, copy de packaging, redes | Work Sans Regular/Medium | Carbón cálido |
-| Dato numérico | Macros, gramos, kcal, precios | IBM Plex Mono Regular | Carbón cálido o Verde oliva `#4F5D34` (solo en contexto nutricional, nunca semáforo) |
+| Dato numérico | Macros, gramos, kcal, precios | IBM Plex Mono Regular | Carbón cálido, sobre fondo Sage `#96A178` cuando se quiere destacar (nunca semáforo nutricional) |
 | Micro/legal | Origen de proveedor, notas pequeñas | Work Sans Regular, tamaño reducido | Carbón cálido al 70% |
 
 **Pendiente de validación:** confirmar disponibilidad de licencia de
@@ -218,14 +218,14 @@ del proveedor u origen en Work Sans. **Justificación:** "una etiqueta que
 cuenta de dónde viene ese café concreto; no encaja un icono de mundo o avión
 de stock" — cita literal de la dirección de arte.
 
-### Sello "Made in The Lokal"
+### Marca "Made in The Lokal"
 
-Aplicación directa del Concepto 1 de logotipo (sección 1): un sello redondo
-reutilizado en bolsas, pegatinas y tarjetas, siempre en el mismo tamaño y
-posición relativa. Recoge la idea ya anotada en `fase-c-diseno-ecosistema.md`
-("bolsa reutilizable con pegatinas tipo Made in the Lokal"). **Justificación:**
-mismo argumento de consistencia que el resto del sistema — **Homemade, but
-never inconsistent**.
+Aplicación del Concepto 2 de logotipo (sección 1, "Ticket de barra"): el
+propio ticket reutilizado en bolsas, pegatinas y tarjetas, siempre en el
+mismo tamaño y posición relativa. Recoge la idea ya anotada en
+`fase-c-diseno-ecosistema.md` ("bolsa reutilizable con pegatinas tipo Made
+in the Lokal"). **Justificación:** mismo argumento de consistencia que el
+resto del sistema — **Homemade, but never inconsistent**.
 
 ### Explícitamente fuera de este sistema por ahora
 
