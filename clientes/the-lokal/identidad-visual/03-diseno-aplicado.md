@@ -2,7 +2,10 @@
 
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture) ·
 Identidad Visual
-**Fecha:** 2026-09-25
+**Fecha:** 2026-09-25 · **revisión, mismo día: feedback en vivo de Andrea
+sobre el mockup visual — usar el Concepto 1 ("Parche de club") como logo
+ilustrativo, y el envoltorio individual con damero para que sea más
+identitario**
 **Rol:** Diseño de aplicaciones (`lokal-diseno-aplicado`) — lleva el sistema
 de identidad ya definido a piezas reales del ecosistema de marca. No inventa
 logo, color ni tipografía nuevos: si algo no cuadra con el sistema ya
@@ -206,17 +209,24 @@ Aplica directamente la idea ya recogida en `fase-b-plataforma-marca.md`
   - Línea opcional de pairing ("marida bien con [bebida]") en Work Sans
     micro, si el bagel tiene una recomendación definida — recoge la idea de
     "pairings bagel-bebida" de Fase B/C.
-  - **No lleva** damero ni perforación completa: superficie pequeña,
-    prioridad total a la legibilidad del dato (regla 1.4/1.5). Como mucho,
-    un logo reducido en una esquina, en la variante que corresponda según
-    el concepto que se elija (ver sección 2.7).
+  - **Revisado tras feedback en vivo de Andrea (viendo el mockup visual):**
+    en vez de un logo reducido suelto, el envoltorio lleva un **marco de
+    damero en el borde exterior** (franja acotada de ~9px, código gráfico
+    1.1) enmarcando todo el papel, con el **badge sage del Concepto 1**
+    ("THE LOKAL" en píldora, sin la banda "BARCELONA" completa por espacio)
+    centrado sobre el corte en X. El damero no cubre la superficie donde
+    vive la ficha de macros — sigue la regla 1.4 de no competir con el
+    dato — pero al enmarcar todo el paquete lo hace mucho más reconocible
+    de un vistazo, incluso amontonado con otros envoltorios.
 - **Por qué encaja:** el corte en X no es un adorno — dejar ver el mordisco
   real conecta con la dirección de fotografía de producto (sección 5 de
   `01-direccion-arte.md`: "el bagel se fotografía como algo apetecible
   primero, saludable después") incluso sin foto, solo con el propio
   packaging. Y el mismo corte, hecho siempre igual, es lo que evita caer en
   "packaging distinto cada semana porque es artesanal" (**Homemade, but
-  never ordinary**).
+  never ordinary**). El marco de damero añadido refuerza la misma tensión:
+  es la pieza de mayor volumen diario, así que es donde más rinde un código
+  reconocible al instante.
 - **Necesitaría para producción real:** papel food-contact certificado
   (proveedor a definir — no asumir uno sin cotizar), medida exacta del
   cuadrado de papel en función del diámetro final del bagel (pendiente de
@@ -348,9 +358,13 @@ La superficie donde más pesa la elección de logotipo es la bolsa de papel
 - **Si se elige Concepto 1 ("Parche de club"):** el badge completo (fondo
   sage, franjas de damero, "THE LOKAL" + "EL CLUB") va centrado en la
   bolsa grande, a un tamaño generoso. La pegatina es una reducción directa
-  del mismo badge. El envoltorio individual lleva solo el eyebrow
-  "BARCELONA" + wordmark reducido, sin el badge completo (demasiado
-  detalle para una superficie tan pequeña).
+  del mismo badge. **Actualizado tras el mockup visual con Andrea:** el
+  envoltorio individual ya no se queda solo con wordmark — lleva un marco
+  de damero en el borde (código 1.1, franja acotada) más una versión
+  reducida del badge (píldora sage "THE LOKAL", sin "BARCELONA" completa
+  por espacio) centrada sobre el corte en X (ver 2.1). Es, junto con la
+  bolsa, la pieza donde el Concepto 1 se nota más — coherente con que sea
+  la dirección que Andrea vio primero como más identitaria en el artifact.
 - **Si se elige Concepto 2 ("Ticket de barra"):** este es el concepto que
   más directamente encaja con packaging de barra/mercado — el ticket
   completo (perforación, muescas, líneas "GLOBAL, DESDE AQUÍ" + número de
