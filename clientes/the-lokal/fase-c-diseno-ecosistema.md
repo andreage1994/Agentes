@@ -22,7 +22,7 @@ Checklist tal como lo definió el Brand Strategy Book. Estado de cada pieza:
 
 | Pieza | Estado | Dueño / próximo paso |
 |---|---|---|
-| Identidad visual (logo, color, tipografía, sistema) | 🟡 **En marcha** | Equipo de agentes creado el 2026-09-25 (ver `.claude/agents/`) — es el primer bloque que se ataca. |
+| Identidad visual (logo, color, tipografía, sistema) | 🟡 **En marcha** | Dirección de arte lista (`identidad-visual/01-direccion-arte.md`, 2026-09-25). Siguiente paso: `lokal-diseno-identidad` sobre ese marco. |
 | Lenguaje y tono | ⚪ Pendiente | Puede apoyarse en el tono ya definido para `comunicacion-redes-sociales/` (aunque ese es el tono de TBNB hacia sus clientes, no el de The Lokal hacia los suyos — habrá que definirlo aparte). |
 | Códigos gráficos | 🟡 En marcha, dentro de identidad visual | — |
 | Packaging | ⚪ Pendiente | Depende de que la identidad visual tenga ya paleta/tipografía cerradas. Ideas sueltas ya recogidas en la sección "Material de trabajo" de abajo. |
