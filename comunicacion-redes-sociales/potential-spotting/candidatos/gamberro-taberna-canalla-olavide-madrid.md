@@ -63,3 +63,41 @@ pertenecen al mismo grupo (Barbillón) por si tiene sentido tratarlo como una
   de reseñas).
 - El Español, HITCOOKING, Vozpópuli, Revista Hostelería, Guía del Ocio
   (contexto de apertura, citas de primeras reseñas).
+
+## Estrategia
+
+**Prioridad de contacto: 1 (alta, junto con Malparit).** 796 reseñas es el
+volumen más alto y más sólido de toda la tanda, y el patrón está confirmado por
+varias citas independientes de prensa especializada más un titular que resume
+exactamente el tipo de conversación que busca "Notas desde la Barra" — *"un
+producto fantástico, pero les falta rodaje"* no es una acusación ni un halago
+vacío, es prácticamente la frase de partida ideal para el documento. Se
+contacta en el primer bloque de envíos.
+
+**Lo que nos llamó la atención (bloque 2):** la propuesta de concepto es
+genuinamente diferenciadora — poner la gamba como protagonista y "romper con la
+solemnidad de las marisquerías clásicas" para acercarla a un público más joven
+— y la prensa ya lo describe como "la marisquería más buscada de Madrid". El
+producto se elogia de forma repetida y consistente ("producto fantástico",
+"buena atención", "servicio genial") incluso en las mismas reseñas que señalan
+problemas de organización — hay una base sólida real detrás, no una fachada.
+
+**Lo que nos hizo pensar (bloque 3):** SERVICE como categoría dominante
+(desorganización y gestión de tiempos de espera), con FOOD como nota secundaria
+(rotura de stock de mejillones/ostras, gambas cocidas servidas calientes).
+Apoyarse en las citas reales: mesas atendidas fuera de orden de llegada, y los
+errores puntuales de ejecución. Formular como pregunta abierta, aprovechando el
+propio titular de prensa como punto de partida: *"Si el producto ya está a este
+nivel, ¿qué pasaría si la operación de sala y cocina tuviera el mismo
+rodaje?"* — encuadrarlo explícitamente como algo esperable en un concepto
+recién abierto (julio 2025), nunca como una carencia estructural del negocio.
+
+**Variante de contacto:** digital spotting (no hay visita física confirmada por
+TBNB).
+
+**Decisión sobre Gamberro Barra Canalla (Goya):** se prioriza esta ubicación
+(Olavide) como la conversación principal con el Grupo Barbillón. Goya no
+genera una nota independiente por evidencia de tipo de oportunidad demasiado
+débil (ver `gamberro-barra-canalla-goya-madrid.md`), pero puede mencionarse de
+forma natural en la conversación una vez abierta, como contexto de una marca
+con más de un local en Madrid.

@@ -40,6 +40,42 @@ trabajo en la próxima ronda, no tienen ficha propia):
   0-10 (GastroRanking), no de una nota de Google/TripAdvisor en escala 0-5
   confirmada de forma independiente.
 
+`potential-spotting-estrategia` revisó los 5 candidatos el 2026-09-28 y
+tomó las dos decisiones que `research` había dejado pendientes:
+
+- **Gamberro Taberna Canalla (Olavide) y Gamberro Barra Canalla (Goya)**
+  son la misma marca y propiedad (Grupo Barbillón). Se decide tratarlos
+  como **una sola conversación**, anclada en Olavide (evidencia de tipo de
+  oportunidad mucho más sólida y con más volumen de reseñas). Goya **no
+  genera nota ni documento propio** — su única cita de evidencia ("la única
+  pega el precio") es demasiado débil y contradicha por otra opinión
+  positiva sobre las raciones; forzar un bloque 3 con eso habría incumplido
+  la regla de no fabricar una observación genérica. Puede mencionarse como
+  contexto una vez avance la conversación con Olavide.
+- **Cohete** pertenece a Grupo Tragaluz, una cadena de restauración grande
+  y ya consolidada, no un proyecto independiente con margen de crecimiento.
+  Se decide **no priorizarlo ni pasar a redacción**: no encaja con el
+  espíritu de "Notas desde la Barra" tal como está definido, más allá de
+  que la evidencia de oportunidad (EXPERIENCE/ruido) sea honesta y válida.
+  Queda documentado por si en el futuro TBNB decide abrir conversación
+  también con grupos consolidados, pero es una decisión de negocio que no
+  corresponde asumir aquí.
+
+Quedan **3 candidatos priorizados para redacción**, en este orden de
+contacto:
+
+1. **Malparit** (Barcelona) — patrón SERVICE sostenido por tres reseñas
+   independientes.
+2. **Gamberro Taberna Canalla, Olavide** (Madrid) — patrón SERVICE sostenido
+   por el mayor volumen de reseñas de la tanda (796) y una cita de prensa
+   que resume el ángulo casi textualmente.
+3. **Casa Fiero** (Barcelona) — patrón CONCEPT muy bien articulado en una
+   única reseña extensa, pero con volumen de reseñas bajo (14); prioridad
+   moderada a la espera de que acumule más reseñas.
+
+Ver el detalle de ángulo (bloques 2 y 3) y variante de contacto en la
+sección "Estrategia" de cada ficha.
+
 ## Hoja de cálculo (Drive)
 
 La hoja original "Potential spotting" en Drive tenía mucha información
@@ -66,12 +102,14 @@ ha tocado ni borrado.
 
 Se rellena a medida que `potential-spotting-research` identifica locales.
 Fases: 🟡 Investigado → 🟡 Priorizado (estrategia) → 🟡 Nota redactada →
-🟡 Revisión Andrea/Sergio → 🟢 Enviado.
+🟡 Revisión Andrea/Sergio → 🟢 Enviado. También puede cerrarse en
+🔴 No se prioriza, cuando estrategia decide explícitamente no llevar un
+candidato a redacción.
 
 | Local | Ciudad | Fase | Tipo de oportunidad | Notas |
 |---|---|---|---|---|
-| Malparit | Barcelona | 🟡 Investigado | SERVICE (dominante) / CONCEPT-FOOD (secundario) | Rating 4,0/5 TripAdvisor, 44 reseñas (justo bajo el umbral de 50). Ver `candidatos/malparit-barcelona.md`. |
-| Casa Fiero | Barcelona | 🟡 Investigado | CONCEPT (dominante) / FOOD (secundario) | Rating 3,9/5 TripAdvisor, solo 14 reseñas (no cumple filtro 3 formalmente, incluido como excepción justificada). Ver `candidatos/casa-fiero-barcelona.md`. |
-| Gamberro Taberna Canalla (Olavide) | Madrid | 🟡 Investigado | SERVICE (dominante) / FOOD (secundario) | Rating 4,0/5 (RestaurantGuru), 796 reseñas. Ver `candidatos/gamberro-taberna-canalla-olavide-madrid.md`. |
-| Gamberro Barra Canalla (Goya) | Madrid | 🟡 Investigado | CONCEPT (evidencia débil) | Misma marca que el anterior (Grupo Barbillón); rating solo disponible en escala GastroRanking 0-10. Ver `candidatos/gamberro-barra-canalla-goya-madrid.md`. |
-| Cohete | Barcelona | 🟡 Investigado | EXPERIENCE (dominante) / SERVICE (secundario, débil) | Grupo Tragaluz (cadena consolidada, no negocio independiente pequeño — señalado para estrategia). Rating solo disponible en escala GastroRanking 0-10. Ver `candidatos/cohete-barcelona.md`. |
+| Malparit | Barcelona | 🟡 Priorizado — prioridad 1 | SERVICE (dominante) / CONCEPT-FOOD (secundario) | Rating 4,0/5 TripAdvisor, 44 reseñas (justo bajo el umbral de 50). Ver `candidatos/malparit-barcelona.md` (sección Estrategia). |
+| Casa Fiero | Barcelona | 🟡 Priorizado — prioridad 3 | CONCEPT (dominante) / FOOD (secundario) | Rating 3,9/5 TripAdvisor, solo 14 reseñas (no cumple filtro 3 formalmente, incluido como excepción justificada). Ver `candidatos/casa-fiero-barcelona.md` (sección Estrategia). |
+| Gamberro Taberna Canalla (Olavide) | Madrid | 🟡 Priorizado — prioridad 1 | SERVICE (dominante) / FOOD (secundario) | Rating 4,0/5 (RestaurantGuru), 796 reseñas. Conversación ancla para el Grupo Barbillón. Ver `candidatos/gamberro-taberna-canalla-olavide-madrid.md` (sección Estrategia). |
+| Gamberro Barra Canalla (Goya) | Madrid | 🔴 No se prioriza (sin nota independiente) | CONCEPT (evidencia demasiado débil) | Misma marca que Olavide (Grupo Barbillón); evidencia de oportunidad insuficiente para sostener un bloque 3 propio. Se integra como contexto en la conversación de Olavide, no genera documento ni email propio. Ver `candidatos/gamberro-barra-canalla-goya-madrid.md` (sección Estrategia). |
+| Cohete | Barcelona | 🔴 No se prioriza | EXPERIENCE (dominante) / SERVICE (secundario, débil) | Grupo Tragaluz — cadena de restauración consolidada, no encaja con el espíritu de "Notas desde la Barra" (proyectos independientes con potencial, no cadenas ya establecidas). Rating solo disponible en escala GastroRanking 0-10. Ver `candidatos/cohete-barcelona.md` (sección Estrategia). |

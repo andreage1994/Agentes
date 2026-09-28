@@ -55,3 +55,33 @@ independientes.
 - GastroRanking — Gamberro Taberna Canalla, Goya, Madrid (rating y número de
   opiniones, fragmentos de opiniones).
 - El Economista, prensa de apertura del grupo Gamberro (contexto).
+
+## Estrategia
+
+**Decisión: no se escribe una nota independiente ("Notas desde la Barra") para
+este local.** Es la misma marca y propiedad que Gamberro Taberna Canalla
+(Olavide) — Grupo Barbillón —, y la evidencia de tipo de oportunidad aquí es
+sensiblemente más débil: una sola cita vaga ("la única pega el precio"),
+contradicha por otra opinión que destaca "las raciones contundentes" como
+punto fuerte. No hay un patrón lo bastante claro y respaldado como para
+sostener el bloque 3 con la evidencia real que exige la plantilla — forzar una
+nota propia aquí (o rellenar el bloque 3 con esta única cita) incumpliría la
+regla de no fabricar una crítica genérica para completar el formato.
+
+En su lugar: se trata como una sola conversación con el grupo, apoyada en la
+ficha de Olavide (`gamberro-taberna-canalla-olavide-madrid.md`), que tiene
+evidencia mucho más sólida y volumen de reseñas suficiente. Si la conversación
+con Olavide avanza, Goya puede mencionarse de forma natural como la segunda
+dirección de la marca en Madrid — pero no genera documento ni email propio en
+esta tanda.
+
+**Prioridad de contacto:** no aplica como candidato independiente — ver
+Gamberro Olavide (prioridad 1).
+
+**Variante de contacto:** no aplica (no se genera documento propio para esta
+dirección).
+
+**Pendiente para research (si se retoma en el futuro):** confirmar con una
+fuente en escala 0-5 (Google/TripAdvisor) si el patrón de "precio" se sostiene
+con más reseñas citables antes de considerar una nota propia para esta
+ubicación.

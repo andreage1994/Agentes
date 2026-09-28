@@ -25,7 +25,7 @@ sobradamente el criterio de "< 2 años".
 - Una reconstrucción vía búsqueda apunta también a un rating de Google de **4,5**,
   que no he podido verificar de forma independiente ni acceder a su número de
   reseñas. Si ese dato fuera el correcto, Malparit entraría en la banda 4,2-4,5 del
-  filtro 2, que exige un patrón concreto antes de descartar o priorizar. Ese patrón
+  filtro 2, que exige un patrón concreto antes de descartar o priorizarlo. Ese patrón
   existe y está documentado abajo (ver Filtro 4), así que el candidato se mantiene
   con esa salvedad explícita.
 - Uso TripAdvisor (4,0) como referencia principal por ser la fuente donde he podido
@@ -69,3 +69,41 @@ bloqueo de acceso directo):
   maître).
 - Prensa: Blog Hedonista, b-guided Barcelona, Barcelona Food Experience
   (contexto de apertura y concepto).
+
+## Estrategia
+
+**Prioridad de contacto: 1 (alta).** De los cinco candidatos de esta tanda, es el
+que reúne el patrón más sólido: tres reseñas independientes, cada una con su
+propio título y su propio incidente ("Para no volver", el episodio del maître,
+"No repetiremos"), coinciden en los mismos dos puntos — ritmo del servicio /
+gestión de la cuenta, y relación cantidad-precio. No es una señal aislada, es un
+patrón que se repite con voces distintas. Se contacta en el primer bloque de
+envíos, junto con Gamberro Olavide.
+
+**Lo que nos llamó la atención (bloque 2):** el concepto dual — barra informal a
+pie de calle con sala de restaurante detrás en el mismo espacio — y venir de un
+grupo, No Hay Mañana, con track record ya demostrado en Barcelona (Babula Bar,
+Madre Taberna Moderna, Chamako). Dato concreto y citable, no genérico: una
+reseña destaca expresamente la buena insonorización del local — un elogio poco
+habitual (el ruido suele ser motivo de queja, no de halago) y por eso vale la
+pena mencionarlo en el bloque 2. También hay clientes que lo recomiendan
+"100%" — hay una base de fans real detrás del patrón de quejas, no solo
+descontento generalizado.
+
+**Lo que nos hizo pensar (bloque 3):** SERVICE como categoría dominante (con la
+relación cantidad-precio como nota secundaria). Apoyarse en las tres citas
+reales: la cuenta traída antes de preguntar por postre o café, la exigencia de
+liberar la mesa en 2 horas, el incidente con el maître, y "cantidad de comida
+muy escasa para el precio". Formular como pregunta abierta, del tipo: *"¿Cuánto
+puede estar afectando el ritmo del servicio — la gestión de los tiempos de mesa
+y de la cuenta — a un concepto que, por todo lo demás, tiene tanto para
+ofrecer?"*. Importante: el episodio del maître no se presenta como una
+acusación a una persona concreta, se enmarca como parte del patrón de gestión
+de sala en su conjunto.
+
+**Variante de contacto:** digital spotting (no hay visita física confirmada por
+TBNB).
+
+**Pendiente para research (si se retoma):** confirmar de forma independiente el
+posible rating de Google (4,5) señalado como discrepancia, y comprobar si el
+número de reseñas de TripAdvisor ya ha superado el umbral de 50.

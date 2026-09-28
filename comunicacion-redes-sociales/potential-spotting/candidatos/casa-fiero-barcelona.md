@@ -60,3 +60,41 @@ Citas reales (TripAdvisor, reconstruidas vía búsqueda):
   "decepcionante" completa con autoría y fecha).
 - Ara.cat, The Infatuation, Michelin Guide España (contexto de apertura y
   concepto).
+
+## Estrategia
+
+**Prioridad de contacto: 3 (moderada, con reserva).** El patrón encontrado es el
+más claro y mejor articulado de toda la tanda — una reseña extensa, escrita con
+cuidado, con matices reales — pero el volumen de reseñas (14) es la excepción
+más débil respecto al filtro 3 de toda esta ronda. Mantengo el candidato en la
+lista porque la calidad del testimonio y el encaje con el posicionamiento de
+TBNB (proyecto con pedigrí, reconocimiento Michelin) lo justifican, pero en el
+orden de envío va después de Malparit y Gamberro Olavide, que tienen patrones
+respaldados por más volumen. Si Andrea o Sergio prefieren esperar a que el
+local acumule más reseñas antes de escribirle, es una alternativa razonable —
+lo dejo como decisión suya, no la fuerzo.
+
+**Lo que nos llamó la atención (bloque 2):** identidad de concepto muy clara
+("diner" catalán con espíritu años 70), pedigrí del equipo (el mismo detrás de
+Maleducat) y reconocimiento externo verificable — la Guía Michelin España 2026
+lo incluye con la etiqueta "New". Dato específico y no genérico: una reseña
+describe el servicio como *"genuinely excellent — warm, attentive, and
+perfectly timed"* — vale la pena señalar en el bloque 2 que el equipo ya ha
+conseguido que la sala funcione bien, que no es poco.
+
+**Lo que nos hizo pensar (bloque 3):** CONCEPT como categoría dominante —
+desajuste entre la puesta en escena/precio y lo recibido, con el tamaño de
+ración como nota secundaria (FOOD). Apoyarse en la cita completa y citable de
+la reseña "decepcionante" (Andrea M., TripAdvisor, 20/11/2025) y en la mención
+de la media ración de lubina a 60€. Formular como pregunta abierta: *"¿Qué
+pasaría si la propuesta, ración a ración, transmitiera la misma ambición que ya
+transmiten la puesta en escena y el precio?"* — evitar cualquier formulación
+que suene a "las raciones son pequeñas"; mantenerla como reflexión sobre
+coherencia entre promesa y ejecución, nunca como diagnóstico cerrado.
+
+**Variante de contacto:** digital spotting (no hay visita física confirmada por
+TBNB).
+
+**Pendiente para research (si se retoma):** revisar de nuevo dentro de unos
+meses cuando el local acumule más reseñas — hoy no se puede confirmar si el
+patrón se sostiene con mayor volumen.

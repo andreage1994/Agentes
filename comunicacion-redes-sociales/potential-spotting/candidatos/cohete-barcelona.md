@@ -55,3 +55,35 @@ la cita principal sobre ruido.
   opiniones sobre ruido y servicio).
 - El Economista, Neo2, BCN Fashion Press, Tapas Magazine (contexto de
   apertura y concepto).
+
+## Estrategia
+
+**Decisión: no se lleva adelante como candidato de contacto en esta tanda.**
+Cohete pertenece a Grupo Tragaluz, una cadena de restauración grande y ya
+consolidada en Barcelona — no un proyecto independiente con margen de
+crecimiento, que es el espíritu real de "Notas desde la Barra": propuestas con
+potencial aún no explotado, no cadenas que ya operan a gran escala y con
+recursos propios de sobra. Además, el rating no está confirmado en una escala
+comparable al resto de candidatos (0-5) — solo hay un dato de GastroRanking
+(0-10) sin verificación independiente, la misma salvedad que en Gamberro Goya.
+
+Ninguna de las dos cosas convierte a Cohete en un mal local: la evidencia de
+research sobre tipo de oportunidad (EXPERIENCE dominante, ruido en la planta de
+arriba, con recomendación de cenar abajo) es válida y honesta. Pero el perfil
+de propiedad lo sitúa fuera del tipo de destinatario que esta iniciativa busca
+— alguien que pueda verse reflejado en una nota escrita "para ellos", no un
+gesto hacia un grupo grande que probablemente ya cuenta con su propia
+estructura de gestión y consultoría interna. Forzar este candidato a la lista
+de contacto solo para completar la tanda de cinco no encaja con el espíritu de
+la nota tal como está definido hoy.
+
+Esta ficha queda lista para retomarse si en el futuro Andrea/Sergio deciden
+abrir conversación también con grupos de restauración consolidados como vía de
+negocio — pero esa es una decisión de negocio suya, no algo que yo deba asumir
+aquí.
+
+**Prioridad de contacto:** no aplica — excluido de esta tanda por perfil de
+propiedad, no por falta de datos ni por mala evidencia de oportunidad.
+
+**Variante de contacto:** no aplica (no se genera documento ni email para este
+candidato).
