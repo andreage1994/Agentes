@@ -126,3 +126,52 @@ bloqueado en este entorno)
   salvedades (antigüedad y volumen de evidencia), tiene sentido abrir conversación
   apoyándose en el ángulo CONCEPT (desajuste web/disponibilidad) que Andrea ya
   intuía, o si se descarta por evidencia insuficiente.
+
+## Estrategia
+
+**Prioridad de contacto: 2 de 2 (de este par traído por Andrea).** Se contacta
+después de Verne. La antigüedad (6-7 años, sin relanzamiento conocido) es la misma
+salvedad que tiene Verne, así que no es lo que diferencia el orden entre ambos —
+lo que sí lo diferencia es el volumen y la solidez de la evidencia de oportunidad:
+aquí es **una única reseña, sin autor ni fecha identificables, sin ninguna segunda
+reseña independiente que la corrobore**, en un perfil con rating de 4,7/5 en dos
+fuentes — muy por encima incluso de la banda alta del filtro 2. Se mantiene como
+candidato porque lo trae Andrea con diagnóstico propio ya verificado, pero con la
+prioridad más baja de los seis candidatos activos de todo el proyecto hasta ahora.
+
+**Lo que nos llamó la atención (bloque 2):** la trayectoria previa concreta y
+verificable de los dos chefs — Joan Duran (La Pubilla, junto al mercado de la
+Llibertat) y Àngel Moya (Perdem el Nord, El Luïsos de la plaça del Nord) — es un
+dato específico y citable, no un halago genérico: son dos proyectos previos reales
+de la escena gastronómica de Gràcia. Súmese el concepto claro (cocina catalana
+actualizada, honesta, con el arroz como estrella de fin de semana) y el menú de
+mediodía a 18€ con buena relación calidad-precio. Hay una base de clientes muy
+satisfecha detrás (4,7/5 en TripAdvisor y Google, reseñas recientes que hablan de
+"acogedor y alta calidad"): el proyecto ya ha conseguido enamorar a mucha gente, y
+eso conviene decirlo tal cual, sin forzarlo.
+
+**Lo que nos hizo pensar (bloque 3):** de las tres categorías que toca la única
+reseña real (FOOD, SERVICE, CONCEPT), la más defendible para construir la pregunta
+es **CONCEPT** — el desajuste entre lo que anuncia la web (menús de degustación) y
+lo que hay disponible en sala es, de las tres, la que menos depende de una noche
+puntual de cocina o de sala; apunta más a un tema de comunicación/actualización de
+la propuesta online. Pero, a diferencia de Malparit, Casa Fiero o Verne, **aquí solo
+hay una voz, no un patrón**, y eso debe quedar explícito en el tono de la nota — es
+un ángulo legítimo, pero se formula con más prudencia que en los otros casos, sin
+dar a entender que es algo recurrente. Cita a citar (sin autor/fecha, señalarlo así
+en la nota si hace falta): *"do not have the tasting menus they offer on the web."*
+Formular como pregunta abierta y prudente, del tipo: *"Nos encontramos con un
+comentario aislado sobre que los menús de degustación de la web no estaban
+disponibles en la visita. No es un patrón que hayamos visto repetirse, pero nos hizo
+pensar: ¿cada cuánto se revisa que lo que promete la web sea exactamente lo que hoy
+hay en la cocina?"* — evitar cualquier formulación que sugiera que es una queja
+extendida cuando la evidencia no lo sostiene.
+
+**Variante de contacto:** digital spotting (no hay visita física confirmada por
+TBNB).
+
+**Pendiente para research (si se retoma):** buscar de nuevo, más adelante, si
+aparece una segunda reseña independiente que toque el desajuste web/disponibilidad
+o cualquiera de los otros dos puntos (comida fría, servicio lento) — hoy la
+evidencia no permite hablar de patrón, solo de un caso aislado documentado con
+honestidad.

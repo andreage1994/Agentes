@@ -136,3 +136,55 @@ bloqueado en este entorno)
   perfil similar al de Cohete (Grupo Tragaluz), que `estrategia` decidió no
   priorizar en la ronda anterior por ese mismo motivo — salvo que Andrea/Sergio
   quieran tratarlo como excepción, igual que hicieron con Cohete.
+
+## Estrategia
+
+**Nota de trazabilidad (perfil de propiedad):** igual que con Cohete, Verne
+pertenece a un grupo consolidado (BNGRUP, 14 locales) y tiene ~10-11 años, así que
+no encaja limpiamente en el perfil "proyecto independiente con margen de
+crecimiento" que define el espíritu de "Notas desde la Barra". A diferencia de
+Cohete, aquí no hace falta volver a plantear si se descarta por eso: Andrea trajo
+este candidato directamente y pidió de forma explícita que se redacte su nota, la
+misma postura que tomó después con Cohete. Se procede a redacción, pero dejo el
+matiz escrito aquí para que quede trazado igual que en aquel caso, no como una
+objeción pendiente de resolver.
+
+**Prioridad de contacto: 1 de 2 (de este par traído por Andrea).** Se contacta antes
+que La Martina. La razón no es la antigüedad (ambos comparten esa misma salvedad),
+sino la solidez de la evidencia de oportunidad: aquí hay **dos citas textuales
+verificadas de fuentes independientes** (TripAdvisor y TheFork) que coinciden en el
+mismo patrón de servicio, más dos señales adicionales que refuerzan la misma
+dirección — un patrón mucho más sólido que la reseña aislada y sin autor de La
+Martina. En el conjunto de los seis candidatos activos del proyecto hasta ahora, se
+sitúa a la altura de Malparit y Gamberro Olavide en solidez de evidencia.
+
+**Lo que nos llamó la atención (bloque 2):** la identidad visual del concepto —
+decoración temática muy elaborada (Nautilus, kraken, elementos marinos) que varias
+reseñas destacan de forma espontánea ("la decoración es una pasada", "el sitio es
+genial") — y que sigue generando cobertura de prensa años después de su apertura
+(Infobae, Metrópoli Abierta, 2024), señal de que la propuesta sigue funcionando como
+reclamo. Dato concreto que vale la pena subrayar en el bloque 2: **el propio
+personal sale bien parado incluso en las reseñas que critican el servicio** — la
+camarera de la reseña de TheFork es descrita como excelente en su trato pese a la
+lentitud, y la comida (pulled pork, calamar) se valora bien. Es un matiz honesto: el
+problema no es de actitud ni de producto, es de ritmo y gestión de sala — lo que hace
+más fácil (y más honesto) formular el bloque 3 sin que suene a crítica al equipo.
+
+**Lo que nos hizo pensar (bloque 3):** SERVICE como categoría dominante, con las dos
+citas textuales como respaldo: *"What an embarrassment of a service"* (TripAdvisor,
+sobre 20 minutos de espera por una bebida seguidos de otros 20 sin que llegara nada)
+y *"tuvimos que pedir en 3 ocasiones la bebida, se olvidaron de preparar un
+cóctel"* (TheFork, con la propia reseña señalando que había pocas mesas ocupadas esa
+noche). Formular como pregunta abierta que proteja explícitamente al personal, del
+tipo: *"El trato del equipo se valora bien incluso en las reseñas que hablan de
+esperas largas — lo que nos hizo pensar no es en las personas, sino en la gestión
+del ritmo de sala: ¿cuánto puede estar costando, en mesas que no rotan y en la
+reseña que alguien escribe al salir, que una bebida tarde 20 minutos en llegar
+incluso con el local medio vacío?"*
+
+**Variante de contacto:** digital spotting (no hay visita física confirmada por
+TBNB).
+
+**Pendiente para research (si se retoma):** ninguno relevante — la evidencia de
+oportunidad y los datos de filtro 2/3 están suficientemente verificados para pasar a
+redacción.
