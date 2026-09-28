@@ -10,7 +10,35 @@ Andrea), `plantilla-notas-desde-la-barra.md` (estructura del documento a
 partir del caso de referencia La Greca) y `email-envio-notas.md` (plantilla
 de email, en dos variantes según si hay visita física o no).
 
-Pendiente: primera tanda de digital spotting en Barcelona y Madrid.
+Primera tanda de digital spotting (Barcelona + Madrid) completada por
+`potential-spotting-research` el 2026-09-28. Se identificaron 5 candidatos
+que superan los filtros 1-2 con datos verificables (dos de ellos con
+salvedades explícitas de dato en el filtro 3 o en la fuente de la nota —
+ver fichas individuales). Quedan excluidos de esta lista, por instrucción
+expresa, los locales ya en el radar de TBNB: La Muriel, El Velódromo, Can
+Xurrades, La Principal, Casa Amalia, La Greca, Jaç Hi-Fi, Maldita Barra,
+Parking Pizza/Pita, Bar Vereda, Kibuka, Saga Coffee, ATAV, SIAM, Casa Platos.
+
+Otros locales explorados y descartados en esta tanda por no superar los
+filtros 1-3 con confianza razonable (se documentan aquí para no repetir
+trabajo en la próxima ronda, no tienen ficha propia):
+
+- **Bar Alegria Gràcia** (Barcelona) — concepto muy reciente con crítica de
+  prensa explícita sobre precio/valor ("el peor bar de Gràcia", ElNacional),
+  pero no fue posible confirmar con confianza razonable un rating o número
+  de reseñas específico de esta dirección (los datos encontrados se
+  refieren de forma ambigua a otras direcciones de la misma marca). Revisar
+  en una próxima ronda si ya tiene ficha propia consolidada en Google/TripAdvisor.
+- **Bar Casi, Bar Trafalgar, Insolent (Gràcia), Bolboreta** — rating
+  confirmado pero por encima de 4,5 sin patrón negativo claro que lo
+  justifique dentro del filtro 2.
+- **Snake Bar, Indomable, Devil's Cut, Casa Osorio, Frecuencia, Esotérica,
+  Osteria Condal, Jazminos, Melós** — demasiado recientes para tener volumen
+  de reseñas verificable (bajo o inexistente).
+- **Cohete y Gamberro Barra Canalla (Goya)** — sí tienen ficha (ver tabla),
+  pero con salvedad explícita: su rating proviene de un agregador con escala
+  0-10 (GastroRanking), no de una nota de Google/TripAdvisor en escala 0-5
+  confirmada de forma independiente.
 
 ## Seguimiento de candidatos
 
@@ -20,4 +48,8 @@ Fases: 🟡 Investigado → 🟡 Priorizado (estrategia) → 🟡 Nota redactada
 
 | Local | Ciudad | Fase | Tipo de oportunidad | Notas |
 |---|---|---|---|---|
-| — | — | — | — | Sin candidatos todavía |
+| Malparit | Barcelona | 🟡 Investigado | SERVICE (dominante) / CONCEPT-FOOD (secundario) | Rating 4,0/5 TripAdvisor, 44 reseñas (justo bajo el umbral de 50). Ver `candidatos/malparit-barcelona.md`. |
+| Casa Fiero | Barcelona | 🟡 Investigado | CONCEPT (dominante) / FOOD (secundario) | Rating 3,9/5 TripAdvisor, solo 14 reseñas (no cumple filtro 3 formalmente, incluido como excepción justificada). Ver `candidatos/casa-fiero-barcelona.md`. |
+| Gamberro Taberna Canalla (Olavide) | Madrid | 🟡 Investigado | SERVICE (dominante) / FOOD (secundario) | Rating 4,0/5 (RestaurantGuru), 796 reseñas. Ver `candidatos/gamberro-taberna-canalla-olavide-madrid.md`. |
+| Gamberro Barra Canalla (Goya) | Madrid | 🟡 Investigado | CONCEPT (evidencia débil) | Misma marca que el anterior (Grupo Barbillón); rating solo disponible en escala GastroRanking 0-10. Ver `candidatos/gamberro-barra-canalla-goya-madrid.md`. |
+| Cohete | Barcelona | 🟡 Investigado | EXPERIENCE (dominante) / SERVICE (secundario, débil) | Grupo Tragaluz (cadena consolidada, no negocio independiente pequeño — señalado para estrategia). Rating solo disponible en escala GastroRanking 0-10. Ver `candidatos/cohete-barcelona.md`. |
