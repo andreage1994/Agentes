@@ -171,26 +171,85 @@ física confirmada). El detalle completo de prioridad, ángulos y variante
 está en la sección "Estrategia" de cada ficha (`candidatos/la-martina-barcelona.md`,
 `candidatos/verne-barcelona.md`).
 
-`potential-spotting-redaccion` redactó el 2026-09-28 (cuarta pasada) el
-documento "Notas desde la Barra" y el email de envío (variante B, digital
-spotting) para ambos, en el mismo orden de prioridad fijado por estrategia:
+`potential-spotting-redaccion` redactó posteriormente el documento y el
+email (variante B, digital spotting) para ambos, en el mismo orden de
+prioridad fijado por estrategia:
 
-7. **Verne** (Barcelona) — patrón SERVICE sostenido por dos citas textuales
-   de fuentes independientes (TripAdvisor y TheFork), formulado en el
-   bloque 3 con cuidado explícito de no cuestionar el trato del equipo,
-   sino el ritmo de gestión de sala. Documento:
-   `candidatos/verne-barcelona-notas.md`. Email:
-   `candidatos/verne-barcelona-email.md`.
-8. **La Martina** (Barcelona) — ángulo CONCEPT (desajuste entre los menús
-   de degustación anunciados en la web y lo disponible en sala), sostenido
-   por una única reseña sin corroborar; el bloque 3 se formula con
-   prudencia explícita ("es solo una voz, no un coro"), sin presentarlo
-   como un patrón. Documento: `candidatos/la-martina-barcelona-notas.md`.
-   Email: `candidatos/la-martina-barcelona-email.md`.
+- **Verne** — Documento: `candidatos/verne-barcelona-notas.md`. Email:
+  `candidatos/verne-barcelona-email.md`.
+- **La Martina** — Documento: `candidatos/la-martina-barcelona-notas.md`.
+  Email: `candidatos/la-martina-barcelona-email.md`.
 
-Ambos son borradores. **Ninguno se envía** hasta que Andrea o Sergio los
-revisen, personalicen (nombre del contacto, firma) y aprueben, tal como
-fija `CLAUDE.md`.
+Ambos siguen siendo borradores. **Ninguno se envía** hasta que Andrea o
+Sergio los revisen, personalicen y aprueben.
+
+**Actualización 2026-09-28 (tercera tanda de digital spotting):**
+`potential-spotting-research` identificó 6 candidatos nuevos en Barcelona y
+Madrid, ninguno repetido respecto a la lista completa de locales ya
+trabajados o descartados en tandas anteriores (incluida arriba, más
+Malparit, Casa Fiero, Gamberro Olavide/Goya, Cohete, La Martina y Verne).
+Los 6 superan los filtros 2-3 con datos verificables **o con salvedades
+explícitas documentadas en su ficha** (mismo criterio que en tandas
+anteriores: nunca se aproxima un dato que no se ha podido confirmar). Dos
+de ellos (Banquet y Bascoat) tienen una antigüedad ligeramente por encima
+del límite del filtro 1 (algo más de 3 años, sin relanzamiento conocido) y
+uno (Abya) claramente por encima (~3 años y medio) — se documentan igual,
+señalando el margen exacto, y se deja la decisión de mantenerlos o
+descartarlos por ese motivo a `potential-spotting-estrategia`, en vez de
+resolverlo unilateralmente en la fase de investigación:
+
+7. **Bar Bauma** (Barcelona, Eixample Dret) — relanzamiento confirmado
+   (reapertura en febrero de 2024 bajo el grupo Somos Esencia, sobre un
+   local histórico cerrado desde 2023 — cumple el filtro 1 por la regla de
+   "concepto relanzado"). Rating TripAdvisor 4,2/5, 34 reseñas (bajo el
+   umbral de 50, señalado como excepción). **FOOD (dominante)** —
+   inconsistencia de ejecución entre platos y visitas — con **SERVICE
+   (secundario)**. Ficha: `candidatos/bar-bauma-barcelona.md`.
+8. **The Library Wine Boutique & Cuisine** (Madrid, Salamanca/Serrano) —
+   abrió en 2024, ganador del premio People's Choice de TheFork Awards a
+   mejor apertura del año en España. Rating TripAdvisor 3,5-3,6/5 (66-67
+   reseñas, dos fuentes con cifras muy próximas). **CONCEPT (dominante)** —
+   percepción de precio, con cita literal muy fuerte sobre un cargo de 20€
+   por "un vaso de hielo" en vez de una copa de ginebra. Ficha:
+   `candidatos/the-library-wine-boutique-madrid.md`.
+9. **Bruma** (Barcelona, Eixample/Aribau) — abrió en junio de 2024. Rating
+   TripAdvisor 2,8/5 sobre 47 reseñas — **por debajo del umbral de 3,5 del
+   filtro 2**, incluido como excepción explícita por un patrón muy concreto
+   y repetido (hamburguesa cruda, tortilla cruda, paella "extremadamente
+   salada" con respuesta desconsiderada del camarero hacia el país de
+   origen del cliente). Discrepancia fuerte con un rating de Google de 4,5
+   no verificado de forma independiente. **FOOD (dominante)** con
+   **SERVICE (secundario)**. Ficha: `candidatos/bruma-barcelona.md`.
+10. **Banquet** (Barcelona, Ciutat Vella, cerca de la Rambla) — abrió en
+    verano de 2023 (ligeramente por encima del límite de filtro 1, ver
+    nota arriba). Rating TripAdvisor 3,9/5, 45 reseñas (justo bajo el
+    umbral de 50). **SERVICE (dominante)** — espera de media hora sin ser
+    atendidos, servicio descrito como "desastroso, lento y descuidado" —
+    con **FOOD (secundario)**. Ficha: `candidatos/banquet-barcelona.md`.
+11. **Bascoat** (Madrid, Chamartín/Paseo de la Habana) — inaugurado en 2023
+    (mismo tipo de salvedad de filtro 1 que Banquet). Rating TripAdvisor
+    3,2/5 sobre 26 reseñas — por debajo de los umbrales de filtro 2 y 3,
+    incluido como doble excepción explícita (mismo criterio que Casa Fiero
+    en la primera tanda) por un patrón concreto de precio/relación
+    calidad-precio, con cita literal sobre un cargo de 14€ por botellas de
+    agua no pedidas. Discrepancia con un rating de Google de 4,4 no
+    verificado de forma independiente. **CONCEPT (dominante)** con
+    **SERVICE (secundario)**. Ficha: `candidatos/bascoat-madrid.md`.
+12. **Abya** (Madrid, Salamanca, Palacio de Saldaña) — abrió en marzo de
+    2023 (el candidato más alejado del límite del filtro 1 en esta tanda,
+    ver nota arriba). Rating TripAdvisor 4,1/5, 142 reseñas (banda
+    "interesante" con holgura clara, a diferencia del resto de esta
+    tanda). **SERVICE (dominante)** — trato desigual documentado en una
+    reseña extensa y específica (cliente con voucher tratado como "de
+    segunda categoría", advertencia inapropiada sobre el vino, croquetas
+    servidas en singular) — con **CONCEPT (secundario)** y una mención
+    puntual de EXPERIENCE (ruido de una zona de sobremesa). Ficha:
+    `candidatos/abya-madrid.md`.
+
+Ningún local de esta tanda ha sido revisado todavía por
+`potential-spotting-estrategia`; los 6 quedan en fase "🟡 Investigado" a la
+espera de esa revisión, incluida la decisión sobre los tres casos con
+salvedad de filtro 1 (Banquet, Bascoat, Abya) señalada arriba.
 
 ## Hoja de cálculo (Drive)
 
@@ -212,7 +271,8 @@ en la misma carpeta de Drive, con 4 pestañas en vez de 7:
   redactada, en vez de una pestaña suelta por local con formato distinto.
 
 Es una propuesta para que Andrea/Sergio la revisen — la hoja original no se
-ha tocado ni borrado.
+ha tocado ni borrado. (Pendiente: incorporar los 6 candidatos de la tercera
+tanda de digital spotting, todavía no volcados a esta hoja.)
 
 ## Seguimiento de candidatos
 
@@ -231,3 +291,9 @@ candidato a redacción.
 | Cohete | Barcelona | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | EXPERIENCE (dominante) / SERVICE (secundario, sin cita textual verificada) | Grupo Tragaluz — cadena de restauración consolidada; `potential-spotting-estrategia` había recomendado no priorizarlo por ese motivo, pero Andrea pidió explícitamente proceder de todos modos (decisión de negocio suya). Rating solo disponible en escala GastroRanking 0-10. Ficha: `candidatos/cohete-barcelona.md` (sección Estrategia). Documento y email: `candidatos/cohete-barcelona-notas.md` / `candidatos/cohete-barcelona-email.md`. |
 | Verne | Barcelona | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | SERVICE (dominante, bien confirmado) | Traído por Andrea con diagnóstico propio, verificado con dos citas textuales reales (TripAdvisor y TheFork) que confirman servicio lento, bebidas olvidadas y necesidad de pedir varias veces con pocas mesas ocupadas. Rating TripAdvisor 4,3/5 (482 reseñas). No cumple filtro 1 (abrió en 2015, pertenece a BNGRUP — mismo perfil que Cohete), señalado para trazabilidad pero sin bloquear, por instrucción directa de Andrea. Prioridad 1 de este par. Ficha y sección Estrategia: `candidatos/verne-barcelona.md`. Documento y email: `candidatos/verne-barcelona-notas.md` / `candidatos/verne-barcelona-email.md`. |
 | La Martina | Barcelona | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | CONCEPT (dominante, evidencia de una sola reseña, sin corroborar) | Traído por Andrea con diagnóstico propio, verificado. Rating 4,7/5 en TripAdvisor (50 reseñas) y Google (235 reseñas) — muy por encima de la banda prioritaria. Única cita real sostiene comida fría + servicio lento + desajuste web/disponibilidad; se elige CONCEPT (desajuste web/menús) como ángulo más defendible del bloque 3, formulado con prudencia por tratarse de una única voz sin patrón. No cumple filtro 1 (~6-7 años, sin relanzamiento conocido). Prioridad 2 de este par. Ficha y sección Estrategia: `candidatos/la-martina-barcelona.md`. Documento y email: `candidatos/la-martina-barcelona-notas.md` / `candidatos/la-martina-barcelona-email.md`. |
+| Bar Bauma | Barcelona | 🟡 Investigado | FOOD (dominante) / SERVICE (secundario) | Relanzamiento (reapertura feb. 2024, grupo Somos Esencia, sobre local histórico cerrado en 2023) — cumple filtro 1 por regla de concepto relanzado. Rating TripAdvisor 4,2/5, 34 reseñas (bajo el umbral de 50, excepción señalada). Ficha: `candidatos/bar-bauma-barcelona.md`. |
+| The Library Wine Boutique & Cuisine | Madrid | 🟡 Investigado | CONCEPT (dominante, percepción de precio) | Abrió 2024, premio People's Choice TheFork Awards a mejor apertura del año en España. Rating TripAdvisor 3,5-3,6/5, 66-67 reseñas. Cita literal muy fuerte sobre cargo de 20€ por "un vaso de hielo" en vez de ginebra. Ficha: `candidatos/the-library-wine-boutique-madrid.md`. |
+| Bruma | Barcelona | 🟡 Investigado | FOOD (dominante) / SERVICE (secundario) | Abrió junio 2024. Rating TripAdvisor 2,8/5 sobre 47 reseñas — por debajo del umbral de 3,5 del filtro 2, incluido como excepción explícita por patrón muy concreto y repetido (comida cruda, sal excesiva, comentario desconsiderado de un camarero). Discrepancia fuerte con rating de Google (4,5) no verificado de forma independiente. Ficha: `candidatos/bruma-barcelona.md`. |
+| Banquet | Barcelona | 🟡 Investigado | SERVICE (dominante) / FOOD (secundario) | Abrió verano 2023 — ligeramente por encima del límite de filtro 1 (~3 años y unos meses), sin relanzamiento conocido; se documenta y se deja la decisión a estrategia. Rating TripAdvisor 3,9/5, 45 reseñas (justo bajo el umbral de 50). Ficha: `candidatos/banquet-barcelona.md`. |
+| Bascoat | Madrid | 🟡 Investigado | CONCEPT (dominante, percepción de precio) / SERVICE (secundario) | Inaugurado 2023 — mismo tipo de salvedad de filtro 1 que Banquet. Rating TripAdvisor 3,2/5 sobre 26 reseñas — doble excepción explícita (filtros 2 y 3), mismo criterio que Casa Fiero. Discrepancia con rating de Google (4,4) no verificado de forma independiente. Ficha: `candidatos/bascoat-madrid.md`. |
+| Abya | Madrid | 🟡 Investigado | SERVICE (dominante) / CONCEPT (secundario) | Abrió marzo 2023 — el más alejado del límite de filtro 1 en esta tanda (~3 años y medio); se documenta y se deja la decisión a estrategia. Rating TripAdvisor 4,1/5, 142 reseñas (banda "interesante" con holgura clara). Ficha: `candidatos/abya-madrid.md`. |
