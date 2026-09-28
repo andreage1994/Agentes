@@ -71,6 +71,37 @@ sesión — todo lo anterior se reconstruyó vía `WebSearch` y se marca así en
 cada brief. No se pudo revisar `clientes/*/fase-a-investigacion-mercado.md`
 por falta de herramienta de listado de directorios en esta tarea.
 
+`blog-investigacion` ha entregado los briefs de los Temas 1 (Licencias) y 7
+(APPCC), los dos de prioridad de trabajo Media, cerrando así la
+investigación de los 7 temas del listado. Confirmado en ambos casos que
+`hospitality-report/matriz-tematica.md` no aporta nada aprovechable
+(revisado completo, no asumido) — coincide con lo ya anticipado por
+`blog-estrategia-seo`. Hallazgo relevante para el Tema 1: TBNB **ya tiene
+voz propia publicada** sobre este ángulo exacto en su propia web —el
+artículo de blog "Common mistakes when opening a restaurant" ya menciona
+extracción de humos, restricciones acústicas y firmar el alquiler sin
+aprobación técnica como errores típicos, y la página de servicio de Madrid
+usa la frase "no firmes alquiler sin comprobar licencia"— así que este
+artículo nuevo desarrolla en profundidad un ángulo que TBNB ya insinúa,
+no lo inventa de cero; son enlaces internos reales y de encaje directo.
+El hallazgo normativo más útil es el "certificado de compatibilidad
+urbanística" (verificar el uso permitido del local antes de firmar,
+independientemente del proyecto técnico) como pieza concreta que sostiene
+el H2-2 ya definido. Para el Tema 7, sin dato propio fuerte del
+Hospitality Report (confirmado, no solo asumido), el hallazgo más útil es
+que las inspecciones sanitarias detectan con frecuencia "plan APPCC
+existente pero con registros sin cumplimentar" — validación casi literal
+del ángulo "tenerlo vs. usarlo" — más una novedad normativa reciente y
+poco explotada por la competencia de mercado: la Ley 1/2025 de prevención
+de pérdidas y desperdicio alimentario (obligación de ofrecer envase
+gratuito para llevarse comida no consumida, entre otras). `boe.es`,
+`canalempresa.gencat.cat`, `saia.es`, `combohr.com`, `cursoappcc.com`,
+`rqrconsultoria.com`, `mapal-os.com`, `alimentiaformacion.com` y el propio
+`thebarnbarconsulting.com` dieron `EGRESS_BLOCKED` en fetch directo esta
+sesión — todo lo anterior se reconstruyó vía `WebSearch` y se marca así en
+ambos briefs. Ningún dato del ángulo original de estos dos temas queda
+contradicho por lo encontrado.
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -78,25 +109,30 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 
 | Tema | Fase | Artículo | Notas |
 |---|---|---|---|
-| 1. Licencias para abrir un restaurante | 🟡 Estrategia (ángulo definido) | — | Prioridad de trabajo: Media. Ángulo: secuenciación estratégica antes de firmar el local, no listado de trámites. |
+| 1. Licencias para abrir un restaurante | 🟡 Investigación | [`blog-web/investigacion/tema-01-licencias.md`](investigacion/tema-01-licencias.md) | Prioridad de trabajo: Media. Ángulo confirmado y reforzado: TBNB ya tiene contenido propio publicado con el mismo espíritu ("Common mistakes when opening a restaurant", página de Madrid con "no firmes alquiler sin comprobar licencia") — enlaces internos reales encontrados. Hallazgo normativo clave: el certificado de compatibilidad urbanística se comprueba antes de firmar el alquiler. Normativa estatal (Ley 12/2012, declaración responsable) vs. autonómica/municipal (clasificación de actividad, terrazas) separadas explícitamente en el brief — no generalizar cifras de plazos/costes entre municipios. |
 | 2. Ayudas de proveedores para montar un bar | 🟡 Investigación | [`blog-web/investigacion/tema-02-ayudas-proveedores.md`](investigacion/tema-02-ayudas-proveedores.md) | Prioridad de trabajo: Media-alta. Dato legal sólido y citable (Reglamento UE 2022/720, límite de 5 años a la exclusividad). Financiación ICO y renting confirmados como alternativas, con aviso de verificar cifra exacta del ICO (fuente de agregador, no ico.es). Subvenciones públicas: dispersas por comunidad autónoma, sin programa único nacional. |
 | 3. Ayudas de Estrella Galicia | 🟡 Investigación | [`blog-web/investigacion/tema-03-estrella-galicia.md`](investigacion/tema-03-estrella-galicia.md) | Prioridad de trabajo: Alta. **Aviso importante:** no hay evidencia de que sea un programa oficial con ese nombre — lo oficial y verificable es "The Hop" y "Cervecerías Circulares", que no son lo mismo. La letra pequeña (exclusividad, duración 5-10 años, penalizaciones) es patrón de mercado documentado por terceros, no confirmado por la marca — presentarlo así en el artículo. |
 | 4. Ayudas de Mahou | 🟡 Investigación | [`blog-web/investigacion/tema-04-mahou.md`](investigacion/tema-04-mahou.md) | Prioridad de trabajo: Alta. **Aviso importante:** no existe evidencia de una plataforma llamada "Bar Uno" — lo verificable es "+Bar" / "Nexho" / "Más con Mahou San Miguel". Una fuente (Nexho) afirma que la exclusividad "está prohibida en España", lo cual es impreciso frente al Reglamento UE 2022/720 (está limitada a 5 años, no prohibida) — no repetir esa afirmación en el artículo. |
 | 5. Escandallos y food cost | 🟡 Investigación | [`blog-web/investigacion/tema-05-escandallos-food-cost.md`](investigacion/tema-05-escandallos-food-cost.md) | Dato Inpulse.ai verificado y ampliado (margen neto 3-4% incluso en negocios con estrella Michelin; es mercado francés, no español). Rangos de food cost por tipo de negocio y ejemplo de escandallo paso a paso reconstruidos vía `WebSearch` (fuentes de mercado bloqueadas por egress esta sesión). Dato España 2025 (Hosteltur): rentabilidad de restauración -0,9% pese a crecer ingresos 3,1%. Enlaces internos reales encontrados en `thebarnbarconsulting.com`, con aviso de posible canibalización SEO con artículo ya publicado sobre rentabilidad. |
 | 6. Diseño de carta de restaurante | 🟡 Investigación | [`blog-web/investigacion/tema-06-diseno-carta.md`](investigacion/tema-06-diseno-carta.md) | Ángulo verificado contra `hospitality-report/matriz-tematica.md`: se sostiene, con matiz sobre la tensión "raciones grandes vs. pequeñas" (hipótesis, no cerrada en origen) y sobre que la matriz clásica de ingeniería de menú aplica mejor a carta con reserva que a bar de tapas. Listo para pasar a `blog-redaccion` junto con el Tema 5 (enlace interno cruzado entre ambos). |
-| 7. Sanidad y APPCC | 🟡 Estrategia (ángulo definido) | — | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo), sin dato propio fuerte que citar. |
+| 7. Sanidad y APPCC | 🟡 Investigación | [`blog-web/investigacion/tema-07-appcc.md`](investigacion/tema-07-appcc.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report (confirmado, no solo asumido). Hallazgo útil: dato de inspecciones con "registros APPCC sin cumplimentar" valida el ángulo de forma casi literal; la Ley 1/2025 de prevención del desperdicio alimentario es una novedad reciente (abril 2025) poco explotada por la competencia de mercado listada. Aviso: cifras de sanción (3.000-30.000€) vienen de una única fuente de consultoría, tratar como orientativas. |
 
 ## Próximo paso
 
-Los Temas 2, 3, 4, 5 y 6 ya están investigados. Los Temas 5 y 6 pueden pasar
-a `blog-redaccion` juntos (se enlazan entre sí); antes de redactar,
-`blog-estrategia-seo` debería revisar el aviso de posible canibalización
-SEO del Tema 5. Para el bloque 2/3/4, antes de pasar a redacción conviene
-que `blog-estrategia-seo` decida cómo encajar el aviso sobre nombres de
-programa no verificados (especialmente "Bar Uno", que no existe con ese
-nombre) sin perder el ángulo independiente ya aprobado por Andrea — lo más
-seguro es ajustar cómo se nombra el programa en el propio título/entradilla
-sin tocar el H1 ya aprobado más de lo necesario, o confirmarlo primero
-verificando directamente `estrellagalicia.es` y `mahou-sanmiguel.com` (ambos
-bloqueados en esta sesión de investigación). Queda pendiente solo el Tema 1
-y el Tema 7 (prioridad Media).
+Los 7 temas del listado ya están investigados — no queda ningún tema en
+fase de solo "Estrategia". Los Temas 5 y 6 pueden pasar a `blog-redaccion`
+juntos (se enlazan entre sí); antes de redactar, `blog-estrategia-seo`
+debería revisar el aviso de posible canibalización SEO del Tema 5. Para el
+bloque 2/3/4, antes de pasar a redacción conviene que `blog-estrategia-seo`
+decida cómo encajar el aviso sobre nombres de programa no verificados
+(especialmente "Bar Uno", que no existe con ese nombre) sin perder el
+ángulo independiente ya aprobado por Andrea — lo más seguro es ajustar cómo
+se nombra el programa en el propio título/entradilla sin tocar el H1 ya
+aprobado más de lo necesario, o confirmarlo primero verificando
+directamente `estrellagalicia.es` y `mahou-sanmiguel.com` (ambos bloqueados
+en esta sesión de investigación). Los Temas 1 y 7, de prioridad Media,
+están listos para pasar a `blog-redaccion` en el bloque que se decida
+trabajar después de los de prioridad Alta — para el Tema 1 conviene que
+`blog-redaccion` abra directamente `thebarnbarconsulting.com` (bloqueado
+para esta sesión de investigación) para confirmar la literalidad de las
+frases citadas antes de enlazarlas o citarlas en el artículo nuevo.
