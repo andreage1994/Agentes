@@ -240,6 +240,32 @@ el Tema 1 (licencias) una vez ambos estén publicados. El cierre es una
 idea propia de consultoría ligada a la fase Run del BAR Method, sin CTA de
 venta forzado. Pendiente de pasar por `blog-revision-seo-calidad`.
 
+`blog-redaccion` ha entregado el artículo del Tema 6 (diseño de carta)
+(2026-09-28), en
+`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`.
+Sigue el ángulo aprobado (la estética como última decisión, ingeniería de
+menú y food cost primero) y respeta los dos matices que pedía el brief:
+(1) la tensión "raciones grandes vs. pequeñas" se formula como "depende de
+la ocasión de consumo", citando explícitamente que sigue siendo una
+hipótesis a validar, no una conclusión cerrada; (2) el propio H2 1 deja
+dicho desde el principio —no solo al final— que la matriz clásica de
+ingeniería de menú aplica mejor a un restaurante de carta con reserva que a
+un bar de tapas, donde el ticket se arma por mesa y no por plato individual.
+Incorpora los datos del brief con sus matices de fuente: los 4 ejes del
+valor de Coca-Cola Lens, la matriz de Kasavana/Smith (1982) con el ejemplo
+de carta italiana (linguine/pollo parmesano/pasta de temporada/ensalada),
+el caso Papa John's, McKinsey (abr 2026), Inpulse.ai marcado como mercado
+francés, el estudio Cornell/CIA de 2007 sobre el símbolo de moneda marcado
+como técnica clásica y no reciente, y las cifras de Bournemouth y de
++10-15% de beneficio por rediseño de carta marcadas explícitamente como
+"cifras que circulan en el sector" sin estudio primario verificado. El
+enlace al artículo del Tema 5 se deja como nota entre corchetes
+(`[enlazar cuando esté publicado: URL final del artículo de food cost]`)
+en vez de inventar una URL de `thebarnbarconsulting.com`, porque ese
+artículo aún no está publicado en la web en vivo — pendiente de sustituir
+por la URL real en cuanto se publique. Pendiente de pasar por
+`blog-revision-seo-calidad`.
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -252,7 +278,7 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 | 3. Ayudas de Estrella Galicia | 🟡 Investigación | [`blog-web/investigacion/tema-03-estrella-galicia.md`](investigacion/tema-03-estrella-galicia.md) | Prioridad de trabajo: Alta. **Aviso importante:** no hay evidencia de que sea un programa oficial con ese nombre — lo oficial y verificable es "The Hop" y "Cervecerías Circulares", que no son lo mismo. La letra pequeña (exclusividad, duración 5-10 años, penalizaciones) es patrón de mercado documentado por terceros, no confirmado por la marca — presentarlo así en el artículo. |
 | 4. Ayudas de Mahou | 🟡 Investigación | [`blog-web/investigacion/tema-04-mahou.md`](investigacion/tema-04-mahou.md) | Prioridad de trabajo: Alta. **Aviso importante:** no existe evidencia de una plataforma llamada "Bar Uno" — lo verificable es "+Bar" / "Nexho" / "Más con Mahou San Miguel". Una fuente (Nexho) afirma que la exclusividad "está prohibida en España", lo cual es impreciso frente al Reglamento UE 2022/720 (está limitada a 5 años, no prohibida) — no repetir esa afirmación en el artículo. |
 | 5. Escandallos y food cost | 🟢 Listo para revisión de Andrea/Sergio | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Revisado por `blog-revision-seo-calidad` (2026-09-28): checklist SEO y prueba de "relevante vs. relleno" superados. Los dos motivos de devolución quedaron resueltos por el orquestador el mismo día: (1) el enlace a `escandallo-evitar-desperdicio-restaurante/` era real, verificado directamente — no era un slug inventado; (2) se añadió una frase de cierre que diferencia explícitamente este artículo (food cost) de "Cómo calcular la rentabilidad de un negocio de hostelería" (todos los costes), con enlace real. Pendiente solo de que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
-| 6. Diseño de carta de restaurante | 🟡 Investigación | [`blog-web/investigacion/tema-06-diseno-carta.md`](investigacion/tema-06-diseno-carta.md) | Ángulo verificado contra `hospitality-report/matriz-tematica.md`: se sostiene, con matiz sobre la tensión "raciones grandes vs. pequeñas" (hipótesis, no cerrada en origen) y sobre que la matriz clásica de ingeniería de menú aplica mejor a carta con reserva que a bar de tapas. Listo para pasar a `blog-redaccion` junto con el Tema 5 (enlace interno cruzado entre ambos). |
+| 6. Diseño de carta de restaurante | 🟡 Borrador | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | `blog-redaccion` ha entregado el borrador (2026-09-28), respetando el ángulo y los dos matices pedidos por el brief (raciones grandes/pequeñas como hipótesis según ocasión de consumo, y matriz de ingeniería de menú explicada como más aplicable a carta con reserva que a bar de tapas, dicho ya en el H2 1). El enlace al Tema 5 queda marcado entre corchetes a la espera de que ese artículo esté publicado. Pendiente de pasar a `blog-revision-seo-calidad`. |
 | 7. Sanidad y APPCC | 🟡 Borrador | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. Borrador entregado por `blog-redaccion` (2026-09-28): usa el hallazgo de "registros APPCC sin cumplimentar" como prueba central, incorpora la Ley 1/2025 de prevención del desperdicio alimentario (envase gratuito salvo bufé libre, formación de personal, sanciones hasta 500.000€) en el H2 de integración diaria, y presenta el rango de sanción 3.000-30.000€ con el matiz de fuente única de consultoría, no normativa autonómica contrastada. Sin enlace interno en el cuerpo por falta de uno verificado — nota aparte sobre posible conexión futura con el Tema 1. Pendiente de `blog-revision-seo-calidad`. |
 
 ## Próximo paso
@@ -260,13 +286,13 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 El Tema 5 ya está resuelto y listo para que Andrea/Sergio lo revisen (ver
 tabla de seguimiento) — nada pendiente de `blog-redaccion` en este tema.
 
-El Tema 1 (Licencias) y el Tema 7 (APPCC) ya tienen borrador entregado (ver
-tabla de seguimiento) — ambos pendientes de pasar por
-`blog-revision-seo-calidad`.
+Los Temas 1 (Licencias), 6 (Diseño de carta) y 7 (APPCC) ya tienen borrador
+entregado (ver tabla de seguimiento) — los tres pendientes de pasar por
+`blog-revision-seo-calidad`. Para el Tema 6, importante revisar en
+particular que el enlace entre corchetes al Tema 5 se sustituya por la URL
+real en cuanto ese artículo se publique.
 
-El Tema 6 puede pasar a `blog-redaccion` (se enlaza con el
-Tema 5, y conviene aprovechar que ambos comparten terreno de autoridad de
-marca). Para el bloque 2/3/4, antes de pasar a redacción conviene que
+Para el bloque 2/3/4, antes de pasar a redacción conviene que
 `blog-estrategia-seo` decida cómo encajar el aviso sobre nombres de
 programa no verificados (especialmente "Bar Uno", que no existe con ese
 nombre) sin perder el ángulo independiente ya aprobado por Andrea — lo más
@@ -274,4 +300,3 @@ seguro es ajustar cómo se nombra el programa en el propio título/entradilla
 sin tocar el H1 ya aprobado más de lo necesario, o confirmarlo primero
 verificando directamente `estrellagalicia.es` y `mahou-sanmiguel.com`
 (ambos bloqueados en esta sesión de investigación).
-</content>
