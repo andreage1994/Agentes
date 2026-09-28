@@ -36,6 +36,16 @@ local ya ha conseguido (identidad, demanda, espacio) antes de plantear la
 pregunta de cierre: *"¿Qué podría pasar si la operación estuviera a la
 altura de todo lo que el negocio ya ha conseguido construir?"*
 
+**Regla fija (pedida por Andrea, 2026-09-28): este bloque menciona siempre,
+de forma explícita, tanto el impacto en la rentabilidad como en la
+reputación** — no basta con nombrar solo una de las dos, ni dejarlo
+implícito en "el negocio". No hace falta desarrollarlo con cifras: basta
+una frase que las nombre a las dos, adaptada a la observación concreta del
+bloque 3 (ej. "ya sea a cómo rota una mesa y a lo que factura, ya sea a qué
+reseña escribe esa persona al salir"). Cada nota es distinta, así que la
+frase se adapta al caso — lo que no cambia es que **las dos palancas
+aparecen siempre, nunca solo una.**
+
 ### 5. "¿Por qué hacemos esto?"
 El bloque de honestidad de intención — explica por qué TBNB escribe estas
 notas, sin pedir nada a cambio explícitamente:
@@ -60,6 +70,9 @@ notas, sin pedir nada a cambio explícitamente:
   genérica para rellenar la plantilla.
 - El cierre siempre vincula la mejora operativa con negocio real
   (rentabilidad, rotación, ticket), no solo con "mejor experiencia".
+- El bloque 4 nombra siempre **las dos palancas explícitamente: rentabilidad
+  y reputación** — nunca solo una de las dos ni una mención vaga a "el
+  negocio". Ver regla fija en la sección del bloque 4.
 
 ## Nota importante sobre digital spotting (sin visita física)
 

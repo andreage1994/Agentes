@@ -33,6 +33,11 @@ Barra" y su email de envío.
 3. Sigue las reglas de tono ya fijadas: frases cortas, sin sonar a informe
    de auditoría, el bloque 3 formulado como pregunta abierta, el cierre
    conectado a negocio real (rotación, ticket, rentabilidad).
+4. **Regla fija del bloque 4, sin excepción:** menciona siempre de forma
+   explícita las dos palancas de negocio — **rentabilidad y reputación** —
+   nunca solo una de las dos, ni una mención vaga a "el negocio". Adapta la
+   frase a la observación concreta de cada candidato (ver ejemplo en
+   `plantilla-notas-desde-la-barra.md`, sección del bloque 4).
 
 ## Reglas
 
