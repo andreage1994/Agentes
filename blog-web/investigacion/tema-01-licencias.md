@@ -28,10 +28,50 @@ H1/H2 (ya fijada por `blog-estrategia-seo`).
   Si `blog-redaccion` quiere blindar este punto al 100%, pedir confirmación
   directa a Andrea/Sergio de si algún cliente reciente tuvo un caso de
   licencias documentado ahí — pero no bloquea la redacción con lo que hay.
+- **Contenido ya publicado en `thebarnbarconsulting.com` (hallazgo
+  importante, corrige una primera lectura de este brief):** el sitio ya
+  tiene voz propia sobre este tema exacto, así que no se parte de cero:
+  - El artículo de blog en inglés *"Common mistakes when opening a
+    restaurant (and how to avoid them)"*
+    (`thebarnbarconsulting.com/en/common-mistakes-when-opening-a-restaurant/`)
+    ya lista, como errores típicos: asumir que la licencia "será fácil",
+    ignorar los requisitos de extracción de humos, olvidar las
+    restricciones acústicas, y firmar el alquiler sin aprobación técnica
+    previa — y advierte de que licencias, tasas municipales y proyecto
+    técnico pueden duplicar fácilmente el presupuesto inicial si no se
+    planifican. **Esto es casi literalmente el ángulo ya definido para
+    este tema** (extracción de humos, música/acústica, no firmar sin
+    comprobar antes) dicho con otras palabras, en un artículo que ya
+    existe. Enlace interno directo y con encaje de contenido perfecto.
+    **Nota de fuente:** `thebarnbarconsulting.com` dio `EGRESS_BLOCKED` en
+    fetch directo esta sesión — el contenido citado aquí viene de
+    fragmentos indexados por `WebSearch`, no de lectura directa del
+    artículo completo; `blog-redaccion` debería abrirlo directamente antes
+    de enlazarlo, para confirmar literalidad de las frases.
+  - La página de servicio *"Consultoría hostelería en Madrid"*
+    (`thebarnbarconsulting.com/consultoria-hosteleria-en-madrid/`) usa como
+    reclamo la frase **"No firmes alquiler sin comprobar licencia"**, dentro
+    de una lista de avisos tipo ("no elijas local antes de tener concepto y
+    números", "no firmes alquiler sin comprobar licencia", "no diseñes
+    cocina sin flujo"...). Es prácticamente el eslogan del ángulo TBNB de
+    este artículo — muy buen candidato a cita o titular de apoyo, y a
+    enlace interno.
+  - La página *"Cómo vender o comprar tu negocio con éxito"* menciona
+    licencias, contratos, sanciones y permisos como parte de la auditoría
+    de compraventa de un negocio — enlace interno más lateral (perfil de
+    lector distinto, quien compra un negocio ya abierto, no quien abre uno
+    nuevo), pero mencionable si `blog-redaccion` quiere ampliar el
+    recorrido del lector.
+  - No he encontrado contenido ya publicado sobre licencia de terraza o
+    actividad clasificada específicamente — el hueco real que este nuevo
+    artículo vendría a llenar.
 
-**Conclusión:** para este tema, la investigación es prácticamente 100%
-fuente externa. Es coherente con la nota de prioridad de trabajo "Media"
-que ya le puso `blog-estrategia-seo`.
+**Conclusión revisada:** a diferencia de lo que pensaba en una primera
+pasada, **sí hay voz propia real de TBNB ya publicada** que sostiene este
+ángulo — no es investigación 100% externa. Eso sí, el detalle normativo
+(qué tipo de licencia, qué varía por municipio) sigue siendo terreno de
+fuente externa, coherente con la prioridad de trabajo "Media" que ya le
+puso `blog-estrategia-seo`.
 
 ---
 
@@ -124,7 +164,8 @@ porque es precisamente lo que un artículo genérico no puede resolver bien:
 ## 3. El dato más importante para el ángulo TBNB: la compatibilidad urbanística se comprueba ANTES de firmar
 
 Este es el hallazgo más directamente útil para el ángulo ya definido
-("qué preguntar antes de firmar el contrato de alquiler"):
+("qué preguntar antes de firmar el contrato de alquiler"), y coincide de
+forma casi literal con lo que TBNB ya dice en su propia web (ver sección 0):
 
 - Varios ayuntamientos (documentado para Barcelona vía llicenciaactivitat.cat
   y gapenginyeria.com, y de forma genérica en quartdepa.es y
@@ -147,7 +188,10 @@ Este es el hallazgo más directamente útil para el ángulo ya definido
   caros"): la compatibilidad urbanística es el paso que casi ninguna
   fuente de las referencias de mercado del listado (ditaly.es,
   hostelparts.com, combohr.com) menciona en primer lugar — casi todas
-  listan tipos de licencia como si el local ya estuviera decidido.
+  listan tipos de licencia como si el local ya estuviera decidido. TBNB sí
+  lo dice ya, aunque en una frase corta ("no firmes alquiler sin comprobar
+  licencia") — este artículo es la oportunidad de desarrollarlo en
+  profundidad con el detalle normativo que la home no da.
 
 ## 4. Matices y tensiones a tener en cuenta
 
@@ -167,28 +211,30 @@ Este es el hallazgo más directamente útil para el ángulo ya definido
   como ejemplo de un municipio concreto, no como dato general.
 - **Fuentes bloqueadas en esta sesión** (marcar si se cita alguna de ellas
   como si se hubiera leído directamente, porque no fue así): `boe.es`,
-  `canalempresa.gencat.cat`, `saia.es`, `combohr.com`. Todo lo que viene de
-  estas cinco se reconstruyó vía fragmentos de `WebSearch`, nunca por
-  lectura directa del documento.
+  `canalempresa.gencat.cat`, `saia.es`, `combohr.com`,
+  `thebarnbarconsulting.com` (el propio sitio de TBNB también dio
+  `EGRESS_BLOCKED` en fetch directo — todo lo citado de él en la sección 0
+  viene de fragmentos de `WebSearch`, confirmar literalidad antes de citar
+  textualmente en el artículo nuevo).
 
 ## 5. Enlaces internos posibles
 
-- **No hay artículos del blog TBNB ya publicados** a fecha de esta
-  investigación (2026-09-28) — el proyecto blog-web arranca con este
-  mismo lote de 7 temas, todos en fase de estrategia/investigación. No
-  hay nada real que enlazar todavía.
-- **Candidato claro a futuro, cuando exista:** el Tema 2 ("Ayudas de
-  proveedores para montar un bar") es parte de la misma etapa de apertura
-  de negocio — tiene sentido temático enlazar Tema 1 ↔ Tema 2 una vez
-  ambos estén publicados (quien firma el local también está decidiendo
-  financiación).
+- **`thebarnbarconsulting.com/en/common-mistakes-when-opening-a-restaurant/`**
+  — enlace interno directo y de máxima relevancia temática (ver detalle en
+  sección 0). Confirmar si existe versión en español antes de enlazar
+  desde un artículo en español, o enlazar a la versión en inglés si no
+  existe equivalente.
+- **`thebarnbarconsulting.com/consultoria-hosteleria-en-madrid/`** — enlace
+  interno a página de servicio, con la frase "no firmes alquiler sin
+  comprobar licencia" como posible cita/titular de apoyo.
+- **`thebarnbarconsulting.com/como-vender-o-comprar-tu-negocio-con-exito/`**
+  — enlace interno más lateral (perfil de lector distinto), opcional.
 - **`hospitality-report`** no aporta enlace interno real para este tema
   (confirmado en la sección 0) — no forzar una conexión que no existe.
-- Si en el futuro TBNB publica una página de servicios describiendo la
-  fase "Breakdown" del BAR Method con más detalle de diagnóstico de local,
-  sería un candidato natural de enlace interno — pero no puedo confirmar
-  si esa página ya existe en la web actual, así que lo dejo como
-  sugerencia a verificar por `blog-redaccion`, no como enlace confirmado.
+- **Candidato a futuro, cuando exista:** el Tema 2 ("Ayudas de proveedores
+  para montar un bar") es parte de la misma etapa de apertura de negocio
+  dentro de este mismo listado — tiene sentido temático enlazar Tema 1 ↔
+  Tema 2 una vez ambos estén publicados como artículos de blog nuevos.
 
 ## 6. Fuentes citadas en este brief (con fecha cuando la fuente la da)
 
@@ -210,3 +256,7 @@ Este es el hallazgo más directamente útil para el ángulo ya definido
 - Distinción actividad inocua/clasificada — madridlicencias.com,
   pinedoproyectoseingenieria.com, proyectos-online.es, sin fecha explícita
   en la mayoría.
+- Contenido propio ya publicado en `thebarnbarconsulting.com` ("Common
+  mistakes when opening a restaurant", página de Madrid, página de
+  compraventa de negocio) — vía fragmentos de `WebSearch` (dominio propio
+  bloqueado en fetch directo esta sesión), septiembre 2026.
