@@ -129,9 +129,38 @@ es un aviso para la revisión final de Andrea/Sergio).
    hostelería" es "el mapa entero" (todos los costes), con enlace real a
    ese artículo. No se ha tocado el ángulo ni los H2 aprobados por Andrea.
 
-Con esto, el Tema 5 queda **listo para que Andrea/Sergio lo revisen** —
+Con esto, el Tema 5 quedó listo para que Andrea/Sergio lo revisaran —
 pendiente solo de la verificación directa de las cifras de INE/Hosteltur
 antes de publicar en la web en vivo, ya señalada arriba.
+
+**Redacción final (2026-09-28), instrucción directa de Andrea para los 7
+artículos del proyecto.** Andrea pidió una última pasada de estilo sobre
+el borrador ya aprobado del Tema 5, sin tocar contenido, datos ni ángulo:
+(1) que sea la redacción definitiva lista para publicar; (2) que sea amena
+sin perder las keywords reales de `listado-temas.md` (food cost,
+escandallo restaurante, cómo calcular food cost, qué es el food cost en un
+restaurante, food cost restaurante), asegurando que aparezcan de forma
+natural en título, entradilla y al menos un H2; y (3) que no suene a
+informe — fuera frases tipo "según nuestra investigación" o citas
+encadenadas como revisión bibliográfica, y en su lugar una voz de alguien
+de TBNB que conoce el sector y lo cuenta con seguridad, no que presenta
+datos. `blog-redaccion` reescribió el artículo con ese criterio: se
+suavizó el envoltorio de las atribuciones (por ejemplo, "según el Anuario
+de la Hostelería de España, citado por Hosteltur" pasa a "lo cuenta el
+Anuario de la Hostelería de España, recogido por Hosteltur") sin quitar
+ninguna fuente ni cifra, y se reforzó la presencia natural de las keywords
+en la entradilla (que ahora incluye explícitamente "food cost de tu
+restaurante", "escandallo de restaurante" y "cómo calcular food cost") y
+en el H2 3 ("food cost de un restaurante"). Todos los matices de precisión
+del borrador aprobado se mantienen intactos: el dato de Inpulse.ai sigue
+marcado explícitamente como mercado francés, no español, en las dos
+ocasiones en que aparece; las cifras de INE y de Hosteltur/Anuario de la
+Hostelería de España mantienen su fuente; y los dos enlaces internos (al
+artículo de escandallo/desperdicio y a la regla 50/30/20) se mantienen
+exactamente con las mismas URLs, sin cambios. No se ha tocado ni el H1 ni
+los cuatro H2 ya aprobados por Andrea. Queda pendiente la misma salvedad ya
+señalada arriba: verificar directamente las cifras de INE/Hosteltur antes
+de publicar en la web en vivo.
 
 `blog-investigacion` ha entregado los briefs de los Temas 2, 3 y 4 (bloque
 "ayudas de proveedores"), con el visto bueno explícito de Andrea para seguir
@@ -329,14 +358,17 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 | 2. Ayudas de proveedores para montar un bar | 🟡 Borrador | [`blog-web/articulos/ayudas-para-montar-un-bar.md`](articulos/ayudas-para-montar-un-bar.md) | Prioridad de trabajo: Media-alta. Artículo "paraguas" de los Temas 3 y 4: distingue subvenciones públicas dispersas por CCAA (sin programa único nacional) de acuerdos comerciales con proveedores, cuantifica el coste de la exclusividad con el Reglamento (UE) 2022/720 como dato legal de respaldo (límite de 5 años), presenta ICO/renting como alternativas (cifra ICO marcada como de agregador, pendiente de verificar en ico.es) y cierra citando Inpulse.ai (hospitality-report). Enlaza a los Temas 3 y 4 en el H2 4 con nota "enlace pendiente de publicación" en vez de URL inventada. Pendiente de `blog-revision-seo-calidad`. |
 | 3. Ayudas de Estrella Galicia | 🟡 Borrador | [`blog-web/articulos/estrella-galicia-te-monta-el-bar.md`](articulos/estrella-galicia-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** el H1/entradilla mantiene la keyword buscada, pero el 2º párrafo aclara sin rodeos que no es un programa oficial con ficha pública, y nombra "The Hop" y "Cervecerías Circulares" como lo real y verificable de la marca. Letra pequeña (exclusividad 5-10 años, rappel 75/25, penalizaciones) presentada explícitamente como "patrón de mercado documentado por terceros", nunca como condición confirmada de Estrella Galicia. El Reglamento (UE) 2022/720 (límite de 5 años) se usa como el dato con más peso de esa sección. Enlaces a Temas 2 y 4 con nota de "pendiente de publicación". Pendiente de `blog-revision-seo-calidad`. |
 | 4. Ayudas de Mahou | 🟡 Borrador | [`blog-web/articulos/mahou-te-monta-el-bar.md`](articulos/mahou-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** "Bar Uno" no aparece en ningún punto del artículo; el 2º párrafo aclara que no hay programa oficial con el nombre buscado y nombra "+Bar", "Nexho" y "Más con Mahou San Miguel" como lo real y verificable, con detalle de qué ofrece cada uno. La afirmación de Nexho de que la exclusividad "está prohibida en España" **no se repite** — se sustituye por la versión correcta del Reglamento (UE) 2022/720 (limitada a 5 años, no prohibida). El H2 3 construye un ejemplo numérico con supuestos explícitamente declarados como hipotéticos, no como cifras reales de Mahou. Enlaces a Temas 2 y 3 con nota de "pendiente de publicación". Pendiente de `blog-revision-seo-calidad`. |
-| 5. Escandallos y food cost | 🟢 Listo para revisión de Andrea/Sergio | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Revisado por `blog-revision-seo-calidad` (2026-09-28): checklist SEO y prueba de "relevante vs. relleno" superados. Los dos motivos de devolución quedaron resueltos por el orquestador el mismo día: (1) el enlace a `escandallo-evitar-desperdicio-restaurante/` era real, verificado directamente — no era un slug inventado; (2) se añadió una frase de cierre que diferencia explícitamente este artículo (food cost) de "Cómo calcular la rentabilidad de un negocio de hostelería" (todos los costes), con enlace real. Pendiente solo de que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
+| 5. Escandallos y food cost | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Ya había sido revisado por `blog-revision-seo-calidad` y por Andrea/Sergio en cuanto a estructura, checklist SEO y enlaces (ver historial arriba: enlace a `escandallo-evitar-desperdicio-restaurante/` verificado real, y enlace añadido a "Cómo calcular la rentabilidad de un negocio de hostelería" para resolver la canibalización). El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe, keywords reforzadas en entradilla y H2 3) sin tocar contenido, datos, ángulo, H1/H2 ni los dos enlaces internos, que se mantienen con las mismas URLs. El dato de Inpulse.ai sigue marcado explícitamente como mercado francés en las dos ocasiones en que aparece. Sigue pendiente, como único punto abierto, que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
 | 6. Diseño de carta de restaurante | 🟡 Borrador | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | `blog-redaccion` ha entregado el borrador (2026-09-28), respetando el ángulo y los dos matices pedidos por el brief (raciones grandes/pequeñas como hipótesis según ocasión de consumo, y matriz de ingeniería de menú explicada como más aplicable a carta con reserva que a bar de tapas, dicho ya en el H2 1). El enlace al Tema 5 queda marcado entre corchetes a la espera de que ese artículo esté publicado. Pendiente de pasar a `blog-revision-seo-calidad`. |
 | 7. Sanidad y APPCC | 🟡 Borrador | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. Borrador entregado por `blog-redaccion` (2026-09-28): usa el hallazgo de "registros APPCC sin cumplimentar" como prueba central, incorpora la Ley 1/2025 de prevención del desperdicio alimentario (envase gratuito salvo bufé libre, formación de personal, sanciones hasta 500.000€) en el H2 de integración diaria, y presenta el rango de sanción 3.000-30.000€ con el matiz de fuente única de consultoría, no normativa autonómica contrastada. Sin enlace interno en el cuerpo por falta de uno verificado — nota aparte sobre posible conexión futura con el Tema 1. Pendiente de `blog-revision-seo-calidad`. |
 
 ## Próximo paso
 
-El Tema 5 ya está resuelto y listo para que Andrea/Sergio lo revisen (ver
-tabla de seguimiento) — nada pendiente de `blog-redaccion` en este tema.
+El Tema 5 ya tiene su redacción final de estilo aplicada (2026-09-28,
+instrucción directa de Andrea) y queda solo pendiente de la verificación
+directa de las cifras de INE/Hosteltur antes de publicar en la web en vivo
+(ver tabla de seguimiento) — nada más pendiente de `blog-redaccion` en
+este tema.
 
 Los Temas 1 (Licencias), 2 (Ayudas de proveedores), 3 (Estrella Galicia), 4
 (Mahou), 6 (Diseño de carta) y 7 (APPCC) ya tienen borrador entregado (ver
