@@ -105,6 +105,41 @@ cenar abajo) ya documentado en la ficha:
 También es borrador. **No se envía** hasta que Andrea o Sergio lo revisen,
 personalicen y aprueben.
 
+**Actualización 2026-09-28 (segunda tanda):** Andrea trajo directamente dos
+candidatos nuevos con diagnóstico inicial propio, ya no descubiertos por
+`research` desde cero, sino verificados y documentados por research con
+datos y citas reales:
+
+5. **La Martina** (Barcelona, Vila de Gràcia) — Andrea señalaba comida fría,
+   servicio lento y desajuste web/disponibilidad (TripAdvisor). Verificado:
+   **una única reseña real** ("A disappointment, cold food, slow service, do
+   not have the tasting menus they offer on the web") sostiene los tres
+   puntos, sin autor/fecha identificables y sin segunda reseña independiente
+   que la corrobore, en un perfil por lo demás muy positivo (4,7/5 en
+   TripAdvisor y Google). El elemento del desajuste web/disponibilidad se
+   matiza como **CONCEPT**, no SERVICE puro. Además, el local tiene entre 6
+   y 7 años (apertura ~2019-2020 según 7 Caníbales), por lo que **no cumple
+   el filtro 1 de antigüedad** con los datos disponibles. Ficha:
+   `candidatos/la-martina-barcelona.md`.
+6. **Verne** (Barcelona, Eixample, Aribau 150) — Andrea señalaba servicio
+   lento, bebidas olvidadas y necesidad de pedir varias veces, incluso con
+   pocas mesas ocupadas (TheFork). Verificado con evidencia real sólida:
+   cita textual "What an embarrassment of a service" (TripAdvisor) y cita
+   real sobre pedir la bebida "en 3 ocasiones" con el cóctel olvidado pese a
+   pocas mesas ocupadas (TheFork) — **SERVICE dominante confirmado**. Rating
+   TripAdvisor 4,3/5 (482 reseñas), dentro de la banda que exige revisar
+   patrón — patrón confirmado. Salvedad importante: el local **abrió en
+   2015** (~10-11 años) y pertenece a BNGRUP (grupo de 14 restaurantes en
+   Barcelona) — no hay evidencia de relanzamiento reciente, por lo que **no
+   cumple el filtro 1** y tiene el mismo perfil de "cadena consolidada" que
+   llevó a `estrategia` a no priorizar Cohete. Ficha:
+   `candidatos/verne-barcelona.md`.
+
+Ambos quedan en fase "Investigado" — no se ha decidido todavía si se
+priorizan, dado que ambos tienen salvedades explícitas de antigüedad
+(filtro 1) que `potential-spotting-estrategia` deberá valorar, igual que ya
+hizo con Cohete.
+
 ## Hoja de cálculo (Drive)
 
 La hoja original "Potential spotting" en Drive tenía mucha información
@@ -142,3 +177,5 @@ candidato a redacción.
 | Gamberro Taberna Canalla (Olavide) | Madrid | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | SERVICE (dominante) / FOOD (secundario) | Rating 4,0/5 (RestaurantGuru), 796 reseñas. Conversación ancla para el Grupo Barbillón. Ficha: `candidatos/gamberro-taberna-canalla-olavide-madrid.md`. Documento y email: `candidatos/gamberro-taberna-canalla-olavide-madrid-notas.md` / `candidatos/gamberro-taberna-canalla-olavide-madrid-email.md`. |
 | Gamberro Barra Canalla (Goya) | Madrid | 🔴 No se prioriza (sin nota independiente) | CONCEPT (evidencia demasiado débil) | Misma marca que Olavide (Grupo Barbillón); evidencia de oportunidad insuficiente para sostener un bloque 3 propio. Se integra como contexto en la conversación de Olavide, no genera documento ni email propio. Ver `candidatos/gamberro-barra-canalla-goya-madrid.md` (sección Estrategia). |
 | Cohete | Barcelona | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | EXPERIENCE (dominante) / SERVICE (secundario, sin cita textual verificada) | Grupo Tragaluz — cadena de restauración consolidada; `potential-spotting-estrategia` había recomendado no priorizarlo por ese motivo, pero Andrea pidió explícitamente proceder de todos modos (decisión de negocio suya). Rating solo disponible en escala GastroRanking 0-10. Ficha: `candidatos/cohete-barcelona.md` (sección Estrategia). Documento y email: `candidatos/cohete-barcelona-notas.md` / `candidatos/cohete-barcelona-email.md`. |
+| La Martina | Barcelona | 🟡 Investigado | SERVICE/FOOD/CONCEPT (mezclados, evidencia de una sola reseña) | Traído por Andrea con diagnóstico propio, verificado. Rating 4,7/5 en TripAdvisor (50 reseñas) y Google (235 reseñas) — muy por encima de la banda prioritaria. Única cita real sostiene comida fría + servicio lento + desajuste web/disponibilidad, sin segunda reseña que la corrobore. **No cumple filtro 1** (~6-7 años, sin relanzamiento conocido). Ficha: `candidatos/la-martina-barcelona.md`. |
+| Verne | Barcelona | 🟡 Investigado | SERVICE (dominante, bien confirmado) | Traído por Andrea con diagnóstico propio, verificado con dos citas textuales reales (TripAdvisor y TheFork) que confirman servicio lento, bebidas olvidadas y necesidad de pedir varias veces con pocas mesas ocupadas. Rating TripAdvisor 4,3/5 (482 reseñas). **No cumple filtro 1** (abrió en 2015, pertenece a BNGRUP, grupo de 14 restaurantes — mismo perfil que Cohete/Grupo Tragaluz). Ficha: `candidatos/verne-barcelona.md`. |
