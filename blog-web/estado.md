@@ -215,6 +215,31 @@ pidió el orquestador. No se ha inventado ningún dato, plazo ni coste fuera
 de lo que trae el brief de `blog-investigacion`. Pendiente de pasar por
 `blog-revision-seo-calidad`.
 
+`blog-redaccion` ha entregado el borrador del Tema 7 (APPCC) el
+2026-09-28: `blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`.
+El artículo desarrolla los cuatro H2 ya aprobados (marco normativo,
+ejemplo/plantilla práctica, integración en el día a día, errores en
+inspección) apoyado en el brief de investigación, sin ningún dato ajeno a
+él. El marco normativo cita Reglamento (CE) 852/2004 art. 5, RD 1021/2022
+de 13 de diciembre, y el fin del carnet oficial de manipulador desde el RD
+109/2010. El hallazgo de "plan APPCC con registros sin cumplimentar" se
+usa como prueba central del ángulo, no de pasada, tal como pedía el brief.
+La Ley 1/2025 de prevención de pérdidas y desperdicio alimentario se
+incorpora en el H2 de integración diaria (envase gratuito salvo bufé
+libre, formación de personal, sanciones de hasta 500.000 € en los casos
+más graves) como ejemplo de obligación operativa reciente y poco conocida.
+El rango de sanción "3.000-30.000 €" por falta de formación de manipulador
+se presenta con el matiz que pedía el brief: viene de una única fuente de
+consultoría, no de normativa autonómica contrastada, y se dice
+explícitamente en el cuerpo del artículo, no solo en una nota aparte. No
+se ha insertado ningún enlace interno en el cuerpo del artículo, porque el
+brief confirma que no hay ninguno verificado para este tema (ni
+`thebarnbarconsulting.com` ni `hospitality-report` aportan uno real) — se
+deja como nota aparte, no como enlace real, la posible conexión futura con
+el Tema 1 (licencias) una vez ambos estén publicados. El cierre es una
+idea propia de consultoría ligada a la fase Run del BAR Method, sin CTA de
+venta forzado. Pendiente de pasar por `blog-revision-seo-calidad`.
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -228,15 +253,16 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 | 4. Ayudas de Mahou | 🟡 Investigación | [`blog-web/investigacion/tema-04-mahou.md`](investigacion/tema-04-mahou.md) | Prioridad de trabajo: Alta. **Aviso importante:** no existe evidencia de una plataforma llamada "Bar Uno" — lo verificable es "+Bar" / "Nexho" / "Más con Mahou San Miguel". Una fuente (Nexho) afirma que la exclusividad "está prohibida en España", lo cual es impreciso frente al Reglamento UE 2022/720 (está limitada a 5 años, no prohibida) — no repetir esa afirmación en el artículo. |
 | 5. Escandallos y food cost | 🟢 Listo para revisión de Andrea/Sergio | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Revisado por `blog-revision-seo-calidad` (2026-09-28): checklist SEO y prueba de "relevante vs. relleno" superados. Los dos motivos de devolución quedaron resueltos por el orquestador el mismo día: (1) el enlace a `escandallo-evitar-desperdicio-restaurante/` era real, verificado directamente — no era un slug inventado; (2) se añadió una frase de cierre que diferencia explícitamente este artículo (food cost) de "Cómo calcular la rentabilidad de un negocio de hostelería" (todos los costes), con enlace real. Pendiente solo de que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
 | 6. Diseño de carta de restaurante | 🟡 Investigación | [`blog-web/investigacion/tema-06-diseno-carta.md`](investigacion/tema-06-diseno-carta.md) | Ángulo verificado contra `hospitality-report/matriz-tematica.md`: se sostiene, con matiz sobre la tensión "raciones grandes vs. pequeñas" (hipótesis, no cerrada en origen) y sobre que la matriz clásica de ingeniería de menú aplica mejor a carta con reserva que a bar de tapas. Listo para pasar a `blog-redaccion` junto con el Tema 5 (enlace interno cruzado entre ambos). |
-| 7. Sanidad y APPCC | 🟡 Investigación | [`blog-web/investigacion/tema-07-appcc.md`](investigacion/tema-07-appcc.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report (confirmado, no solo asumido). Hallazgo útil: dato de inspecciones con "registros APPCC sin cumplimentar" valida el ángulo de forma casi literal; la Ley 1/2025 de prevención del desperdicio alimentario es una novedad reciente (abril 2025) poco explotada por la competencia de mercado listada. Aviso: cifras de sanción (3.000-30.000€) vienen de una única fuente de consultoría, tratar como orientativas. |
+| 7. Sanidad y APPCC | 🟡 Borrador | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. Borrador entregado por `blog-redaccion` (2026-09-28): usa el hallazgo de "registros APPCC sin cumplimentar" como prueba central, incorpora la Ley 1/2025 de prevención del desperdicio alimentario (envase gratuito salvo bufé libre, formación de personal, sanciones hasta 500.000€) en el H2 de integración diaria, y presenta el rango de sanción 3.000-30.000€ con el matiz de fuente única de consultoría, no normativa autonómica contrastada. Sin enlace interno en el cuerpo por falta de uno verificado — nota aparte sobre posible conexión futura con el Tema 1. Pendiente de `blog-revision-seo-calidad`. |
 
 ## Próximo paso
 
 El Tema 5 ya está resuelto y listo para que Andrea/Sergio lo revisen (ver
 tabla de seguimiento) — nada pendiente de `blog-redaccion` en este tema.
 
-El Tema 1 (Licencias) ya tiene borrador entregado (ver tabla de
-seguimiento) — pendiente de pasar por `blog-revision-seo-calidad`.
+El Tema 1 (Licencias) y el Tema 7 (APPCC) ya tienen borrador entregado (ver
+tabla de seguimiento) — ambos pendientes de pasar por
+`blog-revision-seo-calidad`.
 
 El Tema 6 puede pasar a `blog-redaccion` (se enlaza con el
 Tema 5, y conviene aprovechar que ambos comparten terreno de autoridad de
@@ -247,6 +273,5 @@ nombre) sin perder el ángulo independiente ya aprobado por Andrea — lo más
 seguro es ajustar cómo se nombra el programa en el propio título/entradilla
 sin tocar el H1 ya aprobado más de lo necesario, o confirmarlo primero
 verificando directamente `estrellagalicia.es` y `mahou-sanmiguel.com`
-(ambos bloqueados en esta sesión de investigación). El Tema 7, de
-prioridad Media, sigue listo para pasar a `blog-redaccion` en el bloque
-que se decida trabajar después de los de prioridad Alta.
+(ambos bloqueados en esta sesión de investigación).
+</content>
