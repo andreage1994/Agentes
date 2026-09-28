@@ -262,9 +262,9 @@ construir), y viceversa.
   (con un enlace interno al artículo 1 de arriba para quien no lo conozca),
   en vez de volver a explicarlo desde cero.
 
-- **Título (H1) revisado:** "Food cost en 2026: por qué el cálculo que
+- **Título (H1) revisado v1:** "Food cost en 2026: por qué el cálculo que
   hiciste hace tres años ya no vale"
-- **Subtemas (H2) revisados:**
+- **Subtemas (H2) revisados v1:**
   1. Qué ha cambiado: el encarecimiento acumulado de materia prima desde
      2021 y por qué se ha comido margen sin que muchos lo notaran.
   2. El dato incómodo de 2025: la rentabilidad del sector bajó aunque las
@@ -274,11 +274,39 @@ construir), y viceversa.
      el framework completo, sin repetirlo aquí).
   4. Qué hacer con el dato: renegociar proveedor, ajustar carta o subir
      precio — cómo decidir entre las tres opciones.
+
+- **Revisión v2 — petición directa de Andrea, mismo día:** el "2021" y el
+  "hace tres años" pesaban demasiado en el artículo. Alguien que de verdad
+  gestiona un restaurante no lleva cinco años sin tocar un escandallo — ese
+  marco de "lo calculaste hace tres años y no lo sabes" sonaba poco
+  creíble. Lo que sí tiene valor real es insistir en la **cadencia de
+  revisión**: por la inflación y el resto de factores que ya cuenta el
+  artículo (coste laboral, volatilidad de producto), el food cost debería
+  revisarse **dos veces al año**, no una vez y olvidarlo. El dato del +30%
+  acumulado desde 2021 se mantiene como contexto (ilustra cuánto se acumula
+  si solo se mira una vez al año), pero deja de ser el titular y el gancho
+  del artículo.
+
+- **Título (H1) revisado v2:** "Food cost en 2026: por qué revisarlo una
+  vez al año ya no basta"
+- **Subtemas (H2) revisados v2:**
+  1. Por qué el food cost se mueve más de lo que parece: inflación y coste
+     laboral (el +30% acumulado desde 2021 queda aquí como contexto de
+     fondo, no como titular).
+  2. El dato incómodo de 2025: la rentabilidad del sector bajó aunque las
+     ventas subieron — se mantiene igual, sigue siendo el dato más fuerte.
+  3. Qué food cost es "sano" según tipo de negocio (se quita el "no hace
+     tres años" del subtítulo).
+  4. Qué hacer con el dato — se añade explícitamente la recomendación de
+     revisar el escandallo dos veces al año como mínimo, no solo "cuando
+     algo duele".
 - **Prioridad de trabajo (ángulo):** Alta (la más alta del listado). Sigue
-  siendo autoridad real de marca, ahora además con ángulo de actualidad que
-  no compite con el contenido ya publicado por TBNB.
-- **Estado:** 🟢 Investigación completa, ángulo revisado — listo para
-  `blog-redaccion`.
+  siendo autoridad real de marca, con ángulo de actualidad y ahora con un
+  mensaje de cadencia (dos veces al año) más creíble y accionable que el
+  marco original de "lo calculaste hace tres años".
+- **Estado:** 🟡 Redacción final aplicada, pendiente de ajuste v2 del
+  ángulo (quitar peso a 2021, subrayar cadencia semestral) antes de pasar
+  de nuevo por `blog-revision-seo-calidad`.
 
 ## 6. Cómo diseñar la carta de un restaurante
 
