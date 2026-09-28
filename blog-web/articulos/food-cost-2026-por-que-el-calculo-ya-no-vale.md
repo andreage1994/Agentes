@@ -1,23 +1,25 @@
-**Título (H1):** Food cost en 2026: por qué el cálculo que hiciste hace tres años ya no vale
+**Título (H1):** Food cost en 2026: por qué revisarlo una vez al año ya no basta
 
-**Meta descripción propuesta (159 caracteres — para revisión de `blog-revision-seo-calidad`):**
-La materia prima subió +30% desde 2021 y la rentabilidad del sector cayó en 2025 pese a crecer ventas. Si no recalculas tu food cost, decides con datos viejos.
+**Meta descripción propuesta (150 caracteres — para revisión de `blog-revision-seo-calidad`):**
+El food cost se mueve más de lo que parece: inflación y coste laboral se comen margen. Por qué conviene revisar el escandallo dos veces al año.
 
 ---
 
-# Food cost en 2026: por qué el cálculo que hiciste hace tres años ya no vale
+# Food cost en 2026: por qué revisarlo una vez al año ya no basta
 
-Si tu escandallo lleva más de un año sin tocarse, no está mal calculado: está desactualizado. Y la diferencia importa, porque el food cost de tu restaurante calculado sobre precios de 2021 es, en 2026, un error que se repite en cada plato de la carta, cada día, sin que nadie lo note en el momento.
+El food cost de un restaurante no se mueve una vez al año: se mueve todo el tiempo, con cada subida de proveedor, cada convenio laboral, cada trimestre de inflación. Revisar el escandallo una sola vez al año significa decidir, durante buena parte del año, con un dato que ya lleva meses desactualizado. La cadencia que de verdad protege el margen es semestral — dos veces al año, más a menudo si trabajas con producto volátil — no anual, y mucho menos "cuando algo empieza a doler".
 
-Qué es el food cost en un restaurante y cómo calcular un escandallo de restaurante ya lo explicamos con calma en [este artículo](https://www.thebarnbarconsulting.com/escandallo-evitar-desperdicio-restaurante/) — empieza por ahí si te falta la base. Aquí partimos de que ya sabes hacerlo. La pregunta que importa ahora no es cómo calcular food cost, es por qué el que ya tienes probablemente te esté mintiendo, y qué hacer con eso.
+Qué es el food cost en un restaurante y cómo calcular un escandallo de restaurante ya lo explicamos con calma en [este artículo](https://www.thebarnbarconsulting.com/escandallo-evitar-desperdicio-restaurante/) — empieza por ahí si te falta la base. Aquí partimos de que ya sabes hacerlo. La pregunta que importa ahora no es cómo calcular food cost, es con qué frecuencia hay que volver a mirarlo, y qué hacer con lo que encuentras.
 
-## Qué ha cambiado: el encarecimiento acumulado de materia prima desde 2021
+## Por qué el food cost se mueve más de lo que parece: inflación y coste laboral
 
-Vamos al grano: la materia prima en hostelería se ha encarecido más de un 30% acumulado desde 2021, según el INE. La subida de 2025 fue de solo el 3% interanual — y ahí está la trampa. Un 3% al año suena manejable. Un 30% acumulado, si no lo revisas cada ejercicio, se te cuela sin que lo notes.
+El food cost no es un número que calculas una vez y ya vale para siempre. Se mueve con cada subida de proveedor, cada renovación de convenio, cada trimestre de inflación — y se mueve más rápido de lo que la mayoría de cartas actualiza sus precios.
 
-Nadie recalcula el escandallo cada vez que sube el precio del aceite un 3%. Se recalcula cuando algo duele: un proveedor sube tarifa de golpe, un plato deja de cuadrar. Mientras tanto, el food cost "oficial" de la carta sigue siendo el de hace tres ejercicios, aunque la carta en sí no haya cambiado ni un céntimo.
+Como contexto de fondo, y solo como eso: la materia prima en hostelería se ha encarecido más de un 30% acumulado desde 2021, según el INE. El dato no importa por lo antiguo que sea — importa porque ilustra cuánto se acumula cuando solo se mira el escandallo una vez al año. Una subida del 3% interanual parece manejable plato a plato. Varios ejercicios seguidos sin revisar, sumados, dejan de serlo.
 
-Y no es solo el ingrediente. El coste laboral ha ido en la misma dirección: el SMI subió a 1.184 €/mes en 2025, lo que eleva el coste real por trabajador a cerca de 1.500 €/mes para el empresario, y la mano de obra ya ronda un tercio de los gastos de un restaurante. El food cost no lo explica todo — pero si tampoco se ha vuelto a mirar, el margen se estrecha por dos lados a la vez, no por uno.
+Nadie recalcula el escandallo cada vez que sube el aceite un 3%. Se recalcula cuando algo duele: un proveedor sube tarifa de golpe, un plato deja de cuadrar. Ahí está el problema real: esperar a que duela significa que el margen ya se ha estrechado antes de que nadie se dé cuenta.
+
+Y no es solo el ingrediente. El coste laboral ha ido en la misma dirección: el SMI subió a 1.184 €/mes en 2025, lo que eleva el coste real por trabajador a cerca de 1.500 €/mes para el empresario, y la mano de obra ya ronda un tercio de los gastos de un restaurante. El food cost no lo explica todo — pero si tampoco se revisa con regularidad, el margen se estrecha por dos lados a la vez, no por uno.
 
 ## El dato incómodo de 2025: la rentabilidad bajó aunque las ventas subieron
 
@@ -27,9 +29,9 @@ El presidente de Hostelería de España, José Luis Álvarez Almeida, lo resumi�
 
 Miramos también al mercado francés — lo decimos así de claro porque es francés, no español, y la cifra no se traslada tal cual — porque ofrece una lectura que ayuda a entender el fondo del problema. Allí, según Inpulse.ai, hasta los restaurantes con estrella Michelin cierran el mes con un margen neto de apenas el 3-4%. Hay una frase en ese informe que resume la tesis de todo este artículo mejor de lo que lo haríamos nosotros: *"Las tendencias atraen a los clientes, los márgenes los retienen."* Puedes llenar la sala entera y seguir perdiendo dinero en cada plato si nadie vigila el coste real de lo que sirves. Ese mismo mercado francés facturó en 2026 un récord de más de 123.000 millones de euros — y aun así los cierres de restauración rápida subieron un 19% en el tercer trimestre de 2025. Crecer como sector y quebrar como negocio individual no son cosas incompatibles. Conviven.
 
-Esto no significa que mirar el escandallo lo resuelva todo. El entorno de costes en España se ha puesto estructuralmente más difícil, y eso no lo cambia ninguna hoja de cálculo. Pero decidir con un food cost de hace tres años, en este contexto, es decidir a ciegas sobre un terreno que ya sabes que se ha movido.
+Esto no significa que mirar el escandallo lo resuelva todo. El entorno de costes en España se ha puesto estructuralmente más difícil, y eso no lo cambia ninguna hoja de cálculo. Pero decidir con un escandallo que no ajustas desde hace más de medio año, en este contexto, es decidir a ciegas sobre un terreno que ya sabes que se ha movido.
 
-## Qué food cost es sano hoy, no hace tres años, según tipo de negocio
+## Qué food cost es sano hoy según tipo de negocio
 
 Aquí la tentación es buscar un número único y quedarse tranquilo. No existe. El rango general que maneja el sector para el food cost de un restaurante es del 25-35% sobre el precio de venta, pero ese rango cambia según qué tipo de negocio tengas:
 
@@ -47,9 +49,11 @@ Si quieres el marco completo de cómo repartir ingresos entre materia prima, ope
 
 ## Qué hacer con el dato: renegociar proveedor, ajustar carta o subir precio
 
+Antes de las tres palancas, hay una decisión previa: con qué frecuencia miras el dato. Como mínimo razonable, revisa el escandallo completo **dos veces al año** — no una, y desde luego no solo cuando algo empieza a doler. Es el punto de partida que hace que el resto de decisiones tenga sentido, en vez de llegar siempre tarde.
+
 Recalcular el food cost sin decidir nada después es la misma trampa de siempre, solo que con números más recientes. Hay tres palancas reales, y la que toca depende de qué plato estés mirando.
 
-**Si el ingrediente es volátil (pescado, marisco):** el problema no es el precio de hoy, es que mañana será otro. Ahí no sirve fijar un precio de carta y olvidarlo un año — sirve revisar el escandallo con más frecuencia que el resto de la carta, y aceptar que ese plato necesita reprecio regular, no anual.
+**Si el ingrediente es volátil (pescado, marisco):** el problema no es el precio de hoy, es que mañana será otro. Ahí no sirve fijar un precio de carta y olvidarlo medio año — sirve revisar el escandallo con más frecuencia que el resto de la carta, y aceptar que ese plato necesita reprecio regular, no semestral.
 
 **Si el food cost está en la parte alta de su rango y no hay margen de renegociación:** subir precio o reducir ración son las dos opciones honestas. Y el tamaño de ración no es solo una decisión de cocina: el 54% de los consumidores prefiere raciones más pequeñas, por salud, por desperdicio percibido y por ahorro, según Coca-Cola Lens. Ajustar la ración baja el coste por plato sin necesariamente dañar la percepción de valor — al contrario de lo que muchos asumen.
 
@@ -59,4 +63,4 @@ Y hay un último criterio, quizá el más incómodo: la popularidad no es garant
 
 Todo esto es un zoom a una sola pieza del negocio: el coste de lo que sirves. Si lo que necesitas es la fotografía completa — personal, alquiler, suministros, todos los costes, no solo materia prima — ya la hicimos en [cómo calcular la rentabilidad de un negocio de hostelería](https://www.thebarnbarconsulting.com/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/). Ese artículo es el mapa entero; este es la lupa sobre el punto que más rápido se desactualiza sin que nadie lo note.
 
-En TBNB no creemos que recalcular el food cost una vez al año sea disciplina extra. Es la higiene mínima del negocio, sobre todo cuando el sector entero factura más y gana menos. La carta no miente — el problema es cuánto tiempo llevas sin volver a preguntarle.
+En TBNB no creemos que revisar el food cost dos veces al año sea disciplina extra. Es la higiene mínima del negocio, sobre todo cuando el sector entero factura más y gana menos. La carta no miente — el problema es la frecuencia con la que le preguntas.
