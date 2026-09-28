@@ -162,6 +162,40 @@ los cuatro H2 ya aprobados por Andrea. Queda pendiente la misma salvedad ya
 señalada arriba: verificar directamente las cifras de INE/Hosteltur antes
 de publicar en la web en vivo.
 
+**Ajuste v2 del ángulo del Tema 5 (2026-09-28), instrucción directa de
+Andrea.** Andrea pidió corregir el peso excesivo de "2021" y "el cálculo
+que hiciste hace tres años" en el artículo: ese marco no resultaba
+creíble, porque nadie que gestione un restaurante de verdad lleva cinco
+años sin volver a tocar un escandallo. Lo que sí tiene valor real es
+insistir en la cadencia de revisión — por la inflación y el resto de
+factores que el propio artículo ya cuenta (coste laboral, volatilidad de
+producto), el food cost debería revisarse dos veces al año, no una vez y
+olvidarlo. `blog-redaccion` reescribió el H1 ("Food cost en 2026: por qué
+revisarlo una vez al año ya no basta"), la meta descripción y el primer
+párrafo/H2 1 para centrar el mensaje en esa cadencia semestral, dejando el
+dato del +30% acumulado desde 2021 (INE) como contexto de fondo dentro del
+H2 1 —para ilustrar cuánto se acumula si solo se mira el escandallo una
+vez al año— y no como titular ni gancho repetido del artículo. Se revisó
+el resto del texto para quitar menciones sueltas de "hace tres años" o
+"desde 2021" fuera de ese contexto puntual: la última frase del H2 2 pasa
+de "decidir con un food cost de hace tres años" a "decidir con un
+escandallo que no ajustas desde hace más de medio año", y el título del H2
+3 pierde el "no hace tres años". El H2 4 ("Qué hacer con el dato")
+incorpora ahora explícitamente, como primer párrafo, la recomendación de
+revisar el escandallo completo dos veces al año como mínimo razonable —con
+más frecuencia en ingredientes volátiles, matiz que ya traía el artículo—
+en vez de dejar la cadencia solo implícita. La frase de cierre del
+artículo se reescribió en la misma línea: "el problema es la frecuencia
+con la que le preguntas", en vez de "cuánto tiempo llevas sin volver a
+preguntarle". No se ha tocado el dato de rentabilidad 2025
+(Hosteltur/Anuario), que sigue siendo el dato más fuerte del artículo; el
+dato francés de Inpulse.ai se mantiene con su matiz de mercado francés en
+las mismas dos ocasiones; tampoco se ha tocado el SMI, los rangos de food
+cost por tipo de negocio, el ejemplo de la pasta boloñesa, el caso del
+pollo frito viral, ni ninguno de los dos enlaces internos (mismas URLs).
+El artículo vuelve a necesitar una pasada de `blog-revision-seo-calidad`
+antes de considerarse definitivo otra vez.
+
 `blog-investigacion` ha entregado los briefs de los Temas 2, 3 y 4 (bloque
 "ayudas de proveedores"), con el visto bueno explícito de Andrea para seguir
 con el ángulo independiente de consultoría. El hallazgo más importante de
@@ -625,7 +659,7 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 | 2. Ayudas de proveedores para montar un bar | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/ayudas-para-montar-un-bar.md`](articulos/ayudas-para-montar-un-bar.md) | Prioridad de trabajo: Media-alta. Artículo "paraguas" de los Temas 3 y 4: distingue subvenciones públicas dispersas por CCAA (sin programa único nacional) de acuerdos comerciales con proveedores, cuantifica el coste de la exclusividad con el Reglamento (UE) 2022/720 como dato legal de respaldo (límite de 5 años), presenta ICO/renting como alternativas (cifra ICO marcada como de agregador, pendiente de verificar en ico.es) y cierra citando Inpulse.ai (hospitality-report). Enlaza a los Temas 3 y 4 en el H2 4 con nota "enlace pendiente de publicación" en vez de URL inventada. Pasada final de estilo (2026-09-28, instrucción directa de Andrea): tono directo de socio en segunda persona en vez de tono de informe, keyword "ayudas de proveedores para montar un bar" reforzada de forma natural en entradilla y H2 1, sin cambios de dato ni de ángulo. Pendiente de `blog-revision-seo-calidad`. |
 | 3. Ayudas de Estrella Galicia | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/estrella-galicia-te-monta-el-bar.md`](articulos/estrella-galicia-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** el H1/entradilla mantiene la keyword buscada, y el 2º párrafo aclara sin rodeos que no es un programa oficial con ficha pública, nombrando "The Hop" y "Cervecerías Circulares" como lo real y verificable de la marca. Letra pequeña (exclusividad 5-10 años, rappel 75/25, penalizaciones) presentada explícitamente como algo que se repite en el sector, nunca como condición confirmada de Estrella Galicia. El Reglamento (UE) 2022/720 (límite de 5 años) se usa como el dato con más peso de esa sección. Enlaces a Temas 2 y 4 con nota de "pendiente de publicación". Pasada final de estilo (2026-09-28, instrucción directa de Andrea): tono más conversacional y directo (segunda persona, "vamos a ser claros"), sin tocar el aviso legal/editorial sobre el nombre no oficial ni ningún dato de la letra pequeña, que se cuenta de forma menos "legal" pero con la misma precisión. Pendiente de `blog-revision-seo-calidad`. |
 | 4. Ayudas de Mahou | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/mahou-te-monta-el-bar.md`](articulos/mahou-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** "Bar Uno" no aparece en ningún punto del artículo; el 2º párrafo aclara que no hay programa oficial con el nombre buscado y nombra "+Bar", "Nexho" y "Más con Mahou San Miguel" como lo real y verificable, con detalle de qué ofrece cada uno. La afirmación de Nexho de que la exclusividad "está prohibida en España" **no se repite** — se sustituye por la versión correcta del Reglamento (UE) 2022/720 (limitada a 5 años, no prohibida). El H2 3 construye un ejemplo numérico con supuestos explícitamente declarados como hipotéticos, no como cifras reales de Mahou. Enlaces a Temas 2 y 3 con nota de "pendiente de publicación". Pasada final de estilo (2026-09-28, instrucción directa de Andrea): mismo tono directo y conversacional que en Estrella Galicia, con el aviso sobre "Bar Uno"/nombre no oficial y la corrección a Nexho intactos, sin cambios en el ejemplo numérico ni en ningún otro dato. Pendiente de `blog-revision-seo-calidad`. |
-| 5. Escandallos y food cost | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Ya había sido revisado por `blog-revision-seo-calidad` y por Andrea/Sergio en cuanto a estructura, checklist SEO y enlaces (ver historial arriba: enlace a `escandallo-evitar-desperdicio-restaurante/` verificado real, y enlace añadido a "Cómo calcular la rentabilidad de un negocio de hostelería" para resolver la canibalización). El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe, keywords reforzadas en entradilla y H2 3) sin tocar contenido, datos, ángulo, H1/H2 ni los dos enlaces internos, que se mantienen con las mismas URLs. El dato de Inpulse.ai sigue marcado explícitamente como mercado francés en las dos ocasiones en que aparece. Sigue pendiente, como único punto abierto, que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
+| 5. Escandallos y food cost | 🟢 Redacción final v2 — ángulo ajustado (menos peso a 2021, cadencia semestral) — pendiente de nueva revisión de tono/SEO | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Ya había sido revisado por `blog-revision-seo-calidad` y por Andrea/Sergio en cuanto a estructura, checklist SEO y enlaces (ver historial arriba: enlace a `escandallo-evitar-desperdicio-restaurante/` verificado real, y enlace añadido a "Cómo calcular la rentabilidad de un negocio de hostelería" para resolver la canibalización), y había pasado además por una pasada de estilo final el 2026-09-28. **Ajuste v2 (2026-09-28, mismo día, instrucción directa de Andrea):** se corrigió el peso excesivo de "2021"/"hace tres años" — H1 nuevo ("Food cost en 2026: por qué revisarlo una vez al año ya no basta"), meta descripción y H2 1 reescritos para centrar el mensaje en la cadencia de revisión (dos veces al año como mínimo), dejando el +30% acumulado desde 2021 (INE) como contexto de fondo, no como titular. H2 2 y H2 3 pierden las menciones sueltas de "hace tres años"/"desde 2021" fuera de ese contexto. H2 4 incorpora explícitamente la recomendación de revisar el escandallo dos veces al año como mínimo (más a menudo en ingredientes volátiles), y el cierre se reescribió en la misma línea ("el problema es la frecuencia con la que le preguntas"). No se ha tocado el dato de rentabilidad 2025 (Hosteltur/Anuario), el dato de Inpulse.ai (con su matiz de mercado francés), el SMI, los rangos de food cost por tipo de negocio, el ejemplo de la pasta boloñesa, el caso del pollo frito viral, ni los dos enlaces internos (mismas URLs). Sigue pendiente, como punto abierto ya señalado, que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. Requiere una nueva pasada completa de `blog-revision-seo-calidad` (no solo repasar el checklist ya visto antes del ajuste v2). |
 | 6. Diseño de carta de restaurante | 🟡 Borrador (reestructurado) — pendiente de nueva revisión de tono/SEO antes de publicar | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | Prioridad de trabajo: Alta. **Reestructuración de fondo (2026-09-28), instrucción directa de Andrea** (ver detalle completo arriba, no es una pasada de estilo): se recorta el peso del aparato de estudios en "Cruzar rentabilidad con lo que el cliente percibe como valor" (Coca-Cola Lens/Papa John's/McKinsey resumidos a la idea central) y en "Errores en el diseño" (Bournemouth/Cornell-CIA/Gregg Rapp contados de forma breve), y el origen de la matriz (Kasavana y Smith, 1982) queda en una frase. A cambio, se crea una sección propia y central, justo después de explicar los 4 cuadrantes ("Qué hacer con cada tipo de plato: estrellas, caballos de batalla, puzles y perros"), con 2-3 recomendaciones de acción concretas por tipo de plato (precio, ración, posición, proveedor, nombre), el ejemplo de la carta italiana expandido y un segundo ejemplo nuevo de un bar de tapas (croquetas como caballo de batalla, pescado del día como puzle, ensalada genérica como perro, patatas bravas como estrella). Ningún matiz de precisión se ha perdido en el recorte: raciones grandes/pequeñas sigue como hipótesis sin cerrar, Inpulse.ai sigue marcado como mercado francés, Cornell/CIA 2007 sigue marcado como técnica clásica no reciente. Meta descripción y enlaces internos sin cambios (incluido el enlace entre corchetes al Tema 5, aún pendiente de URL real). Checklist y cierre se mantienen, con un ítem añadido al checklist sobre la nueva sección. Pasa a **Borrador** porque este es un cambio de fondo y necesita una nueva pasada completa de `blog-revision-seo-calidad` antes de darlo otra vez por definitivo. |
 | 7. Sanidad y APPCC | 🟡 Borrador (ampliado) — pendiente de nueva revisión de tono/SEO antes de publicar | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe) sin tocar contenido, datos ni ángulo respecto al borrador ya aprobado. H1 y H2 revisados para cubrir explícitamente las keywords de la sección 7 de `listado-temas.md` (plan APPCC restaurante, APPCC restaurante ejemplo, plantilla APPCC restaurante, requisitos sanitarios para abrir un restaurante, seguridad alimentaria restaurante). El matiz del rango de sanción 3.000-30.000€ (fuente única de consultoría, no normativa autonómica contrastada) y toda la normativa citada (Reglamento (CE) 852/2004, RD 1021/2022, RD 109/2010, Ley 1/2025) se mantienen intactos. Sigue sin enlace interno en el cuerpo por falta de uno verificado. **Ampliación de contenido (2026-09-28, instrucción directa de Andrea):** el H2 3 incorpora ahora un reparto de responsabilidades por rol en la operativa diaria del plan APPCC — cocina/cocinero(a) responsable de cámaras y neveras de materia prima y cocción, barra/bartender-barista responsable de neveras y vitrinas de bebida (más productos frescos de barra y limpieza de máquina de café/líneas de cerveza), y encargado de turno/gerente que no rellena registros pero consolida, revisa de verdad y actúa si algo falla. Incluye el porqué de consultoría (quien usa la nevera cada día es quien antes detecta la anomalía) y una cadencia simple (registro diario por zona, revisión semanal del conjunto), sin ofrecer plantilla descargable. No se ha tocado ningún otro contenido del artículo. Pasa a **Borrador** porque este añadido real de contenido requiere nueva pasada de `blog-revision-seo-calidad` antes de considerarlo otra vez definitivo. |
 
@@ -633,12 +667,15 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 
 De los 7 temas del proyecto, 5 (Temas 1, 2, 3, 4 y 5) tienen su redacción
 final de estilo aplicada y están pendientes solo de pasar por
-`blog-revision-seo-calidad` como versión definitiva. Los otros dos, Tema 6
-y Tema 7, volvieron a **Borrador** el 2026-09-28 tras recibir cambios
-reales de contenido pedidos directamente por Andrea (reestructuración de
-fondo en el Tema 6, ampliación del reparto de responsabilidades en el
-Tema 7) y necesitan una revisión completa, no solo una repasada de lo ya
-visto antes.
+`blog-revision-seo-calidad` como versión definitiva — con la salvedad de
+que el Tema 5 acaba de recibir además un ajuste v2 de ángulo (menos peso a
+2021, cadencia semestral) el mismo día, así que su revisión debe ser
+completa, no solo un repaso de lo ya visto antes del ajuste. Los otros dos,
+Tema 6 y Tema 7, volvieron a **Borrador** el 2026-09-28 tras recibir
+cambios reales de contenido pedidos directamente por Andrea
+(reestructuración de fondo en el Tema 6, ampliación del reparto de
+responsabilidades en el Tema 7) y necesitan una revisión completa, no solo
+una repasada de lo ya visto antes.
 
 Todos quedan pendientes de que `blog-revision-seo-calidad` confirme el
 checklist SEO on-page y el tono sobre esta versión antes de que
@@ -649,9 +686,14 @@ esa revisión:
   2 (certificado de compatibilidad urbanística) a petición de Andrea —
   confirmar que sigue leyéndose como una sola frase integrada, sin sonar a
   publicidad ni romper el tono informativo del resto del artículo.
-- **Tema 5:** verificar directamente las cifras de INE/Hosteltur antes de
-  publicar en la web en vivo (único punto abierto, ya señalado por
-  Andrea/Sergio).
+- **Tema 5:** revisar específicamente el ajuste v2 del ángulo (H1 y meta
+  descripción nuevos centrados en la cadencia semestral, +30% desde 2021
+  degradado a contexto de fondo en el H2 1, menciones sueltas de "hace tres
+  años" eliminadas del H2 2 y del título del H2 3, recomendación explícita
+  de revisar dos veces al año añadida al H2 4 y al cierre) — no es solo
+  repasar el checklist SEO ya aprobado antes del ajuste. Además, verificar
+  directamente las cifras de INE/Hosteltur antes de publicar en la web en
+  vivo (punto abierto ya señalado por Andrea/Sergio).
 - **Tema 6:** revisar específicamente el nuevo balance del artículo tras la
   reestructuración de fondo (menos peso de estudios en las secciones de
   valor percibido y errores de diseño, nueva sección central de
@@ -669,3 +711,4 @@ esa revisión:
   (Estrella Galicia / Mahou) sigue quedando resuelto con el mismo criterio
   tras la pasada de estilo final — el aviso se mantiene íntegro en
   contenido, solo contado de forma más conversacional.
+</content>
