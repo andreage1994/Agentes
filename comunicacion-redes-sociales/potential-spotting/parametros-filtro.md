@@ -4,16 +4,32 @@ Dados por Andrea (2026-09-28). Definen qué locales de Barcelona o Madrid
 tiene sentido investigar como potencial cliente, y cómo leer sus reseñas
 para saber qué tipo de conversación abrir.
 
-Los cuatro filtros se aplican en orden: los tres primeros deciden **si**
-un local es candidato; el cuarto decide **de qué le hablaríamos**.
+Los cuatro filtros se aplican en orden: el 2 y el 3 deciden **si** un local
+es candidato; el 1 es solo información de contexto (ya no descarta); el 4
+decide **de qué le hablaríamos**.
 
-## Filtro 1 — Antigüedad
+## Filtro 1 — Antigüedad (informativo, ya no descarta — actualizado 2026-09-28)
 
-- **< 2 años:** ideal.
-- **< 3 años:** todavía interesante.
-- **Cambio de concepto o nueva propiedad:** el local "vuelve a entrar" al
-  filtro, aunque el local en sí sea más antiguo — un concepto relanzado
-  cuenta como nuevo.
+**Cambio de criterio pedido por Andrea:** la antigüedad deja de ser un
+filtro que excluye candidatos. Un local con muchos años o de un grupo
+consolidado puede tener perfectamente una mala gestión operativa — la
+antigüedad no protege de eso, y descartarlo solo por ser un local
+establecido dejaba fuera candidatos reales (Cohete, Verne, La Martina, ya
+en el pipeline, incumplían este filtro y se llevaron adelante igual).
+
+Se sigue anotando como dato de contexto (útil para saber si es un proyecto
+joven o una casa consolidada, y para matizar el ángulo — no es lo mismo
+hablarle a un local de 2 años que a una cadena de 14 locales), pero **nunca
+es motivo por sí solo para descartar un candidato** que sí cumple los
+filtros 2 y 3 y tiene evidencia real de oportunidad en el filtro 4.
+
+- **< 2 años:** proyecto joven — dato de contexto para el ángulo, no filtro.
+- **Cambio de concepto o nueva propiedad reciente:** también dato de
+  contexto útil (el local "se lee" como nuevo aunque el espacio no lo sea).
+- **Local antiguo o de grupo consolidado:** ya no se descarta — solo se
+  documenta, porque puede ser precisamente un caso de "buen proyecto con
+  mala gestión operativa", que es justo el tipo de oportunidad que busca
+  esta iniciativa.
 
 ## Filtro 2 — Rating (nota media)
 
@@ -57,8 +73,9 @@ palabra suelta.
 
 ## Cómo se usa esto en la cascada del equipo
 
-1. `potential-spotting-research` aplica los filtros 1-3 para descartar
-   candidatos y el filtro 4 para etiquetar cada superviviente con su tipo
+1. `potential-spotting-research` aplica los filtros 2 y 3 para descartar
+   candidatos (el filtro 1 ya no descarta, solo se documenta como
+   contexto) y el filtro 4 para etiquetar cada superviviente con su tipo
    de oportunidad dominante, citando las reseñas concretas que lo
    sostienen (nunca una categoría sin evidencia real).
 2. `potential-spotting-estrategia` decide, con esa lista ya filtrada, a

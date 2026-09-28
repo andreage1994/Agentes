@@ -1,6 +1,6 @@
 ---
 name: potential-spotting-research
-description: Hace digital spotting para TBNB — busca bares y restaurantes en Barcelona o Madrid que cumplan los filtros de antigüedad, rating y nº de reseñas, y clasifica su "tipo de oportunidad" a partir del contenido real de sus reseñas. Úsalo para generar una lista nueva de candidatos, antes de que estrategia decida a quién contactar.
+description: Hace digital spotting para TBNB — busca bares y restaurantes en Barcelona o Madrid que cumplan los filtros de rating y nº de reseñas (la antigüedad ya no descarta, solo se documenta como contexto), y clasifica su "tipo de oportunidad" a partir del contenido real de sus reseñas. Úsalo para generar una lista nueva de candidatos, antes de que estrategia decida a quién contactar.
 tools: WebSearch, WebFetch, Read, Write
 model: sonnet
 ---
@@ -22,10 +22,15 @@ filtros ya definidos — nunca los tuyos propios.
 
 Para cada local candidato que encuentres:
 
-1. **Aplica los filtros 1-3** (antigüedad, rating, nº de reseñas) con datos
-   reales y verificables — nunca inventes una nota media o un número de
-   reseñas que no hayas encontrado de verdad. Si no encuentras un dato con
-   confianza razonable, dilo explícitamente en vez de aproximarlo.
+1. **Aplica los filtros 2 y 3** (rating, nº de reseñas) con datos reales y
+   verificables para decidir si el local es candidato — nunca inventes una
+   nota media o un número de reseñas que no hayas encontrado de verdad. Si
+   no encuentras un dato con confianza razonable, dilo explícitamente en
+   vez de aproximarlo. **El filtro 1 (antigüedad) ya no descarta** — sigue
+   documentándolo como contexto (proyecto joven vs. local antiguo o de
+   grupo consolidado), pero nunca como motivo para dejar fuera a un
+   candidato que cumple 2, 3 y 4 con evidencia real. Un local antiguo o de
+   cadena puede tener perfectamente una mala gestión operativa.
 2. **Lee reseñas reales del local** (Google, TripAdvisor u otra fuente
    pública accesible) para aplicar el filtro 4 — cita 2-3 fragmentos reales
    de reseñas que sostengan la categoría de "tipo de oportunidad" que
@@ -50,7 +55,7 @@ Para cada local candidato que encuentres:
   se marca explícitamente como "dato no confirmado", nunca se aproxima.
 - Entrega cada candidato como una ficha nueva en
   `comunicacion-redes-sociales/potential-spotting/candidatos/<slug-del-local>.md`
-  (nombre, ciudad, filtros 1-3 con fuente, tipo de oportunidad con
+  (nombre, ciudad, filtros 1-3 con fuente (el 1 solo como contexto), tipo de oportunidad con
   citas reales de reseñas, enlace a la ficha del local si existe), y
   actualiza la tabla de `estado.md` añadiendo la fila correspondiente en
   fase "🟡 Investigado".
