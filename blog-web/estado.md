@@ -40,6 +40,17 @@ enlace interno directo, con aviso de posible canibalización SEO con "Cómo
 calcular la rentabilidad de un negocio de hostelería". Ver
 `blog-web/investigacion/tema-05-escandallos-food-cost.md`.
 
+Andrea revisó el ángulo del Tema 5 el 2026-09-28 y pidió explícitamente un
+ángulo distinto al de los tres artículos ya publicados por TBNB sobre
+escandallo/food cost/rentabilidad (ver detalle del ángulo revisado en
+`blog-web/listado-temas.md`, sección 5): en vez de otro explicador de "qué
+es el food cost y cómo se calcula", el artículo parte de que el lector ya
+conoce el concepto y se centra en por qué el escandallo calculado hace tres
+años ya no refleja la realidad del negocio (materia prima +30% acumulado
+desde 2021, rentabilidad del sector -0,9% en 2025 pese a crecer ingresos
+3,1%) y qué hacer con ese dato. `blog-redaccion` ha escrito el artículo con
+ese ángulo revisado — ver estado actualizado en la tabla de seguimiento.
+
 `blog-investigacion` ha entregado los briefs de los Temas 2, 3 y 4 (bloque
 "ayudas de proveedores"), con el visto bueno explícito de Andrea para seguir
 con el ángulo independiente de consultoría. El hallazgo más importante de
@@ -113,26 +124,31 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 | 2. Ayudas de proveedores para montar un bar | 🟡 Investigación | [`blog-web/investigacion/tema-02-ayudas-proveedores.md`](investigacion/tema-02-ayudas-proveedores.md) | Prioridad de trabajo: Media-alta. Dato legal sólido y citable (Reglamento UE 2022/720, límite de 5 años a la exclusividad). Financiación ICO y renting confirmados como alternativas, con aviso de verificar cifra exacta del ICO (fuente de agregador, no ico.es). Subvenciones públicas: dispersas por comunidad autónoma, sin programa único nacional. |
 | 3. Ayudas de Estrella Galicia | 🟡 Investigación | [`blog-web/investigacion/tema-03-estrella-galicia.md`](investigacion/tema-03-estrella-galicia.md) | Prioridad de trabajo: Alta. **Aviso importante:** no hay evidencia de que sea un programa oficial con ese nombre — lo oficial y verificable es "The Hop" y "Cervecerías Circulares", que no son lo mismo. La letra pequeña (exclusividad, duración 5-10 años, penalizaciones) es patrón de mercado documentado por terceros, no confirmado por la marca — presentarlo así en el artículo. |
 | 4. Ayudas de Mahou | 🟡 Investigación | [`blog-web/investigacion/tema-04-mahou.md`](investigacion/tema-04-mahou.md) | Prioridad de trabajo: Alta. **Aviso importante:** no existe evidencia de una plataforma llamada "Bar Uno" — lo verificable es "+Bar" / "Nexho" / "Más con Mahou San Miguel". Una fuente (Nexho) afirma que la exclusividad "está prohibida en España", lo cual es impreciso frente al Reglamento UE 2022/720 (está limitada a 5 años, no prohibida) — no repetir esa afirmación en el artículo. |
-| 5. Escandallos y food cost | 🟡 Investigación | [`blog-web/investigacion/tema-05-escandallos-food-cost.md`](investigacion/tema-05-escandallos-food-cost.md) | Dato Inpulse.ai verificado y ampliado (margen neto 3-4% incluso en negocios con estrella Michelin; es mercado francés, no español). Rangos de food cost por tipo de negocio y ejemplo de escandallo paso a paso reconstruidos vía `WebSearch` (fuentes de mercado bloqueadas por egress esta sesión). Dato España 2025 (Hosteltur): rentabilidad de restauración -0,9% pese a crecer ingresos 3,1%. Enlaces internos reales encontrados en `thebarnbarconsulting.com`, con aviso de posible canibalización SEO con artículo ya publicado sobre rentabilidad. |
+| 5. Escandallos y food cost | 🟡 Borrador | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Redactado con el ángulo revisado (petición directa de Andrea, 2026-09-28): no repite el explicador básico de escandallo/food cost ya cubierto por los tres artículos propios existentes, se centra en por qué recalcularlo ahora importa (materia prima +30% acumulado desde 2021, rentabilidad del sector -0,9% en 2025 pese a crecer ingresos 3,1%) y qué hacer con el resultado. Incluye enlace interno a "El escandallo: ¿sabes cuánto ganas realmente o solo...?" (para quien necesite la explicación básica) y a "Qué es la regla 50/30/20 en la hostelería" (H2 3, tal como pedía el ángulo). Dato de Inpulse.ai citado explícitamente como mercado francés, no español. Meta descripción propuesta incluida en el propio archivo, etiquetada aparte, pendiente de revisión de `blog-revision-seo-calidad`. |
 | 6. Diseño de carta de restaurante | 🟡 Investigación | [`blog-web/investigacion/tema-06-diseno-carta.md`](investigacion/tema-06-diseno-carta.md) | Ángulo verificado contra `hospitality-report/matriz-tematica.md`: se sostiene, con matiz sobre la tensión "raciones grandes vs. pequeñas" (hipótesis, no cerrada en origen) y sobre que la matriz clásica de ingeniería de menú aplica mejor a carta con reserva que a bar de tapas. Listo para pasar a `blog-redaccion` junto con el Tema 5 (enlace interno cruzado entre ambos). |
 | 7. Sanidad y APPCC | 🟡 Investigación | [`blog-web/investigacion/tema-07-appcc.md`](investigacion/tema-07-appcc.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report (confirmado, no solo asumido). Hallazgo útil: dato de inspecciones con "registros APPCC sin cumplimentar" valida el ángulo de forma casi literal; la Ley 1/2025 de prevención del desperdicio alimentario es una novedad reciente (abril 2025) poco explotada por la competencia de mercado listada. Aviso: cifras de sanción (3.000-30.000€) vienen de una única fuente de consultoría, tratar como orientativas. |
 
 ## Próximo paso
 
 Los 7 temas del listado ya están investigados — no queda ningún tema en
-fase de solo "Estrategia". Los Temas 5 y 6 pueden pasar a `blog-redaccion`
-juntos (se enlazan entre sí); antes de redactar, `blog-estrategia-seo`
-debería revisar el aviso de posible canibalización SEO del Tema 5. Para el
-bloque 2/3/4, antes de pasar a redacción conviene que `blog-estrategia-seo`
-decida cómo encajar el aviso sobre nombres de programa no verificados
-(especialmente "Bar Uno", que no existe con ese nombre) sin perder el
-ángulo independiente ya aprobado por Andrea — lo más seguro es ajustar cómo
-se nombra el programa en el propio título/entradilla sin tocar el H1 ya
-aprobado más de lo necesario, o confirmarlo primero verificando
-directamente `estrellagalicia.es` y `mahou-sanmiguel.com` (ambos bloqueados
-en esta sesión de investigación). Los Temas 1 y 7, de prioridad Media,
-están listos para pasar a `blog-redaccion` en el bloque que se decida
-trabajar después de los de prioridad Alta — para el Tema 1 conviene que
-`blog-redaccion` abra directamente `thebarnbarconsulting.com` (bloqueado
-para esta sesión de investigación) para confirmar la literalidad de las
-frases citadas antes de enlazarlas o citarlas en el artículo nuevo.
+fase de solo "Estrategia". El Tema 5 ya tiene borrador escrito con el
+ángulo revisado; el Tema 6 puede pasar a `blog-redaccion` a continuación
+(se enlaza con el Tema 5, y conviene aprovechar que ambos comparten
+terreno de autoridad de marca). Antes de que el Tema 5 avance a revisión,
+`blog-revision-seo-calidad` debería confirmar que el ángulo revisado no
+canibaliza en SEO con "Cómo calcular la rentabilidad de un negocio de
+hostelería" (mismo aviso que ya dejó `blog-investigacion`) y validar la
+meta descripción propuesta. Para el bloque 2/3/4, antes de pasar a
+redacción conviene que `blog-estrategia-seo` decida cómo encajar el aviso
+sobre nombres de programa no verificados (especialmente "Bar Uno", que no
+existe con ese nombre) sin perder el ángulo independiente ya aprobado por
+Andrea — lo más seguro es ajustar cómo se nombra el programa en el propio
+título/entradilla sin tocar el H1 ya aprobado más de lo necesario, o
+confirmarlo primero verificando directamente `estrellagalicia.es` y
+`mahou-sanmiguel.com` (ambos bloqueados en esta sesión de investigación).
+Los Temas 1 y 7, de prioridad Media, están listos para pasar a
+`blog-redaccion` en el bloque que se decida trabajar después de los de
+prioridad Alta — para el Tema 1 conviene que `blog-redaccion` abra
+directamente `thebarnbarconsulting.com` (bloqueado para esta sesión de
+investigación) para confirmar la literalidad de las frases citadas antes
+de enlazarlas o citarlas en el artículo nuevo.
