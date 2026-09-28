@@ -57,4 +57,6 @@ Recalcular el food cost sin decidir nada después es la misma trampa de siempre,
 
 Y hay un último criterio, quizá el más incómodo: la popularidad no es garantía de margen. El caso del pollo frito que se hizo viral en TikTok en Francia, con varias marcas nacidas directamente en redes, es el contraejemplo perfecto frente a las pizzerías y bares de pasta con food cost bajo — toda la demanda del mundo, sin ninguna garantía de que el margen aguante. Un plato de moda que no aguanta el escandallo recalculado es candidato a salir de la carta, por muy bien que venda esta temporada.
 
+Todo esto es un zoom a una sola pieza del negocio: el coste de lo que sirves. Si lo que necesitas es la fotografía completa — personal, alquiler, suministros, todos los costes, no solo materia prima — ya la hicimos en [cómo calcular la rentabilidad de un negocio de hostelería](https://www.thebarnbarconsulting.com/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/). Ese artículo es el mapa entero; este es la lupa sobre el punto que más rápido se desactualiza sin que nadie lo note.
+
 En TBNB no creemos que recalcular el food cost una vez al año sea disciplina extra. Es la higiene mínima del negocio, sobre todo cuando el sector entero factura más y gana menos. La carta no miente — el problema es cuánto tiempo llevas sin volver a preguntarle.
