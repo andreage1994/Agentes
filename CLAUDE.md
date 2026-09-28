@@ -38,6 +38,8 @@ Gmail, Google Calendar, Google Drive, Asana (gestión de proyectos y leads), Odo
 - `comunicacion-redes-sociales/` — calendarios y contenido de Instagram, LinkedIn,
   Google My Business, mail marketing y potential spotting (ver
   `comunicacion-redes-sociales/BRIEF.md`).
+- `blog-web/` — artículos del blog de la página web de TBNB, a partir del
+  listado de temas del gestor de SEO (ver `blog-web/BRIEF.md`).
 - `TAREAS.md` — pendientes.
 - `GUIA.md` — manual de aprendizaje de Andrea sobre este sistema.
 - `.claude/skills/` y `.claude/agents/` — recetas y especialistas de Claude Code.
