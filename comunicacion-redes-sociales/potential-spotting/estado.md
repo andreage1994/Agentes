@@ -61,20 +61,31 @@ tomó las dos decisiones que `research` había dejado pendientes:
   también con grupos consolidados, pero es una decisión de negocio que no
   corresponde asumir aquí.
 
-Quedan **3 candidatos priorizados para redacción**, en este orden de
-contacto:
+`potential-spotting-redaccion` redactó el 2026-09-28 el documento "Notas
+desde la Barra" y el email de envío (variante B, digital spotting) para los
+3 candidatos priorizados, en el mismo orden de contacto que dejó
+estrategia:
 
 1. **Malparit** (Barcelona) — patrón SERVICE sostenido por tres reseñas
-   independientes.
+   independientes. Documento: `candidatos/malparit-barcelona-notas.md`.
+   Email: `candidatos/malparit-barcelona-email.md`.
 2. **Gamberro Taberna Canalla, Olavide** (Madrid) — patrón SERVICE sostenido
    por el mayor volumen de reseñas de la tanda (796) y una cita de prensa
-   que resume el ángulo casi textualmente.
+   que resume el ángulo casi textualmente. Documento:
+   `candidatos/gamberro-taberna-canalla-olavide-madrid-notas.md`. Email:
+   `candidatos/gamberro-taberna-canalla-olavide-madrid-email.md`.
 3. **Casa Fiero** (Barcelona) — patrón CONCEPT muy bien articulado en una
    única reseña extensa, pero con volumen de reseñas bajo (14); prioridad
-   moderada a la espera de que acumule más reseñas.
+   moderada a la espera de que acumule más reseñas. Documento:
+   `candidatos/casa-fiero-barcelona-notas.md`. Email:
+   `candidatos/casa-fiero-barcelona-email.md`.
+
+Los 3 son borradores. **Ninguno se envía** hasta que Andrea o Sergio los
+revisen, personalicen (nombre del contacto, firma) y aprueben, tal como
+fija `CLAUDE.md`.
 
 Ver el detalle de ángulo (bloques 2 y 3) y variante de contacto en la
-sección "Estrategia" de cada ficha.
+sección "Estrategia" de cada ficha original (`candidatos/<slug>.md`).
 
 ## Hoja de cálculo (Drive)
 
@@ -108,8 +119,8 @@ candidato a redacción.
 
 | Local | Ciudad | Fase | Tipo de oportunidad | Notas |
 |---|---|---|---|---|
-| Malparit | Barcelona | 🟡 Priorizado — prioridad 1 | SERVICE (dominante) / CONCEPT-FOOD (secundario) | Rating 4,0/5 TripAdvisor, 44 reseñas (justo bajo el umbral de 50). Ver `candidatos/malparit-barcelona.md` (sección Estrategia). |
-| Casa Fiero | Barcelona | 🟡 Priorizado — prioridad 3 | CONCEPT (dominante) / FOOD (secundario) | Rating 3,9/5 TripAdvisor, solo 14 reseñas (no cumple filtro 3 formalmente, incluido como excepción justificada). Ver `candidatos/casa-fiero-barcelona.md` (sección Estrategia). |
-| Gamberro Taberna Canalla (Olavide) | Madrid | 🟡 Priorizado — prioridad 1 | SERVICE (dominante) / FOOD (secundario) | Rating 4,0/5 (RestaurantGuru), 796 reseñas. Conversación ancla para el Grupo Barbillón. Ver `candidatos/gamberro-taberna-canalla-olavide-madrid.md` (sección Estrategia). |
+| Malparit | Barcelona | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | SERVICE (dominante) / CONCEPT-FOOD (secundario) | Rating 4,0/5 TripAdvisor, 44 reseñas (justo bajo el umbral de 50). Ficha: `candidatos/malparit-barcelona.md`. Documento y email: `candidatos/malparit-barcelona-notas.md` / `candidatos/malparit-barcelona-email.md`. |
+| Casa Fiero | Barcelona | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | CONCEPT (dominante) / FOOD (secundario) | Rating 3,9/5 TripAdvisor, solo 14 reseñas (no cumple filtro 3 formalmente, incluido como excepción justificada). Ficha: `candidatos/casa-fiero-barcelona.md`. Documento y email: `candidatos/casa-fiero-barcelona-notas.md` / `candidatos/casa-fiero-barcelona-email.md`. |
+| Gamberro Taberna Canalla (Olavide) | Madrid | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | SERVICE (dominante) / FOOD (secundario) | Rating 4,0/5 (RestaurantGuru), 796 reseñas. Conversación ancla para el Grupo Barbillón. Ficha: `candidatos/gamberro-taberna-canalla-olavide-madrid.md`. Documento y email: `candidatos/gamberro-taberna-canalla-olavide-madrid-notas.md` / `candidatos/gamberro-taberna-canalla-olavide-madrid-email.md`. |
 | Gamberro Barra Canalla (Goya) | Madrid | 🔴 No se prioriza (sin nota independiente) | CONCEPT (evidencia demasiado débil) | Misma marca que Olavide (Grupo Barbillón); evidencia de oportunidad insuficiente para sostener un bloque 3 propio. Se integra como contexto en la conversación de Olavide, no genera documento ni email propio. Ver `candidatos/gamberro-barra-canalla-goya-madrid.md` (sección Estrategia). |
 | Cohete | Barcelona | 🔴 No se prioriza | EXPERIENCE (dominante) / SERVICE (secundario, débil) | Grupo Tragaluz — cadena de restauración consolidada, no encaja con el espíritu de "Notas desde la Barra" (proyectos independientes con potencial, no cadenas ya establecidas). Rating solo disponible en escala GastroRanking 0-10. Ver `candidatos/cohete-barcelona.md` (sección Estrategia). |
