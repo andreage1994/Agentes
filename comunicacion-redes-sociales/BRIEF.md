@@ -57,7 +57,7 @@ Traído de Google Drive (carpeta "5. Marketing") el 2026-09-17.
 
 ## El equipo
 
-Tres roles (`.claude/agents/`):
+Tres roles (`.claude/agents/`) para redes/contenido:
 
 1. **`director-marketing`** — dueño del calendario y la operación de
    publicación: qué se publica, cuándo, en qué canal, y coordina entre los
@@ -68,6 +68,17 @@ Tres roles (`.claude/agents/`):
    publica esté alineado con el objetivo (autoridad, marca aspiracional, media
    de hostelería moderna) y con los pilares de contenido — es quien revisa el
    calendario antes de aprobarlo, no quien lo redacta.
+
+Más un subequipo de tres roles dedicado a `potential-spotting/` (ver
+`potential-spotting/README.md` para el detalle completo):
+
+4. **`potential-spotting-research`** — digital spotting: busca locales en
+   Barcelona/Madrid que cumplan los filtros de antigüedad, rating y nº de
+   reseñas, y clasifica su tipo de oportunidad a partir de reseñas reales.
+5. **`potential-spotting-estrategia`** — prioriza candidatos y decide el
+   ángulo de cada documento "Notas desde la Barra".
+6. **`potential-spotting-redaccion`** — escribe el documento final y el
+   email de envío de cada candidato priorizado.
 
 ## Cómo está organizada esta carpeta
 
