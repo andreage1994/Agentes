@@ -169,9 +169,28 @@ tercera pasada) y decidió priorizarlos:
 Ambos con **variante de contacto digital spotting** (ninguno tiene visita
 física confirmada). El detalle completo de prioridad, ángulos y variante
 está en la sección "Estrategia" de cada ficha (`candidatos/la-martina-barcelona.md`,
-`candidatos/verne-barcelona.md`). Quedan listos para pasar a
-`potential-spotting-redaccion`; ningún documento ni email se genera todavía
-para estos dos.
+`candidatos/verne-barcelona.md`).
+
+`potential-spotting-redaccion` redactó el 2026-09-28 (cuarta pasada) el
+documento "Notas desde la Barra" y el email de envío (variante B, digital
+spotting) para ambos, en el mismo orden de prioridad fijado por estrategia:
+
+7. **Verne** (Barcelona) — patrón SERVICE sostenido por dos citas textuales
+   de fuentes independientes (TripAdvisor y TheFork), formulado en el
+   bloque 3 con cuidado explícito de no cuestionar el trato del equipo,
+   sino el ritmo de gestión de sala. Documento:
+   `candidatos/verne-barcelona-notas.md`. Email:
+   `candidatos/verne-barcelona-email.md`.
+8. **La Martina** (Barcelona) — ángulo CONCEPT (desajuste entre los menús
+   de degustación anunciados en la web y lo disponible en sala), sostenido
+   por una única reseña sin corroborar; el bloque 3 se formula con
+   prudencia explícita ("es solo una voz, no un coro"), sin presentarlo
+   como un patrón. Documento: `candidatos/la-martina-barcelona-notas.md`.
+   Email: `candidatos/la-martina-barcelona-email.md`.
+
+Ambos son borradores. **Ninguno se envía** hasta que Andrea o Sergio los
+revisen, personalicen (nombre del contacto, firma) y aprueben, tal como
+fija `CLAUDE.md`.
 
 ## Hoja de cálculo (Drive)
 
@@ -210,5 +229,5 @@ candidato a redacción.
 | Gamberro Taberna Canalla (Olavide) | Madrid | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | SERVICE (dominante) / FOOD (secundario) | Rating 4,0/5 (RestaurantGuru), 796 reseñas. Conversación ancla para el Grupo Barbillón. Ficha: `candidatos/gamberro-taberna-canalla-olavide-madrid.md`. Documento y email: `candidatos/gamberro-taberna-canalla-olavide-madrid-notas.md` / `candidatos/gamberro-taberna-canalla-olavide-madrid-email.md`. |
 | Gamberro Barra Canalla (Goya) | Madrid | 🔴 No se prioriza (sin nota independiente) | CONCEPT (evidencia demasiado débil) | Misma marca que Olavide (Grupo Barbillón); evidencia de oportunidad insuficiente para sostener un bloque 3 propio. Se integra como contexto en la conversación de Olavide, no genera documento ni email propio. Ver `candidatos/gamberro-barra-canalla-goya-madrid.md` (sección Estrategia). |
 | Cohete | Barcelona | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | EXPERIENCE (dominante) / SERVICE (secundario, sin cita textual verificada) | Grupo Tragaluz — cadena de restauración consolidada; `potential-spotting-estrategia` había recomendado no priorizarlo por ese motivo, pero Andrea pidió explícitamente proceder de todos modos (decisión de negocio suya). Rating solo disponible en escala GastroRanking 0-10. Ficha: `candidatos/cohete-barcelona.md` (sección Estrategia). Documento y email: `candidatos/cohete-barcelona-notas.md` / `candidatos/cohete-barcelona-email.md`. |
-| Verne | Barcelona | 🟡 Priorizado | SERVICE (dominante, bien confirmado) | Traído por Andrea con diagnóstico propio, verificado con dos citas textuales reales (TripAdvisor y TheFork) que confirman servicio lento, bebidas olvidadas y necesidad de pedir varias veces con pocas mesas ocupadas. Rating TripAdvisor 4,3/5 (482 reseñas). No cumple filtro 1 (abrió en 2015, pertenece a BNGRUP — mismo perfil que Cohete), señalado para trazabilidad pero sin bloquear, por instrucción directa de Andrea. Prioridad 1 de este par. Ficha y sección Estrategia: `candidatos/verne-barcelona.md`. |
-| La Martina | Barcelona | 🟡 Priorizado | CONCEPT (dominante, evidencia de una sola reseña, sin corroborar) | Traído por Andrea con diagnóstico propio, verificado. Rating 4,7/5 en TripAdvisor (50 reseñas) y Google (235 reseñas) — muy por encima de la banda prioritaria. Única cita real sostiene comida fría + servicio lento + desajuste web/disponibilidad; se elige CONCEPT (desajuste web/menús) como ángulo más defendible del bloque 3, formulado con prudencia por tratarse de una única voz sin patrón. No cumple filtro 1 (~6-7 años, sin relanzamiento conocido). Prioridad 2 de este par. Ficha y sección Estrategia: `candidatos/la-martina-barcelona.md`. |
+| Verne | Barcelona | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | SERVICE (dominante, bien confirmado) | Traído por Andrea con diagnóstico propio, verificado con dos citas textuales reales (TripAdvisor y TheFork) que confirman servicio lento, bebidas olvidadas y necesidad de pedir varias veces con pocas mesas ocupadas. Rating TripAdvisor 4,3/5 (482 reseñas). No cumple filtro 1 (abrió en 2015, pertenece a BNGRUP — mismo perfil que Cohete), señalado para trazabilidad pero sin bloquear, por instrucción directa de Andrea. Prioridad 1 de este par. Ficha y sección Estrategia: `candidatos/verne-barcelona.md`. Documento y email: `candidatos/verne-barcelona-notas.md` / `candidatos/verne-barcelona-email.md`. |
+| La Martina | Barcelona | 🟡 Nota redactada — pendiente de revisión de Andrea/Sergio | CONCEPT (dominante, evidencia de una sola reseña, sin corroborar) | Traído por Andrea con diagnóstico propio, verificado. Rating 4,7/5 en TripAdvisor (50 reseñas) y Google (235 reseñas) — muy por encima de la banda prioritaria. Única cita real sostiene comida fría + servicio lento + desajuste web/disponibilidad; se elige CONCEPT (desajuste web/menús) como ángulo más defendible del bloque 3, formulado con prudencia por tratarse de una única voz sin patrón. No cumple filtro 1 (~6-7 años, sin relanzamiento conocido). Prioridad 2 de este par. Ficha y sección Estrategia: `candidatos/la-martina-barcelona.md`. Documento y email: `candidatos/la-martina-barcelona-notas.md` / `candidatos/la-martina-barcelona-email.md`. |
