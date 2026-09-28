@@ -219,38 +219,66 @@ construir), y viceversa.
   inmediato (transaccional en el sentido de "quiero aplicar esto hoy en mi
   carta"), no solo curiosidad conceptual — quien busca "cómo calcular
   food cost" normalmente ya tiene un problema de rentabilidad encima.
-- **Ángulo TBNB:** Este es el tema donde TBNB no necesita construir
-  autoridad, ya la tiene: es la base del BAR Method y de "rentabilidad
-  incómoda", el pilar de contenido ya fijado en redes. El ángulo diferencial
-  frente a las referencias de mercado (que explican la fórmula y paran ahí)
-  es que la mayoría de quien busca esto ya sabe calcular un escandallo en
-  un Excel — el problema real es que lo calculan una vez para justificar
-  un precio y no vuelven a mirarlo para decidir nada (qué plato sacar de
-  la carta, qué proveedor renegociar). Podemos apoyar este criterio con un
-  dato ya verificado y citable del Hospitality Report
-  (`hospitality-report/matriz-tematica.md`, Business of Hospitality, vía
-  Inpulse.ai, 2026): los conceptos de restauración no fracasan por falta
-  de ambición sino por food cost mal controlado ("las tendencias atraen a
-  los clientes, los márgenes los retienen"), y el contraste concreto de
-  que los mejores ratios del mercado (pizzerías napolitanas, bares de
-  pasta artesanal: food cost 24-30%, margen bruto 70-76%) se explican por
-  menos referencias y recetas más fáciles de estandarizar — no por magia
-  ni por tener mejor proveedor. Esto convierte el artículo en algo con
-  postura propia, no en una calculadora más.
-- **Título (H1) propuesto:** "Escandallos y food cost: por qué casi nadie
-  los usa para lo que realmente sirven"
-- **Subtemas (H2):**
-  1. Qué es el food cost y cómo se calcula un escandallo, con ejemplo real.
-  2. El error más caro: calcularlo una vez y guardarlo en un cajón.
-  3. Qué food cost es sano según tu tipo de negocio (con referencia de
-     mercado citada).
-  4. Cómo usar el escandallo para decidir la carta, no solo para poner
-     precio.
-- **Prioridad de trabajo (ángulo):** Alta (la más alta del listado). Es
-  autoridad real de marca, con dato propio ya verificado que citar, y
-  coincide con un pilar de contenido que TBNB ya defiende en otros
-  canales — coste de investigación bajo, valor de posicionamiento alto.
-- **Estado:** 🟡 Estrategia (ángulo definido) — listo para investigación.
+- **Ángulo TBNB (original):** Este es el tema donde TBNB no necesita
+  construir autoridad, ya la tiene: es la base del BAR Method y de
+  "rentabilidad incómoda", el pilar de contenido ya fijado en redes. El
+  ángulo diferencial frente a las referencias de mercado (que explican la
+  fórmula y paran ahí) es que la mayoría de quien busca esto ya sabe
+  calcular un escandallo en un Excel — el problema real es que lo calculan
+  una vez para justificar un precio y no vuelven a mirarlo para decidir
+  nada (qué plato sacar de la carta, qué proveedor renegociar).
+
+- **Revisión — ángulo diferenciado, petición directa de Andrea
+  (2026-09-28):** al revisar qué ya existe publicado, `thebarnbarconsulting.com`
+  tiene **tres artículos propios que ya tocan este terreno**:
+  1. *"El escandallo: ¿sabes cuánto ganas realmente o solo...?"* — ángulo de
+     desperdicio/beneficio real.
+  2. *"Cómo calcular la rentabilidad de un negocio de hostelería"* — cálculo
+     general de rentabilidad, cita margen neto sano 8-15% y el escandallo
+     como una herramienta más.
+  3. *"Qué es la regla 50/30/20 en la hostelería"* — framework de reparto
+     30% materia prima / 60% operativo / 10% beneficio-reserva.
+
+  El ángulo original de arriba (escandallo como herramienta de decisión
+  recurrente) seguía siendo válido, pero el H2-1 tal como estaba planteado
+  ("qué es el food cost y cómo se calcula, con ejemplo") habría repetido lo
+  que ya cubren esos tres artículos. Andrea pidió explícitamente escribir
+  desde un ángulo distinto al ya publicado, aportando contenido nuevo y
+  **actual** — el gestor de SEO ya lo tiene contemplado (no es un problema
+  de canibalización no previsto).
+
+  **Nuevo ángulo — el food cost de 2026, no el de hace tres años:** en vez
+  de otro explicador de la fórmula, el artículo parte de un dato de
+  actualidad ya verificado por `blog-investigacion`
+  (`blog-web/investigacion/tema-05-escandallos-food-cost.md`, fuente
+  Hosteltur/Anuario de la Hostelería de España e INE): la rentabilidad del
+  sector en España **cayó un 0,9% en 2025 pese a crecer los ingresos un
+  3,1%**, y la materia prima se ha encarecido más de un **30% acumulado
+  desde 2021**. La tesis: un escandallo calculado antes de esa subida ya no
+  refleja la realidad del negocio, aunque nunca se haya vuelto a tocar la
+  carta. No es "cómo se calcula" (ya está cubierto), es "por qué el que ya
+  tienes probablemente esté desactualizado y qué hacer con eso ahora". Se
+  asume que el lector ya conoce el concepto básico de escandallo/food cost
+  (con un enlace interno al artículo 1 de arriba para quien no lo conozca),
+  en vez de volver a explicarlo desde cero.
+
+- **Título (H1) revisado:** "Food cost en 2026: por qué el cálculo que
+  hiciste hace tres años ya no vale"
+- **Subtemas (H2) revisados:**
+  1. Qué ha cambiado: el encarecimiento acumulado de materia prima desde
+     2021 y por qué se ha comido margen sin que muchos lo notaran.
+  2. El dato incómodo de 2025: la rentabilidad del sector bajó aunque las
+     ventas subieron — qué dice esto de fiarte de un escandallo antiguo.
+  3. Qué food cost es "sano" hoy, no hace tres años, según tipo de negocio
+     (con enlace interno al artículo de la regla 50/30/20 para quien quiera
+     el framework completo, sin repetirlo aquí).
+  4. Qué hacer con el dato: renegociar proveedor, ajustar carta o subir
+     precio — cómo decidir entre las tres opciones.
+- **Prioridad de trabajo (ángulo):** Alta (la más alta del listado). Sigue
+  siendo autoridad real de marca, ahora además con ángulo de actualidad que
+  no compite con el contenido ya publicado por TBNB.
+- **Estado:** 🟢 Investigación completa, ángulo revisado — listo para
+  `blog-redaccion`.
 
 ## 6. Cómo diseñar la carta de un restaurante
 
