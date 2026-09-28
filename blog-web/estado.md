@@ -595,6 +595,25 @@ es un cambio de fondo (no una pasada de estilo) y requiere una nueva
 pasada completa de `blog-revision-seo-calidad` antes de considerarlo otra
 vez definitivo.
 
+**Mención de servicio añadida al Tema 1 (2026-09-28), petición directa de
+Andrea.** Sobre la redacción final ya entregada del Tema 1, Andrea pidió
+una única frase (no un bloque de CTA) que mencionara de forma sutil que
+parte de acompañar una apertura en TBNB es ayudar a encontrar el local que
+encaja con el concepto del cliente antes de firmar — no solo advertir
+sobre licencias, sino evitar el problema desde el origen. `blog-redaccion`
+añadió una sola frase junto al H2 2 (certificado de compatibilidad
+urbanística), justo después del párrafo que explica por qué un local puede
+estar clasificado para "comercio" y no para "hostelería" en el
+planeamiento: *"En TBNB, parte de acompañar una apertura es justo eso:
+ayudar a encontrar el local que encaja con el concepto antes de firmar, no
+solo avisar de qué licencia toca después."* No se prometen plazos, precios
+ni alcance concreto del servicio, no hay enlace de contacto ni llamada a
+la acción de venta, y no se ha tocado ningún otro contenido del
+artículo: mismo H1, mismos H2, mismos datos (separación normativa
+estatal/autonómica, certificado de compatibilidad urbanística, ejemplo de
+Barcelona no generalizable, ordenanzas de terraza de Madrid/Granada/
+Valencia) y mismo enlace interno a la "Guía Completa para Abrir un Bar".
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -602,7 +621,7 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 
 | Tema | Fase | Artículo | Notas |
 |---|---|---|---|
-| 1. Licencias para abrir un restaurante | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/licencias-para-abrir-un-restaurante.md`](articulos/licencias-para-abrir-un-restaurante.md) | Prioridad de trabajo: Media. Redacción final de estilo aplicada el 2026-09-28 por instrucción directa de Andrea: mismo contenido, datos y ángulo del borrador ya aprobado (certificado de compatibilidad urbanística como pieza central del H2-2, separación estatal/CCAA-municipio intacta, ejemplo de Barcelona no generalizable, ordenanzas de terraza de Madrid/Granada/Valencia como casos distintos), con las tres variantes de keyword ("licencias para abrir un restaurante", "licencia para abrir un restaurante", "licencias para abrir un restaurante en España") reforzadas en título, entradilla, H2 1 y meta descripción, y tono más ameno, menos enumerativo. Enlace interno a "Guía Completa para Abrir un Bar" sin cambios (misma URL verificada). Pendiente de `blog-revision-seo-calidad`. |
+| 1. Licencias para abrir un restaurante | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/licencias-para-abrir-un-restaurante.md`](articulos/licencias-para-abrir-un-restaurante.md) | Prioridad de trabajo: Media. Redacción final de estilo aplicada el 2026-09-28 por instrucción directa de Andrea: mismo contenido, datos y ángulo del borrador ya aprobado (certificado de compatibilidad urbanística como pieza central del H2-2, separación estatal/CCAA-municipio intacta, ejemplo de Barcelona no generalizable, ordenanzas de terraza de Madrid/Granada/Valencia como casos distintos), con las tres variantes de keyword ("licencias para abrir un restaurante", "licencia para abrir un restaurante", "licencias para abrir un restaurante en España") reforzadas en título, entradilla, H2 1 y meta descripción, y tono más ameno, menos enumerativo. Enlace interno a "Guía Completa para Abrir un Bar" sin cambios (misma URL verificada). **Mención de servicio añadida (2026-09-28), petición directa de Andrea:** una única frase junto al H2 2, sin CTA de venta ni enlace de contacto, sin prometer plazos/precios/alcance, mencionando que parte de acompañar una apertura en TBNB es ayudar a encontrar el local que encaja con el concepto antes de firmar. No se ha tocado ningún otro contenido. Pendiente de `blog-revision-seo-calidad`. |
 | 2. Ayudas de proveedores para montar un bar | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/ayudas-para-montar-un-bar.md`](articulos/ayudas-para-montar-un-bar.md) | Prioridad de trabajo: Media-alta. Artículo "paraguas" de los Temas 3 y 4: distingue subvenciones públicas dispersas por CCAA (sin programa único nacional) de acuerdos comerciales con proveedores, cuantifica el coste de la exclusividad con el Reglamento (UE) 2022/720 como dato legal de respaldo (límite de 5 años), presenta ICO/renting como alternativas (cifra ICO marcada como de agregador, pendiente de verificar en ico.es) y cierra citando Inpulse.ai (hospitality-report). Enlaza a los Temas 3 y 4 en el H2 4 con nota "enlace pendiente de publicación" en vez de URL inventada. Pasada final de estilo (2026-09-28, instrucción directa de Andrea): tono directo de socio en segunda persona en vez de tono de informe, keyword "ayudas de proveedores para montar un bar" reforzada de forma natural en entradilla y H2 1, sin cambios de dato ni de ángulo. Pendiente de `blog-revision-seo-calidad`. |
 | 3. Ayudas de Estrella Galicia | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/estrella-galicia-te-monta-el-bar.md`](articulos/estrella-galicia-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** el H1/entradilla mantiene la keyword buscada, y el 2º párrafo aclara sin rodeos que no es un programa oficial con ficha pública, nombrando "The Hop" y "Cervecerías Circulares" como lo real y verificable de la marca. Letra pequeña (exclusividad 5-10 años, rappel 75/25, penalizaciones) presentada explícitamente como algo que se repite en el sector, nunca como condición confirmada de Estrella Galicia. El Reglamento (UE) 2022/720 (límite de 5 años) se usa como el dato con más peso de esa sección. Enlaces a Temas 2 y 4 con nota de "pendiente de publicación". Pasada final de estilo (2026-09-28, instrucción directa de Andrea): tono más conversacional y directo (segunda persona, "vamos a ser claros"), sin tocar el aviso legal/editorial sobre el nombre no oficial ni ningún dato de la letra pequeña, que se cuenta de forma menos "legal" pero con la misma precisión. Pendiente de `blog-revision-seo-calidad`. |
 | 4. Ayudas de Mahou | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/mahou-te-monta-el-bar.md`](articulos/mahou-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** "Bar Uno" no aparece en ningún punto del artículo; el 2º párrafo aclara que no hay programa oficial con el nombre buscado y nombra "+Bar", "Nexho" y "Más con Mahou San Miguel" como lo real y verificable, con detalle de qué ofrece cada uno. La afirmación de Nexho de que la exclusividad "está prohibida en España" **no se repite** — se sustituye por la versión correcta del Reglamento (UE) 2022/720 (limitada a 5 años, no prohibida). El H2 3 construye un ejemplo numérico con supuestos explícitamente declarados como hipotéticos, no como cifras reales de Mahou. Enlaces a Temas 2 y 3 con nota de "pendiente de publicación". Pasada final de estilo (2026-09-28, instrucción directa de Andrea): mismo tono directo y conversacional que en Estrella Galicia, con el aviso sobre "Bar Uno"/nombre no oficial y la corrección a Nexho intactos, sin cambios en el ejemplo numérico ni en ningún otro dato. Pendiente de `blog-revision-seo-calidad`. |
@@ -626,6 +645,10 @@ checklist SEO on-page y el tono sobre esta versión antes de que
 Andrea/Sergio los aprueben para publicar. Puntos particulares a vigilar en
 esa revisión:
 
+- **Tema 1:** revisar la frase de mención de servicio añadida junto al H2
+  2 (certificado de compatibilidad urbanística) a petición de Andrea —
+  confirmar que sigue leyéndose como una sola frase integrada, sin sonar a
+  publicidad ni romper el tono informativo del resto del artículo.
 - **Tema 5:** verificar directamente las cifras de INE/Hosteltur antes de
   publicar en la web en vivo (único punto abierto, ya señalado por
   Andrea/Sergio).
@@ -646,4 +669,3 @@ esa revisión:
   (Estrella Galicia / Mahou) sigue quedando resuelto con el mismo criterio
   tras la pasada de estilo final — el aviso se mantiene íntegro en
   contenido, solo contado de forma más conversacional.
-</content>

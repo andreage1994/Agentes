@@ -36,6 +36,8 @@ Es el documento que confirma si el uso "hostelería" está permitido en ese loca
 
 ¿Por qué importa tanto? Porque un local puede estar clasificado para "comercio" en el planeamiento municipal y no para "hostelería". Ahí no hay proyecto técnico, arquitecto ni presupuesto que arregle nada — es que el local no sirve para lo que quieres montar, y ya has firmado.
 
+En TBNB, parte de acompañar una apertura es justo eso: ayudar a encontrar el local que encaja con el concepto antes de firmar, no solo avisar de qué licencia toca después.
+
 El orden que funciona, con matices de nombre y plazo según el municipio, sigue siempre el mismo patrón de fondo:
 
 1. Comprobar la compatibilidad urbanística del local, antes de firmar nada.
