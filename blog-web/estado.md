@@ -526,6 +526,75 @@ forma natural con el cierre ya existente sobre la fase Run del BAR Method
 real requiere una nueva pasada de `blog-revision-seo-calidad` antes de
 darlo otra vez por definitivo.
 
+**Reestructuración de fondo del Tema 6 (2026-09-28), instrucción directa
+de Andrea tras leer la redacción final.** A diferencia de las pasadas
+anteriores sobre este mismo artículo (que eran solo de estilo, sin tocar
+contenido ni balance), esta vez Andrea pidió explícitamente un cambio de
+fondo: menos peso del aparato de estudios y más peso de la aplicación
+práctica del menu engineering cruzado con el escandallo. En concreto: (1)
+recortar la extensión y el detalle de cifras de la sección "Cruzar
+rentabilidad con lo que el cliente percibe como valor" (Coca-Cola Lens,
+caso Papa John's, McKinsey) y de la sección de errores de diseño
+(Bournemouth, Cornell/CIA, Gregg Rapp), conservando la idea de fondo de
+cada una pero sin desglosar cada porcentaje ni encadenar estudios; y (2)
+convertir el ejemplo de "qué hacer con cada tipo de plato" —que antes era
+una nota de dos líneas después de explicar la matriz— en una sección
+propia y central del artículo, justo después de explicar los 4 cuadrantes,
+con recomendaciones de acción concretas para cada tipo de plato (Estrellas,
+Caballos de batalla, Puzles, Perros): qué hacer con el precio, la ración,
+la posición en la carta, el proveedor y el nombre del plato, cruzando
+siempre la decisión con el dato del escandallo. `blog-redaccion` ha
+reescrito el artículo con este nuevo balance:
+
+- La sección de valor percibido se resume a la idea central (el cliente no
+  compra solo margen, compra percepción de valor) en unas pocas frases,
+  sin desglosar los cuatro ejes de Coca-Cola Lens en porcentajes ni contar
+  el caso Papa John's con el mismo nivel de detalle de antes. La sección
+  de errores de diseño se recorta de forma equivalente, manteniendo la
+  idea de "demasiadas opciones cuesta dinero" y "el anclaje de precio
+  funciona pero se puede detectar" de forma breve y práctica.
+- El origen académico de la matriz (Kasavana y Smith, 1982) queda en una
+  sola frase dentro del H2 1, no en un párrafo aparte.
+- Ningún matiz de precisión se ha perdido en el recorte: Inpulse.ai sigue
+  marcado explícitamente como mercado francés, la tensión de raciones
+  sigue descrita como hipótesis propia sin cerrar, y el estudio Cornell/CIA
+  de 2007 sigue marcado como técnica clásica, no como hallazgo reciente.
+  Es un recorte de extensión y de peso relativo, no una pérdida de
+  honestidad sobre qué está verificado y qué no.
+- La nueva sección central ("Qué hacer con cada tipo de plato: estrellas,
+  caballos de batalla, puzles y perros") se coloca justo después del H2 1
+  (matriz de los 4 cuadrantes) y antes de la sección de valor percibido.
+  Para cada uno de los cuatro tipos explica qué significa de verdad para
+  el negocio (no solo la definición de margen/popularidad) y da 2-3
+  recomendaciones de acción concretas que cruzan el escandallo con la
+  decisión de carta (precio, ración, posición, proveedor, nombre del
+  plato) — por ejemplo, un caballo de batalla no se sube de precio de
+  golpe, primero se mira si hay margen de renegociar proveedor o ajustar
+  ración; un puzle no se quita a la primera, se prueba a renombrarlo,
+  reposicionarlo o convertirlo en recomendación del camarero; un perro no
+  siempre se elimina sin más, a veces sus ingredientes se reaprovechan en
+  otro plato antes de descatalogarlo.
+- El ejemplo ya existente de la carta italiana (linguine/pollo
+  parmesano/pasta de temporada/ensalada) se mantiene y se expande con la
+  recomendación concreta para cada plato. Se añade un segundo ejemplo
+  completo con un negocio de otro tipo, tal como pedía Andrea: un bar de
+  tapas, con las patatas bravas como estrella, las croquetas caseras como
+  caballo de batalla (coste de mano de obra que se come el margen), el
+  pescado del día como puzle (mal colocado y sin nombre atractivo en la
+  carta) y una ensalada mixta genérica como perro.
+- El checklist final y el cierre del artículo (idea propia de TBNB sobre
+  decidir la estética en último lugar) se mantienen, con un único añadido
+  al checklist para reflejar la nueva sección ("¿sabes qué hacer con cada
+  cuadrante, no solo dónde cae cada plato?").
+- La meta descripción y los enlaces internos existentes (incluida la nota
+  entre corchetes pendiente de sustituir por la URL real del Tema 5) se
+  mantienen exactamente igual, tal como pedía la instrucción de Andrea.
+
+El artículo vuelve a **Borrador** en la tabla de seguimiento, porque este
+es un cambio de fondo (no una pasada de estilo) y requiere una nueva
+pasada completa de `blog-revision-seo-calidad` antes de considerarlo otra
+vez definitivo.
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -538,29 +607,35 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 | 3. Ayudas de Estrella Galicia | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/estrella-galicia-te-monta-el-bar.md`](articulos/estrella-galicia-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** el H1/entradilla mantiene la keyword buscada, y el 2º párrafo aclara sin rodeos que no es un programa oficial con ficha pública, nombrando "The Hop" y "Cervecerías Circulares" como lo real y verificable de la marca. Letra pequeña (exclusividad 5-10 años, rappel 75/25, penalizaciones) presentada explícitamente como algo que se repite en el sector, nunca como condición confirmada de Estrella Galicia. El Reglamento (UE) 2022/720 (límite de 5 años) se usa como el dato con más peso de esa sección. Enlaces a Temas 2 y 4 con nota de "pendiente de publicación". Pasada final de estilo (2026-09-28, instrucción directa de Andrea): tono más conversacional y directo (segunda persona, "vamos a ser claros"), sin tocar el aviso legal/editorial sobre el nombre no oficial ni ningún dato de la letra pequeña, que se cuenta de forma menos "legal" pero con la misma precisión. Pendiente de `blog-revision-seo-calidad`. |
 | 4. Ayudas de Mahou | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/mahou-te-monta-el-bar.md`](articulos/mahou-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** "Bar Uno" no aparece en ningún punto del artículo; el 2º párrafo aclara que no hay programa oficial con el nombre buscado y nombra "+Bar", "Nexho" y "Más con Mahou San Miguel" como lo real y verificable, con detalle de qué ofrece cada uno. La afirmación de Nexho de que la exclusividad "está prohibida en España" **no se repite** — se sustituye por la versión correcta del Reglamento (UE) 2022/720 (limitada a 5 años, no prohibida). El H2 3 construye un ejemplo numérico con supuestos explícitamente declarados como hipotéticos, no como cifras reales de Mahou. Enlaces a Temas 2 y 3 con nota de "pendiente de publicación". Pasada final de estilo (2026-09-28, instrucción directa de Andrea): mismo tono directo y conversacional que en Estrella Galicia, con el aviso sobre "Bar Uno"/nombre no oficial y la corrección a Nexho intactos, sin cambios en el ejemplo numérico ni en ningún otro dato. Pendiente de `blog-revision-seo-calidad`. |
 | 5. Escandallos y food cost | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Ya había sido revisado por `blog-revision-seo-calidad` y por Andrea/Sergio en cuanto a estructura, checklist SEO y enlaces (ver historial arriba: enlace a `escandallo-evitar-desperdicio-restaurante/` verificado real, y enlace añadido a "Cómo calcular la rentabilidad de un negocio de hostelería" para resolver la canibalización). El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe, keywords reforzadas en entradilla y H2 3) sin tocar contenido, datos, ángulo, H1/H2 ni los dos enlaces internos, que se mantienen con las mismas URLs. El dato de Inpulse.ai sigue marcado explícitamente como mercado francés en las dos ocasiones en que aparece. Sigue pendiente, como único punto abierto, que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
-| 6. Diseño de carta de restaurante | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | Prioridad de trabajo: Alta. Redacción final de estilo aplicada el 2026-09-28 por instrucción directa de Andrea: mismo contenido, datos y ángulo del borrador ya aprobado (la estética como última decisión, matriz de ingeniería de menú aplicable a carta con reserva más que a bar de tapas, cruce con food cost y percepción de valor), con las tres keywords ("diseño carta restaurante", "cómo hacer una carta de restaurante", "ingeniería del menú de un restaurante") reforzadas en entradilla, H2 1, H2 3 y meta descripción, y tono más narrativo, menos enumerativo en la sección de los 4 ejes de valor y en la de neurociencia de la elección. Los tres matices de precisión que pedía el brief siguen intactos: raciones grandes/pequeñas como hipótesis sin cerrar, Inpulse.ai marcado como mercado francés, y Cornell/CIA 2007 y las cifras de sector (Bournemouth, +10-15% de beneficio) presentadas explícitamente sin estudio primario verificado. El enlace entre corchetes al Tema 5 sigue pendiente de sustituir por la URL real en cuanto ese artículo se publique. Pendiente de `blog-revision-seo-calidad`. |
+| 6. Diseño de carta de restaurante | 🟡 Borrador (reestructurado) — pendiente de nueva revisión de tono/SEO antes de publicar | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | Prioridad de trabajo: Alta. **Reestructuración de fondo (2026-09-28), instrucción directa de Andrea** (ver detalle completo arriba, no es una pasada de estilo): se recorta el peso del aparato de estudios en "Cruzar rentabilidad con lo que el cliente percibe como valor" (Coca-Cola Lens/Papa John's/McKinsey resumidos a la idea central) y en "Errores en el diseño" (Bournemouth/Cornell-CIA/Gregg Rapp contados de forma breve), y el origen de la matriz (Kasavana y Smith, 1982) queda en una frase. A cambio, se crea una sección propia y central, justo después de explicar los 4 cuadrantes ("Qué hacer con cada tipo de plato: estrellas, caballos de batalla, puzles y perros"), con 2-3 recomendaciones de acción concretas por tipo de plato (precio, ración, posición, proveedor, nombre), el ejemplo de la carta italiana expandido y un segundo ejemplo nuevo de un bar de tapas (croquetas como caballo de batalla, pescado del día como puzle, ensalada genérica como perro, patatas bravas como estrella). Ningún matiz de precisión se ha perdido en el recorte: raciones grandes/pequeñas sigue como hipótesis sin cerrar, Inpulse.ai sigue marcado como mercado francés, Cornell/CIA 2007 sigue marcado como técnica clásica no reciente. Meta descripción y enlaces internos sin cambios (incluido el enlace entre corchetes al Tema 5, aún pendiente de URL real). Checklist y cierre se mantienen, con un ítem añadido al checklist sobre la nueva sección. Pasa a **Borrador** porque este es un cambio de fondo y necesita una nueva pasada completa de `blog-revision-seo-calidad` antes de darlo otra vez por definitivo. |
 | 7. Sanidad y APPCC | 🟡 Borrador (ampliado) — pendiente de nueva revisión de tono/SEO antes de publicar | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe) sin tocar contenido, datos ni ángulo respecto al borrador ya aprobado. H1 y H2 revisados para cubrir explícitamente las keywords de la sección 7 de `listado-temas.md` (plan APPCC restaurante, APPCC restaurante ejemplo, plantilla APPCC restaurante, requisitos sanitarios para abrir un restaurante, seguridad alimentaria restaurante). El matiz del rango de sanción 3.000-30.000€ (fuente única de consultoría, no normativa autonómica contrastada) y toda la normativa citada (Reglamento (CE) 852/2004, RD 1021/2022, RD 109/2010, Ley 1/2025) se mantienen intactos. Sigue sin enlace interno en el cuerpo por falta de uno verificado. **Ampliación de contenido (2026-09-28, instrucción directa de Andrea):** el H2 3 incorpora ahora un reparto de responsabilidades por rol en la operativa diaria del plan APPCC — cocina/cocinero(a) responsable de cámaras y neveras de materia prima y cocción, barra/bartender-barista responsable de neveras y vitrinas de bebida (más productos frescos de barra y limpieza de máquina de café/líneas de cerveza), y encargado de turno/gerente que no rellena registros pero consolida, revisa de verdad y actúa si algo falla. Incluye el porqué de consultoría (quien usa la nevera cada día es quien antes detecta la anomalía) y una cadencia simple (registro diario por zona, revisión semanal del conjunto), sin ofrecer plantilla descargable. No se ha tocado ningún otro contenido del artículo. Pasa a **Borrador** porque este añadido real de contenido requiere nueva pasada de `blog-revision-seo-calidad` antes de considerarlo otra vez definitivo. |
 
 ## Próximo paso
 
-Los 7 temas del proyecto tienen ya su redacción final de estilo aplicada
-(instrucción directa de Andrea, 2026-09-28) — ver tabla de seguimiento.
-Nada más pendiente de `blog-redaccion` en ninguno de los siete, **salvo el
-Tema 7**, que el propio 2026-09-28 recibió una ampliación de contenido
-real (reparto de responsabilidades por rol en el H2 3, pedida
-directamente por Andrea) y vuelve a estar en fase de Borrador hasta que
-`blog-revision-seo-calidad` lo revise de nuevo.
+De los 7 temas del proyecto, 5 (Temas 1, 2, 3, 4 y 5) tienen su redacción
+final de estilo aplicada y están pendientes solo de pasar por
+`blog-revision-seo-calidad` como versión definitiva. Los otros dos, Tema 6
+y Tema 7, volvieron a **Borrador** el 2026-09-28 tras recibir cambios
+reales de contenido pedidos directamente por Andrea (reestructuración de
+fondo en el Tema 6, ampliación del reparto de responsabilidades en el
+Tema 7) y necesitan una revisión completa, no solo una repasada de lo ya
+visto antes.
 
 Todos quedan pendientes de que `blog-revision-seo-calidad` confirme el
-checklist SEO on-page y el tono sobre esta versión final antes de que
+checklist SEO on-page y el tono sobre esta versión antes de que
 Andrea/Sergio los aprueben para publicar. Puntos particulares a vigilar en
 esa revisión:
 
 - **Tema 5:** verificar directamente las cifras de INE/Hosteltur antes de
   publicar en la web en vivo (único punto abierto, ya señalado por
   Andrea/Sergio).
-- **Tema 6:** sustituir el enlace entre corchetes al Tema 5 por la URL real
-  en cuanto ese artículo se publique.
+- **Tema 6:** revisar específicamente el nuevo balance del artículo tras la
+  reestructuración de fondo (menos peso de estudios en las secciones de
+  valor percibido y errores de diseño, nueva sección central de
+  recomendaciones por tipo de plato con los dos ejemplos, carta italiana y
+  bar de tapas) — no es solo repasar lo ya revisado antes. Sustituir además
+  el enlace entre corchetes al Tema 5 por la URL real en cuanto ese
+  artículo se publique.
 - **Tema 7:** revisar específicamente la nueva ampliación del H2 3 (reparto
   cocina/barra/encargado) como parte fresca de contenido, no solo repasar
   lo ya revisado antes.
