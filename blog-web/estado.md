@@ -195,6 +195,26 @@ sesión — todo lo anterior se reconstruyó vía `WebSearch` y se marca así en
 ambos briefs. Ningún dato del ángulo original de estos dos temas queda
 contradicho por lo encontrado.
 
+`blog-redaccion` ha entregado el artículo del Tema 1 (Licencias)
+(2026-09-28), en `blog-web/articulos/licencias-para-abrir-un-restaurante.md`.
+Sigue el ángulo aprobado (licencias como parte del diagnóstico antes de
+firmar el local, con el certificado de compatibilidad urbanística como
+pieza central del H2 sobre qué mirar antes de firmar el alquiler) y separa
+de forma explícita en el cuerpo del texto qué es normativa estatal (Ley
+12/2012, declaración responsable hasta 750 m², distinción inocua/clasificada
+como concepto general) de qué varía por comunidad autónoma o municipio
+(clasificación concreta de actividad y aforo —ejemplo Barcelona marcado
+como no generalizable—, ordenanzas de terraza de Madrid, Granada y
+Valencia). Enlace interno usado: solo el confirmado directamente por el
+orquestador, `https://www.thebarnbarconsulting.com/guia-completa-para-abrir-un-bar/`
+("Guía Completa para Abrir un Bar"), más una mención explícita —marcada
+como "en inglés"— al artículo "Common mistakes when opening a restaurant"
+que cita el brief de investigación, sin usar la página de servicio de
+Madrid ni ninguna otra URL propia que no estuviera ya verificada, tal como
+pidió el orquestador. No se ha inventado ningún dato, plazo ni coste fuera
+de lo que trae el brief de `blog-investigacion`. Pendiente de pasar por
+`blog-revision-seo-calidad`.
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -202,7 +222,7 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 
 | Tema | Fase | Artículo | Notas |
 |---|---|---|---|
-| 1. Licencias para abrir un restaurante | 🟡 Investigación | [`blog-web/investigacion/tema-01-licencias.md`](investigacion/tema-01-licencias.md) | Prioridad de trabajo: Media. Ángulo confirmado y reforzado: TBNB ya tiene contenido propio publicado con el mismo espíritu ("Common mistakes when opening a restaurant", página de Madrid con "no firmes alquiler sin comprobar licencia") — enlaces internos reales encontrados. Hallazgo normativo clave: el certificado de compatibilidad urbanística se comprueba antes de firmar el alquiler. Normativa estatal (Ley 12/2012, declaración responsable) vs. autonómica/municipal (clasificación de actividad, terrazas) separadas explícitamente en el brief — no generalizar cifras de plazos/costes entre municipios. |
+| 1. Licencias para abrir un restaurante | 🟡 Borrador | [`blog-web/articulos/licencias-para-abrir-un-restaurante.md`](articulos/licencias-para-abrir-un-restaurante.md) | Prioridad de trabajo: Media. Artículo redactado a partir de `blog-web/investigacion/tema-01-licencias.md`, con el certificado de compatibilidad urbanística como pieza central del H2-2 y separación explícita de normativa estatal (Ley 12/2012, declaración responsable, inocua/clasificada como concepto) frente a lo que varía por CCAA/municipio (clasificación de actividad y aforo, ordenanzas de terraza). Enlace interno verificado a "Guía Completa para Abrir un Bar"; mención marcada como "en inglés" al artículo de errores comunes. Pendiente de `blog-revision-seo-calidad`. |
 | 2. Ayudas de proveedores para montar un bar | 🟡 Investigación | [`blog-web/investigacion/tema-02-ayudas-proveedores.md`](investigacion/tema-02-ayudas-proveedores.md) | Prioridad de trabajo: Media-alta. Dato legal sólido y citable (Reglamento UE 2022/720, límite de 5 años a la exclusividad). Financiación ICO y renting confirmados como alternativas, con aviso de verificar cifra exacta del ICO (fuente de agregador, no ico.es). Subvenciones públicas: dispersas por comunidad autónoma, sin programa único nacional. |
 | 3. Ayudas de Estrella Galicia | 🟡 Investigación | [`blog-web/investigacion/tema-03-estrella-galicia.md`](investigacion/tema-03-estrella-galicia.md) | Prioridad de trabajo: Alta. **Aviso importante:** no hay evidencia de que sea un programa oficial con ese nombre — lo oficial y verificable es "The Hop" y "Cervecerías Circulares", que no son lo mismo. La letra pequeña (exclusividad, duración 5-10 años, penalizaciones) es patrón de mercado documentado por terceros, no confirmado por la marca — presentarlo así en el artículo. |
 | 4. Ayudas de Mahou | 🟡 Investigación | [`blog-web/investigacion/tema-04-mahou.md`](investigacion/tema-04-mahou.md) | Prioridad de trabajo: Alta. **Aviso importante:** no existe evidencia de una plataforma llamada "Bar Uno" — lo verificable es "+Bar" / "Nexho" / "Más con Mahou San Miguel". Una fuente (Nexho) afirma que la exclusividad "está prohibida en España", lo cual es impreciso frente al Reglamento UE 2022/720 (está limitada a 5 años, no prohibida) — no repetir esa afirmación en el artículo. |
@@ -215,6 +235,9 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 El Tema 5 ya está resuelto y listo para que Andrea/Sergio lo revisen (ver
 tabla de seguimiento) — nada pendiente de `blog-redaccion` en este tema.
 
+El Tema 1 (Licencias) ya tiene borrador entregado (ver tabla de
+seguimiento) — pendiente de pasar por `blog-revision-seo-calidad`.
+
 El Tema 6 puede pasar a `blog-redaccion` (se enlaza con el
 Tema 5, y conviene aprovechar que ambos comparten terreno de autoridad de
 marca). Para el bloque 2/3/4, antes de pasar a redacción conviene que
@@ -224,11 +247,6 @@ nombre) sin perder el ángulo independiente ya aprobado por Andrea — lo más
 seguro es ajustar cómo se nombra el programa en el propio título/entradilla
 sin tocar el H1 ya aprobado más de lo necesario, o confirmarlo primero
 verificando directamente `estrellagalicia.es` y `mahou-sanmiguel.com`
-(ambos bloqueados en esta sesión de investigación). Los Temas 1 y 7, de
-prioridad Media, están listos para pasar a `blog-redaccion` en el bloque
-que se decida trabajar después de los de prioridad Alta — para el Tema 1
-conviene que `blog-redaccion` abra directamente
-`thebarnbarconsulting.com` (bloqueado para esta sesión de investigación)
-para confirmar la literalidad de las frases citadas antes de enlazarlas o
-citarlas en el artículo nuevo — el mismo tipo de verificación directa que
-falta ahora mismo para el enlace del Tema 5.
+(ambos bloqueados en esta sesión de investigación). El Tema 7, de
+prioridad Media, sigue listo para pasar a `blog-redaccion` en el bloque
+que se decida trabajar después de los de prioridad Alta.
