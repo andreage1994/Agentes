@@ -496,6 +496,36 @@ Los tres artículos quedan **pendientes de pasar por
 `blog-revision-seo-calidad`** como versión final antes de que Andrea/Sergio
 los aprueben para publicación en la web en vivo.
 
+**Ampliación de contenido del Tema 7 (2026-09-28), instrucción directa de
+Andrea.** Andrea pidió, sobre el artículo ya en su redacción final, no un
+cambio de estilo sino un aporte real de más contenido: cómo se organizaría
+el plan APPCC en la operativa diaria de verdad, con un reparto de
+responsabilidades por rol. Su idea concreta, con la que `blog-redaccion`
+ha desarrollado la ampliación: que el cocinero o cocinera sea quien
+revisa y registra las cámaras/neveras de materia prima y de cocina, que el
+bartender o barista se encargue de las neveras y vitrinas de bebida
+(incluidos productos frescos de barra y limpieza de máquina de café/líneas
+de cerveza), y que el encargado de turno o gerente no rellene cada
+registro sino que consolide y revise de verdad lo registrado, actuando si
+algo falla. `blog-redaccion` ha ampliado el H2 3 ("Cómo integrar el APPCC
+en el día a día...") con este reparto de responsabilidades, argumentando
+explícitamente el porqué de consultoría: asignar por rol conecta la
+responsabilidad con quien ya tiene el hábito de usar esa nevera cada día y
+quien antes detecta una anomalía (puerta que no cierra, temperatura rara),
+en vez de repartir el papeleo por jerarquía o "quien esté libre". Se
+añadió una cadencia simple (registro diario al abrir turno por zona,
+revisión semanal del conjunto por el encargado) sin ofrecer ninguna
+plantilla descargable, coherente con lo que el propio artículo ya explica
+sobre por qué no se entrega una plantilla genérica. No se ha tocado ningún
+otro contenido del artículo (marco normativo, ejemplo de estructura,
+errores de inspección, cierre) ni ningún dato o cifra ya existente — la
+ampliación queda dentro del H2 3, no como sección nueva, y conecta de
+forma natural con el cierre ya existente sobre la fase Run del BAR Method
+(lo refuerza, no lo sustituye). El artículo pasa de "Redacción final" a
+**Borrador** en la tabla de seguimiento, porque este añadido de contenido
+real requiere una nueva pasada de `blog-revision-seo-calidad` antes de
+darlo otra vez por definitivo.
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -509,13 +539,17 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 | 4. Ayudas de Mahou | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/mahou-te-monta-el-bar.md`](articulos/mahou-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** "Bar Uno" no aparece en ningún punto del artículo; el 2º párrafo aclara que no hay programa oficial con el nombre buscado y nombra "+Bar", "Nexho" y "Más con Mahou San Miguel" como lo real y verificable, con detalle de qué ofrece cada uno. La afirmación de Nexho de que la exclusividad "está prohibida en España" **no se repite** — se sustituye por la versión correcta del Reglamento (UE) 2022/720 (limitada a 5 años, no prohibida). El H2 3 construye un ejemplo numérico con supuestos explícitamente declarados como hipotéticos, no como cifras reales de Mahou. Enlaces a Temas 2 y 3 con nota de "pendiente de publicación". Pasada final de estilo (2026-09-28, instrucción directa de Andrea): mismo tono directo y conversacional que en Estrella Galicia, con el aviso sobre "Bar Uno"/nombre no oficial y la corrección a Nexho intactos, sin cambios en el ejemplo numérico ni en ningún otro dato. Pendiente de `blog-revision-seo-calidad`. |
 | 5. Escandallos y food cost | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Ya había sido revisado por `blog-revision-seo-calidad` y por Andrea/Sergio en cuanto a estructura, checklist SEO y enlaces (ver historial arriba: enlace a `escandallo-evitar-desperdicio-restaurante/` verificado real, y enlace añadido a "Cómo calcular la rentabilidad de un negocio de hostelería" para resolver la canibalización). El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe, keywords reforzadas en entradilla y H2 3) sin tocar contenido, datos, ángulo, H1/H2 ni los dos enlaces internos, que se mantienen con las mismas URLs. El dato de Inpulse.ai sigue marcado explícitamente como mercado francés en las dos ocasiones en que aparece. Sigue pendiente, como único punto abierto, que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
 | 6. Diseño de carta de restaurante | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | Prioridad de trabajo: Alta. Redacción final de estilo aplicada el 2026-09-28 por instrucción directa de Andrea: mismo contenido, datos y ángulo del borrador ya aprobado (la estética como última decisión, matriz de ingeniería de menú aplicable a carta con reserva más que a bar de tapas, cruce con food cost y percepción de valor), con las tres keywords ("diseño carta restaurante", "cómo hacer una carta de restaurante", "ingeniería del menú de un restaurante") reforzadas en entradilla, H2 1, H2 3 y meta descripción, y tono más narrativo, menos enumerativo en la sección de los 4 ejes de valor y en la de neurociencia de la elección. Los tres matices de precisión que pedía el brief siguen intactos: raciones grandes/pequeñas como hipótesis sin cerrar, Inpulse.ai marcado como mercado francés, y Cornell/CIA 2007 y las cifras de sector (Bournemouth, +10-15% de beneficio) presentadas explícitamente sin estudio primario verificado. El enlace entre corchetes al Tema 5 sigue pendiente de sustituir por la URL real en cuanto ese artículo se publique. Pendiente de `blog-revision-seo-calidad`. |
-| 7. Sanidad y APPCC | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe) sin tocar contenido, datos ni ángulo respecto al borrador ya aprobado. H1 y H2 revisados para cubrir explícitamente las keywords de la sección 7 de `listado-temas.md` (plan APPCC restaurante, APPCC restaurante ejemplo, plantilla APPCC restaurante, requisitos sanitarios para abrir un restaurante, seguridad alimentaria restaurante). El matiz del rango de sanción 3.000-30.000€ (fuente única de consultoría, no normativa autonómica contrastada) y toda la normativa citada (Reglamento (CE) 852/2004, RD 1021/2022, RD 109/2010, Ley 1/2025) se mantienen intactos. Sigue sin enlace interno en el cuerpo por falta de uno verificado. Pendiente de `blog-revision-seo-calidad`. |
+| 7. Sanidad y APPCC | 🟡 Borrador (ampliado) — pendiente de nueva revisión de tono/SEO antes de publicar | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe) sin tocar contenido, datos ni ángulo respecto al borrador ya aprobado. H1 y H2 revisados para cubrir explícitamente las keywords de la sección 7 de `listado-temas.md` (plan APPCC restaurante, APPCC restaurante ejemplo, plantilla APPCC restaurante, requisitos sanitarios para abrir un restaurante, seguridad alimentaria restaurante). El matiz del rango de sanción 3.000-30.000€ (fuente única de consultoría, no normativa autonómica contrastada) y toda la normativa citada (Reglamento (CE) 852/2004, RD 1021/2022, RD 109/2010, Ley 1/2025) se mantienen intactos. Sigue sin enlace interno en el cuerpo por falta de uno verificado. **Ampliación de contenido (2026-09-28, instrucción directa de Andrea):** el H2 3 incorpora ahora un reparto de responsabilidades por rol en la operativa diaria del plan APPCC — cocina/cocinero(a) responsable de cámaras y neveras de materia prima y cocción, barra/bartender-barista responsable de neveras y vitrinas de bebida (más productos frescos de barra y limpieza de máquina de café/líneas de cerveza), y encargado de turno/gerente que no rellena registros pero consolida, revisa de verdad y actúa si algo falla. Incluye el porqué de consultoría (quien usa la nevera cada día es quien antes detecta la anomalía) y una cadencia simple (registro diario por zona, revisión semanal del conjunto), sin ofrecer plantilla descargable. No se ha tocado ningún otro contenido del artículo. Pasa a **Borrador** porque este añadido real de contenido requiere nueva pasada de `blog-revision-seo-calidad` antes de considerarlo otra vez definitivo. |
 
 ## Próximo paso
 
 Los 7 temas del proyecto tienen ya su redacción final de estilo aplicada
 (instrucción directa de Andrea, 2026-09-28) — ver tabla de seguimiento.
-Nada más pendiente de `blog-redaccion` en ninguno de los siete.
+Nada más pendiente de `blog-redaccion` en ninguno de los siete, **salvo el
+Tema 7**, que el propio 2026-09-28 recibió una ampliación de contenido
+real (reparto de responsabilidades por rol en el H2 3, pedida
+directamente por Andrea) y vuelve a estar en fase de Borrador hasta que
+`blog-revision-seo-calidad` lo revise de nuevo.
 
 Todos quedan pendientes de que `blog-revision-seo-calidad` confirme el
 checklist SEO on-page y el tono sobre esta versión final antes de que
@@ -527,6 +561,9 @@ esa revisión:
   Andrea/Sergio).
 - **Tema 6:** sustituir el enlace entre corchetes al Tema 5 por la URL real
   en cuanto ese artículo se publique.
+- **Tema 7:** revisar específicamente la nueva ampliación del H2 3 (reparto
+  cocina/barra/encargado) como parte fresca de contenido, no solo repasar
+  lo ya revisado antes.
 - **Bloque 2/3/4:** sustituir las notas de "enlace pendiente de
   publicación" entre los tres artículos por URLs reales en cuanto se
   publiquen (ninguno de los tres tiene URL propia todavía), y confirmar
@@ -534,3 +571,4 @@ esa revisión:
   (Estrella Galicia / Mahou) sigue quedando resuelto con el mismo criterio
   tras la pasada de estilo final — el aviso se mantiene íntegro en
   contenido, solo contado de forma más conversacional.
+</content>

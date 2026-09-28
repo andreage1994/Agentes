@@ -93,6 +93,44 @@ En la práctica, eso significa:
 - Alguien revisa esos registros de forma periódica —no solo cuando se
   anuncia una inspección—.
 
+Ese "responsable con nombre" tiene, además, un criterio de reparto claro:
+por rol, no por quien esté libre en ese momento. No es lo mismo asignar
+un registro a "el responsable de turno" en abstracto que asignarlo a
+quien usa esa nevera todos los días. Y aquí es donde la mayoría de planes
+APPCC se quedan cortos — reparten el papeleo por jerarquía, no por quién
+tiene el hábito.
+
+En cocina, el control de temperaturas de cámaras y neveras de materia
+prima, la vigilancia de la cocción y la trazabilidad de lo que entra por
+la puerta de proveedores es tarea del cocinero o cocinera de turno. No
+porque sea quien "manda" en cocina, sino porque es quien abre esa cámara
+diez veces al día y quien antes nota si algo no cuadra: una puerta que ya
+no cierra del todo, un compresor que suena distinto, una temperatura que
+ha subido dos grados desde ayer sin que nadie se haya dado cuenta.
+
+En barra pasa exactamente lo mismo, con otra nevera y otro nombre. Las
+neveras y vitrinas de bebida, los productos frescos que se usan en barra
+—leche, zumos, fruta cortada— y la limpieza de la máquina de café o de
+las líneas de cerveza son responsabilidad del bartender o barista, porque
+es quien las usa en cada turno. Pedirle ese registro a alguien de cocina
+que no pisa la barra es asignar una tarea a quien no tiene ni el hábito
+ni, casi siempre, el ojo entrenado para detectar la anomalía a tiempo.
+
+El encargado de turno o el gerente no necesita rellenar ninguno de los
+dos registros — y de hecho no debería, porque diluye la responsabilidad
+de quien sí tiene el contacto diario con esa nevera concreta. Su trabajo
+es otro, y en realidad más importante: consolidar lo que cocina y barra
+han registrado, revisarlo de verdad —no solo comprobar que las casillas
+están marcadas— y actuar cuando algo falla. Ahí está la diferencia entre
+que exista el dato y que alguien lo mire.
+
+Una cadencia sencilla sostiene este reparto sin convertirlo en
+burocracia: registro diario al abrir turno, cada uno en su zona, y
+revisión semanal del conjunto por parte del encargado. No hace falta más
+estructura que esa. Hace falta, eso sí, que cada registro tenga detrás a
+la persona que de verdad puede detectar el problema antes de que se
+convierta en sanción — no a quien le tocó ese día.
+
 Buen ejemplo de que esto no es solo teoría: la **Ley 1/2025, de 1 de
 abril, de prevención de las pérdidas y el desperdicio alimentario**
 introduce obligaciones muy concretas para restauración que ya están en
@@ -147,3 +185,4 @@ lo rellena cada día sin que se lo pidan. Esa es la diferencia entre
 diseñar un sistema y sostenerlo — que es, al final, de lo que trata la
 fase Run del BAR Method: no basta con dejarlo bien montado el primer día,
 hay que hacer que siga funcionando cuando ya nadie está mirando.
+</content>
