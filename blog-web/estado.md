@@ -266,6 +266,58 @@ artículo aún no está publicado en la web en vivo — pendiente de sustituir
 por la URL real en cuanto se publique. Pendiente de pasar por
 `blog-revision-seo-calidad`.
 
+`blog-redaccion` ha entregado los tres artículos del bloque "ayudas de
+proveedores" (2026-09-28): `blog-web/articulos/ayudas-para-montar-un-bar.md`
+(Tema 2), `blog-web/articulos/estrella-galicia-te-monta-el-bar.md` (Tema 3)
+y `blog-web/articulos/mahou-te-monta-el-bar.md` (Tema 4). Los tres siguen
+el ángulo "abogado del hostelero" ya aprobado por Andrea (qué se cede,
+qué preguntar antes de firmar, cuándo compensa según el tipo de concepto),
+manteniendo los H1 y H2 ya definidos por `blog-estrategia-seo` sin
+tocarlos.
+
+**Cómo se resolvió el aviso sobre nombres de programa no verificados**
+(el pendiente que dejaba abierto `blog-estrategia-seo` en la sección
+"Próximo paso"): se optó por mantener el H1 y la keyword de búsqueda tal
+cual en título y entradilla de los Temas 3 y 4 (para no perder el tráfico
+de la expresión buscada), pero en el segundo/tercer párrafo de cada
+artículo se aclara explícitamente, sin rodeos, que no hay evidencia de que
+sea el nombre oficial de un producto con ficha publicada por la marca, y se
+nombran los programas reales y verificables como alternativa de contacto:
+"The Hop" y "Cervecerías Circulares" en el artículo de Estrella Galicia;
+"+Bar", "Nexho" y "Más con Mahou San Miguel" en el de Mahou (la palabra
+"Bar Uno" no aparece en ningún punto del artículo de Mahou, tal como pedía
+el aviso). Toda la letra pequeña (duración, exclusividad, rappel,
+penalizaciones) se presenta en los dos artículos como "práctica habitual
+del sector" o "patrón de mercado documentado por terceros", nunca como
+condición confirmada de una marca concreta. El dato del Reglamento (UE)
+2022/720 (límite de 5 años a la exención de competencia en cláusulas de
+exclusividad, salvo local en propiedad/arrendado por el proveedor) se usa
+en los tres artículos como el dato duro que sostiene la sección de letra
+pequeña, con más peso que cualquier cifra de blog sin verificación
+independiente. La afirmación de Nexho de que la exclusividad "está
+prohibida en España" **no se repite** en el artículo de Mahou — se sustituye
+por la versión correcta y sourceada del reglamento europeo (limitada en el
+tiempo, no prohibida), tal como exigía el aviso explícitamente.
+
+El Tema 2 enlaza a los Temas 3 y 4 como "casos concretos" (H2 4) y estos, a
+su vez, enlazan de vuelta al Tema 2 y entre sí — en los tres casos con
+menciones de texto ("el artículo sobre Estrella Galicia" / "el artículo
+sobre Mahou" / "el artículo sobre ayudas de proveedores") seguidas de una
+nota en cursiva entre paréntesis que dice explícitamente que el enlace
+interno está pendiente de añadir cuando el artículo correspondiente esté
+publicado — no se ha inventado ninguna URL de `thebarnbarconsulting.com`
+para estos tres artículos, porque ninguno está publicado todavía en la web
+en vivo. El H2 4 del Tema 2 también cita el dato de Inpulse.ai
+(`hospitality-report/matriz-tematica.md`) para cerrar con la idea de que
+aceptar una ayuda no resuelve un modelo económico que no cuadra, con la
+misma cita textual ya usada en el artículo del Tema 5 ("las tendencias
+atraen a los clientes, los márgenes los retienen"). La cifra de
+financiación ICO (hasta 500.000€) se presenta en el Tema 2 con el aviso
+explícito de que procede de agregadores financieros, no de lectura directa
+en ico.es. Ningún dato de los tres artículos es ajeno a los tres briefs de
+investigación correspondientes. Los tres artículos quedan **pendientes de
+pasar por `blog-revision-seo-calidad`**.
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -274,9 +326,9 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 | Tema | Fase | Artículo | Notas |
 |---|---|---|---|
 | 1. Licencias para abrir un restaurante | 🟡 Borrador | [`blog-web/articulos/licencias-para-abrir-un-restaurante.md`](articulos/licencias-para-abrir-un-restaurante.md) | Prioridad de trabajo: Media. Artículo redactado a partir de `blog-web/investigacion/tema-01-licencias.md`, con el certificado de compatibilidad urbanística como pieza central del H2-2 y separación explícita de normativa estatal (Ley 12/2012, declaración responsable, inocua/clasificada como concepto) frente a lo que varía por CCAA/municipio (clasificación de actividad y aforo, ordenanzas de terraza). Enlace interno verificado a "Guía Completa para Abrir un Bar"; mención marcada como "en inglés" al artículo de errores comunes. Pendiente de `blog-revision-seo-calidad`. |
-| 2. Ayudas de proveedores para montar un bar | 🟡 Investigación | [`blog-web/investigacion/tema-02-ayudas-proveedores.md`](investigacion/tema-02-ayudas-proveedores.md) | Prioridad de trabajo: Media-alta. Dato legal sólido y citable (Reglamento UE 2022/720, límite de 5 años a la exclusividad). Financiación ICO y renting confirmados como alternativas, con aviso de verificar cifra exacta del ICO (fuente de agregador, no ico.es). Subvenciones públicas: dispersas por comunidad autónoma, sin programa único nacional. |
-| 3. Ayudas de Estrella Galicia | 🟡 Investigación | [`blog-web/investigacion/tema-03-estrella-galicia.md`](investigacion/tema-03-estrella-galicia.md) | Prioridad de trabajo: Alta. **Aviso importante:** no hay evidencia de que sea un programa oficial con ese nombre — lo oficial y verificable es "The Hop" y "Cervecerías Circulares", que no son lo mismo. La letra pequeña (exclusividad, duración 5-10 años, penalizaciones) es patrón de mercado documentado por terceros, no confirmado por la marca — presentarlo así en el artículo. |
-| 4. Ayudas de Mahou | 🟡 Investigación | [`blog-web/investigacion/tema-04-mahou.md`](investigacion/tema-04-mahou.md) | Prioridad de trabajo: Alta. **Aviso importante:** no existe evidencia de una plataforma llamada "Bar Uno" — lo verificable es "+Bar" / "Nexho" / "Más con Mahou San Miguel". Una fuente (Nexho) afirma que la exclusividad "está prohibida en España", lo cual es impreciso frente al Reglamento UE 2022/720 (está limitada a 5 años, no prohibida) — no repetir esa afirmación en el artículo. |
+| 2. Ayudas de proveedores para montar un bar | 🟡 Borrador | [`blog-web/articulos/ayudas-para-montar-un-bar.md`](articulos/ayudas-para-montar-un-bar.md) | Prioridad de trabajo: Media-alta. Artículo "paraguas" de los Temas 3 y 4: distingue subvenciones públicas dispersas por CCAA (sin programa único nacional) de acuerdos comerciales con proveedores, cuantifica el coste de la exclusividad con el Reglamento (UE) 2022/720 como dato legal de respaldo (límite de 5 años), presenta ICO/renting como alternativas (cifra ICO marcada como de agregador, pendiente de verificar en ico.es) y cierra citando Inpulse.ai (hospitality-report). Enlaza a los Temas 3 y 4 en el H2 4 con nota "enlace pendiente de publicación" en vez de URL inventada. Pendiente de `blog-revision-seo-calidad`. |
+| 3. Ayudas de Estrella Galicia | 🟡 Borrador | [`blog-web/articulos/estrella-galicia-te-monta-el-bar.md`](articulos/estrella-galicia-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** el H1/entradilla mantiene la keyword buscada, pero el 2º párrafo aclara sin rodeos que no es un programa oficial con ficha pública, y nombra "The Hop" y "Cervecerías Circulares" como lo real y verificable de la marca. Letra pequeña (exclusividad 5-10 años, rappel 75/25, penalizaciones) presentada explícitamente como "patrón de mercado documentado por terceros", nunca como condición confirmada de Estrella Galicia. El Reglamento (UE) 2022/720 (límite de 5 años) se usa como el dato con más peso de esa sección. Enlaces a Temas 2 y 4 con nota de "pendiente de publicación". Pendiente de `blog-revision-seo-calidad`. |
+| 4. Ayudas de Mahou | 🟡 Borrador | [`blog-web/articulos/mahou-te-monta-el-bar.md`](articulos/mahou-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** "Bar Uno" no aparece en ningún punto del artículo; el 2º párrafo aclara que no hay programa oficial con el nombre buscado y nombra "+Bar", "Nexho" y "Más con Mahou San Miguel" como lo real y verificable, con detalle de qué ofrece cada uno. La afirmación de Nexho de que la exclusividad "está prohibida en España" **no se repite** — se sustituye por la versión correcta del Reglamento (UE) 2022/720 (limitada a 5 años, no prohibida). El H2 3 construye un ejemplo numérico con supuestos explícitamente declarados como hipotéticos, no como cifras reales de Mahou. Enlaces a Temas 2 y 3 con nota de "pendiente de publicación". Pendiente de `blog-revision-seo-calidad`. |
 | 5. Escandallos y food cost | 🟢 Listo para revisión de Andrea/Sergio | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Revisado por `blog-revision-seo-calidad` (2026-09-28): checklist SEO y prueba de "relevante vs. relleno" superados. Los dos motivos de devolución quedaron resueltos por el orquestador el mismo día: (1) el enlace a `escandallo-evitar-desperdicio-restaurante/` era real, verificado directamente — no era un slug inventado; (2) se añadió una frase de cierre que diferencia explícitamente este artículo (food cost) de "Cómo calcular la rentabilidad de un negocio de hostelería" (todos los costes), con enlace real. Pendiente solo de que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
 | 6. Diseño de carta de restaurante | 🟡 Borrador | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | `blog-redaccion` ha entregado el borrador (2026-09-28), respetando el ángulo y los dos matices pedidos por el brief (raciones grandes/pequeñas como hipótesis según ocasión de consumo, y matriz de ingeniería de menú explicada como más aplicable a carta con reserva que a bar de tapas, dicho ya en el H2 1). El enlace al Tema 5 queda marcado entre corchetes a la espera de que ese artículo esté publicado. Pendiente de pasar a `blog-revision-seo-calidad`. |
 | 7. Sanidad y APPCC | 🟡 Borrador | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. Borrador entregado por `blog-redaccion` (2026-09-28): usa el hallazgo de "registros APPCC sin cumplimentar" como prueba central, incorpora la Ley 1/2025 de prevención del desperdicio alimentario (envase gratuito salvo bufé libre, formación de personal, sanciones hasta 500.000€) en el H2 de integración diaria, y presenta el rango de sanción 3.000-30.000€ con el matiz de fuente única de consultoría, no normativa autonómica contrastada. Sin enlace interno en el cuerpo por falta de uno verificado — nota aparte sobre posible conexión futura con el Tema 1. Pendiente de `blog-revision-seo-calidad`. |
@@ -286,17 +338,16 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 El Tema 5 ya está resuelto y listo para que Andrea/Sergio lo revisen (ver
 tabla de seguimiento) — nada pendiente de `blog-redaccion` en este tema.
 
-Los Temas 1 (Licencias), 6 (Diseño de carta) y 7 (APPCC) ya tienen borrador
-entregado (ver tabla de seguimiento) — los tres pendientes de pasar por
+Los Temas 1 (Licencias), 2 (Ayudas de proveedores), 3 (Estrella Galicia), 4
+(Mahou), 6 (Diseño de carta) y 7 (APPCC) ya tienen borrador entregado (ver
+tabla de seguimiento) — los seis pendientes de pasar por
 `blog-revision-seo-calidad`. Para el Tema 6, importante revisar en
 particular que el enlace entre corchetes al Tema 5 se sustituya por la URL
-real en cuanto ese artículo se publique.
-
-Para el bloque 2/3/4, antes de pasar a redacción conviene que
-`blog-estrategia-seo` decida cómo encajar el aviso sobre nombres de
-programa no verificados (especialmente "Bar Uno", que no existe con ese
-nombre) sin perder el ángulo independiente ya aprobado por Andrea — lo más
-seguro es ajustar cómo se nombra el programa en el propio título/entradilla
-sin tocar el H1 ya aprobado más de lo necesario, o confirmarlo primero
-verificando directamente `estrellagalicia.es` y `mahou-sanmiguel.com`
-(ambos bloqueados en esta sesión de investigación).
+real en cuanto ese artículo se publique. Para el bloque 2/3/4, importante
+revisar en particular que las notas de "enlace pendiente de publicación"
+entre los tres artículos se sustituyan por URLs reales en cuanto se
+publiquen (ninguno de los tres tiene URL propia todavía), y que
+`blog-revision-seo-calidad` confirme que el tratamiento del aviso sobre
+nombres de programa no verificados (Estrella Galicia / Mahou) queda
+resuelto con el criterio aplicado por `blog-redaccion` antes de dar el
+visto bueno definitivo.
