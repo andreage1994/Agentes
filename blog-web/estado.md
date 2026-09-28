@@ -347,6 +347,35 @@ en ico.es. Ningún dato de los tres artículos es ajeno a los tres briefs de
 investigación correspondientes. Los tres artículos quedan **pendientes de
 pasar por `blog-revision-seo-calidad`**.
 
+`blog-redaccion` ha entregado la redacción final del Tema 7 (APPCC)
+(2026-09-28), sobrescribiendo
+`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`. Es la misma
+pasada de estilo pedida por Andrea para las 7 piezas del proyecto (versión
+final lista para web): no cambia contenido, datos ni ángulo respecto al
+borrador ya aprobado, solo la forma. Se quitó cualquier rastro de tono de
+informe ("según fuentes especializadas del sector" pasa a una voz de marca
+en primera persona, sin sonar a paper) y se ganó cercanía manteniendo
+intacto cada matiz de precisión: el rango de sanción "3.000-30.000 €" sigue
+explicando en el cuerpo del texto, de forma más natural, que es una
+referencia de una única fuente de consultoría (no normativa autonómica
+contrastada por comunidad), y toda la normativa citada (Reglamento (CE)
+852/2004, RD 1021/2022, RD 109/2010, Ley 1/2025) se mantiene tal cual. Se
+revisaron también las keywords reales de la sección 7 de
+`listado-temas.md`: el H1 pasa a "Plan APPCC en un restaurante..." para
+incluir "plan APPCC restaurante", el H2 1 se reescribe como "Requisitos
+sanitarios para abrir un restaurante: APPCC, registro y qué exige la ley"
+(cubre "requisitos sanitarios para abrir un restaurante"), el H2 2 pasa a
+"Ejemplo de plan APPCC y plantilla práctica para un bar o restaurante
+real" (cubre "APPCC restaurante ejemplo" y "plantilla APPCC restaurante"),
+el H2 3 incorpora "seguridad alimentaria del restaurante" en el propio
+título, y el H2 4 pasa a "Errores que se pagan caro en una inspección de
+seguridad alimentaria" (cubre "seguridad alimentaria restaurante"). La
+meta descripción se reescribió en el mismo tono (151 caracteres) sin
+convertirse en texto de marketing separado del artículo. Sigue sin enlace
+interno en el cuerpo, por el mismo motivo de origen (ninguno verificado
+para este tema). Pendiente de pasar por `blog-revision-seo-calidad` antes
+de publicar en la web en vivo.
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -360,7 +389,7 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 | 4. Ayudas de Mahou | 🟡 Borrador | [`blog-web/articulos/mahou-te-monta-el-bar.md`](articulos/mahou-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** "Bar Uno" no aparece en ningún punto del artículo; el 2º párrafo aclara que no hay programa oficial con el nombre buscado y nombra "+Bar", "Nexho" y "Más con Mahou San Miguel" como lo real y verificable, con detalle de qué ofrece cada uno. La afirmación de Nexho de que la exclusividad "está prohibida en España" **no se repite** — se sustituye por la versión correcta del Reglamento (UE) 2022/720 (limitada a 5 años, no prohibida). El H2 3 construye un ejemplo numérico con supuestos explícitamente declarados como hipotéticos, no como cifras reales de Mahou. Enlaces a Temas 2 y 3 con nota de "pendiente de publicación". Pendiente de `blog-revision-seo-calidad`. |
 | 5. Escandallos y food cost | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Ya había sido revisado por `blog-revision-seo-calidad` y por Andrea/Sergio en cuanto a estructura, checklist SEO y enlaces (ver historial arriba: enlace a `escandallo-evitar-desperdicio-restaurante/` verificado real, y enlace añadido a "Cómo calcular la rentabilidad de un negocio de hostelería" para resolver la canibalización). El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe, keywords reforzadas en entradilla y H2 3) sin tocar contenido, datos, ángulo, H1/H2 ni los dos enlaces internos, que se mantienen con las mismas URLs. El dato de Inpulse.ai sigue marcado explícitamente como mercado francés en las dos ocasiones en que aparece. Sigue pendiente, como único punto abierto, que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
 | 6. Diseño de carta de restaurante | 🟡 Borrador | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | `blog-redaccion` ha entregado el borrador (2026-09-28), respetando el ángulo y los dos matices pedidos por el brief (raciones grandes/pequeñas como hipótesis según ocasión de consumo, y matriz de ingeniería de menú explicada como más aplicable a carta con reserva que a bar de tapas, dicho ya en el H2 1). El enlace al Tema 5 queda marcado entre corchetes a la espera de que ese artículo esté publicado. Pendiente de pasar a `blog-revision-seo-calidad`. |
-| 7. Sanidad y APPCC | 🟡 Borrador | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. Borrador entregado por `blog-redaccion` (2026-09-28): usa el hallazgo de "registros APPCC sin cumplimentar" como prueba central, incorpora la Ley 1/2025 de prevención del desperdicio alimentario (envase gratuito salvo bufé libre, formación de personal, sanciones hasta 500.000€) en el H2 de integración diaria, y presenta el rango de sanción 3.000-30.000€ con el matiz de fuente única de consultoría, no normativa autonómica contrastada. Sin enlace interno en el cuerpo por falta de uno verificado — nota aparte sobre posible conexión futura con el Tema 1. Pendiente de `blog-revision-seo-calidad`. |
+| 7. Sanidad y APPCC | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe) sin tocar contenido, datos ni ángulo respecto al borrador ya aprobado. H1 y H2 revisados para cubrir explícitamente las keywords de la sección 7 de `listado-temas.md` (plan APPCC restaurante, APPCC restaurante ejemplo, plantilla APPCC restaurante, requisitos sanitarios para abrir un restaurante, seguridad alimentaria restaurante). El matiz del rango de sanción 3.000-30.000€ (fuente única de consultoría, no normativa autonómica contrastada) y toda la normativa citada (Reglamento (CE) 852/2004, RD 1021/2022, RD 109/2010, Ley 1/2025) se mantienen intactos. Sigue sin enlace interno en el cuerpo por falta de uno verificado. Pendiente de `blog-revision-seo-calidad`. |
 
 ## Próximo paso
 
@@ -370,16 +399,21 @@ directa de las cifras de INE/Hosteltur antes de publicar en la web en vivo
 (ver tabla de seguimiento) — nada más pendiente de `blog-redaccion` en
 este tema.
 
+El Tema 7 también tiene ya su redacción final de estilo aplicada
+(2026-09-28, misma instrucción directa de Andrea) — pendiente de que
+`blog-revision-seo-calidad` confirme que el estilo más ameno no ha perdido
+rigor SEO ni ningún matiz de precisión (rango de sanción, normativa
+citada) antes de que Andrea/Sergio lo aprueben para publicar.
+
 Los Temas 1 (Licencias), 2 (Ayudas de proveedores), 3 (Estrella Galicia), 4
-(Mahou), 6 (Diseño de carta) y 7 (APPCC) ya tienen borrador entregado (ver
-tabla de seguimiento) — los seis pendientes de pasar por
-`blog-revision-seo-calidad`. Para el Tema 6, importante revisar en
-particular que el enlace entre corchetes al Tema 5 se sustituya por la URL
-real en cuanto ese artículo se publique. Para el bloque 2/3/4, importante
-revisar en particular que las notas de "enlace pendiente de publicación"
-entre los tres artículos se sustituyan por URLs reales en cuanto se
-publiquen (ninguno de los tres tiene URL propia todavía), y que
-`blog-revision-seo-calidad` confirme que el tratamiento del aviso sobre
-nombres de programa no verificados (Estrella Galicia / Mahou) queda
-resuelto con el criterio aplicado por `blog-redaccion` antes de dar el
-visto bueno definitivo.
+(Mahou) y 6 (Diseño de carta) siguen con borrador entregado (ver tabla de
+seguimiento) — pendientes de pasar por `blog-revision-seo-calidad`. Para
+el Tema 6, importante revisar en particular que el enlace entre corchetes
+al Tema 5 se sustituya por la URL real en cuanto ese artículo se publique.
+Para el bloque 2/3/4, importante revisar en particular que las notas de
+"enlace pendiente de publicación" entre los tres artículos se sustituyan
+por URLs reales en cuanto se publiquen (ninguno de los tres tiene URL
+propia todavía), y que `blog-revision-seo-calidad` confirme que el
+tratamiento del aviso sobre nombres de programa no verificados (Estrella
+Galicia / Mahou) queda resuelto con el criterio aplicado por
+`blog-redaccion` antes de dar el visto bueno definitivo.
