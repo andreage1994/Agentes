@@ -40,6 +40,28 @@ trabajo en la próxima ronda, no tienen ficha propia):
   0-10 (GastroRanking), no de una nota de Google/TripAdvisor en escala 0-5
   confirmada de forma independiente.
 
+## Hoja de cálculo (Drive)
+
+La hoja original "Potential spotting" en Drive tenía mucha información
+duplicada (la tabla de Fases repetida 3 veces, dos listas de contactos casi
+idénticas, notas de cada local con formato inconsistente). Se creó una
+versión reestructurada, **"Potential Spotting v2 (reestructurado)"**
+(<https://docs.google.com/spreadsheets/d/1YrQDrJRhJh2evjcTZhdIZO_NMlEKQT7mr2ZnOhgTPKA/edit>),
+en la misma carpeta de Drive, con 4 pestañas en vez de 7:
+
+- **Pipeline** — una fila por local (sustituye a `Base datos` + `DIGITAL
+  SPOTTING`), ya con los 5 candidatos nuevos de esta tanda de digital
+  spotting.
+- **Fases** — la tabla de las 6 fases una sola vez, con las dos frases de
+  posicionamiento de TBNB arriba.
+- **Plantillas** — el email real (dos variantes) y la plantilla en blanco
+  de "Notas desde la Barra", cada uno en su sitio.
+- **Notas** — pestaña lista para recibir cada "Nota desde la Barra" ya
+  redactada, en vez de una pestaña suelta por local con formato distinto.
+
+Es una propuesta para que Andrea/Sergio la revisen — la hoja original no se
+ha tocado ni borrado.
+
 ## Seguimiento de candidatos
 
 Se rellena a medida que `potential-spotting-research` identifica locales.
