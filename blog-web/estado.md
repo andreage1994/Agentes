@@ -376,6 +376,69 @@ interno en el cuerpo, por el mismo motivo de origen (ninguno verificado
 para este tema). Pendiente de pasar por `blog-revision-seo-calidad` antes
 de publicar en la web en vivo.
 
+**Redacción final (2026-09-28), instrucción directa de Andrea, aplicada
+ahora a los Temas 1 (Licencias) y 6 (Diseño de carta).** Mismo criterio de
+la pasada final ya aplicada a los Temas 5 y 7: (1) redacción definitiva
+lista para publicar en la web; (2) amena, sin perder las keywords reales
+de `listado-temas.md` — Tema 1: "licencias para abrir un restaurante",
+"licencia para abrir un restaurante", "licencias para abrir un restaurante
+en España"; Tema 6: "diseño carta restaurante", "cómo hacer una carta de
+restaurante", "ingeniería del menú de un restaurante" — reforzadas de
+forma natural en título, entradilla y al menos un H2; y (3) sin rastro de
+tono de informe (fuera hedges encadenados tipo "según una cifra que
+circula... sin un estudio académico único que la sustente, pero repetida
+por varias fuentes de software de gestión"), con voz de alguien de TBNB
+que conoce el sector, no que presenta datos.
+
+Para el **Tema 1**: se reforzó la keyword singular ("qué licencia
+necesitas para abrir un restaurante") en la entradilla, y el H2 1 pasa a
+titularse "Qué licencias para abrir un restaurante existen en España, y
+cuál te corresponde" (antes solo "Qué licencias existen y cuál te
+corresponde según tu concepto"), incorporando así las tres variantes de
+keyword sin forzar la redacción. La meta descripción se reescribió para
+incluir explícitamente "licencias para abrir un restaurante en España".
+Se mantiene intacta la separación entre normativa estatal (Ley 12/2012,
+declaración responsable, distinción inocua/clasificada como concepto
+general) y lo que varía por comunidad autónoma o municipio (el ejemplo de
+Barcelona sigue marcado explícitamente como no generalizable; las
+ordenanzas de terraza de Madrid, Granada y Valencia se mantienen como tres
+casos distintos, no intercambiables). El enlace interno a la
+["Guía Completa para Abrir un Bar"](https://www.thebarnbarconsulting.com/guia-completa-para-abrir-un-bar/)
+se mantiene exactamente igual, con la misma URL ya verificada. Los datos,
+el orden de trámites, los errores de consultoría y el checklist no han
+cambiado — solo la redacción es más fluida y menos enumerativa en algunos
+tramos (por ejemplo, el ejemplo de Barcelona pasa de "un ejemplo real,
+solo para ilustrar el mecanismo, no para generalizarlo" a "un ejemplo para
+verlo claro, sin generalizarlo", mismo matiz, menos tono de nota al pie).
+
+Para el **Tema 6**: la entradilla incorpora explícitamente "cómo hacer una
+carta de restaurante", y el H2 1 pasa a titularse "Qué es la ingeniería
+del menú de un restaurante, y por qué precede al diseño de la carta"
+(antes "Qué es la ingeniería de menú y por qué precede al diseño
+gráfico"), cubriendo así la keyword de mayor volumen de todo el listado
+("ingeniería del menú de un restaurante") de forma literal. El H2 3 pasa a
+"Errores en el diseño de la carta de un restaurante que cuestan dinero"
+para reforzar también ahí "diseño... carta... restaurante". La meta
+descripción se reescribió para incluir "diseño de la carta de un
+restaurante" y "cómo hacer una carta de restaurante" a la vez. Se quitó el
+lenguaje más "de informe" —por ejemplo, la enumeración con porcentajes
+encadenados de los 4 ejes de Coca-Cola Lens pasa a una frase narrativa que
+mantiene las cuatro cifras exactas; "un estudio de neurociencia... activación
+en estriado dorsal y corteza cingulada anterior" se simplifica a "el
+cerebro literalmente se satura", sin perder la referencia a que hay
+estudios de neurociencia del comportamiento detrás— pero **ningún matiz de
+precisión se ha tocado**: la tensión "raciones grandes vs. pequeñas" sigue
+descrita explícitamente como "una hipótesis nuestra, todavía por validar,
+no una conclusión cerrada"; el dato de Inpulse.ai sigue marcado como
+mercado francés, no español; el estudio Cornell/CIA de 2007 sigue
+presentado como "ningún hallazgo reciente" aunque siga siendo la
+referencia del sector; y las cifras sin estudio primario (el +10-15% de
+beneficio por rediseño de carta, la cifra de Bournemouth University) siguen
+marcadas explícitamente como no verificadas en fuente original. El enlace
+entre corchetes al Tema 5 (`[enlazar cuando esté publicado: URL final del
+artículo de food cost]`) se mantiene sin tocar, porque ese artículo sigue
+sin estar publicado en la web en vivo — no se ha inventado ninguna URL.
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -383,37 +446,35 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 
 | Tema | Fase | Artículo | Notas |
 |---|---|---|---|
-| 1. Licencias para abrir un restaurante | 🟡 Borrador | [`blog-web/articulos/licencias-para-abrir-un-restaurante.md`](articulos/licencias-para-abrir-un-restaurante.md) | Prioridad de trabajo: Media. Artículo redactado a partir de `blog-web/investigacion/tema-01-licencias.md`, con el certificado de compatibilidad urbanística como pieza central del H2-2 y separación explícita de normativa estatal (Ley 12/2012, declaración responsable, inocua/clasificada como concepto) frente a lo que varía por CCAA/municipio (clasificación de actividad y aforo, ordenanzas de terraza). Enlace interno verificado a "Guía Completa para Abrir un Bar"; mención marcada como "en inglés" al artículo de errores comunes. Pendiente de `blog-revision-seo-calidad`. |
+| 1. Licencias para abrir un restaurante | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/licencias-para-abrir-un-restaurante.md`](articulos/licencias-para-abrir-un-restaurante.md) | Prioridad de trabajo: Media. Redacción final de estilo aplicada el 2026-09-28 por instrucción directa de Andrea: mismo contenido, datos y ángulo del borrador ya aprobado (certificado de compatibilidad urbanística como pieza central del H2-2, separación estatal/CCAA-municipio intacta, ejemplo de Barcelona no generalizable, ordenanzas de terraza de Madrid/Granada/Valencia como casos distintos), con las tres variantes de keyword ("licencias para abrir un restaurante", "licencia para abrir un restaurante", "licencias para abrir un restaurante en España") reforzadas en título, entradilla, H2 1 y meta descripción, y tono más ameno, menos enumerativo. Enlace interno a "Guía Completa para Abrir un Bar" sin cambios (misma URL verificada). Pendiente de `blog-revision-seo-calidad`. |
 | 2. Ayudas de proveedores para montar un bar | 🟡 Borrador | [`blog-web/articulos/ayudas-para-montar-un-bar.md`](articulos/ayudas-para-montar-un-bar.md) | Prioridad de trabajo: Media-alta. Artículo "paraguas" de los Temas 3 y 4: distingue subvenciones públicas dispersas por CCAA (sin programa único nacional) de acuerdos comerciales con proveedores, cuantifica el coste de la exclusividad con el Reglamento (UE) 2022/720 como dato legal de respaldo (límite de 5 años), presenta ICO/renting como alternativas (cifra ICO marcada como de agregador, pendiente de verificar en ico.es) y cierra citando Inpulse.ai (hospitality-report). Enlaza a los Temas 3 y 4 en el H2 4 con nota "enlace pendiente de publicación" en vez de URL inventada. Pendiente de `blog-revision-seo-calidad`. |
 | 3. Ayudas de Estrella Galicia | 🟡 Borrador | [`blog-web/articulos/estrella-galicia-te-monta-el-bar.md`](articulos/estrella-galicia-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** el H1/entradilla mantiene la keyword buscada, pero el 2º párrafo aclara sin rodeos que no es un programa oficial con ficha pública, y nombra "The Hop" y "Cervecerías Circulares" como lo real y verificable de la marca. Letra pequeña (exclusividad 5-10 años, rappel 75/25, penalizaciones) presentada explícitamente como "patrón de mercado documentado por terceros", nunca como condición confirmada de Estrella Galicia. El Reglamento (UE) 2022/720 (límite de 5 años) se usa como el dato con más peso de esa sección. Enlaces a Temas 2 y 4 con nota de "pendiente de publicación". Pendiente de `blog-revision-seo-calidad`. |
 | 4. Ayudas de Mahou | 🟡 Borrador | [`blog-web/articulos/mahou-te-monta-el-bar.md`](articulos/mahou-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** "Bar Uno" no aparece en ningún punto del artículo; el 2º párrafo aclara que no hay programa oficial con el nombre buscado y nombra "+Bar", "Nexho" y "Más con Mahou San Miguel" como lo real y verificable, con detalle de qué ofrece cada uno. La afirmación de Nexho de que la exclusividad "está prohibida en España" **no se repite** — se sustituye por la versión correcta del Reglamento (UE) 2022/720 (limitada a 5 años, no prohibida). El H2 3 construye un ejemplo numérico con supuestos explícitamente declarados como hipotéticos, no como cifras reales de Mahou. Enlaces a Temas 2 y 3 con nota de "pendiente de publicación". Pendiente de `blog-revision-seo-calidad`. |
 | 5. Escandallos y food cost | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Ya había sido revisado por `blog-revision-seo-calidad` y por Andrea/Sergio en cuanto a estructura, checklist SEO y enlaces (ver historial arriba: enlace a `escandallo-evitar-desperdicio-restaurante/` verificado real, y enlace añadido a "Cómo calcular la rentabilidad de un negocio de hostelería" para resolver la canibalización). El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe, keywords reforzadas en entradilla y H2 3) sin tocar contenido, datos, ángulo, H1/H2 ni los dos enlaces internos, que se mantienen con las mismas URLs. El dato de Inpulse.ai sigue marcado explícitamente como mercado francés en las dos ocasiones en que aparece. Sigue pendiente, como único punto abierto, que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
-| 6. Diseño de carta de restaurante | 🟡 Borrador | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | `blog-redaccion` ha entregado el borrador (2026-09-28), respetando el ángulo y los dos matices pedidos por el brief (raciones grandes/pequeñas como hipótesis según ocasión de consumo, y matriz de ingeniería de menú explicada como más aplicable a carta con reserva que a bar de tapas, dicho ya en el H2 1). El enlace al Tema 5 queda marcado entre corchetes a la espera de que ese artículo esté publicado. Pendiente de pasar a `blog-revision-seo-calidad`. |
+| 6. Diseño de carta de restaurante | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | Prioridad de trabajo: Alta. Redacción final de estilo aplicada el 2026-09-28 por instrucción directa de Andrea: mismo contenido, datos y ángulo del borrador ya aprobado (la estética como última decisión, matriz de ingeniería de menú aplicable a carta con reserva más que a bar de tapas, cruce con food cost y percepción de valor), con las tres keywords ("diseño carta restaurante", "cómo hacer una carta de restaurante", "ingeniería del menú de un restaurante") reforzadas en entradilla, H2 1, H2 3 y meta descripción, y tono más narrativo, menos enumerativo en la sección de los 4 ejes de valor y en la de neurociencia de la elección. Los tres matices de precisión que pedía el brief siguen intactos: raciones grandes/pequeñas como hipótesis sin cerrar, Inpulse.ai marcado como mercado francés, y Cornell/CIA 2007 y las cifras de sector (Bournemouth, +10-15% de beneficio) presentadas explícitamente sin estudio primario verificado. El enlace entre corchetes al Tema 5 sigue pendiente de sustituir por la URL real en cuanto ese artículo se publique. Pendiente de `blog-revision-seo-calidad`. |
 | 7. Sanidad y APPCC | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe) sin tocar contenido, datos ni ángulo respecto al borrador ya aprobado. H1 y H2 revisados para cubrir explícitamente las keywords de la sección 7 de `listado-temas.md` (plan APPCC restaurante, APPCC restaurante ejemplo, plantilla APPCC restaurante, requisitos sanitarios para abrir un restaurante, seguridad alimentaria restaurante). El matiz del rango de sanción 3.000-30.000€ (fuente única de consultoría, no normativa autonómica contrastada) y toda la normativa citada (Reglamento (CE) 852/2004, RD 1021/2022, RD 109/2010, Ley 1/2025) se mantienen intactos. Sigue sin enlace interno en el cuerpo por falta de uno verificado. Pendiente de `blog-revision-seo-calidad`. |
 
 ## Próximo paso
 
-El Tema 5 ya tiene su redacción final de estilo aplicada (2026-09-28,
-instrucción directa de Andrea) y queda solo pendiente de la verificación
-directa de las cifras de INE/Hosteltur antes de publicar en la web en vivo
-(ver tabla de seguimiento) — nada más pendiente de `blog-redaccion` en
-este tema.
+Los Temas 1 (Licencias), 5 (Food cost), 6 (Diseño de carta) y 7 (APPCC) ya
+tienen su redacción final de estilo aplicada (ver tabla de seguimiento) —
+nada más pendiente de `blog-redaccion` en estos cuatro temas. El Tema 5
+queda solo a la espera de que Andrea/Sergio verifiquen directamente las
+cifras de INE/Hosteltur antes de publicar en la web en vivo; los Temas 1,
+6 y 7 quedan pendientes de que `blog-revision-seo-calidad` confirme el
+checklist SEO on-page y el tono sobre esta versión final antes de que
+Andrea/Sergio los aprueben para publicar.
 
-El Tema 7 también tiene ya su redacción final de estilo aplicada
-(2026-09-28, misma instrucción directa de Andrea) — pendiente de que
-`blog-revision-seo-calidad` confirme que el estilo más ameno no ha perdido
-rigor SEO ni ningún matiz de precisión (rango de sanción, normativa
-citada) antes de que Andrea/Sergio lo aprueben para publicar.
-
-Los Temas 1 (Licencias), 2 (Ayudas de proveedores), 3 (Estrella Galicia), 4
-(Mahou) y 6 (Diseño de carta) siguen con borrador entregado (ver tabla de
-seguimiento) — pendientes de pasar por `blog-revision-seo-calidad`. Para
-el Tema 6, importante revisar en particular que el enlace entre corchetes
-al Tema 5 se sustituya por la URL real en cuanto ese artículo se publique.
-Para el bloque 2/3/4, importante revisar en particular que las notas de
-"enlace pendiente de publicación" entre los tres artículos se sustituyan
-por URLs reales en cuanto se publiquen (ninguno de los tres tiene URL
-propia todavía), y que `blog-revision-seo-calidad` confirme que el
-tratamiento del aviso sobre nombres de programa no verificados (Estrella
-Galicia / Mahou) queda resuelto con el criterio aplicado por
-`blog-redaccion` antes de dar el visto bueno definitivo.
+Los Temas 2 (Ayudas de proveedores), 3 (Estrella Galicia) y 4 (Mahou)
+siguen en fase de borrador (ver tabla de seguimiento) — pendientes todavía
+de pasar por `blog-revision-seo-calidad` y, después, de la misma pasada
+final de estilo ya aplicada a los Temas 1, 5, 6 y 7. Importante revisar en
+particular que las notas de "enlace pendiente de publicación" entre los
+tres artículos se sustituyan por URLs reales en cuanto se publiquen
+(ninguno de los tres tiene URL propia todavía), y que
+`blog-revision-seo-calidad` confirme que el tratamiento del aviso sobre
+nombres de programa no verificados (Estrella Galicia / Mahou) queda
+resuelto con el criterio aplicado por `blog-redaccion` antes de dar el
+visto bueno definitivo. Para el Tema 6, importante revisar en particular
+que el enlace entre corchetes al Tema 5 se sustituya por la URL real en
+cuanto ese artículo se publique.
