@@ -344,8 +344,7 @@ atraen a los clientes, los márgenes los retienen"). La cifra de
 financiación ICO (hasta 500.000€) se presenta en el Tema 2 con el aviso
 explícito de que procede de agregadores financieros, no de lectura directa
 en ico.es. Ningún dato de los tres artículos es ajeno a los tres briefs de
-investigación correspondientes. Los tres artículos quedan **pendientes de
-pasar por `blog-revision-seo-calidad`**.
+investigación correspondientes.
 
 `blog-redaccion` ha entregado la redacción final del Tema 7 (APPCC)
 (2026-09-28), sobrescribiendo
@@ -439,6 +438,64 @@ entre corchetes al Tema 5 (`[enlazar cuando esté publicado: URL final del
 artículo de food cost]`) se mantiene sin tocar, porque ese artículo sigue
 sin estar publicado en la web en vivo — no se ha inventado ninguna URL.
 
+**Redacción final de los Temas 2, 3 y 4 (2026-09-28), misma instrucción
+directa de Andrea que ya se aplicó a los Temas 1, 5, 6 y 7, extendida ahora
+al bloque "ayudas de proveedores".** `blog-redaccion` reescribió los tres
+artículos completos como versión final lista para publicar, sin tocar
+dato, cifra, ejemplo ni ángulo de los borradores ya aprobados — es una
+pasada de estilo, no de contenido. Cambios concretos:
+
+- Se eliminó cualquier rastro de tono de informe ("según fuentes de
+  mercado", "las fuentes de mercado indican", "esta cifra procede de
+  agregadores financieros") en favor de un tono directo de socio de TBNB
+  hablando en segunda persona con alguien que se plantea montar un bar
+  ("te contamos", "te decimos ya, sin rodeos", "vamos a ser claros"),
+  manteniendo exactamente la misma honestidad sobre qué está verificado y
+  qué no en cada caso — ningún matiz de precisión se ha convertido en una
+  afirmación más categórica de lo que era.
+- Se revisaron las keywords reales de `listado-temas.md` (secciones 2, 3 y
+  4) para que sigan apareciendo de forma natural en título, entradilla y
+  H2: en el Tema 2 se reforzó explícitamente "ayudas de proveedores para
+  montar un bar" en la entradilla y en el H2 1 (antes el H2 1 solo decía
+  "acuerdos comerciales con proveedores/cerveceras", sin la keyword
+  literal; y la entradilla solo tenía "ayudas para montar un bar" y
+  "subvenciones para abrir un bar"). En los Temas 3 y 4 las keywords de
+  marca ("Estrella Galicia te monta el bar", "ayudas de Estrella Galicia
+  para montar un bar", "Mahou te monta el bar", "ayudas de Mahou para
+  montar un bar") ya estaban bien colocadas en H1, entradilla y H2 y se
+  mantienen intactas.
+- **El aviso sobre nombres de programa se mantiene íntegro en los tres
+  artículos, solo contado de forma más fluida** — el punto no negociable de
+  esta pasada. En Estrella Galicia y Mahou sigue diciéndose con la misma
+  claridad que no hay evidencia de que "Estrella Galicia te monta el bar"
+  ni "Mahou te monta el bar"/"Bar Uno" sean nombres oficiales de programa
+  con ficha publicada, ahora integrado en el propio relato ("vamos a ser
+  claros: no hay ninguna página oficial...", "empecemos por lo que no
+  existe: no hay ninguna evidencia pública...") en vez de sonar a nota
+  aparte o legal. Los nombres reales verificables se mantienen exactamente
+  igual: The Hop y Cervecerías Circulares (Estrella Galicia); +Bar, Nexho y
+  Más con Mahou San Miguel (Mahou). "Bar Uno" sigue sin aparecer en ningún
+  punto del artículo de Mahou. Toda la letra pequeña (duración,
+  exclusividad, rappel 75/25, penalizaciones) se sigue presentando como
+  "lo que se repite en el sector" o "patrón de mercado", nunca como
+  condición confirmada por ninguna marca. El Reglamento (UE) 2022/720 se
+  mantiene como el dato duro de la sección de letra pequeña en los tres
+  artículos, contado de forma menos "legal" pero sin perder el dato: el
+  límite de 5 años a la exención de competencia y la excepción de local en
+  propiedad/arrendado por el proveedor siguen intactos, palabra por
+  palabra en lo sustantivo. La corrección a la afirmación de Nexho
+  ("prohibida en España" → en realidad limitada a 5 años, no prohibida) se
+  mantiene igual en el artículo de Mahou.
+- No se ha tocado ninguna estructura de H1/H2, ningún enlace interno
+  (siguen todos como nota de "pendiente de publicación", sin URLs
+  inventadas) ni ningún dato numérico (ejemplo de 15.000€/40
+  barriles/48.000€ en Mahou, cifras del ICO, importes de subvenciones
+  autonómicas, rappel 75/25 en Estrella Galicia, etc.).
+
+Los tres artículos quedan **pendientes de pasar por
+`blog-revision-seo-calidad`** como versión final antes de que Andrea/Sergio
+los aprueben para publicación en la web en vivo.
+
 ## Seguimiento por artículo
 
 Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borrador →
@@ -447,34 +504,33 @@ Fases: 🟡 Estrategia (ángulo definido) → 🟡 Investigación → 🟡 Borra
 | Tema | Fase | Artículo | Notas |
 |---|---|---|---|
 | 1. Licencias para abrir un restaurante | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/licencias-para-abrir-un-restaurante.md`](articulos/licencias-para-abrir-un-restaurante.md) | Prioridad de trabajo: Media. Redacción final de estilo aplicada el 2026-09-28 por instrucción directa de Andrea: mismo contenido, datos y ángulo del borrador ya aprobado (certificado de compatibilidad urbanística como pieza central del H2-2, separación estatal/CCAA-municipio intacta, ejemplo de Barcelona no generalizable, ordenanzas de terraza de Madrid/Granada/Valencia como casos distintos), con las tres variantes de keyword ("licencias para abrir un restaurante", "licencia para abrir un restaurante", "licencias para abrir un restaurante en España") reforzadas en título, entradilla, H2 1 y meta descripción, y tono más ameno, menos enumerativo. Enlace interno a "Guía Completa para Abrir un Bar" sin cambios (misma URL verificada). Pendiente de `blog-revision-seo-calidad`. |
-| 2. Ayudas de proveedores para montar un bar | 🟡 Borrador | [`blog-web/articulos/ayudas-para-montar-un-bar.md`](articulos/ayudas-para-montar-un-bar.md) | Prioridad de trabajo: Media-alta. Artículo "paraguas" de los Temas 3 y 4: distingue subvenciones públicas dispersas por CCAA (sin programa único nacional) de acuerdos comerciales con proveedores, cuantifica el coste de la exclusividad con el Reglamento (UE) 2022/720 como dato legal de respaldo (límite de 5 años), presenta ICO/renting como alternativas (cifra ICO marcada como de agregador, pendiente de verificar en ico.es) y cierra citando Inpulse.ai (hospitality-report). Enlaza a los Temas 3 y 4 en el H2 4 con nota "enlace pendiente de publicación" en vez de URL inventada. Pendiente de `blog-revision-seo-calidad`. |
-| 3. Ayudas de Estrella Galicia | 🟡 Borrador | [`blog-web/articulos/estrella-galicia-te-monta-el-bar.md`](articulos/estrella-galicia-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** el H1/entradilla mantiene la keyword buscada, pero el 2º párrafo aclara sin rodeos que no es un programa oficial con ficha pública, y nombra "The Hop" y "Cervecerías Circulares" como lo real y verificable de la marca. Letra pequeña (exclusividad 5-10 años, rappel 75/25, penalizaciones) presentada explícitamente como "patrón de mercado documentado por terceros", nunca como condición confirmada de Estrella Galicia. El Reglamento (UE) 2022/720 (límite de 5 años) se usa como el dato con más peso de esa sección. Enlaces a Temas 2 y 4 con nota de "pendiente de publicación". Pendiente de `blog-revision-seo-calidad`. |
-| 4. Ayudas de Mahou | 🟡 Borrador | [`blog-web/articulos/mahou-te-monta-el-bar.md`](articulos/mahou-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** "Bar Uno" no aparece en ningún punto del artículo; el 2º párrafo aclara que no hay programa oficial con el nombre buscado y nombra "+Bar", "Nexho" y "Más con Mahou San Miguel" como lo real y verificable, con detalle de qué ofrece cada uno. La afirmación de Nexho de que la exclusividad "está prohibida en España" **no se repite** — se sustituye por la versión correcta del Reglamento (UE) 2022/720 (limitada a 5 años, no prohibida). El H2 3 construye un ejemplo numérico con supuestos explícitamente declarados como hipotéticos, no como cifras reales de Mahou. Enlaces a Temas 2 y 3 con nota de "pendiente de publicación". Pendiente de `blog-revision-seo-calidad`. |
+| 2. Ayudas de proveedores para montar un bar | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/ayudas-para-montar-un-bar.md`](articulos/ayudas-para-montar-un-bar.md) | Prioridad de trabajo: Media-alta. Artículo "paraguas" de los Temas 3 y 4: distingue subvenciones públicas dispersas por CCAA (sin programa único nacional) de acuerdos comerciales con proveedores, cuantifica el coste de la exclusividad con el Reglamento (UE) 2022/720 como dato legal de respaldo (límite de 5 años), presenta ICO/renting como alternativas (cifra ICO marcada como de agregador, pendiente de verificar en ico.es) y cierra citando Inpulse.ai (hospitality-report). Enlaza a los Temas 3 y 4 en el H2 4 con nota "enlace pendiente de publicación" en vez de URL inventada. Pasada final de estilo (2026-09-28, instrucción directa de Andrea): tono directo de socio en segunda persona en vez de tono de informe, keyword "ayudas de proveedores para montar un bar" reforzada de forma natural en entradilla y H2 1, sin cambios de dato ni de ángulo. Pendiente de `blog-revision-seo-calidad`. |
+| 3. Ayudas de Estrella Galicia | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/estrella-galicia-te-monta-el-bar.md`](articulos/estrella-galicia-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** el H1/entradilla mantiene la keyword buscada, y el 2º párrafo aclara sin rodeos que no es un programa oficial con ficha pública, nombrando "The Hop" y "Cervecerías Circulares" como lo real y verificable de la marca. Letra pequeña (exclusividad 5-10 años, rappel 75/25, penalizaciones) presentada explícitamente como algo que se repite en el sector, nunca como condición confirmada de Estrella Galicia. El Reglamento (UE) 2022/720 (límite de 5 años) se usa como el dato con más peso de esa sección. Enlaces a Temas 2 y 4 con nota de "pendiente de publicación". Pasada final de estilo (2026-09-28, instrucción directa de Andrea): tono más conversacional y directo (segunda persona, "vamos a ser claros"), sin tocar el aviso legal/editorial sobre el nombre no oficial ni ningún dato de la letra pequeña, que se cuenta de forma menos "legal" pero con la misma precisión. Pendiente de `blog-revision-seo-calidad`. |
+| 4. Ayudas de Mahou | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/mahou-te-monta-el-bar.md`](articulos/mahou-te-monta-el-bar.md) | Prioridad de trabajo: Alta. **Aviso de nombre no verificado resuelto:** "Bar Uno" no aparece en ningún punto del artículo; el 2º párrafo aclara que no hay programa oficial con el nombre buscado y nombra "+Bar", "Nexho" y "Más con Mahou San Miguel" como lo real y verificable, con detalle de qué ofrece cada uno. La afirmación de Nexho de que la exclusividad "está prohibida en España" **no se repite** — se sustituye por la versión correcta del Reglamento (UE) 2022/720 (limitada a 5 años, no prohibida). El H2 3 construye un ejemplo numérico con supuestos explícitamente declarados como hipotéticos, no como cifras reales de Mahou. Enlaces a Temas 2 y 3 con nota de "pendiente de publicación". Pasada final de estilo (2026-09-28, instrucción directa de Andrea): mismo tono directo y conversacional que en Estrella Galicia, con el aviso sobre "Bar Uno"/nombre no oficial y la corrección a Nexho intactos, sin cambios en el ejemplo numérico ni en ningún otro dato. Pendiente de `blog-revision-seo-calidad`. |
 | 5. Escandallos y food cost | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`](articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md) | Ya había sido revisado por `blog-revision-seo-calidad` y por Andrea/Sergio en cuanto a estructura, checklist SEO y enlaces (ver historial arriba: enlace a `escandallo-evitar-desperdicio-restaurante/` verificado real, y enlace añadido a "Cómo calcular la rentabilidad de un negocio de hostelería" para resolver la canibalización). El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe, keywords reforzadas en entradilla y H2 3) sin tocar contenido, datos, ángulo, H1/H2 ni los dos enlaces internos, que se mantienen con las mismas URLs. El dato de Inpulse.ai sigue marcado explícitamente como mercado francés en las dos ocasiones en que aparece. Sigue pendiente, como único punto abierto, que Andrea/Sergio verifiquen directamente las cifras de INE/Hosteltur antes de publicar en la web en vivo. |
 | 6. Diseño de carta de restaurante | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`](articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md) | Prioridad de trabajo: Alta. Redacción final de estilo aplicada el 2026-09-28 por instrucción directa de Andrea: mismo contenido, datos y ángulo del borrador ya aprobado (la estética como última decisión, matriz de ingeniería de menú aplicable a carta con reserva más que a bar de tapas, cruce con food cost y percepción de valor), con las tres keywords ("diseño carta restaurante", "cómo hacer una carta de restaurante", "ingeniería del menú de un restaurante") reforzadas en entradilla, H2 1, H2 3 y meta descripción, y tono más narrativo, menos enumerativo en la sección de los 4 ejes de valor y en la de neurociencia de la elección. Los tres matices de precisión que pedía el brief siguen intactos: raciones grandes/pequeñas como hipótesis sin cerrar, Inpulse.ai marcado como mercado francés, y Cornell/CIA 2007 y las cifras de sector (Bournemouth, +10-15% de beneficio) presentadas explícitamente sin estudio primario verificado. El enlace entre corchetes al Tema 5 sigue pendiente de sustituir por la URL real en cuanto ese artículo se publique. Pendiente de `blog-revision-seo-calidad`. |
 | 7. Sanidad y APPCC | 🟢 Redacción final — pendiente de revisión de tono/SEO antes de publicar | [`blog-web/articulos/appcc-restaurante-tenerlo-vs-usarlo.md`](articulos/appcc-restaurante-tenerlo-vs-usarlo.md) | Prioridad de trabajo: Media. Ángulo operativo honesto (tenerlo vs. usarlo) confirmado, sin dato propio fuerte del Hospitality Report. El 2026-09-28 se aplicó, por instrucción directa de Andrea, la pasada final de estilo (amena, sin sonar a informe) sin tocar contenido, datos ni ángulo respecto al borrador ya aprobado. H1 y H2 revisados para cubrir explícitamente las keywords de la sección 7 de `listado-temas.md` (plan APPCC restaurante, APPCC restaurante ejemplo, plantilla APPCC restaurante, requisitos sanitarios para abrir un restaurante, seguridad alimentaria restaurante). El matiz del rango de sanción 3.000-30.000€ (fuente única de consultoría, no normativa autonómica contrastada) y toda la normativa citada (Reglamento (CE) 852/2004, RD 1021/2022, RD 109/2010, Ley 1/2025) se mantienen intactos. Sigue sin enlace interno en el cuerpo por falta de uno verificado. Pendiente de `blog-revision-seo-calidad`. |
 
 ## Próximo paso
 
-Los Temas 1 (Licencias), 5 (Food cost), 6 (Diseño de carta) y 7 (APPCC) ya
-tienen su redacción final de estilo aplicada (ver tabla de seguimiento) —
-nada más pendiente de `blog-redaccion` en estos cuatro temas. El Tema 5
-queda solo a la espera de que Andrea/Sergio verifiquen directamente las
-cifras de INE/Hosteltur antes de publicar en la web en vivo; los Temas 1,
-6 y 7 quedan pendientes de que `blog-revision-seo-calidad` confirme el
-checklist SEO on-page y el tono sobre esta versión final antes de que
-Andrea/Sergio los aprueben para publicar.
+Los 7 temas del proyecto tienen ya su redacción final de estilo aplicada
+(instrucción directa de Andrea, 2026-09-28) — ver tabla de seguimiento.
+Nada más pendiente de `blog-redaccion` en ninguno de los siete.
 
-Los Temas 2 (Ayudas de proveedores), 3 (Estrella Galicia) y 4 (Mahou)
-siguen en fase de borrador (ver tabla de seguimiento) — pendientes todavía
-de pasar por `blog-revision-seo-calidad` y, después, de la misma pasada
-final de estilo ya aplicada a los Temas 1, 5, 6 y 7. Importante revisar en
-particular que las notas de "enlace pendiente de publicación" entre los
-tres artículos se sustituyan por URLs reales en cuanto se publiquen
-(ninguno de los tres tiene URL propia todavía), y que
-`blog-revision-seo-calidad` confirme que el tratamiento del aviso sobre
-nombres de programa no verificados (Estrella Galicia / Mahou) queda
-resuelto con el criterio aplicado por `blog-redaccion` antes de dar el
-visto bueno definitivo. Para el Tema 6, importante revisar en particular
-que el enlace entre corchetes al Tema 5 se sustituya por la URL real en
-cuanto ese artículo se publique.
+Todos quedan pendientes de que `blog-revision-seo-calidad` confirme el
+checklist SEO on-page y el tono sobre esta versión final antes de que
+Andrea/Sergio los aprueben para publicar. Puntos particulares a vigilar en
+esa revisión:
+
+- **Tema 5:** verificar directamente las cifras de INE/Hosteltur antes de
+  publicar en la web en vivo (único punto abierto, ya señalado por
+  Andrea/Sergio).
+- **Tema 6:** sustituir el enlace entre corchetes al Tema 5 por la URL real
+  en cuanto ese artículo se publique.
+- **Bloque 2/3/4:** sustituir las notas de "enlace pendiente de
+  publicación" entre los tres artículos por URLs reales en cuanto se
+  publiquen (ninguno de los tres tiene URL propia todavía), y confirmar
+  que el tratamiento del aviso sobre nombres de programa no verificados
+  (Estrella Galicia / Mahou) sigue quedando resuelto con el mismo criterio
+  tras la pasada de estilo final — el aviso se mantiene íntegro en
+  contenido, solo contado de forma más conversacional.
