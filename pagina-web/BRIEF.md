@@ -48,14 +48,30 @@ la propia guía de marca, **la web es el canal más "cañero" de todos**
   `/en/eat-my-trip/`). El brief los cita como ejemplo de "Proyectos
   Destacados" — es correcto usarlos, no hace falta inventar ni verificar
   más.
+- **El CTA "AGENDAR REUNIÓN GRATUITA DE 15 MINUTOS" es real y central** —
+  confirmado por Andrea (2026-09-29): *"Es nuestra estrella polar y cómo
+  convertimos leads en clientes."* Ya existe en `/bar-method/` con
+  redacción propia ("Una conversación de 15 minutos. Sin compromiso...",
+  botón "AGENDAR CITA") — ver `diseno-visual-tbnb.md` para el texto exacto
+  que ya vive en el sitio. `web-redaccion` debe mantener ese mismo mensaje
+  de fondo en las páginas nuevas, no inventar uno distinto.
+- **Página de referencia real revisada**: `/bar-method/`, la página que
+  Andrea señala como "la página de los servicios" — grabación de pantalla
+  analizada, patrones de sección y paleta real documentados en
+  `diseno-visual-tbnb.md` y capturas guardadas en `referencia-visual/`.
 
 ## Preguntas abiertas — no asumir, confirmar con Andrea/Sergio
 
-1. **"AGENDAR REUNIÓN GRATUITA DE 15 MINUTOS"** aparece en los dos briefs
-   como CTA destacado. No se ha confirmado en este proyecto que esa oferta
-   (reunión gratuita de 15 min) sea real y esté operativa hoy — antes de
-   publicar, Andrea/Sergio deben confirmar que ese compromiso es cierto
-   (regla de la casa: "no vendemos humo").
+1. **¿Cómo encajan las 2 páginas nuevas con `/bar-method/`?** El SEO brief
+   da a cada tema su propia URL/página independiente
+   (`/abrir-restaurante-bar/`, `/marketing-gastronomico-restaurantes/`),
+   pero `/bar-method/` (la página que Andrea señala) no tiene hoy una
+   cuadrícula de servicios individuales — está organizada alrededor del
+   propio BAR Method como marco único. Falta confirmar: ¿se crean las 2
+   páginas nuevas como páginas independientes y se añade un enlace/tarjeta
+   a ellas desde `/bar-method/`, o el contenido se integra como secciones
+   nuevas dentro de la propia página `/bar-method/`? Cambia bastante el
+   trabajo de `web-maquetacion-elementor`.
 2. **Páginas de destino de los enlaces internos** (`/plan-de-negocio/`,
    `/consultoria-gastronomica/`, `/servicios/consultoria-rrhh-hosteleria/`,
    `/servicios/consultoria-tecnologica-hosteleria/`,
