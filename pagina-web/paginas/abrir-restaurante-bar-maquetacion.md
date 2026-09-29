@@ -317,16 +317,20 @@ construir nada nuevo en cualquiera de las dos páginas.
 - Tarjeta 1 — **Religion Coffee**: "De concepto a negocio en marcha:
   estructuramos el modelo, cuidamos cada detalle de marca y de
   operativa para que el proyecto funcionara en el día a día, no solo
-  sobre el papel." Enlace: "Ver el caso completo →" → `/proyectos/`.
+  sobre el papel." Enlace: "Ver el caso completo →" →
+  `https://thebarnbarconsulting.com/en/religion-coffee/`.
 - Tarjeta 2 — **Eat My Trip**: "Un concepto con identidad propia que
   necesitaba un negocio capaz de sostenerlo detrás: le dimos estructura,
   números y una operativa real desde el primer día." Enlace: "Ver el
-  caso completo →" → `/proyectos/`.
+  caso completo →" → `https://thebarnbarconsulting.com/en/eat-my-trip/`.
 
-> Nota heredada del copy: sin cifras porque no están verificadas — no se
-> añade ninguna aquí. URL `/proyectos/` genérica para ambos enlaces
-> (pendiente de verificar si cada proyecto tiene ficha propia con URL
-> distinta, ver `BRIEF.md`).
+> Nota heredada del copy (actualizada 2026-09-29): sin cifras porque no
+> están verificadas — no se añade ninguna aquí. Los dos enlaces ya
+> apuntan a la ficha real de cada proyecto
+> (`https://thebarnbarconsulting.com/en/religion-coffee/` y
+> `https://thebarnbarconsulting.com/en/eat-my-trip/`), según la
+> corrección ya aplicada por `web-redaccion` en el copy final — no a
+> `/proyectos/` genérico como en una versión anterior de este documento.
 
 **3. Notas de diseño:**
 - Fondo: **blanco**, alternando con el negro del bloque anterior.
@@ -340,11 +344,11 @@ construir nada nuevo en cualquiera de las dos páginas.
 
 **4. Recurso visual necesario:** foto real de cada proyecto (Religion
 Coffee, Eat My Trip) — a conseguir de la ficha ya publicada de cada uno
-en `/proyectos/` (o `/en/religion-coffee/` y `/en/eat-my-trip/`, según
-`BRIEF.md`), no a generar aquí. Alt-text sugerido: "Interior/local de
-Religion Coffee, proyecto de apertura de The Bar N' Bar" y
-"Interior/local de Eat My Trip, proyecto de apertura de The Bar N' Bar"
-— a ajustar con la foto real que se use.
+en `https://thebarnbarconsulting.com/en/religion-coffee/` y
+`https://thebarnbarconsulting.com/en/eat-my-trip/`, no a generar aquí.
+Alt-text sugerido: "Interior/local de Religion Coffee, proyecto de
+apertura de The Bar N' Bar" y "Interior/local de Eat My Trip, proyecto de
+apertura de The Bar N' Bar" — a ajustar con la foto real que se use.
 
 ---
 
@@ -564,7 +568,11 @@ maquetación específicas señaladas arriba:
    reconstruirlos.
 3. Bloque 5: confirmar si "Proyectos Destacados" ya existe como bloque
    global reutilizable — si es así, usarlo igual en esta página y en
-   `/marketing-gastronomico-restaurantes/`.
+   `/marketing-gastronomico-restaurantes/`. Los destinos de los dos
+   enlaces de este bloque ya están sincronizados con el copy final
+   (`https://thebarnbarconsulting.com/en/religion-coffee/` y
+   `https://thebarnbarconsulting.com/en/eat-my-trip/`) — punto resuelto,
+   ya no es pendiente.
 4. Bloque 7: el copy enlaza a `/marketing-gastronomico/`, mientras que la
    URL confirmada en `BRIEF.md` para esa página es
    `/marketing-gastronomico-restaurantes/` — verificar y corregir antes
