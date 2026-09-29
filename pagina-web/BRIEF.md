@@ -60,26 +60,29 @@ la propia guía de marca, **la web es el canal más "cañero" de todos**
   analizada, patrones de sección y paleta real documentados en
   `diseno-visual-tbnb.md` y capturas guardadas en `referencia-visual/`.
 
+## Decisiones ya confirmadas por Andrea
+
+- **Las 2 páginas nuevas son páginas independientes**, cada una con su
+  propia URL tal como pide el brief del SEO
+  (`/abrir-restaurante-bar/`, `/marketing-gastronomico-restaurantes/`).
+  Desde `/bar-method/` se añade un enlace o tarjeta hacia cada una,
+  integrado "como mejor encaje con el contenido actual" — decisión de
+  dónde y cómo (dentro del bloque de comparativa, como tarjeta nueva, en
+  el menú, etc.) que le corresponde proponer a
+  `web-maquetacion-elementor`, justificándola contra los 11 patrones ya
+  documentados en `diseno-visual-tbnb.md`, no inventando un patrón nuevo
+  sin motivo.
+
 ## Preguntas abiertas — no asumir, confirmar con Andrea/Sergio
 
-1. **¿Cómo encajan las 2 páginas nuevas con `/bar-method/`?** El SEO brief
-   da a cada tema su propia URL/página independiente
-   (`/abrir-restaurante-bar/`, `/marketing-gastronomico-restaurantes/`),
-   pero `/bar-method/` (la página que Andrea señala) no tiene hoy una
-   cuadrícula de servicios individuales — está organizada alrededor del
-   propio BAR Method como marco único. Falta confirmar: ¿se crean las 2
-   páginas nuevas como páginas independientes y se añade un enlace/tarjeta
-   a ellas desde `/bar-method/`, o el contenido se integra como secciones
-   nuevas dentro de la propia página `/bar-method/`? Cambia bastante el
-   trabajo de `web-maquetacion-elementor`.
-2. **Páginas de destino de los enlaces internos** (`/plan-de-negocio/`,
+1. **Páginas de destino de los enlaces internos** (`/plan-de-negocio/`,
    `/consultoria-gastronomica/`, `/servicios/consultoria-rrhh-hosteleria/`,
    `/servicios/consultoria-tecnologica-hosteleria/`,
    `/consultoria-hosteleria-barcelona/`, `/consultoria-hosteleria-madrid/`,
    `/proyectos/`) — el equipo no verifica que todas existan ya en el sitio
    en vivo con esa URL exacta; quien suba el contenido a Elementor debe
    comprobarlo antes de enlazar.
-3. **Estilos globales de Elementor** — `diseno-visual-tbnb.md` da la
+2. **Estilos globales de Elementor** — `diseno-visual-tbnb.md` da la
    paleta y tipografía de marca, pero no sustituye una revisión del
    kit/theme de Elementor real del sitio.
 
