@@ -300,6 +300,16 @@ verificada para alguno de los dos proyectos (ver nota del copy), esa
 tarjeta concreta sí podría subir de nivel al formato completo del Patrón
 7.
 
+**Nota de consistencia:** `pagina-web/paginas/marketing-gastronomico-maquetacion.md`
+especifica este mismo bloque (con el mismo nombre de H2, "No lo decimos,
+lo demostramos", y los mismos dos proyectos) para la otra página nueva, y
+señala que el brief/copy de esa página sugiere que **puede que ya exista
+un bloque reutilizable de "Proyectos Destacados"** en el sitio. Si ese
+bloque global existe, lo coherente es que esta página lo reutilice
+también (mismo formato visual), cambiando solo el texto introductorio de
+cada página. Confirmarlo contra la librería de Elementor antes de
+construir nada nuevo en cualquiera de las dos páginas.
+
 **2. Contenido exacto:**
 - H2: "No lo decimos, lo demostramos"
 - Intro: "Las palabras convencen poco en este sector. Los proyectos
@@ -347,7 +357,8 @@ ya confirmado como "estrella polar" del sitio (ver
 `diseno-visual-tbnb.md`) — **recomiendo reutilizar el bloque/sección
 global guardado de Elementor que ya existe en `/bar-method/` para este
 CTA**, cambiando como mucho el H2 si hace falta, en vez de reconstruirlo
-desde cero.
+desde cero. (`marketing-gastronomico-maquetacion.md` hace la misma
+recomendación para su propia página — coherente entre ambas.)
 
 **2. Contenido exacto:**
 - H2: "¿Tienes un proyecto en mente? Hablemos de realidad"
@@ -380,7 +391,9 @@ cross-selling — grid de 4 tarjetas"). No corresponde a ninguno de los 11
 patrones de `/bar-method/` documentados tal cual (no hay un bloque de
 cross-selling de 4 columnas entre los observados) — **a confirmar contra
 el kit real** si ya existe un bloque reutilizable de este tipo en otra
-página de servicios del sitio.
+página de servicios del sitio. `marketing-gastronomico-maquetacion.md`
+usa el mismo tipo de widget (grid de 4 tarjetas) para su bloque
+equivalente — mismo criterio en ambas páginas.
 
 **2. Contenido exacto:**
 - H2: "¿Solo necesitas ayuda en un área? Servicios a la carta para tu
@@ -400,6 +413,12 @@ página de servicios del sitio.
 
 > Nota heredada del copy: URLs sin verificar en el sitio en vivo —
 > pendiente ya señalada en `BRIEF.md`, no se resuelve en esta fase.
+> Ojo: el enlace 2 de este bloque apunta a `/marketing-gastronomico/`,
+> mientras que la URL confirmada del brief SEO de esa página y en
+> `pagina-web/BRIEF.md` es `/marketing-gastronomico-restaurantes/` — no
+> lo corrijo aquí porque no es una decisión de maquetación (es una URL
+> del copy final), pero lo señalo para que se verifique junto con el
+> resto de URLs antes de publicar.
 
 **3. Notas de diseño:**
 - Fondo: **blanco o gris claro** — a confirmar contra el kit real.
@@ -421,7 +440,8 @@ personas/equipo para "Selección y equipo", pantalla/TPV para
 enlazado a silos locales, para SEO geolocalizado"). No corresponde a un
 patrón visual específico de los 11 documentados — sugerido como bloque
 simple de enlaces con icono de ubicación, **a confirmar contra el kit
-real**.
+real**. `marketing-gastronomico-maquetacion.md` propone el mismo tipo de
+bloque (texto + Icon List) para su silo local equivalente.
 
 **2. Contenido exacto:**
 - H2: "Operamos donde está el negocio"
@@ -454,54 +474,76 @@ geolocalizada, no imprescindible.
 ## Anexo — Enlace/tarjeta desde `/bar-method/` hacia esta página
 
 Según `pagina-web/BRIEF.md` ("Decisiones ya confirmadas por Andrea"),
-`/bar-method/` necesita un enlace o tarjeta hacia esta página nueva,
-integrado "como mejor encaje con el contenido actual". Comprobado que
-`pagina-web/paginas/marketing-gastronomico-maquetacion.md` todavía no
-existe, así que esta propuesta no tiene que conciliarse con ninguna
-propuesta previa de otro agente para la misma página — solo debe quedar
-documentada de forma que no contradiga una futura propuesta análoga para
-`/marketing-gastronomico-restaurantes/`.
+`/bar-method/` necesita un enlace o tarjeta hacia esta página nueva
+(y, por separado, hacia `/marketing-gastronomico-restaurantes/`).
 
-**Propuesta principal — reutilizar el Patrón 4 ("Comparativa de
-situación / ¿De dónde partimos?") como sección nueva y adicional, sin
-tocar la sección ya existente con ese mismo patrón.**
+**Ya existe una propuesta hermana para la otra página:**
+`pagina-web/paginas/marketing-gastronomico-maquetacion.md` ya especifica
+cómo enlazar `/bar-method/` con `/marketing-gastronomico-restaurantes/`,
+reutilizando el **Patrón 10** ("Banner de marquesina", hoy usado para
+"traspasos" y documentado explícitamente en `diseno-visual-tbnb.md` como
+"patrón reutilizable para destacar otro servicio"). Esa propuesta ya
+razona por qué descarta el Patrón 4 para un enlace de *servicio*: "está
+pensado para contrastar dos situaciones de diagnóstico del cliente, no
+para listar servicios". Para no contradecir esa decisión ni duplicar
+mecanismos distintos sobre la misma página, alineo mi propuesta para
+esta página con el mismo patrón como opción principal, y dejo el Patrón
+4 solo como alternativa justificada de forma distinta (no como
+"servicio", sino como "perfil de cliente").
 
-Justificación: `diseno-visual-tbnb.md` describe explícitamente este
-patrón como "reutilizable para dos perfiles de cliente (ideal para
-diferenciar, por ejemplo, quien quiere abrir vs. quien ya tiene el
-negocio)" — es, literalmente, el escenario de esta página. Propongo
-añadir una **nueva instancia** de este patrón (tarjeta con barra superior
-de color, dividida en 2 columnas por una línea vertical), colocada
-después del bloque de checklist/CTA (Patrón 6) y antes de "Caso de
-éxito" (Patrón 7), con este contenido tentativo:
+**Propuesta principal — Patrón 10 ("Banner de marquesina"), igual que en
+la página hermana.**
 
-- Columna izquierda — eyebrow "¿TODAVÍA NO HAS ABIERTO?" + H3 breve +
-  enlace/botón hacia `/abrir-restaurante-bar/` (texto exacto a definir
-  por `web-redaccion`, no lo invento aquí).
-- Columna derecha — perfil complementario (p. ej. negocio ya abierto
-  que quiere crecer), con su propio enlace — posible candidato natural
-  para apuntar a `/marketing-gastronomico-restaurantes/` si esa página
-  también necesita su propio punto de entrada desde `/bar-method/`, pero
-  esa decisión de contenido le corresponde a quien maquete esa página o
-  a Andrea/Sergio, no se fija aquí.
+Justificación: esta página también es, en esencia, "otro servicio" desde
+el punto de vista de `/bar-method/` (aperturas, como marketing
+gastronómico, es una línea de servicio con página propia) — el mismo
+criterio que ya se aplicó al proponer el banner para
+`/marketing-gastronomico-restaurantes/` aplica aquí sin necesidad de
+inventar un mecanismo distinto. Usar el mismo patrón para ambas páginas
+nuevas evita que `/bar-method/` termine con dos soluciones visuales
+distintas (una marquesina y una sección de comparativa nueva) para un
+mismo tipo de necesidad (enlazar a una página de servicio nueva).
 
-No reescribo el texto de "¿De dónde partimos?" existente — esta es una
-sección **adicional**, no una sustitución.
+**Cómo encajaría:**
+- Si `marketing-gastronomico-maquetacion.md` ya propone convertir el
+  banner de traspasos en un carrusel/rotación de 2-3 mensajes, añadir
+  aquí un tercer mensaje al mismo carrusel en vez de crear una franja
+  nueva: algo como "¿VAS A ABRIR UN NEGOCIO? →" enlazando a
+  `/abrir-restaurante-bar/` (texto exacto a validar por `web-redaccion`,
+  no lo redacto yo aquí).
+- Mismo tratamiento visual que el resto del banner: franja **red bar**
+  (`#E94A4B`), texto en movimiento horizontal, full-width — sin inventar
+  un color nuevo para este tercer mensaje.
 
-**Alternativa más ligera — Patrón 10 ("Banner de marquesina")**, descrito
-en `diseno-visual-tbnb.md` como "patrón reutilizable para destacar otro
-servicio" (hoy usado para "traspasos"). Si añadir una sección completa
-tipo Patrón 4 se considera demasiado para esta necesidad, una franja de
-marquesina adicional (o una segunda línea de texto en movimiento en el
-mismo banner ya existente, si el widget lo permite) con el mensaje
-"¿Vas a abrir un negocio? Te ayudamos de principio a fin →
-/abrir-restaurante-bar/" sería la opción de menor coste de maquetación,
-aunque menos visible que una tarjeta dedicada.
+**Alternativa — Patrón 4 ("Comparativa de situación / ¿De dónde
+partimos?"), como sección nueva y adicional, sin tocar la sección ya
+existente con ese mismo patrón.**
 
-**Recomendación:** Opción principal (Patrón 4 nuevo) por ser la que el
-propio documento de diseño señala como pensada para este caso de uso
-exacto. Confirmar con Andrea/Sergio antes de construir, ya que implica
-añadir una sección nueva a una página que no es esta (`/bar-method/`).
+`diseno-visual-tbnb.md` describe este patrón como "reutilizable para dos
+perfiles de cliente (ideal para diferenciar, por ejemplo, quien quiere
+abrir vs. quien ya tiene el negocio)" — es, literalmente, el escenario de
+"abrir" vs. "ya tiene el negocio en marcha". A diferencia del enlace de
+`/marketing-gastronomico-restaurantes/` (que es un enlace a un
+*servicio*, donde el Patrón 4 no encaja según ya razonó la maquetación
+hermana), aquí el encaje sería distinto: no como lista de servicios, sino
+como contraste de **situación de partida del visitante**. Si se opta por
+esta vía, sería una sección nueva colocada después del checklist/CTA
+(Patrón 6) y antes de "Caso de éxito" (Patrón 7), con columna izquierda
+"¿Todavía no has abierto?" → `/abrir-restaurante-bar/`, y columna derecha
+con un segundo perfil a definir (no necesariamente
+"marketing gastronómico", para no solapar con el mecanismo ya elegido
+para esa página). No reescribo el texto de "¿De dónde partimos?"
+existente — sería una sección adicional, no una sustitución.
+
+**Recomendación:** Patrón 10 (marquesina/carrusel) como opción principal,
+por consistencia con la propuesta ya hecha para
+`/marketing-gastronomico-restaurantes/` y para evitar que `/bar-method/`
+acumule mecanismos de enlace distintos para necesidades equivalentes. El
+Patrón 4 queda documentado como alternativa con encaje conceptual fuerte,
+pero implica una decisión de diseño mayor (sección nueva completa) que
+debería tomarse una sola vez, para ambas páginas a la vez, no de forma
+independiente por cada maquetación. Confirmar con Andrea/Sergio antes de
+construir, ya que implica cambios en una página que no es esta.
 
 ---
 
@@ -520,9 +562,19 @@ maquetación específicas señaladas arriba:
    bloques/secciones globales guardados en Elementor para el hero y el
    CTA de 15 min que se puedan reutilizar tal cual, en vez de
    reconstruirlos.
-3. Anexo: confirmar con Andrea/Sergio si se construye la nueva sección
-   tipo Patrón 4 en `/bar-method/` (y con qué segundo perfil de cliente)
-   o la alternativa de marquesina.
-4. Varios colores/fondos marcados como "a confirmar contra el kit real"
+3. Bloque 5: confirmar si "Proyectos Destacados" ya existe como bloque
+   global reutilizable — si es así, usarlo igual en esta página y en
+   `/marketing-gastronomico-restaurantes/`.
+4. Bloque 7: el copy enlaza a `/marketing-gastronomico/`, mientras que la
+   URL confirmada en `BRIEF.md` para esa página es
+   `/marketing-gastronomico-restaurantes/` — verificar y corregir antes
+   de publicar (no es una decisión de maquetación, es una URL a
+   confirmar).
+5. Anexo: confirmar con Andrea/Sergio si el enlace desde `/bar-method/`
+   hacia esta página se resuelve con el Patrón 10 (mismo mecanismo que
+   ya se propuso para `/marketing-gastronomico-restaurantes/`) o con la
+   alternativa de Patrón 4 — decisión que conviene tomar una sola vez
+   para ambas páginas nuevas, no por separado.
+6. Varios colores/fondos marcados como "a confirmar contra el kit real"
    en los bloques 2, 3, 7 y 8, por no tener un patrón exacto entre los
    11 ya documentados.
