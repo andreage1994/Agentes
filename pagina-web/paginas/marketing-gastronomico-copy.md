@@ -20,10 +20,10 @@ arquitectura SEO ni decide ángulo.
 **[H1]** Marketing gastronómico para restaurantes, bares y más
 
 Tener la mejor carta del barrio no sirve de nada si la sala se queda
-vacía. En The Bar N' Bar unimos el marketing con los números reales de tu
-negocio: el mismo equipo que monta tu campaña es el que entiende de
-márgenes, ticket medio y ocupación. Así tu comunicación deja de ser un
-gasto a ciegas y se convierte en algo que se puede medir.
+vacía. En The Bar N' Bar unimos el marketing digital con los números
+reales de tu negocio: el mismo equipo que monta tu campaña es el que
+entiende de márgenes, ticket medio y ocupación. Así tu comunicación deja
+de ser un gasto a ciegas y se convierte en algo que se puede medir.
 
 No hacemos marketing de adorno ni campañas desconectadas de la realidad
 de tu local. Diseñamos e implementamos estrategias de marketing
@@ -198,3 +198,9 @@ resuelvan las 4 preguntas abiertas que deja
 Test de la sección 13 de la guía de tono aplicado a cada bloque: cada
 frase se ha revisado para que sonara defendible en una conversación real
 de cocina, sala o barra, no en un informe de agencia.
+
+**Corrección de revisión SEO/calidad (2026-09-29):** en el Bloque 1, el
+párrafo 1 reintroduce la keyword "marketing digital" ("unimos el
+marketing digital con los números reales de tu negocio"), que se había
+perdido del cuerpo de la página en la primera versión del copy. El resto
+del bloque y del documento no se ha tocado.
