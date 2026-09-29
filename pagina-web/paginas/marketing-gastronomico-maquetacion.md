@@ -30,10 +30,11 @@ fondo sólido oscuro, título + párrafos + botón.
 **Contenido exacto:**
 - H1: "Marketing gastronómico para restaurantes, bares y más"
 - Párrafo 1: "Tener la mejor carta del barrio no sirve de nada si la sala
-  se queda vacía. En The Bar N' Bar unimos el marketing con los números
-  reales de tu negocio: el mismo equipo que monta tu campaña es el que
-  entiende de márgenes, ticket medio y ocupación. Así tu comunicación deja
-  de ser un gasto a ciegas y se convierte en algo que se puede medir."
+  se queda vacía. En The Bar N' Bar unimos el marketing digital con los
+  números reales de tu negocio: el mismo equipo que monta tu campaña es
+  el que entiende de márgenes, ticket medio y ocupación. Así tu
+  comunicación deja de ser un gasto a ciegas y se convierte en algo que
+  se puede medir."
 - Párrafo 2: "No hacemos marketing de adorno ni campañas desconectadas de
   la realidad de tu local. Diseñamos e implementamos estrategias de
   marketing gastronómico con un objetivo muy concreto: con esto llenamos
@@ -437,3 +438,4 @@ segunda franja fija.
    (Bloque 6):** revisar primero la librería de Elementor por si ya
    existen como secciones globales/guardadas reutilizables, antes de
    reconstruirlos desde cero.
+</content>

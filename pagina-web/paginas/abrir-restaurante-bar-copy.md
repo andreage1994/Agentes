@@ -158,21 +158,21 @@ Las palabras convencen poco en este sector. Los proyectos reales, algo
 más.
 
 *[Bloque visual de Proyectos Destacados — 2 tarjetas mínimo, cada una
-enlazando a su ficha en `/proyectos/`]*
+enlazando a su ficha propia]*
 
 - **Religion Coffee** — De concepto a negocio en marcha: estructuramos el
   modelo, cuidamos cada detalle de marca y de operativa para que el
   proyecto funcionara en el día a día, no solo sobre el papel.
-  [Ver el caso completo →](/proyectos/)
+  [Ver el caso completo →](https://thebarnbarconsulting.com/en/religion-coffee/)
 - **Eat My Trip** — Un concepto con identidad propia que necesitaba un
   negocio capaz de sostenerlo detrás: le dimos estructura, números y una
   operativa real desde el primer día.
-  [Ver el caso completo →](/proyectos/)
+  [Ver el caso completo →](https://thebarnbarconsulting.com/en/eat-my-trip/)
 
 > *Nota de redacción: sin cifras de facturación/tiempo/ahorro porque no
 > están verificadas en el brief ni en `BRIEF.md` — ver pregunta abierta 3
 > en la estrategia. Si aparece una cifra real y publicada en la ficha de
-> `/proyectos/`, se puede añadir como titular destacado (patrón "Caso de
+> cada proyecto, se puede añadir como titular destacado (patrón "Caso de
 > éxito" de `diseno-visual-tbnb.md`) sin tocar el resto del texto.*
 
 ---
@@ -236,6 +236,11 @@ Igual que en la estrategia, se trasladan sin decidir:
    añadir como frase adicional sin reescribir el bloque.
 3. Si hay una cifra verificada y publicada de Religion Coffee / Eat My
    Trip — este copy las deja en tono cualitativo; añadir la cifra no
-   rompe el resto del texto.
-4. Verificación de URLs de enlaces internos en el sitio en vivo (bloques
-   8 y 9) — pendiente ya señalado en `BRIEF.md`, no se resuelve aquí.
+   rompe el resto del texto. (Los enlaces de "Ver el caso completo →" ya
+   apuntan a la ficha real de cada proyecto — resuelto el 2026-09-29, ver
+   `pagina-web/BRIEF.md`, sección "Hechos verificados".)
+4. Verificación de URLs de enlaces internos en el sitio en vivo (bloque 9,
+   "Servicios a la carta") — pendiente ya señalado en `BRIEF.md`, no se
+   resuelve aquí. (La discrepancia de "Marketing de lanzamiento"
+   `/marketing-gastronomico/` vs. `/marketing-gastronomico-restaurantes/`
+   sigue pendiente de que Andrea/Sergio la aclaren.)
