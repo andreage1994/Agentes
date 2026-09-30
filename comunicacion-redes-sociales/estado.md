@@ -23,12 +23,17 @@
 ## Canales activos
 
 - Instagram (`instagram/`)
-- LinkedIn (`linkedin/`) — sin contenido traído todavía; plan de cruce de
-  octubre listo en `plan-cruce-linkedin-gmb-octubre.md`, pendiente de que
-  `director-redaccion` escriba el copy final.
-- Google My Business (`google-my-business/`) — sin contenido traído todavía;
-  plan de cruce de octubre listo en `plan-cruce-linkedin-gmb-octubre.md`,
-  pendiente de que `director-redaccion` escriba el copy final.
+- LinkedIn (`linkedin/`) — copy final de octubre listo en
+  `linkedin/calendario-octubre.md` (4, 14, 21 y 25 octubre), redactado por
+  `director-redaccion` a partir del plan de cruce. Pendiente de aprobación de
+  Andrea o Sergio, pieza por pieza.
+- Google My Business (`google-my-business/`) — copy final de octubre listo en
+  `google-my-business/calendario-octubre.md` (semanas 1-4), redactado por
+  `director-redaccion`. La pieza de semana 1 incluye dos versiones (con caso
+  real y alternativa anonimizada) a la espera del permiso del cliente del 7
+  de octubre; la de semana 4 se entrega sin caso con nombre por defecto, con
+  nota para añadir Gambit Madrid si Andrea lo confirma. Pendiente de
+  aprobación de Andrea o Sergio, pieza por pieza.
 - Mail marketing (`mail-marketing/`) — plantillas y contenido listos, ver
   `mail-marketing/README.md`. Pendiente de configurar en Mailchimp.
 - Potential spotting (`potential-spotting/`) — sin contenido traído todavía.
@@ -41,8 +46,9 @@
   ninguna pieza asignada por ahora).
 - Confirmar con el cliente del caso del 7 de octubre si hay permiso para
   publicar sus cifras de facturación — bloquea tanto la pieza de Instagram
-  como su equivalente propuesta en GMB (ver
-  `plan-cruce-linkedin-gmb-octubre.md`, sección 4).
+  como sus dos versiones en GMB semana 1
+  (`google-my-business/calendario-octubre.md`).
 - Decidir si se reutiliza el caso Gambit Madrid en GMB semana 4 de octubre
   (28 oct) o se deja sin caso con nombre, para no repetir el mismo caso dos
-  meses seguidos (ver `plan-cruce-linkedin-gmb-octubre.md`, sección 3.4).
+  meses seguidos (ver `google-my-business/calendario-octubre.md`, nota en
+  semana 4).
