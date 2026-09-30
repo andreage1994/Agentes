@@ -26,10 +26,13 @@ día que la pieza de Instagram de origen de cada una — 7, 11, 18 y 28 de
 octubre. No se ha detectado ningún motivo operativo para desplazarlas: cada
 una de esas fechas refuerza en GMB el mismo tema que ya se publica ese día
 en Instagram (y, en el caso del 7 de octubre, comparte también el mismo
-bloqueante pendiente), y ninguna coincide con una fecha de LinkedIn (4, 14,
-21 y 25 de octubre — ver `linkedin/calendario-octubre.md`). Las dos
-decisiones señaladas por `director-estrategia-marca-comunicacion` (semana 1
-y semana 4) siguen **pendientes de Andrea/Sergio** y no se resuelven aquí.
+bloqueante pendiente). Ninguna fecha de GMB coincide con una fecha de
+LinkedIn (4, 14, 21 y 25 de octubre — ver `linkedin/calendario-octubre.md`),
+ni siquiera tras el cambio de tema de la semana 4 (ver más abajo): el 25 de
+octubre es LinkedIn/Instagram, el 28 es GMB, incluso compartiendo el mismo
+tema de fondo (APPCC). La decisión de la semana 1 (con/sin caso real) sigue
+**pendiente de Andrea/Sergio**; la de la semana 4 (Gambit Madrid) queda sin
+objeto tras el cambio de tema a APPCC, ver nota en esa sección.
 
 ---
 
@@ -150,48 +153,51 @@ después.
 
 ---
 
-## Semana 4 — 28 de octubre — origen IG: 28 octubre, "Del escandallo a la carta" (ventas × margen × popularidad)
+## Semana 4 — 28 de octubre — origen IG: 25 octubre, APPCC ("¿Qué podemos aprender de los bares de toda la vida?")
 
-> **Nota para Andrea/Sergio:** versión por defecto SIN caso con nombre, para
-> no repetir el caso Gambit Madrid dos meses seguidos (ya citado en el
-> ejemplo de referencia de septiembre) sin que lo decidáis vosotros. Si
-> confirmáis que queréis reutilizarlo, se añade un párrafo citando "Gambit
-> Madrid" con su cifra de ticket medio, siguiendo el mismo patrón que la
-> pieza de Lady Madrid de septiembre.
->
-> **Fecha:** 28 de octubre (mismo día que la pieza de Instagram) — la fecha
-> no está en duda; lo pendiente de Andrea/Sergio es únicamente si se añade
-> o no el caso Gambit Madrid al texto.
+> **Cambio 2026-09-30 (feedback directo de Andrea):** esta pieza sustituye a
+> la versión anterior de menu engineering ("Del escandallo a la carta"), que
+> queda retirada de GMB este mes — con la pieza de diseño de carta del 11 de
+> octubre, ya había dos de las cuatro piezas de GMB hablando de carta, y
+> Andrea pidió variar el tema. Se sustituye por APPCC (origen: pieza de
+> Instagram y LinkedIn del 25 de octubre), con ángulo propio de GMB
+> (orientado a negocio/riesgo operativo), distinto del ángulo reflexivo de
+> LinkedIn. La fecha de publicación en GMB se mantiene en el 28 de octubre
+> (su slot semanal propio, no coincide con el 25 de LinkedIn/Instagram). La
+> nota pendiente sobre el caso Gambit Madrid queda sin objeto: ya no aplica
+> a esta pieza.
 
-**¿Sabes qué platos de tu carta deberías potenciar, cuáles rediseñar y
-cuáles quitar?**
+**¿Tu APPCC es un documento guardado o un sistema que de verdad se usa?**
 
-Muchas cartas se construyen con cariño y buen producto, pero sin analizar
-realmente qué aporta cada plato al negocio más allá de si gusta o no gusta.
+Muchos restaurantes tienen su documento de APPCC listo para cuando llega
+una inspección, pero en el día a día la seguridad alimentaria depende de
+que una persona concreta se acuerde de hacerla bien.
 
-Los síntomas se repiten: platos que se mantienen "porque siempre han
-estado", platos rentables que pasan desapercibidos porque están mal
-colocados en la carta, platos muy populares que en realidad casi no dejan
-margen.
+Los síntomas se repiten: protocolos que existen en papel pero no se siguen
+igual en cada turno, un responsable "de memoria" que lleva años haciéndolo
+bien pero que nadie más sabría reproducir exactamente igual, registros que
+se rellenan por cumplir, no porque ayuden a detectar un riesgo real.
 
-El menu engineering cruza tres datos que casi nunca se miran juntos: ventas,
-margen y popularidad. Un plato puede venderse mucho y dejar poco margen.
-Otro puede dejar mucho margen y casi no pedirse porque está mal explicado.
-Cada combinación pide una decisión distinta: potenciar, rediseñar,
-reposicionar o quitar. En TBNB trabajamos este análisis dentro de la fase
-Architecture del BAR Method — no se trata de tener una carta bonita, sino de
-tener una carta de la que sepamos por qué está construida como está.
+Un buen sistema APPCC no es el documento — es que cada proceso (recepción,
+almacenamiento, preparación, elaboración, servicio) tenga un control claro,
+un responsable y un registro, de forma que no dependa de que una persona
+concreta esté siempre ahí. En TBNB trabajamos para que la seguridad
+alimentaria deje de vivir en la cabeza de una sola persona y pase a estar
+diseñada, controlada y demostrable en el día a día.
 
-¿Sabes qué plato de tu carta deberías estar empujando y cuál deberías dejar
-de ofrecer? Podemos cruzar contigo las ventas, el margen y la popularidad
-de cada plato de tu carta actual, y decirte qué merece potenciarse,
-rediseñarse o desaparecer.
+¿Tu protocolo APPCC funcionaría igual de bien si mañana faltara la persona
+que mejor lo conoce? Podemos revisar contigo tus protocolos actuales y
+ayudarte a que la seguridad alimentaria no dependa de que alguien en
+concreto se acuerde de hacerla bien.
 
 ---
 
 ## Piezas de Instagram que no se cruzan a GMB este mes
 
 Ver justificación completa en `plan-cruce-linkedin-gmb-octubre.md`, sección
-3: 4/14/21/25 octubre (ya cubiertas por LinkedIn con ángulo argumentado) y
-30 octubre (reel, sin argumento de negocio, no encaja con el objetivo
-"demostrar" de GMB).
+3, con una excepción ya corregida el 2026-09-30: 4, 14 y 21 de octubre (ya
+cubiertas por LinkedIn con ángulo argumentado) y 30 de octubre (reel, sin
+argumento de negocio, no encaja con el objetivo "demostrar" de GMB). **El 25
+de octubre (APPCC) ya no está en esta lista** — a petición de Andrea, pasó
+a cruzarse también a GMB (semana 4, publicación el 28 de octubre) para no
+concentrar dos de las cuatro piezas del mes en el tema de carta.
