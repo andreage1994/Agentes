@@ -35,6 +35,32 @@ Traído de Google Drive (carpeta "5. Marketing") el 2026-09-17.
 - **Estilo de reels/vídeo:** documental, observacional, cinematográfico — nunca
   estilo influencer.
 
+### Matiz de tono específico para LinkedIn (feedback directo de Andrea, 2026-09-30)
+
+El objetivo de LinkedIn no es solo "profundizar" (ver
+`referencia-linkedin-gmb-septiembre.md`) — es **crear comunidad con otros
+profesionales del sector**, de igual a igual. Esto cambia cómo se escribe,
+no solo qué se dice:
+
+- **Más reflexivo, menos categórico.** Compartir una duda o una manera de
+  ver algo, no sentar cátedra. Está bien dejar una pregunta sin cerrar del
+  todo, o admitir que hay más de una forma de verlo.
+- **Nunca sonar a "sabiondo"** — evitar el patrón "casi nadie sabe esto,
+  yo sí" o "esto es la diferencia entre X que parece Y y X que realmente lo
+  es". TBNB no le explica al sector cómo funciona el sector; piensa en voz
+  alta junto a otros que también lo viven.
+- **Nunca sonar robótico** — variar el ritmo de frase, evitar que todos los
+  posts sigan la misma plantilla mecánica (hook / caso hipotético con
+  cifras / frase-eslogan de cierre / pregunta final). Un post puede empezar
+  por una duda propia, una conversación reciente, algo que se ha visto
+  cambiar de opinión.
+- **Hablarle a un colega, no a un cliente potencial.** El lector objetivo de
+  LinkedIn es otro hostelero, consultor o inversor que puede sumarse a la
+  conversación en los comentarios — no alguien al que hay que convencer de
+  contratar a TBNB. Ese matiz ya diferenciaba LinkedIn de Google My Business
+  (que sí busca demostrar/convencer); esta corrección lo hace aún más
+  explícito.
+
 ## Pilares de contenido
 
 - **Gastro tradición** — análisis de bares/restaurantes clásicos con mirada
