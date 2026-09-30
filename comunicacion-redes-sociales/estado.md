@@ -22,13 +22,15 @@
 
 ## Calendario final coordinado — LinkedIn y GMB, octubre 2026
 
-Copy final de `director-redaccion` ya escrito para las 8 piezas cruzadas
-desde Instagram; `director-marketing` confirma aquí la fecha exacta de
-publicación de cada una (coincide con la fecha de la pieza de Instagram de
-origen en los 8 casos — no se ha encontrado motivo operativo para desplazar
-ninguna, ver nota en cada `calendario-octubre.md` de canal). Igual que el
-resto del calendario de octubre, **nada de esto está aprobado para publicar
-sin que Andrea o Sergio lo confirmen, pieza por pieza.**
+**Cerrado editorialmente por Andrea el 2026-09-30**, tras varias rondas de
+ajuste (tono más reflexivo y menos "sabiondo" en LinkedIn; cierres con CTA
+concreto en GMB; sustitución de la pieza de GMB del 28 oct de menu
+engineering a APPCC para no repetir el tema de carta dos veces; reescritura
+de la reflexión final de la pieza de LinkedIn del 25 oct para que no se
+desvíe del hilo de APPCC). No se esperan más cambios de contenido salvo que
+Andrea o Sergio reabran el tema. Sigue pendiente, como siempre, la
+**aprobación de publicación pieza por pieza** — cerrar el contenido no es
+aprobarlo para publicar.
 
 | Fecha | Canal | Tema origen (Instagram) | Estado de aprobación |
 |---|---|---|---|
@@ -39,7 +41,7 @@ sin que Andrea o Sergio lo confirmen, pieza por pieza.**
 | 18 oct | GMB (semana 3) | 18 oct — licencias antes de alquilar un local (Servicios TBNB) | Pendiente de aprobación Andrea/Sergio |
 | 21 oct | LinkedIn | 21 oct — presupuesto antes de la obra (Gastro tendencia) | Pendiente de aprobación Andrea/Sergio |
 | 25 oct | LinkedIn | 25 oct — de la memoria al APPCC (Gastro tradición) | Pendiente de aprobación Andrea/Sergio |
-| 28 oct | GMB (semana 4) | 28 oct — "del escandallo a la carta" (Servicios TBNB / Rentabilidad incómoda) | Pendiente de aprobación Andrea/Sergio + decisión pendiente sobre si se cita el caso Gambit Madrid (no la decide `director-marketing`) |
+| 28 oct | GMB (semana 4) | 25 oct — APPCC (sustituye a "del escandallo a la carta", retirada el 2026-09-30 para no repetir el tema de carta) | Pendiente de aprobación Andrea/Sergio |
 
 No hay fechas duplicadas ni huecos entre las 8 piezas: LinkedIn ocupa 4, 14,
 21 y 25 de octubre; GMB ocupa 7, 11, 18 y 28 de octubre; ningún día se
@@ -73,8 +75,5 @@ repite entre canales.
 - Confirmar con el cliente del caso del 7 de octubre si hay permiso para
   publicar sus cifras de facturación — bloquea tanto la pieza de Instagram
   como sus dos versiones en GMB semana 1
-  (`google-my-business/calendario-octubre.md`).
-- Decidir si se reutiliza el caso Gambit Madrid en GMB semana 4 de octubre
-  (28 oct) o se deja sin caso con nombre, para no repetir el mismo caso dos
-  meses seguidos (ver `google-my-business/calendario-octubre.md`, nota en
-  semana 4).
+  (`google-my-business/calendario-octubre.md`). Es el único bloqueante que
+  sigue abierto en el calendario de octubre.
