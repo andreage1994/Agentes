@@ -3,6 +3,7 @@
 **Servicio:** Concepto y Narrativa de Marca (BAR Method → Architecture) ·
 Identidad Visual
 **Fecha:** 2026-09-25 · **añadida sección 5 (dirección de fotografía), mismo día**
+· **corrección puntual, 2026-09-30 (ver nota abajo).**
 **Rol:** Dirección de arte (`lokal-direccion-arte`) — sensaciones, referencias
 y principios. No fija hex ni tipografías finales: eso es trabajo de
 `lokal-diseno-identidad` a partir de este marco.
@@ -11,6 +12,26 @@ THE LOKAL WAY), `analisis-cuestionario-kickoff.md` (referencias de Sergi y
 Susan), `fase-a-investigacion-mercado.md` puntos 5 y 6b (casos de bagel y de
 "saludable con disfrute"), `fase-c-diseno-ecosistema.md` (piezas que vendrán
 después).
+
+**Nota de revisión (2026-09-30):** corrección puntual, no una revisión
+completa. Dos ajustes:
+
+1. La sección 5 citaba una paleta de color obsoleta ("crema/carbón" con
+   "sage" de acento). `02-sistema-identidad.md` (revisión 5) sustituyó esa
+   paleta por Moss Green (protagonista), Kombu Green y Café Noir (inks),
+   Bone (base) y Tan (neutro secundario) — sage y carbón ya no existen en el
+   sistema. Se corrige la frase de color en la sección 5.
+2. `fase-b-plataforma-marca.md` (v3) corrigió el sentido, no solo la
+   redacción, de dos de las cinco tensiones de THE LOKAL WAY: **"Local, but
+   good" pasa a ser "Local, but never closed"** (ya no trata del nivel de
+   calidad, sino de no ser un sitio cerrado o excluyente) y **"Homemade, but
+   never inconsistent" pasa a ser "Homemade, but never ordinary"** (ya no
+   trata de control de calidad o repetición, sino de no caer en lo
+   genérico). Se han revisado y corregido todas las menciones de estas dos
+   tensiones en este documento, incluido el razonamiento que las
+   acompañaba donde ya no encajaba con el sentido nuevo. El resto del
+   documento (referencias visuales, paleta emocional, dirección de
+   fotografía más allá de la frase de color señalada) no se ha tocado.
 
 ---
 
@@ -98,23 +119,25 @@ demostrarlo.
 
 | Tensión | El lado fácil a evitar |
 |---|---|
-| **Local, but good** | Estética "de bar de siempre" descuidada: azulejo desgastado sin intención, carta plastificada, luz de fluorescente, sensación de que "local" es sinónimo de anticuado o dejado. |
+| **Local, but never closed** | Estética de "sitio para los de siempre": códigos de club cerrado o de escena hipster que solo entienden los iniciados (carta sin explicar, señalética en jerga, guiños que solo "los del barrio" descifran), un local que se siente exclusivo o intimidante para quien entra por primera vez — todo lo que comunique "esto no es para ti si no eres ya de aquí". |
 | **Healthy, but not boring** | Verde lechuga genérico, iconografía de gimnasio/suplementos, tipografía fría tipo app de fitness, fotografía de bowl "perfecto" sin brillo ni sabor, ausencia total de indulgencia visual. |
 | **International, but never disconnected** | Pastiche de "aeropuerto global": mapamundi decorativo, banderas, objetos de culturas distintas usados como atrezzo exótico sin ninguna conexión real con un producto, una persona o un origen concreto. |
-| **Homemade, but never inconsistent** | Estética casera desordenada de verdad: packaging que parece improvisado con lo que había a mano, fotos con luz amarilla de cocina doméstica mal resuelta, ausencia de cualquier sistema repetible — lo "hecho a mano" sin cuidado se lee como falta de rigor, no como calidez. |
+| **Homemade, but never ordinary** | Estética "casera" convertida en cliché genérico: el mismo papel kraft, la misma tipografía manuscrita y los mismos tarros de cristal que ya usa cualquier café de especialidad — "hecho en casa" como fórmula copiada sin ningún rasgo propio de The Lokal, en vez de una calidez que se sienta específica y reconocible. |
 | **Quality, but never pretentious** | Mármol blanco y dorado genérico de "lujo de aeropuerto", tipografía serif de alta gama, fotografía tipo editorial de revista fría y distante, personal con uniforme de sala de restaurante con estrella — todo lo que comunique que el cliente tiene que estar a la altura del sitio, en vez de al revés. |
 
 ---
 
 ## 4. Cómo se traducen las 5 tensiones en decisiones visuales
 
-**Local, but good.** La imagen tiene que anclarse en gestos y materiales
-reconocibles de mercado y barrio (madera, papel kraft, pizarra, producto a
-la vista, como en Ametller o el Mercat de Sant Antoni) pero ejecutados con el
-mismo nivel de cuidado y consistencia que una marca de café de especialidad
-como Fonik. Encaja: una pizarra con letra cuidada y repetida; no encaja: una
-pizarra distinta y desordenada cada semana. El listón es "de barrio, pero
-nunca descuidado".
+**Local, but never closed.** La imagen tiene que anclarse en gestos y
+materiales reconocibles de mercado y barrio (madera, papel kraft, pizarra,
+producto a la vista, como en Ametller o el Mercat de Sant Antoni) pero
+mostrados de forma abierta y legible para cualquiera que pase por primera
+vez — como Fonik, citado precisamente por dar "sensación inmediata de
+pertenencia al entrar", no por ser un secreto de iniciados. Encaja: una
+pizarra con los productos y precios claros, a la vista desde la calle; no
+encaja: señalética o jerga que solo entienden los clientes habituales. El
+listón es "de barrio, pero nunca cerrado a quien lo descubre hoy".
 
 **Healthy, but not boring.** La fotografía de producto debe mostrar textura,
 mordisco, brillo — el bagel relleno de jamón ibérico o trufa se fotografía
@@ -131,12 +154,17 @@ el nombre de un proveedor, el origen real de un grano — nunca de un símbolo
 genérico (bandera, mapa). Encaja: una etiqueta que cuenta de dónde viene ese
 café concreto; no encaja: un icono de "mundo" o "avión" de stock.
 
-**Homemade, but never inconsistent.** Lo casero se expresa en materiales y
-gestos (papel, sellos, packaging que remite a manos) pero dentro de un
-sistema que se repite exactamente igual cada vez — como el tartán de Leon's
-Bagels, no como la estética deliberadamente cruda de PopUp llevada sin
-disciplina. Encaja: una bolsa de papel con el mismo sello en el mismo sitio
-siempre; no encaja: packaging distinto cada semana "porque es artesanal".
+**Homemade, but never ordinary.** Lo casero se expresa en materiales y
+gestos (papel, sellos, packaging que remite a manos) pero con un punto de
+vista propio de The Lokal, no con la fórmula genérica de "papel kraft +
+letra manuscrita" que ya usa cualquier marca artesanal. Leon's Bagels
+demuestra que un sistema gráfico repetido y disciplinado construye una
+identidad reconocible en vez de diluirse en el cliché "hecho a mano"; PopUp
+funciona porque su imperfección tiene voz propia (fotos reales de sus
+clientes, carteles con su propio humor), no porque sea descuidada. Encaja:
+un sello o gesto casero que solo The Lokal usa y repite; no encaja: un
+packaging "de manualidad" indistinguible del de cualquier otro sitio
+artesanal.
 
 **Quality, but never pretentious.** La calidad se demuestra en el detalle de
 producción (buen papel, buena impresión, cuidado en el acabado) y en el
@@ -183,10 +211,11 @@ ritual, no espacio — ver Fase A punto 5).
 - **Luz natural**, nunca de estudio ni de fluorescente de bar de siempre —
   es el punto medio entre "local, but never closed" (accesible, sin
   pretensión) y "quality" (cuidado real, no impostado).
-- **Gradación de color anclada a la paleta** (`02-sistema-identidad.md`
-  sección 2): tonos cálidos hacia crema/carbón, con el sage como acento de
-  fondo o de props — nunca un grading frío o desaturado tipo clínica de
-  nutrición.
+- **Gradación de color anclada a la paleta** (`02-sistema-identidad.md`,
+  revisión 5): tonos cálidos con el Bone como base, el Moss Green como
+  acento protagonista, el Tan como neutro secundario de apoyo, y los inks en
+  Kombu Green o Café Noir — una familia terrosa y otoñal, nunca un grading
+  frío o desaturado tipo clínica de nutrición.
 - **Formato pensado para llevar la marca fuera del local físico**: al no
   haber sala, la fotografía en redes/packaging tiene que funcionar también
   como la "postal" del sitio — gente comiendo en la calle, de camino, en el
