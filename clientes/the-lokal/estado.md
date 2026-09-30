@@ -97,3 +97,146 @@ Resolver con Sergi y Susan las 3 preguntas abiertas que siguen sin respuesta
 paralelo, avanzar la identidad visual con el equipo de agentes creado (ver
 `fase-c-diseno-ecosistema.md`). Cuando haya nueva ubicación, actualizar solo
 la parte de zona del territorio competitivo en la Fase A.
+
+---
+
+## Revisión de coherencia de marca — identidad visual, revisión 5/2 (2026-09-30)
+
+**Quién revisa:** `lokal-revision-coherencia-marca`, contra
+`fase-b-plataforma-marca.md`. **Qué se revisó:** `02-sistema-identidad.md`
+revisión 5 (paleta Moss Green/Kombu Green/Café Noir/Tan/Bone) y
+`03-diseno-aplicado.md` revisión 2 (packaging con esa paleta + taglines
+situacionales de `fase-c-diseno-ecosistema.md` sección c + 2 piezas nuevas).
+**No se aprueba nada para producción aquí** — esto es insumo para que
+Andrea/Sergio decidan; ver recomendación priorizada al final.
+
+### Qué funciona
+
+- **Formato de macros y lenguaje nutricional** (`P 24g · C 38g · F 14g`, IBM
+  Plex Mono, término **ADOPTED**, prohibición explícita de "healthy/
+  guilt-free/clean/detox/superfood/diet/light") — sostiene bien **Cuidado
+  como producto, no como discurso** y evita el tono clínico que la marca
+  quiere evitar explícitamente. El dato se presenta como "ficha"/credencial,
+  no como etiqueta de envasado. Bien resuelto.
+- **Separación de los dos sistemas rotativos** (Nº 01-05 de THE LOKAL WAY en
+  el ticket vs. tagline situacional de compra en bolsa/vaso/portavasos) — la
+  justificación de `03-diseno-aplicado.md` 2.0.3 de no fusionarlos en la
+  misma pieza pequeña es sólida y coherente con **Homemade, but never
+  ordinary** (repetición disciplinada, no acumulación de recursos). Sin
+  embargo, ver más abajo la dependencia que esto crea con la elección de
+  logo, todavía sin decidir.
+- **Bolsa/caja con ventana para varios bagels (2.2b)** — es la pieza mejor
+  justificada de las dos nuevas: conecta directamente con la referencia de
+  mercado ya citada en `01-direccion-arte.md` (Ametller, Mercat de Sant
+  Antoni, "producto a la vista, nunca vitrina fría") y sostiene **Local, but
+  never closed** con un argumento concreto, no solo estético.
+- **Retirada del terracota se documenta como pregunta abierta, no como
+  decisión tomada en silencio** — tanto `02-sistema-identidad.md` como
+  `03-diseno-aplicado.md` señalan explícitamente que queda un hueco (modelo
+  Honest Greens de separar "indulgente" de "nutritivo") y lo dejan pendiente
+  de Andrea/Sergio en vez de inventar un color de sustitución. Correcto.
+- **Las 3 preguntas abiertas de Fase B (coctelería, deporte, criterio de
+  contratación) se respetan** — ninguna pieza de packaging ni de iconografía
+  da por resuelta ninguna de las tres; quedan explícitamente bloqueadas hasta
+  que Sergi y Susan respondan. Correcto.
+
+### Qué no encaja o necesita ajuste
+
+1. **`01-direccion-arte.md` tiene una referencia de color directamente
+   obsoleta.** Sección 5 ("Cómo se ejecutan: luz, color, formato") dice
+   textualmente: *"Gradación de color anclada a la paleta (...): tonos
+   cálidos hacia crema/carbón, con el sage como acento de fondo o de
+   props"*. Sage, crema y carbón ya no existen en `02-sistema-identidad.md`
+   revisión 5 (sustituidos por Moss Green/Bone y por Kombu Green/Café Noir
+   como tinta). Esta frase contradice hoy el sistema vigente y debería
+   corregirla `lokal-direccion-arte`, no yo. Relacionado: la Sección 3 de ese
+   mismo documento sigue usando la redacción antigua de dos tensiones
+   ("Local, but good" y "Homemade, but never inconsistent") que
+   `fase-b-plataforma-marca.md` v3 ya corrigió de sentido (ahora "Local, but
+   never closed" y "Homemade, but never ordinary") — esto ya estaba
+   señalado como pendiente en la propia Fase B, lo confirmo aquí porque
+   sigue sin corregirse y `02-sistema-identidad.md`/`03-diseno-aplicado.md`
+   ya trabajan con la redacción nueva, ampliando el desfase entre documentos.
+
+2. **La paleta, tomada como conjunto, deja "Healthy, but never boring" algo
+   peor servida que antes, y abre un riesgo latente en "Quality, but never
+   pretentious".** Los cinco colores (Moss/Kombu/Café Noir/Tan/Bone) son
+   todos tonos terrosos, apagados y otoñales — no queda ningún acento vivo o
+   cálido en la paleta core (el terracota cubría ese papel). El argumento de
+   `02-sistema-identidad.md` de que un verde musgo evita mejor el "verde
+   lechuga genérico" es válido, pero el efecto de conjunto (sin ningún
+   contraste cálido/vivo) empuja el sistema hacia el registro "serio,
+   editorial, de temporada" más que hacia "apetecible y con energía" — el
+   propio documento reconoce el riesgo de leerse como "textil de boutique" a
+   escala de bolsa (sección 1.5) y dos piezas nuevas de packaging más
+   elaboradas (tag troquelado, portavasos) se suman a esa dirección. No es
+   una ruptura, pero sí un riesgo real que solo la tipografía y el lenguaje
+   (sección c) están compensando hoy — merece prueba real sobre packaging
+   físico antes de darlo por bueno, tal como ambos documentos ya piden para
+   otros motivos (legibilidad).
+
+3. **Riesgo de exclusión sin querer, transversal a toda la dirección
+   visual, no solo a una pieza.** El eje completo de referencias (Leon's
+   Bagels, Courage Bagels, PopUp Bagels, más "My Space"/Ocean Café/Kiro) es
+   el código estético de cafeterías/bagel shops "lifestyle" de EEUU:
+   streetwear, parche de club, wordmark a sangre, tag colgante troquelado.
+   Es una dirección que Andrea pidió explícitamente ("inspírate en marcas
+   más modernas con estilo de vida"), así que no es un error de ejecución —
+   pero sí es exactamente el tipo de estética aspiracional que el valor
+   **Pertenencia sin exclusión** pide vigilar: puede leerse como "muy hip"
+   para el vecino de toda la vida, Gen X no urbanita, o cliente que no
+   consume ese código cultural concreto (streetwear/specialty coffee de
+   NYC/LA). Ninguno de los dos documentos revisados menciona este riesgo de
+   forma explícita al evaluar las piezas contra las 5 tensiones — las
+   evaluaciones de 2.7 y 2.2b, por ejemplo, dicen "sin riesgo" en esta
+   tensión sin argumentarlo. Recomiendo que quede como pregunta explícita
+   para Andrea/Sergio (y quizá para contrastar con Sergi/Susan): ¿el
+   registro "club/streetwear" sigue sirviendo a "sea como sea, piense como
+   piense, hable como hable" o hace falta un contrapeso más neutro en alguna
+   pieza (p. ej. la que más ve el cliente que no busca ese código, como el
+   envoltorio individual o la tarjeta de origen)?
+
+4. **Portavasos "My Space" (2.7) tiene una justificación más débil que el
+   resto de piezas nuevas.** Su evaluación contra las 5 tensiones se apoya
+   sobre todo en "no hay riesgo" en vez de en una tensión que la pieza
+   resuelva de forma positiva (a diferencia de la bolsa con ventana, que sí
+   tiene ese argumento fuerte vía **Local, but never closed**). La necesidad
+   real que se cita (pedidos de grupo, oficinas, post-entreno) es plausible
+   pero no está confirmada por ningún dato de Fase A/B — es una suposición
+   operativa razonable, no una tensión de marca que exija esta pieza hoy.
+   Como además implica un proveedor y una cadena de producción nuevos
+   (cartón estructural, troquelado opcional del tag), vale la pena que
+   Andrea/Sergio confirmen si es prioritaria ahora o si puede esperar a
+   validar volumen real de pedidos de grupo.
+
+5. **El formato de macros se da por "cerrado" sin paso explícito de
+   validación de Andres/Sergio.** `fase-c-diseno-ecosistema.md` presentaba 3
+   opciones "a elegir" sin especificar quién decide; `03-diseno-aplicado.md`
+   elige una y la marca como resuelta (ya no aparece en su lista de
+   pendientes de validación). El razonamiento es sólido (compacidad,
+   coherencia con IBM Plex Mono, tono no corporativo), pero al venir
+   directamente del Brand Strategy Book de Andrea como "una decisión sin
+   tomar", probablemente convenga que quede confirmada por Andrea/Sergio
+   explícitamente antes de tratarse como cerrada, no solo justificada por
+   diseño aplicado.
+
+### Recomendación priorizada (si solo se pudieran arreglar 2-3 cosas)
+
+1. **Corregir `01-direccion-arte.md`** (color obsoleto en sección 5 y
+   redacción antigua de dos tensiones en sección 3) — es lo más mecánico y
+   lo que más fácilmente genera confusión si alguien lo lee como vigente.
+   Encargo directo a `lokal-direccion-arte`.
+2. **Resolver explícitamente con Andrea/Sergio el riesgo de exclusión
+   transversal** (punto 3) antes de avanzar más piezas en el registro
+   streetwear/club — no es un error, pero si no se nombra ahora, se acumula
+   en cada pieza nueva sin que nadie lo haya sopesado contra "pertenencia
+   sin exclusión".
+3. **Antes de imprimir nada:** prueba real de la paleta sobre kraft/papel
+   grease-proof (ya pedida por ambos documentos) — y de paso, aprovechar esa
+   prueba para valorar a ojo si el conjunto sin acento cálido sostiene
+   "Healthy, but never boring" o si conviene resolver ya la pregunta
+   pendiente del acento tipo Honest Greens en vez de dejarla para la carta
+   más adelante.
+
+**Recordatorio:** nada de esto se publica ni se produce sin que Andrea o
+Sergio lo aprueben después de esta revisión.
