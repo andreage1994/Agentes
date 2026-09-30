@@ -112,26 +112,32 @@ vosotros?
 
 ## 4 · 25 octubre — origen IG: "¿Qué podemos aprender de los bares de toda la vida?" (Gastro tradición)
 
-El APPCC no es el papeleo que se rellena para tener contento a un
-inspector. Es, básicamente, la misma sabiduría de "esto se hace así" que ya
-tiene cualquier bar con oficio — solo que escrita, verificable, y que no
-depende de que una persona concreta se acuerde de hacerla bien.
+Últimamente le doy vueltas a algo que no me cuadra del todo: en cocina
+confiamos mucho en la experiencia, y muy poco en dejarla por escrito.
 
-Lo pienso cada vez que hablo con dueños de locales que llevan treinta años
-haciendo la cocina "de memoria". Con un solo local y las mismas dos o tres
-personas al frente, esa memoria funciona de verdad: es fiable, rápida,
-barata. El problema llega el día que el negocio deja de depender de una
-sola cabeza — un segundo local, un cambio de turno, alguien nuevo que no
-lleva treinta años ahí. Ahí es donde "así lo hacemos siempre" puede
-convertirse en "aquí se hace así y allí de otra forma", sin que nadie se dé
-cuenta hasta que hay un problema real.
+Conozco gente que lleva treinta años haciendo las cosas bien de memoria —
+sabe justo cuánto aguanta un producto abierto, a qué temperatura debe estar
+la cámara, qué paso no se puede saltar nunca. Lo hace bien, de verdad. Pero
+ese saber vive solo en su cabeza.
 
-No creo que sistematizar sea lo contrario de tener oficio. Puede que sea,
-simplemente, lo que hace falta para que el oficio aguante cuando el negocio
-crece más de lo que una sola persona puede sostener.
+El APPCC intenta poner por escrito justo eso. No como un trámite para
+quedar bien en una inspección, sino como una forma de que ese conocimiento
+no dependa de que una persona concreta esté ahí ese día, se acuerde, o
+tenga la cabeza en otro sitio.
 
-¿En vuestra operación hay algo que solo funciona porque alguien concreto se
-acuerda de hacerlo bien?
+Y ahí me hago una pregunta que no me deja del todo tranquilo: confiamos en
+la experiencia para casi todo en un restaurante. Pero en seguridad
+alimentaria —donde el error no es un cliente que se queja, sino alguien
+que se pone enfermo— ¿por qué seguimos dejando tanto en manos de la
+memoria de una sola persona?
+
+No tengo una respuesta fácil. Puede que sea simplemente más cómodo confiar
+en quien lleva años haciéndolo bien que en un protocolo escrito. Pero me
+pregunto si esa comodidad es la que de verdad queremos sostener cuando lo
+que está en juego no es una mesa mal servida.
+
+¿Vuestra cocina depende de la memoria de alguien o de un sistema que
+cualquiera del equipo podría seguir igual?
 
 ---
 
