@@ -112,23 +112,19 @@ vosotros?
 
 ## 4 · 25 octubre — origen IG: "¿Qué podemos aprender de los bares de toda la vida?" (Gastro tradición)
 
-Estuve hace poco en un bar de los de toda la vida, hablando con el dueño de
-cómo llevan la cocina. Me dijo, con la naturalidad de quien lleva treinta
-años haciendo lo mismo: "esto aquí se hace de memoria". Y con un solo
-local, con las mismas dos o tres personas al frente, esa memoria funciona
-de verdad. Es fiable, rápida, barata.
+El APPCC no es el papeleo que se rellena para tener contento a un
+inspector. Es, básicamente, la misma sabiduría de "esto se hace así" que ya
+tiene cualquier bar con oficio — solo que escrita, verificable, y que no
+depende de que una persona concreta se acuerde de hacerla bien.
 
-Lo que me pregunto es qué pasa el día que ese negocio deja de depender de
-una sola cabeza. Un segundo local, un cambio de turno, una baja, alguien
-nuevo que no lleva treinta años ahí. La memoria no se transmite sola, y lo
-que en un local es "así lo hacemos siempre" en dos locales puede convertirse
-en "aquí se hace así y allí de otra forma", sin que nadie se dé cuenta hasta
-que hay un problema de verdad.
-
-Cada vez veo el APPCC menos como un trámite para tener contento a un
-inspector y más como esa misma sabiduría de "esto se hace así", pero
-escrita y transmisible — de forma que no dependa de que una persona
-concreta se acuerde.
+Lo pienso cada vez que hablo con dueños de locales que llevan treinta años
+haciendo la cocina "de memoria". Con un solo local y las mismas dos o tres
+personas al frente, esa memoria funciona de verdad: es fiable, rápida,
+barata. El problema llega el día que el negocio deja de depender de una
+sola cabeza — un segundo local, un cambio de turno, alguien nuevo que no
+lleva treinta años ahí. Ahí es donde "así lo hacemos siempre" puede
+convertirse en "aquí se hace así y allí de otra forma", sin que nadie se dé
+cuenta hasta que hay un problema real.
 
 No creo que sistematizar sea lo contrario de tener oficio. Puede que sea,
 simplemente, lo que hace falta para que el oficio aguante cuando el negocio
