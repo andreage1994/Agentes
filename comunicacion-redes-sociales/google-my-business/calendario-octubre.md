@@ -12,6 +12,14 @@ que reconoce una situación común → síntomas/causas breves → frase que res
 el enfoque de TBNB → cierre con pregunta directa + invitación suave a
 contactar.
 
+**Revisión de cierre/CTA (feedback directo de Andrea, 2026-09-30):** el
+cierre de las 4 piezas se ha reescrito para sustituir la frase genérica
+repetida ("Si quieres una mirada externa sobre tu negocio/tu carta/tu
+proyecto, estaremos encantados de conocerlo/conocerla/conocer tu proyecto")
+por un incentivo concreto y distinto por tema, siguiendo el criterio de
+`BRIEF.md`, sección "Matiz de cierre específico para Google My Business". El
+resto de cada pieza (título, desarrollo, síntomas, ejemplo) no se ha tocado.
+
 **Fechas confirmadas por `director-marketing`:** el plan de cruce hablaba de
 "semana 1" a "semana 4"; se fija como fecha exacta de publicación el mismo
 día que la pieza de Instagram de origen de cada una — 7, 11, 18 y 28 de
@@ -59,8 +67,9 @@ facturación adicional en 6 meses — sin cambiar la carta, sin subir precios,
 solo reorganizando cuándo abría el negocio.
 
 ¿Sabes qué franjas horarias te hacen ganar dinero y cuáles solo te cuestan
-mantener la persiana subida? Si quieres una mirada externa sobre tu negocio,
-estaremos encantados de conocerlo.
+mantener la persiana subida? Podemos revisar contigo la rentabilidad por
+franja horaria de tu negocio y decirte qué horas merece la pena mantener
+abiertas y cuáles no.
 
 ### Versión B — alternativa anonimizada (usar si no se confirma el permiso a tiempo)
 
@@ -84,8 +93,9 @@ notable la facturación del negocio, sin tocar la carta ni subir un solo
 precio.
 
 ¿Sabes qué franjas horarias te hacen ganar dinero y cuáles solo te cuestan
-mantener la persiana subida? Si quieres una mirada externa sobre tu negocio,
-estaremos encantados de conocerlo.
+mantener la persiana subida? Podemos revisar contigo la rentabilidad por
+franja horaria de tu negocio y decirte qué horas merece la pena mantener
+abiertas y cuáles no.
 
 ---
 
@@ -111,8 +121,8 @@ Method: no solo qué platos incluir, sino dónde colocarlos y qué peso dar a
 cada uno.
 
 ¿Tu carta dirige la decisión del cliente o solo le informa de lo que hay?
-Si quieres una mirada externa sobre tu negocio, estaremos encantados de
-conocerlo.
+Podemos revisar contigo el recorrido y la jerarquía de tu carta actual, y
+decirte qué platos deberían tener más peso del que tienen ahora.
 
 ---
 
@@ -133,9 +143,10 @@ anticipó.
 No compras metros cuadrados. Compras posibilidades de negocio — y esas
 posibilidades las define la licencia, no el escaparate.
 
-¿Sabes qué preguntar antes de firmar tu próximo alquiler? Si quieres una
-mirada externa antes de dar ese paso, estaremos encantados de conocer tu
-proyecto.
+¿Sabes qué preguntar antes de firmar tu próximo alquiler? Antes de que
+firmes, podemos revisar contigo la licencia y el concepto que tienes en
+mente, para que las restricciones las conozcas antes de firmar y no
+después.
 
 ---
 
@@ -172,8 +183,9 @@ Architecture del BAR Method — no se trata de tener una carta bonita, sino de
 tener una carta de la que sepamos por qué está construida como está.
 
 ¿Sabes qué plato de tu carta deberías estar empujando y cuál deberías dejar
-de ofrecer? Si quieres una mirada externa sobre tu carta, estaremos
-encantados de conocerla.
+de ofrecer? Podemos cruzar contigo las ventas, el margen y la popularidad
+de cada plato de tu carta actual, y decirte qué merece potenciarse,
+rediseñarse o desaparecer.
 
 ---
 
