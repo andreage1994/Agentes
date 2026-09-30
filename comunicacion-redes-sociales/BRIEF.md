@@ -61,6 +61,27 @@ no solo qué se dice:
   (que sí busca demostrar/convencer); esta corrección lo hace aún más
   explícito.
 
+### Matiz de cierre específico para Google My Business (feedback directo de Andrea, 2026-09-30)
+
+El cierre genérico ("Si quieres una mirada externa sobre tu negocio,
+estaremos encantados de conocerlo") se repite igual en todas las piezas y
+no dice nada concreto — GMB es el canal que busca **demostrar y convencer**
+(ver arriba), así que el cierre tiene que llevar ese objetivo hasta el
+final, no diluirlo en una frase de cortesía:
+
+- **El CTA final debe ser un incentivo concreto, no una cortesía.** En vez
+  de "estaremos encantados de conocerlo", decir específicamente qué haría
+  TBNB con el problema que acaba de plantear el post — ej. "podemos
+  revisar contigo la rentabilidad por franja horaria de tu negocio" en vez
+  de "podemos ayudarte con tu negocio".
+- **Atado al tema del post, no genérico.** El incentivo cambia según si el
+  post habla de horarios, carta, licencias o menu engineering — nunca el
+  mismo cierre copiado en las 4 piezas del mes.
+- **Sin inventar promesas ni cifras nuevas.** El incentivo describe el tipo
+  de ayuda (una revisión, un análisis, una mirada externa aplicada a ESE
+  problema concreto), no un resultado garantizado que no esté ya
+  respaldado por un caso real documentado.
+
 ## Pilares de contenido
 
 - **Gastro tradición** — análisis de bares/restaurantes clásicos con mirada
