@@ -11,6 +11,16 @@ Copy final a partir del ángulo ya decidido por
 cortos y preguntas retóricas → giro/contraste → cierre en pregunta abierta
 (nunca CTA de venta directo).
 
+**Fechas confirmadas por `director-marketing`:** se mantienen las cuatro
+fechas ya implícitas en `plan-cruce-linkedin-gmb-octubre.md` — 4, 14, 21 y 25
+de octubre, el mismo día que su pieza de Instagram de origen. No se ha
+detectado ningún motivo operativo para desplazarlas: en cada uno de esos
+cuatro días, Instagram y LinkedIn comparten el mismo tema con ángulo
+ampliado (refuerzo intencionado del mensaje del día, no sobrecarga de temas
+distintos), y ninguna fecha de LinkedIn coincide con otra pieza de LinkedIn
+ni con una pieza de GMB el mismo día (las cuatro piezas de GMB de este mes
+caen en 7, 11, 18 y 28 de octubre — ver `google-my-business/calendario-octubre.md`).
+
 ---
 
 ## 1 · 4 octubre — origen IG: "Por qué funciona: Malparit" (Gastro tendencia)

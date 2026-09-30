@@ -12,15 +12,30 @@ que reconoce una situación común → síntomas/causas breves → frase que res
 el enfoque de TBNB → cierre con pregunta directa + invitación suave a
 contactar.
 
+**Fechas confirmadas por `director-marketing`:** el plan de cruce hablaba de
+"semana 1" a "semana 4"; se fija como fecha exacta de publicación el mismo
+día que la pieza de Instagram de origen de cada una — 7, 11, 18 y 28 de
+octubre. No se ha detectado ningún motivo operativo para desplazarlas: cada
+una de esas fechas refuerza en GMB el mismo tema que ya se publica ese día
+en Instagram (y, en el caso del 7 de octubre, comparte también el mismo
+bloqueante pendiente), y ninguna coincide con una fecha de LinkedIn (4, 14,
+21 y 25 de octubre — ver `linkedin/calendario-octubre.md`). Las dos
+decisiones señaladas por `director-estrategia-marca-comunicacion` (semana 1
+y semana 4) siguen **pendientes de Andrea/Sergio** y no se resuelven aquí.
+
 ---
 
-## Semana 1 — origen IG: 7 octubre, caso reorganización de horarios (+100.000€ en 6 meses)
+## Semana 1 — 7 de octubre — origen IG: 7 octubre, caso reorganización de horarios (+100.000€ en 6 meses)
 
 > 🚫 **BLOQUEANTE HEREDADO — no aprobar ninguna de las dos versiones sin que
 > Andrea o Sergio confirmen el permiso del cliente para publicar sus
 > cifras.** Esto no lo resuelve `director-redaccion`. Se entregan **dos
 > versiones**; la decisión de cuál usar (o si se deja la semana 1 sin pieza
 > este mes) es de Andrea/Sergio.
+>
+> **Fecha:** 7 de octubre (mismo día que la pieza de Instagram, también
+> bloqueada) — pendiente de decisión de Andrea/Sergio, tanto de la fecha
+> definitiva como de la versión.
 
 ### Versión A — con caso real (usar SOLO si se confirma el permiso)
 
@@ -74,7 +89,7 @@ estaremos encantados de conocerlo.
 
 ---
 
-## Semana 2 — origen IG: 11 octubre, recorrido de supermercado aplicado al diseño de carta
+## Semana 2 — 11 de octubre — origen IG: 11 octubre, recorrido de supermercado aplicado al diseño de carta
 
 **¿Tu carta guía al cliente o solo le informa?**
 
@@ -101,7 +116,7 @@ conocerlo.
 
 ---
 
-## Semana 3 — origen IG: 18 octubre, licencias antes de alquilar un local
+## Semana 3 — 18 de octubre — origen IG: 18 octubre, licencias antes de alquilar un local
 
 **¿Sabes qué preguntar antes de firmar el alquiler de tu próximo local?**
 
@@ -124,7 +139,7 @@ proyecto.
 
 ---
 
-## Semana 4 — origen IG: 28 octubre, "Del escandallo a la carta" (ventas × margen × popularidad)
+## Semana 4 — 28 de octubre — origen IG: 28 octubre, "Del escandallo a la carta" (ventas × margen × popularidad)
 
 > **Nota para Andrea/Sergio:** versión por defecto SIN caso con nombre, para
 > no repetir el caso Gambit Madrid dos meses seguidos (ya citado en el
@@ -132,6 +147,10 @@ proyecto.
 > confirmáis que queréis reutilizarlo, se añade un párrafo citando "Gambit
 > Madrid" con su cifra de ticket medio, siguiendo el mismo patrón que la
 > pieza de Lady Madrid de septiembre.
+>
+> **Fecha:** 28 de octubre (mismo día que la pieza de Instagram) — la fecha
+> no está en duda; lo pendiente de Andrea/Sergio es únicamente si se añade
+> o no el caso Gambit Madrid al texto.
 
 **¿Sabes qué platos de tu carta deberías potenciar, cuáles rediseñar y
 cuáles quitar?**

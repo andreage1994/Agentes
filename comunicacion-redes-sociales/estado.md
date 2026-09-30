@@ -20,6 +20,31 @@
   no coincidía) y todo el copy ya redactado del excel, listo para pegar.
   Excluye a propósito el flujo POST-VENTA (decisión de Andrea, 2026-09-17).
 
+## Calendario final coordinado — LinkedIn y GMB, octubre 2026
+
+Copy final de `director-redaccion` ya escrito para las 8 piezas cruzadas
+desde Instagram; `director-marketing` confirma aquí la fecha exacta de
+publicación de cada una (coincide con la fecha de la pieza de Instagram de
+origen en los 8 casos — no se ha encontrado motivo operativo para desplazar
+ninguna, ver nota en cada `calendario-octubre.md` de canal). Igual que el
+resto del calendario de octubre, **nada de esto está aprobado para publicar
+sin que Andrea o Sergio lo confirmen, pieza por pieza.**
+
+| Fecha | Canal | Tema origen (Instagram) | Estado de aprobación |
+|---|---|---|---|
+| 4 oct | LinkedIn | 4 oct — Malparit, "por qué funciona" (Gastro tendencia) | Pendiente de aprobación Andrea/Sergio |
+| 7 oct | GMB (semana 1) | 7 oct — caso reorganización de horarios, +100.000€ (Servicios TBNB) | **Bloqueado** — pendiente de que Andrea/Sergio confirmen permiso del cliente y elijan versión (con o sin caso real); no lo decide `director-marketing` |
+| 11 oct | GMB (semana 2) | 11 oct — recorrido de supermercado aplicado a la carta (Gastro tendencia) | Pendiente de aprobación Andrea/Sergio |
+| 14 oct | LinkedIn | 14 oct — escandallo/food cost (Gastro tradición / Rentabilidad incómoda) | Pendiente de aprobación Andrea/Sergio |
+| 18 oct | GMB (semana 3) | 18 oct — licencias antes de alquilar un local (Servicios TBNB) | Pendiente de aprobación Andrea/Sergio |
+| 21 oct | LinkedIn | 21 oct — presupuesto antes de la obra (Gastro tendencia) | Pendiente de aprobación Andrea/Sergio |
+| 25 oct | LinkedIn | 25 oct — de la memoria al APPCC (Gastro tradición) | Pendiente de aprobación Andrea/Sergio |
+| 28 oct | GMB (semana 4) | 28 oct — "del escandallo a la carta" (Servicios TBNB / Rentabilidad incómoda) | Pendiente de aprobación Andrea/Sergio + decisión pendiente sobre si se cita el caso Gambit Madrid (no la decide `director-marketing`) |
+
+No hay fechas duplicadas ni huecos entre las 8 piezas: LinkedIn ocupa 4, 14,
+21 y 25 de octubre; GMB ocupa 7, 11, 18 y 28 de octubre; ningún día se
+repite entre canales.
+
 ## Canales activos
 
 - Instagram (`instagram/`)
@@ -28,7 +53,8 @@
   `director-redaccion` a partir del plan de cruce. Pendiente de aprobación de
   Andrea o Sergio, pieza por pieza.
 - Google My Business (`google-my-business/`) — copy final de octubre listo en
-  `google-my-business/calendario-octubre.md` (semanas 1-4), redactado por
+  `google-my-business/calendario-octubre.md` (semanas 1-4, con fecha exacta
+  confirmada: 7, 11, 18 y 28 de octubre), redactado por
   `director-redaccion`. La pieza de semana 1 incluye dos versiones (con caso
   real y alternativa anonimizada) a la espera del permiso del cliente del 7
   de octubre; la de semana 4 se entrega sin caso con nombre por defecto, con
