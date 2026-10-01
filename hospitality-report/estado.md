@@ -6,29 +6,43 @@
 ## Edición en curso
 
 Todavía no hay una edición formalmente abierta en `ediciones/`. Lo que existe hasta
-ahora es investigación acumulada en `matriz-tematica.md` (fuentes de EHL, Mintel,
-Gluttonomy, Deloitte, Coca-Cola Lens, National Restaurant Association, McKinsey,
-WGSN, DoorDash+SevenRooms y, más reciente, tres fuentes de branding/marketing de
-restaurantes compartidas por Andrea: Designhill, Graphic Design Eye ("Top 10
-Restaurant Branding Trends That Define Modern Dining", 5 jul 2026 — aporta 10
-casos reales con marca propia en sección 04 CONCEPT WATCH: Miller's Guild, Bavel,
-Slutty Vegan, HomeState, Dig, Sweetgreen, Shake Shack, Girl & The Goat, Café
-Gratitude, Tracksmith) y Eat App ("Restaurant Branding Strategy (2026)", 21 ene
-2026 — sin cifras, pero con un framework de marca que coincide casi punto por
-punto con el índice de "Concepto y Narrativa de Marca" del BAR Method, y con
-tácticas de visibilidad/awareness que no cubrían las otras dos). Las tres
-convergen en la misma tesis de fondo — candidato razonable a TREND, no NOISE —
-pero las cifras concretas de Designhill y Graphic Design Eye siguen sin estudio
-original identificado: tratar como dirección, no como dato verificado, hasta
-confirmarlas. Se suma además un paper académico real (Thanatit & Sungkatavat,
-APacCHRIE 2025, Mahidol University — 10 entrevistas a profesionales de
-restauración en Tailandia) que valida con metodología seria el eje
-exclusividad (fine dining) vs. autenticidad (casual dining) del storytelling
-gastronómico, con los 6 elementos y las citas registradas en sección 07, y una
-tensión relevante detectada: en ese estudio la sostenibilidad apenas aparece
-espontáneamente (1 de 5 participantes por grupo), lo que matiza la afirmación
-de Designhill de que ya pesa fuerte en la decisión de compra. Sin redactar
-todavía en ninguna sección.
+ahora es investigación acumulada en `matriz-tematica.md`: fuentes "de fondo" ya
+nutridas (EHL, Mintel, Gluttonomy, Deloitte, Coca-Cola Lens, National Restaurant
+Association, McKinsey, WGSN, DoorDash+SevenRooms) y, más reciente, un bloque de
+fuentes de branding/marketing/storytelling de restaurantes que Andrea ha ido
+compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
+— GROWTH) y con varios casos reales en la sección 04 (Concept Watch):
+
+- **Designhill** y **Graphic Design Eye** ("Top 10 Restaurant Branding Trends
+  That Define Modern Dining", 5 jul 2026): tácticas de identidad de marca
+  (packaging, uniformes, merchandising, consistencia digital). Graphic Design
+  Eye aporta 10 casos reales en sección 04 (Miller's Guild, Bavel, Slutty
+  Vegan, HomeState, Dig, Sweetgreen, Shake Shack, Girl & The Goat, Café
+  Gratitude, Tracksmith). Ambas citan cifras de mercado sin estudio original
+  identificado — tratar como dirección, no como dato verificado.
+- **Eat App** ("Restaurant Branding Strategy (2026)", 21 ene 2026): sin
+  cifras, pero con un framework de marca que coincide casi punto por punto con
+  el índice de "Concepto y Narrativa de Marca" del BAR Method — las tres
+  fuentes anteriores convergen en la misma tesis de fondo, candidato razonable
+  a TREND y no NOISE.
+- **Thanatit & Sungkatavat, APacCHRIE 2025** (Mahidol University — paper
+  académico real, 10 entrevistas a profesionales de restauración en
+  Tailandia): valida con metodología seria el eje exclusividad (fine dining)
+  vs. autenticidad (casual dining) del storytelling gastronómico. Detecta una
+  tensión relevante: la sostenibilidad apenas aparece espontáneamente en las
+  entrevistas (1 de 5 participantes por grupo), lo que matiza la afirmación de
+  Designhill de que ya pesa fuerte en la decisión de compra.
+- **Artículo de revista de sector sobre innovación de menú** (happychef.cloud,
+  posible republicación de una pieza tipo QSR/FSR Magazine — pendiente
+  confirmar la publicación original): casos reales con nombre y cargo —
+  Whataburger (WhataWings), Velvet Taco (Weekly Taco Feature, 52 LTOs/año),
+  Monday Night Brewing (técnica de "escribe el press release antes de crear
+  el producto"), Indigo Road (autenticidad desde la experiencia vivida), JINYA
+  Ramen Bar (patrocinio de NASCAR para ampliar audiencia, con el único dato de
+  esta tanda de fuentes con estudio citado y nombrado: 78% de lealtad de
+  fans de NASCAR a su patrocinador, MarketCast) y Bojangles (Bo's Bird Dog).
+
+Sin redactar todavía en ninguna sección.
 
 ## Fases del proceso (por edición)
 
