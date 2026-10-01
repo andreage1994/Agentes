@@ -143,6 +143,29 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
   color. Conecta directamente con el Menu Engineering ya señalado como tema
   más repetido entre fases en `bar-method-interno/revision-indices-2026-10.md`
   (filas 4, 12 y 21 del BAR Method).
+- **McKinsey & Company, "What US consumers want from restaurants in 2026"**
+  (ene 2026, PDF completo — encuesta ConsumerWise propia + datos de
+  transacción real Technomic/Numerator): no es duplicado del "State of Food
+  & Beverage" ya registrado (abril 2026, global/CPG) — este es específico de
+  restauración en EEUU. Fuente de alta calidad repartida en cuatro
+  secciones. **02 (Big Picture):** brecha de IPC entre comer fuera (+6%) y
+  en casa (+3%); FSR creciendo más que LSR pese a dominar menos el mercado;
+  "late night" como daypart de mayor crecimiento mientras el desayuno se
+  frena. **03 (Shifts, candidato):** divergencia generacional real — las
+  generaciones mayores recortan más intención de gasto, pero cuando el
+  cliente recorta, lo hace dentro de su restaurante de siempre (más promos,
+  menos artículos, carta más barata) antes que cambiar de sitio; dato
+  contraintuitivo de Gen Z cayendo más en LSR que cualquier otra generación
+  pese a que la conveniencia/personalización encajan con su perfil. **05
+  (Guest Culture):** lo que de verdad decepciona al cliente es calidad de
+  producto (57%) y ración (55%), no la experiencia; tipos de cocina más
+  "recortables" (hamburguesa, americana, marisco) frente a la ensalada,
+  protegida como "inversión en salud". **07 (Business of Hospitality):**
+  hamburguesería con menos visitas pero precio al alza, cocina mexicana
+  como punto fuerte de LSR; pickup ganando terreno a un delivery con
+  grietas de rentabilidad; marco estratégico de IA aplicada a toda la
+  cadena de valor (previsión, pricing, carta, experiencia), no solo como
+  herramienta aislada.
 
 Sin redactar todavía en ninguna sección.
 
