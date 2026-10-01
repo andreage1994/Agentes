@@ -81,6 +81,18 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
   incómoda con comer "a la antigua" de un plato común — relevante para I+D
   gastronómico de TBNB (conecta con la fila 12 del BAR Method, Desarrollo
   gastronómico).
+- **Sirha Food** ("Faced with the rise of hybrid shops, the inevitable
+  decline of the traditional French bakery", 26 may 2025): primera fuente de
+  esta tanda que aporta un **SHIFT candidato** para la sección 03, no solo
+  dato suelto de sección 07. Tesis: la panadería tradicional francesa se
+  disuelve en "espacio de vida" híbrido (desayuno, brunch, servicio en mesa,
+  eventos — hasta sesiones de DJ, fenómeno ya bautizado "bakery rave"), con
+  el pan reducido a 5-15% de la actividad en los operadores más híbridos
+  frente a +50% de snacking. Casos reales en sección 04: Mamatte (ya no
+  puede llamarse legalmente "boulangerie" por no amasar en tienda, eliminó
+  los roscones de Navidad en 2024), La Mie Paulette, KB "Fournil Fast Good" y
+  The French Bastards. Relevante para TBNB: ejemplo real de una categoría
+  tradicional perdiendo su propio nombre al evolucionar el concepto.
 
 Sin redactar todavía en ninguna sección.
 
