@@ -1,14 +1,17 @@
 # Estado — Hospitality Report
 
 **Cadencia:** semestral (H1 / H2).
-**Última actualización:** 2026-09-17.
+**Última actualización:** 2026-10-01.
 
 ## Edición en curso
 
 Todavía no hay una edición formalmente abierta en `ediciones/`. Lo que existe hasta
 ahora es investigación acumulada en `matriz-tematica.md` (fuentes de EHL, Mintel,
-Gluttonomy, Deloitte, Coca-Cola Lens y National Restaurant Association), sin
-redactar todavía en ninguna sección.
+Gluttonomy, Deloitte, Coca-Cola Lens, National Restaurant Association, McKinsey,
+WGSN, DoorDash+SevenRooms y, más reciente, Designhill sobre tendencias de branding
+y marketing de restaurantes — sección 07, con nota de fiabilidad porque el artículo
+cita dos estadísticas clave sin identificar el estudio original), sin redactar
+todavía en ninguna sección.
 
 ## Fases del proceso (por edición)
 
