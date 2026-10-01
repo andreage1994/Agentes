@@ -43,6 +43,9 @@ Gmail, Google Calendar, Google Drive, Asana (gestión de proyectos y leads), Odo
 - `pagina-web/` — páginas de servicio de la web de TBNB (no blog), a partir
   de los briefs del asesor de SEO, listas para maquetar en Elementor (ver
   `pagina-web/BRIEF.md`).
+- `bar-method-interno/` — revisiones y decisiones operativas internas sobre
+  el propio sistema BAR Method (índices de entregables, políticas de
+  trabajo con clientes), no entregables de cliente.
 - `TAREAS.md` — pendientes.
 - `GUIA.md` — manual de aprendizaje de Andrea sobre este sistema.
 - `.claude/skills/` y `.claude/agents/` — recetas y especialistas de Claude Code.
