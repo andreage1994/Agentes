@@ -108,6 +108,25 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
   preparados de una marca de higiene bucal) como prueba de que la coherencia
   de universo de marca decide el éxito de cualquier colaboración, por
   encima de la notoriedad del socio.
+- **Sirha Food** ("Sustainability: The Model Restaurant", 21 feb 2025): la
+  fuente más transversal de toda la tanda, repartida en cuatro secciones.
+  En **05 (Guest Culture)**: el dato más sólido de todos los recibidos sobre
+  experiencia — estudio **OpinionWay encargado por el propio Sirha Food**
+  (con nombre de pollster, no afirmación de blog): la experiencia es el 4º
+  criterio de elección de restaurante (31%), justo detrás de la calidad del
+  producto (41%) — da respaldo real a las fuentes de storytelling/branding
+  ya registradas en sección 07. En **04 (Concept Watch)**: el grupo Ephemera
+  (París) y sus restaurantes inmersivos Stellar, Under the Sea y Jungle
+  Palace, como ejemplo de experiencia temática replicable en varios locales.
+  En **06 (Food & Drink, Drinks)**: auge del agua filtrada frente a la
+  botella (37% la prefiere, 53% por motivo económico, no solo ambiental;
+  Castalie, Purezza, Brita, Exquado) y el salto a agua embotellada local
+  circular (BE WTR) y vino en botella retornable (Oé). En **07 (Business of
+  Hospitality)**: inclusión de equipo como firma de marca (Joyeux, L'ExtrA
+  en Reims — 13 de 17 empleados con discapacidad), startups de previsión de
+  demanda por IA contra el desperdicio (Inpulse, Helean, Fullsoo), y ahorro
+  energético de hasta 30% combinando buenas prácticas y equipamiento
+  moderno (plataforma "Baisse les watts" de La Poste).
 
 Sin redactar todavía en ninguna sección.
 
