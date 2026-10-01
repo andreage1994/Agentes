@@ -54,6 +54,20 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
   parte del diseño. Conecta directamente con la fila 15 del BAR Method
   ("Estrategia de Espacio") — misma lógica de narrativa espacial y
   materialidad conceptual, otra validación externa de la metodología propia.
+- **Sirha Food** ("Plates & Closets: How Restaurants Are Becoming Lifestyle
+  Brands", medio francés del sector foodservice, sin fecha indicada): cifras
+  concretas y nombradas (más verificables que Designhill/Graphic Design Eye)
+  sobre merchandising — Giftshop (400+ artículos agregados), Bao Family y
+  Caviar Kaspia colaborando con firmas de moda, Lipp con sudaderas vintage
+  ligadas a su herencia parisina. Aporta una tensión relevante: para Bao
+  Family el merchandising es solo el **1% de su facturación**, lo que
+  **contradice** el framing de Designhill de que el merchandising es una
+  "línea de ingresos" — según este dato real, sigue siendo ante todo
+  fidelización/visibilidad, no negocio. También señala que el 80% de los
+  compradores de merchandising son internacionales (no clientes habituales),
+  y plantea el merchandising como primer paso hacia un "hub de estilo de
+  vida" (suscripciones, talleres, eventos) — conecta con el caso Tracksmith
+  ya registrado (Graphic Design Eye, sección 04).
 
 Sin redactar todavía en ninguna sección.
 
