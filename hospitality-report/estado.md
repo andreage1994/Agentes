@@ -41,6 +41,19 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
   Ramen Bar (patrocinio de NASCAR para ampliar audiencia, con el único dato de
   esta tanda de fuentes con estudio citado y nombrado: 78% de lealtad de
   fans de NASCAR a su patrocinador, MarketCast) y Bojangles (Bo's Bird Dog).
+- **Sancal** ("Tips to create charming restaurants", blog corporativo de un
+  fabricante español de mobiliario, sin fecha indicada): primera fuente de
+  esta tanda centrada en interiorismo, no en identidad gráfica/digital — 8
+  proyectos reales (varios españoles: Kaikaya y Piur en Valencia, ambos de
+  Masquespacio; Tunateca Balfegó, El Equipo Creativo; Xanverí y Ladón,
+  estudi{H}ac; La Consentida, Global Asento; más Omar's Place en Londres,
+  Sight. Coffee & Dine en San Petersburgo y Nostrana's Enoteca en Portland)
+  en sección 04, organizados en 5 principios: fusión conceptual
+  (material/color cuentan la cocina), zonas diferenciadas pero coherentes,
+  el asiento como experiencia, iluminación como narrativa, y acústica como
+  parte del diseño. Conecta directamente con la fila 15 del BAR Method
+  ("Estrategia de Espacio") — misma lógica de narrativa espacial y
+  materialidad conceptual, otra validación externa de la metodología propia.
 
 Sin redactar todavía en ninguna sección.
 
