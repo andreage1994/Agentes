@@ -93,6 +93,21 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
   los roscones de Navidad en 2024), La Mie Paulette, KB "Fournil Fast Good" y
   The French Bastards. Relevante para TBNB: ejemplo real de una categoría
   tradicional perdiendo su propio nombre al evolucionar el concepto.
+- **Sirha Food** ("Co-branding: A Hunger to Share for All Appetites", 10 feb
+  2025, con entrevistas a Jessica Martin de Bridor y al consultor Stéphane
+  Brunerie): tema nuevo en sección 07, co-branding alimentario — criterio de
+  selección de socio (valores afines + know-how complementario: caso Bridor
+  x Milka/La Vache qui Rit®, con el coste real de I+D que implica un
+  co-branding bien hecho); el salto de "marca de producto" a "marca de
+  ingrediente" (Nutella como referencia); co-branding por valores/herencia
+  compartida en vez de know-how (Poulain x Saint-Michel); Sushi Shop como
+  caso de co-branding recurrente con chefs-marca (Robuchon, Piège, Marx,
+  Marchand, Colagreco, Lignac, Adrià) y con artistas (Kenzo, Lenny Kravitz,
+  Kate Moss) a la vez. Incluye una advertencia histórica citada por el
+  propio consultor: el fracaso de "Colgate Kitchen" (años 60, platos
+  preparados de una marca de higiene bucal) como prueba de que la coherencia
+  de universo de marca decide el éxito de cualquier colaboración, por
+  encima de la notoriedad del socio.
 
 Sin redactar todavía en ninguna sección.
 
