@@ -68,6 +68,19 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
   y plantea el merchandising como primer paso hacia un "hub de estilo de
   vida" (suscripciones, talleres, eventos) — conecta con el caso Tracksmith
   ya registrado (Graphic Design Eye, sección 04).
+- **Columna "Code of Conduct"** (etiqueta de restaurante, medio no
+  especificado — pendiente confirmar publicación): primera fuente de esta
+  tanda en la sección 06 (Food & Drink), no en branding — el "compartir
+  platos" como modo de comer por defecto (cita: "sharing is how most of us
+  eat 90 percent of the time", Sayat Ozyilmaz, chef de Dalida en San
+  Francisco) y cómo tres restaurantes reales (Dalida, Modern Bird en
+  Michigan, Smithereens en Nueva York) rediseñan ración y emplatado para que
+  el formato funcione en grupo. Incluye una tensión real: Smithereens se
+  niega por filosofía a rediseñar su crudo para compartir, pero ofrece
+  igualmente plato para compartir aparte porque la cultura post-COVID sigue
+  incómoda con comer "a la antigua" de un plato común — relevante para I+D
+  gastronómico de TBNB (conecta con la fila 12 del BAR Method, Desarrollo
+  gastronómico).
 
 Sin redactar todavía en ninguna sección.
 
