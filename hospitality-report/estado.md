@@ -8,10 +8,15 @@
 Todavía no hay una edición formalmente abierta en `ediciones/`. Lo que existe hasta
 ahora es investigación acumulada en `matriz-tematica.md` (fuentes de EHL, Mintel,
 Gluttonomy, Deloitte, Coca-Cola Lens, National Restaurant Association, McKinsey,
-WGSN, DoorDash+SevenRooms y, más reciente, Designhill sobre tendencias de branding
-y marketing de restaurantes — sección 07, con nota de fiabilidad porque el artículo
-cita dos estadísticas clave sin identificar el estudio original), sin redactar
-todavía en ninguna sección.
+WGSN, DoorDash+SevenRooms y, más reciente, dos fuentes de branding/marketing de
+restaurantes compartidas por Andrea: Designhill (sección 07) y Graphic Design Eye,
+"Top 10 Restaurant Branding Trends That Define Modern Dining" (5 jul 2026) —
+esta segunda aporta 10 casos reales con marca propia (Miller's Guild, Bavel,
+Slutty Vegan, HomeState, Dig, Sweetgreen, Shake Shack, Girl & The Goat, Café
+Gratitude, Tracksmith) en sección 04 CONCEPT WATCH, y varias cifras de mercado en
+sección 07 que convergen con las de Designhill pero, igual que esa fuente, sin
+estudio original identificado — tratar como dirección, no como dato verificado,
+hasta confirmarlas), sin redactar todavía en ninguna sección.
 
 ## Fases del proceso (por edición)
 
