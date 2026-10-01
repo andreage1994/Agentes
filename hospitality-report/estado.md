@@ -8,15 +8,19 @@
 Todavía no hay una edición formalmente abierta en `ediciones/`. Lo que existe hasta
 ahora es investigación acumulada en `matriz-tematica.md` (fuentes de EHL, Mintel,
 Gluttonomy, Deloitte, Coca-Cola Lens, National Restaurant Association, McKinsey,
-WGSN, DoorDash+SevenRooms y, más reciente, dos fuentes de branding/marketing de
-restaurantes compartidas por Andrea: Designhill (sección 07) y Graphic Design Eye,
-"Top 10 Restaurant Branding Trends That Define Modern Dining" (5 jul 2026) —
-esta segunda aporta 10 casos reales con marca propia (Miller's Guild, Bavel,
+WGSN, DoorDash+SevenRooms y, más reciente, tres fuentes de branding/marketing de
+restaurantes compartidas por Andrea: Designhill, Graphic Design Eye ("Top 10
+Restaurant Branding Trends That Define Modern Dining", 5 jul 2026 — aporta 10
+casos reales con marca propia en sección 04 CONCEPT WATCH: Miller's Guild, Bavel,
 Slutty Vegan, HomeState, Dig, Sweetgreen, Shake Shack, Girl & The Goat, Café
-Gratitude, Tracksmith) en sección 04 CONCEPT WATCH, y varias cifras de mercado en
-sección 07 que convergen con las de Designhill pero, igual que esa fuente, sin
-estudio original identificado — tratar como dirección, no como dato verificado,
-hasta confirmarlas), sin redactar todavía en ninguna sección.
+Gratitude, Tracksmith) y Eat App ("Restaurant Branding Strategy (2026)", 21 ene
+2026 — sin cifras, pero con un framework de marca que coincide casi punto por
+punto con el índice de "Concepto y Narrativa de Marca" del BAR Method, y con
+tácticas de visibilidad/awareness que no cubrían las otras dos). Las tres
+convergen en la misma tesis de fondo — candidato razonable a TREND, no NOISE —
+pero las cifras concretas de Designhill y Graphic Design Eye siguen sin estudio
+original identificado: tratar como dirección, no como dato verificado, hasta
+confirmarlas. Sin redactar todavía en ninguna sección.
 
 ## Fases del proceso (por edición)
 
