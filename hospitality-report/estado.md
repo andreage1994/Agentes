@@ -127,6 +127,22 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
   demanda por IA contra el desperdicio (Inpulse, Helean, Fullsoo), y ahorro
   energético de hasta 30% combinando buenas prácticas y equipamiento
   moderno (plataforma "Baisse les watts" de La Poste).
+- **Artículo sin fuente/autor nombrado sobre psicología del menú** (sin URL,
+  texto compartido por Andrea, 2026-10-02; descartamos antes un artículo
+  genérico de "Research and Metric" por cifras sin fuente y sin relación con
+  hostelería — este es distinto, específico de restauración): añadido a
+  sección 07 (PROFITABILITY) con **tres niveles de fiabilidad explícitos**,
+  evaluación propia ya que el texto no cita estudios: (alto, coincide con
+  investigación académica real conocida) precios sin símbolo de moneda
+  (estudio de Cornell), descripciones evocadoras +27% en ventas (estudio de
+  Wansink et al.), tempo musical y rotación de mesa (Milliman), prueba
+  social del camarero (Cialdini); (medio, fenómeno real pero cifra/aplicación
+  concreta sin estudio específico) efecto señuelo, sobrecarga de elección con
+  el rango "7-10 platos por categoría"; (bajo, repetido en el gremio sin
+  base sólida) el "punto dulce" visual de la carta y la psicología del
+  color. Conecta directamente con el Menu Engineering ya señalado como tema
+  más repetido entre fases en `bar-method-interno/revision-indices-2026-10.md`
+  (filas 4, 12 y 21 del BAR Method).
 
 Sin redactar todavía en ninguna sección.
 
