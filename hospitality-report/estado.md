@@ -178,12 +178,16 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
       comprobación de diferenciación completadas. Ver brief completo más abajo
       ("Brief de Estrategia — H2 2026"). **Entregado a `hospitality-innovacion`
       para retar los ángulos antes de pasar a redacción.**
-- [ ] **Fase 2b · Innovación** (`hospitality-innovacion`) — presiona los ángulos
-      de estrategia (ver brief abajo) para que no se queden en la lectura
-      segura, antes de pasar a redacción. **Siguiente paso.**
+- [x] **Fase 2b · Innovación** (`hospitality-innovacion`, 2026-10-02) — ángulos
+      de estrategia retados, conexiones cruzadas con música y moda añadidas
+      con fuente real, pregunta de ONE QUESTION revisada (propuesta de
+      versión más afilada, pendiente de confirmación de `hospitality-estrategia`)
+      e hipótesis propia arriesgada planteada. Ver "Notas de Innovación — H2
+      2026" más abajo, justo después del brief de estrategia.
 - [ ] **Fase 3 · Redacción** (`hospitality-redaccion`) — escribir el reporte
-      completo en `ediciones/2026-H2/` siguiendo `plantilla-indice.md` y el
-      brief de estrategia (más el reto de innovación, una vez hecho).
+      completo en `ediciones/2026-H2/` siguiendo `plantilla-indice.md`, el
+      brief de estrategia y las notas de innovación (más abajo).
+      **Siguiente paso.**
 - [ ] **Fase 4 · Marketing** (`hospitality-marketing`) — plan de distribución del
       lanzamiento.
 
@@ -397,6 +401,9 @@ pollo frito francesas siguen abiertas dentro de 12 meses. HOW TO TAKE
 ADVANTAGE: tratar cualquier tendencia viral como hipótesis de producto a
 testar con margen real (LTO, no relanzamiento de carta completa) antes de
 comprometer el sistema entero a ella — ver Velvet Taco/Whataburger en 04.
+**[Ver nota de innovación más abajo: esta es la sección más expuesta a
+sonar "a lo que diría cualquier consultora de F&B" — se propone refuerzo con
+una fuente externa a hostelería.]**
 
 **4. La marca como sistema, no como estética — y el riesgo de confundir el
 síntoma con la causa.** (Triangulación Designhill + Graphic Design Eye + Eat
@@ -609,6 +616,8 @@ demasiado "fácil de estar de acuerdo" (es decir, si cualquiera puede asentir
 sin sentirse señalado), afilarla más hacia la responsabilidad personal del
 fundador/operador — ese es exactamente el tipo de presión que le corresponde
 a `hospitality-innovacion` antes de pasar a redacción.
+**[Ver veredicto y propuesta concreta en "Notas de Innovación — H2 2026" más
+abajo — sí hacía falta afilarla.]**
 
 ### 09. THE RADAR / 10. EARLY SIGNAL
 
@@ -665,10 +674,245 @@ antes de la versión final post-Copenhague)
   artículo de happychef.cloud antes de citarlos con nombre de medio en el
   reporte final (ya señalado por investigación, pendiente de cierre).
 
+## Notas de Innovación — H2 2026 (hospitality-innovacion, 2026-10-02)
+
+**Rol de estas notas:** no cambian la selección de `hospitality-estrategia`
+ni deciden qué entra en la edición — señalan dónde un ángulo ya aprobado se
+queda en la "lectura segura" (lo que diría cualquier consultora de
+hostelería) y proponen una dirección concreta y citable para ir más lejos.
+Donde no he encontrado una capa adicional honesta, lo digo explícitamente:
+"correcto pero no revelador" es un resultado válido de esta revisión, no un
+fallo que haya que forzar.
+
+### Veredicto rápido, sección por sección
+
+| Sección / ángulo | Veredicto | Por qué |
+|---|---|---|
+| 01 Opening — "problema de traducción" | **Suficiente filo** | Ya está blindado frente a Qu/JBF por la propia estrategia; no hace falta tocarlo. |
+| 02 Big Picture — "crece el sector y crece la fragilidad a la vez" | **Correcto, no revelador — aceptable así** | Es una sección de datos duros, no de ángulo propio; no fuerzo una capa adicional que no tenga sustento. |
+| Shift 1 — pan que pierde su nombre | **Necesita una capa** | Ver propuesta (WeWork) abajo. |
+| Shift 2 — lealtad > ticket medio | **Suficiente filo** | Dato contraintuitivo real (McKinsey) + ángulo propio ya no obvio ("el campo de batalla es la carta, no el marketing de retención"). |
+| Shift 3 — tendencias atraen, sistemas retienen | **Necesita una capa — es la más expuesta de las 5** | Ver propuesta (sneakers) abajo. |
+| Shift 4 — marca como síntoma, no causa | **Suficiente filo, es el mejor TBNB TAKE de la edición** | Invierte la causalidad que proponen las tres fuentes que cita; eso sí sorprendería a un hostelero que ya leyó esos mismos artículos de branding. |
+| Shift 5 — se invierte en IA más rápido de lo que se gobierna | **Suficiente filo** | Ya evita conscientemente el marco "execution gap"; el giro ("se repite con cada tecnología nueva") es correcto y ya tiene la auto-vigilancia incorporada. |
+| 04 Concept Watch — RASA / Mantener | **Suficiente filo en el caso individual; falta una capa en el hilo entre los 4 casos** | Ver "Conexión entre los 4 casos propios" abajo. |
+| 05 Guest Culture — gasto vs. vida social son dos ejes | **Suficiente filo** | Es exactamente el tipo de corrección que un hostelero que ya lee McKinsey/WGSN no habría hecho por sí mismo — separa dos cosas que casi todo el mundo mezcla. |
+| 06 Food & Drink — emplatado como logística de sistema | **Suficiente filo** | No es obvio hasta que se ve explicado; buen ejemplo de "revelar", no resumir. |
+| 07 Profitability — menu engineering en 3 niveles de fiabilidad | **Suficiente filo** | La mayoría de contenido de menu engineering del sector repite mitos sin cuestionarlos; separar ciencia real de folclore de consultoría ya es el diferencial. |
+| 07 People — inclusión como firma de marca | **Correcto, no muy sorprendente — aceptable, prioridad baja** | Es una posición ya extendida entre marcas con conciencia de marca; no encontré una capa adicional honesta que no sonara forzada. |
+| 07 Growth — Sushi Shop + Colgate Kitchen | **Suficiente filo** | El caso Colgate Kitchen es vívido y poco citado en hostelería; ya cumple el criterio de sorpresa. |
+| 08 One Question | **Necesita afilarse** | Ver propuesta concreta abajo — instrucción explícita de estrategia pedía esta revisión. |
+| 11 Closing — Lady Madrid + hilo de cierre | **Suficiente filo** | El arco 04→07→11 (desde cero / insertar pieza / reconstruir) ya es una buena progresión; lo único que añado es una capa más fina sobre ese mismo arco (ver abajo), no un cambio. |
+
+### Shift 3 — "las tendencias atraen, los sistemas retienen": la capa que falta
+
+Tal y como está escrito, este Shift es la versión editorial de algo que
+cualquier consultor de F&B ya dice en voz alta desde hace años ("no te
+montes a la ola sin mirar el margen"). El dato de Inpulse.ai (123.000M€ de
+facturación récord + cierres de restauración rápida +19%) es real y fuerte,
+pero el *marco* ("viral no es lo mismo que viable") es la lectura fácil, no
+la reveladora.
+
+**Conexión cruzada real, con fuente:** el mercado de reventa de sneakers
+vivió el mismo patrón, con números todavía más contundentes, hace apenas
+tres años. En 2020, el 58% de los lanzamientos de sneakers se revendían por
+encima de su precio de salida; en 2024 esa cifra había caído al 47% y sigue
+bajando. El retorno medio de precio de los lanzamientos más hypeados pasó de
++23% en 2021 a **-7% en 2022** (datos de Altan Insights sobre StockX,
+recogidos por Business of Fashion y Axios). Ejemplos nombrados: las Nike
+Dunk "Panda" pasaron de venderse por más de 300$ en 2021 a 150$ o menos hoy;
+las colaboraciones Travis Scott x Nike, que en 2020 se habrían revendido por
+miles, hoy rondan los 500$. La causa, según el propio análisis: Nike y
+Adidas inundaron el mercado persiguiendo ingresos trimestrales y mataron la
+escasez que sostenía el hype.
+
+**Por qué esto es mejor que repetir "viral no es viable":** da al lector un
+mecanismo exacto, no solo una advertencia. El hype no se desinfla porque
+"pase de moda" — se desinfla porque el propio éxito (más oferta, más
+apertura, más clonado) destruye la condición que lo hacía valioso (escasez
+en sneakers, estructura de costes en restauración). Es el mismo mecanismo
+que el pollo frito viral francés (09 The Radar) y las napolitanas/bares de
+pasta de Inpulse.ai (ratios estructurales 24-30% food cost) ya documentan
+dentro de hostelería — pero la cifra de sneakers aporta algo que el dato de
+hostelería no tiene: un "antes y después" cuantificado y de fuera del
+sector, que ningún otro informe de hostelería va a citar. Dirección concreta
+para redacción: usar el contraste sneakers-2021-vs-2023 como apertura o
+cierre del Shift 3, no como nota a pie de página — es el tipo de dato que
+hace que alguien comparta la página.
+
+**Fuentes:** Business of Fashion, "The Sneaker Resale Market Is Broken";
+Axios, "Sneaker resale prices are falling to earth" (feb 2023), ambas
+citando análisis de Altan Insights sobre datos de StockX.
+
+*(Nota menor, no prioritaria: el informe anual de Luminate sobre streaming
+musical 2025 muestra que el 57% de las reproducciones en EEUU en 2025 vienen
+de catálogo [música de más de 5 años], y que las reproducciones de música
+"actual" cayeron un 1,6% interanual — el oyente vuelve a lo conocido más que
+a lo nuevo, igual que el cliente fiel del Shift 2 no cambia de restaurante,
+cambia cómo pide. Dato secundario, útil solo si redacción quiere reforzar el
+Shift 2 con una segunda industria; no es imprescindible, el Shift 2 ya tiene
+filo propio sin él.)*
+
+### Shift 1 — "el pan que dejó de poder llamarse pan": la capa que falta
+
+El caso Mamatte es genuinamente bueno (perder el derecho legal a llamarse
+"boulangerie" es un dato vívido, no genérico) y el TBNB TAKE ya evita la
+lectura más fácil ("esto es solo sobre panaderías"). Pero le falta un
+contraejemplo que muestre qué pasa cuando este mismo movimiento —una
+categoría rebautizándose en algo más amplio— se hace *mal*: cuando se
+cambia el discurso sin cambiar de verdad el sistema de operación debajo.
+
+**Conexión cruzada real, con fuente:** WeWork. En su folleto de salida a
+bolsa de 2019 (S-1, SEC), WeWork usó la palabra "tecnología" 110 veces y se
+presentó como empresa de "comunidad" y tecnología, no como lo que
+operativamente era: una empresa de subarriendo de oficinas a largo plazo
+revendido como espacio flexible a corto plazo. Barry Sternlicht (Starwood
+Capital) lo resumió así: *"si lo hubieras posicionado como empresa
+inmobiliaria, no valdría esto [...] Neumann lo disfrazó de comunidad, y eso
+lo convirtió en una jugada tecnológica."* La narrativa se desplomó en cuanto
+los inversores miraron los números reales (1.600M$ de pérdidas sobre
+1.800M$ de ingresos) y la salida a bolsa nunca llegó.
+
+**Por qué esto afila el Shift 1 en vez de solo ilustrarlo:** Mamatte y
+WeWork son el mismo movimiento (una categoría se rebautiza en algo más
+amplio) con resultados opuestos, y la diferencia no es el relato, es si el
+sistema de operación cambió de verdad antes de cambiar el discurso. Mamatte
+dejó de amasar pan en tienda — cambió la operación real, y el nombre legal
+cayó como consecuencia. WeWork cambió el discurso (de inmobiliaria a
+tecnología) sin que la economía real del negocio cambiara en absoluto. Esto
+conecta, además, con el propio Shift 4 ("la consistencia de marca es
+síntoma, no causa") y con el dato ya registrado en el backlog de la matriz
+sobre el merchandising como posible "hub de estilo de vida" (Sirha Food) —
+mismo riesgo: llamarse otra cosa antes de operar como esa otra cosa.
+Dirección concreta para redacción: usar WeWork en el "WHAT TO WATCH" o como
+advertencia breve dentro del Shift 1, no como caso largo — un párrafo basta
+para que el lector entienda que rebautizarse no es gratis si no viene
+acompañado de un cambio operativo real.
+
+**Fuentes:** We Co., Form S-1 (SEC, 2019); CNBC, "WeWork offers a romantic
+vision in its IPO filing — alongside staggering losses" (ago 2019).
+
+### ONE QUESTION — veredicto: sí hacía falta afilarla
+
+La pregunta actual (*"¿qué nos cuesta más admitir: que el mercado no lo
+quería, o que nadie llegó a diseñar cómo tenían que funcionar juntas todas
+esas piezas?"*) ya apunta en la dirección correcta, pero tiene una fuga de
+escape: usa "nos" y "nadie" — sujetos impersonales y plurales. Un fundador
+puede leerla, asentir, y pensar "sí, es verdad que nadie lo diseñó" sin que
+eso le señale a él en concreto — "nadie" puede ser el socio, el gerente
+contratado, "el equipo". Es precisamente el tipo de pregunta "fácil de
+estar de acuerdo sin sentirse señalado" que estrategia pidió vigilar.
+
+**Propuesta concreta (dos variantes, para que estrategia elija o combine):**
+
+1. *"Cuando tu concepto con buena idea, buen equipo y buena ubicación no
+   levanta cabeza, ¿qué te resulta más fácil de aceptar: que el mercado no
+   lo quería, o que tú abriste la puerta antes de sentarte a diseñar cómo
+   iban a encajar la carta, el equipo, la operación y los números?"*
+2. *"Si tu negocio cerrara mañana, ¿qué te costaría más reconocer: que el
+   mercado nunca lo quiso, o que tú nunca llegaste a diseñar cómo tenían que
+   encajar todas esas piezas antes de abrir la puerta?"*
+
+Ambas cambian dos cosas a la vez: (a) pasan de "nos"/"nadie" a "tú", y (b)
+convierten la segunda rama de la pregunta en una decisión activa del lector
+("tú abriste la puerta antes de...") en vez de una ausencia pasiva ("nadie
+llegó a..."). Eso cierra la fuga de escape — ya no se puede responder
+"bueno, es que mi socio debería haberlo diseñado". La variante 2 añade
+pérdida (cerrar el negocio) como palanca emocional adicional; la variante 1
+es más fiel al tono "afirmamos, no especulamos" del Brief. Esta es una
+propuesta, no un cambio aplicado — la decisión final de ONE QUESTION sigue
+siendo de `hospitality-estrategia`.
+
+### Conexión entre los 4 casos propios que estrategia no ha señalado todavía
+
+Estrategia ya conecta los 4 casos en un arco cronológico correcto: 04
+muestra sistemas diseñados desde cero (RASA, Mantener), 07 muestra un
+sistema al que se inserta una pieza nueva (Gambit), 11 cierra con un sistema
+reconstruido dentro de un negocio maduro (Lady Madrid). Es un buen hilo y no
+hace falta tocarlo.
+
+Hay una capa adicional, derivada de los propios casos (no de ninguna fuente
+externa, así que no hace falta citar nada): en los 4 casos, **el punto de
+entrada al "diseño del sistema" es distinto en cada uno**, y ese punto de
+entrada no es nunca la carta o el producto en sí:
+- RASA: el punto de entrada es la **narrativa** (evitar el cliché cultural).
+- Mantener: el punto de entrada es el **espacio/local** (si el alquiler
+  encaja con la operación y los números).
+- Gambit: el punto de entrada es la **identidad ya existente** (hacer que la
+  gastronomía hable el idioma de un concepto que ya funcionaba en todo lo
+  demás).
+- Lady Madrid: el punto de entrada es la **operación** (dejar de depender de
+  la improvisación).
+
+**Por qué esto es una capa, no solo una observación:** la mayoría de
+consultoría de hostelería (y la propia intuición del sector) asume que el
+"sistema" siempre empieza por el mismo sitio — normalmente el concepto o la
+carta. La propia evidencia de TBNB dice lo contrario: el punto de entrada
+correcto depende de qué esté realmente roto o sin resolver en cada negocio,
+no de una secuencia fija. Esto no contradice el método Breakdown →
+Architecture → Run (el diagnóstico —Breakdown— siempre es el primer paso en
+los 4 casos); lo que varía es *lo que el diagnóstico revela como prioritario
+en cada caso*, no el hecho de diagnosticar primero. Dirección concreta para
+redacción: esto encaja mejor como una nota transversal corta en 11
+(Closing), justo antes o después de retomar la frase del hot take —
+algo del tipo "el sistema no siempre se construye empezando por el mismo
+sitio: a veces el primer problema a resolver es la narrativa, otras veces el
+contrato de alquiler, otras la identidad ya existente, otras la operación
+del día a día — lo único constante es que alguien tiene que decidir por
+dónde se empieza, en vez de dejar que lo decida la urgencia." No escribo el
+texto final, solo la dirección — eso es trabajo de `hospitality-redaccion`.
+
+**Riesgo a vigilar si se usa esta capa:** puede leerse como que el BAR
+Method no tiene una secuencia fija, lo cual es cierto a nivel de "qué se
+prioriza" pero no a nivel de "si se diagnostica primero" — conviene que
+redacción sea precisa en esa distinción para no dar munición a la lectura de
+"ni ellos tienen un método consistente".
+
+### Hipótesis propia arriesgada para la edición
+
+**Hipótesis:** para 2027, el mayor riesgo competitivo de un concepto de
+hostelería no va a ser tener una carta floja o un mal servicio — va a ser
+tener éxito viral *antes* de tener sistema. El pico de demanda sin sistema
+mata más negocios que la falta de demanda.
+
+**De dónde sale (grounding real, no inventado):** combina tres piezas ya en
+la matriz/en esta revisión — (1) Inpulse.ai: cierres de restauración rápida
++19% en Francia en el mismo periodo de facturación récord del sector; (2) el
+contraste ya documentado en el backlog de la matriz entre el pollo frito
+viral en TikTok (sin garantía de margen) y las pizzerías napolitanas/bares
+de pasta (ratios estructurales sólidos, 24-30% food cost); y (3) el dato de
+sneakers de esta misma revisión (la escasez/estructura que sostenía el valor
+se destruye precisamente cuando el éxito lleva a escalar sin disciplina).
+Las tres piezas apuntan, desde ángulos distintos, a que el pico de demanda
+repentino es el momento de mayor riesgo de ruptura del sistema, no el
+momento de mayor seguridad — lo contrario de lo que la intuición del sector
+(y la mayoría de asesoramiento de marketing, "haz que se vuelva viral")
+sugiere.
+
+**Por qué es arriesgada, y dónde puede fallar (lo señalo yo mismo, no que lo
+descubra el lector):** es una afirmación de pronóstico, no un hecho ya
+verificado — es defendible con la evidencia disponible, pero no está
+"probada" en el sentido en que sí lo están los datos de la matriz. También
+puede sonar contraintuitiva hasta el punto de ser mal interpretada como "no
+busques la viralidad", cuando el punto real es más matizado: la viralidad
+sin sistema que la absorba es el riesgo, no la viralidad en sí misma —
+redacción necesita dejar ese matiz explícito para que no se lea como un
+consejo anti-marketing. Es exactamente el tipo de postura que TBNB puede
+defender en público (encaja con el hot take y con los 4 casos propios,
+todos ellos sobre sistema antes que velocidad), pero es una apuesta, no una
+garantía — y conviene presentarla como tal en el texto final ("creemos que
+en 2027...", no como hecho consumado).
+
+**Dirección de uso sugerida:** buen candidato para cerrar el Shift 3 (como
+pronóstico, no como WHAT WE SEE) o para abrir 08. ONE QUESTION como puente
+hacia la pregunta ya afilada — redacción decide dónde encaja mejor.
+
 ## Pendiente de decisión con Andrea
 
 - Confirmar si el permiso de Lady Madrid cubre también el Hospitality Report.
 - Si este repositorio pasa a ser la versión "viva" de la matriz temática (y Drive
   queda como archivo), o si se mantienen ambos en paralelo.
 - Fecha de cierre concreta para la edición H2 2026.
+- Elegir entre las dos variantes propuestas de ONE QUESTION (o mantener la
+  original) — decisión de `hospitality-estrategia`, no aplicada aquí.
 </content>
