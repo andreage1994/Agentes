@@ -30,6 +30,9 @@ Metodología propia: **BAR Method** — Breakdown (diagnóstico) → Architectur
 Gmail, Google Calendar, Google Drive, Asana (gestión de proyectos y leads), Odoo (CRM), WhatsApp (contacto informal).
 
 ## Cómo está organizada esta carpeta
+- `equipo-tbnb.md` — bios, citas y roles reales del equipo (Sergio, Andrea y
+  colaboradores), para reutilizar como autoría/E-E-A-T en cualquier
+  proyecto — no inventar bios nuevas cuando haga falta una.
 - `clientes/` — una subcarpeta por cliente activo.
 - `prospectos/` — posibles clientes en estudio.
 - `plantillas/` — propuestas, informes y emails modelo.

@@ -79,11 +79,13 @@ formato:
 - Sobre `/consultoria-gastronomica/` (página que no existe todavía): *"Fusiona
   'consultoría gastronómica' (320) y 'asesor gastronómico' (110). Integra
   módulos para Ingeniería de Menú (110 búsq), Pastelería/Postres (Elena/Yair)
-  y Sumillería/Bodega (Aleix)."* — **Confirmado por Andrea: Elena y Yair son
-  colaboradores externos de pastelería** (mismo modelo que los "Servicios
-  Complementarios" con partners del BAR Method, ver `CLAUDE.md`). Aleix queda
-  sin confirmar todavía — presumiblemente el mismo tipo de colaborador externo
-  para sumillería/bodega, pendiente de verificar.
+  y Sumillería/Bodega (Aleix)."* — **Nombres completos confirmados** vía
+  `../../equipo-tbnb.md` (bios reales de TBNB, aportadas por Andrea el
+  2026-10-02): **Elena Reis** y **Yair Idanza**, colaboradores externos de
+  pastelería (mismo modelo que los "Servicios Complementarios" con partners
+  del BAR Method, ver `CLAUDE.md`). **Aleix Montcusi**, consultor F&B del
+  equipo — su perfil es F&B en general, no sumillería específicamente, pero
+  cubre ese terreno dentro de su rol.
 
 Importante: `/consultoria-gastronomica/` **no existe en la web actual** según
 esta hoja — sería una página nueva a crear. `/marketing-gastronomico/` y

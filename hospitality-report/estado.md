@@ -177,8 +177,8 @@ Sin redactar todavía en ninguna sección.
       fuentes arriba); se puede seguir nutriendo en paralelo si hace falta.
 - [ ] **Fase 2 · Estrategia** (`hospitality-estrategia`) — decidir qué tendencias
       entran en esta edición, definir el ángulo TBNB TAKE de cada sección y la
-      pregunta de ONE QUESTION. **Siguiente paso**, en cuanto Andrea confirme
-      las preguntas abiertas de más abajo.
+      pregunta de ONE QUESTION, a partir del hot take y los casos propios ya
+      confirmados por Andrea (ver más abajo). **En curso.**
 - [ ] **Fase 2b · Innovación** (`hospitality-innovacion`, rol nuevo, pedido por
       Andrea el 2026-10-02) — presiona los ángulos de estrategia para que no se
       queden en la lectura segura, antes de pasar a redacción.
@@ -187,19 +187,36 @@ Sin redactar todavía en ninguna sección.
 - [ ] **Fase 4 · Marketing** (`hospitality-marketing`) — plan de distribución del
       lanzamiento.
 
+## Edición confirmada: H2 2026 (respuestas de Andrea, 2026-10-02)
+
+- **Edición:** H2 2026. Fecha de cierre todavía sin concretar.
+- **Hot take de la edición:** *"La hostelería nunca ha tenido tantas ideas,
+  conceptos e inspiración. Y sin embargo, construir un restaurante que
+  funcione sigue siendo igual de difícil."* El objetivo editorial es aportar
+  conocimiento sobre cómo construir el **sistema** que hace que todo trabaje
+  en la misma dirección, y cómo innovar dentro de ese sistema una vez existe
+  — no solo detectar tendencias sueltas. Esta misma tesis ya es la que usa
+  TBNB en su presentación comercial real (ver `casos-propios-tbnb.md`), así
+  que no es una idea a construir desde cero, es la que ya defienden en ventas
+  llevada a formato editorial.
+- **Casos propios para citar como prueba:** RASA, Lady Madrid, Mantener
+  (Barcelona) y Gambit — proyectos reales de este trimestre, documentados en
+  `casos-propios-tbnb.md`. Nota: el caso Lady Madrid incluye la cifra de
+  +100.000€ de facturación que en `comunicacion-redes-sociales/estado.md`
+  figura bloqueada a la espera de permiso del cliente — **confirmar si ese
+  permiso también cubre su uso aquí**, o si hay que anonimizar la cifra para
+  el Hospitality Report.
+- **Autoría:** firma como "The Bar N' Bar", pero presentada con cara y nombre
+  real de **Sergio y Andrea** (no "Equipo TBNB" genérico) — bios y citas
+  reales ya guardadas en `../equipo-tbnb.md`.
+- **Estado del encargo: primer borrador, no versión cerrada.** Andrea y
+  Sergio viajan a Copenhague la semana que viene y es probable que traigan
+  más información/inspiración que se sume a esta edición — tratar lo que se
+  redacte ahora como punto de partida editable, no como cierre definitivo.
+
 ## Pendiente de decisión con Andrea
 
-- **Qué edición es esta** (H2 2026 o ya H1 2027) y fecha objetivo de cierre —
-  necesario para nombrar la carpeta `ediciones/<año>-<H1|H2>/` y para que
-  `hospitality-marketing` sepa con cuánto margen trabaja.
-- **¿Hay algún "hot take" o postura propia que Andrea/Sergio ya quieran
-  defender en esta edición?** — si existe, es el insumo más valioso posible
-  para `hospitality-innovacion`, mejor que derivarlo solo de la matriz.
-- **¿Algún caso real (propio, anonimizado si hace falta) de un cliente del
-  BAR Method de este semestre** que se pueda citar como prueba — es el tipo
-  de contenido que ninguna fuente externa ni competencia con IA genérica
-  puede replicar, y hoy la matriz solo tiene casos de terceros.
-- **Autoría**: ¿el reporte lleva firma (Andrea/Sergio/equipo) o se mantiene
-  en voz "TBNB" sin firma individual?
+- Confirmar si el permiso de Lady Madrid cubre también el Hospitality Report.
 - Si este repositorio pasa a ser la versión "viva" de la matriz temática (y Drive
   queda como archivo), o si se mantienen ambos en paralelo.
+- Fecha de cierre concreta para la edición H2 2026.
