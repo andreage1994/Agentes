@@ -5,7 +5,7 @@
 **Ángulo ya definido (no se toca aquí):** la estética de la carta es la última
 decisión, no la primera — antes hay que decidir ingeniería de menú y cruzarlo
 con food cost real (enlaza con el Tema 5). H1, H2 y prioridad: ver
-`blog-web/listado-temas.md`, sección 6.
+`seo/blog-web/listado-temas.md`, sección 6.
 
 ---
 
@@ -218,7 +218,7 @@ No estaban citados por `blog-estrategia-seo` pero refuerzan directamente el
 
 - **Tema 5 (escandallos y food cost)** — en investigación en paralelo por otro
   compañero en el momento de escribir este brief; a fecha de hoy no existe aún
-  archivo en `blog-web/investigacion/`. Es el enlace interno más directo y ya
+  archivo en `seo/blog-web/investigacion/`. Es el enlace interno más directo y ya
   previsto por el propio ángulo del Tema 6 ("cruzar rentabilidad con lo que el
   cliente percibe como valor" remite literalmente al food cost del Tema 5) —
   `blog-redaccion` debería enlazarlo en cuanto el artículo del Tema 5 esté

@@ -1,7 +1,7 @@
 # Brief de investigación — Tema 7: Sanidad y APPCC
 
 **Fecha investigación:** 2026-09-28. **Investigador:** `blog-investigacion`.
-**Ángulo ya definido (no se toca aquí):** ver `blog-web/listado-temas.md`,
+**Ángulo ya definido (no se toca aquí):** ver `seo/blog-web/listado-temas.md`,
 sección 7 — la diferencia entre tener un plan APPCC (documento para el
 inspector) y usarlo de verdad en el día a día. `blog-estrategia-seo` ya
 advirtió que aquí TBNB no tiene un dato propio tan fuerte como en otros

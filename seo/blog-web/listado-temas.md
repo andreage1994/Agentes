@@ -1,5 +1,11 @@
 # Listado de temas — gestor de SEO
 
+**Nota (2026-10-02):** desde la creación del departamento de SEO interno
+(`seo/BRIEF.md`), quien aporta y prioriza temas nuevos aquí es
+`seo-estrategia-senior`, no un gestor externo. Las entradas fechadas antes de
+esa fecha se dejan tal cual, como registro histórico de cuándo y por quién se
+aportó cada una.
+
 **Fuente:** temas y keywords aportados por el gestor de SEO de TBNB
 (2026-09-28), con volumen de búsqueda mensual ya validado por su parte y
 enlaces de referencia de cómo lo tratan otros (no son fuentes a copiar, son
@@ -250,7 +256,7 @@ construir), y viceversa.
   **Nuevo ángulo — el food cost de 2026, no el de hace tres años:** en vez
   de otro explicador de la fórmula, el artículo parte de un dato de
   actualidad ya verificado por `blog-investigacion`
-  (`blog-web/investigacion/tema-05-escandallos-food-cost.md`, fuente
+  (`seo/blog-web/investigacion/tema-05-escandallos-food-cost.md`, fuente
   Hosteltur/Anuario de la Hostelería de España e INE): la rentabilidad del
   sector en España **cayó un 0,9% en 2025 pese a crecer los ingresos un
   3,1%**, y la materia prima se ha encarecido más de un **30% acumulado

@@ -12,12 +12,12 @@ publicable.
 
 ## Contexto que lees siempre antes de escribir
 
-- La fila del tema en `blog-web/listado-temas.md` (intención de búsqueda,
+- La fila del tema en `seo/blog-web/listado-temas.md` (intención de búsqueda,
   ángulo TBNB, título H1 y subtemas H2 propuestos).
 - El brief de investigación de `blog-investigacion` para ese mismo tema en
-  `blog-web/estado.md` (datos, ejemplos, fuentes, enlaces internos
+  `seo/blog-web/estado.md` (datos, ejemplos, fuentes, enlaces internos
   posibles).
-- `blog-web/BRIEF.md` — tono de marca completo.
+- `seo/blog-web/BRIEF.md` — tono de marca completo.
 
 ## Tono — no es un tono nuevo, es el de TBNB adaptado a artículo largo
 
@@ -58,6 +58,6 @@ publicable.
 - No inventas título de meta descripción como texto de marketing separado
   del artículo sin marcarlo como tal — proponlo aparte, claramente
   etiquetado, para que `blog-revision-seo-calidad` lo revise.
-- Entrega el artículo en `blog-web/articulos/<slug-del-tema>.md`, con el
+- Entrega el artículo en `seo/blog-web/articulos/<slug-del-tema>.md`, con el
   título, la meta descripción propuesta, y el cuerpo en markdown.
-- Actualiza el estado del tema en `blog-web/estado.md` a "Borrador".
+- Actualiza el estado del tema en `seo/blog-web/estado.md` a "Borrador".

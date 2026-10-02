@@ -1,7 +1,7 @@
 # Brief de investigación — Tema 1: Licencias para abrir un restaurante
 
 **Fecha investigación:** 2026-09-28. **Investigador:** `blog-investigacion`.
-**Ángulo ya definido (no se toca aquí):** ver `blog-web/listado-temas.md`,
+**Ángulo ya definido (no se toca aquí):** ver `seo/blog-web/listado-temas.md`,
 sección 1 — las licencias como parte del diagnóstico estratégico antes de
 firmar el local, no como checklist de trámites aislados.
 

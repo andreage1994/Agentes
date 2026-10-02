@@ -2,7 +2,7 @@
 
 **Qué es:** el blog de la página web de The Bar N' Bar. Contenido en formato
 artículo, pensado para tráfico orgánico (SEO), a partir de un listado de
-temas que aporta el gestor de SEO de TBNB (los que ya tienen más búsquedas
+temas que aporta `seo-estrategia-senior` (los que ya tienen más búsquedas
 validadas).
 
 **Fecha de inicio:** 2026-09-28.
@@ -13,7 +13,7 @@ Atraer tráfico cualificado de hosteleros que buscan soluciones reales
 (escandallos, food cost, carta, operativa, marca...) y convertir ese tráfico
 en la misma autoridad de marca que ya se construye en redes
 (`comunicacion-redes-sociales/`) y en el Hospitality Report
-(`hospitality-report/`). **El reto no es encontrar temas — el gestor de SEO
+(`hospitality-report/`). **El reto no es encontrar temas — `seo-estrategia-senior`
 ya los da con tráfico validado.** El reto es que cada artículo aporte algo
 real y suene a TBNB, no a "artículo de agencia SEO genérico" — es
 exactamente la preocupación con la que arranca este proyecto: redactar
@@ -43,7 +43,7 @@ adaptado a artículo largo:
 
 ## Cómo se organiza el trabajo
 
-1. Andrea (o el gestor de SEO) añade temas nuevos a `listado-temas.md`.
+1. Andrea (o `seo-estrategia-senior`) añade temas nuevos a `listado-temas.md`.
 2. `blog-estrategia-seo` prioriza, agrupa y define la intención de búsqueda
    y el ángulo TBNB de cada tema — sin esto, no se investiga ni se redacta.
 3. `blog-investigacion` investiga cada tema en profundidad (revisa primero
@@ -80,12 +80,12 @@ Cuatro especialistas (`.claude/agents/`), cada uno con una fase del proceso:
 ## Cómo está organizada esta carpeta
 
 - `BRIEF.md` — este documento.
-- `listado-temas.md` — temas que da el gestor de SEO, con su prioridad y
+- `listado-temas.md` — temas que da `seo-estrategia-senior`, con su prioridad y
   ángulo una vez `blog-estrategia-seo` los trabaja.
 - `estado.md` — en qué fase va cada artículo (estrategia → investigación →
   borrador → revisión → publicado).
 - `articulos/` — el artículo redactado de cada tema, en markdown.
 
 **Pendiente para arrancar:** Andrea tiene que compartir el listado de temas
-del gestor de SEO en `listado-temas.md` (o pegarlo directamente) para que
+de `seo-estrategia-senior` en `listado-temas.md` (o pegarlo directamente) para que
 `blog-estrategia-seo` pueda empezar a priorizar.

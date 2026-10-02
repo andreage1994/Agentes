@@ -1,7 +1,7 @@
 # Brief de investigación — Tema 4: Ayudas de Mahou para montar un bar
 
 **Investigador:** `blog-investigacion` · **Fecha:** 2026-09-28
-**Ángulo de referencia:** `blog-web/listado-temas.md`, sección 4 — mismo
+**Ángulo de referencia:** `seo/blog-web/listado-temas.md`, sección 4 — mismo
 ángulo independiente que el tema 3, adaptado a Mahou-San Miguel. No se
 cambia el ángulo ni los H2 — este documento es solo material de apoyo.
 
@@ -130,5 +130,5 @@ completo de primera mano).
   varios datos (Reglamento UE 2022/720, duración habitual 5-10 años, falta
   de penalizaciones públicas) son comunes a ambos temas y pueden reutilizarse
   sin duplicar la investigación.
-- Ver también `blog-web/investigacion/tema-02-ayudas-proveedores.md` para los
+- Ver también `seo/blog-web/investigacion/tema-02-ayudas-proveedores.md` para los
   datos de financiación ICO y renting como alternativas de comparación.

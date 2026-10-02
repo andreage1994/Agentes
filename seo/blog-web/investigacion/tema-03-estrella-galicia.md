@@ -1,7 +1,7 @@
 # Brief de investigación — Tema 3: Ayudas de Estrella Galicia para montar un bar
 
 **Investigador:** `blog-investigacion` · **Fecha:** 2026-09-28
-**Ángulo de referencia:** `blog-web/listado-temas.md`, sección 3 — "abogado del
+**Ángulo de referencia:** `seo/blog-web/listado-temas.md`, sección 3 — "abogado del
 hostelero", ángulo independiente ya aprobado por Andrea. No se cambia el
 ángulo ni los H2 — este documento es solo material de apoyo.
 
@@ -122,6 +122,6 @@ documentado por el sector, más lo único con base legal verificable".
   enlace bidireccional natural, el H2 4 del tema 2 ya referencia este tema.
 - **Tema 4** (Mahou) — comparación directa entre las dos marcas, mismo
   criterio aplicado a un competidor.
-- Ver también en `blog-web/investigacion/tema-02-ayudas-proveedores.md` los
+- Ver también en `seo/blog-web/investigacion/tema-02-ayudas-proveedores.md` los
   datos de financiación ICO y renting como alternativas, útiles para el H2
   3 de este mismo tema 3 ("cuándo compensa y cuándo no").

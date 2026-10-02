@@ -7,6 +7,12 @@ usa el equipo internamente para publicar la web).
 
 **Fecha de inicio:** 2026-09-29.
 
+**Nota (2026-10-02):** desde la creación del departamento de SEO interno
+(`seo/BRIEF.md`), los briefs de página nueva los entrega `seo-estrategia-senior`,
+no un asesor externo — ya no hay asesor de SEO externo de TBNB. Las dos
+páginas ya trabajadas (`abrir-restaurante-bar`, `marketing-gastronomico`)
+mantienen su origen histórico tal cual se documenta abajo.
+
 ## Por qué existe este proyecto
 
 El asesor de SEO ha identificado dos páginas de servicio con keywords de
@@ -19,9 +25,9 @@ suenan a cualquier consultora, no a TBNB. El trabajo de este equipo es
 coger esa estructura SEO (que no se toca sin aprobación) y convertirla en
 copy real de TBNB, siguiendo la guía de tono oficial.
 
-## Diferencia con `blog-web/`
+## Diferencia con `seo/blog-web/`
 
-`blog-web/` es para artículos de blog basados en un listado de temas de
+`seo/blog-web/` es para artículos de blog basados en un listado de temas de
 SEO. Este proyecto (`pagina-web/`) es para las **páginas de servicio
 principales** de la web — estructura más comercial (CTAs, cross-selling,
 silos locales), no artículo editorial. El tono también es distinto: según
@@ -39,7 +45,7 @@ la propia guía de marca, **la web es el canal más "cañero" de todos**
   reproducidos tal cual llegaron.
 - `hospitality-report/matriz-tematica.md` — por si algún dato de mercado ya
   documentado ahí es aprovechable para dar sustancia real a una afirmación
-  (igual que se hace en `blog-web/`).
+  (igual que se hace en `seo/blog-web/`).
 
 ## Hechos verificados que el equipo puede dar por buenos
 

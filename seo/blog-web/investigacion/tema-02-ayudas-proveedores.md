@@ -1,7 +1,7 @@
 # Brief de investigación — Tema 2: Ayudas de proveedores para montar un bar
 
 **Investigador:** `blog-investigacion` · **Fecha:** 2026-09-28
-**Ángulo de referencia:** `blog-web/listado-temas.md`, sección 2 (artículo "paraguas" de
+**Ángulo de referencia:** `seo/blog-web/listado-temas.md`, sección 2 (artículo "paraguas" de
 los temas 3 y 4). No se cambia el ángulo ni los H2 ya definidos — este documento
 es solo el material de apoyo para redactar.
 

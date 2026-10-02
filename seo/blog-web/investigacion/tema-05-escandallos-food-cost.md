@@ -1,7 +1,7 @@
 # Brief de investigación — Tema 5: Cómo calcular escandallos y food cost
 
 **Fecha:** 2026-09-28. **Investigador:** `blog-investigacion`.
-**Ángulo ya definido (no se toca aquí):** ver `blog-web/listado-temas.md`,
+**Ángulo ya definido (no se toca aquí):** ver `seo/blog-web/listado-temas.md`,
 sección 5. Este documento solo aporta datos y matices para que
 `blog-redaccion` escriba con los H2 ya fijados.
 

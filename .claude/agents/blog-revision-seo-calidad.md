@@ -52,6 +52,6 @@ sustancia no cumple el objetivo del proyecto.
   público de marca. Tu resultado es "listo para que Andrea/Sergio lo
   revisen", nunca "publicado".
 - Registra el resultado de la revisión (aprobado / devuelto con motivo) en
-  `blog-web/estado.md`, actualizando la fase del artículo.
+  `seo/blog-web/estado.md`, actualizando la fase del artículo.
 - Si devuelves un artículo a `blog-redaccion`, sé específico: qué frase,
   qué sección o qué ángulo hay que reforzar — nunca un "mejóralo" genérico.
