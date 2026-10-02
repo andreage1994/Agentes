@@ -198,6 +198,109 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
       cliente). Tratado como primer borrador, no cierre definitivo — Andrea y
       Sergio viajan a Copenhague la semana que viene y es probable que amplíen
       la edición después.
+- [x] **Fase 3b · Revisión editorial** (`hospitality-redaccion`, 2026-10-02) —
+      Andrea leyó el primer borrador y pidió una pasada de revisión editorial
+      completa, aplicada reescribiendo `ediciones/2026-H2/contenido.md` entero
+      (no solo parches sueltos). No se tocó la selección de contenido, los
+      casos propios, la cifra ausente de Lady Madrid ni la pregunta de ONE
+      QUESTION ya afilada — es una revisión de ejecución editorial y de
+      formato de citas. Cambios aplicados:
+      1. **Tono más editorial en todo el documento** — menos "informe de
+         consultoría con cita constante", más pieza de autor. Se tradujo
+         sobre todo en el punto 2 (sistema de notas) y el punto 3
+         (interpretación siempre al final de la frase, nunca la fuente).
+      2. **Sistema de citas rediseñado**: las atribuciones inline tipo
+         `(Fuente, "Título")` se sustituyeron por números de nota entre
+         corchetes `[n]` al final de la frase/cláusula relevante, con una
+         sección `## Fuentes` nueva al final del documento (26 fuentes
+         numeradas, mismo número reutilizado cada vez que se repite la
+         fuente — sin duplicados ni huérfanos, verificado manualmente fuente
+         por fuente contra `matriz-tematica.md` y, para WeWork/sneakers
+         (no registrados en la matriz), contra las notas de innovación de
+         este mismo documento).
+      3. **Cada dato termina en interpretación propia, no en el nombre de la
+         fuente** — revisado frase por frase en todo el documento (Big
+         Picture, los 5 Shifts, Guest Culture, Food & Drink, Business of
+         Hospitality). Donde antes una frase terminaba citando la fuente, se
+         invirtió el orden: interpretación primero, fuente como nota al pie.
+      4. **Shift 3, WHAT IT MEANS, corregido** — en el borrador anterior,
+         "WHAT IT MEANS" se desviaba al mercado de reventa de sneakers antes
+         de volver a hostelería. Se movió la analogía de sneakers a THE
+         SIGNALS, como paralelismo breve y explícitamente enmarcado ("no es
+         la misma industria, pero es exactamente el mismo mecanismo..."),
+         anclado de vuelta a hostelería en la misma frase. WHAT IT MEANS
+         ahora habla de restaurantes de principio a fin.
+      5. **Shift 5 desarrollado en más profundidad** — antes era el más corto
+         y menos trabajado de los 5. Se amplió con datos ya existentes en
+         `matriz-tematica.md` que no se habían usado todavía (la brecha entre
+         confianza en la estrategia de IA sobre el papel y confianza real en
+         gobernanza/infraestructura/talento; la divergencia Asia vs.
+         Europa/EEUU; el casual dining como segmento más agresivo adoptando
+         IA pese a tener los márgenes más ajustados) y con más textura de
+         consecuencias prácticas (ejemplos concretos de qué falla sin
+         gobernanza: precio mal ajustado, recomendación de carta que ignora
+         el stock, chatbot que promete algo que la cocina no cumple). Se
+         mantuvo el ángulo ya fijado por estrategia — no se enmarcó como
+         "execution gap".
+      Además, en una segunda pasada de la misma ronda de revisión, Andrea dio
+      tres correcciones adicionales, también aplicadas sobre el documento
+      completo:
+      6. **Repetición de panaderías en Concept Watch, eliminada** — el
+         borrador anterior explicaba la historia completa de Mamatte dos
+         veces dentro de la sección 04: una vez en el campo "WHAT WE CAN
+         LEARN" de RASA (reexplicando el caso Mamatte con detalle) y otra vez
+         en la ficha dedicada "Mamatte y el ecosistema de panaderías híbridas
+         francesas". Se simplificó el "WHAT WE CAN LEARN" de RASA para que
+         solo señale el contraste con Mamatte sin reexplicar su historia
+         (ahora dice "ver más abajo, en esta misma sección"), y la ficha
+         dedicada de Mamatte conserva el detalle completo — un único sitio
+         con la explicación completa, con referencia cruzada en ambos
+         sentidos.
+      7. **TBNB TAKE de Guest Culture, reescrito** — el borrador anterior
+         decía "muchos informes mezclan 'crece el gasto en comer fuera' con
+         'crece la necesidad de socializar fuera de casa', como si fueran la
+         misma tendencia. No lo son" — atribuyendo la confusión a "informes"
+         sin certeza real de que la mezclen. Corrección de Andrea: no hablar
+         de informes si no hay certeza de eso; afirmar directamente, como
+         TBNB TAKE propio, que son dos tendencias distintas, y desarrollar
+         cada una por separado. Reescrito para abrir con "Aquí hay dos
+         tendencias distintas, no una" y explicar qué significa cada una
+         (crecimiento estructural del gasto en comer fuera vs. migración de
+         la vida social a otros entornos) antes de señalar que confundirlas
+         lleva a invertir en el sitio equivocado.
+      8. **Coherencia de conjunto — el hilo del hot take tejido por todo el
+         cuerpo del documento** — Andrea señaló que el documento abría y
+         cerraba con el hot take ("sobra inspiración, sigue siendo igual de
+         difícil construir algo que funcione") pero el cuerpo intermedio no
+         quedaba conectado a esa tesis de forma explícita. Se añadieron
+         puentes explícitos en los bloques de más peso editorial:
+         - **01 Opening**: nueva frase de cierre que anuncia que cada sección
+           siguiente es la misma pregunta vista desde un ángulo distinto.
+         - **02 Big Picture**: el TBNB TAKE ahora cierra citando
+           explícitamente "la misma paradoja del Opening, ahora convertida en
+           números".
+         - **03 The Shifts**: nuevo párrafo introductorio antes del Shift 1
+           que recorre los cinco movimientos y dice explícitamente que cada
+           uno es evidencia del mismo patrón (sobra inspiración, falta
+           sistema) — además de refuerzos puntuales dentro de los TBNB TAKE
+           de Shift 1, Shift 2 y Shift 4 conectándolos entre sí y con el hilo
+           general.
+         - **04 Concept Watch**: nuevo párrafo introductorio que enmarca los
+           seis casos como "qué aspecto tiene el sistema cuando existe (RASA,
+           Mantener) y cuando se construye a medias, por el camino largo
+           (Mamatte)".
+         - **07 Business of Hospitality**: nuevo párrafo introductorio que
+           dice explícitamente que esta sección "es, literalmente, dónde vive
+           el sistema del que habla el resto de la edición".
+         - **11 Closing**: nueva frase que recapitula explícitamente que el
+           lector "no ha leído seis temas distintos" sino "el mismo argumento
+           contado seis veces, desde seis sitios distintos".
+         No se forzó esta conexión en Guest Culture, Food & Drink, Radar ni
+         Early Signal — esas secciones ya tenían su propio TBNB TAKE con
+         valor propio (p.ej. Food & Drink ya decía "el emplatado es logística
+         de sistema, no solo estética") o son de naturaleza más informativa
+         (Radar/Early Signal), y forzar la conexión ahí habría sonado
+         artificial.
 - [ ] **Fase 4 · Marketing** (`hospitality-marketing`) — plan de distribución del
       lanzamiento. **Siguiente paso.**
 
@@ -535,6 +638,11 @@ dentro de su local, está resolviendo el problema equivocado — son dos ejes
 distintos (dónde se gasta el dinero vs. dónde ocurre la vida social) y
 confundirlos lleva a invertir en el espacio equivocado.
 
+**Nota de redacción (2026-10-02, tras revisión editorial de Andrea):** se
+reescribió este TBNB TAKE para no atribuir la confusión a "informes" sin
+certeza de que la mezclen — queda como afirmación directa de TBNB, con cada
+tendencia desarrollada por separado. Ver "Fase 3b" arriba.
+
 ### 06. FOOD & DRINK
 
 **Pieza central — "Code of Conduct" (compartir platos):** clasificar como
@@ -753,6 +861,13 @@ hace que alguien comparta la página.
 **Fuentes:** Business of Fashion, "The Sneaker Resale Market Is Broken";
 Axios, "Sneaker resale prices are falling to earth" (feb 2023), ambas
 citando análisis de Altan Insights sobre datos de StockX.
+
+**Nota de redacción (2026-10-02, tras revisión editorial de Andrea):** en el
+documento final, esta analogía se movió de "WHAT IT MEANS" (donde ocupaba el
+campo entero, hablando de otro sector) a "THE SIGNALS", como paralelismo
+breve explícitamente enmarcado y anclado de vuelta a hostelería en la misma
+frase. "WHAT IT MEANS" quedó hablando de restaurantes de principio a fin.
+Ver "Fase 3b" arriba.
 
 *(Nota menor, no prioritaria: el informe anual de Luminate sobre streaming
 musical 2025 muestra que el 57% de las reproducciones en EEUU en 2025 vienen

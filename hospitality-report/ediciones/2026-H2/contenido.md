@@ -19,7 +19,7 @@ Por otro lado, la fragilidad de los conceptos individuales no deja de crecer a l
 
 **TBNB TAKE.** Llevamos años viendo el mismo patrón de cerca, con clientes reales: la hostelería no tiene un problema de inspiración. Tiene un problema de traducción — de cómo convertir una buena idea, un buen local y un buen equipo en una arquitectura que aguante el primer mes lleno, el primer proveedor que falla, la primera crisis de personal. *"Un buen concepto necesita un buen sistema"*, dice Sergio, y no es una frase de venta: es, literalmente, la razón por la que existe nuestro trabajo. *"La hospitalidad no se improvisa. Se diseña"*, añade Andrea, después de más de diez años gestionando operaciones en hostelería de lujo — la excelencia nunca depende solo del talento individual, depende de procesos, cultura y personas que entienden por qué hacen lo que hacen.
 
-Esta edición no es una lista de tendencias sueltas. Es la pregunta que de verdad importa en 2026: con tanta inspiración disponible, ¿qué separa a quien construye algo que dura de quien construye algo que brilla un semestre y desaparece? La respuesta, lo adelantamos ya, no está en tener más ideas. Está en decidir cómo todas las piezas — concepto, carta, equipo, operación, números — trabajan en la misma dirección, antes de abrir la puerta.
+Esta edición no es una lista de tendencias sueltas. Es la pregunta que de verdad importa en 2026: con tanta inspiración disponible, ¿qué separa a quien construye algo que dura de quien construye algo que brilla un semestre y desaparece? La respuesta, lo adelantamos ya, no está en tener más ideas. Está en decidir cómo todas las piezas — concepto, carta, equipo, operación, números — trabajan en la misma dirección, antes de abrir la puerta. Cada sección que sigue — el tablero de números, los cinco movimientos de fondo, los conceptos que estudiamos, el negocio detrás de la experiencia — es esa misma pregunta vista desde un ángulo distinto. No las hemos ordenado como una lista de curiosidades: las hemos ordenado como las piezas de un mismo argumento.
 
 ---
 
@@ -39,12 +39,14 @@ No llenamos esta sección de datos. Elegimos los que cuentan una historia.
 9. **Se invierte en IA más rápido de lo que se gobierna**: la práctica totalidad de las empresas del sector aumenta su inversión en IA, pero solo un 20-30% se siente preparada en gobernanza, riesgo o talento para gestionarla [6].
 10. **Y aun así, hay ahorro real sobre la mesa**: aplicada a toda la cadena de valor (y no solo a atención al cliente), la próxima ola de IA podría liberar entre 200 y 300 puntos básicos adicionales de reducción de costes [3].
 
-**TBNB TAKE.** El tablero no se mueve en una sola dirección. No es que "todo crezca" ni que "todo se rompa": crece el sector y crece la fragilidad de los conceptos individuales *a la vez*. Eso solo tiene sentido si el problema no es la oportunidad de mercado — el mercado nunca ha estado mejor — sino la falta de un sistema capaz de absorber esa oportunidad sin romperse por dentro. El mismo patrón se repite con la IA del punto 9 y 10: hay ahorro real esperando, y casi nadie está listo para gobernarlo bien. Es el hilo que atraviesa todo este informe.
+**TBNB TAKE.** El tablero no se mueve en una sola dirección. No es que "todo crezca" ni que "todo se rompa": crece el sector y crece la fragilidad de los conceptos individuales *a la vez*. Eso solo tiene sentido si el problema no es la oportunidad de mercado — el mercado nunca ha estado mejor — sino la falta de un sistema capaz de absorber esa oportunidad sin romperse por dentro. El mismo patrón se repite con la IA del punto 9 y 10: hay ahorro real esperando, y casi nadie está listo para gobernarlo bien. Es la misma paradoja del Opening, ahora convertida en números: nunca ha habido tanta oportunidad sobre la mesa, y aun así construir un negocio capaz de sostenerla sigue siendo igual de difícil. Es el hilo que atraviesa todo este informe.
 
 ---
 
 ## 03. THE SHIFTS
 *Lo que está dejando de ser como antes.*
+
+Los cinco movimientos de esta sección no son tendencias sueltas: son la misma pregunta del Opening — sobra inspiración, falta sistema — vista desde cinco ángulos distintos. Un concepto que crece sin rediseñar a la vez su propio marco (Shift 1). Una base de clientes fiel cuyo margen se puede erosionar sin que salte ninguna alarma, si nadie diseña la carta para retenerlo (Shift 2). Una viralidad que llega antes que la estructura de costes capaz de sostenerla (Shift 3). Una marca que se confunde con la causa del éxito cuando en realidad es su síntoma (Shift 4). Y una tecnología que se adopta más rápido de lo que se gobierna (Shift 5). Cinco movimientos distintos, un solo patrón de fondo.
 
 ### Shift 1 — El pan que dejó de poder llamarse pan
 
@@ -56,7 +58,7 @@ No llenamos esta sección de datos. Elegimos los que cuentan una historia.
 
 **WHAT IT MEANS.** Un concepto puede evolucionar más rápido que el nombre, el marco legal y la identidad que lo contienen.
 
-**TBNB TAKE.** Esto no es un problema de panaderías. Es lo que pasa siempre que un concepto crece sin que nadie rediseñe, a la vez, el sistema que lo sostiene — nombre, equipo, marco legal, narrativa. Mamatte lo hizo bien precisamente porque el cambio fue gradual y con intención: cada apertura ajustaba la operación real antes de que el discurso tuviera que ponerse al día. No todas las categorías que se rebautizan tienen esa suerte. WeWork es el contraejemplo que conviene recordar aquí: en su folleto de salida a bolsa de 2019 usó la palabra "tecnología" 110 veces y se presentó como empresa de "comunidad", no como lo que operativamente era — una inmobiliaria de subarriendo a largo plazo revendida como espacio flexible a corto plazo [8]. Barry Sternlicht (Starwood Capital) lo resumió sin rodeos: *"si lo hubieras posicionado como empresa inmobiliaria, no valdría esto [...] lo disfrazó de comunidad, y eso lo convirtió en una jugada tecnológica"* [9]. La narrativa se desplomó en cuanto los inversores miraron los números reales — 1.600 millones de dólares de pérdidas sobre 1.800 millones de ingresos — y la salida a bolsa nunca llegó [8]. Mamatte y WeWork son el mismo movimiento — una categoría se rebautiza en algo más amplio — con resultados opuestos. La diferencia nunca es el relato. Es si el sistema de operación cambió de verdad antes de cambiar el discurso.
+**TBNB TAKE.** Esto no es un problema de panaderías. Es la misma historia que abre este informe, en miniatura: sobra inspiración para evolucionar un concepto — lo que falta es quien rediseñe el sistema que lo sostiene a la misma velocidad: nombre, equipo, marco legal, narrativa. Mamatte lo hizo bien precisamente porque el cambio fue gradual y con intención: cada apertura ajustaba la operación real antes de que el discurso tuviera que ponerse al día. No todas las categorías que se rebautizan tienen esa suerte. WeWork es el contraejemplo que conviene recordar aquí: en su folleto de salida a bolsa de 2019 usó la palabra "tecnología" 110 veces y se presentó como empresa de "comunidad", no como lo que operativamente era — una inmobiliaria de subarriendo a largo plazo revendida como espacio flexible a corto plazo [8]. Barry Sternlicht (Starwood Capital) lo resumió sin rodeos: *"si lo hubieras posicionado como empresa inmobiliaria, no valdría esto [...] lo disfrazó de comunidad, y eso lo convirtió en una jugada tecnológica"* [9]. La narrativa se desplomó en cuanto los inversores miraron los números reales — 1.600 millones de dólares de pérdidas sobre 1.800 millones de ingresos — y la salida a bolsa nunca llegó [8]. Mamatte y WeWork son el mismo movimiento — una categoría se rebautiza en algo más amplio — con resultados opuestos. La diferencia nunca es el relato. Es si el sistema de operación cambió de verdad antes de cambiar el discurso.
 
 **WHAT TO WATCH.** Si aparece un nombre de categoría nuevo para este híbrido panadería-espacio de vida en los próximos 6 meses.
 
@@ -74,7 +76,7 @@ No llenamos esta sección de datos. Elegimos los que cuentan una historia.
 
 **WHAT IT MEANS.** El riesgo real no es la fuga de clientes. Es la erosión silenciosa del ticket dentro de la base ya fiel.
 
-**TBNB TAKE.** La mayoría de negocios optimiza su marketing para no perder clientes. El verdadero campo de batalla de 2026 es diseñar la carta y el pricing para que ese cliente fiel, cuando decide gastar menos, siga dejando el margen que el negocio necesita. Eso no es fidelización de marca. Es ingeniería de sistema — carta, precio y ración trabajando juntos.
+**TBNB TAKE.** La mayoría de negocios optimiza su marketing para no perder clientes. El verdadero campo de batalla de 2026 es diseñar la carta y el pricing para que ese cliente fiel, cuando decide gastar menos, siga dejando el margen que el negocio necesita. Eso no es fidelización de marca. Es ingeniería de sistema — carta, precio y ración trabajando juntos. Otra forma de decir lo mismo que el resto de esta edición: aquí no falta demanda ni falta fidelidad, falta diseñarlas como sistema antes de que el margen se vaya erosionando solo.
 
 **WHAT TO WATCH.** Si la brecha entre "frecuencia estable" y "ticket medio cayendo" se amplía en el próximo semestre.
 
@@ -110,7 +112,7 @@ No llenamos esta sección de datos. Elegimos los que cuentan una historia.
 
 **WHAT IT MEANS.** La consistencia de marca entre canales ya no es un "plus". Es tabla de apuestas.
 
-**TBNB TAKE.** Aquí está el giro que de verdad importa: estas tres fuentes tratan la consistencia de marca como la *causa* del éxito. Nuestra lectura es la contraria — la consistencia de marca es el *síntoma visible* de que el sistema de debajo (concepto, operación, equipo) ya está alineado. Se puede imitar el uniforme, el packaging y el tono de voz de un restaurante que funciona sin conseguir nada, porque esas señales no son la causa, son el resultado. El propio sector ya tiene una prueba de esto: para Bao Family, el merchandising representa solo el 1% de su facturación [16] — contradice de forma explícita a quienes lo venden como "nueva línea de ingresos". Sigue siendo fidelización y visibilidad, no negocio. Tratarlo como negocio es exactamente el tipo de error — copiar la táctica sin el sistema — que esta sección denuncia.
+**TBNB TAKE.** Aquí está el giro que de verdad importa: estas tres fuentes tratan la consistencia de marca como la *causa* del éxito. Nuestra lectura es la contraria — la consistencia de marca es el *síntoma visible* de que el sistema de debajo (concepto, operación, equipo) ya está alineado. Se puede imitar el uniforme, el packaging y el tono de voz de un restaurante que funciona sin conseguir nada, porque esas señales no son la causa, son el resultado. El propio sector ya tiene una prueba de esto: para Bao Family, el merchandising representa solo el 1% de su facturación [16] — contradice de forma explícita a quienes lo venden como "nueva línea de ingresos". Sigue siendo fidelización y visibilidad, no negocio. Tratarlo como negocio es exactamente el tipo de error — copiar la táctica sin el sistema — que esta sección denuncia, y es la misma trampa que ya vimos en el Shift 1 con WeWork: confundir la señal de fuera con la estructura de dentro.
 
 **WHAT TO WATCH.** Si aparecen casos de marcas que copian la estética (packaging, merchandising) sin mejora real de retención o ticket medio.
 
@@ -139,6 +141,8 @@ No llenamos esta sección de datos. Elegimos los que cuentan una historia.
 ## 04. CONCEPT WATCH
 *Los conceptos que están haciendo las cosas de forma diferente.*
 
+Si el resto de este informe explica por qué falta sistema, esta sección muestra qué aspecto tiene cuando sí existe — y qué aspecto tiene cuando se construye a medias, por el camino largo. RASA y Mantener Barcelona son nuestra propia prueba de que diseñar el sistema antes de abrir la puerta es una decisión concreta, no una frase bonita. Mamatte es la prueba de que también se puede llegar al mismo sitio rediseñando capa a capa, después de haber crecido sin plan. Los seis casos de esta sección son la misma tesis del Opening, vista en terreno real.
+
 ### RASA — Cobertura: España
 
 **THE CONCEPT.** Cocktail lounge gastronómico inspirado en la India contemporánea.
@@ -147,7 +151,7 @@ No llenamos esta sección de datos. Elegimos los que cuentan una historia.
 
 **THE IDEA BEHIND IT.** El reto nunca fue diseñar "un restaurante indio". Fue conseguir que cada decisión contara la misma historia sin caer en el cliché ni perder autenticidad. El sistema — narrativa, carta, operación — se construyó *antes* de abrir la puerta, no se ajustó después de ver qué funcionaba.
 
-**WHAT WE CAN LEARN.** RASA es el contraste directo del Shift 1. Mamatte es un sistema que se recompuso *después* de que el concepto ya hubiera crecido de forma desordenada, apertura a apertura. RASA es la versión en la que el sistema se diseña primero. Es el mismo problema — cómo hacer que todas las piezas de un concepto hablen el mismo idioma — abordado en dos momentos distintos. *"Los grandes conceptos se construyen antes de abrir la puerta."*
+**WHAT WE CAN LEARN.** RASA es el contraste directo de Mamatte (ver más abajo, en esta misma sección): dos formas distintas de llegar al mismo sistema, una diseñándolo antes de abrir, la otra recomponiéndolo después de que el concepto ya hubiera crecido de forma desordenada. Es el mismo problema — cómo hacer que todas las piezas de un concepto hablen el mismo idioma — abordado en dos momentos distintos. *"Los grandes conceptos se construyen antes de abrir la puerta."*
 
 ---
 
@@ -171,7 +175,7 @@ No llenamos esta sección de datos. Elegimos los que cuentan una historia.
 
 **THE IDEA BEHIND IT.** Maxime Lefebvre (Mamatte) empezó en 2015 con snacking elaborado "poco común en panaderías" en su momento, y fue sumando brunch y servicio en mesa local a local — la evolución fue gradual y geográfica, no un golpe de timón [7].
 
-**WHAT WE CAN LEARN.** Ver el detalle completo en el Shift 1. Lo que separa a Mamatte de un rebranding vacío es que la operación cambió primero, y el nombre cayó como consecuencia — no al revés.
+**WHAT WE CAN LEARN.** Ver el detalle completo en el Shift 1 — y el contraste con RASA, arriba. Lo que separa a Mamatte de un rebranding vacío es que la operación cambió primero, y el nombre cayó como consecuencia — no al revés.
 
 ---
 
@@ -216,7 +220,7 @@ No llenamos esta sección de datos. Elegimos los que cuentan una historia.
 
 El gasto en comer fuera de casa sigue ganando cuota: del 48% al 58% del gasto total en alimentación en EEUU en 25 años [3]. Al mismo tiempo, el "tercer espacio" social se desplaza cada vez más a casa — el 82% de los jóvenes bebedores británicos prefiere comprar alcohol para socializar en casa antes que salir [19] — o a entornos que no son de hostelería: en 2024, la Gen Z global era 4 veces más propensa a conocer gente haciendo ejercicio que en un bar [20]. Mintel llama a esto "déficit de afecto" — la gente se refugia en burbujas autocontenidas y prioriza eficiencia sobre interacción casual [21].
 
-**TBNB TAKE.** Muchos informes mezclan "crece el gasto en comer fuera" con "crece la necesidad de socializar fuera de casa", como si fueran la misma tendencia. No lo son. Son dos ejes distintos: dónde se gasta el dinero, y dónde ocurre la vida social — y cada vez coinciden menos. Si un negocio diseña su experiencia asumiendo que más gasto en comer fuera significa automáticamente más vida social dentro de su local, está resolviendo el problema equivocado. Invierte en el espacio cuando debería estar invirtiendo en el motivo para quedarse.
+**TBNB TAKE.** Aquí hay dos tendencias distintas, no una. La primera: el gasto en comer fuera de casa sigue creciendo de forma estructural — cada año pasa más dinero del consumidor por la caja de un restaurante que por la cesta del supermercado [3]. La segunda: la necesidad de socializar fuera de casa tampoco para de crecer, pero cada vez elige entornos distintos al bar o al restaurante — la propia casa, el gimnasio, el club de running [19][20][21]. Son dos ejes distintos: dónde se gasta el dinero, y dónde ocurre la vida social — y cada vez coinciden menos. Si un negocio diseña su experiencia asumiendo que más gasto en comer fuera significa automáticamente más vida social dentro de su local, está resolviendo el problema equivocado. Invierte en el espacio cuando debería estar invirtiendo en el motivo para quedarse.
 
 Hay un dato generacional que demuestra esta separación con más precisión que ningún otro de esta edición. Cuando la Gen Z recorta gasto, lo hace con fuerza en el limited-service — ha caído 19 puntos porcentuales en dos años, pese a que la conveniencia y la personalización de ese formato encajan con su perfil — y, en cambio, se resiste a recortar en el restaurante de servicio completo [4]. La razón no es de presupuesto, es de categoría: para la Gen Z, el limited-service es una transacción de comida, tan prescindible como cualquiera; el servicio completo es la ocasión social que, según el dato de arriba, ya escasea en su vida — y eso no se recorta primero. El dinero de toda una generación sigue las mismas dos cuentas separadas que el resto de esta sección: una es comida, la otra es vida social, y confundirlas es diseñar para el cliente equivocado.
 
@@ -243,6 +247,8 @@ Dalida resolvió esto con ingeniería de ración: pitas "chubby" de 140g diseña
 
 ## 07. BUSINESS OF HOSPITALITY
 *Lo que ocurre detrás de una buena experiencia.*
+
+Esta sección es, literalmente, dónde vive el sistema del que habla el resto de la edición. No la idea bonita de cara al cliente, sino lo que la sostiene por detrás: márgenes, equipo, tecnología y crecimiento. Si en el Opening decíamos que sobra inspiración y falta arquitectura, aquí es donde se ve esa arquitectura con los números por delante.
 
 ### PROFITABILITY
 
@@ -319,7 +325,7 @@ Nos la llevamos a casa porque es la pregunta que, en nuestra experiencia con cli
 
 La hostelería nunca ha tenido tantas ideas, conceptos e inspiración. Y sin embargo, construir un restaurante que funcione sigue siendo igual de difícil.
 
-Cerramos esta edición donde la abrimos, porque no ha cambiado: los negocios que documentamos no fracasan por falta de talento ni de ideas. Fracasan por falta de un sistema que haga que todo trabaje en la misma dirección.
+Cerramos esta edición donde la abrimos, porque no ha cambiado: los negocios que documentamos no fracasan por falta de talento ni de ideas. Fracasan por falta de un sistema que haga que todo trabaje en la misma dirección. El tablero de números del Big Picture lo mostraba a escala de sector; los cinco Shifts, uno por uno; los conceptos que estudiamos y el negocio que hay detrás de cada experiencia, con nombre propio. Si has leído esta edición de principio a fin, no has leído seis temas distintos — has leído el mismo argumento contado seis veces, desde seis sitios distintos.
 
 Nuestros cuatro casos propios de este semestre — RASA, Mantener Barcelona, Gambit y Lady Madrid — cuentan el mismo recorrido desde cuatro puntos de entrada distintos, y eso en sí mismo es una lección que casi nadie señala: el sistema no siempre se construye empezando por el mismo sitio. En RASA, el punto de entrada fue la narrativa — evitar el cliché cultural. En Mantener, fue el espacio — si el alquiler encajaba de verdad con la operación y los números. En Gambit, fue la identidad ya existente — hacer que la gastronomía hablara el idioma de un concepto que ya funcionaba en todo lo demás. Y en Lady Madrid, fue la operación del día a día.
 
