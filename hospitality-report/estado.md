@@ -1,7 +1,7 @@
 # Estado — Hospitality Report
 
 **Cadencia:** semestral (H1 / H2).
-**Última actualización:** 2026-10-01.
+**Última actualización:** 2026-10-02.
 
 ## Edición en curso
 
@@ -167,23 +167,23 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
   cadena de valor (previsión, pricing, carta, experiencia), no solo como
   herramienta aislada.
 
-Sin redactar todavía en ninguna sección.
-
 ## Fases del proceso (por edición)
 
 - [x] **Fase 1 · Investigación** (`hospitality-investigador`) — nutrir/actualizar
       `matriz-tematica.md` con fuentes nuevas, detectar patrones y tensiones.
       Suficiente material acumulado para arrancar la edición (ver bloque de
       fuentes arriba); se puede seguir nutriendo en paralelo si hace falta.
-- [ ] **Fase 2 · Estrategia** (`hospitality-estrategia`) — decidir qué tendencias
-      entran en esta edición, definir el ángulo TBNB TAKE de cada sección y la
-      pregunta de ONE QUESTION, a partir del hot take y los casos propios ya
-      confirmados por Andrea (ver más abajo). **En curso.**
-- [ ] **Fase 2b · Innovación** (`hospitality-innovacion`, rol nuevo, pedido por
-      Andrea el 2026-10-02) — presiona los ángulos de estrategia para que no se
-      queden en la lectura segura, antes de pasar a redacción.
+- [x] **Fase 2 · Estrategia** (`hospitality-estrategia`, 2026-10-02) — selección
+      de contenido, ángulo TBNB TAKE por sección, pregunta de ONE QUESTION y
+      comprobación de diferenciación completadas. Ver brief completo más abajo
+      ("Brief de Estrategia — H2 2026"). **Entregado a `hospitality-innovacion`
+      para retar los ángulos antes de pasar a redacción.**
+- [ ] **Fase 2b · Innovación** (`hospitality-innovacion`) — presiona los ángulos
+      de estrategia (ver brief abajo) para que no se queden en la lectura
+      segura, antes de pasar a redacción. **Siguiente paso.**
 - [ ] **Fase 3 · Redacción** (`hospitality-redaccion`) — escribir el reporte
-      completo en `ediciones/<año>-<H1|H2>/` siguiendo `plantilla-indice.md`.
+      completo en `ediciones/2026-H2/` siguiendo `plantilla-indice.md` y el
+      brief de estrategia (más el reto de innovación, una vez hecho).
 - [ ] **Fase 4 · Marketing** (`hospitality-marketing`) — plan de distribución del
       lanzamiento.
 
@@ -214,9 +214,461 @@ Sin redactar todavía en ninguna sección.
   más información/inspiración que se sume a esta edición — tratar lo que se
   redacte ahora como punto de partida editable, no como cierre definitivo.
 
+## Brief de Estrategia — H2 2026 (hospitality-estrategia, 2026-10-02)
+
+### Tesis general de la edición
+
+El sector nunca ha tenido tanta inspiración disponible (conceptos, datos,
+tendencias, herramientas) ni tanta facilidad para copiarla — y aun así, la
+tasa de fragilidad no baja. La edición no vende la tesis "falta tecnología" ni
+"falta creatividad": vende la tesis de que **la abundancia de ideas sin un
+sistema que las ordene es, en sí misma, una fuente de fragilidad** —
+construir bien no es tener más ideas, es decidir cómo todas las piezas
+(concepto, carta, equipo, operación, números) trabajan en la misma dirección,
+y solo entonces innovar dentro de ese sistema sin romperlo. El hilo de cierre
+(11) debe volver explícitamente a esta misma frase del hot take, no a una
+síntesis genérica de "lo que viene".
+
+Esta tesis conecta con dos datos ya en la matriz que funcionan como columna
+vertebral factual de todo el informe:
+- Inpulse.ai: *"Las tendencias atraen a los clientes, los márgenes los
+  retienen"* — facturación récord del sector (123.000M€ en Francia) y cierres
+  de restauración rápida +19% en el mismo periodo; incluso locales con
+  estrella Michelin cierran el mes con 3-4% de margen neto.
+- El propio material de venta de TBNB (`casos-propios-tbnb.md`): *"No
+  fracasan por falta de talento e ideas. Fracasan por falta de un sistema que
+  haga que todo trabaje en la misma dirección."*
+
+### Comprobación de diferenciación (hecha con WebSearch, 2026-10-02)
+
+**Riesgo real detectado:** ya existen informes de 2026 que dicen algo
+parecido con otras palabras. Qu, "2026 State of Digital & Beyond Report"
+(168 marcas QSR/Fast Casual, 94.000+ locales) concluye que el 55% de las
+marcas señala la **ejecución operativa** (no la innovación) como principal
+barrera a una mejor experiencia de cliente, y que el 48% aumenta inversión en
+tecnología mientras solo el 9% ve impacto real de la IA — lo llaman
+literalmente "the execution gap". El informe de independientes de la James
+Beard Foundation 2026 apunta en la misma dirección (operadores abrumados por
+herramientas, el riesgo es comprar tecnología sin mejorar el negocio).
+
+**Cómo nos diferenciamos (instrucción obligatoria para redacción e
+innovación):** no usar la expresión "execution gap" ni enmarcar el problema
+como una brecha de tecnología/datos — eso ya está dicho, en esos términos,
+por Qu y James Beard Foundation en el mismo año. El ángulo propio de TBNB es
+anterior y más amplio que la ejecución o la pila tecnológica: es un problema
+de **diseño del sistema** (concepto, carta, equipo, operación y números como
+una sola arquitectura, método Breakdown → Architecture → Run), que existe
+antes de que se compre ninguna herramienta. Los casos propios (RASA,
+Mantener) lo demuestran con sistemas diseñados *antes de abrir la puerta*,
+no como parche operativo después de detectar un problema de ejecución. Esta
+distinción ("no es un problema de ejecución o de stack tecnológico, es un
+problema de diseño previo") debe quedar explícita en 01 y 03, y es el
+principal escudo frente a la objeción "esto ya lo dijo otro informe".
+
+Otras fuentes de la matriz ya fueron contrastadas por el propio
+`hospitality-investigador` en el momento de registrarlas (Designhill/Graphic
+Design Eye/Eat App triangulando branding-como-sistema; Thanatit & Sungkatavat
+matizando a Designhill sobre sostenibilidad) — no hace falta repetir ese
+trabajo, pero sí aprovecharlo: la triangulación de tres fuentes de sector
+distinto en la misma tesis de marca-como-sistema es justo el tipo de patrón
+que valida un TREND propio sin citar literalmente a ninguna.
+
+### 01. OPENING — THE STATE OF HOSPITALITY
+
+**Selección:** abrir con la paradoja central (abundancia de ideas +
+crecimiento macro del sector, EHL: mercado global $4,9 a ~$7 billones en 2029,
+11,7 billones en viajes/turismo, 10,3% del PIB mundial) contra la fragilidad
+real y creciente de los conceptos individuales (Inpulse.ai: récord de
+facturación en Francia + cierres de restauración rápida +19%; margen neto de
+3-4% incluso con estrella Michelin). No resumir el semestre: plantear que
+2026 es el año en que la distancia entre "cuánto crece el sector" y "cuántos
+conceptos individuales sobreviven dentro de él" se ha hecho más visible que
+nunca.
+
+**TBNB TAKE (ángulo, no obligatorio en plantilla pero recomendado aquí
+porque es la pieza que ancla todo el informe):** la hostelería no tiene un
+problema de oportunidad ni de inspiración — tiene un problema de traducción:
+de cómo convertir esa oportunidad e inspiración en una arquitectura que
+aguante. Nombrar aquí, con la voz de Sergio y Andrea (bios reales en
+`equipo-tbnb.md`, no "Equipo TBNB"), que esta es literalmente la tesis que
+sostiene el trabajo de TBNB con sus clientes — dicho una vez, con autoridad,
+sin que suene a venta encubierta el resto del informe.
+
+### 02. THE BIG PICTURE
+
+**Selección de 10 indicadores (dentro del rango 8-12), elegidos por contar
+una historia, no por ser los más impactantes aislados:**
+
+1. EHL — mercado global de hostelería: $4,67 a $4,9 billones (2024), proyección
+   a ~$7 billones en 2029 (CAGR 5,3%).
+2. EHL — viajes/turismo: 11,7 billones de USD, 10,3% del PIB mundial, 371M
+   empleos hoy, 1 de cada 8 empleos del planeta en una década.
+3. McKinsey — "cuota de estómago": el gasto en comida fuera de casa en EEUU
+   pasó de ~48% (finales de los 90) a ~58% (2025) del gasto total en
+   alimentación — tailwind estructural real a favor del sector.
+4. Inpulse.ai — Francia: facturación récord de restauración comercial
+   (123.000M€) y cierres de restauración rápida +19% en el mismo periodo
+   (Q3 2025) — **dato bisagra de toda la sección**, la pieza que convierte el
+   resto de indicadores en una historia y no en una lista.
+5. Inpulse.ai — margen neto de 3-4% incluso en restaurantes con estrella
+   Michelin: la fragilidad no es solo de los conceptos pequeños o nuevos.
+6. McKinsey — brecha de IPC: comer fuera +6% vs. comer en casa +3%
+   (ene 2024-sep 2025) — presión de percepción de valor sobre el tailwind del
+   punto 3.
+7. Coca-Cola Lens — precios de carta +26% desde enero 2020, con 37% de brecha
+   entre precio percibido y precio real de un combo típico.
+8. McKinsey — comportamiento de recorte: el cliente que reduce gasto prefiere
+   quedarse en su restaurante de siempre y pedir distinto (promos 50%, menos
+   artículos 45%, carta más barata 40%) antes que cambiar de sitio (32%) — la
+   fidelidad aguanta más que el ticket medio.
+9. Deloitte — gap de gobernanza de IA: inversión en aumento generalizado
+   frente a solo ~20-30% de las empresas que se sienten preparadas en
+   gobernanza/riesgo/talento — mismo patrón de "más ambición que sistema" que
+   el resto de la sección, aplicado a tecnología.
+10. McKinsey — IA como ahorro estructural real: 200-300 puntos básicos
+    adicionales de reducción de costes en toda la cuenta de resultados si se
+    aplica a la cadena de valor completa (no solo a atención al cliente) —
+    cierre con una cifra de oportunidad, no solo de riesgo.
+
+**TBNB TAKE:** el tablero no cambia en una sola dirección (todo crece o todo
+se rompe): crece el sector y crece la fragilidad de los conceptos
+individuales *a la vez*, y eso solo tiene sentido si el problema no es la
+oportunidad de mercado — es la falta de un sistema capaz de absorber esa
+oportunidad sin romperse.
+
+### 03. THE SHIFTS (5 movimientos — dentro del rango 4-6)
+
+**1. El pan que dejó de poder llamarse pan.** (Sirha Food, panadería
+francesa → espacio híbrido). WHAT WE SEE: la panadería tradicional se
+disuelve en un formato de permanencia (desayuno, brunch, eventos, hasta
+"bakery raves") hasta el punto de perder el derecho legal a llamarse
+"boulangerie" (caso Mamatte). WHY NOW: el margen ya no está en el pan, está en
+el snacking y la ocupación de mesa. THE SIGNALS: pan reducido a 5-15% de la
+actividad en los operadores más híbridos, frente a +50% de snacking.
+WHAT IT MEANS: un concepto puede evolucionar más rápido que el nombre, el
+marco legal y la identidad que lo contienen. **TBNB TAKE:** esto no es un
+problema de panaderías, es lo que pasa siempre que el concepto crece sin que
+nadie rediseñe a la vez el sistema que lo sostiene (nombre, equipo, legal,
+narrativa) — Mamatte evolucionó por capas, apertura a apertura, en vez de con
+un solo relanzamiento: ilustra bien que "rediseñar el sistema" no siempre es
+un evento único, puede ser gradual si se hace con intención. WHAT TO WATCH:
+si aparece un nombre de categoría nuevo para este híbrido en los próximos 6
+meses. HOW TO TAKE ADVANTAGE: cualquier cliente de TBNB que esté
+"añadiendo capas" a su concepto (brunch a un café, eventos a una coctelería)
+debería preguntarse primero si el nombre y la narrativa de marca todavía
+describen lo que el negocio realmente es.
+
+**2. La lealtad aguanta más que el ticket medio — y eso cambia dónde hay que
+pelear.** (McKinsey, divergencia generacional). WHAT WE SEE: cuando el
+cliente recorta gasto, no cambia de restaurante — cambia cómo pide dentro de
+él. WHY NOW: incertidumbre económica prolongada + fatiga de precio (ver 02).
+THE SIGNALS: 50% más promos, 45% menos artículos, 40% carta más barata, solo
+32% cambia de sitio; Gen Z resiste a recortar en servicio completo
+(lo trata como ocasión social) pero cae más que nadie en limited-service.
+WHAT IT MEANS: el riesgo real no es la fuga de clientes, es la erosión
+silenciosa del ticket dentro de la base ya fiel. **TBNB TAKE:** la mayoría de
+negocios optimiza marketing para no perder clientes, cuando el verdadero
+campo de batalla de 2026 es diseñar la carta y el pricing para que ese
+cliente fiel, cuando decide gastar menos, siga dejando el margen que el
+negocio necesita — eso es ingeniería de sistema (carta + precio + ración), no
+fidelización de marca. WHAT TO WATCH: si la brecha entre "frecuencia estable"
+y "ticket medio cayendo" se amplía en el próximo semestre. HOW TO TAKE
+ADVANTAGE: auditar qué pasa en la cuenta de resultados si el 30% de la base
+fiel pide "la opción barata" del menú en vez de abandonar — muchos modelos de
+carta no sobreviven a ese escenario con el margen intacto.
+
+**3. Las tendencias atraen clientes, los sistemas retienen el margen.**
+(Inpulse.ai, cita central + pollo frito viral en TikTok de 09 THE RADAR como
+contraejemplo). WHAT WE SEE: el mercado premia visibilidad viral más rápido
+de lo que un negocio puede construir un sistema de costes/operación que la
+sostenga. WHY NOW: ciclos de tendencia más cortos, redes sociales como motor
+de descubrimiento (DoorDash+SevenRooms: 41% de recomendaciones de IA vienen
+de plataformas de listado, no de la web propia). THE SIGNALS: explosión de
+marcas de pollo frito nacidas en TikTok colonizando dark kitchens en meses;
+cierres de restauración rápida +19% en el mismo mercado. WHAT IT MEANS: ser
+viral y ser viable son dos pruebas distintas, y la segunda es la que de
+verdad decide quién sigue abierto en 12 meses. **TBNB TAKE:** esta es la
+sección donde el informe debe ser más incómodo consigo mismo — todo el resto
+de "Concept Watch" y "Food & Drink" de esta misma edición documenta ideas
+atractivas; el lector debería terminar esas secciones preguntándose cuáles de
+esas ideas pasarían un análisis de food cost antes de copiarlas (puente
+directo a 08. ONE QUESTION). WHAT TO WATCH: cuántas de las marcas virales de
+pollo frito francesas siguen abiertas dentro de 12 meses. HOW TO TAKE
+ADVANTAGE: tratar cualquier tendencia viral como hipótesis de producto a
+testar con margen real (LTO, no relanzamiento de carta completa) antes de
+comprometer el sistema entero a ella — ver Velvet Taco/Whataburger en 04.
+
+**4. La marca como sistema, no como estética — y el riesgo de confundir el
+síntoma con la causa.** (Triangulación Designhill + Graphic Design Eye + Eat
+App + validación académica de Thanatit & Sungkatavat). WHAT WE SEE: tres
+fuentes de sector distinto (diseño/merchandising, branding, software de
+reservas) convergen, de forma independiente, en que la marca ya es el
+diferenciador competitivo real, no el producto. WHY NOW: saturación de
+mercado + decisión de compra que empieza en redes antes que en la puerta del
+local. THE SIGNALS: el framework de marca de Eat App coincide casi punto por
+punto con "Concepto y Narrativa de Marca" del BAR Method; Thanatit &
+Sungkatavat confirma con metodología real que el storytelling cambia de
+función según el tipo de restaurante (exclusividad en fine dining,
+autenticidad en casual). WHAT IT MEANS: la consistencia de marca entre
+canales ya no es un "plus", es tabla de apuestas. **TBNB TAKE (el giro
+propio, no solo repetir la triangulación):** estas fuentes tratan la
+consistencia de marca como la causa del éxito; nuestra lectura es la
+contraria — la consistencia de marca es el **síntoma visible** de que el
+sistema de debajo (concepto, operación, equipo) ya está alineado. Se puede
+imitar el uniforme, el packaging y el tono de voz de un restaurante que
+funciona sin conseguir nada, porque esas señales no son la causa, son el
+resultado. Refuerzo con la tensión real de Sirha Food: el merchandising
+representa solo el 1% de la facturación de Bao Family — contradice de forma
+explícita a Designhill, que lo vende como "línea de ingresos"; es
+fidelización/visibilidad, no negocio, y tratarlo como negocio es precisamente
+el tipo de error de "copiar la táctica sin el sistema" que esta sección
+denuncia. WHAT TO WATCH: si aparecen casos de marcas que copian la estética
+(packaging, merchandising) sin mejora de retención o ticket medio real.
+HOW TO TAKE ADVANTAGE: antes de invertir en un rediseño de marca, confirmar
+que el concepto, la carta y la operación ya cuentan la misma historia que se
+le va a pedir a la marca que cuente.
+
+**5. Se invierte en IA más rápido de lo que se diseña quién la gobierna.**
+(Deloitte, gap de gobernanza — mismo patrón que el resto de la sección,
+aplicado a tecnología). WHAT WE SEE: casi el 100% de las empresas aumenta
+inversión en IA; solo ~20% se siente lista en gobernanza/riesgo. WHY NOW:
+presión competitiva + proveedores empujando adopción más rápido que la
+capacidad interna de decidir bien dónde aplicarla. THE SIGNALS: el freno real
+declarado no es la tecnología disponible, es identificar el caso de uso
+correcto y la falta de talento/gobernanza (Deloitte); McKinsey confirma que
+el ahorro real (200-300 puntos básicos) solo llega si se aplica a toda la
+cadena de valor, no a una herramienta aislada. WHAT IT MEANS: la IA es el
+ejemplo más actual y más caro de "idea sin sistema" de todo el informe.
+**TBNB TAKE:** esta es la prueba de que el hot take de la edición no es
+retórica — es, literalmente, el patrón que se repite con cada tecnología
+nueva: se compra la herramienta antes de decidir cómo encaja en el sistema
+que ya existe, y luego se culpa a la herramienta cuando no rinde.
+*Importante para redacción: no enmarcar esto como "execution/data gap"
+(términos ya usados por Qu/James Beard Foundation 2026, ver diferenciación
+arriba) — enmarcarlo como decisión de diseño previa a la tecnología.*
+WHAT TO WATCH: si en 6 meses el discurso del sector pasa de "cuánta IA
+adoptar" a "quién decide y audita lo que la IA decide". HOW TO TAKE
+ADVANTAGE: antes de comprar cualquier herramienta de IA, documentar quién en
+el equipo es responsable de verificar sus decisiones — si no hay respuesta
+clara, el sistema todavía no está listo para la herramienta.
+
+### 04. CONCEPT WATCH
+
+**Selección de casos de terceros** (priorizando los que muestran sistema
+diseñado desde el origen, no solo estética):
+- Mamatte y el ecosistema de panaderías híbridas francesas (Francia) — ver
+  Shift 1, aquí con el detalle operativo de los 4 casos.
+- Grupo Ephemera (París) — restaurantes inmersivos como "mundo" replicable
+  (escenografía + cocina diseñadas juntas desde el origen, no secuencialmente)
+  — mismo principio que RASA (ver abajo), buen puente editorial.
+- Selección reducida de Graphic Design Eye (no los 10 casos, serían ruido):
+  Miller's Guild y Girl & The Goat como los dos que mejor ilustran "sistema
+  antes que estética" (identidad construida desde el carácter real de la
+  ciudad/chef, no aplicada encima).
+- Un proyecto de Sancal en España (Kaikaya o Tunateca Balfegó) como ejemplo de
+  interiorismo narrativo — cobertura España explícita que pide la plantilla.
+
+**Casos propios de TBNB en esta sección — RASA y Mantener Barcelona:**
+
+- **RASA** — THE CONCEPT: cocktail lounge gastronómico de India contemporánea.
+  WHY IT WORKS: gastronomía, coctelería, diseño y hospitalidad funcionando
+  como un único sistema desde el día uno. THE IDEA BEHIND IT: el reto no era
+  diseñar "un restaurante indio", era que cada decisión contara la misma
+  historia sin caer en el cliché — el sistema (narrativa, carta, operación)
+  se construyó *antes* de abrir la puerta, no se ajustó después de ver qué
+  funcionaba. WHAT WE CAN LEARN: citar en paralelo directo con el Shift 1
+  (Mamatte) como contraste editorial explícito — Mamatte es un sistema que se
+  recompuso *después* de que el concepto ya hubiera crecido de forma
+  desordenada; RASA es la versión en la que el sistema se diseña primero.
+  Mismo problema, dos momentos distintos de abordarlo.
+  Ángulo editorial, no de venta: no vender el BAR Method, usar RASA como
+  evidencia de que "diseñar antes de abrir" es una decisión concreta y
+  replicable, no una frase bonita.
+
+- **Mantener Barcelona** — THE CONCEPT: restaurante de cocina latina
+  contemporánea en Barcelona. WHY IT WORKS: la decisión de local (alquiler,
+  idoneidad del espacio) se evaluó como parte del mismo sistema que la
+  operación y el concepto, no como un paso previo aislado. THE IDEA BEHIND
+  IT: *"el problema empieza antes de abrir la puerta, cuando se elige un
+  espacio que no encaja con la operación, el concepto o los números"* — cita
+  casi literal del propio caso, muy citable. WHAT WE CAN LEARN: puente directo
+  con Ephemera (escenografía + cocina diseñadas juntas) y con el eje de
+  interiorismo de Sancal — en los tres casos, el espacio no es un contenedor
+  neutro, es una decisión de sistema. Cobertura: Barcelona, cumple con la
+  exigencia de la plantilla de cubrir esa ciudad con un caso real.
+
+### 05. GUEST CULTURE
+
+**Selección:** Mintel (déficit de afecto, anti-algoritmo) + WGSN (deseo de
+evasión, optimismo suspicaz) como marco emocional de fondo; McKinsey (lo que
+de verdad decepciona al cliente es producto y ración, no la experiencia) como
+contrapeso necesario a toda la narrativa de branding/experiencia de las
+secciones 04 y 07.
+
+**Corrección propia de TBNB (diferenciador explícito, viene del "Backlog de
+síntesis" de la matriz):** muchos informes mezclan "crece el gasto en comer
+fuera" con "crece la necesidad de socializar fuera de casa" como si fueran la
+misma tendencia — no lo son. El gasto en comer fuera sigue ganando cuota
+(48%→58% en 25 años, McKinsey), pero el "tercer espacio" social se desplaza
+cada vez más a casa (WGSN, Mintel) o a entornos no gastronómicos (clubes de
+running: Gen Z 4 veces más propensa a conocer gente haciendo deporte que en
+un bar, Strava). **TBNB TAKE:** si un negocio diseña su experiencia asumiendo
+que más gasto en comer fuera significa automáticamente más vida social
+dentro de su local, está resolviendo el problema equivocado — son dos ejes
+distintos (dónde se gasta el dinero vs. dónde ocurre la vida social) y
+confundirlos lleva a invertir en el espacio equivocado.
+
+### 06. FOOD & DRINK
+
+**Pieza central — "Code of Conduct" (compartir platos):** clasificar como
+**TREND** (no NOISE): compartir ya es el modo de comer por defecto (cita de
+Sayat Ozyilmaz, Dalida: *"sharing is how most of us eat 90 percent of the
+time"*), pero la mayoría de cartas se diseñan para 1-2 comensales, lo que
+genera fricción real a partir de 3-4. Casos: Dalida (pitas de 140g diseñadas
+para rendir 4 raciones, menú cerrado obligatorio desde 6 comensales), Modern
+Bird (*"the biggest part of that equation is, how are people gonna eat this
+thing"*, rediseño de platos para que sean compartibles sin perder el plato de
+moda), Rose Mary vs. Smithereens (dos soluciones opuestas al mismo problema
+de plato "no compartible" — tensión incluida a propósito: Smithereens se
+niega por filosofía a adaptar su plato, pero igual ofrece alternativa para
+compartir, porque la comodidad real del cliente post-COVID no siempre
+coincide con la autenticidad que defiende el chef). **TBNB TAKE:** el
+emplatado es logística de sistema, no solo estética — cada carta que no se
+ha diseñado pensando en cuántas personas se sientan a la mesa está dejando
+fricción (y ración desperdiciada, y servicio más lento) sobre la mesa todos
+los días, de forma invisible hasta que alguien se para a mirarlo.
+
+**Secundario, clasificado explícitamente:** TREND — vuelta a la hamburguesa
+gruesa y al steakhouse (ligado a proteína/GLP-1 y nostalgia, Gluttonomy);
+TREND — fibra como nuevo macronutriente (cultura GLP-1); MOMENT — indulgencia
+asequible/lujo accesible (café premium); vigilar como posible NOISE el "punto
+dulce" visual de la carta (ya señalado en la matriz como de baja fiabilidad).
+
+### 07. BUSINESS OF HOSPITALITY
+
+- **PROFITABILITY:** menu engineering con los tres niveles de fiabilidad ya
+  evaluados en la matriz (alto: Cornell/Wansink/Milliman/Cialdini; medio:
+  efecto señuelo; bajo: triángulo dorado/color) — contenido diferencial
+  porque separa lo demostrado de lo que es solo práctica de consultoría
+  repetida sin base. Añadir Inpulse.ai: pizzerías napolitanas y bares de
+  pasta con los mejores ratios estructurales del mercado francés (food cost
+  24-30%, margen bruto 70-76%) por menos referencias y recetas más
+  estandarizables — contrapunto concreto a la complejidad de carta que
+  domina el resto de la sección.
+  **Caso propio — Gambit:** convertir la gastronomía en activo estratégico
+  de un concepto ya consolidado (no un restaurante nuevo, una carta integrada
+  en una identidad ya fuerte) — ángulo: el sistema no siempre se construye
+  desde cero, a veces es insertar una pieza nueva (la carta) en un sistema
+  que ya funciona en todo lo demás, y hacer que hable el mismo idioma que el
+  resto. Ejemplo editorial de "innovar dentro del sistema", la segunda mitad
+  del hot take.
+- **PEOPLE:** liderazgo humano-céntrico ante escasez de talento (EHL) +
+  inclusión de equipo como firma de marca (Sirha Food, Joyeux/L'ExtrA: 13 de
+  17 empleados con discapacidad) — TBNB TAKE: la inclusión bien hecha no es
+  política de RRHH aparte, es una decisión de sistema igual que la carta o el
+  interiorismo.
+- **TECH & AI:** Deloitte (adopción por oleadas, freno organizativo no
+  tecnológico) + McKinsey (GEO, "generative engine optimization", como
+  disciplina nueva; 200-300 pb de ahorro potencial si se aplica a toda la
+  cadena) — puente directo con el Shift 5.
+- **GROWTH:** la triangulación branding-como-sistema (ver Shift 4, aquí con
+  el detalle de tácticas: packaging, uniforme, consistencia digital) +
+  Sushi Shop como mecánica de co-branding recurrente con chefs-marca y
+  artistas a la vez (Sirha Food) + advertencia histórica de "Colgate
+  Kitchen" como criterio de selección de socio (coherencia de universo de
+  marca por encima de notoriedad).
+
+### 08. ONE QUESTION
+
+**Pregunta elegida:**
+
+> *Cuando un concepto con buena idea, buen equipo y buena ubicación no
+> levanta cabeza, ¿qué nos cuesta más admitir: que el mercado no lo quería,
+> o que nadie llegó a diseñar cómo tenían que funcionar juntas todas esas
+> piezas?*
+
+**Por qué esta y no otra:** las cuatro candidatas ya anotadas en la matriz
+(déficit de afecto/juego, minimalismo digital, optimismo suspicaz hacia la
+IA, tendencias vs. margen) son buenas pero dos riesgos las descartan como
+pregunta de cierre: (a) la de IA/gobernanza y la de minimalismo digital son
+preguntas sobre el consumidor, no sobre el operador — el informe ya cubre
+esos ángulos en 05; (b) la pregunta sobre "cuántos conceptos virales
+sobrevivirían un análisis de food cost" es buena pero fácil de responder
+desde fuera ("obviamente pocos") sin que el lector se sienta interpelado.
+La pregunta elegida es incómoda porque no deja escapatoria fácil: obliga al
+lector (operador, inversor, consultor) a elegir entre dos explicaciones de
+su propio fracaso — una externa (el mercado) y otra interna y evitable (nunca
+se diseñó el sistema) — y la evidencia de todo el informe (Inpulse.ai,
+Shift 1, Shift 4, casos propios) ya deja claro hacia qué lado se inclina la
+respuesta honesta. Es la pregunta que convierte el hot take de venta en una
+pregunta que el lector se lleva a su propio negocio, no solo al sector en
+abstracto.
+
+**Instrucción para innovación:** si esta pregunta se percibe todavía
+demasiado "fácil de estar de acuerdo" (es decir, si cualquiera puede asentir
+sin sentirse señalado), afilarla más hacia la responsabilidad personal del
+fundador/operador — ese es exactamente el tipo de presión que le corresponde
+a `hospitality-innovacion` antes de pasar a redacción.
+
+### 09. THE RADAR / 10. EARLY SIGNAL
+
+Uso ligero, sin TBNB TAKE obligatorio pero coherente con la tesis: marcar el
+pollo frito viral francés como **⚠ OVERHYPED** (contraejemplo directo del
+Shift 3), Guinness "Splitting the G" como **↑ RISING** (marca centenaria
+reactivando un ritual ya existente del cliente, no inventando uno — ejemplo
+de innovar *dentro* de un sistema de marca ya sólido, coherente con la
+segunda mitad del hot take), y Croissound/bakery raves como **● EARLY
+SIGNAL** (ligado al Shift 1). No sobrecargar estas secciones — son de
+consulta rápida, no narrativas.
+
+### 11. CLOSING — HOSPITALITY NEVER STANDS STILL
+
+**Caso propio — Lady Madrid, como cierre:** *"Transformar un negocio no
+siempre significa empezar de cero"* — cierra el arco narrativo de los casos
+propios: 04 muestra sistemas diseñados desde cero (RASA, Mantener), 07
+muestra un sistema al que se añade una pieza nueva (Gambit), 11 cierra con un
+sistema reconstruido dentro de un negocio que ya llevaba tiempo abierto y
+funcionando a medias — el recorrido completo del hot take, del concepto
+nuevo al negocio maduro. **Importante:** usar el caso en términos
+cualitativos ("pasó de depender de la improvisación a crecer con criterio")
+y **no incluir la cifra de +100.000€ de facturación hasta que Andrea
+confirme** si el permiso pendiente en `comunicacion-redes-sociales/estado.md`
+cubre también este uso — si no hay confirmación antes del cierre de edición,
+redactar sin cifra o con cifra anonimizada ("crecimiento de seis cifras",
+solo si Andrea valida esa alternativa).
+
+**Hilo de cierre:** retomar explícitamente la frase del hot take (*"la
+hostelería nunca ha tenido tantas ideas... y sin embargo, construir un
+restaurante que funcione sigue siendo igual de difícil"*), conectada con la
+convergencia ya detectada en la matriz entre Gluttonomy (comida más
+intencional y humana, no el siguiente gimmick), Deloitte (la tecnología sola
+no basta) y Mintel (déficit de afecto) — tres ángulos distintos que ya
+apuntaban, antes de que esta edición existiera, a la misma idea de fondo: la
+época de "más" (más ideas, más datos, más tecnología) no es la que gana; gana
+quien decide qué de todo eso merece entrar en el sistema. Cerrar con "See you
+in six months" según plantilla.
+
+### Gaps para investigación (no bloquean el borrador, pero conviene cerrar
+antes de la versión final post-Copenhague)
+
+- Confirmar con Andrea si el permiso de Lady Madrid cubre el Hospitality
+  Report (bloqueante solo para la cifra exacta, no para el caso en sí).
+- Casi todos los datos macro "duros" de 02 y 03 son de EEUU (McKinsey) o
+  Francia (Inpulse.ai, Sirha Food) — sería valioso, si hay tiempo antes del
+  cierre, que `hospitality-investigador` busque 1-2 datos equivalentes de
+  España (cierres de hostelería, márgenes medios, IPC hostelería vs. hogar)
+  para anclar al menos un indicador de 02 en el mercado donde opera TBNB.
+- Confirmar ubicación exacta de RASA (ciudad) para completar la ficha de 04
+  según el formato de la plantilla (cobertura Barcelona/Madrid/España/
+  Europa/Global) — no estaba especificada en `casos-propios-tbnb.md`.
+- Confirmar publicación original de la columna "Code of Conduct" y del
+  artículo de happychef.cloud antes de citarlos con nombre de medio en el
+  reporte final (ya señalado por investigación, pendiente de cierre).
+
 ## Pendiente de decisión con Andrea
 
 - Confirmar si el permiso de Lady Madrid cubre también el Hospitality Report.
 - Si este repositorio pasa a ser la versión "viva" de la matriz temática (y Drive
   queda como archivo), o si se mantienen ambos en paralelo.
 - Fecha de cierre concreta para la edición H2 2026.
+</content>
