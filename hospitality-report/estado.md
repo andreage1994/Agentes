@@ -171,11 +171,17 @@ Sin redactar todavía en ninguna sección.
 
 ## Fases del proceso (por edición)
 
-- [ ] **Fase 1 · Investigación** (`hospitality-investigador`) — nutrir/actualizar
+- [x] **Fase 1 · Investigación** (`hospitality-investigador`) — nutrir/actualizar
       `matriz-tematica.md` con fuentes nuevas, detectar patrones y tensiones.
+      Suficiente material acumulado para arrancar la edición (ver bloque de
+      fuentes arriba); se puede seguir nutriendo en paralelo si hace falta.
 - [ ] **Fase 2 · Estrategia** (`hospitality-estrategia`) — decidir qué tendencias
       entran en esta edición, definir el ángulo TBNB TAKE de cada sección y la
-      pregunta de ONE QUESTION.
+      pregunta de ONE QUESTION. **Siguiente paso**, en cuanto Andrea confirme
+      las preguntas abiertas de más abajo.
+- [ ] **Fase 2b · Innovación** (`hospitality-innovacion`, rol nuevo, pedido por
+      Andrea el 2026-10-02) — presiona los ángulos de estrategia para que no se
+      queden en la lectura segura, antes de pasar a redacción.
 - [ ] **Fase 3 · Redacción** (`hospitality-redaccion`) — escribir el reporte
       completo en `ediciones/<año>-<H1|H2>/` siguiendo `plantilla-indice.md`.
 - [ ] **Fase 4 · Marketing** (`hospitality-marketing`) — plan de distribución del
@@ -183,6 +189,17 @@ Sin redactar todavía en ninguna sección.
 
 ## Pendiente de decisión con Andrea
 
+- **Qué edición es esta** (H2 2026 o ya H1 2027) y fecha objetivo de cierre —
+  necesario para nombrar la carpeta `ediciones/<año>-<H1|H2>/` y para que
+  `hospitality-marketing` sepa con cuánto margen trabaja.
+- **¿Hay algún "hot take" o postura propia que Andrea/Sergio ya quieran
+  defender en esta edición?** — si existe, es el insumo más valioso posible
+  para `hospitality-innovacion`, mejor que derivarlo solo de la matriz.
+- **¿Algún caso real (propio, anonimizado si hace falta) de un cliente del
+  BAR Method de este semestre** que se pueda citar como prueba — es el tipo
+  de contenido que ninguna fuente externa ni competencia con IA genérica
+  puede replicar, y hoy la matriz solo tiene casos de terceros.
+- **Autoría**: ¿el reporte lleva firma (Andrea/Sergio/equipo) o se mantiene
+  en voz "TBNB" sin firma individual?
 - Si este repositorio pasa a ser la versión "viva" de la matriz temática (y Drive
   queda como archivo), o si se mantienen ambos en paralelo.
-- Fecha objetivo para cerrar la próxima edición (H2 2026 o H1 2027).

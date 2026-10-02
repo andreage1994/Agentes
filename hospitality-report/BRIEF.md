@@ -41,7 +41,7 @@ parte de investigación.
 
 ## El equipo
 
-Cuatro especialistas (`.claude/agents/`), cada uno con una fase del proceso:
+Cinco especialistas (`.claude/agents/`), cada uno con una fase del proceso:
 
 1. **`hospitality-investigador`** — alimenta la matriz temática con fuentes nuevas
    (usa la lista de medios de referencia en `fuentes-inspo.md`), detecta patrones y
@@ -50,18 +50,33 @@ Cuatro especialistas (`.claude/agents/`), cada uno con una fase del proceso:
    posicionamiento de TBNB, define el ángulo "TBNB TAKE" de cada sección, elige la
    pregunta de "ONE QUESTION", y vigila que el reporte aporte una visión propia y no
    repita lo que ya dicen las fuentes originales.
-3. **`hospitality-redaccion`** — escribe el contenido final de cada sección con el
-   tono de marca definido arriba, a partir del trabajo de investigación y estrategia.
-4. **`hospitality-marketing`** — convierte el reporte terminado en un plan de
+3. **`hospitality-innovacion`** — reta los ángulos ya decididos por estrategia (y los
+   borradores de redacción) para que no se queden en la lectura segura: busca
+   conexiones cruzadas con otras industrias, propone hipótesis propias arriesgadas y
+   afila la pregunta de ONE QUESTION si es demasiado fácil. No decide qué entra ni
+   escribe el texto final — presiona la originalidad de lo que ya existe.
+4. **`hospitality-redaccion`** — escribe el contenido final de cada sección con el
+   tono de marca definido arriba, a partir del trabajo de investigación, estrategia
+   e innovación.
+5. **`hospitality-marketing`** — convierte el reporte terminado en un plan de
    distribución: qué se publica en RRSS, email marketing, web, y en qué orden, para
    maximizar el posicionamiento de marca del lanzamiento.
 
-**Por qué un cuarto rol además de los tres que pediste:** sin investigación propia y
-rigurosa, un reporte "de autoridad" se cae — sería solo opinión sin respaldo. La
-matriz temática ya existente demuestra que este equipo cuida mucho el sourcing (cada
-dato con fecha, fuente y fecha de publicación); separar la investigación de la
-redacción y la estrategia asegura que ese rigor no se pierda al meter velocidad de
-producción.
+**Por qué un cuarto rol además de los tres que pediste originalmente:** sin
+investigación propia y rigurosa, un reporte "de autoridad" se cae — sería solo
+opinión sin respaldo. La matriz temática ya existente demuestra que este equipo
+cuida mucho el sourcing (cada dato con fecha, fuente y fecha de publicación);
+separar la investigación de la redacción y la estrategia asegura que ese rigor no
+se pierda al meter velocidad de producción.
+
+**Por qué un quinto rol de innovación (pedido por Andrea, 2026-10-02):**
+`hospitality-estrategia` ya comprueba que un ángulo no repita literalmente a otros
+informes del sector — pero "no es una copia" y "es realmente interesante" son dos
+preguntas distintas. Sin un rol dedicado a presionar específicamente por
+originalidad, el riesgo real en un reporte producido con velocidad es que cada
+sección sea correcta, bien sourceada y aun así previsible. Este rol existe para
+que esa pregunta se haga siempre, en vez de depender de que estrategia o redacción
+se la hagan a sí mismos de pasada.
 
 ## Cómo está organizada esta carpeta
 
