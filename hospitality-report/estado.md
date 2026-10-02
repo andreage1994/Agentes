@@ -184,12 +184,22 @@ compartiendo, concentrado sobre todo en la sección 07 (Business of Hospitality
       versión más afilada, pendiente de confirmación de `hospitality-estrategia`)
       e hipótesis propia arriesgada planteada. Ver "Notas de Innovación — H2
       2026" más abajo, justo después del brief de estrategia.
-- [ ] **Fase 3 · Redacción** (`hospitality-redaccion`) — escribir el reporte
-      completo en `ediciones/2026-H2/` siguiendo `plantilla-indice.md`, el
-      brief de estrategia y las notas de innovación (más abajo).
-      **Siguiente paso.**
+- [x] **Fase 3 · Redacción** (`hospitality-redaccion`, 2026-10-02) — reporte
+      completo redactado en `ediciones/2026-H2/contenido.md`, siguiendo
+      `plantilla-indice.md` (11 secciones), el brief de estrategia y las
+      notas de innovación (ver ambos más abajo en este documento). Incluye:
+      pregunta de ONE QUESTION en la versión afilada por innovación (variante
+      "tú"), conexión sneakers (Shift 3) y conexión WeWork (Shift 1) en un
+      párrafo cada una, hipótesis arriesgada 2027 integrada al cierre del
+      Shift 3 con el matiz explícito de que el riesgo es la viralidad sin
+      sistema (no la viralidad en sí), autoría con voz y citas reales de
+      Sergio y Andrea (01 y 11), y caso Lady Madrid en 11 solo en términos
+      cualitativos, sin la cifra de +100.000€ (pendiente de permiso del
+      cliente). Tratado como primer borrador, no cierre definitivo — Andrea y
+      Sergio viajan a Copenhague la semana que viene y es probable que amplíen
+      la edición después.
 - [ ] **Fase 4 · Marketing** (`hospitality-marketing`) — plan de distribución del
-      lanzamiento.
+      lanzamiento. **Siguiente paso.**
 
 ## Edición confirmada: H2 2026 (respuestas de Andrea, 2026-10-02)
 
@@ -416,7 +426,7 @@ local. THE SIGNALS: el framework de marca de Eat App coincide casi punto por
 punto con "Concepto y Narrativa de Marca" del BAR Method; Thanatit &
 Sungkatavat confirma con metodología real que el storytelling cambia de
 función según el tipo de restaurante (exclusividad en fine dining,
-autenticidad en casual). WHAT IT MEANS: la consistencia de marca entre
+autenticidad en casual dining). WHAT IT MEANS: la consistencia de marca entre
 canales ya no es un "plus", es tabla de apuestas. **TBNB TAKE (el giro
 propio, no solo repetir la triangulación):** estas fuentes tratan la
 consistencia de marca como la causa del éxito; nuestra lectura es la
@@ -823,6 +833,9 @@ es más fiel al tono "afirmamos, no especulamos" del Brief. Esta es una
 propuesta, no un cambio aplicado — la decisión final de ONE QUESTION sigue
 siendo de `hospitality-estrategia`.
 
+**Decisión aplicada en redacción (2026-10-02):** se usó la variante 1 — es
+la versión que llegó ya elegida en el encargo de redacción de esta edición.
+
 ### Conexión entre los 4 casos propios que estrategia no ha señalado todavía
 
 Estrategia ya conecta los 4 casos en un arco cronológico correcto: 04
@@ -907,6 +920,10 @@ en 2027...", no como hecho consumado).
 pronóstico, no como WHAT WE SEE) o para abrir 08. ONE QUESTION como puente
 hacia la pregunta ya afilada — redacción decide dónde encaja mejor.
 
+**Decisión aplicada en redacción (2026-10-02):** se usó al cierre del
+TBNB TAKE del Shift 3, con el matiz explícito de que el riesgo es la
+viralidad sin sistema y no la viralidad en sí.
+
 ## Pendiente de decisión con Andrea
 
 - Confirmar si el permiso de Lady Madrid cubre también el Hospitality Report.
@@ -915,4 +932,8 @@ hacia la pregunta ya afilada — redacción decide dónde encaja mejor.
 - Fecha de cierre concreta para la edición H2 2026.
 - Elegir entre las dos variantes propuestas de ONE QUESTION (o mantener la
   original) — decisión de `hospitality-estrategia`, no aplicada aquí.
-</content>
+  **Actualización (redacción, 2026-10-02): el encargo de redacción llegó ya
+  con la variante 1 elegida — ver "Instrucciones específicas de esta
+  edición" en el prompt de `hospitality-redaccion`. Si estrategia no ha
+  confirmado esto formalmente todavía, dejarlo anotado como pendiente de
+  ratificación, no de elección.**
