@@ -1,10 +1,10 @@
-# Investigación heredada del gestor de SEO externo
+# Investigación heredada de Saúl Felipe Cortés (colaborador de SEO externo)
 
 Fuente: Google Drive, hoja de cálculo `2026_The Bar N Bar_Roadmap y primeros
-accionables` (propietario: saulfelipecortes@gmail.com — presumiblemente "el
-chico" que menciona Andrea en `../brief-interno-andrea.md` como quien ha
-llevado el SEO hasta ahora; **pendiente confirmar identidad exacta con
-Andrea**). Enlace:
+accionables` (propietario: saulfelipecortes@gmail.com). **Confirmado por
+Andrea (2026-10-02): Saúl era el colaborador externo que llevaba el SEO de
+TBNB, despedido hoy mismo — `seo-estrategia-senior` toma su rol directamente
+a partir de ahora, no queda nadie más externo tocando SEO.** Enlace:
 https://docs.google.com/spreadsheets/d/1G3XD_j52MdAIoVRHTI6y_nUhlNyBfoarZz2r9zgi034
 
 Este documento resume su estructura y decisiones ya tomadas; para el detalle
@@ -28,11 +28,10 @@ hoja — no se duplica aquí para evitar que esta copia quede desactualizada.
 Tareas "Always On" listadas sin detalle de cadencia: tracking de keywords,
 comité de contenidos, revisiones pre/pro, monitorización de datos.
 
-**Nota importante:** el favicon figura como "Implementado" en esta hoja,
-pero el briefing de Andrea (punto 13 de su priorización) lo sigue señalando
-como un problema sin resolver ("nadie lo ha conseguido y nunca aparece
-correctamente"). Contradicción a verificar directamente en la web antes de
-dar nada por cerrado.
+**Nota sobre el favicon:** figuraba como "Implementado" en esta hoja, y el
+briefing de Andrea (punto 13 de su priorización) parecía contradecirlo —
+**confirmado por Andrea que el favicon ya está resuelto**, el punto 13 de su
+briefing quedaba desactualizado. No es tarea pendiente.
 
 ## Pestaña "Keyword research [WIP]" — 145 keywords
 
@@ -80,14 +79,16 @@ formato:
 - Sobre `/consultoria-gastronomica/` (página que no existe todavía): *"Fusiona
   'consultoría gastronómica' (320) y 'asesor gastronómico' (110). Integra
   módulos para Ingeniería de Menú (110 búsq), Pastelería/Postres (Elena/Yair)
-  y Sumillería/Bodega (Aleix)."* — **"Elena/Yair" y "Aleix" parecen nombres de
-  personas de referencia (¿especialistas internos o del equipo de clientes?
-  no identificados — pendiente preguntar a Andrea.**
+  y Sumillería/Bodega (Aleix)."* — **Confirmado por Andrea: Elena y Yair son
+  colaboradores externos de pastelería** (mismo modelo que los "Servicios
+  Complementarios" con partners del BAR Method, ver `CLAUDE.md`). Aleix queda
+  sin confirmar todavía — presumiblemente el mismo tipo de colaborador externo
+  para sumillería/bodega, pendiente de verificar.
 
 Importante: `/consultoria-gastronomica/` **no existe en la web actual** según
 esta hoja — sería una página nueva a crear. `/marketing-gastronomico/` y
 `/abrir-restaurante-bar/` sí existen y coinciden exactamente con las páginas
-ya trabajadas en `pagina-web/paginas/` (ver estrategia/copy/maquetación ya
+ya trabajadas en `seo/pagina-web/paginas/` (ver estrategia/copy/maquetación ya
 hechas) — **hay que verificar que esas páginas ya construidas respetan la
 keyword principal, Title, H1 y meta descripción que define aquí esta hoja**,
 no solo el ángulo de marca.
@@ -130,12 +131,15 @@ por fase (BREAKDOWN, y probablemente ARCHITECTURE/RUN en filas no muestreadas
    entre concepto, carta, posicionamiento y experiencia.
 4. **APPCC Toolkit** — kit práctico para gestión de APPCC y registros.
 
-Esto es directamente relevante para el objetivo que marca Andrea ("leads y
-conversiones de valor", no solo tráfico) — son activos de conversión ya
-pensados, pero **no hay evidencia de que estén construidos ni publicados
-todavía** (no se han encontrado en la carpeta de Drive ni en la web). Pendiente
-de verificar con Andrea si existen en algún otro sitio o si siguen siendo solo
-una idea en papel.
+**Confirmado por Andrea (2026-10-02): son solo idea en papel, nada construido
+todavía.** El objetivo es usarlos como imán de registro a la newsletter de
+TBNB — el visitante se descarga la plantilla a cambio de dejar su email, y
+eso construye la base de datos de contactos. Esto conecta directamente con el
+gap de atribución del briefing de Andrea: cada lead magnet puede llevar su
+propio evento de conversión en GA4 (qué plantilla descargó, desde qué
+página), dando datos reales de qué fase del BAR Method atrae más interés.
+Tarea de `seo-analitica-conversion` (mecánica de entrega + medición) con
+`seo-redaccion`/`seo-diseno-web` (contenido y forma de cada plantilla).
 
 ## Pestaña "RankTank-3" — tracking de posiciones
 

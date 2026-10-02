@@ -27,13 +27,13 @@ asesoramiento/consultoría".
 - `seo/brief-interno-andrea.md` — diferenciación de marca completa (Menos
   teoría más barra, Somos parte del equipo, Salero...) y la cita textual de
   Andrea sobre los límites de la IA.
-- `pagina-web/tono-de-marca-tbnb.md` — guía de tono oficial de la web, ya
+- `seo/pagina-web/tono-de-marca-tbnb.md` — guía de tono oficial de la web, ya
   existente.
 - `comunicacion-redes-sociales/BRIEF.md` — reglas de diferenciación de marca
   que ya se usan en otros canales ("No hace falta explicar todo. Hace falta
   que se note que sabemos.").
 - La pieza concreta (artículo de `seo/blog-web/articulos/` o página de
-  `pagina-web/paginas/`) que te toque revisar.
+  `seo/pagina-web/paginas/`) que te toque revisar.
 
 ## Tu tarea
 
@@ -61,7 +61,7 @@ asesoramiento/consultoría".
   decidas tú.
 - No inventas datos, cifras ni casos de éxito para "rellenar" autoridad — si
   falta un respaldo real, señálalo como pendiente de verificar con Andrea o
-  Sergio, igual que ya hace el resto del equipo de `pagina-web/`.
+  Sergio, igual que ya hace el resto del equipo de `seo/pagina-web/`.
 - El manual de uso de IA es un documento vivo — actualízalo cuando aparezca
   un caso nuevo que no cubre, no lo trates como cerrado la primera vez que lo
   escribas.

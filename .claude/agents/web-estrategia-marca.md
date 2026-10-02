@@ -15,15 +15,15 @@ respetan tal cual vienen, salvo que Andrea/Sergio digan lo contrario.
 
 ## Contexto que lees siempre antes de proponer nada
 
-- `pagina-web/BRIEF.md` — objetivo del proyecto, hechos ya verificados
+- `seo/pagina-web/BRIEF.md` — objetivo del proyecto, hechos ya verificados
   (Religion Coffee y Eat My Trip son proyectos reales) y preguntas abiertas
   pendientes de confirmar (la "reunión gratuita de 15 minutos", URLs de
   destino de enlaces internos).
-- `pagina-web/tono-de-marca-tbnb.md` — guía de tono oficial, sobre todo la
+- `seo/pagina-web/tono-de-marca-tbnb.md` — guía de tono oficial, sobre todo la
   sección 12 (la web es el canal más "cañero", no el más neutro) y la
   sección 13 (test final: ¿esto es TBNB o no?).
 - El brief SEO de la página que te toque trabajar, en
-  `pagina-web/seo-briefs/<pagina>.md`.
+  `seo/pagina-web/seo-briefs/<pagina>.md`.
 
 ## Tu tarea, para cada bloque del brief
 
@@ -50,8 +50,8 @@ respetan tal cual vienen, salvo que Andrea/Sergio digan lo contrario.
   de TBNB sin inventar algo, dilo explícitamente como pregunta para
   Andrea/Sergio, en vez de forzar un ángulo débil.
 - Entrega tu trabajo como un documento
-  `pagina-web/paginas/<slug-pagina>-estrategia.md`, con una sección por
+  `seo/pagina-web/paginas/<slug-pagina>-estrategia.md`, con una sección por
   cada bloque del brief original (mismo orden), indicando: el ángulo TBNB
   decidido, qué reemplaza del lenguaje de agencia, y cualquier pregunta
-  abierta o dato sin verificar. Actualiza `pagina-web/estado.md` a fase
+  abierta o dato sin verificar. Actualiza `seo/pagina-web/estado.md` a fase
   "🟡 Estrategia".

@@ -1,12 +1,12 @@
 # Auditoría técnica heredada — Rocket22 (jul-oct 2025)
 
 Fuente: Google Drive, `AUDITORÍA SEO - BARNBAR JULIO - OCT 25.compress.pdf`,
-firmada por **Rocket22** (rocket22.es) — proveedor distinto del gestor de SEO
-del roadmap/keyword research (saulfelipecortes@gmail.com, ver
-`roadmap-y-keyword-research.md`). **No está confirmado si son la misma
-persona/equipo trabajando bajo dos nombres, o dos proveedores distintos que
-han intervenido en la web en paralelo — pendiente preguntar a Andrea,
-importante para no duplicar ni contradecir trabajo ya hecho.**
+firmada por **Rocket22** (rocket22.es) — proveedor anterior al roadmap/keyword
+research de Saúl Felipe Cortés (ver `roadmap-y-keyword-research.md`), no en
+paralelo. **Confirmado por Andrea (2026-10-02): tanto la alerta de seguridad
+de backlinks como el problema del favicon que señala este informe ya estaban
+resueltos** — se mantiene el detalle completo más abajo como registro
+histórico de lo que se encontró y se corrigió, no como pendiente abierto.
 
 Recomendaciones completas del informe original en Notion (enlace del propio
 PDF, no verificado desde esta sesión):
@@ -18,15 +18,15 @@ https://www.notion.so/grupomv/Bar-n-Bar-Consulting-278b9f07762a8095bb0ddd01af0d7
 |---|---|---|---|---|
 | B | A- | A- | C | C |
 
-**Ojo con la nota de "Enlaces" (A-):** es una calificación automática de
-herramienta, no un reflejo real del estado — el propio informe dice en texto
-que la web **no tiene backlinks reales** (solo enlaza a barcelona.cat y
-linktr.ee) y que los pocos backlinks detectados externos son "altamente
-sospechosos", lo que la propia Rocket22 señala como posible indicio de
-**SEO negativo o de que la web tiene o tuvo malware (hackeo)**. Esto es una
-alerta de seguridad, no solo de SEO — **recomendación: verificar esto como
-primera tarea técnica, antes de cualquier otra cosa, no asumir que está
-resuelto solo porque el informe tiene fecha de octubre 2025.**
+**Nota sobre "Enlaces" (A-):** es una calificación automática de herramienta,
+no un reflejo real del estado en el momento de la auditoría — el propio
+informe decía en texto que la web no tenía backlinks reales (solo
+barcelona.cat y linktr.ee) y que los pocos backlinks detectados externos eran
+"altamente sospechosos", lo que Rocket22 señalaba como posible indicio de SEO
+negativo o malware. **Ya resuelto, según confirma Andrea** — queda aquí como
+antecedente, no como alerta activa. Sigue siendo cierto, eso sí, que la web
+carece de backlinks reales propios que aporten autoridad — ver
+`seo-autoridad-local`.
 
 ## On-page (estado en el momento de la auditoría)
 

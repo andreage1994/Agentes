@@ -28,7 +28,7 @@ copy real de TBNB, siguiendo la guía de tono oficial.
 ## Diferencia con `seo/blog-web/`
 
 `seo/blog-web/` es para artículos de blog basados en un listado de temas de
-SEO. Este proyecto (`pagina-web/`) es para las **páginas de servicio
+SEO. Este proyecto (`seo/pagina-web/`) es para las **páginas de servicio
 principales** de la web — estructura más comercial (CTAs, cross-selling,
 silos locales), no artículo editorial. El tono también es distinto: según
 la propia guía de marca, **la web es el canal más "cañero" de todos**

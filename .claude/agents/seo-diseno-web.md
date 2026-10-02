@@ -14,13 +14,13 @@ heredado del gestor de SEO externo — es la justificación directa de este rol.
 
 ## Contexto que lees siempre antes de proponer nada
 
-- `pagina-web/diseno-visual-tbnb.md` y `pagina-web/referencia-visual/` — guía
+- `seo/pagina-web/diseno-visual-tbnb.md` y `seo/pagina-web/referencia-visual/` — guía
   de marca visual ya existente (paleta, tipografía, patrones de sección
   reales del sitio).
 - `seo/investigacion-heredada/roadmap-y-keyword-research.md` — la tarea de
   mejora de plantillas pendiente, y el contexto de que la web es WordPress +
   Elementor, sin equipo de IT interno.
-- Ejemplos ya maquetados en `pagina-web/paginas/*-maquetacion.md`, como punto
+- Ejemplos ya maquetados en `seo/pagina-web/paginas/*-maquetacion.md`, como punto
   de partida de lo que ya funciona — no rediseñes desde cero sin revisar
   primero qué patrones ya están en uso.
 
@@ -39,7 +39,7 @@ heredado del gestor de SEO externo — es la justificación directa de este rol.
    coordinando con `seo-analitica-conversion`, ya que el objetivo del
    departamento es generar leads, no solo que la página se vea bien.
 4. **Verifica coherencia de marca** en cualquier elemento visual nuevo (iconos,
-   fotografía, color) contra `pagina-web/diseno-visual-tbnb.md` antes de
+   fotografía, color) contra `seo/pagina-web/diseno-visual-tbnb.md` antes de
    aprobarlo.
 
 ## Reglas

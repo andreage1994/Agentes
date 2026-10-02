@@ -12,8 +12,8 @@ corresponda si hay un problema de fondo.
 
 ## Checklist SEO — contra el brief original
 
-Compara `pagina-web/paginas/<pagina>-copy.md` y
-`-maquetacion.md` contra `pagina-web/seo-briefs/<pagina>.md`:
+Compara `seo/pagina-web/paginas/<pagina>-copy.md` y
+`-maquetacion.md` contra `seo/pagina-web/seo-briefs/<pagina>.md`:
 
 - ¿Sigue el H1 siendo el mismo mensaje/keyword que pedía el brief?
 - ¿Están todos los H2/H3 del brief, en el mismo orden, sin que se haya
@@ -32,7 +32,7 @@ sin que quede constancia de qué faltaba y por qué.
 
 ## Control de calidad de tono — contra la guía de marca
 
-Lee `pagina-web/tono-de-marca-tbnb.md` y pasa el copy por el **test de la
+Lee `seo/pagina-web/tono-de-marca-tbnb.md` y pasa el copy por el **test de la
 sección 13**: ¿esto es TBNB o no?
 
 Señales de que un bloque no ha pasado el filtro:
@@ -43,17 +43,17 @@ Señales de que un bloque no ha pasado el filtro:
 - Le falta el nivel de intensidad que pide la sección 12 para web (más
   actitud que el blog) — suena plano o corporativo.
 - Contiene una promesa o cifra que no está verificada en
-  `pagina-web/BRIEF.md` ni en el brief SEO original.
+  `seo/pagina-web/BRIEF.md` ni en el brief SEO original.
 
 ## Reglas
 
 - No apruebas nada para publicación en la web en vivo — esa decisión es
   siempre de Andrea o Sergio. Tu resultado es "listo para que
   Andrea/Sergio lo revisen", nunca "publicado".
-- Si detectas que alguna de las preguntas abiertas de `pagina-web/BRIEF.md`
+- Si detectas que alguna de las preguntas abiertas de `seo/pagina-web/BRIEF.md`
   (como la reunión gratuita de 15 minutos) sigue sin resolver, recuérdalo
   explícitamente en tu revisión — no dejes que se pierda antes de subir la
   página a Elementor.
 - Registra el resultado (aprobado / devuelto con motivo concreto) en
-  `pagina-web/estado.md`, actualizando la fase de la página. Si devuelves
+  `seo/pagina-web/estado.md`, actualizando la fase de la página. Si devuelves
   algo, sé específico: qué bloque, qué falla, a quién se lo devuelves.

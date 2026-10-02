@@ -1,9 +1,9 @@
 # Copy final — "Abrir un bar o restaurante" (`/abrir-restaurante-bar/`)
 
 **Rol:** `web-redaccion`. **Fecha:** 2026-09-29.
-**Entradas:** `pagina-web/seo-briefs/abrir-restaurante-bar.md` (estructura,
+**Entradas:** `seo/pagina-web/seo-briefs/abrir-restaurante-bar.md` (estructura,
 keywords, meta, enlaces — no se toca nada de eso aquí) +
-`pagina-web/paginas/abrir-restaurante-bar-estrategia.md` (ángulo por
+`seo/pagina-web/paginas/abrir-restaurante-bar-estrategia.md` (ángulo por
 bloque, ya decidido).
 
 Nota de método: keyword, H-tag, meta etiqueta, URL y destino de cada
@@ -238,7 +238,7 @@ Igual que en la estrategia, se trasladan sin decidir:
    Trip — este copy las deja en tono cualitativo; añadir la cifra no
    rompe el resto del texto. (Los enlaces de "Ver el caso completo →" ya
    apuntan a la ficha real de cada proyecto — resuelto el 2026-09-29, ver
-   `pagina-web/BRIEF.md`, sección "Hechos verificados".)
+   `seo/pagina-web/BRIEF.md`, sección "Hechos verificados".)
 4. Verificación de URLs de enlaces internos en el sitio en vivo (bloque 9,
    "Servicios a la carta") — pendiente ya señalado en `BRIEF.md`, no se
    resuelve aquí. (La discrepancia de "Marketing de lanzamiento"

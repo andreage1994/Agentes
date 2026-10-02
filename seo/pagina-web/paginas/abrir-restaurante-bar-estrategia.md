@@ -1,7 +1,7 @@
 # Estrategia de marca — "Abrir un bar o restaurante" (`/abrir-restaurante-bar/`)
 
 **Rol:** `web-estrategia-marca`. **Fecha:** 2026-09-29.
-**Entrada:** `pagina-web/seo-briefs/abrir-restaurante-bar.md` (estructura,
+**Entrada:** `seo/pagina-web/seo-briefs/abrir-restaurante-bar.md` (estructura,
 keywords, meta, enlaces — no se toca nada de eso aquí).
 **Para quién es esto:** `web-redaccion`, que escribe el copy final bloque a
 bloque a partir de los ángulos decididos abajo.

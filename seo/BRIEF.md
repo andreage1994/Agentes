@@ -2,8 +2,9 @@
 
 **Qué es:** el departamento de SEO de The Bar N' Bar, creado a petición de
 Andrea el 2026-10-02 para profesionalizar lo que hasta ahora se ha llevado de
-forma manual e intuitiva (ver `brief-interno-andrea.md`). Sustituye
-progresivamente al gestor de SEO externo — a partir de ahora, nadie más
+forma manual e intuitiva (ver `brief-interno-andrea.md`). Sustituye a Saúl
+Felipe Cortés, el colaborador de SEO externo que llevaba esto hasta hoy
+(despedido el mismo 2026-10-02) — a partir de ahora, nadie más externo
 interviene en SEO salvo este equipo.
 
 **Objetivo principal, en palabras de Andrea:** *"conseguir leads y
@@ -25,25 +26,21 @@ en buscadores.
   (negocio, buyer persona, diferenciación, competencia, histórico de SEO,
   priorización en 13 puntos, objetivos de crecimiento). Fuente de contexto,
   no se reinterpreta ahí, solo aquí.
-- `investigacion-heredada/` — lo que ya existe en Google Drive del gestor de
-  SEO externo, resumido y con enlace a la fuente original (no duplicado
-  completo, para que no quede desactualizado):
+- `investigacion-heredada/` — lo que ya existe en Google Drive del trabajo de
+  Saúl, resumido y con enlace a la fuente original (no duplicado completo,
+  para que no quede desactualizado):
   - `roadmap-y-keyword-research.md` — estado del roadmap, 145 keywords ya
     investigadas, dos propuestas de arquitectura web en silos, backlog de
     comité de contenidos (44 temas) y lead magnets ya pensados por fase del
-    BAR Method.
-  - `auditoria-tecnica-rocket22.md` — auditoría técnica de otro proveedor
-    (Rocket22), con una alerta de seguridad pendiente de verificar (posibles
-    backlinks de SEO negativo o indicio de malware).
-- `blog-web/` — artículos del blog de la web (movido aquí el 2026-10-02,
-  antes vivía en la raíz del repositorio). Sigue funcionando igual: ver
-  `blog-web/BRIEF.md`.
+    BAR Method (idea en papel, pendientes de construir, pensados como imán de
+    registro a la newsletter).
+  - `auditoria-tecnica-rocket22.md` — auditoría técnica de un proveedor
+    anterior (Rocket22); la alerta de seguridad y el favicon que señalaba ya
+    están resueltos, según confirma Andrea — queda como registro histórico.
+- `blog-web/` y `pagina-web/` — blog y páginas de servicio de la web, ambos
+  movidos aquí el 2026-10-02 (antes vivían en la raíz del repositorio). Siguen
+  funcionando igual: ver `blog-web/BRIEF.md` y `pagina-web/BRIEF.md`.
 - `estado.md` — en qué fase va el departamento.
-
-**Pendiente de decidir con Andrea:** si `pagina-web/` (páginas de servicio,
-hoy en la raíz del repositorio) también debería moverse dentro de `seo/`,
-para que todo el trabajo de SEO/web viva en un único sitio — no se ha movido
-todavía porque Andrea solo pidió explícitamente mover la carpeta de blogs.
 
 ## El equipo
 

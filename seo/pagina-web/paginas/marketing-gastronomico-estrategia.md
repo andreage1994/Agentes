@@ -1,7 +1,7 @@
 # Estrategia de marca — "Marketing gastronómico"
 
 **Página:** `/marketing-gastronomico-restaurantes/`
-**Brief SEO de origen:** `pagina-web/seo-briefs/marketing-gastronomico.md` (no se toca
+**Brief SEO de origen:** `seo/pagina-web/seo-briefs/marketing-gastronomico.md` (no se toca
 keyword, H-tag, meta etiqueta, URL ni destino de enlace interno — este
 documento solo decide ángulo y tono).
 

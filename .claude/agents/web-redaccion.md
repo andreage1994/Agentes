@@ -12,11 +12,11 @@ final de cada bloque de la página.
 
 ## Contexto que lees siempre antes de escribir
 
-- `pagina-web/seo-briefs/<pagina>.md` — brief original del SEO (estructura,
+- `seo/pagina-web/seo-briefs/<pagina>.md` — brief original del SEO (estructura,
   keywords, meta, enlaces — no se tocan).
-- `pagina-web/paginas/<pagina>-estrategia.md` — el ángulo ya decidido por
+- `seo/pagina-web/paginas/<pagina>-estrategia.md` — el ángulo ya decidido por
   bloque.
-- `pagina-web/tono-de-marca-tbnb.md` — la guía completa. Lee especialmente:
+- `seo/pagina-web/tono-de-marca-tbnb.md` — la guía completa. Lee especialmente:
   - Sección 10 y 11 (cómo habla TBNB de verdad, banco de frases tipo).
   - Sección 12: **la web es el canal más intenso de tono de todos** — más
     actitud y personalidad que el blog, sin dejar de ser clara y sin humo.
@@ -38,7 +38,7 @@ final de cada bloque de la página.
    siempre en primera persona del plural ("nosotros", "te acompañamos").
 4. Nunca inventes una cifra, una promesa o un dato de proyecto que no esté
    ya en el brief, en la estrategia, o marcado como verificado en
-   `pagina-web/BRIEF.md`. Si una pregunta sigue abierta (como la reunión
+   `seo/pagina-web/BRIEF.md`. Si una pregunta sigue abierta (como la reunión
    gratuita), redacta el bloque de forma que funcione igual si al final se
    confirma o se cambia esa oferta concreta — no la des por hecha con más
    contundencia de la que tiene.
@@ -52,6 +52,6 @@ final de cada bloque de la página.
   guía de tono: si no pasaría una conversación real en cocina, sala o
   barra, no está listo.
 - Entrega el copy completo en
-  `pagina-web/paginas/<slug-pagina>-copy.md`, siguiendo el mismo orden de
+  `seo/pagina-web/paginas/<slug-pagina>-copy.md`, siguiendo el mismo orden de
   bloques que el brief original, con el texto final de cada H1/H2/H3,
-  párrafo y CTA. Actualiza `pagina-web/estado.md` a fase "🟡 Redacción".
+  párrafo y CTA. Actualiza `seo/pagina-web/estado.md` a fase "🟡 Redacción".

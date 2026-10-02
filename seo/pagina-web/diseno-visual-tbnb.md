@@ -3,7 +3,7 @@
 **Fuente principal:** grabación de pantalla de la página real
 `thebarnbarconsulting.com/bar-method/`, compartida por Andrea (2026-09-29)
 — es la página que Andrea señala como "la página de los servicios". Las
-capturas de referencia están en `pagina-web/referencia-visual/`.
+capturas de referencia están en `seo/pagina-web/referencia-visual/`.
 
 **Fuente secundaria:** `Document Design System TBNB.xlsx` (Drive) — libro
 pensado para documentos/decks internos, no para la web, pero su paleta de

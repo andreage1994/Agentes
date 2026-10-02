@@ -3,11 +3,11 @@
 **Rol:** `web-maquetacion-elementor`. **Fecha:** 2026-09-29.
 
 **Entradas:**
-- `pagina-web/paginas/abrir-restaurante-bar-copy.md` (copy final — no se
+- `seo/pagina-web/paginas/abrir-restaurante-bar-copy.md` (copy final — no se
   cambia ni una palabra aquí).
-- `pagina-web/seo-briefs/abrir-restaurante-bar.md` (indicaciones de
+- `seo/pagina-web/seo-briefs/abrir-restaurante-bar.md` (indicaciones de
   maquetación del SEO).
-- `pagina-web/diseno-visual-tbnb.md` (paleta y los 11 patrones reales de
+- `seo/pagina-web/diseno-visual-tbnb.md` (paleta y los 11 patrones reales de
   `/bar-method/`).
 
 **Nota de método sobre tipografía:** `diseno-visual-tbnb.md` describe la
@@ -300,7 +300,7 @@ verificada para alguno de los dos proyectos (ver nota del copy), esa
 tarjeta concreta sí podría subir de nivel al formato completo del Patrón
 7.
 
-**Nota de consistencia:** `pagina-web/paginas/marketing-gastronomico-maquetacion.md`
+**Nota de consistencia:** `seo/pagina-web/paginas/marketing-gastronomico-maquetacion.md`
 especifica este mismo bloque (con el mismo nombre de H2, "No lo decimos,
 lo demostramos", y los mismos dos proyectos) para la otra página nueva, y
 señala que el brief/copy de esa página sugiere que **puede que ya exista
@@ -419,7 +419,7 @@ equivalente — mismo criterio en ambas páginas.
 > pendiente ya señalada en `BRIEF.md`, no se resuelve en esta fase.
 > Ojo: el enlace 2 de este bloque apunta a `/marketing-gastronomico/`,
 > mientras que la URL confirmada del brief SEO de esa página y en
-> `pagina-web/BRIEF.md` es `/marketing-gastronomico-restaurantes/` — no
+> `seo/pagina-web/BRIEF.md` es `/marketing-gastronomico-restaurantes/` — no
 > lo corrijo aquí porque no es una decisión de maquetación (es una URL
 > del copy final), pero lo señalo para que se verifique junto con el
 > resto de URLs antes de publicar.
@@ -477,12 +477,12 @@ geolocalizada, no imprescindible.
 
 ## Anexo — Enlace/tarjeta desde `/bar-method/` hacia esta página
 
-Según `pagina-web/BRIEF.md` ("Decisiones ya confirmadas por Andrea"),
+Según `seo/pagina-web/BRIEF.md` ("Decisiones ya confirmadas por Andrea"),
 `/bar-method/` necesita un enlace o tarjeta hacia esta página nueva
 (y, por separado, hacia `/marketing-gastronomico-restaurantes/`).
 
 **Ya existe una propuesta hermana para la otra página:**
-`pagina-web/paginas/marketing-gastronomico-maquetacion.md` ya especifica
+`seo/pagina-web/paginas/marketing-gastronomico-maquetacion.md` ya especifica
 cómo enlazar `/bar-method/` con `/marketing-gastronomico-restaurantes/`,
 reutilizando el **Patrón 10** ("Banner de marquesina", hoy usado para
 "traspasos" y documentado explícitamente en `diseno-visual-tbnb.md` como

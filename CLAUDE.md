@@ -39,13 +39,11 @@ Gmail, Google Calendar, Google Drive, Asana (gestión de proyectos y leads), Odo
   Google My Business, mail marketing y potential spotting (ver
   `comunicacion-redes-sociales/BRIEF.md`).
 - `seo/` — departamento de SEO: equipo, estrategia e investigación heredada
-  del gestor de SEO externo (ver `seo/BRIEF.md`). Incluye `seo/blog-web/`,
-  los artículos del blog de la web de TBNB (ver `seo/blog-web/BRIEF.md`).
-- `pagina-web/` — páginas de servicio de la web de TBNB (no blog), a partir
-  de los briefs del asesor de SEO, listas para maquetar en Elementor (ver
-  `pagina-web/BRIEF.md`). **Pendiente de decidir con Andrea:** si esta
-  carpeta también debería pasar a vivir dentro de `seo/`, igual que
-  `blog-web`, para que todo el trabajo de SEO/web esté en un único sitio.
+  del colaborador de SEO externo que llevaba esto hasta el 2026-10-02 (ver
+  `seo/BRIEF.md`). Incluye `seo/blog-web/` (artículos del blog de la web,
+  ver `seo/blog-web/BRIEF.md`) y `seo/pagina-web/` (páginas de servicio de
+  la web, no blog, ver `seo/pagina-web/BRIEF.md`) — todo el trabajo de
+  SEO/web vive en un único sitio desde esa fecha.
 - `bar-method-interno/` — revisiones y decisiones operativas internas sobre
   el propio sistema BAR Method (índices de entregables, políticas de
   trabajo con clientes), no entregables de cliente.

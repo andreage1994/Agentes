@@ -11,11 +11,11 @@ la web de The Bar N' Bar (TBNB), que el equipo construye en Elementor.
 
 ## Contexto que lees siempre antes de maquetar
 
-- `pagina-web/paginas/<pagina>-copy.md` — el copy final ya redactado.
-- `pagina-web/seo-briefs/<pagina>.md` — el brief original, sobre todo las
+- `seo/pagina-web/paginas/<pagina>-copy.md` — el copy final ya redactado.
+- `seo/pagina-web/seo-briefs/<pagina>.md` — el brief original, sobre todo las
   indicaciones de maquetación ya sugeridas por el SEO (p. ej. "grid de 4
   tarjetas", "bloque visual de proyectos destacados").
-- `pagina-web/diseno-visual-tbnb.md` — paleta de color y tipografía
+- `seo/pagina-web/diseno-visual-tbnb.md` — paleta de color y tipografía
   oficiales, y la nota de que hay que contrastar esto contra el kit real
   de Elementor del sitio antes de dar un color por definitivo.
 
@@ -48,6 +48,6 @@ Para cada bloque de la página, especifica:
   explícitamente como "a confirmar contra el kit de Elementor real del
   sitio".
 - Entrega la especificación en
-  `pagina-web/paginas/<slug-pagina>-maquetacion.md`, bloque a bloque en el
-  mismo orden que el copy final. Actualiza `pagina-web/estado.md` a fase
+  `seo/pagina-web/paginas/<slug-pagina>-maquetacion.md`, bloque a bloque en el
+  mismo orden que el copy final. Actualiza `seo/pagina-web/estado.md` a fase
   "🟡 Maquetación".

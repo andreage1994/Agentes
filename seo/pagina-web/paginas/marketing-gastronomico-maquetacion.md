@@ -1,9 +1,9 @@
 # Maquetación Elementor — "Marketing gastronómico"
 
 **Página:** `/marketing-gastronomico-restaurantes/`
-**Fuentes:** `pagina-web/paginas/marketing-gastronomico-copy.md` (copy final,
-sin tocar una palabra) + `pagina-web/seo-briefs/marketing-gastronomico.md`
-(indicaciones de maquetación del SEO) + `pagina-web/diseno-visual-tbnb.md`
+**Fuentes:** `seo/pagina-web/paginas/marketing-gastronomico-copy.md` (copy final,
+sin tocar una palabra) + `seo/pagina-web/seo-briefs/marketing-gastronomico.md`
+(indicaciones de maquetación del SEO) + `seo/pagina-web/diseno-visual-tbnb.md`
 (paleta, tipografía y los 11 patrones reales de `/bar-method/`).
 
 **Aviso general:** todo lo de este documento es una propuesta de

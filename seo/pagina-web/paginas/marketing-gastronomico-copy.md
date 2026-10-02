@@ -1,8 +1,8 @@
 # Copy final — "Marketing gastronómico"
 
 **Página:** `/marketing-gastronomico-restaurantes/`
-**Fuentes:** `pagina-web/seo-briefs/marketing-gastronomico.md` (estructura,
-keywords, meta y enlaces — sin cambios) + `pagina-web/paginas/marketing-gastronomico-estrategia.md`
+**Fuentes:** `seo/pagina-web/seo-briefs/marketing-gastronomico.md` (estructura,
+keywords, meta y enlaces — sin cambios) + `seo/pagina-web/paginas/marketing-gastronomico-estrategia.md`
 (ángulo de marca ya decidido). Este documento solo redacta; no cambia
 arquitectura SEO ni decide ángulo.
 
