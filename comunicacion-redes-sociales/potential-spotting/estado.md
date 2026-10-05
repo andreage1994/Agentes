@@ -2,7 +2,30 @@
 
 **Fecha de arranque:** 2026-09-28.
 
-## Situación actual
+## Cambio de rumbo (2026-10-05)
+
+Andrea reportó que, de los candidatos de esta lista efectivamente
+contactados con el modelo "Notas desde la Barra", **ninguno respondió**.
+Reflexión interna de Andrea/Sergio, cita suya: *"desarrollar plantillas,
+encontrar sitios que les va mal y escribir un mensaje diciendo mira hemos
+visto esto que os va mal, no está aportando tanto valor y, igual es un
+poco agresivo entrar de esta forma a los potenciales clientes."*
+
+Decisión: **se pausa el modelo de digital spotting + "Notas desde la
+Barra"** como vía principal de contacto en frío. El tiempo que se iba a
+dedicar a seguir redactando plantillas de este tipo se redirige a
+**contacto directo con profesionales, dueños y fundadores de hostelería
+para proponer un café** — construir relación y compartir punto de vista,
+sin diagnóstico ni crítica, aunque sea suave. Plantilla nueva:
+`email-contacto-cafe.md`.
+
+No se borra nada del trabajo ya hecho (los 11 candidatos de más abajo,
+con sus fichas, documentos y emails en `candidatos/`) — queda archivado
+tal cual, por si se retoma en el futuro con otro enfoque. No se envía
+ninguno de los borradores pendientes bajo el modelo antiguo mientras dure
+esta pausa.
+
+## Situación actual (histórico — modelo en pausa, ver arriba)
 
 Proyecto y equipo creados. Documentación de partida lista:
 `parametros-filtro.md` (los 4 filtros de digital spotting dados por
