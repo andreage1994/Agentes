@@ -50,6 +50,11 @@ Andrea confirmó los tres puntos abiertos el mismo día:
 `SOP.md` ya está actualizado con las tres confirmaciones, sin puntos
 pendientes.
 
+**Corrección de reparto (2026-10-05, mismo día):** Andrea hace la búsqueda
+de candidatos y mantiene la base de datos; el envío de los emails lo hace
+Sergio, en su rol de fundador. Actualizado en `SOP.md` (reparto del ciclo,
+paso 2 del ciclo paso a paso, y "Qué no cambia").
+
 ## Situación actual (histórico — modelo en pausa, ver arriba)
 
 Proyecto y equipo creados. Documentación de partida lista:
