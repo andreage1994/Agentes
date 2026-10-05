@@ -50,6 +50,9 @@ Gmail, Google Calendar, Google Drive, Asana (gestión de proyectos y leads), Odo
 - `bar-method-interno/` — revisiones y decisiones operativas internas sobre
   el propio sistema BAR Method (índices de entregables, políticas de
   trabajo con clientes), no entregables de cliente.
+- `marketing-tbnb-estado.md` — panel de estado del propio marketing de
+  TBNB (no de un cliente): canales, equipo, bloqueantes y huecos de
+  información, con enlace al dashboard.
 - `TAREAS.md` — pendientes.
 - `GUIA.md` — manual de aprendizaje de Andrea sobre este sistema.
 - `.claude/skills/` y `.claude/agents/` — recetas y especialistas de Claude Code.
