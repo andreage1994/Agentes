@@ -25,6 +25,27 @@ tal cual, por si se retoma en el futuro con otro enfoque. No se envía
 ninguno de los borradores pendientes bajo el modelo antiguo mientras dure
 esta pausa.
 
+## SOP del nuevo modelo (2026-10-05)
+
+Andrea dio la estructura del ciclo nuevo: 3-5 contactos relevantes por
+tanda; ella misma hace la búsqueda y envía los correos en la misma tanda;
+el proceso se ejecuta el primer y tercer lunes de cada mes; el registro
+va en "la plantilla de Excel con la base de datos". Documentado completo
+en `SOP.md`, incluido el ciclo paso a paso y dónde vive dentro de la
+empresa.
+
+Tres puntos quedan marcados como "a confirmar" en el propio `SOP.md`
+(no bloquean el documento, solo están flaggeados para que Andrea los
+revise cuando pueda):
+1. Perfil de contacto exacto (¿solo dueños/fundadores, o también otros
+   profesionales del sector? ¿Barcelona/Madrid únicamente?).
+2. Ventana de espera antes de marcar un contacto como "sin respuesta"
+   (propuesta: 2-3 semanas).
+3. Qué hoja de Drive usar como "base de datos": la original
+   ("Potential spotting" → pestaña "Base datos", coincide literal con lo
+   que dijo Andrea) o la versión reestructurada de septiembre
+   ("Potential Spotting v2").
+
 ## Situación actual (histórico — modelo en pausa, ver arriba)
 
 Proyecto y equipo creados. Documentación de partida lista:

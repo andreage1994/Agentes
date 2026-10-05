@@ -1,5 +1,9 @@
 # potential-spotting/
 
+**Qué es este proceso, en detalle:** ver `SOP.md` — define el ciclo
+completo (cadencia, volumen, quién ejecuta, dónde se registra, qué pasa
+después del café).
+
 **Cambio de rumbo (2026-10-05, pedido por Andrea):** el modelo original de
 este proyecto (digital spotting por reseñas → "Notas desde la Barra" con un
 bloque de observación de mejora) **queda en pausa**. Cero respuestas tras
@@ -36,6 +40,9 @@ ventas"). Ver la nota sobre esto en `plantilla-notas-desde-la-barra.md`.
 ## Cómo está organizada esta carpeta
 
 - `README.md` — este documento.
+- `SOP.md` — qué es Potential Spotting para TBNB, dónde vive dentro de la
+  empresa, cadencia (1º y 3º lunes de mes, 3-5 contactos por tanda), y el
+  ciclo completo paso a paso.
 - `parametros-filtro.md` — los 4 filtros que definen qué locales encajan
   como oportunidad de digital spotting, y cómo clasificar su "tipo de
   oportunidad" a partir de las reseñas.
