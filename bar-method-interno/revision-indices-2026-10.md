@@ -231,3 +231,54 @@ Esto es una propuesta, no una decisión tomada — lo lógico es que la validéi
 Sergio y tú, y que si se adopta, se añada como nota explícita en el índice
 de la fila 11 del Excel (y quizá como plantilla de email/mensaje para
 comunicarlo a clientes en `plantillas/`).
+
+---
+
+## Decisión final (2026-10-05)
+
+Andrea confirma la propuesta del gate, motivada por un caso real: el cliente
+The Local cambió de tipo de negocio a mitad del desarrollo de Concepto y
+Narrativa de Marca. El punto de anclaje **no es un kickoff del día uno**:
+TBNB ya tiene, en `plantillas/cuestionario-kickoff.md`, una "reunión de
+análisis y kickoff" que se celebra al cerrar la Fase A (diagnóstico) y antes
+de arrancar la Fase B (Plataforma de Marca) — esa reunión **es** el gate que
+proponía este documento, con el nombre que ya usa el equipo.
+
+**Proceso cerrado:**
+
+1. Fase A (Observaciones Estratégicas → Territorio Competitivo → Oportunidad
+   Estratégica) — cambios de dirección son normales y no tienen coste.
+2. Reunión de análisis y kickoff — se presentan los hallazgos de Fase A y se
+   trabaja el cuestionario de kickoff. Inmediatamente después, TBNB envía al
+   cliente una confirmación corta por escrito del tipo de negocio y
+   dirección de concepto acordados (plantilla:
+   `plantillas/confirmacion-direccion-concepto.md`) y pide confirmación
+   explícita. Esa confirmación queda guardada en el proyecto (Asana/Odoo) —
+   es la prueba que sostiene la condición contractual.
+3. Fase B arranca sobre esa base. Se comunica en la propia reunión, de forma
+   proactiva: un cambio de tipo de negocio a partir de aquí se trata como
+   proyecto nuevo, no como ajuste del actual.
+4. Si el cliente cambia de dirección después de la confirmación: se pausa el
+   trabajo en curso, se revisa qué otros servicios de Architecture ya
+   iniciados dependían del concepto anterior (AR02, AR04, AR05, AR06 — ver
+   hallazgo 5), se envía presupuesto actualizado (mínimo +50% sobre el
+   precio de AR01, más lo que corresponda de los dependientes afectados) y
+   se espera aprobación por escrito antes de seguir.
+
+**Condición añadida al Banco de Condiciones** (AR01 — Concepto y narrativa
+de marca, tipo CAM):
+
+> "El alcance de este servicio se desarrolla sobre el tipo de negocio,
+> concepto y dirección estratégica confirmados por el cliente en la reunión
+> de análisis y kickoff. Un cambio sustancial de tipo de negocio o dirección
+> de concepto posterior a esa confirmación queda fuera del alcance
+> contratado: se presupuesta como nuevo encargo, con un incremento mínimo
+> del 50% sobre el precio inicial de este servicio. Si el cambio afecta a
+> otros servicios de Architecture ya iniciados sobre la base del concepto
+> anterior, estos se revisan y presupuestan aparte."
+
+La condición existente bajo el código **IP** en AR01 ("Los cambios que
+modifiquen la dirección conceptual aprobada se considerarán cambio de
+alcance") queda redundante y estaba mal categorizada — se recomienda
+borrarla del Excel para no tener dos condiciones solapadas bajo códigos
+distintos.
