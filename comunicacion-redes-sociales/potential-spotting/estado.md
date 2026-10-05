@@ -34,17 +34,21 @@ va en "la plantilla de Excel con la base de datos". Documentado completo
 en `SOP.md`, incluido el ciclo paso a paso y dónde vive dentro de la
 empresa.
 
-Tres puntos quedan marcados como "a confirmar" en el propio `SOP.md`
-(no bloquean el documento, solo están flaggeados para que Andrea los
-revise cuando pueda):
-1. Perfil de contacto exacto (¿solo dueños/fundadores, o también otros
-   profesionales del sector? ¿Barcelona/Madrid únicamente?).
-2. Ventana de espera antes de marcar un contacto como "sin respuesta"
-   (propuesta: 2-3 semanas).
-3. Qué hoja de Drive usar como "base de datos": la original
-   ("Potential spotting" → pestaña "Base datos", coincide literal con lo
-   que dijo Andrea) o la versión reestructurada de septiembre
-   ("Potential Spotting v2").
+Andrea confirmó los tres puntos abiertos el mismo día:
+1. **Perfil de contacto** — confirma lo documentado y lo precisa más: dos
+   motivos válidos de contacto, **oportunidad** (dueños de restaurantes en
+   los que TBNB cree que hay potencial real, sin que haga falta ninguna
+   señal de problema) e **inspiración** (proyectos o formas de pensar el
+   sector que admiran de verdad), siempre con el objetivo explícito de
+   compartir visión y perspectivas del sector, no de venta.
+2. **Ventana de "sin respuesta"** — confirmada en 2-3 semanas, como se
+   propuso.
+3. **Hoja de Drive** — se usa la original ("Potential spotting" → pestaña
+   "Base datos"). La versión v2 reestructurada queda descartada: Andrea
+   confirma que está inutilizable.
+
+`SOP.md` ya está actualizado con las tres confirmaciones, sin puntos
+pendientes.
 
 ## Situación actual (histórico — modelo en pausa, ver arriba)
 

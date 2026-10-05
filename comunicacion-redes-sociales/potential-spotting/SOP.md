@@ -46,23 +46,31 @@ relación y termina su trabajo en ese punto, no sustituye lo que viene después.
 - Ritmo mensual resultante: entre 6 y 10 contactos nuevos al mes (2 tandas
   de 3-5).
 
-## Perfil de contacto — *a confirmar*
+## Perfil de contacto
 
-Documentado con el criterio que has dado en las dos conversaciones
-anteriores sobre este proyecto (primero "profesionales y gente del sector",
-después, al pedir la plantilla de email, específicamente "restaurantes,
-dueños de restaurantes, fundadores"):
+Confirmado por Andrea (2026-10-05):
 
 - Dueños, fundadores y profesionales de hostelería — bares y restaurantes,
   pero también otros perfiles del sector si surge la oportunidad genuina.
 - Barcelona y Madrid, continuando el radio que ya usaba el digital spotting.
-- Criterio de selección: **afinidad genuina** — alguien que Andrea o Sergio
-  admiran o siguen de verdad —, nunca patrón de reseñas negativas (ese era
-  el criterio del modelo en pausa).
+- Criterio de selección, con **dos motivos válidos** para escribir a
+  alguien (uno u otro, no hace falta que coincidan los dos):
+  - **Oportunidad** — dueños de restaurantes en los que TBNB cree que hay
+    potencial real, aunque hoy no haya ninguna señal de problema (esto
+    sustituye por completo al criterio de reseñas negativas del modelo en
+    pausa — aquí "oportunidad" es una lectura positiva, nunca un déficit
+    detectado).
+  - **Inspiración** — gente cuyo proyecto o forma de pensar el sector
+    admiran de verdad Andrea o Sergio.
+  - En ambos casos, el motivo de contacto explícito es compartir visión
+    del sector, inquietudes y perspectivas — una conversación entre
+    iguales, no una toma de contacto comercial.
 
-No me has confirmado esto de forma explícita para el SOP — si quieres
-acotarlo más (solo dueños/fundadores, sin ampliar a "otros profesionales";
-o abrir a otras ciudades) dímelo y lo ajusto aquí.
+**Nota de aplicación:** el gancho del email (`email-contacto-cafe.md`)
+sigue necesitando ser concreto y verificable en los dos casos — "creemos
+que hay oportunidad aquí" no se escribe tal cual en el email (seguiría
+sonando a diagnóstico); se traduce en una observación positiva y
+específica sobre el proyecto, igual que en el caso de "inspiración".
 
 ## El ciclo, paso a paso
 
@@ -76,10 +84,9 @@ o abrir a otras ciudades) dímelo y lo ajusto aquí.
    abajo) con fecha de envío y estado "Enviado".
 4. **Seguimiento** — si responde, se agenda el café y se actualiza el
    estado. Ver "Qué pasa después del café" abajo.
-5. **Si no responde** — se marca como "Sin respuesta" tras la ventana de
-   espera. No se reenvía automáticamente; no forzar.
-   *Ventana de espera sin definir todavía — propongo 2-3 semanas, dado el
-   ritmo de dos sesiones al mes, pero lo confirmas tú.*
+5. **Si no responde** — se marca como "Sin respuesta" a las **2-3 semanas**
+   sin contestación (confirmado por Andrea, 2026-10-05). No se reenvía
+   automáticamente; no forzar.
 
 ## Registro — base de datos
 
@@ -96,13 +103,11 @@ Campos mínimos por contacto:
   el futuro).
 - Nota posterior al café, si se llega a esa fase (ver abajo).
 
-**Aviso:** en septiembre se creó una versión reestructurada de esta misma
-hoja, *"Potential Spotting v2 (reestructurado)"*, con pestañas
-Pipeline/Fases/Plantillas/Notas, para eliminar la duplicación que tenía la
-hoja original (ver `estado.md`). Dijiste "la plantilla de Excel con la base
-de datos", que coincide literalmente con el nombre de la pestaña de la hoja
-**original** — he documentado esa, pero si en realidad quieres usar la v2
-reestructurada a partir de ahora, dímelo y actualizo el enlace.
+**Nota:** existe también una versión reestructurada de esta hoja,
+*"Potential Spotting v2 (reestructurado)"*, creada en septiembre — Andrea
+confirma (2026-10-05) que **esa versión v2 está inutilizable**, así que el
+registro se queda en la hoja original, pestaña "Base datos", como está
+enlazado arriba.
 
 ## Qué pasa después del café — primera propuesta, revisar
 
