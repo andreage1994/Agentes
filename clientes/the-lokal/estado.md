@@ -240,3 +240,37 @@ Andrea/Sergio decidan; ver recomendación priorizada al final.
 
 **Recordatorio:** nada de esto se publica ni se produce sin que Andrea o
 Sergio lo aprueben después de esta revisión.
+
+---
+
+## Pulido visual y estructural del Brand Strategy Book (2026-10-06)
+
+Andrea pidió mejorar visualmente el PPTX del Brand Strategy Book
+(`CONCEPTO_Y_NARRATIVA_DE_MARCA_GS_X_TBNB` — el "GS" es el nombre de
+archivo heredado de "The Green Society", nunca renombrado) — alinear
+tamaños, espacio visual, y confirmar tipografías (Epilogue en títulos,
+Helvetica Neue en cuerpo).
+
+**Hallazgo de partida:** las tipografías ya eran correctas en casi todo el
+documento (solo quedaban restos invisibles de Arial en marcadores de fin de
+párrafo). El problema real era estructural: **el lienzo medía 2,18″×3,08″**
+(una miniatura con proporción A4, probablemente un fallo de exportación
+desde Google Slides) **con texto a 4-5pt** — 9 de las 49 diapositivas tenían
+texto que desbordaba literalmente fuera de la página, cortado por la banda
+morada inferior.
+
+**Cambio aplicado:** devuelto el lienzo a A4 real (210×297mm) y doblado el
+tamaño de fuente en todo el documento, manteniendo exactas las proporciones
+relativas que ya existían entre título/subtítulo/cuerpo — no es un rediseño,
+es la misma jerarquía tipográfica a un tamaño que cabe y se lee. Esto
+resolvió el desbordamiento en las 9 diapositivas afectadas y una superposición
+de título/cuerpo en la diapositiva 4. Verificado con todo el documento
+convertido a imagen y revisado diapositiva a diapositiva (no solo las que
+desbordaban): aparecieron 3 defectos adicionales, no visibles en el original
+porque dependían del mismo texto en miniatura — dos subtítulos que quedaban
+pisados por el párrafo anterior (diapositivas 43 y 45) y un título largo que
+invadía el logo (diapositiva 46) — los tres corregidos.
+
+**Qué no cambió:** ningún texto, ninguna cifra, ningún caso — contenido
+verificado carácter por carácter idéntico al original. Entregado a Andrea
+como archivo nuevo (no sobrescribe el original que ella subió).
