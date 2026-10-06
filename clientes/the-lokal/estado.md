@@ -274,3 +274,45 @@ invadía el logo (diapositiva 46) — los tres corregidos.
 **Qué no cambió:** ningún texto, ninguna cifra, ningún caso — contenido
 verificado carácter por carácter idéntico al original. Entregado a Andrea
 como archivo nuevo (no sobrescribe el original que ella subió).
+
+### Corrección (mismo día): el primer envío se veía pequeño en pantalla
+
+Andrea reportó que el archivo se leía muy pequeño al abrirlo. Causa: al
+"ajustar a ventana" (el modo de visualización habitual), lo que importa no
+es el tamaño absoluto del texto, sino la proporción entre el tamaño de la
+página y el tamaño de letra. Agrandé la página a A4 (×3,79) pero el texto
+solo ×2 — con esa diferencia, en pantalla el texto quedaba
+proporcionalmente **más pequeño que en el original**, aunque en términos
+de impresión fuera objetivamente más grande. Verificado comparando ambas
+versiones a la misma anchura de ventana: la primera entrega perdía frente
+al original.
+
+**Corrección:** rehecho desde el archivo original con una página más
+moderada (A5 real, 148×297mm) y el texto multiplicado ×2,5 — proporción
+mucho más cercana entre página y letra, así que en pantalla se ve
+claramente más grande que el original, no más pequeño. Vuelto a verificar
+las 49 diapositivas: reaparecieron los mismos problemas de desbordamiento
+de antes (la proporción página/texto es la misma relación de riesgo,
+independientemente del tamaño físico elegido) en las mismas 9 diapositivas
+densas, más el mismo tipo de defecto en las diapositivas 43, 44, 45 y 46 —
+ahí el título de una subsección estaba colocado como una caja de texto
+flotante aparte, en una posición fija calculada para el tamaño de letra
+original; al cambiar el tamaño de letra, la caja flotante dejaba de
+coincidir con dónde terminaba el párrafo anterior y quedaba pisándolo.
+
+**Arreglo estructural (más robusto que mover cajas):** en vez de
+reposicionar esas cuatro cajas flotantes a base de prueba y error, las
+eliminé y metí cada título de subsección como un párrafo más dentro del
+propio bloque de texto continuo — así el título fluye con el texto en vez
+de flotar en una coordenada fija, y no puede volver a desalinearse si en
+el futuro cambia el tamaño de letra o el ancho de caja. Las 9 diapositivas
+densas se dejaron con el cuerpo a un tamaño ligeramente menor (~7,7pt) que
+el resto del documento (~11,25pt) porque, aun con margen generoso, es el
+único punto en el que más tamaño de letra garantizado para esas 40
+diapositivas chocaba con que esas 9 cupieran sin desbordar — compromiso
+razonable, no un error.
+
+Verificado de nuevo contenido idéntico carácter por carácter (7.267
+palabras en ambas versiones). Archivo final reemplaza al primer envío en
+`brand-strategy-book/` (incluye ya esta corrección, no hace falta pedir
+otro).
