@@ -67,6 +67,73 @@ nada.
 
 ---
 
+## Qué necesito para desarrollar la sección 2 (Filosofía operativa)
+
+Separo por subapartado qué ya tengo y qué me falta, para no pedir algo que
+ya está aportado ni inventar lo que no lo está.
+
+### a. Principios operativos
+**Ya tengo base real:** el `Briefing.pdf` del cliente lista explícitamente
+sus pilares de filosofía de trabajo (Calidad café/producto, Tostado
+propio, Oferta gastronómica cuidada, Servicio cercano y profesional,
+Experiencia de cliente, Imagen de marca, Limpieza y orden, Procesos
+operativos claros, Rentabilidad, Estandarización, Capacidad de
+crecimiento). Puedo convertir esto en una primera propuesta de principios
+operativos sin pedir nada nuevo.
+**Lo que sí necesito:** que Andrea/Sergio confirmen o reordenen esa
+propuesta — son 11 pilares tal cual los dio el cliente, sin jerarquía
+entre ellos, y un documento de Architecture debería priorizarlos, no
+solo listarlos.
+
+### b. Nivel de hospitalidad
+**No tengo dato real suficiente.** El briefing dice "servicio cercano y
+profesional" pero eso es un pilar, no una definición de nivel de
+servicio. Necesito que se confirme: ¿Lady Madrid se posiciona como
+servicio en barra/autoservicio con toque de hospitalidad, o como
+servicio de mesa completo? (La carta y el TPV sugieren un híbrido —
+pedido en barra + servicio en mesa — pero antes de escribirlo como
+estándar necesito que alguien lo confirme, no inferirlo yo de una foto.)
+
+### c. Estándares de calidad
+**Ya tengo base real parcial:** el manual del cliente trae checklists
+detallados de apertura y cierre, y control de inventario/caducidad.
+**Lo que me falta:** estándares de producto concretos y medibles (tiempo
+máximo de espera en barra, temperatura de servicio del café, frecuencia
+de auditoría de limpieza...). El manual no los tiene en cifras — son
+decisión de dirección, no algo que el cliente ya haya documentado.
+
+### d. Prioridades operativas
+**Ya tengo base real fuerte, mejor que en los otros puntos:** el briefing
+da un ticket medio objetivo explícito para la ubicación nueva (mínimo
+8,50€, idealmente 9-10€, frente a los 8,90€/10,50€ actuales de Plaza Rep.
+Dominicana) y admite directamente un problema de formación operativa sin
+resolver. Puedo construir una primera propuesta de prioridades
+(consistencia operativa entre locales, cerrar el hueco de formación,
+sostener el ticket medio objetivo) apoyada en estos dos datos reales.
+**Lo que necesito confirmar:** si hay otras prioridades de negocio que no
+están en los documentos aportados (p. ej. ¿la búsqueda de nueva ubicación
+condiciona el orden de prioridades? ¿hay una prioridad de reducir
+rotación de personal?).
+
+### e. KPIs estratégicos
+**No tengo datos suficientes.** Más allá del ticket medio objetivo (que
+ya cubre d), no hay en los documentos aportados cifras de food cost,
+coste de personal, satisfacción de cliente o rotación de equipo.
+Necesito saber: ¿el cliente ya mide algo de esto internamente (TPV, hoja
+de cálculo propia) y nos lo puede compartir, o partimos de cero
+proponiendo qué KPIs deberían empezar a medir?
+
+**Resumen de lo que necesito de Andrea (o para trasladar al cliente):**
+1. Confirmar/reordenar la propuesta de principios operativos (a).
+2. Definir el nivel de servicio objetivo: barra, mesa, o híbrido (b).
+3. Estándares de producto medibles, si ya existen internamente (c).
+4. Confirmar si hay más prioridades de negocio además de ticket medio y
+   cierre del hueco de formación (d).
+5. Si el cliente ya mide KPIs operativos/financieros que podamos
+   reutilizar, o si partimos de cero (e).
+
+---
+
 ## 6. Organización del equipo
 
 ### a. Organigrama
