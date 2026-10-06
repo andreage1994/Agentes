@@ -49,7 +49,7 @@ contenido pendiente de que lo corrija el cliente).
 | # | Sección | Estado |
 |---|---|---|
 | 1 | Resumen ejecutivo | Pendiente — se escribe al final, una vez el resto esté cerrado |
-| 2 | Filosofía operativa | Pendiente de decisión estratégica (Andrea/Sergio) — hay base en el manual del cliente pero los "principios operativos" y "KPIs estratégicos" son decisión de dirección, no un hueco que se rellene solo con lo que ya aportó el cliente |
+| **2** | **Filosofía operativa** | **Desarrollada con las decisiones de Andrea del 2026-10-06 — ver bloque completo más abajo** |
 | 3 | Modelo Operativo | Pendiente de decisión estratégica |
 | 4 | Layout operativo | Material real disponible (plano TPV) — ver nota de "set up de mesas" arriba |
 | 5 | Customer journey operativo | Material real parcial (el manual del cliente cubre partes del recorrido) + huecos confirmados (pasos de servicio) |
@@ -131,6 +131,185 @@ proponiendo qué KPIs deberían empezar a medir?
    cierre del hueco de formación (d).
 5. Si el cliente ya mide KPIs operativos/financieros que podamos
    reutilizar, o si partimos de cero (e).
+
+**Respuesta de Andrea (2026-10-06)** a las 5 preguntas — desarrollo
+completo de la sección 2 a partir de aquí. Referencias usadas: plantilla
+TBNB "Protocolo de actuación ante situaciones" (del Design System) para
+el procedimiento de quejas, y el Manual del Empleado de El Jardín del
+Ritz como referencia de **formato** (no de contenido ni de tono — es un
+hotel de 5 estrellas, Lady Madrid es una cafetería de especialidad
+casual) para la estructura de "pasos de servicio" numerados.
+
+---
+
+## 2. Filosofía operativa
+
+### a. Principios operativos → reestructurados como "Valores de servicio"
+
+Dos niveles, con jerarquía explícita (antes eran 11 pilares sin orden):
+
+**Nivel 1 — Valores de servicio (cómo tratamos a las personas, van antes
+que la marca):**
+1. **Calidez** — el trato se siente humano, no protocolario.
+2. **Cercanía** — nos dirigimos a la persona, no al "cliente de la mesa
+   4".
+3. **Amabilidad** — por defecto, incluso cuando el cliente no lo es.
+
+**Nivel 2 — Valores de marca** (los pilares del briefing, ahora
+subordinados al nivel 1, agrupados para que no lean como una lista plana
+de 11 puntos):
+- *Producto:* Calidad café/producto, Tostado propio, Oferta gastronómica
+  cuidada.
+- *Experiencia:* Experiencia de cliente, Imagen de marca.
+- *Operación:* Limpieza y orden, Procesos operativos claros,
+  Estandarización.
+- *Negocio:* Rentabilidad, Capacidad de crecimiento.
+
+**Nota de coherencia:** el pilar original "Servicio cercano y
+profesional" del briefing queda absorbido por el Nivel 1 (Calidez +
+Cercanía) en vez de repetirse como pilar de marca — evita tener la misma
+idea en dos sitios con peso distinto.
+
+### b. Nivel de hospitalidad
+
+**Cafetería de especialidad, servicio casual en mesa.** Se atiende en
+mesa, pero sin la formalidad de un restaurante de alta cocina.
+- **Atento pero eficiente:** se nota que hay alguien pendiente, sin que
+  eso signifique esperar.
+- **Cercano pero no intrusivo:** trato cálido y personal, sin invadir el
+  momento del cliente.
+
+### c. Estándares de calidad
+
+Se crea desde cero (confirmado: no existe internamente). Estructura
+propuesta — área, estándar, frecuencia, responsable:
+
+| Área | Estándar propuesto | Frecuencia | Responsable |
+|---|---|---|---|
+| Servicio — tiempos | Propuesta inicial a validar con Andrea/Sergio antes de comunicar al cliente: toma de pedido ≤5 min desde sentarse, bebida en mesa ≤5 min, comida ≤15 min | Cada servicio | Camarero/a de la mesa |
+| Checklist apertura | El que ya existe en el manual del cliente — se formaliza aquí la frecuencia/responsable | Diaria | Encargado/a de turno |
+| Checklist cierre | Igual que apertura | Diaria | Encargado/a de turno |
+| Limpieza de sala y barra | Nuevo — pendiente de definir checklist específico | Diaria + repaso cada servicio | Equipo en turno, supervisa encargado/a |
+| Control de caducidades | El manual ya lo cubre parcialmente — se formaliza frecuencia | Diaria | Encargado/a de turno |
+| Temperatura de neveras | Nuevo — registro de temperatura | Diaria (apertura) | Encargado/a de turno |
+
+*(Las cifras de tiempos de servicio son una propuesta de arranque, no un
+dato del cliente — hay que validarlas con Andrea/Sergio y, si hace
+falta, con el propio equipo de Lady Madrid antes de fijarlas como
+estándar.)*
+
+**Procedimiento de resolución de quejas** — usando el formato de la
+plantilla TBNB "Protocolo de actuación ante situaciones" (Cómo
+responder / Cómo actuar / Lo que no nos representa / Nivel de
+actuación), adaptado a escenarios reales de Lady Madrid:
+
+**01 — El pedido tarda más de lo esperado**
+- Cómo responder: informar antes de que el cliente pregunte, disculparse
+  por la espera.
+- Cómo actuar: comprobar el estado del pedido en cocina/barra, mantener
+  informado, valorar un gesto si la espera es excesiva.
+- Lo que no nos representa: desaparecer sin avisar · prometer un tiempo
+  que no se puede garantizar · culpar a un compañero.
+- Nivel de actuación: Equipo.
+
+**02 — El plato o la bebida no coincide con lo pedido**
+- Cómo responder: disculparse y confirmar el pedido correcto.
+- Cómo actuar: corregir el pedido con prioridad, sin que el cliente tenga
+  que volver a pedirlo todo.
+- Lo que no nos representa: cuestionar lo que pidió el cliente · tardar
+  en corregirlo igual que un pedido nuevo.
+- Nivel de actuación: Equipo.
+
+**03 — El cliente no queda satisfecho con el sabor o la presentación**
+- Cómo responder: escuchar sin ponerse a la defensiva, agradecer el
+  comentario.
+- Cómo actuar: ofrecer una alternativa o solución razonable; si no se
+  resuelve en el momento, avisar al encargado/a.
+- Lo que no nos representa: justificar el plato en vez de escuchar ·
+  ignorar el comentario.
+- Nivel de actuación: Equipo, escala a Responsable si no se resuelve.
+
+**04 — Error en el cobro / la cuenta**
+- Cómo responder: disculparse, revisar la cuenta delante del cliente.
+- Cómo actuar: corregir el cobro de inmediato, confirmar el importe
+  final con el cliente.
+- Lo que no nos representa: dejarlo para "luego" · discutir el error
+  delante de otros clientes.
+- Nivel de actuación: Responsable.
+
+**05 — Queja grave o cliente que amenaza con una reseña negativa**
+- Cómo responder: mantener la calma, tomarlo en serio sin sobre-reaccionar.
+- Cómo actuar: escalar al encargado/a o dirección según gravedad; ofrecer
+  seguimiento posterior si hace falta.
+- Lo que no nos representa: prometer compensaciones sin autorización ·
+  entrar en discusión.
+- Nivel de actuación: Dirección.
+
+*(Son 5 escenarios de arranque — se pueden ampliar según lo que el
+equipo real de Lady Madrid vaya encontrando. Antes de dárselo al equipo,
+que Andrea/Sergio lo revisen: el tono y las respuestas concretas son
+propuesta de TBNB, no texto del cliente.)*
+
+### d. Prioridades operativas
+
+Prioridades confirmadas con dato real:
+1. Sostener/mejorar el ticket medio (objetivo del briefing: mínimo
+   8,50€, idealmente 9-10€ en la ubicación nueva).
+2. Cerrar el hueco de formación operativa que el propio cliente admite
+   en el briefing.
+3. **Nuevo, pedido por Andrea:** un flujo de servicio tipo guion/script
+   que el equipo pueda seguir.
+
+**Primera propuesta de flujo de servicio** (formato inspirado en la
+estructura de pasos numerados de la referencia de El Jardín del Ritz,
+pero adaptado al tamaño y tono real de Lady Madrid — nada de la
+formalidad de un hotel de 5 estrellas):
+
+1. Bienvenida y acomodo en mesa.
+2. Presentación breve de la carta / sugerencia del día si aplica.
+3. Toma de pedido de bebida primero, luego comida — momento natural para
+   upselling/cross-selling (conecta directo con esa oportunidad ya
+   detectada: sugerir un acompañamiento o una bebida de más antes de
+   cerrar el pedido, no como venta forzada).
+4. Servicio de bebida.
+5. Servicio de comida — mencionar el plato al dejarlo en mesa.
+6. Seguimiento a los pocos minutos de servir, para corregir a tiempo si
+   algo no está bien.
+7. Retirada de platos cuando el cliente termine.
+8. Ofrecer algo más (café, postre) — segundo momento de
+   upselling/cross-selling.
+9. Cobro.
+10. Despedida cálida.
+
+Esto es un primer esqueleto, sin frases concretas todavía — las frases
+("verbiage") de cada paso hay que escribirlas con el tono de marca real
+de Lady Madrid, no inventarlas yo sin que las validéis. **Este script se
+desarrollará más a fondo dentro de la sección 5 (Customer journey
+operativo) y la sección 9 (Framework de SOPs → Servicio), que es donde
+vive en el índice real de AR04** — lo dejo esbozado aquí porque me lo
+pediste dentro de "prioridades operativas", pero no lo duplico cuando
+lleguemos a esas dos secciones.
+
+### e. KPIs estratégicos
+
+Partimos de 0, confirmado. Propuesta de arranque — **categorías de KPI**,
+sin cifras objetivo todavía porque no hay ningún dato base real del que
+partir más allá del ticket medio (que ya está en d):
+
+- **Servicio:** tiempo medio de toma de pedido, tiempo medio de espera
+  de bebida/comida (una vez se validen los estándares de c).
+- **Producto:** ticket medio (ya tenemos el objetivo), % de mermas/
+  caducados.
+- **Equipo:** rotación de personal, horas de cobertura cubiertas vs.
+  necesarias.
+- **Cliente:** nº de quejas registradas (una vez exista el procedimiento
+  de c) y en qué categoría de las 5 de arriba caen más.
+
+Para convertir esto en KPIs con cifra objetivo real hace falta una
+primera medición — no se puede fijar una meta sin saber el punto de
+partida. Propongo que el primer mes de implementación sirva para medir
+sin objetivo todavía, y fijar metas en la sección 10 (Fases de
+implementación Operativa) una vez haya una base real.
 
 ---
 
