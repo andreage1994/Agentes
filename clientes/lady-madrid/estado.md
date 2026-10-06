@@ -28,12 +28,36 @@ propuesta: pasos de servicio → organización de equipo → resolución de
 conflictos → upselling/cross-selling → descripción de platos → set up de
 mesas.
 
-**Pendiente de decidir con Andrea antes de redactar nada:**
+**2026-10-06 — Decisión de secuencia:** Andrea confirma que este trabajo
+se engancha a AR04 (Estrategia y Modelo Operativo). Se desarrolla primero
+la fase Architecture completa y después se pasa a RUN (Operations
+Playbook + Manual de Roles, ya recibidos como plantillas pero sin tocar
+todavía). Arranque documentado en `AR04-estrategia-modelo-operativo.md`:
+mapa de las 7 oportunidades sobre el índice real de AR04 (10 secciones),
+sección 6 (Organización del equipo) redactada primero por ser la única
+con todo el dato real ya disponible y sin depender de decisiones
+estratégicas pendientes. Quedan 4 preguntas abiertas para Andrea/cliente
+antes de seguir cerrando secciones (ver ese documento).
+
+**2026-10-06 — Fichas técnicas de platos recibidas:** Andrea aporta
+`FTF_Lady_Madrid_07_2026.pptx` (18 fichas de comida, completas y
+correctas) y `FTD_Lady_Madrid_07_2026.pptx` (46 fichas, pero solo las 6
+primeras tienen contenido real — el resto repite por error el mismo texto
+de una ficha de comida bajo títulos de bebida distintos). Detalle completo
+y recomendación en `oportunidades-desarrollo-documento.md`. Esto resuelve
+el material de base para "descripción de platos" (comida), pero la parte
+de bebidas necesita que el cliente corrija `FTD` antes de poder usarse.
+
+**Pendiente de decidir con Andrea antes de seguir:**
 - ¿Se amplía el manual existente o se crea un documento nuevo
   complementario ("Manual Operativo de Servicio")?
 - Punto de contacto y plazo del lado del cliente.
-- Si este trabajo se engancha al AR04 ya mencionado o va como pieza
-  independiente de RUN.
+- Las 4 preguntas abiertas de `AR04-estrategia-modelo-operativo.md`
+  (turnos reales, posiciones dentro de "camareros/as", qué significa
+  exactamente "set up de las mesas", y dónde vive "descripción de
+  platos" dentro del índice BAR Method).
+- Si se le pide al cliente que corrija `FTD` antes de avanzar con la
+  parte de bebidas.
 
 ## Material de origen del cliente (en uso, no reproducido aquí)
 

@@ -100,6 +100,43 @@ demás (no se puede definir bien un proceso de resolución de conflictos o
 un guion de upselling sin saber primero en qué paso del servicio ocurre
 cada cosa).
 
+## Actualización 2026-10-06: fichas técnicas reales aportadas por Andrea
+
+Andrea ha aportado dos archivos adicionales con las fichas técnicas reales
+de los platos: `FTF_Lady_Madrid_07_2026.pptx` (18 fichas — tostadas y
+platos de la carta: Tostada de Jamón Ibérico, Tostada de Aguacate, Tomate
+AOVE y Sal, Salmón Ahumado, Tomate Asado y Anchoa, Tabla de Quesos,
+Gilda, Pisto y Yema Curada, Ensalada de Melocotón, etc.) y
+`FTD_Lady_Madrid_07_2026.pptx` (46 fichas, nombradas con los productos de
+bebida/degustación de la carta). Cada ficha trae foto del plato emplatado,
+pasos de elaboración, tabla de producto/cantidad/unidad y, en el caso de
+FTD, alérgenos. Es exactamente el tipo de material que hacía falta para
+desarrollar "descripción de platos" sin inventar nada — y además sirve
+para la sección 9 (Framework de SOPs → Cocina) de AR04.
+
+**Hallazgo de calidad de dato, a trasladar a Andrea antes de usar FTD como
+fuente:** de las 46 fichas de `FTD`, solo las 6 primeras (Espresso, Doble
+Espresso, Capuccino, Long Black, Cortado/Macchiato, Latte) tienen
+contenido real y distinto entre sí. Desde la ficha 7 en adelante —
+comprobado por muestreo en los tramos 14-19, 20-26 y 40-46, un total de 17
+fichas revisadas de las 40 restantes, todas con el mismo patrón — el
+título de cada diapositiva sí cambia correctamente y lista bebidas reales
+de la carta (Hojicha Latte, Latte Pistacho, Pink Latte, Chai Latte, Dirty
+Chai Latte, Infusiones, Agua/Agua con gas, Fritz Kola, Cerveza, Kombucha,
+Shakerato de Naranja, Espresso AOVE, Leche Fresca, Bebida Vegetal, Frappé,
+Papaya Mango y Lima, Grosella Frambuesas Arándanos, Fresa y Plátano, Zumo
+de Naranja Natural...), pero el cuerpo — pasos de elaboración, tabla de
+ingredientes y alérgenos — es exactamente el mismo texto duplicado de una
+ficha de comida (un flatbread con berenjena asada, yogur limón, almendra
+tostada, AOVE, zaatar y granada) copiado y pegado en las ~40 fichas
+restantes. No parece que falten fichas — parece que se usó una diapositiva
+de plantilla para duplicar y no se rellenó el contenido real de cada
+bebida. **No se puede usar `FTD` como fuente fiable a partir de la ficha 7
+hasta que el cliente lo corrija** — se lo señalo a Andrea para que decida
+si lo pide de vuelta al cliente antes de avanzar con la parte de bebidas
+de "descripción de platos". `FTF` (los 18 platos de comida), en cambio,
+está completo y correctamente diferenciado en todas las fichas revisadas.
+
 ## Qué falta decidir antes de redactar
 
 - ¿Esto se integra como ampliación del manual actual (mismo documento,
