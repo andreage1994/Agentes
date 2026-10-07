@@ -380,13 +380,15 @@ matices del cliente que no están en los documentos aportados.
 
 ### d. Staffing
 
-Plaza República Dominicana — capacidad real (fuente: `Briefing.pdf`,
-confirmada por el plano del TPV, ver sección e más abajo):
-- 10 mesas interiores (Mesa 1-10) × 3pp = 30 plazas
-- Barra: 2 taburetes (B1-B2)
-- Terraza: 6 mesas (T1-T6) × 2pp = 12 plazas
+Plaza República Dominicana — capacidad **confirmada directamente por
+Andrea** (2026-10-07), coincide con lo ya cruzado entre `Briefing.pdf` y
+el plano del TPV:
+- 10 mesas interiores, capacidad habitual de 3 personas/mesa = 30 plazas
+- Barra con 2 taburetes
+- Terraza con 6 mesas, capacidad habitual de 2 personas/mesa = 12 plazas
 - **Total: ~44 plazas**, cubiertas por 4,75 FTE de equipo habitual
-  (4×40h + 1×30h) en un horario de apertura de 13,5h (7:30-21:00).
+  (4×40h + 1×30h) en el horario real de apertura (83,5h/semana, ver
+  cálculo de turnos abajo).
 
 **Cálculo de turnos** (con el horario real de apertura que aportó Andrea:
 9:30-21:30 de miércoles a martes, 9:30-21:00 domingo — 6 días de 12h +
@@ -412,6 +414,21 @@ confirmada por el plano del TPV, ver sección e más abajo):
   puntuales, tareas del encargado/a fuera de sala, o un tercer puesto
   extra en fin de semana si hiciera falta). El Refuerzo Mediodía (30h) se
   reparte en los 5 días de mayor actividad esperada.
+
+**Validación cruzada con el ratio de servicio que aportó Andrea** (1
+camarero/a por cada 7 mesas): el local tiene 16 mesas de servicio (10
+interior + 6 terraza — la barra no cuenta como "mesa" a estos efectos,
+se cubre aparte). 16 ÷ 7 = 2,3 → **hacen falta 3 camareros/as** para no
+superar el ratio con el local lleno. Esto **confirma de forma
+independiente** el número de 3 personas simultáneas que ya había
+propuesto para el tramo de mediodía por el lado de las horas
+disponibles — los dos cálculos (horas de plantilla y ratio de mesas)
+llegan al mismo número por caminos distintos, lo que da bastante
+confianza en que 3 es el tramo correcto, no solo en qué momento del día
+colocarlo. Queda sin confirmar si el/la encargado/a cuenta dentro de
+este ratio de 7 mesas o si es una figura aparte (supervisión, caja) que
+no debería sumarse como camarero/a de sala — lo trato como figura aparte
+hasta que se diga lo contrario, coherente con el rol ya descrito en 6.b.
 
 **Importante — qué es esto y qué no es:** esto define la **estructura**
 de turnos (tipos, duración, solape) — es una decisión de Architecture.
