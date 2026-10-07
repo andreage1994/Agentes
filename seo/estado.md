@@ -30,19 +30,34 @@ empezado a trabajar ninguna estrategia ni contenido nuevo.
   el objetivo es usarlos como imán de registro a la newsletter para construir
   base de datos de contactos, no solo como descarga suelta.
 
+## Decisiones de Andrea (2026-10-07)
+
+1. **El research de Saúl es el válido.** Se construye sobre él, no se
+   rehace desde cero. Pendiente: análisis de competencia (no se había
+   hecho todavía) — encargado a `seo-estrategia-senior`, foco en
+   Ansón+Bonet, ver `seo/analisis-competencia.md` en cuanto esté listo.
+2. **Blogs:** los 5 con redacción final se publican la semana del
+   2026-10-13 (pendiente aún de que `blog-revision-seo-calidad` dé el
+   visto bueno final, ver `seo/blog-web/estado.md`).
+3. **Medición: sin conector.** Andrea/Sergio pasarán manualmente datos de
+   Google Analytics/Search Console cuando toque — no se conecta ninguna
+   cuenta (regla de la casa). Plantilla de qué datos hacen falta en
+   `seo/plantilla-datos-medicion.md`, cadencia mensual (mismo ritmo que el
+   dashboard de marketing).
+4. RankTank: explicado qué es y cómo corregirlo — ver
+   `seo/plantilla-datos-medicion.md` o la respuesta directa a Andrea
+   (herramienta ya configurada, solo mal regionalizada: Locale/Language
+   en inglés/EEUU en vez de español/España).
+
 ## Pendiente antes de poder empezar a dar forma a la estrategia
 
-1. **Acceso a herramientas de medición** — no existe un conector nativo de
-   Google Analytics/Search Console en este entorno; opciones para Andrea:
-   (a) exportar/compartir datos manualmente por ahora (más simple, sin coste),
-   o (b) configurar un conector de terceros tipo Supermetrics desde los
-   ajustes de conectores de claude.ai, que sí incluye Google Analytics entre
-   sus fuentes (implica cuenta/suscripción propia de esa herramienta). Sigue
-   sin resolverse quién decide y configura esto.
-2. Decidir si se sigue construyendo sobre la arquitectura/keyword research ya
-   heredada de Saúl, o se vuelve a investigar desde cero con este equipo.
-3. Corregir la cuenta de RankTank (mal configurada en inglés/EEUU) o
-   sustituirla por otra herramienta de tracking de posiciones.
+~~1. Acceso a herramientas de medición~~ — resuelto arriba (sin conector,
+   paso manual).
+~~2. Decidir si se sigue con lo heredado de Saúl o se rehace~~ — resuelto
+   arriba (se sigue con lo heredado).
+3. Corregir la cuenta de RankTank (mal configurada en inglés/EEUU) — Andrea
+   tiene las instrucciones, pendiente de que alguien con acceso al Sheet lo
+   aplique.
 4. Validar los 6 roles del equipo antes de empezar a producir con ellos.
 
 ## Próximos pasos recomendados, en orden
