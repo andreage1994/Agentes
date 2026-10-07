@@ -388,10 +388,42 @@ confirmada por el plano del TPV, ver sección e más abajo):
 - **Total: ~44 plazas**, cubiertas por 4,75 FTE de equipo habitual
   (4×40h + 1×30h) en un horario de apertura de 13,5h (7:30-21:00).
 
-Lo que falta para cerrar esta sección: el reparto real de turnos (¿cuántas
-personas solapan en el pico de servicio? ¿turnos partidos o seguidos?) —
-el briefing no lo detalla y no lo voy a inventar. Es una pregunta directa
-para Andrea o para el punto de contacto del cliente.
+**Cálculo de turnos** (con el horario real de apertura que aportó Andrea:
+9:30-21:30 de miércoles a martes, 9:30-21:00 domingo — 6 días de 12h +
+1 día de 11,5h = **83,5h de apertura/semana**):
+
+- **Horas de plantilla disponibles:** 4×40h + 1×30h = **190h/semana**
+  (equipo habitual, sin contar la 6ª persona temporal de cobertura de
+  baja).
+- **Estructura de turnos propuesta:**
+  - **Turno Mañana (TM):** 9:00–17:00 (8h) — incluye 30 min de montaje
+    antes de abrir a las 9:30.
+  - **Turno Tarde (TT):** 13:30–21:30 (8h) de miércoles a martes /
+    13:00–21:00 (8h) domingo — incluye cierre.
+  - **Refuerzo Mediodía (RM):** 12:00–18:00 (6h), cubierto por la
+    persona a 30h — añade una tercera persona en el tramo de mayor
+    afluencia esperada (mediodía/brunch).
+- **Resultado:** 1 persona en solitario en la apertura (9:00-13:00/13:30)
+  y en el cierre (17:00/18:00-21:30), y **3 personas simultáneas** en el
+  tramo de mediodía (aprox. 13:30-17:00), que es razonable para un
+  concepto de brunch/café de especialidad.
+- **Cuadre de horas:** cubrir TM+TT los 7 días = 16h/día × 7 = 112h/semana,
+  cubiertas con los 4×40h (160h disponibles → 48h de margen para bajas
+  puntuales, tareas del encargado/a fuera de sala, o un tercer puesto
+  extra en fin de semana si hiciera falta). El Refuerzo Mediodía (30h) se
+  reparte en los 5 días de mayor actividad esperada.
+
+**Importante — qué es esto y qué no es:** esto define la **estructura**
+de turnos (tipos, duración, solape) — es una decisión de Architecture.
+El cuadrante exacto de qué persona trabaja qué día concreto es una
+decisión operativa del encargado/a una vez el modelo esté validado —
+eso vive en el Operations Playbook de RUN, no aquí.
+
+**Lo único que sigue siendo una hipótesis, no un dato real:** que el
+pico de afluencia esté en el mediodía. Es una suposición razonable para
+un concepto de brunch/café, pero si el TPV tiene datos reales de ventas
+por hora, hay que confirmarlo y ajustar el horario del Refuerzo Mediodía
+en consecuencia antes de darlo por definitivo.
 
 ### e. Coberturas
 
@@ -430,8 +462,11 @@ SOP de RUN.
 
 **Preguntas abiertas que necesito que resuelva Andrea (o el cliente) antes
 de seguir cerrando secciones:**
-1. Reparto real de turnos en Plaza República Dominicana (solapes, turno
-   partido/seguido) — para cerrar 6.d.
+1. ~~Reparto real de turnos en Plaza República Dominicana~~ — **resuelto
+   con propuesta** (2026-10-07): estructura de 3 turnos (Mañana/Tarde/
+   Refuerzo Mediodía) con el horario real de apertura, ver 6.d. Queda
+   pendiente solo confirmar si el pico real de afluencia es mediodía
+   (hipótesis) o si el TPV dice otra cosa.
 2. Si hay diferenciación de posiciones dentro de "camareros/as" (barra
    fija vs. rotación total) — para cerrar 6.b y empezar 6.c.
 3. Confirmación del significado de "set up de las mesas" (layout vs.
