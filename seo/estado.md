@@ -1,6 +1,6 @@
 # Estado — Departamento de SEO
 
-**Última actualización:** 2026-10-02.
+**Última actualización:** 2026-10-07.
 
 ## Fase actual
 
@@ -33,9 +33,9 @@ empezado a trabajar ninguna estrategia ni contenido nuevo.
 ## Decisiones de Andrea (2026-10-07)
 
 1. **El research de Saúl es el válido.** Se construye sobre él, no se
-   rehace desde cero. Pendiente: análisis de competencia (no se había
-   hecho todavía) — encargado a `seo-estrategia-senior`, foco en
-   Ansón+Bonet, ver `seo/analisis-competencia.md` en cuanto esté listo.
+   rehace desde cero. Análisis de competencia encargado a
+   `seo-estrategia-senior`, foco en Ansón+Bonet — **hecho, ver
+   `seo/analisis-competencia.md`** (detalle en la sección de abajo).
 2. **Blogs:** los 5 con redacción final se publican la semana del
    2026-10-13 (pendiente aún de que `blog-revision-seo-calidad` dé el
    visto bueno final, ver `seo/blog-web/estado.md`).
@@ -49,6 +49,36 @@ empezado a trabajar ninguna estrategia ni contenido nuevo.
    (herramienta ya configurada, solo mal regionalizada: Locale/Language
    en inglés/EEUU en vez de español/España).
 
+## Análisis de competencia — hecho (2026-10-07)
+
+Resultado completo en `seo/analisis-competencia.md`. Resumen:
+
+- Foco principal en **Ansón+Bonet**, con datos verificados vía búsqueda
+  (fundadores, trayectoria, posicionamiento "consultores de restaurantes
+  360º", estructura de sitio por URLs indexadas, portfolio de proyectos de
+  alto standing) — sin poder inspeccionar su web directamente (el proxy de
+  salida de esta sesión bloqueó el acceso a `ansonybonet.com` y a varios
+  medios que escriben sobre ellos). Marcado explícitamente como limitación
+  metodológica dentro del documento.
+- **Gap confirmado en Traspasos** — ningún competidor revisado lo cubre como
+  línea de negocio propia, refuerza la prioridad ya dada por Andrea.
+- **Riesgo de colisión de mensaje en "360°"** — Ansón+Bonet ya usa ese mismo
+  término de categoría en prensa; recomendación de diferenciar el ángulo
+  (BAR Method + negocio independiente, no creación de concepto para
+  hoteles/marcas) antes de que `web-estrategia-marca`/`web-redaccion`
+  trabajen esa página.
+- Secundario: It's Enjoyable (Marina González, Barcelona, enfoque
+  producto/menú) y SMQuatro (táctica de notas de prensa sindicadas,
+  replicable para autoridad de dominio) con datos parciales verificados. We
+  The Food y Two Many Chefs sin datos verificables en esta sesión. Resto de
+  la lista de competidores del briefing no investigados (fuera del foco
+  explícito del encargo).
+- **Pendiente para Andrea/Sergio**: confirmar visitando `ansonybonet.com`
+  directamente si tienen blog activo y lead magnets (esta sesión no pudo
+  verificarlo), y confirmar posiciones reales en Google de las keywords
+  prioritarias frente a Ansón+Bonet en cuanto se corrija el locale de
+  RankTank (punto 3 de pendientes, abajo).
+
 ## Pendiente antes de poder empezar a dar forma a la estrategia
 
 ~~1. Acceso a herramientas de medición~~ — resuelto arriba (sin conector,
@@ -57,7 +87,8 @@ empezado a trabajar ninguna estrategia ni contenido nuevo.
    arriba (se sigue con lo heredado).
 3. Corregir la cuenta de RankTank (mal configurada en inglés/EEUU) — Andrea
    tiene las instrucciones, pendiente de que alguien con acceso al Sheet lo
-   aplique.
+   aplique. También necesaria para confirmar posiciones reales frente a
+   Ansón+Bonet (ver análisis de competencia arriba).
 4. Validar los 6 roles del equipo antes de empezar a producir con ellos.
 
 ## Próximos pasos recomendados, en orden
@@ -71,7 +102,9 @@ empezado a trabajar ninguna estrategia ni contenido nuevo.
    Search Console accesibles (ver opciones arriba), `seo-analitica-conversion`
    no puede avanzar en atribución real, aunque sí puede ir especificando qué
    eventos hacen falta.
-3. **Análisis de competencia**, con foco en Ansón+Bonet (`seo-estrategia-senior`).
+3. ~~**Análisis de competencia**, con foco en Ansón+Bonet
+   (`seo-estrategia-senior`).~~ — **hecho, ver
+   `seo/analisis-competencia.md`** y el resumen arriba.
 4. **Retomar el comité de contenidos** heredado (44 temas, 4 ya escritos) y
    decidir los siguientes 3-4 artículos a producir (`seo-estrategia-senior` →
    `blog-estrategia-seo`).
@@ -96,7 +129,8 @@ empezado a trabajar ninguna estrategia ni contenido nuevo.
       contacto (bloqueado hasta resolver el punto 1 de arriba).
 - [ ] **Validar o rehacer** la arquitectura en silos y el keyword research
       heredados de Saúl.
-- [ ] **Análisis de competencia** (Ansón+Bonet como referencia principal).
+- [x] **Análisis de competencia** (Ansón+Bonet como referencia principal) —
+      ver `seo/analisis-competencia.md`.
 - [ ] **Manual de uso de IA** para contenido SEO.
 - [ ] Retomar el comité de contenidos (44 temas, solo 4 ya escritos).
 - [ ] **Especificar los lead magnets como imán de newsletter** (contenido +
