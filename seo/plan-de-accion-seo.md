@@ -10,8 +10,27 @@ rindiendo por un problema concreto y arreglable — no por falta de
 contenido nuevo.
 
 Construido cruzando: `analisis-competencia.md`, `medicion-mensual.md`
-(GA4 + Search Console + RankTank septiembre/octubre), `blog-web/estado.md`
-y `pagina-web/estado.md`. Cada punto dice en qué dato real se apoya.
+(GA4 + Search Console + RankTank septiembre/octubre), `blog-web/estado.md`,
+`pagina-web/estado.md` y, desde el 2026-10-07, `recap-saul-2026-10-07.md`.
+Cada punto dice en qué dato real se apoya.
+
+**Actualización 2026-10-07 — recap de Saúl incorporado**, ver
+`recap-saul-2026-10-07.md` para el detalle completo. Resumen de lo que
+cambia en este plan:
+- El pop-up de Mailchimp ya está montado, solo falta revisarlo y
+  publicarlo — añadido a la Ola 2.
+- Al publicar las páginas de servicio (Ola 2), hay que enlazarlas desde
+  páginas existentes en el mismo paso — conecta directo con el problema
+  de página huérfana detectado hoy en `/marketing-gastronomico/`.
+- Hay una propuesta de Home nueva ya en borrador en WordPress — **no
+  publicarla sin revisar antes que su Title/H1 sigan apuntando bien a
+  "consultoria hosteleria"**, por el problema de canibalización ya
+  abierto en la Ola 1.
+- Nuevo punto, Ola 4: validar y lanzar los 15 prompts de visibilidad en
+  IA (Otterly) — ya están definidos, falta la demo.
+- Decisión pendiente de Andrea: cadencia de publicación del blog (los 5
+  juntos como ya decidido, o en goteo semanal/quincenal como sugiere
+  Saúl).
 
 ---
 
