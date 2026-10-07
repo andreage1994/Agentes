@@ -18,31 +18,29 @@ Este documento sigue esa misma numeración.
 | Organización del equipo (secciones y posiciones) | 6. Organización del equipo | El hueco real detectado — es la sección con más material real ya disponible |
 | Upselling / cross-selling | 5. Customer journey operativo (momentos de verdad) + 9. SOPs (Fidelización) | Existe pero flojo en el manual del cliente |
 | Resolución de conflictos | 8. Modelo de gestión (gestión de incidencias) + 6. (escalado de decisiones) | Existe pero muy flojo en el manual del cliente |
-| Set up de las mesas | **Ambiguo — ver nota abajo** | |
-| Descripción de platos | **No vive en AR04 — ver nota abajo** | |
+| Set up de las mesas | **Resuelto — va a RUN, ver nota abajo** | |
+| Descripción de platos | **Resuelto — va a RUN (F&B Bible), ver nota abajo** | |
 
-**Nota sobre "Set up de las mesas":** puede significar dos cosas distintas
-en el índice real, y conviene que Andrea confirme cuál (o si son las dos):
-(a) la distribución física de mesas en sala — eso es la sección 4 (Layout
-operativo), para la que ya tenemos el plano real del TPV; o (b) cómo se
-monta cada mesa de cara al servicio (mantelería, cubertería, orden) — eso
-es un SOP de la sección 9 (Framework de SOPs → Restaurante → Mise en
-place), más propio de RUN que de Architecture. Mientras no se confirme,
-trabajo aquí la (a) porque es la que tiene dato real y encaja en esta
-fase; la (b) quedaría para el Operations Playbook en RUN.
+**Nota sobre "Set up de las mesas" (resuelto 2026-10-07):** Andrea
+confirma que se refiere a cómo está montada la mesa cuando llega el
+cliente (plato, cubierto) — no a la distribución física de mesas en
+sala. Es un SOP de la sección 9 (Framework de SOPs → Restaurante → Mise
+en place), propio de RUN (Operations Playbook), no de Architecture. La
+sección 4 (Layout operativo) sigue trabajándose solo sobre la
+distribución física de sala, con el plano real del TPV.
 
-**Nota sobre "Descripción de platos":** no tiene hueco en el índice de
-AR04 (Estrategia y Modelo Operativo) — el índice general del BAR Method
-sitúa "Arquitectura de la carta" en el documento de **Desarrollo
-Gastronómico** (otro servicio de Architecture, no éste). Lo dejo fuera de
-este documento y lo marco como pendiente de decidir con Andrea: ¿se
-produce como pieza aparte dentro de Desarrollo Gastronómico, o se acepta
-una sección no estándar añadida a AR04 para Lady Madrid? No lo desarrollo
-hasta que se decida, para no construir en el documento equivocado. Material
-real ya disponible para cuando se decida: las fichas técnicas reales de
-los platos (`FTF`/`FTD`, ver `oportunidades-desarrollo-documento.md` —
-la parte de comida está completa, la de bebidas tiene un error de
-contenido pendiente de que lo corrija el cliente).
+**Nota sobre "Descripción de platos" (resuelto 2026-10-07):** va a RUN,
+dentro del **F&B Bible** de TBNB — no a Desarrollo Gastronómico aparte,
+ni como sección añadida a AR04. Para Lady Madrid, al tener ya la
+información desarrollada en detalle en las fichas técnicas del cliente,
+Andrea decide estructurarla directamente en la plantilla F&B Bible.
+Primera versión ya construida con los 17 platos reales de comida (FTF)
+— ver `run/FB_Bible_Lady_Madrid.pptx` y el detalle en `estado.md`. La
+parte de bebidas (FTD) queda fuera de esta versión: las 46 fichas de
+bebidas del cliente traen el nombre de la bebida en el título pero la
+receta de un plato de comida debajo (y no coinciden ni siquiera entre
+sí) — no hay ninguna ficha de bebida utilizable todavía, pendiente de
+que el cliente corrija el documento.
 
 ## Estado de las 10 secciones del índice
 
@@ -51,7 +49,7 @@ contenido pendiente de que lo corrija el cliente).
 | 1 | Resumen ejecutivo | Pendiente — se escribe al final, una vez el resto esté cerrado |
 | **2** | **Filosofía operativa** | **Desarrollada con las decisiones de Andrea del 2026-10-06 — ver bloque completo más abajo** |
 | 3 | Modelo Operativo | Pendiente de decisión estratégica |
-| 4 | Layout operativo | Material real disponible (plano TPV) — ver nota de "set up de mesas" arriba |
+| 4 | Layout operativo | Material real disponible (plano TPV). Ámbito acotado: solo distribución física de sala, el montaje de servicio va a RUN — ver nota de "set up de mesas" arriba |
 | 5 | Customer journey operativo | Material real parcial (el manual del cliente cubre partes del recorrido) + huecos confirmados (pasos de servicio) |
 | **6** | **Organización del equipo** | **Material real completo — se redacta primero, ver abajo** |
 | 7 | Operación gastronómica | Pendiente — depende de decisiones de cocina/producción no aportadas todavía |
@@ -486,7 +484,22 @@ de seguir cerrando secciones:**
    (hipótesis) o si el TPV dice otra cosa.
 2. Si hay diferenciación de posiciones dentro de "camareros/as" (barra
    fija vs. rotación total) — para cerrar 6.b y empezar 6.c.
-3. Confirmación del significado de "set up de las mesas" (layout vs.
-   montaje de servicio) — para saber si sigo con la 4 o si eso va a RUN.
-4. Dónde se desarrolla "descripción de platos" (AR04 fuera de índice,
-   Desarrollo Gastronómico aparte, o se deja para RUN).
+3. ~~Confirmación del significado de "set up de las mesas"~~ — **resuelto**
+   (2026-10-07): Andrea confirma que es (b), cómo está montada la mesa
+   cuando llega el cliente (plato, cubierto) — no la distribución física
+   de sala. Va a RUN como SOP de mise en place (Operations Playbook),
+   no a la sección 4 de AR04. La sección 4 sigue trabajándose solo sobre
+   el layout físico (plano TPV), sin el montaje de servicio.
+4. ~~Dónde se desarrolla "descripción de platos"~~ — **resuelto**
+   (2026-10-07): Andrea confirma que va a RUN, dentro del **F&B Bible**
+   (no en Desarrollo Gastronómico aparte, y no como sección añadida a
+   AR04). Para Lady Madrid, al tener ya la información desarrollada en
+   detalle en las fichas técnicas, se estructura directamente en la
+   plantilla F&B Bible de TBNB. Primera versión ya construida con los 17
+   platos reales de comida (FTF) — ver
+   `run/FB_Bible_Lady_Madrid.pptx` y el detalle en `estado.md`. La parte
+   de bebidas (FTD) queda fuera de esta versión: las 46 fichas de bebidas
+   del cliente tienen el nombre de la bebida en el título pero la receta
+   de otro plato debajo (ni siquiera coinciden entre sí — cada una trae
+   contenido distinto, no repetido) — no hay ninguna ficha de bebida
+   utilizable todavía, pendiente de que el cliente corrija el documento.

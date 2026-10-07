@@ -40,24 +40,45 @@ estratégicas pendientes. Quedan 4 preguntas abiertas para Andrea/cliente
 antes de seguir cerrando secciones (ver ese documento).
 
 **2026-10-06 — Fichas técnicas de platos recibidas:** Andrea aporta
-`FTF_Lady_Madrid_07_2026.pptx` (18 fichas de comida, completas y
-correctas) y `FTD_Lady_Madrid_07_2026.pptx` (46 fichas, pero solo las 6
-primeras tienen contenido real — el resto repite por error el mismo texto
-de una ficha de comida bajo títulos de bebida distintos). Detalle completo
-y recomendación en `oportunidades-desarrollo-documento.md`. Esto resuelve
-el material de base para "descripción de platos" (comida), pero la parte
-de bebidas necesita que el cliente corrija `FTD` antes de poder usarse.
+`FTF_Lady_Madrid_07_2026.pptx` (18 fichas de comida — 17 platos únicos,
+"Pisto y Yema Curada" está duplicado) y `FTD_Lady_Madrid_07_2026.pptx`
+(46 fichas de bebida). Detalle completo y recomendación en
+`oportunidades-desarrollo-documento.md`. Esto resuelve el material de
+base para "descripción de platos" (comida). **Corrección 2026-10-07:**
+al construir el F&B Bible se detecta que `FTD` no es utilizable en
+ninguna de sus 46 fichas, no solo en las ~40 que parecían repetidas — las
+6 que parecían tener contenido real (Espresso, Doble Espresso,
+Capuccino, Long Black, Cortado/Macchiato, Latte) también traen la receta
+de un plato de comida distinto bajo cada nombre de bebida (ninguna
+coincide con su título, y no se repiten entre sí). No hay ninguna ficha
+de bebida utilizable; se necesita que el cliente corrija `FTD` por
+completo antes de poder documentar la carta de bebidas.
+
+**2026-10-07 — F&B Bible construido con los 17 platos de comida (FTF):**
+a petición de Andrea ("descripción de platos" va a RUN, no a AR04 —
+ver pregunta #4 resuelta en `AR04-estrategia-modelo-operativo.md`), se
+construye la primera versión del F&B Bible de Lady Madrid sobre la
+plantilla real de TBNB (`FB_BIBLE_SALA_X_TBNB.pptx`), con los 17 platos
+reales de FTF: nombre, descripción de venta, tabla de ingredientes con
+cantidades reales, y foto real del plato. Entregable:
+`run/FB_Bible_Lady_Madrid.pptx`. Alérgenos: FTF no trae esa información
+en ninguna ficha, así que el campo queda como "Pendiente de confirmar
+con cocina" en los 17 platos — no se ha inventado ningún dato. La carta
+de bebidas no está incluida en esta versión (ver corrección de `FTD`
+arriba); se añadirá cuando el cliente entregue fichas de bebida
+correctas.
 
 **Pendiente de decidir con Andrea antes de seguir:**
 - ¿Se amplía el manual existente o se crea un documento nuevo
   complementario ("Manual Operativo de Servicio")?
 - Punto de contacto y plazo del lado del cliente.
-- Las 4 preguntas abiertas de `AR04-estrategia-modelo-operativo.md`
-  (turnos reales, posiciones dentro de "camareros/as", qué significa
-  exactamente "set up de las mesas", y dónde vive "descripción de
-  platos" dentro del índice BAR Method).
-- Si se le pide al cliente que corrija `FTD` antes de avanzar con la
-  parte de bebidas.
+- De las 4 preguntas abiertas de `AR04-estrategia-modelo-operativo.md`,
+  quedan sin resolver: posiciones dentro de "camareros/as" (barra fija
+  vs. rotación total). Turnos reales, "set up de las mesas" y
+  "descripción de platos" ya están resueltos (ver ese documento).
+- Pedir al cliente que corrija `FTD` por completo (las 46 fichas de
+  bebida traen contenido de comida bajo el título de bebida) antes de
+  poder avanzar con la carta de bebidas del F&B Bible.
 
 ## Material de origen del cliente (en uso, no reproducido aquí)
 
