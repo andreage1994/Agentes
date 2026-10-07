@@ -42,6 +42,31 @@ Por cada una: sesiones del mes + conversiones si las tiene.
   mucho trabajo manual — con las 15-20 de mayor prioridad por silo basta
   para la primera entrega.
 
+### Cómo sacar este informe, paso a paso
+
+1. Entrar en [search.google.com/search-console](https://search.google.com/search-console)
+   con la cuenta de Google que tenga acceso a la propiedad de
+   `thebarnbarconsulting.com`. (Si nadie de TBNB tiene ahora mismo acceso
+   de propietario, hay que pedírselo a quien configuró la propiedad
+   originalmente, desde Configuración → Usuarios y permisos dentro de
+   Search Console — con rol "Completo" o al menos "Restringido" para
+   verlo.)
+2. En el menú lateral, entrar en **Rendimiento** ("Performance").
+3. Arriba del todo, comprobar que estén activadas las 4 métricas: Clics
+   totales, Impresiones totales, CTR medio, **Posición media** (son 4
+   casillas/pestañas de color, si alguna está apagada no sale en la
+   tabla).
+4. Ajustar el rango de fechas arriba a la derecha al mes que toque
+   reportar (por defecto Search Console muestra los últimos 3 meses).
+5. Abajo, en la tabla, pinchar la pestaña **Consultas** ("Queries") —
+   ahí sale cada término de búsqueda con sus 4 métricas.
+6. Usar el buscador de la propia tabla para filtrar por cada keyword
+   prioritaria del research de Saúl (o mirar directamente las que más
+   impresiones tengan, suelen coincidir).
+7. Para no copiar fila a fila: botón **Exportar** arriba de la tabla →
+   exportar a Google Sheets o CSV, y ese archivo (o un pantallazo de la
+   tabla filtrada) es lo que me podéis pasar.
+
 ## Sobre RankTank
 
 Es un complemento (add-on) de Google Sheets que escanea Google para
@@ -66,8 +91,21 @@ en la configuración del proyecto/pestaña "RankTank-3":
 
 Después de corregir el locale, hay que lanzar el escaneo (usa créditos
 de la cuenta — ahora mismo hay 0 usados, así que no se ha gastado nada
-todavía). Yo no tengo acceso a ese Google Sheet, así que esto lo tiene
-que aplicar quien sí lo tenga — si en algún momento queréis darme acceso
-de lectura/escritura a ese Sheet puntualmente, dígnoslo y lo repaso, pero
-no hace falta un conector permanente para esto, es una corrección de
-configuración puntual.
+todavía).
+
+### Qué necesito exactamente si queréis que yo acceda
+
+Importante ser honesto sobre el límite real: **aunque me deis acceso al
+Google Sheet, no puedo abrir el menú del complemento RankTank ni tocar
+sus desplegables de Locale/Language** — esa configuración vive dentro de
+la interfaz propia del add-on (un panel que se abre dentro de Google
+Sheets), y no tengo una herramienta en este entorno que pueda interactuar
+con esa interfaz. Es un clic de 2 minutos para quien ya tenga el Sheet
+abierto — no hace falta dármelo a mí para esa parte concreta.
+
+Lo que sí puedo hacer si me compartís el Sheet (con la herramienta de
+Google Drive, acceso de lectura basta): confirmar la lista de 102
+keywords ya cargadas, leer los resultados una vez alguien lance el
+escaneo con el locale ya corregido, y ahorraros el paso de exportar/
+pegarme los datos a mano cada mes. Si queréis eso, compartid el archivo
+(o pasadme el enlace) y lo repaso.
