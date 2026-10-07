@@ -181,22 +181,41 @@ mesa, pero sin la formalidad de un restaurante de alta cocina.
 
 ### c. Estándares de calidad
 
-Se crea desde cero (confirmado: no existe internamente). Estructura
-propuesta — área, estándar, frecuencia, responsable:
+Se crea desde cero (confirmado: no existe internamente). Andrea aportó
+como referencia los estándares reales de servicio de un hotel de lujo
+(`MRMAD_FB_LQA_Standards_LT_1.xlsx` — auditoría LQA/Forbes de F&B del
+Mandarin Oriental Ritz Madrid, pestañas "Breakfast Standards" y "Drinks
+Standards") con instrucción explícita de **adaptar los tiempos a un
+servicio casual**, no copiarlos tal cual. Tabla de tiempos — con el
+estándar de lujo de referencia y la adaptación propuesta, y el porqué de
+cada ajuste:
+
+| Momento | Estándar de lujo (referencia real, LQA/Forbes) | Adaptado a Lady Madrid | Por qué |
+|---|---|---|---|
+| Saludo al llegar | ≤1 min | ≤1 min | Un saludo ágil no depende del nivel de servicio — se mantiene igual |
+| Acomodo en mesa | Mesa ya montada, sentado en ≤1 min | ≤2 min | Lady Madrid no premonta cubertería completa como un hotel — el acomodo es más simple pero algo menos inmediato |
+| Toma de pedido de bebida | ≤3 min desde sentarse | ≤5 min | Menos personal por mesa que un hotel de lujo (4,75 FTE para ~44 plazas, ver sección 6.d) — margen más realista |
+| Bebida servida | ≤5 min (≤4 min en barra) | ≤5 min | El café de especialidad se sirve rápido por naturaleza — se mantiene el estándar de lujo tal cual |
+| Comida servida | ≤10 min (plato caliente) | ≤15 min | Cocina de café, no brigada completa de cocina — tiempo real de preparación mayor |
+| Recogida de mesa al terminar | ≤5 min | ≤5 min | Estándar razonable con cualquier volumen de personal — se mantiene |
+| Ofrecer otra bebida / rellenar | ≤1-2 min tras vaciarse | ≤5 min | Mismo motivo que la toma de pedido: menos personal por mesa |
+| Cuenta | ≤3 min desde que se pide | ≤5 min | Mismo motivo |
+
+*(Estas cifras siguen siendo una propuesta de TBNB a validar con
+Andrea/Sergio y, si hace falta, con el propio equipo de Lady Madrid
+antes de fijarlas como estándar — la referencia de lujo da el punto de
+partida, pero el tiempo final tiene que ser realista para la plantilla
+real del local, no aspiracional.)*
+
+Resto de estándares — área, estándar, frecuencia, responsable:
 
 | Área | Estándar propuesto | Frecuencia | Responsable |
 |---|---|---|---|
-| Servicio — tiempos | Propuesta inicial a validar con Andrea/Sergio antes de comunicar al cliente: toma de pedido ≤5 min desde sentarse, bebida en mesa ≤5 min, comida ≤15 min | Cada servicio | Camarero/a de la mesa |
 | Checklist apertura | El que ya existe en el manual del cliente — se formaliza aquí la frecuencia/responsable | Diaria | Encargado/a de turno |
 | Checklist cierre | Igual que apertura | Diaria | Encargado/a de turno |
 | Limpieza de sala y barra | Nuevo — pendiente de definir checklist específico | Diaria + repaso cada servicio | Equipo en turno, supervisa encargado/a |
 | Control de caducidades | El manual ya lo cubre parcialmente — se formaliza frecuencia | Diaria | Encargado/a de turno |
 | Temperatura de neveras | Nuevo — registro de temperatura | Diaria (apertura) | Encargado/a de turno |
-
-*(Las cifras de tiempos de servicio son una propuesta de arranque, no un
-dato del cliente — hay que validarlas con Andrea/Sergio y, si hace
-falta, con el propio equipo de Lady Madrid antes de fijarlas como
-estándar.)*
 
 **Procedimiento de resolución de quejas** — usando el formato de la
 plantilla TBNB "Protocolo de actuación ante situaciones" (Cómo
@@ -292,16 +311,24 @@ lleguemos a esas dos secciones.
 
 ### e. KPIs estratégicos
 
-Partimos de 0, confirmado. Propuesta de arranque — **categorías de KPI**,
-sin cifras objetivo todavía porque no hay ningún dato base real del que
-partir más allá del ticket medio (que ya está en d):
+Partimos de 0, confirmado. **Corrección de Andrea:** estos KPIs tienen
+que referirse a la organización del servicio — fuera los de coste/
+financieros (ticket medio, mermas), esos no son operativos para esto
+aunque sean KPIs reales de negocio; viven en otro sitio (sección 3,
+Modelo Operativo, o en el seguimiento de rentabilidad del negocio, no
+aquí). Propuesta de arranque — **categorías de KPI, todas centradas en
+servicio**, sin cifras objetivo todavía porque no hay ningún dato base
+real del que partir:
 
-- **Servicio:** tiempo medio de toma de pedido, tiempo medio de espera
-  de bebida/comida (una vez se validen los estándares de c).
-- **Producto:** ticket medio (ya tenemos el objetivo), % de mermas/
-  caducados.
-- **Equipo:** rotación de personal, horas de cobertura cubiertas vs.
-  necesarias.
+- **Tiempos de servicio** (directamente ligados a los estándares de c):
+  tiempo medio de toma de pedido, tiempo medio de espera de bebida,
+  tiempo medio de espera de comida, tiempo de recogida de mesa, tiempo
+  de entrega de la cuenta.
+- **Cumplimiento de estándar:** % de servicios dentro de los tiempos
+  fijados en c (una vez haya una primera medición de referencia).
+- **Organización del equipo en servicio:** horas de cobertura cubiertas
+  vs. necesarias por turno (adecuación real de personal al volumen de
+  servicio, conecta con la sección 6.d).
 - **Cliente:** nº de quejas registradas (una vez exista el procedimiento
   de c) y en qué categoría de las 5 de arriba caen más.
 
