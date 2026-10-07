@@ -96,6 +96,83 @@ exactas, no a un problema de posición — hay que revisarlo con
 `seo-arquitectura-web` antes de dar por bueno que "ya están las páginas,
 falta posicionarlas".
 
+## RankTank — primer escaneo real (2026-10-07, locale ya corregido)
+
+Andrea corrigió Locale/Language (Spain/Español) y lanzó el escaneo —
+esto es el primer dato de posición real por keyword que existe en todo
+el proyecto, nada estimado. Lectura completa de lo que pegó (sin las 102
+exactas, probablemente alguna fila quedó fuera del pegado — ver pregunta
+abierta al final).
+
+### Lo bueno: dos keywords reales en posición #1
+
+- **"consultoria bar"** → #1, vía Home (`/`).
+- **"consultoria negocio bar"** → #1, vía `/consultoria-hosteleria-en-madrid/`.
+
+### El hallazgo más importante: canibalización confirmada en el Home
+
+La propia hoja heredada de Saúl ya avisaba del riesgo ("URL Pilar Única...
+para evitar la canibalización en el TOP 5") — este escaneo lo confirma
+con datos reales:
+
+| Keyword pilar del Home | Volumen objetivo | Resultado real |
+|---|---|---|
+| **consultoria hosteleria** | 960 (la de mayor volumen de las dos) | **Not Ranked** — invisible, ni siquiera vía otra página |
+| **asesoria hosteleria** | (incluida en los 960) | Rank **5**, pero **vía `/consultoria-hosteleria-en-barcelona/`, no vía el Home** |
+
+Es decir: la keyword de mayor volumen del silo Core no aparece en
+ninguna página, y la segunda sí rankea pero a través de la página local
+de Barcelona, no de la Home que se diseñó como "URL Pilar Única" para
+absorber precisamente este término. Las páginas que de verdad están
+cargando el peso del SEO ahora mismo son
+**`/consultoria-hosteleria-en-madrid/`** y
+**`/consultoria-hosteleria-en-barcelona/`** — acumulan la mayoría de las
+posiciones conseguidas (3, 3, 3, 5, 3, 6, 3, 7, 9, 5, 3, 5... todas estas
+dos URLs), no el Home. Para `seo-arquitectura-web`/`seo-estrategia-senior`:
+hay que decidir si el Home se reoptimiza para recuperar "consultoria
+hosteleria", o se acepta que las páginas locales son las que mejor
+funcionan y se ajusta la estrategia de silos a esa realidad en vez de a
+la hoja original.
+
+### Confirma lo ya visto en Search Console
+
+- **marketing para restaurantes** (700/mes) → Not Ranked. Coincide con
+  las 0 impresiones de septiembre ya reportadas.
+- **como abrir un restaurante** (270/mes) → Not Ranked. Mismo patrón.
+- **consultoria gastronomica** (500/mes) → Not Ranked — coherente con que
+  esa página (`/consultoria-gastronomica/`) todavía no existe.
+
+### 5 keywords con error de escaneo ("Failed.") — hay que relanzarlas
+
+`asesoria laboral con experiencia en hosteleria barcelona`,
+**`asesoria para hosteleria`** (variante cercana a un término pilar del
+Home — esta en particular conviene re-escanearla pronto),
+`consultoria gastronomica barcelona`, `como hacer rentable un
+restaurante`, `plan de negocio cafeteria`.
+
+### Keywords informacionales a vigilar el mes que viene
+
+Todas las de tipo "cómo..." están Not Ranked hoy — normal, el blog
+nuevo no está publicado todavía. Pero varias conectan directo con los 5
+artículos que se publican la semana del 13, así que son las que hay que
+mirar primero en el próximo escaneo para medir el efecto real de
+publicar: `como calcular food cost` / `como calcular escandallos`
+(Tema 5), `como diseñar carta restaurante` (Tema 6), `licencias para
+abrir un restaurante` (Tema 1), `plan appcc restaurante ejemplo`
+(Tema 7).
+
+### Pregunta abierta para Andrea
+
+No veo **"traspaso bar barcelona"** (la keyword de mayor volumen de todo
+el research heredado, 1.600/mes) en los datos que pegaste — ni ninguna
+otra keyword de traspasos. ¿Se cortó el pegado antes de llegar a esa
+parte de la lista, o esta tanda de 102 keywords de RankTank nunca incluyó
+las de traspasos (recordar: RankTank tiene 102, el "Keyword research
+[WIP]" original tiene 145 — no son necesariamente la misma lista)? Si es
+lo segundo, habría que añadir las keywords de traspasos a RankTank para
+la próxima tanda, porque es el gap más importante que ya señaló el
+análisis de competencia.
+
 ## Próxima entrega
 
 Mismo formato, mes de octubre — cadencia mensual ya acordada.
