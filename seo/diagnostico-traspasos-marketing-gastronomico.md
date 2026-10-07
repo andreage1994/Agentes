@@ -4,82 +4,133 @@
 código fuente de las páginas) y no puedo — el proxy de salida de esta
 sesión bloquea el acceso a `thebarnbarconsulting.com` (mismo bloqueo que
 ya habían encontrado los agentes de investigación del blog). Así que esto
-es un checklist para que lo ejecutéis vosotros o quien gestione la web —
-no son pasos teóricos, son los sitios exactos donde mirar, en el orden en
-que conviene descartarlos.
+es un paso a paso para que lo ejecutéis vosotros o quien gestione la web.
 
 ## 1. Inspección de URL en Search Console (el más fiable, empezar aquí)
 
-En Search Console, arriba del todo hay una barra de "Inspeccionar
-cualquier URL". Pega la URL completa (`https://www.thebarnbarconsulting.com/traspasos/`,
-luego repetir con `/marketing-gastronomico/`) y mira:
+**Cómo llegar:**
+1. Entra en [search.google.com/search-console](https://search.google.com/search-console)
+2. Arriba a la izquierda hay un selector de propiedad (el nombre/dominio
+   actual con una flechita) — confirma que está seleccionada la
+   propiedad de `thebarnbarconsulting.com` (puede haber dos tipos de
+   propiedad, dominio y prefijo de URL; si hay varias, prueba con la que
+   use `https://www.thebarnbarconsulting.com`).
+3. **Arriba del todo de la pantalla**, no en el menú lateral, hay una
+   barra de búsqueda larga (suele decir algo como "Inspeccionar
+   cualquier URL en este dominio"). Haz clic ahí.
+4. Pega la URL completa: `https://www.thebarnbarconsulting.com/traspasos/`
+   y pulsa Enter.
+5. Espera unos segundos — Search Console consulta su base de datos.
 
-- **"URL está en Google"** vs. **"URL no está en Google"** — esto solo ya
-  responde a la mitad de la pregunta.
-- Si no está indexada, Search Console da el motivo exacto: "Descubierta,
-  actualmente sin indexar", "Rastreada, actualmente sin indexar",
-  "Bloqueada por robots.txt", "Problema de redirección", etc. — cada uno
-  apunta a una causa distinta, no hace falta adivinar.
-- Abajo, compara **"canonical declarado por el usuario"** contra
-  **"canonical seleccionado por Google"** — si Google ha elegido una URL
-  distinta como canónica (por ejemplo, el Home), significa que Google
-  considera que esta página es "igual" a otra y no la indexa por
-  separado. Esto sería un hallazgo importante si pasa.
-- Si todo está bien pero nunca se ha rastreado, hay un botón
-  **"Solicitar indexación"** justo ahí.
+**Qué mirar en el resultado:**
+- Arriba de todo: un aviso grande que dice **"La URL está en Google"**
+  (con icono verde) o **"La URL no está en Google"** (icono distinto).
+  Esto solo ya responde a media pregunta.
+- Si no está indexada, debajo hay un motivo concreto — algo como
+  "Descubierta: actualmente sin indexar", "Rastreada: actualmente sin
+  indexar", "Bloqueada por robots.txt", "Error de servidor (5xx)" o
+  "Problema de redirección". Anótalo tal cual sale, cada uno significa
+  algo distinto.
+- Haz clic en **"Ver URL rastreada"** o despliega el detalle (suele
+  haber una flecha o un botón "Más información") — ahí aparece la
+  sección de **canonical**: "Canonical declarado por el usuario" y
+  "Canonical seleccionado por Google". Si las dos URLs no coinciden
+  (por ejemplo, Google eligió el Home en vez de `/traspasos/`), ese es
+  un hallazgo importante — significa que Google trata esta página como
+  "duplicada" de otra.
+- Si la página está bien pero nunca se ha rastreado, hay un botón
+  **"Solicitar indexación"** en la parte superior derecha del resultado
+  — haz clic y espera (puede tardar desde minutos a días en reflejarse).
+- **Repite exactamente los mismos pasos 3-5 con la segunda URL**:
+  `https://www.thebarnbarconsulting.com/marketing-gastronomico/`.
 
 ## 2. Comprobación rápida manual: `site:`
 
-En Google, buscar `site:thebarnbarconsulting.com/traspasos/` (y lo mismo
-para marketing-gastronomico). Si no sale nada, confirma que no está
-indexada, independientemente de lo que diga Search Console.
+No hace falta ninguna herramienta especial. Abre Google normal (google.com)
+y escribe, tal cual, en la barra de búsqueda:
+
+```
+site:thebarnbarconsulting.com/traspasos/
+```
+
+Pulsa Enter. Si no sale ningún resultado, confirma que no está indexada
+(con independencia de lo que diga Search Console — es un segundo chequeo
+rápido). Repite con `site:thebarnbarconsulting.com/marketing-gastronomico/`.
 
 ## 3. Ver el código fuente de cada página
 
-Clic derecho sobre la página en el navegador → "Ver código fuente" (o
-`Ctrl+U`). Buscar (`Ctrl+F` dentro del código):
-
-- `noindex` — si aparece un `<meta name="robots" content="noindex">`,
-  ahí está la causa: la propia página le está diciendo a Google que no
-  la indexe.
-- `canonical` — comprobar que el `<link rel="canonical" href="...">`
-  apunta a la propia URL de la página, no a otra distinta.
+1. Abre la página real en el navegador:
+   `thebarnbarconsulting.com/traspasos/`
+2. Clic derecho en cualquier zona vacía de la página (no sobre una
+   imagen ni un enlace) → en el menú que aparece, elige **"Ver código
+   fuente de la página"** (en Chrome en inglés a veces dice "View Page
+   Source"). También funciona el atajo `Ctrl+U` (o `Cmd+U` en Mac).
+3. Se abre una pestaña nueva llena de código HTML. Ahí dentro, pulsa
+   `Ctrl+F` (buscador del navegador) y escribe **`robots`**.
+   - Si encuentras una línea tipo
+     `<meta name="robots" content="noindex">` — ahí está la causa: la
+     propia página le dice a Google que no la indexe.
+4. Busca también **`canonical`** con el mismo buscador — mira la URL
+   que aparece dentro de `<link rel="canonical" href="...">`. Tiene que
+   ser la propia URL de la página (`/traspasos/`), no otra distinta.
+5. Repite los pasos 1-4 con `/marketing-gastronomico/`.
 
 ## 4. robots.txt del sitio
 
-Entrar en `thebarnbarconsulting.com/robots.txt` directamente en el
-navegador. Buscar alguna línea `Disallow:` que incluya `/traspasos/` o
+Escribe directamente en la barra de direcciones del navegador (no en el
+buscador de Google):
+
+```
+thebarnbarconsulting.com/robots.txt
+```
+
+Se abre un archivo de texto simple. Busca (`Ctrl+F`) líneas que empiecen
+por `Disallow:` y comprueba si alguna incluye `/traspasos/` o
 `/marketing-gastronomico/` — si está ahí, Google tiene prohibido
 rastrear esa carpeta entera.
 
 ## 5. Sitemap
 
-Entrar en `thebarnbarconsulting.com/sitemap.xml` (o `sitemap_index.xml`
-si redirige a varios). Confirmar que ambas URLs aparecen listadas. Si no
-están, Google tiene menos señal para priorizarlas — no es necesariamente
-la causa única, pero ayuda añadirlas si faltan.
+Igual que el paso anterior, en la barra de direcciones:
+
+```
+thebarnbarconsulting.com/sitemap.xml
+```
+
+Si no carga nada o da error, prueba `thebarnbarconsulting.com/sitemap_index.xml`
+(algunos sitios reparten el sitemap en varios ficheros). Una vez abierto,
+busca (`Ctrl+F`) "traspasos" y "marketing-gastronomico" — confirma que
+ambas URLs aparecen listadas ahí.
 
 ## 6. Enlazado interno
 
-En Search Console → **Enlaces** → **Enlaces internos**, buscar cuántos
-enlaces internos tiene cada una de las dos URLs. Si el número es muy bajo
-o cero, son "páginas huérfanas" — nada del propio sitio apunta a ellas,
-lo que las hace más difíciles de descubrir y rastrear para Google,
-incluso si no hay ningún bloqueo técnico.
+1. Dentro de Search Console, en el **menú lateral izquierdo**, busca la
+   sección **"Enlaces"** (a veces aparece como "Links").
+2. Dentro, hay dos bloques: "Enlaces externos" y **"Enlaces internos"**
+   — entra en el segundo.
+3. Sale una tabla de páginas con el número de enlaces internos que
+   recibe cada una. Busca `/traspasos/` y `/marketing-gastronomico/` en
+   esa lista (puede haber un buscador arriba de la tabla).
+4. Si el número es muy bajo o no aparecen en absoluto, son "páginas
+   huérfanas" — nada del propio sitio apunta a ellas, lo que las hace
+   más difíciles de encontrar para Google incluso sin ningún bloqueo
+   técnico.
 
-## 7. Si todo lo anterior está limpio: revisar el contenido on-page
+## 7. Si todo lo anterior sale limpio: contenido on-page
 
-Si la página está indexada, no tiene noindex, el canonical es correcto y
-tiene enlaces internos, pero aun así no aparece para su keyword
-objetivo, el problema ya no es técnico — es que el contenido real de la
-página (Title, H1, cuerpo del texto) no usa literalmente la keyword
-objetivo de la forma en que la define el research heredado de Saúl
-(`investigacion-heredada/roadmap-y-keyword-research.md`, columnas
-Title/H1/Meta Descripción de cada URL). Comparar lo que hay publicado
-hoy contra esas recomendaciones.
+Si llegas aquí sin encontrar nada (indexada, sin noindex, canonical
+correcto, con enlaces internos), el problema ya no es técnico — es que
+el contenido real de la página no usa la keyword objetivo de la forma
+en que la define el research heredado. Para esto no hace falta que
+entres en ningún sitio nuevo: simplemente dime qué Title (lo que sale en
+la pestaña del navegador) y qué H1 (el titular grande visible) tiene
+cada página ahora mismo, y yo lo comparo directamente contra lo que
+recomienda `investigacion-heredada/roadmap-y-keyword-research.md` para
+esas dos URLs — ya tengo ese documento.
 
 ## Resumen del orden de diagnóstico
 
 1 y 2 dicen si está indexada. 3 y 4 dicen si algo lo está bloqueando
 explícitamente. 5 y 6 dicen si Google tiene forma de encontrarla. 7 solo
-hace falta mirarlo si los 6 anteriores salen limpios.
+hace falta mirarlo si los 6 anteriores salen limpios — y para ese, solo
+necesitas decirme lo que ves, lo reviso yo.
