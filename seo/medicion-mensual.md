@@ -173,6 +173,68 @@ lo segundo, habría que añadir las keywords de traspasos a RankTank para
 la próxima tanda, porque es el gap más importante que ya señaló el
 análisis de competencia.
 
+## RankTank — segundo escaneo (2026-10-07 11:39, PDF completo con las 102)
+
+Andrea pasó el export completo en PDF. Cambia la lectura del escaneo
+anterior en un punto metodológico importante — léase esto antes que las
+cifras.
+
+### Aviso metodológico: este escaneo tiene localización fijada en Barcelona
+
+El export dice explícitamente **"Location (UULE): Barcelona, Catalonia,
+Spain"** — no estaba así (o no era visible) en el escaneo anterior. Esto
+significa que Google se consultó **como si la búsqueda se hiciera físicamente
+desde Barcelona**, lo que favorece de forma natural a la página de
+Barcelona frente al Home o a la página de Madrid. Por eso:
+
+- **"consultoria hosteleria"** (960/mes, la keyword de mayor volumen del
+  Home) pasó de **"Not Ranked"** en el escaneo anterior a **posición 1**
+  en este — pero vía `/consultoria-hosteleria-en-barcelona/`, no vía el
+  Home. No es que se haya arreglado nada entre un escaneo y otro: es que
+  estamos midiendo desde una ubicación distinta, que favorece
+  sistemáticamente a esa página.
+- Esto significa que **el escaneo anterior (sin Barcelona fijada) y este
+  no son directamente comparables**, y que para evaluar de verdad si hay
+  canibalización entre el Home y las páginas locales hace falta repetir
+  el escaneo sin ubicación fija (visión nacional) y, ya que TBNB opera en
+  las dos ciudades, otra tanda con Madrid fijado — si no, cualquier
+  lectura está sesgada hacia Barcelona.
+
+### Lo que sí se sostiene con este escaneo
+
+- La página de Barcelona (`/consultoria-hosteleria-en-barcelona/`) es,
+  vista desde Barcelona, la que más posiciones reales acumula del sitio
+  (consultoria hosteleria #1, consultoria de hosteleria #1, consultor de
+  restaurantes #7, consultoria restaurantes #3, asesoria de restaurantes
+  #9, entre otras) — confirma que esa página funciona bien a nivel local,
+  con independencia del matiz de medición.
+- Las páginas de Madrid siguen apareciendo correctamente para las
+  búsquedas que incluyen "madrid" en el propio término (consultoria
+  hosteleria madrid #2, asesoria hosteleria madrid #2, consultor
+  hosteleria madrid #2) — eso no depende del sesgo de ubicación del
+  escaneo, es coherente en ambas tandas.
+- Confirmado otra vez: **ninguna keyword de traspasos** aparece en las
+  102 de RankTank — no se cortó el pegado la vez anterior, esta lista
+  nunca las incluyó. Sigue pendiente añadirlas.
+
+### Problema nuevo: muchas más keywords "Failed" que en el escaneo anterior
+
+En el primer escaneo fallaron 5 keywords. En este fallan más de 50 —
+incluida **"asesoria hosteleria"** (la otra mitad del término pilar del
+Home, sin dato fiable en los dos escaneos) y, más raro, **"consultoria
+bar"**, que en el escaneo anterior sí tenía dato real (posición 1 vía
+Home) y aquí aparece como Failed. Esto no es un cambio real de
+posicionamiento — es un problema de fiabilidad del escaneo/proxy de
+RankTank en esta tanda. Recomendación: relanzar el escaneo de las
+keywords marcadas Failed antes de sacar conclusiones sobre ellas.
+
+### Para el próximo escaneo
+
+1. Relanzar sin ubicación fija (o alternar Madrid/Barcelona en tandas
+   separadas) para una lectura comparable.
+2. Relanzar las keywords que dieron "Failed." esta vez.
+3. Añadir las keywords de traspasos a la lista de 102.
+
 ## Próxima entrega
 
 Mismo formato, mes de octubre — cadencia mensual ya acordada.

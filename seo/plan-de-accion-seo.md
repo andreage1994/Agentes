@@ -20,16 +20,17 @@ y `pagina-web/estado.md`. Cada punto dice en qué dato real se apoya.
 Nada de esto es crear contenido nuevo — es SEO técnico/on-page sobre
 páginas que ya están construidas.
 
-1. **Resolver la canibalización del Home.** "Consultoria hosteleria"
-   (960/mes, la keyword de mayor volumen del Home) no rankea en ninguna
-   página. "Asesoria hosteleria" sí rankea, pero vía la página de
-   Barcelona, no vía el Home que se diseñó como "URL Pilar Única" para
-   absorberla. Decisión a tomar: reoptimizar el Home para recuperar su
-   keyword principal, o aceptar que las páginas locales
-   (Madrid/Barcelona) son las que de verdad funcionan y redirigir el
-   enlazado interno/autoridad hacia ellas en vez de pelear contra lo que
-   ya funciona. — *Dato: RankTank, `medicion-mensual.md`.* Responsable:
-   `seo-arquitectura-web`.
+1. **Resolver la (posible) canibalización del Home — pendiente de un
+   escaneo limpio antes de decidir nada.** El primer escaneo de RankTank
+   mostraba "consultoria hosteleria" (960/mes) sin rankear en ninguna
+   página; el segundo, hecho con la ubicación fijada en Barcelona, la
+   muestra en posición 1 pero vía la página de Barcelona, no vía el Home.
+   Los dos escaneos no son comparables entre sí (uno mide desde Barcelona,
+   el otro no tenía ubicación fija) — antes de decidir si se reoptimiza
+   el Home o se acepta que las páginas locales son las que funcionan,
+   hace falta relanzar RankTank sin ubicación fija (o con Madrid y
+   Barcelona por separado) para tener una lectura real. Ver el detalle
+   metodológico en `medicion-mensual.md`. Responsable: `seo-arquitectura-web`.
 2. **Investigar por qué `/traspasos/` y `/marketing-gastronomico/` tienen
    cero impresiones**, pese a existir y recibir tráfico real (Traspasos
    tuvo 57 vistas en septiembre). No es un problema de posición, es que
