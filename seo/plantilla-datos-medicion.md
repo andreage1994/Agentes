@@ -81,31 +81,41 @@ Barcelona, esto hace que cualquier dato que devuelva no sirva — compara
 contra el Google.com en inglés de EEUU, no contra el Google.es en
 español que ve un cliente real.
 
-**Cómo corregirlo:** quien tenga acceso a ese Google Sheet debe abrir el
-add-on RankTank (menú de complementos dentro del propio Sheet) y cambiar,
-en la configuración del proyecto/pestaña "RankTank-3":
-- **Locale:** Spain (o, si la herramienta permite nivel de ciudad, Madrid
-  — mejor aún si permite configurar también Barcelona como ubicación
-  secundaria, dado que TBNB opera en las dos).
-- **Language:** Spanish / Español.
+**Actualización (2026-10-07) — ya revisado directamente en el Sheet que
+Andrea compartió** (`2026_The Bar N Bar_Roadmap y primeros accionables`,
+pestaña **"RankTank-3"**): la configuración no está dentro de un panel
+de complemento, son **celdas normales de la hoja**:
 
-Después de corregir el locale, hay que lanzar el escaneo (usa créditos
-de la cuenta — ahora mismo hay 0 usados, así que no se ha gastado nada
-todavía).
+| Celda | Campo | Valor actual |
+|---|---|---|
+| D2 | Locale | United States |
+| E2 | Language | English |
 
-### Qué necesito exactamente si queréis que yo acceda
+(C2 tiene el dominio correcto, `https://www.thebarnbarconsulting.com/`;
+F2 Device = Desktop; G2 Depth = Default depth — esos dos no hace falta
+tocarlos.)
 
-Importante ser honesto sobre el límite real: **aunque me deis acceso al
-Google Sheet, no puedo abrir el menú del complemento RankTank ni tocar
-sus desplegables de Locale/Language** — esa configuración vive dentro de
-la interfaz propia del add-on (un panel que se abre dentro de Google
-Sheets), y no tengo una herramienta en este entorno que pueda interactuar
-con esa interfaz. Es un clic de 2 minutos para quien ya tenga el Sheet
-abierto — no hace falta dármelo a mí para esa parte concreta.
+**Cómo corregirlo:** abrir esa celda D2 y cambiar "United States" por
+"Spain" (puede que sea un desplegable de validación de datos, no texto
+libre — si al hacer clic sale una lista, elegir Spain de ahí). Lo mismo
+en E2: cambiar "English" por "Spanish"/"Español". Son 2 celdas, literal
+un par de clics. Después, lanzar el escaneo desde el menú del
+complemento RankTank (`Extensiones` en la barra de Google Sheets) — usa
+créditos de la cuenta, ahora mismo 0 usados, nada gastado todavía.
 
-Lo que sí puedo hacer si me compartís el Sheet (con la herramienta de
-Google Drive, acceso de lectura basta): confirmar la lista de 102
-keywords ya cargadas, leer los resultados una vez alguien lance el
-escaneo con el locale ya corregido, y ahorraros el paso de exportar/
-pegarme los datos a mano cada mes. Si queréis eso, compartid el archivo
-(o pasadme el enlace) y lo repaso.
+**Sobre si puedo hacerlo yo directamente:** ya tengo acceso de lectura al
+Sheet (me lo compartiste) y confirmo que `info@thebarnbarconsulting.com`
+ya figura como editor del archivo — el permiso no es el problema. El
+límite es de herramienta: con el conector de Google Drive que tengo en
+esta sesión puedo leer el contenido de la hoja, pero no tengo una
+función para escribir/editar celdas dentro de un Sheet (solo leer,
+renombrar o mover el archivo). Así que, aunque el acceso ya está, no
+puedo cambiar esas dos celdas yo mismo — necesita que alguien con el
+Sheet abierto lo haga a mano, literalmente 10 segundos una vez localizada
+la celda.
+
+Lo que sí puedo seguir haciendo con el acceso de lectura que ya tengo:
+confirmar el listado de 102 keywords cargadas (coincide con el research
+heredado) y, en cuanto alguien corrija el locale y lance el escaneo, leer
+yo mismo los resultados directamente del Sheet cada mes — os ahorráis
+exportar/pegarme los datos de RankTank a mano.
