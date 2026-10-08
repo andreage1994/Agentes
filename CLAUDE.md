@@ -50,6 +50,11 @@ Gmail, Google Calendar, Google Drive, Asana (gestión de proyectos y leads), Odo
 - `bar-method-interno/` — revisiones y decisiones operativas internas sobre
   el propio sistema BAR Method (índices de entregables, políticas de
   trabajo con clientes), no entregables de cliente.
+- `estrella-polar-tbnb.md` — estrella polar y objetivos de negocio de TBNB
+  (no de un cliente), confirmados por Sergio y Andrea.
+- `estrategia-marketing-general.md` — cómo los 7 canales de marketing de
+  TBNB sirven a la estrella polar: objetivo y público por canal, qué no
+  es prioridad, huecos de información todavía abiertos.
 - `marketing-tbnb-estado.md` — panel de estado del propio marketing de
   TBNB (no de un cliente): canales, equipo, bloqueantes y huecos de
   información, con enlace al dashboard.

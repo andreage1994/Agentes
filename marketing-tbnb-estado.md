@@ -30,7 +30,8 @@ Potential Spotting, email marketing y GMB se miden por captación/
 conversión directa; Hospitality Report, LinkedIn e Instagram siguen
 construyendo autoridad con su propio tono, pero como palanca hacia
 captación (reconocimiento que genera conversaciones inbound), no como
-objetivo final de la pieza.
+objetivo final de la pieza. Reparto completo, canal por canal, en
+`estrategia-marketing-general.md`.
 
 ## Lectura como analista de marketing
 
