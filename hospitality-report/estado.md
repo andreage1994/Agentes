@@ -1043,9 +1043,13 @@ viralidad sin sistema y no la viralidad en sí.
 
 Andrea pide definir estrategia de marketing + retroplanning para el
 lanzamiento. Decisiones tomadas: objetivo principal **autoridad de marca**
-(no leads como objetivo directo), distribución **gated** (PDF completo a
-cambio de email — conecta con el pendiente de lead magnets de
-`seo/estado.md`), lanzamiento **antes de fin de 2026**. Detalle completo,
+en el contenido (no leads como objetivo directo de lo que se lee),
+distribución **gated** (PDF completo a cambio de email — conecta con el
+pendiente de lead magnets de `seo/estado.md`), lanzamiento **antes de fin
+de 2026**. **Confirmado como coherente el 2026-10-08** con la estrella
+polar general de TBNB (`estrella-polar-tbnb.md`): captación y conversión
+primero, autoridad como herramienta — el gate es justamente eso en
+práctica, no una excepción al objetivo general. Detalle completo,
 calendario semana a semana y huecos de responsable (diseño del PDF, montaje
 de landing/gate) en `retroplanning-2026-h2.md`. Hallazgo clave de esa
 revisión: la redacción de la edición **ya está completa** (`ediciones/2026-H2/

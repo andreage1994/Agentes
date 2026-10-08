@@ -2,8 +2,11 @@
 
 **Pedido por Andrea, 2026-10-08.** Decisiones ya cerradas con ella para construir
 este plan:
-- **Objetivo:** autoridad de marca como peso principal (no leads cualificados como
-  objetivo directo).
+- **Objetivo:** autoridad de marca como peso principal del contenido (no leads
+  cualificados como objetivo directo de lo que se lee). Coherente con la
+  estrella polar general de TBNB confirmada el 2026-10-08
+  (`estrella-polar-tbnb.md`): captación y conversión primero, autoridad como
+  herramienta — por eso el gate de abajo, no a pesar de él.
 - **Formato de distribución:** gated — PDF completo a cambio de email. Conecta
   directamente con el pendiente ya abierto en `seo/estado.md` ("especificar los
   lead magnets como imán de newsletter") — este informe puede ser ese imán.

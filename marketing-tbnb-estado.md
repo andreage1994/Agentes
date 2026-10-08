@@ -15,6 +15,23 @@ Construido con datos reales ya documentados en el repo (no estimados):
 documentos. Donde no hay dato real (métricas de alcance, tráfico,
 conversión), el panel lo marca como hueco en vez de rellenarlo.
 
+## Estrella polar y objetivo del marketing — resuelto (2026-10-08)
+
+Sergio y Andrea cerraron la estrella polar de TBNB: **número de clientes
+activos de valor**, con 3 objetivos de apoyo a 12 meses (captación,
+ticket medio, conversión del CRM) y 3 cosas explícitamente fuera de
+prioridad (rentabilidad, expansión internacional, proyectos de bajo valor
+estratégico). Detalle completo en `estrella-polar-tbnb.md`.
+
+Esto destraba directamente el **paso 2** de más abajo: **el objetivo del
+marketing es primero captación y conversión; la autoridad de marca es
+herramienta para conseguirlas, no un fin en sí mismo.** En la práctica:
+Potential Spotting, email marketing y GMB se miden por captación/
+conversión directa; Hospitality Report, LinkedIn e Instagram siguen
+construyendo autoridad con su propio tono, pero como palanca hacia
+captación (reconocimiento que genera conversaciones inbound), no como
+objetivo final de la pieza.
+
 ## Lectura como analista de marketing
 
 **Lo que ya existe, funciona como sistema.** TBNB tiene 7 canales/proyectos
@@ -48,11 +65,11 @@ ningún dashboard de marketing puede evolucionar de "mapa de estructura" a
 
 1. **Resolver el acceso a medición** (GA4, Search Console, métricas de RRSS)
    — ya documentado como bloqueante en `seo/estado.md`, es la decisión que
-   más desbloquea.
-2. **Fijar el objetivo de negocio del marketing** — leads cualificados,
-   autoridad de marca, o ambos con qué peso — para poder priorizar entre
-   los 7 canales con criterio.
-3. **Asignar un responsable humano de analítica.**
+   más desbloquea. Sigue siendo el único de los 3 sin resolver.
+2. ~~Fijar el objetivo de negocio del marketing~~ — **resuelto 2026-10-08**,
+   ver arriba y `estrella-polar-tbnb.md`.
+3. **Asignar un responsable humano de analítica** — ya puede avanzar en
+   cuanto se resuelva el paso 1 (dependía de los dos).
 
 ## Huecos de información pendientes de Andrea/Sergio
 
@@ -60,7 +77,7 @@ Replicados del panel (ahí quedan marcables con checkbox, por viewer, sin
 que se guarde en el repo):
 
 - Métricas actuales por canal (seguidores, alcance, engagement, tráfico).
-- Objetivo de negocio del marketing.
+- ~~Objetivo de negocio del marketing~~ — resuelto 2026-10-08, ver arriba.
 - Presupuesto.
 - Público objetivo preciso (¿mismo perfil que Potential Spotting, o más
   amplio?).
@@ -90,17 +107,11 @@ contratar se retoma al cierre del paso 3.
   momento** (regla de la casa) — este paso es recuperar acceso a lo que
   ya existe, no dar de alta herramientas nuevas.
 
-**Paso 2 — Fijar el objetivo de negocio del marketing**
-- Qué: una decisión corta entre Andrea y Sergio — ¿el marketing de TBNB
-  busca leads cualificados, autoridad de marca, o ambos con qué peso? Y,
-  con eso decidido, qué canal de los 7 sirve principalmente a cuál
-  objetivo (p. ej. Potential Spotting y email → leads directos;
-  Hospitality Report y LinkedIn → autoridad; Instagram/GMB → mixto).
-- Quién: Andrea + Sergio. Es una decisión de dirección, no algo que se
-  pueda inferir de los documentos ya existentes.
-- Entregable: 3-4 frases por escrito (puede ser una nota corta en este
-  mismo documento) fijando el objetivo y el peso por canal.
-- Puede hacerse en paralelo al paso 1 — no dependen entre sí.
+**Paso 2 — Fijar el objetivo de negocio del marketing — ✅ resuelto 2026-10-08**
+- Resultado: estrella polar = número de clientes activos de valor;
+  objetivo del marketing = captación y conversión primero, autoridad de
+  marca como herramienta para conseguirlas. Detalle y reparto por canal
+  en `estrella-polar-tbnb.md` y en la nota de arriba.
 
 **Paso 3 — Asignar un responsable humano de analítica**
 - Qué: decidir quién posee la analítica de marketing de forma continua —
@@ -113,12 +124,14 @@ contratar se retoma al cierre del paso 3.
   el objetivo (paso 2) ya resueltos, se puede valorar con criterio si
   hace falta una persona nueva (interna o consultor externo) o si el
   equipo actual puede absorberlo.
-- Depende de los pasos 1 y 2 — no tiene sentido asignarlo antes, porque
-  no habría ni datos ni objetivo sobre los que trabajar.
+- Dependía de los pasos 1 y 2. El paso 2 ya está resuelto — solo queda
+  esperar al paso 1 (acceso a medición) para tener datos reales sobre los
+  que trabajar.
 
-**Orden recomendado:** 1 y 2 en paralelo esta semana → 3 en la siguiente,
-con la decisión de contratar (o no) como resultado directo de cómo quede
-el paso 3, no como un paso aparte.
+**Orden recomendado:** con el paso 2 ya cerrado, queda resolver el paso 1
+(acceso a medición) para poder encarar el paso 3, con la decisión de
+contratar (o no) como resultado directo de cómo quede ese paso, no como
+uno aparte.
 
 ## Siguiente actualización
 
