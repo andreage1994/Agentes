@@ -87,6 +87,10 @@ se la hagan a sí mismos de pasada.
 - `fuentes-inspo.md` — medios y fuentes de referencia para la investigación.
 - `estado.md` — en qué fase va la edición en curso.
 - `ediciones/<año>-<H1|H2>/` — el reporte redactado de cada edición semestral.
+- `retroplanning-2026-h2.md` — calendario operativo hacia atrás desde el
+  lanzamiento de la edición H2 2026: qué falta entre el texto ya redactado y
+  el PDF publicado (diseño, gate de email, distribución), y quién lo tiene
+  asignado hoy.
 
 **Nota para Andrea:** he traído la matriz temática y la plantilla desde Drive como
 punto de partida. A partir de ahora, ¿prefieres que este repositorio sea la versión

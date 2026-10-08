@@ -1039,6 +1039,20 @@ hacia la pregunta ya afilada — redacción decide dónde encaja mejor.
 TBNB TAKE del Shift 3, con el matiz explícito de que el riesgo es la
 viralidad sin sistema y no la viralidad en sí.
 
+## Marketing y lanzamiento de la edición H2 2026 (2026-10-08)
+
+Andrea pide definir estrategia de marketing + retroplanning para el
+lanzamiento. Decisiones tomadas: objetivo principal **autoridad de marca**
+(no leads como objetivo directo), distribución **gated** (PDF completo a
+cambio de email — conecta con el pendiente de lead magnets de
+`seo/estado.md`), lanzamiento **antes de fin de 2026**. Detalle completo,
+calendario semana a semana y huecos de responsable (diseño del PDF, montaje
+de landing/gate) en `retroplanning-2026-h2.md`. Hallazgo clave de esa
+revisión: la redacción de la edición **ya está completa** (`ediciones/2026-H2/
+contenido.md`, 11/11 secciones) — el cuello de botella real para publicar no
+es contenido, es diseño/maquetación visual y el montaje técnico del gate,
+ninguno de los dos con responsable asignado todavía.
+
 ## Pendiente de decisión con Andrea
 
 - Confirmar si el permiso de Lady Madrid cubre también el Hospitality Report.
