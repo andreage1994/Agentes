@@ -99,9 +99,18 @@ contratar se retoma al cierre del paso 3.
   (ya marcado como bloqueante en `seo/estado.md`), a los insights nativos
   de Instagram/LinkedIn/Google My Business, y a los informes de Mailchimp
   del email marketing.
+- **Opciones concretas investigadas (2026-10-08):** no existe un conector
+  1:1 para GA4 o Search Console por separado. **Mailchimp** tiene conector
+  nativo directo. **Supermetrics Marketing Analytics** agrega GA4,
+  Meta/Instagram, LinkedIn, TikTok, YouTube y 200+ fuentes en un solo
+  conector — es el puente real para todo lo demás (puede tener coste de
+  suscripción propio, a confirmar). Alternativa gratis mientras se decide:
+  exportar CSVs manualmente de cada plataforma y subirlos a Google Drive
+  (ya conectado). Detalle en `estrategia-marketing-general.md`, sección 6.
 - Quién: Sergio — es quien lleva IT/Admin según el reparto de la casa
   (`CLAUDE.md`), y por tanto quien tiene o puede recuperar los accesos de
-  las cuentas.
+  las cuentas. Conectar un conector nuevo se hace desde claude.ai →
+  Ajustes → Conectores, con las credenciales reales de TBNB.
 - Entregable: una lista de qué canal tiene acceso y cuál no, en una
   semana. No hace falta analizar nada todavía, solo tener la llave.
 - **No se conecta ninguna cuenta nueva sin pedirlo explícitamente en el
