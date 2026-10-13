@@ -1,120 +1,113 @@
 # Estrategia y Modelo Operativo — Lady Madrid
 
-*Documento interno de formación. Define la filosofía y la base operativa
-de Lady Madrid — el punto de partida para entender por qué hacemos las
-cosas como las hacemos, antes de entrar en el detalle de cada proceso.*
+*Este documento recoge la filosofía y la forma de trabajar de Lady
+Madrid. No es un manual de normas frío: es la base que explica por qué
+hacemos las cosas como las hacemos, para que cualquiera que se incorpore
+al equipo entienda el espíritu antes que la norma.*
 
 ---
 
 ## 2. Filosofía operativa
 
-### a. Principios operativos
+### a. Nuestros principios
 
-Nuestros principios tienen dos niveles, y el orden importa: el primero
-decide **cómo tratamos a las personas** — y va antes que cualquier otra
-cosa, antes incluso que la marca.
+Antes de hablar de turnos, cartas o procesos, hablamos de cómo tratamos
+a las personas que entran por la puerta. Todo lo demás se apoya en esto.
 
-**Primero, cómo tratamos a las personas:**
-- **Calidez.** El trato se siente humano, no protocolario.
-- **Cercanía.** Nos dirigimos a la persona, no "a la mesa 4".
-- **Amabilidad.** Por defecto — incluso cuando el cliente no lo es.
+Hay un orden, y no es casualidad. Lo primero es **cómo tratamos a las
+personas** — eso va antes incluso que la marca:
 
-**Después, lo que nos distingue como marca:**
-- *Producto:* calidad del café y del producto, tostado propio, **obrador
-  propio** (bollería y pastelería elaborada por nosotros, no comprada),
-  oferta gastronómica cuidada.
-- *Experiencia:* experiencia de cliente, imagen de marca.
-- *Operación:* limpieza y orden, procesos claros, estandarización.
-- *Negocio:* rentabilidad, capacidad de crecimiento.
+- **Calidez.** Que el trato se sienta humano, no de trámite.
+- **Cercanía.** Nos dirigimos a la persona que tenemos delante, no "a la
+  mesa 4".
+- **Amabilidad.** Por defecto, incluso en un mal día — del cliente o
+  nuestro.
+
+Después viene lo que nos distingue como marca:
+
+- **Producto:** la calidad del café, el tostado propio, el obrador
+  propio (la bollería y la pastelería se hacen aquí, no se compran
+  hechas) y una oferta gastronómica cuidada.
+- **Experiencia:** cómo vive el cliente su paso por Lady Madrid, y la
+  imagen que se lleva de la marca.
+- **Operación:** limpieza, orden y procesos claros — que las cosas
+  funcionen igual de bien se note o no se note quién está detrás.
+- **Negocio:** rentabilidad y capacidad de crecer.
 
 Si alguna vez hay que elegir entre quedar bien con la marca o quedar
 bien con la persona que tenemos delante, elegimos a la persona. Por eso
-este orden no es casualidad.
+este orden no es casualidad: lo primero siempre son las personas.
 
-### b. Nivel de hospitalidad
+### b. Qué tipo de hospitalidad somos
 
-**Qué tipo de hospitalidad somos.** En Lady Madrid, la atención al
-cliente no es un trámite — es la herramienta con la que construimos
-comunidad, fidelizamos y nos diferenciamos como marca. Somos una
-**cafetería de especialidad con servicio en mesa**, sin la formalidad de
-un restaurante de alta cocina, pero con la misma exigencia: todo cliente
-merece una experiencia personalizada y excelente, **independientemente
-de su estado de ánimo o disposición** — no decidimos cuánto nos
-esforzamos según lo que el cliente nos devuelve.
+En Lady Madrid, atender bien a un cliente no es una tarea más del
+turno — es la forma en la que construimos comunidad, conseguimos que la
+gente vuelva, y nos diferenciamos de cualquier otra cafetería de la
+zona. Somos una cafetería de especialidad con servicio en mesa, sin la
+formalidad de un restaurante de alta cocina, pero con una exigencia muy
+clara: **todo cliente merece una experiencia cuidada, le pille como le
+pille el día.** No decidimos cuánto nos esforzamos según lo que el
+cliente nos devuelve.
 
-Esto se traduce en dos tensiones que sostenemos a la vez, no una u otra:
-- **Atentos pero eficientes.** Se nota que hay alguien pendiente de la
-  mesa, sin que eso signifique esperar.
+Esto se traduce en dos cosas que tienen que convivir, no una u otra:
+
+- **Atentos pero eficientes.** Que se note que hay alguien pendiente de
+  la mesa, sin que eso signifique esperar.
 - **Cercanos pero no intrusivos.** Trato cálido y personal, sin invadir
-  el momento del cliente.
+  el momento de cada cliente.
 
-**Principios de hospitalidad — de los valores a la práctica.** Los
-principios operativos (a) dicen **qué somos**. Estos principios dicen
-**cómo se nota** en cada turno — son la base de los estándares, el guion
-de servicio y los procedimientos que vienen más adelante en este
-documento.
+**De los valores a lo que pasa en cada turno.** Los principios de arriba
+dicen quiénes somos. Lo que viene ahora son siete ideas muy concretas
+que explican cómo se nota eso en el día a día — son la base de todo lo
+demás que viene en este documento: los estándares, el recorrido de
+servicio, cómo tratamos una queja.
 
-1. **Somos anfitriones antes que camareros.**
-   Recibimos a cada persona como se recibe a alguien en casa: con
-   acogida genuina, no solo con una mesa libre. Si es la primera vez que
-   nos visita, le explicamos qué es Lady Madrid — el café de
-   especialidad, el tostado propio, **el obrador propio** (la bollería y
-   los brioches no se compran, se hacen aquí) — y le acompañamos a elegir
-   en la carta, no solo tomamos nota. Ser el host perfecto es parte del
-   servicio, no un extra opcional.
-   *→ Se aplica en: bienvenida y acomodo, presentación de la carta
-   (guion de servicio), conocimiento de producto.*
+**Somos anfitriones antes que camareros.** Recibimos a cada persona como
+se recibe a alguien en casa: con una acogida de verdad, no solo con una
+mesa libre. Si es la primera vez que nos visita, aprovechamos para
+contarle qué es Lady Madrid — el café de especialidad, que tostamos
+nosotros mismos, el obrador propio — y le acompañamos a elegir en la
+carta en lugar de limitarnos a tomar nota. Ser un buen anfitrión es
+parte del servicio, no un detalle bonito de más.
 
-2. **La atención no depende del cliente — depende de nosotros.**
-   Mantenemos el mismo nivel de atención con un cliente desganado o
-   serio que con uno abierto. No forzamos cercanía, pero nunca
-   retiramos disponibilidad.
-   *→ Se aplica en: gestión de clientes difíciles, guion de servicio.*
+**La atención no depende del cliente, depende de nosotros.** Con un
+cliente desganado o serio mantenemos el mismo nivel de atención que con
+uno abierto y hablador. No forzamos la cercanía si no la piden, pero
+tampoco retiramos la disponibilidad.
 
-3. **Todo comunica, todo suma.**
-   El espacio es una extensión de la atención: limpieza, orden, música,
-   iluminación. El servicio empieza antes de que alguien hable con el
-   cliente.
-   *→ Se aplica en: checklist de apertura/cierre, estándares de
-   limpieza.*
+**Todo comunica, todo suma.** El espacio también atiende: la limpieza,
+el orden, la música, la luz. El servicio empieza antes de que nadie
+diga una palabra.
 
-4. **Si no conocemos el producto, no podemos venderlo.**
-   Cada persona del equipo debe poder explicar qué hace especial a
-   nuestro café — no es un dato curioso, es parte del servicio y de por
-   qué cobramos lo que cobramos. Conecta directamente con el principio
-   1: ser el host perfecto empieza por conocer lo que se ofrece.
-   *→ Se aplica en: formación de producto, sugerencia de novedades,
-   upselling/cross-selling.*
+**Si no conocemos el producto, no podemos venderlo.** Cualquier persona
+del equipo tiene que poder explicar qué hace especial a nuestro café —
+no es un dato curioso para lucirse, es parte del servicio y de por qué
+cobramos lo que cobramos. Y conecta directamente con lo anterior: ser un
+buen anfitrión empieza por conocer bien lo que se ofrece.
 
-5. **La calma no se nota desde fuera — el caos sí.**
-   En relevo de turno o en hora punta, el cliente no debe notar la
-   presión interna. Se prioriza, se avisa de los retrasos con claridad,
-   se coordina en equipo.
-   *→ Se aplica en: comportamiento en alta afluencia, gestión de turnos.*
+**La calma no se nota desde fuera — el caos sí.** En un relevo de turno
+o en la hora punta, el cliente no tiene por qué notar la presión que
+hay por dentro. Se prioriza, se avisa si algo va a tardar, y el equipo
+se coordina entre sí.
 
-6. **Un problema no se discute — se resuelve.**
-   Ante una queja o un error, no se justifica ni se debate. Se escucha,
-   se ofrece una solución concreta, y se escala si hace falta.
-   *→ Se aplica en: procedimiento de resolución de quejas.*
+**Un problema no se discute, se resuelve.** Si hay una queja o un
+error, no se justifica ni se entra a debatir. Se escucha, se ofrece una
+solución concreta, y si hace falta, se escala.
 
-7. **La última frase pesa tanto como la primera.**
-   La despedida condiciona el recuerdo tanto como la bienvenida. Nunca
-   se entrega la cuenta sin que la pidan; siempre se cierra con una
-   frase cálida, no con un gesto administrativo.
-   *→ Se aplica en: guion de servicio, cierre de mesa.*
+**La última frase pesa tanto como la primera.** Cómo nos despedimos deja
+tanta huella como cómo recibimos. Nunca se lleva la cuenta sin que la
+pidan, y siempre se cierra con una frase cálida — nunca con un gesto
+puramente administrativo.
 
-### c. Estándares de calidad
+### c. Nuestros estándares de calidad
 
-Los principios de hospitalidad (b) dicen el espíritu. Aquí lo convertimos
-en tiempos y procesos concretos — lo que sostiene en la práctica "la
-calma no se nota desde fuera" (principio 5) y "todo comunica, todo suma"
-(principio 3).
+Los principios de arriba son el espíritu. Aquí los convertimos en
+tiempos y rutinas concretas — lo que hace posible, en la práctica, que
+"la calma no se note desde fuera" o que "todo comunique, todo sume".
 
-**Tiempos de referencia en sala**
-
-Son el punto de partida con el que arrancamos — se recalibran con los
-primeros meses de datos reales de servicio, no son una cifra cerrada
-para siempre.
+**Cuánto debería tardar cada cosa.** Esta es nuestra referencia de
+partida — no son cifras grabadas en piedra, se irán ajustando con los
+primeros meses de datos reales de servicio:
 
 | Momento | Tiempo de referencia |
 |---|---|
@@ -127,217 +120,154 @@ para siempre.
 | Ofrecer otra bebida / rellenar | ≤5 min tras vaciarse |
 | Entrega de la cuenta | ≤5 min desde que se pide |
 
-**Checklists de apertura y cierre** — a nivel de estructura, no de
-ejecución. El paso a paso exacto (qué botón, qué orden, qué frase) vive
-en el Operations Playbook (RUN); aquí definimos qué existe, quién
-responde y con qué frecuencia:
+**Apertura y cierre.** Cada día, quien abre sigue una rutina fija que
+cubre cuatro cosas: poner en marcha el espacio (luces, música,
+climatización, un repaso de limpieza), dejar el producto listo (la
+máquina de café, el molino, los expositores), comprobar que la caja y
+el TPV están en orden, y confirmar que el equipo está listo para
+empezar. Al cierre pasa lo mismo al revés: se limpia la máquina y los
+utensilios, se deja el local en condiciones, se cuadra la caja y se
+revisa que todo quede cerrado y seguro. El paso a paso exacto de cada
+checklist — qué botón, en qué orden — vive en el Operations Playbook;
+aquí lo que fijamos es que esto existe, quién responde de ello (quien
+abre o quien cierra, con la supervisión del encargado o encargada) y
+que pasa todos los días, sin excepción.
 
-| Checklist | Qué cubre | Responsable | Frecuencia |
-|---|---|---|---|
-| Apertura | Puesta en marcha del espacio (luces, música, climatización, limpieza) · preparación de producto (máquina de café, molino, expositores) · verificación de caja y TPV · estado del equipo (uniforme, prebriefing) | Encargado/a o trabajador/a de apertura | Diaria, antes de abrir al público |
-| Cierre | Limpieza de máquina y utensilios · limpieza general del local · cuadre de caja · seguridad del local | Trabajador/a de cierre, supervisa encargado/a | Diaria, al finalizar el servicio |
+**Cómo cuidamos el inventario.** Hoy ya se hace un recuento cada mes,
+pero esa información no se estaba aprovechando para nada — y eso es
+justo lo que queremos cambiar. El encargado o encargada de turno hace el
+recuento físico en una hoja, y esa hoja se traslada a un Excel de
+control que ya tenéis (`run/Control_Inventario_Lady_Madrid.xlsx`). Ese
+Excel está conectado a las recetas reales de cocina y obrador, así que
+calcula solo cuánto debería haberse consumido de cada ingrediente según
+lo que se ha vendido ese mes — nadie tiene que hacer esa cuenta a mano.
 
-**Control de inventario y caducidades**
+Cada mes, **Propiedad** se sienta con esos números — el encargado o
+encargada recuenta, pero no analiza — y los convierte en decisiones
+reales: ¿hay que ajustar el pedido del mes que viene en vez de pedir "lo
+de siempre"? ¿se ha perdido más producto de la cuenta con algún
+ingrediente, y por qué? ¿hay algo en la carta que casi nadie pide y ya
+no merece la pena tener en stock? El propio Excel marca en una columna
+("Revisar") cualquier ingrediente cuya diferencia sea demasiado grande
+para ser casualidad, para que nadie tenga que rastrearlo a ojo.
 
-Hoy existe el hábito (inventario mensual) pero no la estructura: se
-cuenta, pero la información no se usa para decidir nada. Esto fija esa
-estructura — el paso a paso de cómo contar sigue en RUN.
+Queda una cosa por decidir: si además de ese análisis mensual de
+Propiedad, hace falta un informe que se mande a alguien más, o si con
+ese análisis el ciclo ya se da por cerrado.
 
-- **Qué se controla:** stock de alimentos, bebidas y materiales de
-  limpieza; fecha de apertura/caducidad de producto abierto; mermas y
-  pérdidas.
-- **Responsable:** encargado/a de turno.
-- **Frecuencia:** recuento completo **mensual** (dato real confirmado
-  directamente por la propiedad, 2026-10-13) — más una revisión rápida de
-  stock y caducidades en el día a día, que no sustituye al recuento
-  mensual.
-- **Cómo se registra — proceso confirmado (2026-10-13):** el encargado/a
-  hace el recuento físico en una hoja, y esa hoja se traslada a un Excel
-  de control (`run/Control_Inventario_Lady_Madrid.xlsx`). Ese Excel ya
-  tiene vinculados los escandallos reales de cocina y obrador, así que
-  calcula solo cuánto debería haberse consumido de cada ingrediente según
-  las ventas del mes — no hace falta calcularlo a mano.
-- **Quién analiza los datos — confirmado:** **Propiedad** hace el
-  análisis mensual; el encargado/a solo recuenta y traslada el dato al
-  Excel. Esto cierra el hueco que quedaba abierto: el inventario ya no es
-  un dato que nadie mira.
-- **Para qué sirve:** el recuento mensual, una vez analizado, tiene que
-  alimentar como mínimo estas tres decisiones — si no genera ninguna, no
-  vale la pena seguir haciéndolo igual:
-  1. **Ajustar el pedido del mes siguiente** — comparar consumo real
-     contra lo pedido, no pedir "lo de siempre".
-  2. **Detectar desviación de mermas** — si un producto se pierde por
-     encima de lo esperado, se investiga por qué (caducidad, porciones,
-     posible descontrol) antes del siguiente ciclo. El Excel marca en la
-     columna "Revisar" cualquier ingrediente cuya variación supere el
-     umbral configurado.
-  3. **Identificar producto de baja rotación** — lo que casi no se mueve
-     es candidato a salir de carta o de stock fijo, conecta con 2.a
-     (rentabilidad) y con Menu Engineering.
-- **A quién se reporta:** *pendiente de confirmar* — el análisis lo hace
-  Propiedad directamente sobre el Excel, así que no hay, de momento, un
-  reporte adicional hacia nadie más; confirmar si hace falta uno (p. ej.
-  hacia Andrea/Sergio) o si el análisis de Propiedad es el cierre del
-  ciclo.
+**Cuando algo no sale bien.** Ante una queja, nuestra regla es siempre
+la misma, venga de donde venga: se escucha con atención, no se
+interrumpe, no nos lo tomamos como algo personal, y se ofrece una
+solución concreta. Si no se puede resolver en el momento, se escala al
+encargado o encargada; si la cosa es grave o puede afectar a la
+reputación de la marca, sube a Dirección. Toda queja que llega a ese
+segundo o tercer nivel queda registrada en un log
+(`run/Log_de_Quejas_Lady_Madrid.xlsx`), para que se le pueda hacer
+seguimiento de verdad y no se quede en un recuerdo suelto de quien
+estaba ese día en sala. Lo que sí queda por decidir es si, además de
+quedar registradas, esas quejas graves necesitan algún tipo de
+seguimiento formal más adelante.
 
-**Cierre de caja**
-- **Responsable:** encargado/a de turno.
-- **Frecuencia:** diaria, al cierre.
-- **Cómo se registra:** cuadre de efectivo dentro del checklist de
-  cierre (TPV + control interno).
-- **A quién se reporta:** *mismo pendiente que arriba* — confirmar si
-  existe (o se quiere crear) un reporte periódico a Propiedad, más allá
-  del registro diario.
+### d. Nuestras prioridades
 
-**Quejas y comentarios**
-- **Principio rector:** un problema no se discute, se resuelve
-  (principio 6).
-- **Niveles de resolución:** Equipo (incidencias de servicio del
-  día a día) → Encargado/a (si no se resuelve en el momento, errores de
-  cobro) → Dirección (quejas graves o riesgo reputacional).
-- **Registro y seguimiento:** toda queja que escala a nivel Encargado/a
-  o Dirección queda registrada en un log (Excel) para seguimiento — no
-  se resuelve y se olvida. Responsable de rellenarlo: encargado/a de
-  turno. La plantilla del log vive en RUN (`run/Log_de_Quejas_Lady_
-  Madrid.xlsx`), no aquí — en Architecture solo fijamos que existe y
-  quién lo usa.
-- El guion de respuesta para cada tipo de incidente (qué decir, en qué
-  orden) vive en el Operations Playbook (RUN) — aquí solo fijamos la
-  estructura de a quién le corresponde cada nivel.
+Hay cuatro cosas en las que nos vamos a centrar. No basta con decir
+"esto es importante" — para cada una, explicamos también cómo pensamos
+conseguirlo.
 
-### d. Prioridades operativas
+**1. Poner orden en cómo trabajamos, en todo el negocio.**
+Si hay algo que le ha faltado a Lady Madrid hasta ahora es esto: una
+forma común de hacer las cosas, escrita, que no dependa de que cada
+persona se acuerde o de "cómo se ha hecho siempre". Los turnos sin
+definir, las quejas que no quedaban en ningún sitio, el inventario que
+se contaba pero no se usaba — todo eso viene del mismo sitio: falta de
+estructura. Por eso existe este documento, y por eso es la prioridad que
+sostiene a todas las demás. Lo llevamos a la práctica así: este
+documento es la base escrita única de la que parte todo lo demás; el
+Operations Playbook y el Manual de Roles recogen después el paso a paso
+del día a día sobre esa misma base; y de vez en cuando — no una sola
+vez y listo — revisamos y actualizamos lo escrito aquí, para que no se
+quede desfasado.
 
-1. **Crear una estructura de procesos internos que estandarice todo el
-   ecosistema de Lady Madrid** (sala, cocina, obrador, inventario,
-   equipo). Es la prioridad raíz: la falta de procesos y estructura
-   internos es uno de los problemas principales que tiene hoy Lady
-   Madrid, y es la razón por la que se está construyendo este documento
-   — turnos sin definir, posiciones sin diferenciar, checklists sin
-   formalizar, quejas sin registrar, inventario sin usar son todos
-   síntomas de este mismo problema de fondo, no huecos sueltos.
+**2. Cuidar y mejorar el ticket medio.**
+Queremos quedarnos, como mínimo, en 8,50€, con el objetivo real de
+llegar a 9-10€ en la ubicación nueva. Para conseguirlo: formación
+periódica en cómo sugerir un extra sin que suene a venta forzada (ligado
+a conocer bien el producto, y a los dos momentos del servicio donde esto
+tiene sentido natural: al tomar el pedido, y al final, ofreciendo algo
+más); revisar los márgenes de cada plato con cierta regularidad — el
+dato ya existe, calculado por producto en el Excel de escandallos de
+cocina, solo falta decidir quién lo mira y cada cuánto, igual que con el
+inventario; tener el objetivo de ticket medio a la vista del equipo, no
+guardado en un documento que nadie consulta; y hacerle seguimiento real
+mes a mes, junto con el resto de números que ya revisa Propiedad.
 
-   **Cómo:**
-   - Este documento (Architecture) como base escrita única — qué existe,
-     quién, con qué frecuencia — en vez de depender de lo que cada
-     persona recuerda o de cómo "se ha hecho siempre".
-   - Su desarrollo en RUN (Operations Playbook, Manual de Roles) como el
-     paso a paso ejecutable sobre esta misma base, no un documento
-     paralelo con criterio distinto.
-   - Todo proceso nuevo que se defina sigue el mismo patrón ya usado
-     aquí: qué existe, responsable, frecuencia, cómo se registra, a
-     quién se reporta — antes de escribir el detalle de ejecución.
-   - Revisión periódica del propio documento (no "se escribe una vez y
-     se olvida") — cadencia a fijar en la sección 10 (Fases de
-     implementación).
+**3. Cerrar el hueco de formación que todos sabemos que existe.**
+Esto ya lo reconoce el propio equipo: falta formación estructurada.
+Para solucionarlo: un calendario de formaciones periódicas sobre
+producto (café, obrador, alérgenos), no solo una charla el primer día;
+un onboarding de verdad para quien se incorpora, que cubra tanto el
+producto como nuestra forma de tratar al cliente y el recorrido de
+servicio de abajo; reciclaje también para quien ya lleva tiempo, no solo
+para las incorporaciones nuevas; y un criterio claro de qué tiene que
+saber alguien antes de poder trabajar solo en un turno.
 
-2. **Sostener y mejorar el ticket medio** (objetivo: mínimo 8,50€,
-   idealmente 9-10€ en la ubicación nueva).
+**4. Tener un recorrido de servicio que no dependa de la improvisación
+de cada persona.**
+Lo desarrollamos justo debajo. Para que de verdad se use: se practica en
+la formación, no solo se lee; y de vez en cuando, el encargado o
+Propiedad observa el servicio en sala para confirmar que el recorrido se
+sigue de verdad, no solo que está escrito en algún sitio.
 
-   **Cómo:**
-   - Formación periódica en upselling/cross-selling, ligada al principio
-     4 (conocimiento de producto) y a los dos momentos de upselling ya
-     marcados en el recorrido de servicio (pasos 3 y 8, abajo).
-   - Revisión de márgenes por plato con cadencia definida — el food
-     cost % ya se calcula por producto en `Escandallos_LadyMadrid.xlsx`
-     (pestaña Menu Engineering); falta decidir quién lo revisa y cada
-     cuánto, mismo patrón que el inventario (2.c).
-   - Objetivo de ticket medio visible y comunicado al equipo, no solo un
-     número en un documento interno.
-   - Seguimiento del ticket medio real frente al objetivo, con la misma
-     cadencia mensual que el análisis de inventario — conecta con
-     Propiedad (2.c) y con los KPIs (2.e).
+**Nuestro recorrido de servicio.** Son los momentos por los que pasa
+cualquier cliente, en el orden en que ocurren:
 
-3. **Cerrar el hueco de formación operativa** que el propio briefing del
-   cliente ya reconoce.
+1. Bienvenida y acomodo.
+2. Presentamos la carta y ayudamos a elegir.
+3. Tomamos el pedido — primero la bebida, luego la comida. Es un buen
+   momento para sugerir algo más, sin forzar.
+4. Servimos la bebida.
+5. Servimos la comida, y la presentamos al dejarla en la mesa.
+6. A los pocos minutos, comprobamos que todo está bien — mejor resolver
+   algo pequeño antes de que se convierta en una queja.
+7. Retiramos los platos cuando el cliente termina.
+8. Ofrecemos algo más — un café, un postre, algo para llevar.
+9. Cobramos. Nunca llevamos la cuenta sin que la pidan.
+10. Nos despedimos con calidez — la última impresión cuenta tanto como
+    la primera.
 
-   **Cómo:**
-   - Calendario de formaciones periódicas sobre producto (café, obrador,
-     alérgenos) — no formación puntual al entrar y ya está.
-   - Onboarding estructurado del equipo nuevo (primer día, primera
-     semana), que cubra tanto producto como los principios de
-     hospitalidad (b) y el recorrido de servicio (abajo) — hoy ese
-     aprendizaje depende de que alguien lo transmita de forma informal
-     en el turno.
-   - Reciclaje periódico para el equipo ya existente, no solo formación
-     de entrada para quien se incorpora.
-   - Criterio claro de qué debe saber una persona antes de trabajar sola
-     en un turno (conecta con el estándar de conocimiento de producto ya
-     fijado más abajo).
+Hay tres situaciones que piden un trato distinto al estándar: las
+familias con niños, los clientes que trabajan en el local con portátil
+o reuniones, y los momentos de mucha afluencia. Cada una tiene su propia
+forma de tratarse, con ejemplos y frases concretas, en el Operations
+Playbook.
 
-4. **Tener un recorrido de servicio estructurado**, no dependiente de la
-   improvisación de cada persona.
+Y una última cosa, no negociable: todo el equipo tiene que poder
+explicar qué es nuestro café de especialidad, que lo tostamos aquí en
+Madrid, que la bollería y la pastelería salen de nuestro propio obrador
+— no son producto comprado — y las preparaciones básicas de la carta.
+No es un lujo, es parte de ser un buen anfitrión.
 
-   **Cómo:**
-   - El guion de 10 pasos de abajo (la estructura) + su desarrollo
-     completo con frases y ejemplos en el Operations Playbook (RUN).
-   - Práctica del guion en formación (no solo lectura) antes de que
-     alguien lo use solo en sala.
-   - Observación periódica en sala — encargado/a o Propiedad — para
-     confirmar que el guion se sigue de verdad, no solo que existe por
-     escrito. Conecta con los tiempos de referencia ya fijados en
-     estándares de calidad (2.c).
+### e. Cómo sabremos si esto está funcionando
 
-**Estructura del recorrido de servicio.** Son los momentos por los que
-pasa cualquier cliente, en orden — el "qué" y el "por qué", no el "cómo
-exacto". Cada uno conecta con uno o más principios de hospitalidad (b):
+Estos indicadores hablan de cómo organizamos el servicio — los números
+de negocio (ticket medio, mermas) ya tienen su propio seguimiento, en
+los dos puntos de arriba, y no hace falta repetirlos aquí.
 
-1. Bienvenida y acomodo — *principio 1*.
-2. Presentación de la carta — *principios 1 y 4*.
-3. Toma de pedido (bebida primero, luego comida) — momento natural de
-   upselling/cross-selling.
-4. Servicio de bebida.
-5. Servicio de comida.
-6. Seguimiento — *principio 6, mejor resolver antes de que se convierta
-   en queja*.
-7. Retirada de platos.
-8. Segundo momento de upselling (café, postre, producto para llevar).
-9. Cobro — nunca se entrega la cuenta sin que la pidan.
-10. Despedida — *principio 7*.
+Partimos de cero: todavía no tenemos un dato real de base. Esto es lo
+que vamos a mirar, sin una cifra objetivo todavía — el primer mes nos
+sirve para saber de dónde partimos, y las metas se fijan más adelante,
+una vez tengamos ese punto de partida real:
 
-Hay además tres situaciones que requieren un criterio distinto al
-estándar: **familias con niños**, **clientes que trabajan en el local**
-(portátil, reuniones) y **momentos de alta afluencia** (conecta con el
-principio 5). Cada una tiene su propio estándar de trato, desarrollado
-con el guion completo — frases incluidas — en el Operations Playbook
-(RUN), no aquí.
-
-**Conocimiento de producto** — requisito ligado al principio 4, no
-opcional: todo el equipo debe poder explicar qué es el café de
-especialidad, que se tuesta en Madrid, **que la bollería y pastelería
-salen de nuestro propio obrador** (no son producto comprado), y las
-preparaciones básicas de la carta. El contenido de formación en sí
-(glosario, fichas de producto) vive en material de formación aparte
-(RUN) — aquí solo fijamos que es un estándar exigido, no una opción.
-
-### e. KPIs estratégicos
-
-Estos KPIs se refieren a la **organización del servicio** — los
-financieros (ticket medio, mermas, food cost) ya tienen su propio
-seguimiento, definido en 2.c (variación de inventario) y 2.d (revisión
-de márgenes vía Menu Engineering); no se duplican aquí.
-
-Partimos de cero: no hay dato base real todavía. Categorías de KPI, sin
-cifra objetivo hasta tener una primera medición:
-
-1. **Tiempos de servicio** — los tiempos de referencia ya fijados en
-   estándares de calidad (2.c): tiempo medio de toma de pedido, de
-   espera de bebida, de espera de comida, de recogida de mesa, de
-   entrega de la cuenta.
-2. **Cumplimiento de estándar** — % de servicios dentro de esos tiempos
-   de referencia.
-3. **Organización del equipo en servicio** — horas de cobertura reales
-   frente a las necesarias por turno (conecta con 6.d, la estructura
-   real de turnos).
-4. **Cliente** — nº de quejas registradas en el log (`run/Log_de_
-   Quejas_Lady_Madrid.xlsx`) y en qué categoría caen más, de las ya
-   definidas en 2.c.
-5. **Formación** — % del equipo con el onboarding y la formación de
-   producto al día, frente al calendario de formaciones periódicas
-   fijado en 2.d. Sin esto, "cerrar el hueco de formación operativa"
-   (prioridad 3) no se puede medir, solo declarar.
-
-**Cómo se fijan las metas:** el primer mes de medición sirve para
-establecer la línea base, sin objetivo todavía — no se puede fijar una
-meta sin saber el punto de partida real. Las cifras objetivo se fijan en
-la sección 10 (Fases de implementación Operativa), una vez exista esa
-base.
+- **Tiempos de servicio** — los mismos tiempos de referencia de más
+  arriba: cuánto se tarda en tomar el pedido, en servir la bebida y la
+  comida, en recoger la mesa, en traer la cuenta.
+- **Cumplimiento** — qué porcentaje de los servicios se queda dentro de
+  esos tiempos.
+- **Organización del equipo** — si las horas de gente en sala
+  corresponden de verdad a las que hacen falta en cada turno.
+- **Cliente** — cuántas quejas se registran y en qué quedan más,
+  mirando el log real.
+- **Formación** — qué parte del equipo tiene al día su formación de
+  producto y su onboarding, frente al calendario que nos marcamos. Si no
+  medimos esto, lo de "cerrar el hueco de formación" se queda en
+  intención, no en algo que podamos comprobar.

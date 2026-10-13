@@ -264,3 +264,21 @@ en sección 10). **Con esto, la sección 2 (Filosofía operativa) queda
 completa de a) a e).** Siguiente bloque natural: sección 6 (Organización
 del equipo), que ya tiene bastante material de trabajo de sesiones
 anteriores, o cualquier otra sección que Andrea prefiera.
+
+**2026-10-13 (cont.) — Reescritura completa de tono.** Andrea señala que
+el documento sonaba "robótico y poco humano" para ser un entregable
+pensado para el dueño de una cafetería, y pide un tono más didáctico. Se
+reescribe `Estrategia-y-Modelo-Operativo-Lady-Madrid.md` de punta a
+punta (secciones 2.a a 2.e, ya completas en contenido): fuera el formato
+de etiquetas repetidas (**Qué se controla:** / **Responsable:** /
+**Frecuencia:** / **Cómo se registra:** / **A quién se reporta:**) y la
+meta-información interna (fechas inline, marcas de "pendiente de
+confirmar", etiquetas Architecture/RUN, referencias cruzadas tipo "ver
+2.c"); entra una prosa cálida y continua, escrita en la voz del propio
+equipo de Lady Madrid explicándose a sí mismo su forma de trabajar. No
+se ha tocado ningún hecho, herramienta o decisión real — las preguntas
+que seguían abiertas (reporte adicional más allá del análisis mensual de
+Propiedad, seguimiento formal de quejas graves) se mantienen, solo que
+ahora como preguntas naturales dentro del texto en vez de bullets
+etiquetados. Pendiente: confirmación de Andrea de que este tono encaja
+antes de seguir con la sección 6.
