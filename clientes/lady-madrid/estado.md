@@ -97,11 +97,11 @@ es el horario vigente antes de dar la sección 6.d por cerrada del todo.
 
 **2026-10-13 — Arranca la redacción final del documento de formación:**
 a petición de Andrea, se empieza a redactar la versión final y limpia de
-AR04 (no notas de trabajo) en tono formativo, para servir de base de
-formación de empleados — vive en
-`run/Estrategia-y-Modelo-Operativo-Lady-Madrid.md`, en la voz de Lady
-Madrid (no la de TBNB). `AR04-estrategia-modelo-operativo.md` se queda
-como historial de trabajo/decisiones, no se borra.
+AR04 (no notas de trabajo) en tono formativo — vive en
+`Estrategia-y-Modelo-Operativo-Lady-Madrid.md` (raíz de la carpeta del
+cliente, no en `run/` — ver corrección abajo), en la voz de Lady Madrid
+(no la de TBNB). `AR04-estrategia-modelo-operativo.md` se queda como
+historial de trabajo/decisiones, no se borra.
 
 Primera sección cerrada: **2.a (Principios operativos)** y **2.b (Nivel
 de hospitalidad)**, esta última con 7 "Principios de hospitalidad" que
@@ -112,15 +112,29 @@ hasta ahora en el documento) más un principio nuevo pedido por Andrea
 ("ser los Hosts perfectos" — bienvenida, acogida, explicar carta y
 concepto).
 
-**2026-10-13 (cont.) — 2.c y 2.d cerrados:** estándares de calidad
-(tiempos de servicio, checklists reales de apertura/cierre/inventario
-tomados del manual del cliente, procedimiento de quejas y reseñas) y el
-guion de servicio de 10 pasos, ahora con frases reales del manual del
-cliente (no inventadas) en cada paso, más 3 casos especiales (familias,
-clientes que trabajan en el local, alta afluencia) y una base mínima de
-conocimiento de producto. Todo conectado explícitamente a los 7
-principios de hospitalidad de 2.b. Pendiente: 2.e (KPIs) y el resto de
-secciones del índice (3 a 10).
+**2026-10-13 (cont.) — Corrección de nivel Architecture vs. RUN,
+pedida por Andrea:** el documento es AR04 (Architecture), pero 2.c y 2.d
+se habían redactado con el detalle de ejecución (checklists literales,
+guion con frases exactas) que corresponde a RUN (Operations Playbook /
+Manual de Roles / "Implementación operativa y SOPs", fila 22 del BAR
+Method). Confirmado releyendo la plantilla real: la propia sección 9 de
+AR04 se llama "Framework de SOPs" — el marco, no el SOP ejecutado.
+Corregido:
+- Movido el archivo de `run/` a la raíz del cliente (es Architecture,
+  no RUN).
+- 2.c reescrito a nivel de estructura: qué cubre cada checklist,
+  responsable, frecuencia — sin el paso a paso. Añadido control de
+  inventario y cierre de caja con el mismo patrón que pidió Andrea
+  (responsable / frecuencia / cómo se registra / a quién se reporta).
+  Quedan 2 pendientes reales ahí: si hay un reporte periódico a
+  Propiedad (el manual del cliente no lo describe, solo registro
+  interno) y si las quejas graves quedan registradas para seguimiento.
+- 2.d reescrito igual: la secuencia de 10 pasos se queda (es estructura:
+  el orden de los momentos), pero las frases literales y los 3 casos
+  especiales con su guion completo se mueven a RUN.
+
+Pendiente: 2.e (KPIs) y el resto de secciones del índice (3 a 10), todas
+aplicando este mismo criterio de nivel.
 
 **Nota aparte, no bloqueante:** al revisar `02._MANUAL_DE_ROLES_Lady_
 Madrid_X_TBNB.pptx` y `Operations_Playbook_Lady_Madrid_x_TBNB.pptx`
