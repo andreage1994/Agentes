@@ -95,6 +95,32 @@ es el horario vigente antes de dar la sección 6.d por cerrada del todo.
   bebida traen contenido de comida bajo el título de bebida) antes de
   poder avanzar con la carta de bebidas del F&B Bible.
 
+**2026-10-13 — Arranca la redacción final del documento de formación:**
+a petición de Andrea, se empieza a redactar la versión final y limpia de
+AR04 (no notas de trabajo) en tono formativo, para servir de base de
+formación de empleados — vive en
+`run/Estrategia-y-Modelo-Operativo-Lady-Madrid.md`, en la voz de Lady
+Madrid (no la de TBNB). `AR04-estrategia-modelo-operativo.md` se queda
+como historial de trabajo/decisiones, no se borra.
+
+Primera sección cerrada: **2.a (Principios operativos)** y **2.b (Nivel
+de hospitalidad)**, esta última con 7 "Principios de hospitalidad" que
+traducen los valores a la práctica — construidos a partir del manual de
+atención al cliente real del cliente (22 secciones,
+`MANUAL_CLIENTE_LADY_MADRID_VERSION_FINAL_TOTAL_1_1_1.pdf`, no usado
+hasta ahora en el documento) más un principio nuevo pedido por Andrea
+("ser los Hosts perfectos" — bienvenida, acogida, explicar carta y
+concepto). Pendiente: 2.c (estándares), 2.d (guion de servicio) y 2.e
+(KPIs), ya conectados a estos 7 principios.
+
+**Nota aparte, no bloqueante:** al revisar `02._MANUAL_DE_ROLES_Lady_
+Madrid_X_TBNB.pptx` y `Operations_Playbook_Lady_Madrid_x_TBNB.pptx`
+(plantillas RUN ya recibidas) se confirma que siguen en blanco — una
+incluso conserva contenido de otro cliente sin limpiar ("MalaPanza" /
+mantener.cat en una, "El Chandrío" en otra). No resuelven ningún hueco
+de este documento, pero conviene que alguien de TBNB limpie esas
+plantillas antes de que se reutilicen con otro cliente.
+
 ## Material de origen del cliente (en uso, no reproducido aquí)
 
 - Manual interno de atención al cliente (22 secciones, versión 2025).
