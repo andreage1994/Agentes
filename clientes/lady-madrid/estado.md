@@ -191,6 +191,41 @@ al abrir el archivo en Excel real.
    Concepto culinario, Filosofía de producto) siguen en blanco, pero
    habrá que incluir el obrador cuando se rellenen.
 
+**2026-10-13 (cont.) — Proceso de inventario cerrado + herramienta real.**
+Andrea confirma el proceso completo: el encargado/a hace el recuento en
+una hoja, esa hoja se traslada a Excel, y **Propiedad** hace el análisis
+mensual (no el encargado/a) — esto resuelve el pendiente de "quién
+analiza los datos" que había quedado abierto. Además comparte
+`Escandallos_LadyMadrid.xlsx`, el archivo real de food cost que ya usa
+cocina (15 pestañas: dishes por categoría, obrador, bebidas, proveedores,
+menu engineering...), mucho más rico que los escandallos del F&B Bible.
+
+Se construye `run/Control_Inventario_Lady_Madrid.xlsx`, con los
+escandallos reales extraídos directamente de ese archivo (no del F&B
+Bible): 321 líneas de ingrediente sobre 62 platos/productos (incluye las
+26 referencias del obrador — briochería y tartas), 166 ingredientes
+únicos. Pestañas: Instrucciones, Ventas del mes (input de unidades
+vendidas por plato), Escandallos (vinculado a Ventas del mes, calcula
+consumo teórico), Inventario (input de inventario anterior/compras/
+recuento real, calcula automáticamente consumo teórico, variación y
+marca "Revisar" por encima de un umbral configurable).
+
+**Calidad de datos del archivo real, detectada al extraerlo (no
+corregida por mi cuenta):** 2 líneas no eran ingredientes reales (una
+nota de preparación, una etiqueta de sección) — excluidas. 1 ingrediente
+(AOVE en "Cake chocolate, AOVE y sal") no tiene cantidad especificada en
+el archivo original. 6 ingredientes tienen unidad inconsistente entre
+platos (AOVE, Escamas de sal, Huevo pochado, Almendra laminada, Almendra
+tostada, Brioche — marcados con comentario en la pestaña Inventario).
+Varios nombres de plato casi idénticos pero no exactos entre categorías
+(p. ej. variantes marcadas "(no)" que parecen descatalogadas) — sin
+fusionar, pendiente de que cocina lo confirme.
+
+**Nota técnica repetida:** tampoco se pudo verificar el recálculo de
+fórmulas con LibreOffice en este entorno (mismo problema de sandbox ya
+visto con el log de quejas). Fórmulas estándar (SUMIF, SUMPRODUCT,
+IFERROR) — se recalculan solas al abrir en Excel real.
+
 ## Material de origen del cliente (en uso, no reproducido aquí)
 
 - Manual interno de atención al cliente (22 secciones, versión 2025).
@@ -199,6 +234,9 @@ al abrir el archivo en Excel real.
   turnos y rotación de camareros/as en Plaza República Dominicana
   (`Briefing_Actualizado.pdf`).
 - Carta real de comida y bebida.
+- `Escandallos_LadyMadrid.xlsx` — archivo real de food cost de cocina y
+  obrador (recetas, costes, ratios, food cost %), usado para construir
+  `run/Control_Inventario_Lady_Madrid.xlsx`.
 - Foto del plano de mesas del TPV (Pza. República Dominicana): 10 mesas
   en fachada/barra (Mesa 1-10), 2 taburetes de barra (B1-B2), 6 mesas en
   zona aparte junto a las palmeras (T1-T6).

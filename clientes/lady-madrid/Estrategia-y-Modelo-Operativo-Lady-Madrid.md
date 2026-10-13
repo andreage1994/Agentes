@@ -151,26 +151,34 @@ estructura — el paso a paso de cómo contar sigue en RUN.
   directamente por la propiedad, 2026-10-13) — más una revisión rápida de
   stock y caducidades en el día a día, que no sustituye al recuento
   mensual.
-- **Cómo se registra:** hoja de control interno (mismo log que cierre de
-  caja, o uno propio — a decidir al construir la plantilla en RUN).
-- **Para qué sirve — esto es lo nuevo:** el recuento mensual tiene que
-  alimentar, como mínimo, estas tres decisiones; si no genera ninguna, no
+- **Cómo se registra — proceso confirmado (2026-10-13):** el encargado/a
+  hace el recuento físico en una hoja, y esa hoja se traslada a un Excel
+  de control (`run/Control_Inventario_Lady_Madrid.xlsx`). Ese Excel ya
+  tiene vinculados los escandallos reales de cocina y obrador, así que
+  calcula solo cuánto debería haberse consumido de cada ingrediente según
+  las ventas del mes — no hace falta calcularlo a mano.
+- **Quién analiza los datos — confirmado:** **Propiedad** hace el
+  análisis mensual; el encargado/a solo recuenta y traslada el dato al
+  Excel. Esto cierra el hueco que quedaba abierto: el inventario ya no es
+  un dato que nadie mira.
+- **Para qué sirve:** el recuento mensual, una vez analizado, tiene que
+  alimentar como mínimo estas tres decisiones — si no genera ninguna, no
   vale la pena seguir haciéndolo igual:
   1. **Ajustar el pedido del mes siguiente** — comparar consumo real
      contra lo pedido, no pedir "lo de siempre".
   2. **Detectar desviación de mermas** — si un producto se pierde por
      encima de lo esperado, se investiga por qué (caducidad, porciones,
-     posible descontrol) antes del siguiente ciclo.
+     posible descontrol) antes del siguiente ciclo. El Excel marca en la
+     columna "Revisar" cualquier ingrediente cuya variación supere el
+     umbral configurado.
   3. **Identificar producto de baja rotación** — lo que casi no se mueve
      es candidato a salir de carta o de stock fijo, conecta con 2.a
-     (rentabilidad) y con las decisiones de carta de la propiedad.
-- **Quién revisa los datos y con qué cadencia:** encargado/a hace el
-  recuento; **pendiente de confirmar** quién lo analiza mes a mes (¿la
-  propia Blanca, Andrea/Sergio, o se delega en el encargado/a con un
-  umbral de alerta?) — sin esto, el inventario sigue siendo un dato que
-  nadie mira, aunque exista.
-- **A quién se reporta:** *pendiente de confirmar* — hoy no hay un
-  reporte periódico descrito hacia Propiedad, solo el registro interno.
+     (rentabilidad) y con Menu Engineering.
+- **A quién se reporta:** *pendiente de confirmar* — el análisis lo hace
+  Propiedad directamente sobre el Excel, así que no hay, de momento, un
+  reporte adicional hacia nadie más; confirmar si hace falta uno (p. ej.
+  hacia Andrea/Sergio) o si el análisis de Propiedad es el cierre del
+  ciclo.
 
 **Cierre de caja**
 - **Responsable:** encargado/a de turno.
@@ -199,11 +207,19 @@ estructura — el paso a paso de cómo contar sigue en RUN.
 
 ### d. Prioridades operativas
 
-1. **Sostener y mejorar el ticket medio** (objetivo: mínimo 8,50€,
+1. **Crear una estructura de procesos internos que estandarice todo el
+   ecosistema de Lady Madrid** (sala, cocina, obrador, inventario,
+   equipo). Es la prioridad raíz: la falta de procesos y estructura
+   internos es uno de los problemas principales que tiene hoy Lady
+   Madrid, y es la razón por la que se está construyendo este documento
+   — turnos sin definir, posiciones sin diferenciar, checklists sin
+   formalizar, quejas sin registrar, inventario sin usar son todos
+   síntomas de este mismo problema de fondo, no huecos sueltos.
+2. **Sostener y mejorar el ticket medio** (objetivo: mínimo 8,50€,
    idealmente 9-10€ en la ubicación nueva).
-2. **Cerrar el hueco de formación operativa** que el propio briefing del
+3. **Cerrar el hueco de formación operativa** que el propio briefing del
    cliente ya reconoce.
-3. **Tener un recorrido de servicio estructurado**, no dependiente de la
+4. **Tener un recorrido de servicio estructurado**, no dependiente de la
    improvisación de cada persona.
 
 **Estructura del recorrido de servicio.** Son los momentos por los que
