@@ -68,14 +68,29 @@ de bebidas no está incluida en esta versión (ver corrección de `FTD`
 arriba); se añadirá cuando el cliente entregue fichas de bebida
 correctas.
 
+**2026-10-13 — Briefing actualizado con la estructura real de turnos:**
+el cliente manda `Briefing_Actualizado.pdf`, que añade (sobre el briefing
+de búsqueda de ubicación ya conocido) la organización operativa real de
+Plaza República Dominicana: turnos reales por franja (L-J / viernes-
+festivos / fin de semana) y confirmación de que "camareros/as" no tiene
+diferenciación de posiciones — rotación funcional total. Esto resuelve
+las dos últimas preguntas abiertas de `AR04-estrategia-modelo-operativo.md`
+(reparto de turnos y posiciones dentro de camareros/as) — reemplaza la
+propuesta de turnos que había construido TBNB el 2026-10-07 por el dato
+real del cliente.
+
+**Discrepancia sin resolver:** el horario real que da el cliente
+(7:45-20:30 de lunes a jueves) no coincide con la captura de Google que
+pasó Andrea el 2026-10-07 (9:30-21:30). Necesito que Andrea confirme cuál
+es el horario vigente antes de dar la sección 6.d por cerrada del todo.
+
 **Pendiente de decidir con Andrea antes de seguir:**
 - ¿Se amplía el manual existente o se crea un documento nuevo
   complementario ("Manual Operativo de Servicio")?
 - Punto de contacto y plazo del lado del cliente.
-- De las 4 preguntas abiertas de `AR04-estrategia-modelo-operativo.md`,
-  quedan sin resolver: posiciones dentro de "camareros/as" (barra fija
-  vs. rotación total). Turnos reales, "set up de las mesas" y
-  "descripción de platos" ya están resueltos (ver ese documento).
+- ~~De las 4 preguntas abiertas de `AR04-estrategia-modelo-operativo.md`~~
+  — las 4 ya están resueltas (ver ese documento). Queda la discrepancia
+  de horario de arriba como la única pregunta real sin cerrar.
 - Pedir al cliente que corrija `FTD` por completo (las 46 fichas de
   bebida traen contenido de comida bajo el título de bebida) antes de
   poder avanzar con la carta de bebidas del F&B Bible.
@@ -84,7 +99,9 @@ correctas.
 
 - Manual interno de atención al cliente (22 secciones, versión 2025).
 - Briefing de búsqueda de nueva ubicación (equipo, aforo, ticket medio,
-  filosofía de trabajo).
+  filosofía de trabajo) + anexo del 2026-10-13 con la estructura real de
+  turnos y rotación de camareros/as en Plaza República Dominicana
+  (`Briefing_Actualizado.pdf`).
 - Carta real de comida y bebida.
 - Foto del plano de mesas del TPV (Pza. República Dominicana): 10 mesas
   en fachada/barra (Mesa 1-10), 2 taburetes de barra (B1-B2), 6 mesas en

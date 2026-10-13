@@ -357,24 +357,44 @@ no se cuenta en el organigrama base.
 
 - **Encargado/a de turno:** responsable de apertura/cierre, caja,
   supervisión del servicio, primer punto de escalado de incidencias.
-- **Camareros/as:** atención en sala y barra, con rotación de posiciones
-  durante el servicio (ver sección d).
+- **Camareros/as:** atención en sala y barra, con **rotación funcional
+  total** — ver confirmación directa del cliente abajo.
 
-Esto es una lectura directa del dato del briefing ("1 encargado/a + resto
-camareros/as"). Lo que el briefing **no** especifica — y hace falta
-confirmar con Andrea o directamente con el cliente antes de cerrar esta
-sección — es si hay alguna diferenciación interna dentro de "camareros/as"
-(p. ej. alguien fijo en barra de café vs. sala) o si la rotación es total.
+**Resuelto (2026-10-13), dato directo del cliente**
+(`Briefing_Actualizado.pdf`, sección 2 "Organización funcional de la
+categoría de camarero/a"): **no existe diferenciación de posiciones
+dentro de "camareros/as".** No hay puesto fijo y permanente de barra ni
+de sala, ni una figura de barista exclusiva — todo el personal de la
+categoría está formado para desempeñar todas las tareas (café y bebidas,
+tostadas y brioche, toma y gestión de comandas, atención al cliente,
+servicio de mesas, office). El cliente sí distingue entre **asignación de
+funciones durante un turno concreto** (eso varía según la franja horaria
+y el volumen de actividad) y **puesto fijo** (eso no existe) — es un
+criterio de polivalencia funcional, no de especialización permanente.
 
 ### c. Responsabilidades
 
-Pendiente de confirmar con el cliente — el briefing da la estructura de
-roles pero no un desglose de tareas por rol. Se puede construir una
-propuesta a partir del manual de atención al cliente ya existente (que sí
-detalla comportamientos esperados en sala) cruzado con las tareas de
-apertura/cierre que el propio manual ya tiene en checklist — pero antes de
-darlo por bueno hace falta que Andrea confirme si se valida así o si hay
-matices del cliente que no están en los documentos aportados.
+Resuelto parcialmente con el mismo documento — el cliente da el desglose
+real de responsabilidades operativas para la franja de mayor actividad
+(mañana de fin de semana), que se reparten en 4 bloques:
+
+1. **Atención al cliente y toma de comandas** — recepción de clientes,
+   gestión de pedidos y coordinación de comandas.
+2. **Preparación de bebidas** — elaboración y servicio de cafés y otras
+   bebidas.
+3. **Preparación de alimentos** — elaboración y preparación de tostadas y
+   brioche.
+4. **Office y apoyo operativo** — gestión de tareas de office y
+   colaboración con el resto de áreas para agilizar el servicio.
+
+En franjas de menor demanda, estas 4 responsabilidades no se reparten de
+forma fija — el equipo colabora con flexibilidad entre tareas, sin
+división rígida, coherente con el criterio de polivalencia de 6.b.
+
+Sigue pendiente de confirmar con el cliente: el desglose de
+responsabilidades del **encargado/a** más allá de "apertura/cierre, caja,
+supervisión" (6.b) — el documento se centra en la categoría de
+camarero/a, no en el encargado/a.
 
 ### d. Staffing
 
@@ -388,57 +408,70 @@ el plano del TPV:
   (4×40h + 1×30h) en el horario real de apertura (83,5h/semana, ver
   cálculo de turnos abajo).
 
-**Cálculo de turnos** (con el horario real de apertura que aportó Andrea:
-9:30-21:30 de miércoles a martes, 9:30-21:00 domingo — 6 días de 12h +
-1 día de 11,5h = **83,5h de apertura/semana**):
+**Cálculo de turnos — reemplazado 2026-10-13 por dato real del cliente**
+(`Briefing_Actualizado.pdf`, sección 1 "Estructura y distribución de los
+turnos de trabajo"). El bloque anterior (horario 9:30-21:30, 3 turnos
+TM/TT/RM) era una **propuesta construida por TBNB** a partir de un
+horario que Andrea pasó por captura de pantalla — el cliente acaba de
+mandar directamente cómo opera de verdad, y los dos horarios **no
+coinciden**. Lo dejo marcado como discrepancia, no lo resuelvo por mi
+cuenta:
 
-- **Horas de plantilla disponibles:** 4×40h + 1×30h = **190h/semana**
-  (equipo habitual, sin contar la 6ª persona temporal de cobertura de
-  baja).
-- **Estructura de turnos propuesta:**
-  - **Turno Mañana (TM):** 9:00–17:00 (8h) — incluye 30 min de montaje
-    antes de abrir a las 9:30.
-  - **Turno Tarde (TT):** 13:30–21:30 (8h) de miércoles a martes /
-    13:00–21:00 (8h) domingo — incluye cierre.
-  - **Refuerzo Mediodía (RM):** 12:00–18:00 (6h), cubierto por la
-    persona a 30h — añade una tercera persona en el tramo de mayor
-    afluencia esperada (mediodía/brunch).
-- **Resultado:** 1 persona en solitario en la apertura (9:00-13:00/13:30)
-  y en el cierre (17:00/18:00-21:30), y **3 personas simultáneas** en el
-  tramo de mediodía (aprox. 13:30-17:00), que es razonable para un
-  concepto de brunch/café de especialidad.
-- **Cuadre de horas:** cubrir TM+TT los 7 días = 16h/día × 7 = 112h/semana,
-  cubiertas con los 4×40h (160h disponibles → 48h de margen para bajas
-  puntuales, tareas del encargado/a fuera de sala, o un tercer puesto
-  extra en fin de semana si hiciera falta). El Refuerzo Mediodía (30h) se
-  reparte en los 5 días de mayor actividad esperada.
+> ⚠️ **Discrepancia de horario sin resolver:** la captura que compartió
+> Andrea decía apertura 9:30-21:30 (9:30-21:00 domingo). El documento del
+> cliente dice apertura al público **7:45-20:30 de lunes a jueves**. No
+> dan el horario exacto de viernes/fin de semana, solo el refuerzo de
+> plantilla. Puede que la captura fuera el horario publicado en Google
+> (y esté desactualizado) y el del cliente sea el real — o al revés.
+> **Hace falta que Andrea confirme cuál es el horario real vigente antes
+> de dar esta sección por cerrada.**
 
-**Validación cruzada con el ratio de servicio que aportó Andrea** (1
-camarero/a por cada 7 mesas): el local tiene 16 mesas de servicio (10
-interior + 6 terraza — la barra no cuenta como "mesa" a estos efectos,
-se cubre aparte). 16 ÷ 7 = 2,3 → **hacen falta 3 camareros/as** para no
-superar el ratio con el local lleno. Esto **confirma de forma
-independiente** el número de 3 personas simultáneas que ya había
-propuesto para el tramo de mediodía por el lado de las horas
-disponibles — los dos cálculos (horas de plantilla y ratio de mesas)
-llegan al mismo número por caminos distintos, lo que da bastante
-confianza en que 3 es el tramo correcto, no solo en qué momento del día
-colocarlo. Queda sin confirmar si el/la encargado/a cuenta dentro de
-este ratio de 7 mesas o si es una figura aparte (supervisión, caja) que
-no debería sumarse como camarero/a de sala — lo trato como figura aparte
-hasta que se diga lo contrario, coherente con el rol ya descrito en 6.b.
+**Estructura real de turnos, tal como la describe el cliente** (Plaza
+República Dominicana):
 
-**Importante — qué es esto y qué no es:** esto define la **estructura**
-de turnos (tipos, duración, solape) — es una decisión de Architecture.
-El cuadrante exacto de qué persona trabaja qué día concreto es una
-decisión operativa del encargado/a una vez el modelo esté validado —
-eso vive en el Operations Playbook de RUN, no aquí.
+**Lunes a jueves** (apertura al público 7:45-20:30h):
+- 7:30-7:45h: preparación y puesta en marcha (terraza, cafetera,
+  acondicionamiento) — solo el trabajador de apertura.
+- 7:45-8:30h: servicio en solitario con el trabajador de apertura.
+- Desde las 8:30h: se incorpora un segundo trabajador (solapamiento).
+- Hasta las 13:00h: servicio conjunto por ambos.
+- 13:00h: relevo — termina un turno y se incorpora el trabajador
+  asignado a la tarde y al cierre.
+- Hasta las 20:30h: continúa el servicio de tarde.
+- **Sin confirmar:** el documento no dice si el trabajador de las 8:30h
+  también termina a las 13:00h o si se solapa con el de tarde — lo
+  trato como pendiente de aclarar, no lo asumo.
 
-**Lo único que sigue siendo una hipótesis, no un dato real:** que el
-pico de afluencia esté en el mediodía. Es una suposición razonable para
-un concepto de brunch/café, pero si el TPV tiene datos reales de ventas
-por hora, hay que confirmarlo y ajustar el horario del Refuerzo Mediodía
-en consecuencia antes de darlo por definitivo.
+**Viernes y festivos:** se refuerza a **3 trabajadores** por la mañana
+(el tercero se incorpora sobre las 10:30h y cubre el cierre), por el
+aumento de afluencia. Mismo criterio de refuerzo en festivos cuando el
+servicio lo requiere.
+
+**Sábados y domingos:** dotación habitual de **4 trabajadores por la
+mañana** — es la franja de mayor intensidad de la semana, no el mediodía
+entre semana como se había hipotizado antes. Por la tarde de fin de
+semana: normalmente 1 persona (temporada baja), se incorpora una segunda
+cuando la demanda lo requiere, habitualmente hasta las 19:00h. El cliente
+señala un **pico real de afluencia de tarde entre las 16:00-19:00h**
+(tránsito peatonal de la zona, clientes que paran a tomar café/merendar
+después de comer).
+
+**Validación cruzada con el ratio de servicio (1 camarero/a por cada 7
+mesas, dato ya aportado por Andrea):** el local tiene 16 mesas de
+servicio (10 interior + 6 terraza). 16 ÷ 7 = 2,3 → hacen falta 3
+camareros/as para no superar el ratio con el local lleno — coherente con
+el refuerzo de 3 de los viernes/festivos, y por debajo de los 4 que el
+cliente ya pone los fines de semana (que cubren además office y
+producción, no solo mesas, ver 6.c). Sigue sin confirmar si el/la
+encargado/a cuenta dentro de este ratio — se trata como figura aparte
+(6.b).
+
+**Importante — qué es esto y qué no es:** esto es la estructura real de
+turnos que ya opera el cliente, no una propuesta de TBNB — por tanto no
+hace falta validarla, solo documentarla y resolver la discrepancia de
+horario de arriba. El cuadrante exacto de qué persona concreta trabaja
+qué día sigue siendo una decisión operativa del encargado/a, y vive en
+el Operations Playbook de RUN, no aquí.
 
 ### e. Coberturas
 
@@ -478,12 +511,18 @@ SOP de RUN.
 **Preguntas abiertas que necesito que resuelva Andrea (o el cliente) antes
 de seguir cerrando secciones:**
 1. ~~Reparto real de turnos en Plaza República Dominicana~~ — **resuelto
-   con propuesta** (2026-10-07): estructura de 3 turnos (Mañana/Tarde/
-   Refuerzo Mediodía) con el horario real de apertura, ver 6.d. Queda
-   pendiente solo confirmar si el pico real de afluencia es mediodía
-   (hipótesis) o si el TPV dice otra cosa.
-2. Si hay diferenciación de posiciones dentro de "camareros/as" (barra
-   fija vs. rotación total) — para cerrar 6.b y empezar 6.c.
+   con dato real del cliente** (2026-10-13, `Briefing_Actualizado.pdf`):
+   reemplaza la propuesta de TBNB del 2026-10-07 por la estructura real
+   (L-J / viernes-festivos / fin de semana), ver 6.d. El pico de
+   afluencia ya no es hipótesis: fin de semana por la mañana es lo más
+   intenso, con un pico secundario real de tarde 16:00-19:00h. **Nueva
+   pregunta abierta que esto genera:** el horario de apertura real
+   (7:45-20:30 L-J) no coincide con la captura que pasó Andrea
+   (9:30-21:30) — hay que confirmar cuál es el vigente antes de cerrar
+   6.d del todo.
+2. ~~Si hay diferenciación de posiciones dentro de "camareros/as"~~ —
+   **resuelto** (2026-10-13, mismo documento): no hay diferenciación,
+   rotación funcional total — ver 6.b y 6.c.
 3. ~~Confirmación del significado de "set up de las mesas"~~ — **resuelto**
    (2026-10-07): Andrea confirma que es (b), cómo está montada la mesa
    cuando llega el cliente (plato, cubierto) — no la distribución física
