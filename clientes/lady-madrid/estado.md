@@ -110,8 +110,17 @@ atención al cliente real del cliente (22 secciones,
 `MANUAL_CLIENTE_LADY_MADRID_VERSION_FINAL_TOTAL_1_1_1.pdf`, no usado
 hasta ahora en el documento) más un principio nuevo pedido por Andrea
 ("ser los Hosts perfectos" — bienvenida, acogida, explicar carta y
-concepto). Pendiente: 2.c (estándares), 2.d (guion de servicio) y 2.e
-(KPIs), ya conectados a estos 7 principios.
+concepto).
+
+**2026-10-13 (cont.) — 2.c y 2.d cerrados:** estándares de calidad
+(tiempos de servicio, checklists reales de apertura/cierre/inventario
+tomados del manual del cliente, procedimiento de quejas y reseñas) y el
+guion de servicio de 10 pasos, ahora con frases reales del manual del
+cliente (no inventadas) en cada paso, más 3 casos especiales (familias,
+clientes que trabajan en el local, alta afluencia) y una base mínima de
+conocimiento de producto. Todo conectado explícitamente a los 7
+principios de hospitalidad de 2.b. Pendiente: 2.e (KPIs) y el resto de
+secciones del índice (3 a 10).
 
 **Nota aparte, no bloqueante:** al revisar `02._MANUAL_DE_ROLES_Lady_
 Madrid_X_TBNB.pptx` y `Operations_Playbook_Lady_Madrid_x_TBNB.pptx`
