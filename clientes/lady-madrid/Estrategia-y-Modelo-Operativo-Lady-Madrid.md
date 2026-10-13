@@ -308,3 +308,36 @@ salen de nuestro propio obrador** (no son producto comprado), y las
 preparaciones básicas de la carta. El contenido de formación en sí
 (glosario, fichas de producto) vive en material de formación aparte
 (RUN) — aquí solo fijamos que es un estándar exigido, no una opción.
+
+### e. KPIs estratégicos
+
+Estos KPIs se refieren a la **organización del servicio** — los
+financieros (ticket medio, mermas, food cost) ya tienen su propio
+seguimiento, definido en 2.c (variación de inventario) y 2.d (revisión
+de márgenes vía Menu Engineering); no se duplican aquí.
+
+Partimos de cero: no hay dato base real todavía. Categorías de KPI, sin
+cifra objetivo hasta tener una primera medición:
+
+1. **Tiempos de servicio** — los tiempos de referencia ya fijados en
+   estándares de calidad (2.c): tiempo medio de toma de pedido, de
+   espera de bebida, de espera de comida, de recogida de mesa, de
+   entrega de la cuenta.
+2. **Cumplimiento de estándar** — % de servicios dentro de esos tiempos
+   de referencia.
+3. **Organización del equipo en servicio** — horas de cobertura reales
+   frente a las necesarias por turno (conecta con 6.d, la estructura
+   real de turnos).
+4. **Cliente** — nº de quejas registradas en el log (`run/Log_de_
+   Quejas_Lady_Madrid.xlsx`) y en qué categoría caen más, de las ya
+   definidas en 2.c.
+5. **Formación** — % del equipo con el onboarding y la formación de
+   producto al día, frente al calendario de formaciones periódicas
+   fijado en 2.d. Sin esto, "cerrar el hueco de formación operativa"
+   (prioridad 3) no se puede medir, solo declarar.
+
+**Cómo se fijan las metas:** el primer mes de medición sirve para
+establecer la línea base, sin objetivo todavía — no se puede fijar una
+meta sin saber el punto de partida real. Las cifras objetivo se fijan en
+la sección 10 (Fases de implementación Operativa), una vez exista esa
+base.

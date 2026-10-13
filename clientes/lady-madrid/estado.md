@@ -252,3 +252,15 @@ estructurado, reciclaje para el equipo existente), recorrido de servicio
 procesos internos (este documento como base única + su desarrollo en
 RUN). Todo a nivel de palanca/mecanismo (Architecture), sin bajar a
 ejecución.
+
+**2026-10-13 (cont.) — 2.e (KPIs) cerrado, sección 2 completa.** Se
+mantiene el criterio ya decidido por Andrea (KPIs de servicio, no
+financieros): tiempos de servicio, cumplimiento de estándar,
+organización del equipo en servicio, cliente (quejas, ya conectado al
+log real) y un KPI nuevo — formación — para poder medir si se cierra de
+verdad el hueco de formación operativa (prioridad 3 de 2.d), no solo
+declararlo. Sin cifras objetivo todavía (primer mes = línea base, metas
+en sección 10). **Con esto, la sección 2 (Filosofía operativa) queda
+completa de a) a e).** Siguiente bloque natural: sección 6 (Organización
+del equipo), que ya tiene bastante material de trabajo de sesiones
+anteriores, o cualquier otra sección que Andrea prefiera.
