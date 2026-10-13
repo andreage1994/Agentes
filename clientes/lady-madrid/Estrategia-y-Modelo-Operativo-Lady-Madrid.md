@@ -20,8 +20,9 @@ cosa, antes incluso que la marca.
 - **Amabilidad.** Por defecto — incluso cuando el cliente no lo es.
 
 **Después, lo que nos distingue como marca:**
-- *Producto:* calidad del café y del producto, tostado propio, oferta
-  gastronómica cuidada.
+- *Producto:* calidad del café y del producto, tostado propio, **obrador
+  propio** (bollería y pastelería elaborada por nosotros, no comprada),
+  oferta gastronómica cuidada.
 - *Experiencia:* experiencia de cliente, imagen de marca.
 - *Operación:* limpieza y orden, procesos claros, estandarización.
 - *Negocio:* rentabilidad, capacidad de crecimiento.
@@ -57,9 +58,10 @@ documento.
    Recibimos a cada persona como se recibe a alguien en casa: con
    acogida genuina, no solo con una mesa libre. Si es la primera vez que
    nos visita, le explicamos qué es Lady Madrid — el café de
-   especialidad, el tostado propio, la propuesta gastronómica — y le
-   acompañamos a elegir en la carta, no solo tomamos nota. Ser el host
-   perfecto es parte del servicio, no un extra opcional.
+   especialidad, el tostado propio, **el obrador propio** (la bollería y
+   los brioches no se compran, se hacen aquí) — y le acompañamos a elegir
+   en la carta, no solo tomamos nota. Ser el host perfecto es parte del
+   servicio, no un extra opcional.
    *→ Se aplica en: bienvenida y acomodo, presentación de la carta
    (guion de servicio), conocimiento de producto.*
 
@@ -136,17 +138,37 @@ responde y con qué frecuencia:
 | Cierre | Limpieza de máquina y utensilios · limpieza general del local · cuadre de caja · seguridad del local | Trabajador/a de cierre, supervisa encargado/a | Diaria, al finalizar el servicio |
 
 **Control de inventario y caducidades**
+
+Hoy existe el hábito (inventario mensual) pero no la estructura: se
+cuenta, pero la información no se usa para decidir nada. Esto fija esa
+estructura — el paso a paso de cómo contar sigue en RUN.
+
 - **Qué se controla:** stock de alimentos, bebidas y materiales de
   limpieza; fecha de apertura/caducidad de producto abierto; mermas y
   pérdidas.
 - **Responsable:** encargado/a de turno.
-- **Frecuencia:** revisión de stock semanal, con recuento cada fin de
-  semana (dato ya confirmado en el manual de atención al cliente
-  vigente). *Si además se quiere un cierre mensual que se eleve a
-  dirección, es una capa nueva que hay que confirmar — el manual actual
-  no la describe, solo dice que se informa al encargado/a cuando un
-  producto está fuera de fecha.*
-- **Cómo se registra:** hoja de control interno.
+- **Frecuencia:** recuento completo **mensual** (dato real confirmado
+  directamente por la propiedad, 2026-10-13) — más una revisión rápida de
+  stock y caducidades en el día a día, que no sustituye al recuento
+  mensual.
+- **Cómo se registra:** hoja de control interno (mismo log que cierre de
+  caja, o uno propio — a decidir al construir la plantilla en RUN).
+- **Para qué sirve — esto es lo nuevo:** el recuento mensual tiene que
+  alimentar, como mínimo, estas tres decisiones; si no genera ninguna, no
+  vale la pena seguir haciéndolo igual:
+  1. **Ajustar el pedido del mes siguiente** — comparar consumo real
+     contra lo pedido, no pedir "lo de siempre".
+  2. **Detectar desviación de mermas** — si un producto se pierde por
+     encima de lo esperado, se investiga por qué (caducidad, porciones,
+     posible descontrol) antes del siguiente ciclo.
+  3. **Identificar producto de baja rotación** — lo que casi no se mueve
+     es candidato a salir de carta o de stock fijo, conecta con 2.a
+     (rentabilidad) y con las decisiones de carta de la propiedad.
+- **Quién revisa los datos y con qué cadencia:** encargado/a hace el
+  recuento; **pendiente de confirmar** quién lo analiza mes a mes (¿la
+  propia Blanca, Andrea/Sergio, o se delega en el encargado/a con un
+  umbral de alerta?) — sin esto, el inventario sigue siendo un dato que
+  nadie mira, aunque exista.
 - **A quién se reporta:** *pendiente de confirmar* — hoy no hay un
   reporte periódico descrito hacia Propiedad, solo el registro interno.
 
@@ -210,7 +232,8 @@ con el guion completo — frases incluidas — en el Operations Playbook
 
 **Conocimiento de producto** — requisito ligado al principio 4, no
 opcional: todo el equipo debe poder explicar qué es el café de
-especialidad, que se tuesta en Madrid, y las preparaciones básicas de la
-carta. El contenido de formación en sí (glosario, fichas de producto)
-vive en material de formación aparte (RUN) — aquí solo fijamos que es un
-estándar exigido, no una opción.
+especialidad, que se tuesta en Madrid, **que la bollería y pastelería
+salen de nuestro propio obrador** (no son producto comprado), y las
+preparaciones básicas de la carta. El contenido de formación en sí
+(glosario, fichas de producto) vive en material de formación aparte
+(RUN) — aquí solo fijamos que es un estándar exigido, no una opción.

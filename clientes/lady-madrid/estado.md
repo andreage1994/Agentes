@@ -158,6 +158,39 @@ archivo mínimo de una sola fórmula — problema del sandbox, no del
 archivo); las fórmulas son COUNTA/COUNTIF estándar, se recalculan solas
 al abrir el archivo en Excel real.
 
+**2026-10-13 (cont.) — Estructura de inventario + ajuste de identidad
+(obrador propio):**
+
+1. **Inventario mensual sin estructura.** Andrea confirma que hoy se
+   hace inventario mensual pero la información no se usa para nada.
+   Decisión: va en **Estándares de calidad (2.c)**, no en Framework de
+   SOPs — el problema es de estructura/decisión (para qué sirve, quién
+   lo analiza, qué decisiones genera), no de ejecución. Añadido a 2.c:
+   cadencia real (mensual, corrige el dato anterior que decía semanal
+   según el manual del cliente — puede que el manual describa una
+   revisión operativa distinta, no el recuento formal), y 3 decisiones
+   mínimas que debe alimentar (ajuste de pedido, desviación de mermas,
+   producto de baja rotación). Pendiente real: quién analiza los datos
+   mes a mes — sin esto, seguirá sin usarse aunque exista la estructura.
+2. **Identidad de marca — obrador propio.** Andrea se reúne con Blanca
+   (propietaria) y confirma que Lady Madrid ya no es solo "café de
+   especialidad y tostadores" — tienen obrador propio (tartas y
+   brioche), y es parte de su identidad. Confirmado además por
+   `Lady_Madrid_x_TBNB_4.pptx.pdf` (propuesta gastronómica junio 2026,
+   ya habla de "specialty coffee, obrador propio y una propuesta con
+   identidad propia" y plantea el obrador como activo estratégico de
+   marca, no solo de producción). Actualizado en el documento de
+   Architecture: 2.a (valores de marca), 2.b (principio 1, qué se
+   explica al cliente primerizo) y 2.d (conocimiento de producto
+   mínimo exigido). **Pendiente del lado de Andrea** (fuera de este
+   repo): revisar el manual de atención al cliente real (secciones 1 y
+   7 solo hablan de café, no mencionan el obrador) y cualquier material
+   de marca/web/redes que siga describiendo Lady Madrid solo como
+   "specialty coffee roasters" sin el obrador. El F&B Bible no necesita
+   cambio todavía — sus secciones de identidad (Filosofía gastronómica,
+   Concepto culinario, Filosofía de producto) siguen en blanco, pero
+   habrá que incluir el obrador cuando se rellenen.
+
 ## Material de origen del cliente (en uso, no reproducido aquí)
 
 - Manual interno de atención al cliente (22 secciones, versión 2025).
