@@ -165,9 +165,12 @@ responde y con qué frecuencia:
 - **Niveles de resolución:** Equipo (incidencias de servicio del
   día a día) → Encargado/a (si no se resuelve en el momento, errores de
   cobro) → Dirección (quejas graves o riesgo reputacional).
-- **Pendiente de definir:** si las quejas graves quedan registradas en
-  algún sitio para seguimiento — conecta con 6.g (Escalado de
-  decisiones), que todavía está abierto.
+- **Registro y seguimiento:** toda queja que escala a nivel Encargado/a
+  o Dirección queda registrada en un log (Excel) para seguimiento — no
+  se resuelve y se olvida. Responsable de rellenarlo: encargado/a de
+  turno. La plantilla del log vive en RUN (`run/Log_de_Quejas_Lady_
+  Madrid.xlsx`), no aquí — en Architecture solo fijamos que existe y
+  quién lo usa.
 - El guion de respuesta para cada tipo de incidente (qué decir, en qué
   orden) vive en el Operations Playbook (RUN) — aquí solo fijamos la
   estructura de a quién le corresponde cada nivel.

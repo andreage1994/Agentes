@@ -144,6 +144,20 @@ mantener.cat en una, "El Chandrío" en otra). No resuelven ningún hueco
 de este documento, pero conviene que alguien de TBNB limpie esas
 plantillas antes de que se reutilicen con otro cliente.
 
+**2026-10-13 (cont.) — Primer entregable real de RUN: log de quejas.**
+Andrea confirma que las quejas escaladas quedan registradas en un log
+Excel — se crea `run/Log_de_Quejas_Lady_Madrid.xlsx`: pestaña de
+instrucciones + pestaña "Log" con resumen automático (total, resueltas
+en el momento, con seguimiento pendiente vía COUNTA/COUNTIF), columnas
+con lista desplegable (categoría, nivel de resolución, resuelto en el
+momento, seguimiento necesario) y una fila de ejemplo. Resuelve el
+pendiente de 2.c sobre registro de quejas graves. **Nota técnica:** no
+se pudo verificar el recálculo de fórmulas con LibreOffice en este
+entorno (timeout en la macro de recálculo, reproducido incluso con un
+archivo mínimo de una sola fórmula — problema del sandbox, no del
+archivo); las fórmulas son COUNTA/COUNTIF estándar, se recalculan solas
+al abrir el archivo en Excel real.
+
 ## Material de origen del cliente (en uso, no reproducido aquí)
 
 - Manual interno de atención al cliente (22 secciones, versión 2025).
