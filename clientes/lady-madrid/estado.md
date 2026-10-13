@@ -321,3 +321,73 @@ mismo criterio que en la sección 2. Pendientes reales que quedan
 abiertos dentro de esta sección: detalle operativo de Parquesur, y si
 existe un canal de comunicación interna turno a turno (esto último
 también estaba pendiente desde 6.f en el documento de trabajo antiguo).
+
+**2026-10-13 (cont.) — Profundización de la sección 3 + desarrollo de
+las secciones 4, 5, 6 y 7, con apoyo de expertos en hostelería y
+servicio.** A petición de Andrea, se convocan en paralelo varios
+expertos (vía subagentes) para desarrollar en profundidad los bloques
+operativos del documento, todos con la misma instrucción: usar solo
+material real ya reunido, mantener el tono cálido/didáctico y el límite
+estricto Architecture (nunca bajar a SOPs literales de RUN). Cada uno
+entregó su borrador en el scratchpad de la sesión; se revisaron los
+cinco y se integraron directamente en el documento final.
+
+- **Sección 3 (profundizada):** se mantiene la misma estructura a-f,
+  pero con más densidad de razonamiento experto sobre lo ya confirmado
+  — p. ej., el trade-off real de no centralizar la producción entre
+  locales (resiliencia hoy vs. coste de escala si se suma un tercer
+  local), por qué el turno continuo evita el coste del turno partido, el
+  riesgo real de que la rotación total en barra afecte a la consistencia
+  del café, y la lógica de fondo de segmentar proveedores (mayorista
+  para commodity, especializado para producto sensible). Preguntas
+  abiertas nuevas: quién decide cuánto producir cada día en el obrador y
+  con qué criterio; si conviene tener una alternativa de calidad similar
+  para los proveedores especializados clave.
+- **Sección 4 (Layout operativo), nueva, a-h:** desarrollada con honestidad
+  sobre lo poco que hay de dato físico real — solo tenemos la
+  distribución de mesas del TPV (Front of House, Capacidad operativa:
+  ~44 plazas), no un plano completo del local. Para diseño de flujos,
+  circulaciones, señalética, puntos críticos y ergonomía, en vez de
+  inventar, se formula qué información concreta haría falta levantar
+  (plano del local, fotos, visita de servicio en marcha) — quedan como
+  preguntas abiertas explícitas. Back of House se desarrolla solo a
+  nivel conceptual (existe una zona de producción diferenciada, no
+  sabemos su distribución interna).
+- **Sección 5 (Customer journey operativo), nueva, a-f:** mira el mismo
+  recorrido de servicio que ya existe en 2.d, pero desde la perspectiva
+  del cliente en vez de la del equipo — sin repetir esa lista de 10
+  pasos. Aporta: los touchpoints no humanos (expositor del obrador,
+  carta física, TPV/ticket, baño), 4 momentos de verdad priorizados
+  (primera impresión, llegada de bebida/comida, resolución de un fallo,
+  despedida), los tiempos de 2.c reagrupados en 3 bloques de journey, una
+  curva de intensidad de presencia del equipo por etapa, y el ritmo del
+  servicio como percepción distinta de la suma de tiempos.
+- **Sección 6 (Organización del equipo), nueva, a-g:** migra y reescribe
+  en el tono cálido todo el contenido real que ya existía en el
+  documento de trabajo antiguo (organigrama, roles, rotación funcional,
+  responsabilidades, staffing con la estructura real de turnos
+  L-J/viernes-festivos/fin de semana, ratio de servicio), y profundiza
+  con criterio experto donde estaba más esbozado (Coberturas: por qué la
+  polivalencia no da margen de más personas aunque dé flexibilidad de
+  quién cubre; Escalado de decisiones: generaliza el principio ya usado
+  para quejas a otras decisiones del día a día). Mantiene sin resolver,
+  tal cual estaban: la discrepancia de horario (7:45-20:30 L-J del
+  cliente vs. 9:30-21:30 de la captura de Google), el desglose de
+  responsabilidades del encargado/a, el protocolo para más de una baja
+  simultánea, y el canal de comunicación interna.
+- **Sección 7 (Operación gastronómica), nueva, a-g:** complementa la
+  sección 3 bajando al nivel de cocina/obrador en sí (producción con
+  antelación con cantidades de referencia reales de la pestaña
+  PRODUCCIONES, mise en place diferenciado mañana/tarde con datos reales
+  de MISE EN PLACE_BKF/PM). Para Ticketing y Pase, se constata con
+  naturalidad que el modelo de rotación funcional sin cocina separada
+  los simplifica hasta casi no necesitarlos — no es un hueco de
+  información, es un hecho estructural real de Lady Madrid. Preguntas
+  abiertas: si la cantidad de producción se ajusta según previsión de
+  demanda; alérgenos pendientes de confirmar (ya sabido del F&B Bible);
+  si interesa medir merma desagregada por elaboración en el futuro.
+
+Documento ya cubre las secciones 2, 3, 4, 5, 6 y 7 completas. Pendientes
+del índice real de AR04: 1 (Resumen ejecutivo, se escribe al final), 8
+(Modelo de gestión), 9 (Framework de SOPs) y 10 (Fases de implementación
+Operativa).
