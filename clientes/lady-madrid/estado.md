@@ -282,3 +282,42 @@ Propiedad, seguimiento formal de quejas graves) se mantienen, solo que
 ahora como preguntas naturales dentro del texto en vez de bullets
 etiquetados. Pendiente: confirmación de Andrea de que este tono encaja
 antes de seguir con la sección 6.
+
+**2026-10-13 (cont.) — Sección 3 (Modelo Operativo) desarrollada, a-f.**
+A petición de Andrea, se construye sobre material real ya aportado por
+el cliente, sin pedir nada nuevo: `Briefing_Actualizado.pdf` (turnos,
+rotación funcional) y, sobre todo, una relectura más profunda de
+`Escandallos_LadyMadrid.xlsx` — pestañas no usadas hasta ahora:
+EQUIPAMIENTO DE COCINA (confirma que cada ubicación tiene su propio
+equipo de producción, p. ej. una Thermomix por local — la producción no
+está centralizada), PRODUCCIONES y MISE EN PLACE_BKF/PM (confirman que
+hay dos momentos de preparación distintos: con antelación vs. justo
+antes de cada franja de servicio, mañana y tarde), PROVEDORES (confirma
+una red real de proveedores: un mayorista general — MAKRO — más
+proveedores especializados por categoría para materias primas clave —
+leche/yogur, huevo, quesos artesanales), _OBRADOR_RECETAS (confirma que
+las recetas del obrador están pensadas por ración y se escalan según
+producción, sin bajar a la receta literal — eso es RUN).
+
+Contenido por apartado: **a. Organización general** — dos ubicaciones
+(Plaza República Dominicana desarrollada a fondo, Parquesur con solo
+staffing conocido — queda pendiente levantar su detalle operativo);
+producción no centralizada. **b. Modelo de funcionamiento** — turno
+único continuo con relevos solapados, plantilla que varía por franja de
+demanda (remite a 6.d para el detalle, sin repetirlo). **c. Relación
+cocina-sala-barra** — rotación funcional total, sin fronteras fijas
+entre áreas (conecta con 6.b/6.c). **d. Flujo de información** — mismo
+equipo toma y prepara el pedido (no hace falta aviso formal sala-cocina);
+lo que sí sube es la información de gestión hacia Propiedad (ya fijado
+en 2.c). Pendiente real: confirmar si existe algún canal de turno a turno
+más allá de eso. **e. Flujos de producto** — dos momentos de
+preparación (con antelación / mise en place inmediato) y camino corto de
+cada producto hasta la mesa. **f. Modelo de producción** — producción
+propia (obrador) + compra a proveedores especializados, conectado con el
+principio de producto de 2.a.
+
+Todo a nivel de estructura (Architecture), sin bajar a SOPs literales —
+mismo criterio que en la sección 2. Pendientes reales que quedan
+abiertos dentro de esta sección: detalle operativo de Parquesur, y si
+existe un canal de comunicación interna turno a turno (esto último
+también estaba pendiente desde 6.f en el documento de trabajo antiguo).

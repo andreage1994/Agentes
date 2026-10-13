@@ -271,3 +271,112 @@ una vez tengamos ese punto de partida real:
   producto y su onboarding, frente al calendario que nos marcamos. Si no
   medimos esto, lo de "cerrar el hueco de formación" se queda en
   intención, no en algo que podamos comprobar.
+
+---
+
+## 3. Modelo Operativo
+
+La sección anterior habla del espíritu. Esta habla de cómo está montado
+el negocio por dentro: cómo se organiza el día a día, cómo se relacionan
+las áreas entre sí, y de dónde sale cada cosa que acaba en la mesa.
+
+### a. Organización general
+
+Hoy operamos en dos locales. **Plaza República Dominicana** es el que
+está desarrollado a fondo en este documento, con su propia estructura de
+turnos y aforo (ver sección 6). **Parquesur** es la segunda ubicación,
+con su propio equipo — un encargado o encargada a jornada completa más
+tres personas a jornada parcial — pero todavía no tenemos levantado el
+mismo nivel de detalle operativo (aforo, turnos, reparto de tareas).
+
+Lo que sí sabemos es que la producción no está centralizada en un único
+local: cada ubicación tiene su propio equipo de producción (por ejemplo,
+cada una cuenta con su propia Thermomix), así que cada local resuelve su
+propio obrador y su propia cocina, sin depender de que uno produzca para
+el otro. Más allá de esto, el modelo de negocio es el mismo en los dos
+locales: cafetería de especialidad con servicio en mesa y un equipo
+polivalente, sin puestos fijos. Queda pendiente levantar para Parquesur
+la misma información que ya tenemos de Plaza República Dominicana, antes
+de poder dar esta sección por cerrada en las dos ubicaciones.
+
+### b. Modelo de funcionamiento
+
+El día funciona en un único turno continuo, de apertura a cierre — no
+hay turno partido. Quien abre no se va a media mañana para volver por la
+tarde, y los relevos se solapan en vez de cortarse en seco: siempre hay
+alguien que ya conoce cómo va el servicio en el momento del cambio. La
+plantilla tampoco es la misma a todas horas: crece en las franjas de más
+movimiento — la mañana de fin de semana, el refuerzo de los viernes y
+festivos, el pico de tarde entre las 16:00 y las 19:00h — y se ajusta a
+la baja en las franjas tranquilas. El detalle de personas y horarios por
+franja vive en la sección 6.d (Staffing); lo que fijamos aquí es el
+principio de fondo: la plantilla respira con la demanda, no es un número
+fijo durante todo el día.
+
+### c. Relación cocina–sala–barra
+
+Aquí no hay una frontera rígida entre cocina, barra y sala: es el mismo
+equipo el que rota entre las tres. No existe la figura fija de
+"camarero/a de sala" frente a "barista de barra" — todo el equipo está
+formado para moverse entre atención al cliente y toma de comandas,
+preparación de bebidas, preparación de tostadas y brioche, y apoyo de
+office, según lo que pida cada momento (ver 6.b y 6.c).
+
+Esto tiene una ventaja clara para un local de este tamaño: nadie se
+queda bloqueado en una tarea mientras otra zona se satura. Pero también
+tiene un límite que hay que vigilar — si todo el mundo puede hacer de
+todo, hace falta que el encargado o encargada reparta bien quién hace
+qué en cada momento del turno. Sin ese reparto, la polivalencia deja de
+ser una ventaja y se convierte en desorden. Cómo se hace ese reparto
+turno a turno es justo lo que recoge el Operations Playbook.
+
+### d. Flujo de información
+
+Un pedido nace en la mesa y se registra en el TPV. Como el mismo equipo
+rota entre funciones (ver 6.b), casi siempre es la misma persona quien
+toma el pedido y quien lo prepara — no hace falta un sistema de aviso
+entre "sala" y "cocina" como en un restaurante con equipos separados.
+
+Lo que sí tiene que subir es la información de gestión: lo que pasa en
+cada turno — incidencias, quejas, lo que falta de producto — llega
+primero al encargado o encargada, y de ahí sube a Propiedad, tal como ya
+fijamos en 2.c para inventario, caja y quejas. Queda una cosa por
+confirmar: si además de este canal hacia Propiedad existe algún sitio
+fijo donde quede constancia de lo que pasa de un turno a otro — un grupo
+de equipo, un cuaderno de turno, una reunión — o si todavía no hay nada
+así y es un hueco real que conviene cerrar.
+
+### e. Flujos de producto
+
+Antes de llegar a la mesa, el producto pasa por dos momentos distintos.
+El primero es la producción con antelación: lo que no se puede hacer al
+momento porque lleva tiempo — salsas, cremas, encurtidos, la yema
+curada, los huevos pochados — se prepara con días de margen y queda
+listo para usar. El segundo es el mise en place inmediato, justo antes
+de cada franja de servicio (hay una lista propia para la mañana y otra
+para la tarde): lo que tiene que estar a mano y en su sitio para que el
+servicio no se pare a medio turno.
+
+A partir de ahí, cada producto sigue un camino corto: la bollería y las
+tartas del obrador van directas al expositor de sala; el café se muele y
+se prepara en el momento en barra; las tostadas se montan a partir de lo
+que ya dejó listo el mise en place. Ningún producto espera de más entre
+que se hace y se sirve — es parte de por qué puede presentarse siempre
+como recién hecho.
+
+### f. Modelo de producción
+
+Combinamos dos formas de producción. La primera es propia: el obrador
+elabora su propia bollería y pastelería — brioche, tartas — con recetas
+pensadas por ración y escaladas según lo que haga falta producir cada
+día. No se compra hecho.
+
+La segunda es la compra a proveedores externos, y aquí tampoco hay un
+proveedor único: hay un mayorista de referencia para secos, conservas y
+menaje general, y proveedores especializados para las materias primas
+donde la calidad importa más que el precio — la leche y el yogur, el
+huevo fresco, los quesos artesanales de sierra. Esta mezcla no es
+casualidad: conecta directamente con el principio de 2.a de que el
+producto es parte de lo que nos distingue como marca. No todo tiene que
+salir del mismo sitio si eso compromete la calidad de lo que de verdad
+nos representa — el café, el obrador.
