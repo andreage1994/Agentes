@@ -282,192 +282,110 @@ las áreas entre sí, y de dónde sale cada cosa que acaba en la mesa.
 
 ### a. Organización general
 
-Hoy operamos en dos locales. **Plaza República Dominicana** es el que
-está desarrollado a fondo en este documento, con su propia estructura de
-turnos y aforo (ver sección 6). **Parquesur** es la segunda ubicación,
-con su propio equipo — un encargado o encargada a jornada completa más
-tres personas a jornada parcial — pero todavía no tenemos levantado el
-mismo nivel de detalle operativo (aforo, turnos, reparto de tareas).
+Por encima de lo que pasa en cada turno, hay dos niveles de
+responsabilidad distintos, y conviene separarlos con claridad porque de
+ahí cuelga el resto del documento.
 
-Lo que sí sabemos es que la producción no está centralizada en un único
-local: cada ubicación tiene su propio equipo de producción (por ejemplo,
-cada una cuenta con su propia Thermomix), así que cada local resuelve su
-propio obrador y su propia cocina, sin depender de que uno produzca para
-el otro. Más allá de esto, el modelo de negocio es el mismo en los dos
-locales: cafetería de especialidad con servicio en mesa y un equipo
-polivalente, sin puestos fijos.
+**Propiedad** lleva el control financiero y estratégico del negocio: la
+cuenta de resultados, las decisiones de inversión, hacia dónde crece
+Lady Madrid. Es quien recibe el análisis mensual de inventario y caja
+que ya fijamos en 2.c, y quien toma las decisiones de fondo a partir de
+esos números.
 
-Que cada local se baste a sí mismo tiene una ventaja clara: ningún
-problema en un sitio — una Thermomix averiada, un pedido que llega tarde,
-un día flojo de producción — se transmite al otro. Cada local vive su
-propio día sin depender de una ruta de reparto entre locales, sin cadena
-de frío que gestionar entre uno y otro, y sin que un mal día en Parquesur
-le quite producto a Plaza República Dominicana o al revés. A esta escala
-— dos locales, equipos pequeños — montar una producción centralizada
-tendría un coste de estructura (una furgoneta, horarios de reparto, quién
-controla que lo que sale de un obrador central llega en condiciones al
-otro) que probablemente no compensa todavía.
+**El encargado o encargada de turno** es quien responde de que la
+operativa funcione de verdad, local a local: que se cumplan los
+estándares de 2.c, que los checklists y las tareas definidas se hagan, y
+que el equipo trabaje según lo que recoge este documento — y, más
+adelante, según el Operations Playbook y el Manual de Roles que se
+construyen sobre él. No decide el rumbo del negocio; garantiza, turno a
+turno, que el negocio se ejecuta tal como se ha pensado.
 
-Pero esto también tiene un precio, y conviene tenerlo presente de cara a
-crecer: cada local compra, produce y tira sus propias mermas por
-separado, sin la ventaja de escala de producir en un único sitio para
-varios puntos de venta — y cada receta, cada proceso, tiene que
-replicarse bien en dos cocinas distintas en vez de controlarse en una
-sola. El objetivo que el propio proyecto se ha marcado para la nueva
-ubicación — procesos claros, medibles y replicables entre
-establecimientos, sin perder la personalidad de Lady Madrid — depende de
-que este documento, el Operations Playbook y el Manual de Roles se
-apliquen igual en todos los locales, precisamente porque no hay una
-cocina central que ya garantice esa uniformidad por diseño. Dicho de otro
-modo: con producción descentralizada, la consistencia entre locales no
-viene de la estructura, tiene que venir de que todos trabajen con la
-misma receta, el mismo escandallo y el mismo criterio — que es
-exactamente lo que persigue este documento.
-
-Si el día de mañana se suma un tercer local, merece la pena revisar si
-este modelo sigue siendo el más eficiente o si para entonces ya compensa
-centralizar parte de la producción — pero eso es una decisión para más
-adelante, no algo que haya que resolver ahora.
-
-Queda pendiente levantar para Parquesur la misma información que ya
-tenemos de Plaza República Dominicana — aforo, turnos, reparto de tareas
-— antes de poder dar esta sección por cerrada en las dos ubicaciones. No
-es un detalle menor: en la medida en que la nueva ubicación nace para
-superar el rendimiento actual de Parquesur, entender bien cómo funciona
-Parquesur hoy es el punto de partida real con el que comparar.
+Esta distinción es la que da sentido a todo lo que viene después:
+definimos aquí cómo tiene que funcionar Lady Madrid para que Propiedad
+pueda confiar en que las cosas se hacen según lo acordado aunque no esté
+presente en cada turno, y para que el encargado o encargada tenga un
+criterio claro con el que trabajar, en vez de depender de la memoria o
+la costumbre. El detalle de quién compone el equipo bajo el encargado o
+encargada — organigrama, roles, staffing — se desarrolla en la sección
+6, incluida la diferencia entre Plaza República Dominicana y Parquesur.
 
 ### b. Modelo de funcionamiento
 
-El día funciona en un único turno continuo, de apertura a cierre — no
-hay turno partido. Quien abre no se va a media mañana para volver por la
-tarde, y los relevos se solapan en vez de cortarse en seco: siempre hay
-alguien que ya conoce cómo va el servicio en el momento del cambio. La
-plantilla tampoco es la misma a todas horas: crece en las franjas de más
-movimiento — la mañana de fin de semana, el refuerzo de los viernes y
-festivos, el pico de tarde entre las 16:00 y las 19:00h — y se ajusta a
-la baja en las franjas tranquilas. El detalle de personas y horarios por
-franja vive en la sección 6.d (Staffing); lo que fijamos aquí es el
-principio de fondo: la plantilla respira con la demanda, no es un número
-fijo durante todo el día.
-
-Que no haya turno partido no es solo una cuestión de comodidad para el
-equipo — es también una decisión operativa. El turno partido tiene un
-coste que se nota en cualquier negocio que lo usa: la persona que vuelve
-por la tarde ha perdido el hilo de lo que pasó esa mañana, y cada
-reincorporación es un pequeño arranque en frío. Con un turno continuo, el
-conocimiento de cómo va el día — qué mesa ha tenido un problema, qué
-producto se está agotando, cómo viene de cargado el servicio — no se
-pierde entre medias, aunque las personas vayan cambiando.
-
-Y es justo ahí donde está el matiz que conviene tener claro: la
-continuidad no se consigue porque dos personas coincidan físicamente en
-cada cambio de turno, sino porque en cada relevo se solapa solo una parte
-del equipo, nunca todo a la vez. Por ejemplo, entre semana el segundo
-trabajador se incorpora a media mañana y coincide un rato con quien abrió
-antes de que esa primera persona se vaya; más tarde, cuando llega quien
-cierra, es esa segunda persona — la que ya lleva toda la mañana en el
-local — quien sigue ahí para ponerle al día. El relevo en sí puede ser un
-cambio limpio de una persona por otra, pero nunca se quedan dos personas
-nuevas solas sin nadie que venga arrastrando el contexto del turno. Esa
-es la lógica del solapamiento: no hace falta que coincida todo el mundo,
-basta con que siempre quede alguien de guardia que ya sabe cómo va el
-día.
-
-La parte de ajustar la plantilla a la demanda tiene una lógica de negocio
-igual de directa: con un ticket medio todavía modesto (sección 2.d), el
-margen se cuida tanto por el lado de vender un poco más por mesa como por
-el lado de no pagar horas de más en los momentos tranquilos ni quedarse
-corto en los momentos fuertes. Ninguna de las dos cosas sale gratis:
-tener de más en una franja floja es coste sin venta que lo sostenga, y
-tener de menos en una franja fuerte es el riesgo real de que el servicio
-se resienta justo cuando más clientes hay para fidelizar. Por eso la
-plantilla variable no es solo organización del equipo — es también una
-palanca de rentabilidad.
+En la plantilla general de TBNB, este apartado recogería el patrón de
+turnos y cómo respira la plantilla con la demanda. Para Lady Madrid, ese
+contenido real — turno continuo sin turno partido, plantilla que crece y
+baja según la franja — ya está desarrollado con todo el detalle y las
+cifras reales de turnos en la sección 6.d (Staffing). Repetirlo aquí en
+general, sin esas cifras, no añadía nada nuevo, así que no lo
+duplicamos: este punto remite directamente a 6.d.
 
 ### c. Relación cocina–sala–barra
 
-Aquí no hay una frontera rígida entre cocina, barra y sala: es el mismo
-equipo el que rota entre las tres. No existe la figura fija de
-"camarero/a de sala" frente a "barista de barra" — todo el equipo está
-formado para moverse entre atención al cliente y toma de comandas,
-preparación de bebidas, preparación de tostadas y brioche, y apoyo de
-office, según lo que pida cada momento (ver 6.b y 6.c).
+Durante un turno, el trabajo se organiza en tres funciones, aunque quién
+las ocupa cambie de un día para otro. El **camarero o camarera** es el
+contacto principal con el cliente: da la bienvenida, toma la comanda y
+la introduce en el sistema (TPV). Desde ahí, el pedido se reparte solo:
+el **barista** recibe su ticket con la parte de bebidas, y si el pedido
+incluye comida, la **cocina** recibe el ticket correspondiente.
+Cualquiera de los tres puede acabar llevando el plato o la bebida a la
+mesa — no hace falta que sea literalmente quien tomó la comanda quien la
+sirva.
 
-Esto no quiere decir que no haya ningún orden dentro del turno. Hay dos
-maneras distintas de organizarse, y cuál se usa depende de la presión del
-momento. Cuando el volumen de trabajo es alto — la mañana de un fin de
-semana es el ejemplo más claro — tiene sentido que, durante esa franja
-concreta, cada persona se quede asignada a una función: alguien en la
-cafetera, alguien en la elaboración de comida, alguien tomando y
-gestionando comandas, alguien en office y apoyo. No es un puesto fijo —
-mañana puede tocarle a otra persona — pero sí es una asignación clara
-mientras dura esa franja, para que nadie se pise con otra persona ni haga
-dos cosas a la vez a medio terminar. Cuando el volumen baja, esa misma
-asignación se afloja: el equipo colabora de forma más libre entre las
-tareas, sin necesidad de mantener una división que en ese momento no
-aporta nada. La polivalencia, en otras palabras, no significa que
-siempre todos hagan de todo a la vez — significa que cualquiera puede
-cubrir cualquier función, y que quién hace qué en cada momento se decide
-según lo que pide el servicio, no según una etiqueta fija de "esta
-persona es barista".
+Esto no es un reparto fijo de personas en puestos fijos: es un reparto
+de **funciones dentro de ese turno concreto**. Quién hace de camarero,
+de barista o de cocina un día determinado varía según quién esté
+trabajando y cómo lo organice el encargado o encargada (ver 6.c). Lo que
+no cambia es la filosofía de fondo: nadie se queda anclado en su función
+si hay algo que hacer en otro lado. Si una persona está libre, ayuda a
+quien más lo necesite en ese momento, sea o no su función asignada ese
+día. Es el mismo principio de polivalencia que ya describimos en 6.b,
+llevado al reparto concreto de cada servicio — trabajo en equipo antes
+que "esto no me toca a mí".
 
 La ventaja de este modelo para un local de este tamaño es clara: nadie se
 queda bloqueado en una tarea mientras otra zona se satura, y una baja o
 una ausencia puntual no deja ningún hueco sin cubrir, porque en teoría
-cualquiera puede ocupar cualquier posición. También tiene una
-consecuencia positiva sobre la formación: si cualquiera puede acabar en
-barra, en office o tomando comandas, el conocimiento de producto que
-exige el principio de 2.a — "si no conocemos el producto, no podemos
-venderlo" — no puede quedarse en manos de dos o tres personas
-especializadas, tiene que llegar a todo el equipo por igual.
+cualquiera puede ocupar cualquier función. También tiene una
+consecuencia positiva sobre la formación: si cualquiera puede acabar de
+barista o en cocina, el conocimiento de producto que exige el principio
+de 2.a — "si no conocemos el producto, no podemos venderlo" — no puede
+quedarse en manos de dos o tres personas, tiene que llegar a todo el
+equipo por igual.
 
-Pero también tiene un límite que hay que vigilar — y aquí vale la pena
-ser honestos sobre el coste real de la rotación total: hay tareas, sobre
+Pero también tiene un límite que hay que vigilar — y vale la pena ser
+honestos sobre el coste real de la rotación total: hay tareas, sobre
 todo la extracción del café, donde la calidad depende en parte de la
 repetición y del criterio que se afina con la práctica constante en esa
-misma estación. Cuando esa tarea rota entre mucha gente en vez de
+misma función. Cuando esa función rota entre mucha gente en vez de
 concentrarse en quien más la ha trabajado, es más fácil que la
 consistencia varíe de un día a otro, aunque todo el equipo esté
 igualmente formado sobre el papel. Esto no significa crear un puesto fijo
-de barista — contradiría el propio modelo, y no es lo que pide ni el
-cliente ni este documento — pero sí es una razón real para que, dentro
-de la asignación por franja que ya existe, el encargado o encargada
-tenga en cuenta quién tiene mejor mano en cada estación a la hora de
-repartir quién va dónde, especialmente en los momentos de más volumen. Si
-todo el mundo puede hacer de todo, hace falta que alguien reparta bien
-quién hace qué en cada momento del turno. Sin ese reparto, la
-polivalencia deja de ser una ventaja y se convierte en desorden. Cómo se
-hace ese reparto turno a turno es justo lo que recoge el Operations
-Playbook.
+de barista — contradiría el propio modelo — pero sí es una razón real
+para que, al repartir quién hace de qué cada día, el encargado o
+encargada tenga en cuenta quién tiene mejor mano en cada función,
+especialmente en los momentos de más volumen.
+
+Cómo se decide exactamente quién hace de qué cada día es ya una decisión
+operativa turno a turno, y vive en el Operations Playbook — aquí fijamos
+el principio: funciones claras dentro del turno, personas intercambiables
+entre ellas.
 
 ### d. Flujo de información
 
-Un pedido nace en la mesa y se registra en el TPV. Como el mismo equipo
-rota entre funciones (ver 6.b), casi siempre es la misma persona quien
-toma el pedido y quien lo prepara — no hace falta un sistema de aviso
-entre "sala" y "cocina" como en un restaurante con equipos separados.
+El pedido nace en la mesa cuando el camarero o camarera lo introduce en
+el TPV. Ahí mismo se reparte, tal como describe 3.c: el ticket de
+bebidas llega al barista, el ticket de comida llega a cocina. Ese
+reparto automático es, en la práctica, el verdadero sistema de
+información entre funciones — no hace falta que nadie avise en voz alta
+"marchando una tostada": el ticket ya lo dice, y cada función sabe qué
+tiene pendiente con solo mirar lo suyo.
 
-Esto es, de hecho, una de las ventajas silenciosas del modelo descrito en
-el punto anterior: en un restaurante con cocina y sala separadas, hace
-falta un sistema — un ticket, una pantalla, una voz que avisa "marchando"
-— precisamente porque quien toma la comanda y quien la cocina son dos
-personas distintas, y ese paso de información es un punto donde se
-pierden o se confunden pedidos. Aquí, al ser con frecuencia la misma
-persona, ese paso desaparece y con él buena parte del riesgo de error
-que trae consigo.
-
-Conviene matizarlo, eso sí, con lo que ya veíamos en el punto c: ese
-"casi siempre la misma persona" es más cierto en los momentos tranquilos,
-donde el equipo se mueve con libertad entre tareas, que en los momentos
-de más volumen, donde se asignan funciones por franja y es más probable
-que quien toma la comanda y quien prepara la bebida o la tostada sean
-personas distintas trabajando codo con codo. Es precisamente en esos
-momentos de más presión — donde más falta hace que la información viaje
-bien — cuando el TPV y la comanda que queda registrada en él hacen de
-puente real entre quien toma el pedido y quien lo prepara, aunque no
-exista un sistema formal de aviso como tal. La proximidad física del
-equipo hace el resto: no hace falta una pantalla de cocina porque todos
-están a un par de pasos de distancia.
+Esto resuelve, de forma sencilla, lo que en un restaurante con brigadas
+separadas exige un sistema más elaborado (una pantalla de cocina, un
+expedidor que reparte comandas en voz alta): aquí basta con que el TPV
+separe bien el pedido por función, y con que el equipo esté lo bastante
+cerca físicamente como para que cualquiera pueda recoger y servir lo que
+ya está listo — sea o no quien lo tomó (ver 3.c).
 
 Lo que sí tiene que subir es la información de gestión: lo que pasa en
 cada turno — incidencias, quejas, lo que falta de producto — llega
@@ -589,6 +507,20 @@ precio que se paga por priorizar la calidad sobre la redundancia — y es
 una pregunta que puede valer la pena hacerse más adelante: si para esos
 proveedores clave conviene tener identificada al menos una alternativa de
 calidad similar, aunque no se use nunca.
+
+Hay una tercera capa en este modelo de producción que conviene dejar
+escrita: no está centralizado entre los dos locales. Cada ubicación
+cuenta con su propio equipo de producción (por ejemplo, cada una tiene
+su propia Thermomix) y resuelve su propio obrador, sin depender de que
+un local produzca para el otro. Esto da independencia — un problema de
+producción en un local no se transmite al otro — pero también tiene un
+precio de cara a crecer: cada receta y cada proceso tiene que
+replicarse bien en dos cocinas distintas, en vez de controlarse desde
+una sola. Es la razón de fondo por la que este documento, el Operations
+Playbook y el Manual de Roles tienen que aplicarse igual en todos los
+locales: con producción descentralizada, la consistencia no viene de la
+estructura, tiene que venir de que todos trabajen con la misma receta,
+el mismo escandallo y el mismo criterio.
 
 ---
 
@@ -1188,32 +1120,33 @@ cada vez.
 
 ### c. Ticketing
 
-Aquí conviene ser claros, porque la respuesta real es distinta de la que
-tendría un restaurante con cocina y sala separadas. No existe un sistema
-de comandas que viaje de la sala a una cocina aparte — no hace falta,
-porque, como ya se explica en 3.d, casi siempre es la misma persona
-quien toma el pedido en mesa y quien lo prepara en barra u obrador. El
-pedido nace y se resuelve en las mismas manos.
+Aquí la respuesta real es más parecida a la de un restaurante con
+funciones separadas de lo que podría parecer por la rotación del equipo.
+El TPV reparte el pedido en el momento en que el camarero o camarera lo
+toma: el ticket de bebidas llega al barista, el ticket de comida llega a
+cocina (ver 3.c y 3.d). No hace falta que nadie "cante" la mesa en voz
+alta ni avise manualmente entre sala y cocina — el propio sistema ya
+separa la comanda y se la asigna a quien tiene que prepararla.
 
-Eso no significa que no haya ningún tipo de orden. El TPV registra cada
-pedido en el momento en que se toma, y ese registro — más que un aviso
-entre dos equipos — es lo que ayuda a no perder el hilo cuando hay varias
-mesas abiertas a la vez: qué se pidió, en qué orden, qué falta por servir.
-Es un ticketing al servicio de la propia persona que atiende, no una
-señal que cruza de un lado del local al otro.
+Esto no sustituye a la coordinación del equipo, la simplifica: cada
+función sabe en todo momento qué tiene pendiente con solo mirar sus
+propios tickets, en vez de depender de que alguien se acuerde de avisar
+de viva voz en medio del ajetreo de un servicio cargado.
 
 ### d. Pase
 
-Por la misma razón, no hay un pase físico en el sentido clásico — ese
-punto donde un expedidor revisa cada plato y "canta" la mesa antes de que
-salga un camarero a llevarlo. Lo que sí existe, de forma mucho más
-sencilla, es un punto de entrega: la barra y el mostrador del obrador,
-donde el café se acaba de montar o la tostada se termina de montar, y
-desde donde la misma persona que lo ha preparado lo lleva directamente a
-la mesa. El pase y quien sirve son la misma persona, así que el control
-de calidad de ese último vistazo antes de salir — ¿está bien presentado,
-falta algo, está a la temperatura que debería — lo hace quien lo prepara,
-no una tercera persona.
+Tampoco hay aquí un pase clásico con un expedidor que revisa cada plato
+antes de que salga. El punto de entrega real son dos: la barra, donde el
+barista deja lista la bebida, y el mostrador de cocina/obrador, donde
+queda lista la comida. Desde ahí, cualquiera que esté libre en ese
+momento — no necesariamente quien lo preparó — lo lleva a la mesa, que es
+justo la filosofía de equipo que ya describimos en 3.c y 6.b: nadie se
+queda anclado esperando a servir solo lo suyo.
+
+El control de calidad de ese último vistazo — ¿está bien presentado,
+falta algo, está a la temperatura que debería — lo hace quien prepara
+cada cosa, en el momento de dejarla en su punto de entrega; no hay una
+tercera persona que lo revise aparte.
 
 ### e. Tiempos
 
@@ -1234,10 +1167,11 @@ momento, pero sobre una base ya dispuesta en barra. Las tostadas se
 montan rápido precisamente porque el mise en place ya dejó cada
 componente listo para ensamblar. El riesgo real de retraso no está en
 ninguno de estos pasos por separado, sino en las horas de más afluencia
-— la mañana de fin de semana, el pico de 16:00 a 19:00h — cuando la
-misma persona reparte su tiempo entre tomar pedidos, preparar y servir.
-De ahí que el staffing de la sección 6.d esté pensado para crecer
-justo en esas franjas.
+— la mañana de fin de semana, el pico de 16:00 a 19:00h — cuando varias
+mesas compiten a la vez por las mismas tres funciones (3.c), y un
+atasco en una de ellas — por ejemplo, el barista saturado de tickets —
+se nota enseguida en las otras. De ahí que el staffing de la sección
+6.d esté pensado para crecer justo en esas franjas.
 
 ### f. Calidad
 
@@ -1280,10 +1214,11 @@ en cada momento, y ese alguien es el encargado o encargada de turno.
 El punto de encuentro físico entre "lo que se prepara" y "lo que se
 sirve" es la barra y el mostrador del obrador — no hace falta que sea
 nada más, porque es ahí donde ya confluyen las dos cosas de forma
-natural: el plato queda listo ahí mismo y lo recoge quien está libre en
-ese momento, sin necesidad de un aviso formal. Donde sí hace falta
-coordinación activa es en las horas de más movimiento, cuando varias
-mesas y varios pedidos en barra compiten por la misma persona: ahí es
+natural: el ticket ya avisó qué hay que preparar (3.d), y el plato queda
+listo ahí mismo para que lo recoja quien esté libre en ese momento.
+Donde sí hace falta coordinación activa es en las horas de más
+movimiento, cuando varias mesas y varios pedidos en barra compiten por
+las mismas funciones: ahí es
 donde el encargado o encargada prioriza — qué se atiende primero, quién
 se queda en sala y quién refuerza en barra — para que, como ya dice 2.b,
 la presión se gestione por dentro y no se note desde la mesa.

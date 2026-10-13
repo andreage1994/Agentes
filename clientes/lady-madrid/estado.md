@@ -391,3 +391,44 @@ Documento ya cubre las secciones 2, 3, 4, 5, 6 y 7 completas. Pendientes
 del índice real de AR04: 1 (Resumen ejecutivo, se escribe al final), 8
 (Modelo de gestión), 9 (Framework de SOPs) y 10 (Fases de implementación
 Operativa).
+
+**2026-10-13 (cont.) — Corrección de fondo en la sección 3, a partir de
+una aclaración directa de Andrea sobre cómo funciona el servicio de
+verdad.** Andrea señala que 3.a (Organización general) había quedado
+demasiado genérico (duplicaba, de hecho, lo que ya cuenta 6.a) y pide
+reenfocarlo como jerarquía de responsabilidad: **Propiedad** (control
+financiero/estratégico) vs. **encargado/a** (que la operativa funcione,
+se cumplan estándares y checklists). Reescrito así. La idea de
+producción no centralizada entre los dos locales, que antes vivía en
+3.a, se traslada a 3.f (Modelo de producción), donde encaja mejor
+temáticamente.
+
+Sobre 3.b (Modelo de funcionamiento), Andrea pide valorar con criterio
+propio si aporta algo o se puede eliminar. Decisión: se elimina como
+contenido propio — lo que tenía (turno continuo, plantilla variable) ya
+vive con más detalle y cifras reales en 6.d, así que mantenerlo aparte
+sin esas cifras era precisamente el relleno genérico señalado. Se deja
+el apartado con una remisión directa a 6.d, sin duplicar contenido (se
+mantiene la letra "b." para no romper la numeración del resto del
+documento, que ya referencia 3.c/3.d/3.e/3.f desde varias secciones).
+
+**Corrección más importante: el flujo real de comandas.** Andrea aclara
+que sí existe un sistema de tickets diferenciado por función — el
+camarero/a toma la comanda y la introduce en el TPV, el ticket de
+bebidas llega al barista, el ticket de comida llega a cocina (si
+aplica) — y que cualquiera que esté libre puede llevar el pedido a la
+mesa, no necesariamente quien lo tomó. La asignación a estas tres
+funciones (camarero/barista/cocina) puede rotar día a día; la filosofía
+de fondo es trabajo en equipo, no "esto no me toca". Esto **contradice
+directamente** lo que se había asumido en 3.d (Flujo de información) y
+en 7.c/7.d (Ticketing/Pase) de la sección gastronómica, donde se había
+escrito que "no hace falta un sistema de aviso porque es la misma
+persona quien toma y prepara el pedido" — una suposición incorrecta,
+hecha sin este dato real. Corregido en las tres secciones (3.c, 3.d,
+7.c, 7.d) para que el documento no se contradiga a sí mismo, y además
+se ajustaron dos frases menores en 7.e y 7.g que asumían la misma idea
+equivocada. Rotación funcional total (confirmada por el cliente en
+`Briefing_Actualizado.pdf`) y reparto de funciones por ticket dentro de
+un turno **no son contradictorios**: no hay puesto fijo y permanente,
+pero sí hay reparto de funciones concretas dentro de cada turno, con el
+TPV haciendo de sistema de aviso entre ellas.
