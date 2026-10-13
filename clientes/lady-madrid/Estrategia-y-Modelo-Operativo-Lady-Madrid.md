@@ -215,12 +215,67 @@ estructura — el paso a paso de cómo contar sigue en RUN.
    — turnos sin definir, posiciones sin diferenciar, checklists sin
    formalizar, quejas sin registrar, inventario sin usar son todos
    síntomas de este mismo problema de fondo, no huecos sueltos.
+
+   **Cómo:**
+   - Este documento (Architecture) como base escrita única — qué existe,
+     quién, con qué frecuencia — en vez de depender de lo que cada
+     persona recuerda o de cómo "se ha hecho siempre".
+   - Su desarrollo en RUN (Operations Playbook, Manual de Roles) como el
+     paso a paso ejecutable sobre esta misma base, no un documento
+     paralelo con criterio distinto.
+   - Todo proceso nuevo que se defina sigue el mismo patrón ya usado
+     aquí: qué existe, responsable, frecuencia, cómo se registra, a
+     quién se reporta — antes de escribir el detalle de ejecución.
+   - Revisión periódica del propio documento (no "se escribe una vez y
+     se olvida") — cadencia a fijar en la sección 10 (Fases de
+     implementación).
+
 2. **Sostener y mejorar el ticket medio** (objetivo: mínimo 8,50€,
    idealmente 9-10€ en la ubicación nueva).
+
+   **Cómo:**
+   - Formación periódica en upselling/cross-selling, ligada al principio
+     4 (conocimiento de producto) y a los dos momentos de upselling ya
+     marcados en el recorrido de servicio (pasos 3 y 8, abajo).
+   - Revisión de márgenes por plato con cadencia definida — el food
+     cost % ya se calcula por producto en `Escandallos_LadyMadrid.xlsx`
+     (pestaña Menu Engineering); falta decidir quién lo revisa y cada
+     cuánto, mismo patrón que el inventario (2.c).
+   - Objetivo de ticket medio visible y comunicado al equipo, no solo un
+     número en un documento interno.
+   - Seguimiento del ticket medio real frente al objetivo, con la misma
+     cadencia mensual que el análisis de inventario — conecta con
+     Propiedad (2.c) y con los KPIs (2.e).
+
 3. **Cerrar el hueco de formación operativa** que el propio briefing del
    cliente ya reconoce.
+
+   **Cómo:**
+   - Calendario de formaciones periódicas sobre producto (café, obrador,
+     alérgenos) — no formación puntual al entrar y ya está.
+   - Onboarding estructurado del equipo nuevo (primer día, primera
+     semana), que cubra tanto producto como los principios de
+     hospitalidad (b) y el recorrido de servicio (abajo) — hoy ese
+     aprendizaje depende de que alguien lo transmita de forma informal
+     en el turno.
+   - Reciclaje periódico para el equipo ya existente, no solo formación
+     de entrada para quien se incorpora.
+   - Criterio claro de qué debe saber una persona antes de trabajar sola
+     en un turno (conecta con el estándar de conocimiento de producto ya
+     fijado más abajo).
+
 4. **Tener un recorrido de servicio estructurado**, no dependiente de la
    improvisación de cada persona.
+
+   **Cómo:**
+   - El guion de 10 pasos de abajo (la estructura) + su desarrollo
+     completo con frases y ejemplos en el Operations Playbook (RUN).
+   - Práctica del guion en formación (no solo lectura) antes de que
+     alguien lo use solo en sala.
+   - Observación periódica en sala — encargado/a o Propiedad — para
+     confirmar que el guion se sigue de verdad, no solo que existe por
+     escrito. Conecta con los tiempos de referencia ya fijados en
+     estándares de calidad (2.c).
 
 **Estructura del recorrido de servicio.** Son los momentos por los que
 pasa cualquier cliente, en orden — el "qué" y el "por qué", no el "cómo

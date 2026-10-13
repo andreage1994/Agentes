@@ -240,3 +240,15 @@ IFERROR) — se recalculan solas al abrir en Excel real.
 - Foto del plano de mesas del TPV (Pza. República Dominicana): 10 mesas
   en fachada/barra (Mesa 1-10), 2 taburetes de barra (B1-B2), 6 mesas en
   zona aparte junto a las palmeras (T1-T6).
+
+**2026-10-13 (cont.) — "Cómo" de cada prioridad operativa (2.d).** A
+petición de Andrea, cada una de las 4 prioridades ya tiene su bloque de
+palancas concretas (no solo el qué): ticket medio (formación de
+upselling, revisión de márgenes vía Menu Engineering de
+`Escandallos_LadyMadrid.xlsx`, seguimiento mensual con Propiedad),
+formación operativa (calendario de formaciones periódicas, onboarding
+estructurado, reciclaje para el equipo existente), recorrido de servicio
+(práctica del guion, observación periódica en sala) y estructura de
+procesos internos (este documento como base única + su desarrollo en
+RUN). Todo a nivel de palanca/mecanismo (Architecture), sin bajar a
+ejecución.
