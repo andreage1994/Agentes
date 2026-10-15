@@ -169,48 +169,106 @@ es un primer boceto exploratorio de TBNB, una hipótesis que ya manda el
 propio cliente, o un ejercicio previo de otra fase. Antes de usarlo
 como base del informe oficial, hay que confirmarlo.
 
-## Gap analysis — qué falta antes de avanzar (para la reunión de hoy)
+## Gap analysis original (para la reunión de hoy) — estado tras la reunión
 
-1. **Fijar una única cifra de inversión** (hay cuatro circulando:
-   190.962€ solo obra, 239.561€ total pagado, 61.014€ pendiente, y
-   276.125€ usado en el borrador de escenarios) — sin esto no se puede
-   construir ni el Investment Plan ni el Viability Analysis del
-   informe real.
-2. **Traspaso: confirmar si es una vía real.** Depende de la aprobación
-   de Panadario (arrendador principal), que todavía no ha sido
-   consultado. El informe debería, como mínimo, señalar esta
-   incertidumbre como riesgo — y sería mucho mejor si en la reunión de
-   hoy se pregunta si ya se ha sondeado a Panadario, aunque sea
-   informalmente.
-3. **Validar el archivo `Abierto_Todos_Los_Dias.xlsx`**: ¿es la base de
-   partida aprobada o un borrador a descartar/revisar? Si se mantiene,
-   hay que reconciliar su cifra de inversión (276.125€) con las cuatro
-   de arriba, y confirmar si el ticket medio creciente (7€→8,50€) y los
-   10.900€/mes de gastos fijos están validados o son solo hipótesis de
-   trabajo.
-4. **Precio real del proyecto acústico de Absotec** — no viene en el
-   documento compartido.
-5. **Socios:** no hay ningún documento de pacto de socios ni reparto de
-   capital en la carpeta. Si el informe tiene que ayudar a decidir
-   entre socios, conviene saber cuántos son y cómo se reparte la
-   decisión/el capital, aunque sea a nivel general.
-6. **Hipótesis comerciales que pide el índice oficial y que no veo
-   confirmadas en ningún documento:** aforo/número de cubiertos real
-   del local, horario y días de apertura definitivos (el nombre del
-   archivo de escenarios sugiere "todos los días" pero no sé si es el
-   plan decidido o una opción a evaluar frente a otras), mix de ventas
-   por línea (comida/bebida/delivery — el P&L ya trae esas filas,
-   vacías), estacionalidad más allá de las variaciones mes a mes ya
-   intuidas en el borrador.
-7. **Plantilla de personal:** las pestañas "Turnos" y "Tabla Salarial"
-   del modelo maestro están vacías — hace falta saber plantilla
-   prevista (puestos, nº personas) y convenio/salario de referencia
-   para completar costes de personal reales, más allá de la cifra
-   genérica de "sueldos" que aparece en pagos pendientes.
-8. **Limpiar la plantilla antes de usarla con el cliente:** la pestaña
-   en italiano del modelo maestro, y la frase suelta sin terminar en el
-   pptx (sección 8) — higiene de plantilla, no bloquea avanzar pero
-   conviene revisarlo antes de compartir nada con Fuensanta/Lucia.
+1. **Fijar una única cifra de inversión.** Sigue sin fijarse una cifra
+   única; además, Andrea pide expresamente que **TBNB calcule, por su
+   cuenta, qué falta y qué no se ha tenido en cuenta** en los números
+   del cliente (no solo preguntar). Ver análisis propio más abajo.
+2. **Traspaso.** Andrea confirma que es "una dependencia súper
+   importante" y que se preguntará directamente al cliente qué hacer
+   con esto en la reunión. Sigue sin resolver — pendiente de la propia
+   reunión.
+3. **El archivo `Abierto_Todos_Los_Dias.xlsx`.** **Resuelto:** es un
+   borrador que **comparte el propio cliente**, no un ejercicio de
+   TBNB. Valoración de Andrea: **no es viable como base — le falta
+   mucha información.** No se usa como punto de partida del modelo
+   oficial (ver nota más abajo sobre sus supuestos, que además quedan
+   contradichos por las cifras reales que da Andrea en el punto 6).
+4. **Precio del proyecto acústico de Absotec.** Se solicitará al
+   cliente. Sigue pendiente.
+5. **Pacto de socios / reparto de capital.** Se preguntará al cliente
+   qué hacer con esta partida en la reunión. Sigue pendiente.
+6. **Hipótesis comerciales — resuelto con nuevos datos de Andrea:**
+   - Aforo: **44 pax** confirmado (coincide con el cálculo ya hecho a
+     partir del plano de mesas), pero **queda pendiente confirmar el
+     aforo de la terraza por separado, y si ya está aprobado/confirmado**
+     (no solo contado, sino con el visto bueno que corresponda).
+   - Horario y días: **abierto los 7 días de la semana**, pero **en
+     horario de cafetería, no de restaurante — aprox. 8:00 a 18:00h**.
+     Esto es distinto de lo que asumía el borrador del cliente (que no
+     especificaba horario, solo días).
+   - Ticket medio: **horquilla de 10-15€**, muy por encima del 7€→8,50€
+     progresivo que usaba el borrador del cliente — confirma que ese
+     borrador infravalora el ticket medio real esperado.
+   - Estacionalidad: **julio y agosto son los peores meses en Madrid**
+     (ya lo son estructuralmente, no una hipótesis a validar). Esto es
+     opuesto a lo que podría asumirse por tener terraza, y también
+     contradice al borrador del cliente, que marcaba julio como uno de
+     los meses más fuertes (110 visitas/día, el ticket medio más alto
+     de toda la tabla) — otra razón más para no partir de ese archivo.
+7. **Personal.** TBNB calculará la plantilla y los costes salariales
+   sobre una tabla salarial propia, para los puestos: **manager,
+   barista, camareros, ayudante de camarero, cocinero y ayudante de
+   cocina.** Las tablas salariales concretas se confirman con el
+   cliente en la propia reunión, para no ir y venir por email.
+8. **Higiene de plantilla (pestaña en italiano, frase suelta en el
+   pptx).** Se corrige más adelante, en el momento de completar el
+   documento real — no ahora.
+
+## Análisis propio de TBNB: qué falta por invertir que el cliente no ha
+## contemplado del todo (punto 1, calculado por nosotros)
+
+Cruzando la lista oficial de pagos pendientes
+(`Casa_Clementina_pagos_pendientes_actualizado.docx`, total 61.014€)
+contra las propias respuestas del cliente
+(`Numeros Casa Clementina.pdf`), aparecen dos huecos concretos y
+cuantificables que la lista de pendientes no recoge bien, más dos
+puntos a confirmar:
+
+1. **Mobiliario — falta presupuesto por ~7.220€.** La lista de
+   pendientes presupuesta "Muebles" en **7.000€**. Pero el propio
+   cliente dice textualmente que amueblar la cafetería entera
+   "necesitaríamos invertir unos 14.220 euros (IVA incluido)" y añade
+   que **esta cifra, a diferencia de otras, es exacta** ("lo de los
+   muebles sí es cifra exacta"). Es decir: la lista oficial de
+   pendientes **se queda corta en mobiliario por 7.220€** frente al
+   propio dato del cliente. (Los pequeños electrodomésticos de cocina
+   sí cuadran: 3.500€ en ambos sitios.)
+2. **TPV: coste no presupuestado en ningún sitio.** El cliente dice
+   explícitamente "faltaría wifi, alarma y TPV". La lista de pendientes
+   sí incluye alarma (500€) y wifi (400€), pero **no tiene ninguna
+   línea para el TPV** — coste real pendiente de estimar, no solo de
+   confirmar.
+3. **Proyecto acústico de Absotec: 0€ presupuestado**, coste
+   desconocido (ver punto 4 del gap analysis).
+4. **A confirmar, no necesariamente un error:** la partida "Final de
+   obra: 15.000€" de la lista de pendientes — ¿es el saldo que queda
+   por pagar a KIPER sobre los 190.961,60€ de coste final de obra, o
+   una partida aparte? El cliente dice que el total pagado hasta hoy
+   (239.561,25€) ya incluye "todas las licencias, pagos a arquitectos,
+   la máquina de café, etc.", pero no dice explícitamente si la obra
+   está 100% pagada dentro de esa cifra. Conviene preguntarlo
+   directamente para no arrastrar una posible doble cuenta (o un hueco)
+   al modelo.
+5. **Recomendación, no solo hallazgo:** la obra ya se desvió un ~50%
+   sobre su presupuesto inicial (127.370€ → 190.961,60€ final), por
+   partidas no previstas (estudio unifilar, cuadro eléctrico
+   trifásico). Dado ese historial, tiene sentido recomendar en el
+   informe un **margen de contingencia** sobre las partidas todavía sin
+   cerrar del todo — sobre todo mobiliario y la maquinaria de
+   cocina/barra, que sigue sin entregarse.
+6. **Nota aparte, no es un hueco de capital:** de los 61.014€ de
+   pendientes, 2.600€ son un reembolso interno de la SL a Fuensanta (lo
+   que ella adelantó de su bolsillo), no una necesidad de capital
+   externo nuevo — conviene distinguir esta partida de las demás en el
+   Investment Plan, aunque sea correcto incluirla en el total de
+   obligaciones de la SL.
+7. **Riesgo de calendario no capitalizado:** la lista de pendientes
+   solo incluye un mes de alquiler ("Alquiler de octubre: 1.800€"). Si
+   la apertura se retrasa más allá de octubre, cada mes adicional suma
+   ~1.800-1.900€ de alquiler no presupuestado — vale la pena señalarlo
+   como coste de la propia indecisión entre socios.
 
 ## Equipo de especialistas creado para este servicio
 
@@ -234,12 +292,24 @@ proyectos de Proyección Financiera y Viabilidad de Negocio:
 
 ## Próximos pasos
 
-1. Reunión de hoy con Fuensanta/Lucia: usar el gap analysis de arriba
-   como guion de preguntas.
-2. Una vez resueltos los huecos de dato real (sobre todo el 1 y el 2),
-   empezar a rellenar el modelo maestro de Proyección Financiera con
-   `financiero-modelizacion`.
-3. Construir el Business Viability Report con `financiero-viabilidad`
-   una vez el modelo tenga números reales y validados.
-4. Pasar todo por `financiero-contable-revision` antes de entregar nada
-   al cliente.
+1. En la reunión de hoy, además de las preguntas ya identificadas
+   (traspaso/Panadario, pacto de socios, precio Absotec), trasladar al
+   cliente los dos huecos cuantificados por TBNB: el mobiliario
+   infrapresupuestado (~7.220€) y el TPV sin coste estimado — y aclarar
+   si "Final de obra: 15.000€" es saldo de KIPER o partida aparte.
+2. Confirmar con el cliente, en la propia reunión, las tablas
+   salariales de los 6 puestos (manager, barista, camareros, ayudante
+   de camarero, cocinero, ayudante de cocina).
+3. Con el aforo, horario (8-18h, 7 días), ticket medio (10-15€) y
+   estacionalidad (jul-ago flojos) ya confirmados por Andrea, empezar a
+   rellenar el modelo maestro de Proyección Financiera con
+   `financiero-modelizacion` — **no** partiendo del borrador
+   `Abierto_Todos_Los_Dias.xlsx` del cliente, que Andrea ya descarta
+   como base.
+4. Construir el Business Viability Report con `financiero-viabilidad`
+   una vez el modelo tenga números reales y validados, incluyendo el
+   margen de contingencia recomendado sobre partidas todavía abiertas.
+5. Pasar todo por `financiero-contable-revision` antes de entregar nada
+   al cliente — en particular, reconciliar la cifra única de inversión
+   total (sigue sin fijarse, punto 1 del gap analysis) y el saldo real
+   de obra pendiente.
