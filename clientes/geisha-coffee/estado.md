@@ -184,32 +184,44 @@ carta.
 Edition (marcas premium de otras categorías, referencia de tono más que
 de producto).
 
-## Gap analysis — qué necesito para continuar
+## Gap analysis — resuelto por Andrea (2026-10-15)
 
-1. **Confirmar si el equipamiento/dimensiones de cocina y los
-   vídeos/fotos ya compartidos son del local nuevo (post-mudanza de
-   octubre) o del anterior** — las fotos están fechadas julio de 2026,
-   antes del cambio. Cualquier recomendación de producto condicionada
-   por el espacio (las 10 referencias del alcance) depende de que esto
-   esté confirmado.
-2. **Aclarar "escandallos y fichas técnicas: ya conocidas"** — ¿las
-   tiene TBNB de antes, o hay que pedirlas de cero? Condiciona si
-   `culinary-development` puede calcular food cost real desde ya o
-   necesita datos nuevos.
-3. **"Acceso" para la implementación sigue "por definir"** en el propio
-   SOW — hay que concretarlo antes de las 2 jornadas de implementación
-   (fase RUN, posterior al concepto).
-4. **Dado que solo hay 10 referencias de alcance**, conviene decidir
-   pronto con el cliente (o proponer en el propio documento) el
-   criterio de selección: ¿se prioriza recuperar platos que caen fuerte
-   (jamón ibérico, CheeseCake), potenciar los que crecen (sandwich de
-   pollo, jamón serrano), cubrir el hueco de pairing con filtro
-   detectado en el análisis de ventas, o una combinación? Esto es una
-   decisión estratégica de `chef-ejecutivo`, no solo un dato que falte,
-   pero merece una conversación explícita con Andrea/el cliente dado el
-   límite de 10.
-5. **Plazo ajustado:** el proyecto ya lleva 3 de sus 15 días — conviene
-   no perder tiempo en los puntos 1-3 de arriba.
+1. **Equipamiento de cocina — confirmado, con dos matices.** Andrea
+   reconfirma la lista de equipamiento tal cual (no la marca como
+   desactualizada por la mudanza, así que se toma como vigente), con
+   dos precisiones reales: la "plancha" de cocina sala es en realidad
+   **un grill tostador**, y la placa de inducción de cocina sala es
+   **pequeña**. **Directriz de producción, clave para todo el
+   desarrollo:** el concepto tiene que construirse como **producción de
+   calidad previa (abajo, en la cocina de producción, con horno
+   convectivo y salamandra) + montaje/servicio en cocina sala** (con
+   equipamiento mucho más limitado: grill tostador, placa pequeña,
+   microondas, licuadora). Ninguna referencia nueva puede depender de
+   cocción compleja en sala — eso vive en producción.
+2. **Escandallos: no existen actualizados.** Se hicieron hace 6 años y
+   no hay nada más reciente. Se preguntará a la propiedad si tienen
+   food cost actual; **si no lo tienen, se sigue sin esa información**
+   — no bloquea el proyecto, pero `culinary-development` tiene que
+   dejarlo marcado como hueco explícito en cada referencia que no pueda
+   costear con dato real.
+3. **Acceso a las jornadas de implementación:** Andrea lo define
+   directamente con el cliente más adelante — sigue abierto, no
+   bloquea el desarrollo del concepto (solo bloqueará RU06 cuando
+   llegue el momento).
+4. **Límite de 10 referencias — resuelto con un criterio de trabajo
+   propio:** en vez de preseleccionar 10 nosotros, se preparan **20
+   referencias candidatas** y se deja que el cliente elija/recorte a
+   las 10 del alcance — así no hay riesgo de descartar algo bueno por
+   una decisión nuestra que el cliente habría hecho distinto.
+
+## Próxima tarea activa
+
+Con estos cuatro puntos resueltos (o explícitamente aparcados sin
+bloquear), hay base suficiente para que `chef-ejecutivo` arranque ya la
+Estrategia Gastronómica y una primera batería de 20 referencias
+candidatas, con `culinary-development` validando viabilidad técnica
+(espacio/equipamiento) a continuación. Plazo ajustado: el proyecto ya
+lleva 3 de sus 15 días.
 
 ## Equipo de especialistas creado para este servicio
 
