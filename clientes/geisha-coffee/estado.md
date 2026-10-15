@@ -223,6 +223,37 @@ candidatas, con `culinary-development` validando viabilidad técnica
 (espacio/equipamiento) a continuación. Plazo ajustado: el proyecto ya
 lleva 3 de sus 15 días.
 
+**2026-10-15 (cont.) — Borrador de las secciones 1-3 completado por
+`chef-ejecutivo`.** Guardado en
+`desarrollo-concepto-gastronomico-borrador.md`. Posicionamiento: "la
+comida no compite con el café, lo hace brillar o da al segmento no
+cafetero una razón de calidad equivalente para quedarse" — construido
+sobre el propio lenguaje del briefing, sin inventar un posicionamiento
+nuevo. Las 20 referencias candidatas están todas ancladas en un dato
+real de venta concreto (crecimiento a reforzar, caída a reformular, o
+pairing ya existente a formalizar) y respetan la directriz de
+producción (nada de cocción compleja en sala).
+
+Preguntas abiertas que deja el borrador, antes de pasar a
+`culinary-development`:
+1. Brand Kit/Brand Book no leídos en profundidad (archivos grandes,
+   solo en Drive) — el posicionamiento se basó en el texto del
+   briefing, no en el documento de marca completo.
+2. Carta actual (PDF de diseño, no extraíble como texto) y
+   `Geisha_Analisis_Productos_2021-2026_v5.xlsx` tampoco revisados en
+   detalle — pendiente antes de dar las reformulaciones por cerradas.
+3. Viabilidad técnica pendiente en 3 referencias concretas (nº 5, 6 y
+   9 — huevo poché, ibérico de calidad, salsa en sala).
+4. Sigue sin confirmarse si el equipamiento de cocina es realmente del
+   local nuevo (no hay foto/vídeo posterior a la mudanza).
+5. Falta decidir con Andrea si se presentan las 20 completas al
+   cliente o si TBNB preselecciona antes de la reunión.
+
+Secciones 4-7 (Product Strategy, Estrategia Económica, Recomendaciones
+de diseño de carta, Siguientes pasos) quedan pendientes para después de
+que el cliente recorte de 20 a 10, o de que `culinary-development`
+valide las referencias marcadas.
+
 ## Equipo de especialistas creado para este servicio
 
 A petición de Andrea, se crean dos agentes especializados en
