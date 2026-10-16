@@ -465,3 +465,68 @@ Incorporado en el documento final: 3.d, 3.f, 6.d, 6.f y 6.g.
 los checklists que usan actualmente y los datos de productividad por
 horas — en cuanto lleguen, hay que revisarlos para 2.c (checklists) y
 para 2.e/KPIs (productividad).
+
+**2026-10-16 — Arranca el servicio "Hospitalidad y Cultura de
+Servicio" (fase Architecture).** Andrea adjunta la plantilla maestra
+real de TBNB (`01._HOSPITALIDAD_Y_CULTURA_DE_SERVICIO_X_TBNB.pptx`),
+ya usada antes en otro proyecto (un grupo multi-concepto). Se separa
+con cuidado el framework genérico reutilizable de TBNB (estándares de
+presentación, filosofía de lenguaje, criterio de selección) del
+contenido propio de ese otro cliente (mantra, personalidades de marca,
+ejemplos de carta), que no se reutiliza — documentado en
+`fuentes/indice-plantilla-hospitalidad-cultura-servicio.md`.
+
+Se crean tres especialistas nuevos: `experto-hospitalidad` (filosofía,
+mantra, cultura vivida, guía de decisión), `gestion-personas`
+(sostenibilidad real para el equipo) y `recursos-humanos` (presentación
+personal justa, criterios de selección).
+
+**Identidad visual real incorporada:** Andrea localiza
+`Identidad Visual Lady Madrid_V3.pdf` en Drive — paleta real (Booble
+Blue #1D79ED, Coffee Cream Tone #E7DCCC, Moka Orange #E84E27, Sky Pink
+#ED9ED0, Flat Cloudy #3E3D40), tipografía (GT Alpina / PT Mono) y
+tagline real ("Specialty Coffee Roasters"). Guardado en
+`fuentes/identidad-visual-lady-madrid.md`, para usar en el diseño del
+PowerPoint.
+
+**Documento final construido en tres pasadas:**
+1. `experto-hospitalidad` desarrolla las secciones 1-5: mantra propio
+   ("No servimos mesas: recibimos personas"), nacido de los 7
+   principios ya definidos — no copiado de la plantilla original.
+2. `recursos-humanos` desarrolla las secciones 6-7: presentación
+   personal para un único perfil polivalente (no hay puestos fijos),
+   separando con cuidado lo que tiene motivo real de seguridad
+   alimentaria de lo que sería preferencia estética sin base —
+   evitando estándares distintos por género. Declara explícitamente
+   que no existe hoy una política de uniforme documentada.
+3. `gestion-personas` hace la revisión crítica transversal — y aquí
+   aparece lo más valioso del ejercicio: **9 tensiones reales** entre
+   lo que el documento de cultura promete y lo que la estructura de
+   equipo permite sostener. La más importante: el principio "la
+   atención no depende del cliente" se pide sin colchón estructural
+   (de lunes a jueves el servicio arranca con una sola persona durante
+   horas, la plantilla está "calculada muy ajustada... no
+   sobredimensionada" según el propio documento de Estrategia). También
+   señala que la rotación funcional tiene un coste de consistencia en
+   la extracción de café que el documento de cultura no recogía, que
+   no existe canal formal para que el equipo diga "esto no se
+   sostiene", y que el criterio de asignar "quién tiene mejor mano" en
+   los picos puede derivar en carga desigual sin reconocimiento.
+
+**Síntesis final** en
+`Hospitalidad-y-Cultura-de-Servicio-Lady-Madrid.md`: se integran las
+tres pasadas en un único documento, tejiendo las tensiones de
+`gestion-personas` directamente en la voz ya establecida del proyecto
+(la misma honestidad que ya se usa en el resto del documento de
+Estrategia) en vez de dejarlas como una lista de auditoría aparte. Se
+añade la nueva sección 3.6 ("Lo que el equipo necesita para sostener
+esto, no solo lo que el cliente recibe") y se enriquece 7.b
+(Compatibilidad con la marca) con el criterio sobre encajes de equipo
+que no funcionan.
+
+**Pendiente:** construir el PowerPoint final a partir de este markdown,
+con la identidad visual real de Lady Madrid. Preguntas abiertas que
+arrastra el documento (recogidas en su propio roadmap de la sección 7):
+si existe ya política de uniforme/pausas, quién revisa los cuadrantes,
+si el escalado de decisiones se formaliza en la sección 8, y si las
+tensiones de staffing se replican en Parquesur.
