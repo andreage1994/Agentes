@@ -432,3 +432,36 @@ equivocada. Rotación funcional total (confirmada por el cliente en
 un turno **no son contradictorios**: no hay puesto fijo y permanente,
 pero sí hay reparto de funciones concretas dentro de cada turno, con el
 TPV haciendo de sistema de aviso entre ellas.
+
+**2026-10-16 — Comunicación interna, pedidos y cuadrantes: dato real del
+cliente.** Andrea comparte respuesta directa del cliente sobre varios
+huecos que seguían abiertos:
+
+- **Comunicación interna (6.f):** resuelto. WhatsApp es el canal
+  principal, tanto para coordinación entre encargados como para el
+  resto del equipo. Esto cierra la pregunta abierta que arrastraba la
+  sección 3 (flujo de información) desde el principio.
+- **Pedidos a proveedores (nuevo en 3.f):** hay un grupo de WhatsApp con
+  los encargados de los dos locales y Propiedad. Cada encargado
+  comunica lo que necesita su local y se organizan los pedidos a partir
+  de ahí. Hay productos recurrentes semanales con día y cantidad ya
+  fijados (el pan es el ejemplo que da el cliente); el resto se adapta
+  a las rutas de cada proveedor y a necesidades puntuales.
+- **Cuadrantes de trabajo (6.d):** se elaboran por el encargado de cada
+  local, con una revisión previa, y se comunican por WhatsApp. **Sin
+  resolver:** quién hace esa revisión — el propio encargado o Propiedad
+  — no se especifica, así que se deja marcado, no asumido.
+- **Reuniones (nuevo, relevante para 6.g y la futura sección 8):** no
+  hay reuniones periódicas mensuales. Se convocan cuando surge un asunto
+  operativo, organizativo o de personal que requiere tratarse de forma
+  conjunta. Se añadió una nota breve en 6.g conectando esto con el
+  escalado de decisiones, sin darlo por resuelto del todo — sigue
+  pendiente definir la línea entre lo que decide el encargado/a solo y
+  lo que espera a una de estas reuniones.
+
+Incorporado en el documento final: 3.d, 3.f, 6.d, 6.f y 6.g.
+
+**Pendiente, todavía no ha llegado:** el cliente tiene pendiente enviar
+los checklists que usan actualmente y los datos de productividad por
+horas — en cuanto lleguen, hay que revisarlos para 2.c (checklists) y
+para 2.e/KPIs (productividad).

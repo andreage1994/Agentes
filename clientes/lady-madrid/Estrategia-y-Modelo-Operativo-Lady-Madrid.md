@@ -396,19 +396,14 @@ necesitan que alguien con visión de conjunto — no solo del momento —
 tome una decisión: ajustar un pedido, dar seguimiento a una queja,
 revisar un patrón que se repite.
 
-Queda una cosa por confirmar: si además de este canal hacia Propiedad
-existe algún sitio fijo donde quede constancia de lo que pasa de un turno
-a otro — un grupo de equipo, un cuaderno de turno, una reunión — o si
-todavía no hay nada así y es un hueco real que conviene cerrar. No es una
-pregunta menor: ya hemos visto con el log de quejas y con el Excel de
-inventario que, cuando algo importante solo vive en la cabeza de quien
-estaba ese día, se acaba perdiendo. Lo mismo le puede pasar a la
-información de turno a turno — un incidente con un cliente que no llega
-a ser queja formal, un producto que se ha quedado corto y hay que
-reponer, algo que no ha funcionado bien en el servicio — si no hay ningún
-sitio fijo donde quede escrito, depende de que la persona de ese turno se
-acuerde de contarlo de viva voz a quien entra después, y eso falla tarde
-o temprano.
+Ese canal fijo ya existe, de hecho: **WhatsApp es nuestro principal canal
+de comunicación interna**, tanto para la coordinación entre encargados
+como para las comunicaciones con el resto del equipo (el detalle de cómo
+se organiza — grupos, para qué sirve cada uno — está en 6.f). Es también
+el canal por el que se gestionan los pedidos a proveedores: encargados
+de los dos locales y Propiedad comparten un grupo donde cada encargado
+comunica lo que necesita su local, y a partir de ahí se organizan los
+pedidos (ver el detalle en 3.f).
 
 ### e. Flujos de producto
 
@@ -507,6 +502,17 @@ precio que se paga por priorizar la calidad sobre la redundancia — y es
 una pregunta que puede valer la pena hacerse más adelante: si para esos
 proveedores clave conviene tener identificada al menos una alternativa de
 calidad similar, aunque no se use nunca.
+
+**Cómo se coordinan los pedidos, día a día.** Los encargados de los dos
+locales y Propiedad comparten un grupo de WhatsApp donde cada encargado
+comunica lo que necesita su local, y a partir de ahí se organizan los
+pedidos a cada proveedor. Hay productos que se piden todas las semanas
+de forma recurrente — el pan es el ejemplo más claro — para los que ya
+hay días fijos de entrega y cantidades habituales establecidas, así que
+ese pedido apenas exige decisión cada vez. El resto de pedidos se adapta
+a los días de reparto o rutas de cada proveedor, y a las necesidades
+puntuales de cada local en ese momento — no hay un calendario único de
+pedidos, sino uno distinto por proveedor que se ajusta sobre la marcha.
 
 Hay una tercera capa en este modelo de producción que conviene dejar
 escrita: no está centralizado entre los dos locales. Cada ubicación
@@ -976,6 +982,14 @@ Segundo: el cuadrante concreto de qué persona trabaja qué día es una
 decisión operativa de quien lleva el turno, y vive en el Operations
 Playbook — aquí lo que fijamos es el patrón, no el calendario.
 
+Lo que sí fijamos aquí es quién lo elabora y cómo se comunica: cada
+encargado o encargada hace el cuadrante de su propio local, pasa por una
+revisión antes de comunicarlo a los empleados, y se comunica por
+WhatsApp — el mismo canal que usamos para todo lo demás (ver 6.f). No
+tenemos confirmado quién hace esa revisión — si es el propio encargado
+revisándose antes de enviarlo, o si pasa primero por Propiedad —, así
+que lo dejamos como está dicho, sin asumir.
+
 **Dos preguntas que quedan abiertas, y que conviene cerrar antes de dar
 esta sección por completa.** La primera es una discrepancia real de
 horario: según el propio equipo, el local abre al público de 7:45 a
@@ -1019,19 +1033,32 @@ antemano.
 
 ### f. Comunicación interna
 
-Esta es, sencillamente, una pregunta abierta: no tenemos todavía
-ningún dato sobre cómo se comunica el equipo entre turnos — si hay un
-grupo de WhatsApp de equipo, un cuaderno de turno, una reunión
-periódica, o si hoy no existe nada de eso y es un hueco real por
-cerrar. Ya lo señalamos en el punto de flujo de información de la
-sección 3: lo que sube hacia Propiedad (incidencias, quejas, falta de
-producto) está claro, pero no sabemos si existe algún sitio fijo donde
-quede constancia de lo que pasa de un turno a otro, al margen de ese
-canal hacia arriba.
+**WhatsApp es nuestro principal canal de comunicación interna** — tanto
+para la coordinación entre encargados como para las comunicaciones con
+el resto del equipo. No tenemos un canal distinto para cada cosa: casi
+todo pasa por ahí.
 
-No proponemos aquí una solución estándar sin confirmar primero si ya
-usáis algo que simplemente no conocemos todavía — no tendría sentido
-montar un canal nuevo si ya existe uno que funciona.
+Dos usos concretos que ya están asentados:
+- **Pedidos a proveedores.** Hay un grupo con los encargados de los dos
+  locales y Propiedad, donde cada encargado comunica lo que necesita su
+  local y, a partir de ahí, se organizan los pedidos (el detalle
+  completo está en 3.f).
+- **Cuadrantes de trabajo.** Cada encargado elabora el cuadrante de su
+  propio local y lo comunica por WhatsApp a los empleados, con una
+  revisión previa (ver 6.d).
+
+Esto resuelve lo que dejábamos abierto en la sección 3 (flujo de
+información): sí existe un sitio fijo donde vive la comunicación del
+día a día del equipo, más allá del canal hacia Propiedad — es este
+mismo WhatsApp.
+
+Lo que todavía no tenemos es un mecanismo distinto para reuniones
+periódicas: no hay reuniones mensuales fijas. Se convocan reuniones
+cuando surge un asunto que hay que tratar de forma conjunta — operativo,
+organizativo o de personal —, no con una cadencia regular. Esto conecta
+con el escalado de decisiones de 6.g: el canal del día a día es
+WhatsApp, y la reunión puntual es el mecanismo para lo que no encaja en
+una conversación rápida.
 
 ### g. Escalado de decisiones
 
@@ -1051,6 +1078,14 @@ el cliente. Queda pendiente definirlo con más detalle — qué decide el
 encargado o encargada por su cuenta y qué tiene que subir a Propiedad o
 Dirección — junto con la sección 8 (Modelo de gestión), con la que este
 tema está directamente conectado.
+
+Lo que sí sabemos ya es cómo se gestiona lo que no cabe en el día a día
+de WhatsApp: no hay reuniones periódicas fijas, se convocan cuando surge
+algo que hay que tratar de forma conjunta — operativo, organizativo o de
+personal (ver 6.f). Es un mecanismo real, pero todavía no nos dice por
+sí solo dónde está la línea entre lo que decide el encargado o
+encargada y lo que tiene que esperar a una de esas reuniones — eso sigue
+siendo lo pendiente de cerrar en la sección 8.
 
 ---
 
