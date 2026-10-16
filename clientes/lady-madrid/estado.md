@@ -530,3 +530,40 @@ arrastra el documento (recogidas en su propio roadmap de la sección 7):
 si existe ya política de uniforme/pausas, quién revisa los cuadrantes,
 si el escalado de decisiones se formaliza en la sección 8, y si las
 tensiones de staffing se replican en Parquesur.
+
+**2026-10-16 (cont.) — PowerPoint construido y entregado.** Se
+construye `Hospitalidad-y-Cultura-de-Servicio-Lady-Madrid.pptx` (39
+diapositivas) a partir del markdown de síntesis, con `pptxgenjs`,
+usando la identidad visual real de Lady Madrid (Booble Blue, Coffee
+Cream Tone, Moka Orange, Sky Pink, Flat Cloudy; GT Alpina para
+titulares, Calibri para cuerpo — sustitución deliberada de PT Mono por
+fiabilidad de ajuste de texto en este entorno de QA). Estructura: portada,
+índice, las 7 secciones completas con divisores, tarjetas de dos
+columnas, parrillas 2x2, la matriz de decisión 4.2 como tabla nativa,
+la línea de tiempo de 10 pasos de 5.7, tres diapositivas de cita a toda
+pantalla (mantra, "cómo cobra vida la marca", cierre) y el roadmap de
+8 puntos.
+
+Validado con `scripts/office/validate.py` (todas las comprobaciones
+pasadas) y revisado visualmente diapositiva a diapositiva. Durante esa
+revisión se detectaron y corrigieron **dos errores reales** en el script
+de construcción, ambos relacionados con cómo `pptxgenjs` gestiona
+párrafos de varias líneas de texto (etiqueta en negrita + texto
+continuación) dentro de una lista con viñetas:
+1. La función que construía las viñetas anidaba un array de líneas de
+   texto dentro de una única propiedad `text`, algo que `pptxgenjs` no
+   soporta — el resultado visual era literalmente "[object Object],
+   [object Object]" en vez del texto real (diapositiva "Uniforme").
+2. Al separar etiqueta en negrita y texto de continuación en dos
+   "runs" dentro del mismo párrafo, `pptxgenjs` recalcula las
+   propiedades de párrafo (incluida la viñeta) a partir de cada run —
+   el run de continuación, al no llevar la opción de viñeta, la
+   cancelaba en silencio para todo el párrafo (viñetas invisibles en
+   "Uniforme" y "Lenguaje corporal"). Solucionado usando un carácter de
+   viñeta literal en vez de la opción nativa de `pptxgenjs` para ese
+   tipo de elemento.
+
+Tras corregir ambos y repetir el ciclo completo (reconstrucción,
+aplicación de tema, validación, conversión a imagen, revisión visual de
+las 39 diapositivas), el archivo final queda guardado en
+`clientes/lady-madrid/Hospitalidad-y-Cultura-de-Servicio-Lady-Madrid.pptx`.
