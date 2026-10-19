@@ -58,6 +58,10 @@ Gmail, Google Calendar, Google Drive, Asana (gestión de proyectos y leads), Odo
 - `marketing-tbnb-estado.md` — panel de estado del propio marketing de
   TBNB (no de un cliente): canales, equipo, bloqueantes y huecos de
   información, con enlace al dashboard.
+- `marketing-tbnb-sem-google-ads.md` — canal de búsqueda de pago (Google
+  Ads) de la propia web de TBNB, gestionado por un gestor SEM externo:
+  minutas de seguimiento, datos de los informes y pendientes que nos
+  corresponden a nosotros (no al gestor).
 - `TAREAS.md` — pendientes.
 - `GUIA.md` — manual de aprendizaje de Andrea sobre este sistema.
 - `.claude/skills/` y `.claude/agents/` — recetas y especialistas de Claude Code.
