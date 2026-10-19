@@ -567,3 +567,46 @@ Tras corregir ambos y repetir el ciclo completo (reconstrucción,
 aplicación de tema, validación, conversión a imagen, revisión visual de
 las 39 diapositivas), el archivo final queda guardado en
 `clientes/lady-madrid/Hospitalidad-y-Cultura-de-Servicio-Lady-Madrid.pptx`.
+
+**2026-10-19 — Ventas por franja horaria vs. personal, y revisión de
+checklists (fase RUN).** Andrea aporta tres documentos reales: informe de
+ventas por centro de venta y periodo de servicio del TPV (01-19 oct 2026,
+guardado en `fuentes/`), y los dos checklists reales en uso (checklist
+diario fotografiado y Master Cleaning Schedule semanal/mensual, guardados
+en `fuentes/checklists-run/`).
+
+- **Cruce ventas vs. personal:** `Analisis-Ventas-vs-Personal.md`. El
+  informe confirma ser de Plaza República Dominicana (los 3 centros de
+  venta — Llevar/Barra/Terraza — coinciden con la configuración de 44
+  plazas de 6.d). Hallazgo principal: el pico real de facturación es
+  10h-13h (46% de las ventas visibles del informe en solo 3 de 11
+  franjas), que coincide con el refuerzo de personal ya documentado en
+  6.d (la segunda persona entre semana, las cuatro personas de fin de
+  semana); la franja más floja (15-16h) coincide con el tramo de un solo
+  empleado entre semana. Conclusión provisional: el personal sí parece
+  estar bien colocado en las horas que cubre el informe. **Pero el
+  informe está cortado antes de 18h** (el propio gráfico de la página
+  muestra categorías "18-19" y "Resto" que la tabla no desarrolla), justo
+  antes del pico real de 16:00-19:00h que ya documenta 6.d — y mezcla
+  días entre semana con fin de semana en una sola cifra por franja,
+  cuando 6.d ya documenta que el patrón de personal cambia radicalmente
+  entre tipos de día. Pendiente de Andrea: el informe completo hasta el
+  cierre real, y a ser posible desglosado por tipo de día.
+- **Revisión de checklists:** `run/Revision-Checklists-Diseno.md`.
+  Veredicto: el contenido operativo del checklist diario está bien
+  pensado, pero el formato tiene problemas reales de diseño — numeración
+  con huecos sin explicar (6.d, 7.d... faltan números enteros en la
+  secuencia de "Cierre de servicio"), tareas que se repiten entre
+  apertura y cierre sin que quede claro si es intencional, columna
+  "Realizado por" que no garantiza trazabilidad real (a veces iniciales,
+  a veces solo un check), sin estándar explícito de "bien hecho" y sin
+  un segundo nivel de revisión/supervisión. El Master Cleaning Schedule
+  (semanal/mensual), hecho por el mismo equipo y más reciente, ya
+  resuelve todo esto bien (estándar de limpieza explícito, columnas
+  Responsable/Firma/Revisado separadas, control de incidencias) — pero
+  parece estar aún sin usar de verdad (solo una fecha anotada a mano).
+  Recomendación: aplicar esa misma disciplina de diseño al diario sin
+  rehacer las tareas reales. No se ha tocado ni rediseñado ningún
+  checklist todavía — queda pendiente de que Andrea confirme si quiere
+  que construyamos ya la versión nueva o prefiere enseñar primero el
+  diagnóstico al equipo que los usa a diario.
