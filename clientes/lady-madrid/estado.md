@@ -610,3 +610,37 @@ en `fuentes/checklists-run/`).
   checklist todavía — queda pendiente de que Andrea confirme si quiere
   que construyamos ya la versión nueva o prefiere enseñar primero el
   diagnóstico al equipo que los usa a diario.
+
+**2026-10-19 (cont.) — Versión nueva de los dos checklists construida.**
+Andrea confirma que la duplicación apertura/cierre es intencional (dos
+momentos distintos) y pide construir ya la versión nueva de ambos
+checklists. Entregables en `run/`:
+- `Checklist-Diario-Lady-Madrid.xlsx` — contenido real transcrito a mano
+  desde las 5 fotos del checklist en papel (verificado tarea por tarea,
+  releyendo cada página con cuidado para no perder ni inventar
+  contenido), reorganizado en 4 bloques con color propio por "momento"
+  del día (Apertura, Servicio, Cierre de servicio de cocina, Cierre
+  general del local), numeración continua sin huecos, casilla de
+  iniciales por tarea y día, y una fila de "Revisado por encargado/a" al
+  final de cada bloque — el segundo nivel de control que no existía.
+  Construido con `openpyxl`; primera versión tenía filas con texto largo
+  cortadas por altura de fila fija — corregido con cálculo dinámico de
+  altura según longitud del texto, más saltos de página manuales para
+  que cada "momento" empiece en página nueva al imprimir. Validado
+  visualmente convirtiendo a PDF/imagen y revisando las 6 páginas.
+- `Plan-Limpieza-Semanal-Lady-Madrid.xlsx` — mismo contenido real del
+  Master Cleaning Schedule (en uso real, pero poco visual según Andrea),
+  reestructurado como una única tabla con los 7 días visibles a la vez
+  (antes, un bloque por día apilado en varias páginas), un color por
+  día, "Incluye" condensado en viñetas en vez de párrafo corrido.
+  Mantiene el plan mensual, control de incidencias y validación semanal
+  ya existentes, sin tocar su contenido real.
+
+**Aviso importante dejado para Andrea y el equipo, dentro de ambos
+documentos y en `run/Revision-Checklists-Diseno.md`:** al releer las
+fotos del checklist diario se encontraron huecos reales de numeración en
+el original (8 números ausentes de una secuencia de 21 solo en "Cierre
+de servicio") y un bloque sin su encabezado visible en las fotos
+recibidas. No se puede confirmar si son tareas reales perdidas al
+fotografiar el papel o si nunca existieron — se pide al equipo que
+revise la versión nueva antes de darla por definitiva.

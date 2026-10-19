@@ -101,16 +101,38 @@ están bien pensadas:
   `Log_de_Quejas_Lady_Madrid.xlsx` que ya construimos con esa misma
   lógica para quejas de cliente.
 
-## Lo que necesito de tu lado antes de tocar nada
+## Actualización 2026-10-19 — versión nueva construida
 
-No he rediseñado ni tocado ningún checklist todavía — esto es solo el
-diagnóstico que pediste. Antes de construir una versión nueva:
-1. ¿Las tareas duplicadas entre apertura y cierre son intencionales, o
-   hay que preguntarle al encargado/a que las rellena?
-2. ¿Quieres que construya ya una versión rediseñada del checklist diario
-   (aplicando lo de arriba), o prefieres enseñárselo primero al equipo
-   que lo usa a diario antes de cambiar el formato que ya conocen?
-3. ¿El Master Cleaning Schedule (semanal/mensual) ya está en uso real o
-   sigue en fase de prueba? Si todavía no se usa, también puede
-   convenir revisar su diseño antes de lanzarlo del todo, no solo el
-   diario.
+Andrea confirma: la duplicación de tareas entre apertura y cierre es
+intencional (apertura y cierre son dos momentos distintos del día), y
+pide construir ya una versión nueva, más visual y mejor estructurada del
+checklist diario, y reestructurar el plan de limpieza semanal como una
+única tabla visual de la semana entera (hoy está en uso real, pero poco
+visual).
+
+**Entregables (en esta carpeta):**
+- `Checklist-Diario-Lady-Madrid.xlsx` — mismo contenido real del
+  checklist en papel, reorganizado en 4 "momentos" con color propio
+  (Apertura / Servicio / Cierre de servicio — cocina, tras cada turno /
+  Cierre general — local completo, fin de jornada), numeración continua
+  sin huecos, una casilla de iniciales por tarea y por día, y una fila
+  de "Revisado por encargado/a" al cierre de cada momento (segundo nivel
+  de control que no existía). Cada momento empieza en página nueva al
+  imprimir.
+- `Plan-Limpieza-Semanal-Lady-Madrid.xlsx` — mismo contenido real del
+  Master Cleaning Schedule (zonas, tareas incluidas y estándar de
+  limpieza por día), reestructurado como una única tabla con los 7 días
+  visibles a la vez, un color por día, e "Incluye" condensado en viñetas
+  en vez de párrafo corrido. Mantiene el plan mensual, el control de
+  incidencias y la validación semanal ya existentes.
+
+**Importante — leer antes de dar cualquiera de los dos por definitivo:**
+Al transcribir el checklist diario desde las fotos en papel, encontramos
+huecos reales en la numeración original (sobre todo en "Cierre de
+servicio", donde faltaban 8 números de una secuencia de 21) y un bloque
+cuyo encabezado original no aparecía en las fotos recibidas. No podemos
+confirmar si son tareas reales perdidas al fotografiar el documento o si
+nunca existieron — lo dejamos documentado dentro del propio archivo
+(pestaña de notas al final) y aquí: pedimos que el equipo que rellena el
+checklist a diario revise la versión nueva y confirme que no falta
+ninguna tarea real antes de ponerla en uso.
