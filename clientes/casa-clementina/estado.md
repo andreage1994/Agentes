@@ -384,6 +384,64 @@ una, para entregarlo todo correctamente **mañana** (solo con margen para
 pequeñas correcciones después). El borrador `Abierto_Todos_Los_Dias.xlsx`
 del cliente se descarta definitivamente como base (confirmado de nuevo).
 
+## 2026-10-19 (cont.) — Primer modelo financiero real construido
+
+**Limitación técnica encontrada:** el conector de edición de Google
+Sheets no está activo en esta sesión de trabajo (solo lectura de Drive),
+así que no se puede escribir directamente en las plantillas maestras
+reales (`Casa_Clementina_Proyección_Financiera`, 18 pestañas,
+confirmadas vacías por lectura directa). Para no bloquear el plazo de
+mañana, se construye el modelo completo en local
+(`run/Casa_Clementina_Modelo_Financiero_TBNB.xlsx`), con fórmulas reales
+(nunca cifras calculadas a mano), siguiendo todos los datos reconciliados
+arriba. **Pendiente: traspasar estos números a las plantillas reales de
+Drive** — Andrea/Sergio deciden si lo hacen ellos o si activan el
+conector de Sheets para que lo haga TBNB directamente.
+
+Pestañas del modelo: Supuestos, Plan de Inversión, Personal (coste de
+empresa), Costes Fijos, Punto de Equilibrio, Cuenta de Resultados Año 1
+(mensual) y Preguntas Abiertas. Validado con `recalc.py` (0 errores,
+163 fórmulas) y revisado visualmente diapositiva a diapositiva.
+
+**Resultados reales del modelo:**
+- Inversión pendiente para abrir: **33.600€** (8.000€ de cocina ya
+  valorada + 15.000€ mobiliario + 3.500€ electrodomésticos + 5.000€ food
+  cost inicial + 1.800€ alquiler octubre + 300€ TPV — software todavía
+  sin cifra).
+- Coste de personal: con un headcount de ejemplo (8 personas: 1 manager,
+  1 barista, 2 camareros, 1 ayudante de camarero, 1 cocinero, 1 ayudante
+  de cocina, 1 jefe de cocina — **marcado en amarillo, pendiente del plan
+  real de turnos**), el coste de empresa total es **18.620€/mes**
+  (223.440€/año), calculado neto→bruto con un 15% de IRPF estimado
+  (asunción editable, a validar con gestoría) + 33% de Seguridad Social
+  dado por Andrea.
+- Punto de equilibrio: **20.600€/mes** de costes totales (con el COGS al
+  30%, de referencia, no confirmado) exige **29.428€/mes** de ventas —
+  entre 69 y 88 visitas/día según el ticket medio (11-14€), frente a una
+  capacidad teórica de referencia de 132 visitas/día (44 pax × 3 turnos).
+- **Hallazgo real sobre estacionalidad:** si las visitas se mantienen en
+  el nivel de equilibrio todo el año, julio y agosto generan solos una
+  pérdida combinada de **-24.720€** en el año, porque los costes fijos no
+  bajan aunque las ventas caigan un 60% — el resto de los meses, la
+  cuenta de resultados queda exactamente en cero (es el comportamiento
+  esperado del marcador neutro, no una proyección real todavía).
+
+**Lo que falta para que la Cuenta de Resultados deje de ser un marcador
+neutro y pase a ser una proyección real** (recogido también en la propia
+pestaña "Preguntas Abiertas" del archivo):
+1. Visitas/día o facturación objetivo esperada — el dato que más cambia
+   el resultado, todavía sin confirmar.
+2. Headcount real por puesto, según el plan de turnos.
+3. Coste real del software (instalación/licencia inicial).
+4. Presupuesto real de Square (TPV + software mensual).
+5. COGS % real sobre ventas corrientes.
+6. Suministros (luz/agua/gas) y seguro del local.
+7. IRPF real aplicable a cada contrato (validar con gestoría).
+8. Si "Final de obra: 15.000€" de la lista de pendientes antigua es
+   saldo de KIPER o partida aparte (pregunta heredada, sigue abierta).
+9. Traspaso/Panadario y pacto de socios (pendientes de la propia
+   reunión, gap analysis original).
+
 ## Próximos pasos
 
 1. En la reunión de hoy, además de las preguntas ya identificadas
