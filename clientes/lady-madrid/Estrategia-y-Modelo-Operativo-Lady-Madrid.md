@@ -1091,169 +1091,103 @@ siendo lo pendiente de cerrar en la sección 8.
 
 ## 7. Operación gastronómica
 
-La sección 3 cuenta cómo está montado el negocio por dentro: que hay
-obrador propio y compra a proveedores, que la producción pasa por dos
-momentos (con antelación y mise en place inmediato), que cada producto
-sigue un camino corto hasta la mesa. Esta sección baja un escalón más:
-cómo se organiza esa producción en la práctica, qué significa tener todo
-listo antes de abrir, y cómo se nota — o no — la diferencia entre
-"cocina" y "sala" en un equipo que rota entre las dos.
+La sección 3 explica cómo se organiza el modelo operativo de Lady Madrid: la relación entre cocina, barra y atención al cliente, el sistema de producción y el recorrido que sigue cada pedido. Aquí bajamos esa arquitectura al funcionamiento gastronómico: cómo se planifica la producción, qué debe garantizar el mise en place, cómo circulan las comandas, qué significa dar salida a un pedido con calidad y cómo se coordina el equipo durante el servicio.
+
+Este apartado fija **criterios de funcionamiento y responsabilidades**, no recetas ni instrucciones de preparación. Las cantidades, periodicidades por elaboración, pasos, fichas técnicas, escandallos y listas concretas de mise en place viven en RUN. Así evitamos duplicar información y que dos documentos puedan quedar desactualizados de forma distinta.
 
 ### a. Producción
 
-Antes de que llegue el primer cliente, hay una lista de cosas que tienen
-que estar hechas. No es una idea general de "preparar con antelación" —
-es una lista escrita, producto por producto, con la cantidad exacta que
-tiene que haber lista y el contenedor en el que tiene que estar: la
-mantequilla batida en su tupper, la crema de café en manga pastelera, la
-yema curada y los huevos pochados en su tupper, el pepino encurtido, el
-tomate asado, la espuma de queso de Guadarrama en el sifón. Cada
-elaboración tiene su cantidad de referencia, así que quien produce sabe
-exactamente cuánto hacer, no "lo de siempre a ojo".
+La producción se organiza con plantillas que recogen las elaboraciones, sus recetas, cantidades de referencia y periodicidad. El objetivo es que el equipo sepa qué necesita estar preparado antes del servicio y que la producción no dependa de la memoria o de calcular las cantidades sobre la marcha.
 
-Dentro de esta producción con antelación hay dos orígenes distintos. Por
-un lado, lo que sale del obrador — bollería y pastelería, con receta
-pensada por ración y escalada según lo que haga falta ese día — ya se
-describe en 3.f, y no lo repetimos aquí. Por otro, lo que prepara cocina
-para el resto de la carta: salsas, cremas, encurtidos, asados, las
-elaboraciones que no se pueden montar al momento porque llevan tiempo de
-por medio. Las dos cosas comparten la misma lógica de fondo — todo lo
-que no se puede improvisar en el momento del servicio, se adelanta — y
-ambas usan contenedores estandarizados, para que cualquiera que abra la
-cámara sepa, con solo mirar, qué es cada cosa y cuánto hay.
+Las cantidades de referencia no deben interpretarse como una cifra invariable para todos los días. Se ajustan teniendo en cuenta la demanda prevista y el histórico de ventas, para responder a las diferencias entre jornadas y franjas horarias. El criterio busca equilibrar dos necesidades: tener suficiente producto disponible para sostener el servicio y evitar producir más de lo que razonablemente se va a consumir.
 
-Queda una cosa por decidir: hoy esa cantidad de referencia es fija
-("mantequilla batida: 0,25 kg"), pero no tenemos definido si se ajusta
-según la previsión de la jornada — un sábado de mucha afluencia no pide
-lo mismo que un martes tranquilo — o si de momento se produce siempre la
-misma cantidad y se reparte el ajuste sobre la marcha.
+Siempre que la organización del trabajo lo permite, la producción se realiza fuera de las horas punta. De este modo, las tareas que requieren concentración o tiempo de elaboración no compiten directamente con la preparación de comandas y la atención al cliente. La planificación de producción y la previsión de demanda deben, por tanto, estar conectadas: no basta con que exista una ficha de elaboración si la cantidad producida no responde a lo que el servicio va a necesitar.
+
+Hay que distinguir entre las elaboraciones que se preparan en cada local para el servicio y el producto que llega desde otras unidades del negocio o proveedores. La arquitectura debe permitir conocer qué se produce localmente, qué se recibe y qué disponibilidad hay antes de abrir. El detalle de cada producto, su receta y su preparación se consulta en RUN; este documento no sustituye esas fichas.
+
+La responsabilidad sobre la producción diaria se concreta en las tareas de preparación asignadas al equipo. Cada persona responde de ejecutar y comprobar su parte; el encargado o encargada de turno supervisa que el conjunto esté preparado para el servicio. La periodicidad de los pedidos y las necesidades de suministro se gestionan mediante la coordinación existente con Propiedad y los encargados de los locales, sin establecer aquí frecuencias nuevas que no estén confirmadas.
 
 ### b. Mise en place
 
-Si la producción de arriba es lo que se adelanta con días de margen, el
-mise en place es el último paso antes de cada franja: lo que tiene que
-estar a mano, en su sitio y en su cantidad justo antes de abrir, para que
-el servicio no se pare a mitad turno a buscar o a preparar algo que
-debería estar ya listo.
+El mise en place es el puente entre la producción previa y el servicio. Su función es que, antes de cada franja, los ingredientes, preparados y utensilios necesarios estén disponibles, en su ubicación y en la cantidad previstas. Así, durante el servicio el equipo puede centrarse en preparar y entregar los pedidos, en lugar de detenerse para buscar componentes o elaborar algo que debería estar listo.
 
-Aquí es donde se ve de verdad que mañana y tarde no son el mismo
-servicio. El mise en place de mañana es más amplio: cubre salsas y
-condimentos, pan, fruta y verdura, preparados, frutos secos y especias,
-lácteos y frescos — todo lo que pide la carta de desayuno, desde la
-mermelada de limón hasta el aguacate ya listo para laminar o los rábanos
-cortados. El de tarde es más corto y cambia de perfil: menos fruta
-recién cortada, y aparecen los preparados típicos de la tarde — piparras,
-gildas, membrillo, los quesos de la sierra — porque la carta de tarde es
-otra.
+Lady Madrid diferencia el mise en place de mañana y el de tarde porque la oferta y las necesidades de cada franja no son idénticas. Las listas de RUN recogen esa diferencia y concretan los componentes, las cantidades y los recipientes correspondientes. Esas listas son la referencia operativa: no deben sustituirse por una interpretación personal ni por la memoria de quien esté trabajando.
 
-Cada producto de cada lista tiene asignado un contenedor concreto —
-biberón, manga pastelera, bowl, gastronorm — y una cantidad. Esto no es
-un detalle menor: es lo que hace que el mise en place sea una lista que
-se puede revisar en diez segundos ("¿está lleno el biberón de AOVE?
-¿está el tupper de vinagreta?"), no una lista que haya que interpretar
-cada vez.
+Cada persona prepara y verifica la parte que tiene asignada. El encargado o encargada de turno supervisa el conjunto para comprobar que el local está preparado para afrontar el servicio. Esta supervisión no implica rehacer cada tarea, sino asegurarse de que las distintas partes encajan y de que no queda una carencia que vaya a trasladar el problema a la hora punta.
+
+El mise en place no se considera terminado solo porque se hayan completado las tareas de preparación: también debe revisarse la disponibilidad real de los componentes necesarios para el servicio. Si algo falta o no está en condiciones de uso, el equipo debe detectarlo antes de que afecte a una comanda. El procedimiento concreto de revisión y las listas aplicables a cada franja se mantienen en RUN.
 
 ### c. Ticketing
 
-Aquí la respuesta real es más parecida a la de un restaurante con
-funciones separadas de lo que podría parecer por la rotación del equipo.
-El TPV reparte el pedido en el momento en que el camarero o camarera lo
-toma: el ticket de bebidas llega al barista, el ticket de comida llega a
-cocina (ver 3.c y 3.d). No hace falta que nadie "cante" la mesa en voz
-alta ni avise manualmente entre sala y cocina — el propio sistema ya
-separa la comanda y se la asigna a quien tiene que prepararla.
+El TPV es el punto de entrada y distribución de las comandas. La persona que atiende al cliente introduce el pedido y el sistema genera los tickets correspondientes a las funciones de bebidas y comida. Así, quien esté realizando cada función puede identificar qué pedidos tiene pendientes sin depender exclusivamente de que otra persona se lo comunique verbalmente.
 
-Esto no sustituye a la coordinación del equipo, la simplifica: cada
-función sabe en todo momento qué tiene pendiente con solo mirar sus
-propios tickets, en vez de depender de que alguien se acuerde de avisar
-de viva voz en medio del ajetreo de un servicio cargado.
+Este sistema encaja con el modelo polivalente de Lady Madrid: las funciones están diferenciadas durante el turno, pero no son puestos permanentes asignados a una única persona. El reparto puede variar según el equipo y la demanda. Del mismo modo, la persona que lleva el pedido a la mesa no tiene que ser necesariamente quien lo tomó o lo preparó.
 
-### d. Pase
+El TPV ordena la información, pero no sustituye el criterio del equipo. Cuando una comanda necesita una aclaración, hay una modificación o la carga de trabajo hace necesario coordinar prioridades, se utiliza la comunicación verbal entre las personas implicadas. El objetivo es que la información relevante llegue a quien la necesita, sin crear un segundo sistema de comandas paralelo al TPV.
 
-Tampoco hay aquí un pase clásico con un expedidor que revisa cada plato
-antes de que salga. El punto de entrega real son dos: la barra, donde el
-barista deja lista la bebida, y el mostrador de cocina/obrador, donde
-queda lista la comida. Desde ahí, cualquiera que esté libre en ese
-momento — no necesariamente quien lo preparó — lo lleva a la mesa, que es
-justo la filosofía de equipo que ya describimos en 3.c y 6.b: nadie se
-queda anclado esperando a servir solo lo suyo.
+No se establece aquí un protocolo adicional de ticketing porque el sistema actual cubre la distribución básica. Si la observación del servicio detecta errores recurrentes —por ejemplo, tickets que no se ven, pedidos duplicados o modificaciones que no llegan a la función correspondiente—, habrá que documentar el problema concreto antes de definir un ajuste.
 
-El control de calidad de ese último vistazo — ¿está bien presentado,
-falta algo, está a la temperatura que debería — lo hace quien prepara
-cada cosa, en el momento de dejarla en su punto de entrega; no hay una
-tercera persona que lo revise aparte.
+### d. Pase y entrega
 
-### e. Tiempos
+Lady Madrid no funciona con un pase clásico separado, atendido por una persona cuya única función sea expedir y revisar todos los platos. Los puntos de entrega son los espacios donde quedan listas las bebidas y la comida. Desde ahí, cualquier persona disponible del equipo puede llevar el pedido a la mesa, con independencia de quién lo haya preparado.
 
-Los tiempos de referencia ya están fijados en 2.c — cuánto debería tardar
-el pedido, la bebida, la comida. Lo que aporta esta sección es la
-condición que hace posible cumplirlos: esos tiempos solo se sostienen si
-la producción y el mise en place de los puntos a y b están completos
-antes de abrir. Si falta algo en el mise en place, el tiempo no se pierde
-tomando el pedido — se pierde preparando sobre la marcha algo que debería
-haber estado ya listo, y ese retraso se nota primero en la mesa que
-menos lo espera.
+Este modelo reduce la necesidad de añadir una función fija, pero exige que cada elaboración salga de su punto de preparación en condiciones de entrega. Quien prepara la bebida o la comida es responsable de comprobarla antes de dejarla lista: que corresponda al pedido, que esté completa y que su presentación y temperatura sean las esperadas. El detalle de la presentación de cada plato se consulta en las referencias visuales y fichas de RUN.
 
-No todos los productos tardan lo mismo en llegar a la mesa, y conviene
-tenerlo presente al mirar los tiempos en conjunto. La bollería y la
-pastelería del obrador están listas en el expositor — el tiempo ahí es
-casi solo de servicio, no de preparación. El café se prepara en el
-momento, pero sobre una base ya dispuesta en barra. Las tostadas se
-montan rápido precisamente porque el mise en place ya dejó cada
-componente listo para ensamblar. El riesgo real de retraso no está en
-ninguno de estos pasos por separado, sino en las horas de más afluencia
-— la mañana de fin de semana, el pico de 16:00 a 19:00h — cuando varias
-mesas compiten a la vez por las mismas tres funciones (3.c), y un
-atasco en una de ellas — por ejemplo, el barista saturado de tickets —
-se nota enseguida en las otras. De ahí que el staffing de la sección
-6.d esté pensado para crecer justo en esas franjas.
+La entrega no termina cuando el producto está preparado, sino cuando el equipo consigue que llegue al cliente correcto. Por eso, la coordinación verbal sigue siendo necesaria cuando hay dudas, varios pedidos acumulados o riesgo de que una bebida o un plato quede esperando sin que nadie lo lleve a la mesa. No se incorpora una figura de expedidor ni una doble revisión obligatoria que no formen parte del funcionamiento actual.
 
-### f. Calidad
+### e. Tiempos de servicio
 
-La calidad de lo que sale a mesa se apoya en tres mecanismos, más que en
-una inspección final de alguien que revisa cada plato antes de servirlo
-— cosa que, con el modelo de rotación funcional, no existe como paso
-aparte.
+Los tiempos de referencia de Lady Madrid ya están definidos en el apartado 2.c y se mantienen como estándar común del servicio:
 
-El primero es la receta estandarizada por ración, ya descrita en 3.f:
-cada plato y cada elaboración del obrador tiene su cantidad exacta de
-cada ingrediente, así que la ración no depende de quién la prepare ese
-día. El segundo es el propio mise en place: al tener cantidad y
-contenedor definidos para cada componente, es más difícil que falte algo
-o que se improvise una sustitución sin que se note. El tercero es el
-F&B Bible, que ya recoge para cada plato su foto real — esa foto funciona
-como referencia visual de cómo debe verse el plato servido, el mismo
-papel que en una cocina con brigada cumpliría un pase que revisa el
-emplatado antes de que salga.
+| Momento | Tiempo de referencia |
+|---|---:|
+| Saludo al llegar | ≤ 1 min |
+| Acomodo en mesa | ≤ 2 min |
+| Toma del pedido de bebida | ≤ 5 min desde que el cliente se sienta |
+| Bebida servida | ≤ 5 min |
+| Comida servida | ≤ 15 min |
+| Recogida de mesa al terminar | ≤ 5 min |
+| Ofrecer otra bebida o rellenar | ≤ 5 min tras vaciarse |
+| Entrega de la cuenta | ≤ 5 min desde que se pide |
 
-Dos cosas quedan abiertas. La primera es el control de alérgenos: el
-F&B Bible tiene ese campo pendiente de confirmar con cocina en los 17
-platos, y hasta que no se cierre, no hay un control de calidad real
-sobre ese punto, por bien montado que esté el resto. La segunda es la
-merma en la propia producción — hoy no tenemos ese dato desagregado por
-elaboración, más allá del control de inventario mensual que ya revisa
-Propiedad (2.c); si en algún momento interesa bajar a ese nivel de
-detalle, sería una decisión aparte, no algo que este documento pueda dar
-por hecho.
+Estos tiempos son referencias de servicio, no una promesa de que todos los productos requieren exactamente el mismo tiempo de elaboración. Su cumplimiento depende, entre otras cosas, de que la producción y el mise en place estén preparados, de que los tickets se reciban correctamente y de que el equipo se coordine cuando aumenta el volumen.
+
+La demanda no se distribuye de forma uniforme durante la semana. En Plaza República Dominicana se han identificado como momentos de especial actividad la mañana del fin de semana y la franja de 16:00 a 19:00 h. En esos periodos, varias comandas pueden competir por las mismas funciones. El riesgo no es solo que una preparación tarde más, sino que la acumulación en una función afecte al resto del servicio.
+
+Cuando se prevé o se detecta una acumulación, el encargado o encargada organiza las prioridades y redistribuye el apoyo entre las funciones según las necesidades del momento. Si un pedido va a demorarse, el equipo debe comunicarlo al cliente en lugar de dejar que la espera transcurra sin información. La medición de los tiempos reales permitirá comprobar si los estándares son alcanzables de forma consistente y dónde aparecen los principales cuellos de botella.
+
+### f. Calidad y consistencia
+
+La calidad gastronómica debe mantenerse independientemente de quién prepare el pedido o de en cuál de los locales se encuentre el cliente. En Lady Madrid se sostiene mediante tres referencias que ya existen: las recetas y fichas técnicas, las listas de mise en place y las fotografías de presentación recogidas en el F&B Bible. Este apartado establece el criterio; las fichas y los materiales de RUN contienen el detalle que debe seguirse.
+
+Las recetas estandarizadas ayudan a mantener las proporciones y el resultado previsto. El mise en place permite disponer de los componentes necesarios antes de empezar a montar cada pedido. Las referencias visuales ayudan a reconocer cómo debe presentarse el producto terminado. Juntas, estas herramientas reducen la dependencia de la memoria y de las preferencias individuales.
+
+La polivalencia no elimina la responsabilidad sobre la calidad. Quien prepara una bebida o una elaboración debe comprobarla antes de darla por terminada, y quien la entrega debe prestar atención a que llegue completa al cliente. Si se detecta un error, una falta de producto o una desviación respecto al estándar, debe corregirse antes de servir cuando sea posible y comunicarse al responsable de turno si no se puede resolver directamente o si se repite.
+
+**La información de alérgenos requiere una revisión específica.** La documentación disponible no permite dar por cerrada toda la información de alérgenos de la carta: hay datos pendientes de confirmar o revisar. Hasta que esa validación esté completada, el equipo no debe deducir ingredientes ni dar por confirmada una información que no esté documentada. Las dudas deben consultarse con el responsable correspondiente y la información de las fichas debe actualizarse cuando se confirme.
+
+La merma por elaboración no se incorpora por ahora como un sistema de control independiente. El negocio ya dispone de un control mensual de inventario; analizar las mermas por receta o elaboración puede valorarse más adelante si los datos muestran que ese nivel de detalle ayudaría a tomar mejores decisiones. No se establece como una tarea nueva de la operativa actual.
 
 ### g. Coordinación con sala
 
-Hablar de "coordinación con sala" da por hecho que hay dos equipos que
-coordinar, y en Lady Madrid no los hay: es el mismo equipo, así que la
-coordinación real no pasa entre cocina y sala, sino entre las distintas
-cosas que una misma persona — o un equipo pequeño rotando — tiene que
-atender a la vez. Esto ya se explica como principio en 3.c: la
-polivalencia es una ventaja mientras alguien reparta bien quién hace qué
-en cada momento, y ese alguien es el encargado o encargada de turno.
+En Lady Madrid, cocina, barra y sala no funcionan como equipos completamente separados: forman parte de un mismo equipo polivalente. La coordinación gastronómica consiste en que las funciones de atención al cliente, preparación de bebidas, preparación de alimentos y apoyo operativo puedan trabajar de forma conectada, sin que una tarea quede bloqueada porque otra persona la considere ajena a su responsabilidad.
 
-El punto de encuentro físico entre "lo que se prepara" y "lo que se
-sirve" es la barra y el mostrador del obrador — no hace falta que sea
-nada más, porque es ahí donde ya confluyen las dos cosas de forma
-natural: el ticket ya avisó qué hay que preparar (3.d), y el plato queda
-listo ahí mismo para que lo recoja quien esté libre en ese momento.
-Donde sí hace falta coordinación activa es en las horas de más
-movimiento, cuando varias mesas y varios pedidos en barra compiten por
-las mismas funciones: ahí es
-donde el encargado o encargada prioriza — qué se atiende primero, quién
-se queda en sala y quién refuerza en barra — para que, como ya dice 2.b,
-la presión se gestione por dentro y no se note desde la mesa.
+Durante el turno, las funciones pueden estar repartidas para dar claridad al trabajo. La asignación concreta depende de la composición del equipo y de la demanda del momento; no convierte esas funciones en puestos permanentes. En los periodos tranquilos, el equipo puede moverse con flexibilidad. En los picos, el reparto debe ser suficientemente claro para evitar que todos intenten resolver lo mismo mientras otra parte del servicio se queda desatendida.
+
+La coordinación se apoya en tres elementos ya presentes en el modelo: el TPV, que distribuye las comandas; los puntos de entrega, donde quedan listas las bebidas y la comida; y la comunicación verbal, necesaria cuando hay que aclarar un pedido, avisar de una demora o reorganizar prioridades. No se necesita añadir un sistema paralelo de comunicación para cada pedido, pero sí utilizar el existente de forma activa cuando la situación lo exige.
+
+El encargado o encargada de turno supervisa el conjunto y ayuda a decidir dónde hace falta apoyo cuando se acumulan pedidos. La finalidad no es que el equipo mantenga una separación rígida entre funciones, sino que la flexibilidad no se convierta en desorganización: cada persona debe saber qué está atendiendo, qué pedidos siguen pendientes y dónde puede ayudar sin dejar desatendida una tarea crítica.
+
+La coordinación funciona cuando el cliente recibe su pedido completo y a tiempo, aunque haya intervenido más de una persona en su preparación y entrega. Por eso, el criterio final no es quién ha hecho cada parte, sino que la información fluya, la calidad se mantenga y el equipo comparta la responsabilidad sobre el resultado.
+
+### Qué queda por cerrar
+
+La arquitectura anterior se apoya en el funcionamiento documentado y en las decisiones confirmadas para este apartado. Antes de considerar cerrado el sistema gastronómico, quedan por validar los siguientes puntos:
+
+- **Previsión de producción:** concretar qué datos se utilizan para ajustar las cantidades de referencia —por ejemplo, histórico de ventas y previsión de demanda— y cómo se traduce esa información en la planificación diaria. El criterio de ajustar por demanda e histórico está confirmado; el mecanismo concreto no está descrito.
+- **Alérgenos:** completar la revisión de la información de la carta y de las fichas técnicas antes de darla por validada.
+- **Consistencia entre locales:** confirmar que las mismas recetas, estándares visuales y criterios de calidad se aplican en Plaza República Dominicana y Parquesur, y documentar cualquier diferencia operativa real entre ambos.
+- **Revisión de tiempos:** recoger datos reales de servicio para comprobar el cumplimiento de las referencias de 2.c y localizar las funciones que generan más esperas.
+- **Mermas por elaboración:** mantenerlo como posible mejora futura, no como obligación de control actual.
+
+Las cantidades, las recetas, los pasos de preparación, los escandallos y las fichas de producto continúan en RUN. Cualquier cambio en esos materiales debe realizarse en sus documentos operativos de referencia, sin duplicarlo aquí.
