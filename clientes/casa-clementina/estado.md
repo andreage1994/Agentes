@@ -290,6 +290,100 @@ proyectos de Proyección Financiera y Viabilidad de Negocio:
   correcto de IVA y de los números antes de que lleguen al informe
   final.
 
+## 2026-10-19 — Datos reales tras la reunión con el cliente
+
+Andrea aporta los datos definitivos de la reunión de hoy. Esto **sustituye** las
+cifras provisionales que arrastraba el gap analysis anterior allí donde
+hay conflicto (lo marco explícitamente).
+
+**Inversión y pagos — cifra única ya fijada (resuelve el Gap 1 de arriba):**
+- Importe total pagado a día de hoy: **240.000€** (coincide, redondeado,
+  con los 239.561,25€ ya documentados).
+- Importe pendiente de pago: **solo 8.000€**, correspondientes al resto
+  de la maquinaria de cocina/barra (coincide con la mitad pendiente de
+  ~15.000€ ya documentada). Andrea es explícita: esto es lo único que
+  falta pagar **de lo que ya estaba valorado y presupuestado** dentro de
+  la obra — no incluye las partidas nuevas de abajo.
+
+**Partidas nuevas de inversión para abrir (no estaban pagadas, fuera del
+presupuesto de obra ya cerrado):**
+- Software (instalación/licencia inicial): **cifra pendiente** — Andrea
+  la dará cuando se le pida, no inventar un número.
+- Mobiliario (mesas, sillas, bancos): **~15.000€** — actualiza la cifra.
+  Confirma el hallazgo propio de TBNB (el mobiliario estaba
+  infrapresupuestado en la lista oficial de pendientes en ~7.220€ frente
+  al dato exacto del cliente de 14.220€) — la cifra de hoy (15.000€) es
+  consistente con ese hallazgo, no con los 7.000€ de la lista oficial.
+- Pequeños electrodomésticos: **~3.500€** (confirma la cifra ya
+  documentada).
+- Food cost inicial: **5.000€** (actualiza los 3.000€ de la lista
+  oficial de pendientes).
+- Alquiler de octubre: **1.800€** (confirma la cifra ya documentada).
+- Sueldos: **se calculan cuando saquemos las necesidades de personal**
+  (no es una cifra cerrada todavía — depende del modelo de turnos).
+
+**Gastos fijos mensuales recurrentes (antes aparecían como pagos únicos
+en la lista de pendientes — Andrea los reclasifica hoy como recurrentes,
+corrige el tratamiento anterior):**
+- Alarma: **50€/mes** (antes figuraba como pago único de 500€ — se
+  corrige: es cuota mensual, no inversión puntual).
+- Wifi: **50€/mes** (antes figuraba como pago único de 400€ — misma
+  corrección: es cuota mensual).
+- TPV: **300€** (hardware, pago único) **+ software del TPV: 80€/mes**
+  — **a confirmar contra presupuesto real de Square** ("o presupuesto de
+  Square" — Andrea da estas cifras como aproximación, no como cifra
+  cerrada; usar la cotización real de Square si llega antes de cerrar el
+  informe).
+- Renta escalonada (1.800€ años 1-2 → 1.900€ año 3 → 2.000€ año 4 →
+  2.100€ año 5 → 2.100€ + IPC después): se incorpora a la proyección
+  multianual cuando corresponda (años 3+), no solo al mes 1.
+
+**Proyecto acústico de Absotec — resuelto (Gap 4 cerrado):** el cliente
+confirma que su coste **ya está incluido dentro de la obra** (dentro de
+los 190.961,60€/240.000€ ya pagados). No hay partida aparte que añadir.
+
+**Aforo y terraza — resuelto:** 44 pax confirmados (solo interior). La
+terraza **no está aprobada todavía** y su licencia puede tardar mucho —
+**se excluye de la proyección por completo**, no se contabiliza su
+aforo ni sus ingresos.
+
+**Hipótesis comerciales actualizadas:**
+- Horario y días: 7 días abiertos (confirma lo ya documentado).
+- Ticket medio: **11-14€** (estrecha la horquilla de 10-15€ ya
+  documentada).
+- Estacionalidad: julio y agosto, **-60% sobre la proyección del resto
+  del año** (cuantifica la hipótesis cualitativa ya documentada de que
+  son los meses más flojos en Madrid).
+
+**Personal — tabla salarial real confirmada (en NETO, calcular coste de
+empresa con +33% de Seguridad Social sobre el bruto):**
+
+| Puesto | Salario neto/mes | SS empresa |
+|---|---|---|
+| Manager | 1.800€ | +33% |
+| Barista | 1.500€ | +33% |
+| Camarero/a | 1.400€ | +33% (según convenio) |
+| Ayudante de camarero/a | 1.400€ | +33% (según convenio) |
+| Cocinero/a | 1.400€ | +33% (según convenio) |
+| Ayudante de cocina | 1.400€ | +33% (según convenio) |
+| Jefe/a de cocina | 1.600€ | +33% |
+
+Nota de Andrea: estamos en Madrid, no Barcelona — tenerlo presente al
+calcular (no aplicar por defecto ningún criterio usado en proyectos de
+Barcelona). El cálculo de coste de empresa a partir de neto exige
+convertir neto→bruto (vía retención de IRPF), que depende de la
+situación personal de cada trabajador y no tiene una fórmula única real
+— se documentará como una hipótesis explícita y editable dentro del
+modelo (tipo de retención asumido), nunca como un dato exacto inventado.
+Turnos: 7 días abiertos, 8h de jornada, plantilla ajustada lo más
+posible a la necesidad real por franja (no sobredimensionada).
+
+**Plazo:** Andrea pide dar forma profesional a las tres plantillas
+maestras (Business Viability Report, Proyección Financiera, P&L) una por
+una, para entregarlo todo correctamente **mañana** (solo con margen para
+pequeñas correcciones después). El borrador `Abierto_Todos_Los_Dias.xlsx`
+del cliente se descarta definitivamente como base (confirmado de nuevo).
+
 ## Próximos pasos
 
 1. En la reunión de hoy, además de las preguntas ya identificadas
