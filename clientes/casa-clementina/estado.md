@@ -1135,3 +1135,26 @@ sueltas):**
 real — corregido otra vez. Preguntado a Andrea si alguien más está
 editando esa celda en el documento en vivo, porque ya ha pasado dos
 veces sin que lo tocara yo.
+
+## Corrección final: SS+IRPF es 50%, no 33% 2026-10-20
+
+Aclarado por Andrea: el 50% que seguía "reapareciendo" en `Datos!C52`
+NO era un bug ni una edición de otra persona — es el valor correcto.
+El 33% que yo había puesto solo cubre la Seguridad Social; para pasar
+de salario NETO a coste de empresa real hay que sumar también el
+efecto del IRPF (retención), y junto los dos dan el 50% combinado que
+ya estaba. Mi error fue varias sesiones atrás, al fijarlo en 33% sin
+tener en cuenta el IRPF — pido disculpas por las dos veces que lo
+"corregí" mal.
+
+**Fijado definitivamente: `Datos!C52` = 50%**, con nota en la celda
+explicando el desglose (33% SS + ~17% IRPF) para que no se repita la
+confusión. Costes de personal real: **9.150€/mes** (no 8.113€).
+Recalculado en cascada sin errores: Beneficio Neto Año 1 =
+**26.135,72€** (antes 36.713,12€ con el 33% erróneo).
+
+`Break-Even` reorganizada visualmente: columna de conceptos ensanchada
+(no se cortaba el texto), los 5 bloques con cabecera de color,
+subtotales resaltados y bordes entre secciones. Con el 50% correcto:
+**Break-Even = 69,2 clientes/día** (antes 64,5). Margen de seguridad:
+Pesimista +13%, Base +23%, Optimista +51% — sigue siendo viable.
