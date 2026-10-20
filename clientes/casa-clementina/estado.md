@@ -1103,3 +1103,35 @@ cerca del 30% en año 1 (30,6% de ingresos), pero cae a 28,9% en año 2 y
 del personal baja solo por el crecimiento (la fija sale más barata que
 el 30% variable: -1.907€ año1, pero +3.820€ y +9.891€ de ahorro en año
 2 y 3 respectivamente).
+
+## Break-Even — reconstruida entera 2026-10-20
+
+Andrea pide terminar `Break-Even`. Estaba contaminada: mezclaba Delivery
+y Tardeo (no aplican a Casa Clementina), tenía el personal mal (9.150€,
+el 50% SS viejo) y `#REF!` en año 2/3 por la Financiación rota (ya
+arreglada en el resto del documento, pero no aquí todavía).
+
+**Reconstruida entera, 5 bloques, todo enlazado en vivo (sin cifras
+sueltas):**
+1. Margen de contribución por cliente (IVA excl.): Ticket 10,91€ − Food
+   cost 3,27€ (30%) − Packaging 0€ (no aplica, Casa Clementina no hace
+   take away) = **7,64€/cliente** (70% de margen).
+2. Costes fijos mensuales (Alquiler, Personal, Contabilidad, Seguros,
+   Suministros, Marketing, Cuota financiación, Amortización) — todos
+   enlazados a las hojas reales ya corregidas. Total: **14.071,33€/mes**
+   (idéntico los 3 años, porque plantilla/costes fijos no escalan hoy).
+3. Break-Even operativo: **64,5 clientes/día** necesarios para cubrir
+   costes (usando el promedio real de días de trabajo, 28,58/mes, con
+   los cierres de agosto/Navidad ya incluidos).
+4. Margen de seguridad vs. las proyecciones reales de Ventas Año 1:
+   Pesimista (80/día) +19% sobre el punto de equilibrio, Base (90/día)
+   +28%, Optimista (140/día) +54% — los tres escenarios cubren costes
+   con margen, incluso el Pesimista.
+5. Sensibilidad al Food Cost %: si subiera a 35% el BE sube a 69,4
+   clientes/día; a 40%, 75,2 clientes/día.
+
+**Bug recurrente detectado de nuevo (2ª vez en la sesión):**
+`Datos!C52` (% Seguridad Social) volvió a estar en 50% en vez del 33%
+real — corregido otra vez. Preguntado a Andrea si alguien más está
+editando esa celda en el documento en vivo, porque ya ha pasado dos
+veces sin que lo tocara yo.
