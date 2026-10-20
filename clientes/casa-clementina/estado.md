@@ -1158,3 +1158,15 @@ Recalculado en cascada sin errores: Beneficio Neto Año 1 =
 subtotales resaltados y bordes entre secciones. Con el 50% correcto:
 **Break-Even = 69,2 clientes/día** (antes 64,5). Margen de seguridad:
 Pesimista +13%, Base +23%, Optimista +51% — sigue siendo viable.
+
+## Break-Even — formato corregido al estilo real del documento 2026-10-20
+
+Andrea avisa que el formato que puse (bandas azules, beige, gris
+inventados por mí) no era el correcto, y que había celdas mezcladas.
+Las celdas combinadas eran solo las 2 normales del título (A1:J1,
+A2:J2) — no era eso. Revisado el formato REAL que ya usan `Datos` e
+`Inversiones`: cabeceras de sección en naranja (tema ACCENT2 de la
+plantilla), texto blanco en negrita con fuente Epilogue, borde blanco
+grueso; subtotales en gris claro (tema BACKGROUND), mismo texto
+negrita. Reemplazado el formato inventado por este, igual que el resto
+del documento, en los 5 bloques de `Break-Even`.
