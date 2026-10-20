@@ -600,3 +600,8 @@ Optimista 140→154→169.
 la caída de temporada está puesta en junio-julio (70/70) en vez de
 julio-agosto como en Pesimista y Base — se ha propagado igual a Año 2 y
 Año 3. Preguntado a Andrea si es intencional.
+
+**2026-10-20 (cont.) — Corregido el desliz de temporada en Optimista.**
+Confirmado por Andrea: la caída de temporada del escenario Optimista
+debía estar en julio-agosto, no junio-julio. Corregido en Año 1
+(C9:N9) — Año 2 y Año 3 se recalculan solos al ser fórmulas sobre Año 1.
