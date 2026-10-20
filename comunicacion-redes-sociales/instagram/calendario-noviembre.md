@@ -18,96 +18,127 @@ antes de que se abra el carrusel, no como resumen de las slides.
 ---
 
 ## 1 · 1 noviembre — Gastro tendencia
-**Serie fija: "Por qué funciona"** — Atelier September (Copenhague, chef
-Frederik Bille Brahe).
+**Serie fija: "Por qué funciona"** — Apotek 57, el café dentro de FRAMA
+Studio Store (Copenhague, barrio de Nyboder). Sustituye a la pieza anterior
+de Atelier September tras feedback directo de Andrea (2026-10-20): "no es
+nada revelador ni interesante... hay que hablar mejor del estilo de vida
+que crea y no tanto de solo la decoración".
 
-**Ángulo:** el local se diseña deliberadamente "sin terminar" — mínimo a
-propósito, para que sean los habituales y la vida diaria del barrio quienes
-lo completen.
+**Ángulo:** no es un post de decoración. Es un post sobre el estilo de vida
+que el sitio vende — la sensación de estar en una casa con buen gusto, no en
+un negocio, y cómo eso conecta con que el local pertenece a una marca de
+diseño (FRAMA), no a una cadena de hostelería. Cuando el mobiliario, la luz
+y la cocina están pensados como los de una casa real, el cliente no compra
+un café: compra un rato dentro de un estilo de vida que querría tener en la
+suya.
 
 **Formato: carrusel editorial.**
 
 **Slide 1 (portada)**
-> Atelier September no está terminado. Y nunca lo va a estar — a propósito.
+> Apotek 57 no vende café. Vende una casa en la que querrías vivir.
 
 **Slide 2**
-> Ladrillo visto, paredes encaladas, mostradores de mármol, estanterías con
-> cerámica y libros de cocina. Nada "resuelto" del todo.
+> Ninguna mesa es igual a otra. La luz, el mobiliario, todo de diseño — nada
+> puesto ahí para "parecer" un café.
 
 **Slide 3**
-> Nikolaj Lorentz Mentze, el interiorista, no buscaba un render perfecto.
-> Buscaba, en sus palabras, *"a simple, effortless feel"*.
+> La cocina está abierta, a la vista, como si fuera la de alguien en su
+> casa. No hay barra que separe a quien cocina de quien come.
 
 **Slide 4**
-> No hay reservas. Quien entra, entra sabiendo que lo que va a encontrar
-> depende de quién más haya entrado antes.
+> El local ocupa una farmacia de 1878 en Nyboder — St. Paul's Apotek.
+> Siguen ahí los armarios de roble originales y los techos pintados de
+> época.
 
 **Slide 5**
-> Cada sede de la cadena —Kronprinsessegade, Nordhavn— es distinta. Mismo
-> criterio, nunca la misma plantilla. El barrio termina de construir cada
-> una.
+> Apotek 57 es el café de FRAMA, una marca danesa de diseño y mobiliario.
+> No lo monta una cadena de hostelería — lo monta una marca que vende un
+> estilo de vida, y el café es la puerta de entrada.
 
-**Slide 6 (cierre)**
-> ¿Qué parte de tu local deberías dejar de controlar del todo, para que la
-> termine quien entra cada día?
+**Slide 6**
+> Por eso el contraste no es casualidad: mobiliario contemporáneo dentro de
+> una farmacia clásica, pensado para convivir, no para "ambientar".
+
+**Slide 7 (cierre)**
+> Cuando un sitio se diseña como una casa y no como un negocio, el cliente
+> deja de comprar un café. Compra un rato dentro de un estilo de vida que
+> querría tener en la suya.
 
 **Caption:**
-> Hay un café en Copenhague que se diseñó para no estar nunca del todo
-> terminado. Lo completa el barrio, mesa a mesa. Esa es la parte que casi
-> nadie copia cuando intenta copiar el local.
+> Hay un café en Copenhague, dentro de una farmacia de 1878, que no parece
+> una cafetería — parece la casa de alguien con muy buen gusto. Esa
+> confusión es exactamente el producto.
 
 ---
 
 ## 2 · 4 noviembre — Transformaciones antes y después
 **Formato conceptual/ilustrativo — sin cliente real, sin cifras de un caso
-concreto** (regla de la casa aplicable: no hay permiso confirmado para
-ningún caso con este ángulo; se lee como patrón, no como caso disfrazado).
+concreto** (regla de la casa aplicable: se lee como patrón que se repite en
+cientos de negocios, nunca como un caso disfrazado). Reescrita 2026-10-20
+tras feedback directo de Andrea: el ángulo anterior comparaba el antes y
+después con una reforma física (pared repintada) y no decía nada relevante.
 
-**Ángulo:** qué cambia de verdad en una transformación real de negocio — no
-la foto de "antes/después", sino la carta que se recorta, el horario que se
-ajusta, el público que se elige.
+**Ángulo:** el antes y después que importa casi nunca se ve en una foto. Un
+negocio abre con un concepto muy claro, y mes a mes va tomando decisiones
+sueltas — un plato que se quita, otro que se pone, un paso de servicio que
+se acorta, un recorte para ahorrar en algo puntual — cada una con su lógica
+aislada y razonable por separado. Nadie mide esas decisiones contra el
+concepto original. El "antes" es la idea del día de apertura; el "después"
+no es una mejora, es una erosión. El problema nunca es cambiar — es cambiar
+sin evaluar cada decisión contra el concepto.
 
 **Formato: carrusel editorial.**
 
 **Slide 1 (portada)**
-> El antes y después no es una foto bonita. Es una decisión que alguien
-> tomó primero.
+> El día de la apertura el concepto está clarísimo. Un año después, nadie
+> sabría explicarlo.
 
 **Slide 2**
-> Antes: una carta que intentaba cubrirlo todo. Después: una carta que sabe
-> a quién le habla.
+> No pasa de golpe. Pasa decisión a decisión.
 
 **Slide 3**
-> Antes: abierto siempre, por si acaso. Después: cerrado un día, mejor
-> servicio los otros seis.
+> Un plato que no rota, se quita. Otro que pide un cliente, se pone. Nadie
+> vuelve a comprobar si siguen contando la misma historia.
 
 **Slide 4**
-> Antes: "un poco de todo para todos". Después: un público que sabe
-> exactamente a qué viene.
+> Un paso de servicio se acorta en hora punta. Se queda acortado para
+> siempre — también cuando ya no hay hora punta.
 
 **Slide 5**
-> El antes no era un error. Era una fase sin filtrar. El después es un
-> filtro aplicado a conciencia.
+> Se recorta algo para ahorrar en un mes malo. El recorte se queda aunque
+> el mes malo ya haya pasado.
 
-**Slide 6 (cierre)**
-> Lo que se ve en redes como "reforma" casi nunca es solo pintura nueva. Es
-> una carta que se recorta, un horario que se ajusta, un cliente que se
-> elige.
+**Slide 6**
+> Cada decisión, por separado, tenía su lógica. Ninguna se midió contra la
+> idea con la que se abrió.
+
+**Slide 7 (cierre)**
+> Así se diluye un concepto: no lo cambia nadie a propósito. Se erosiona
+> solo, decisión a decisión, hasta dejar de ser lo que era.
 
 **Caption:**
-> No enseñamos el antes y después para presumir de una pared repintada.
-> Detrás de cada foto bonita hay una decisión incómoda que alguien tuvo que
-> tomar primero — y casi nunca es de diseño.
+> Hemos visto cientos de negocios abrir con un concepto clarísimo y, un año
+> después, no reconocerlo. Nadie lo decidió. Solo dejaron de medir cada
+> decisión contra la idea original.
 
 ---
 
 ## 3 · 8 noviembre — Gastro tradición
 **Serie: "¿Qué podemos aprender de los bares de toda la vida?"**
+Profundizada 2026-10-20 tras feedback directo de Andrea sobre la versión
+anterior: "me parece interesante en general el approach, pero creo que
+podemos ir un poco más allá" — se mantiene la observación del camarero que
+lee al cliente sin manual, y se lleva hasta su conclusión de negocio.
 
 **Ángulo:** el camarero de barrio que no mira la carta, te mira a ti — sabe
-leer al cliente sin que se lo haya enseñado ningún manual. (Deliberadamente
-sin derivar a un sistema técnico, a diferencia de la pieza equivalente de
-octubre.)
+leer al cliente sin que se lo haya enseñado ningún manual. Esa conexión
+humana se puede intentar formar (un manual de cultura de marca, unos
+valores de servicio para el equipo — tiene sentido escribirlos), pero
+escribirla no es lo mismo que que ocurra de verdad en cada mesa: es una
+intención que se forma, no un protocolo que se memoriza. Y si no ocurre, no
+hay nada que recordar — y sin recuerdo, el cliente no vuelve, por bueno que
+sea el producto. (Deliberadamente sin derivar a un sistema técnico paso a
+paso, a diferencia de la pieza equivalente de octubre.)
 
 **Formato: carrusel editorial.**
 
@@ -128,14 +159,23 @@ octubre.)
 **Slide 5**
 > Nada de eso está en un manual. Se aprende mirando, no estudiando.
 
-**Slide 6 (cierre)**
-> Antes de automatizar la experiencia del cliente, hay que entender qué
-> parte de ella no debería automatizarse nunca.
+**Slide 6**
+> Puedes escribirlo en el manual de cultura de marca. Puedes ponerlo en los
+> valores de servicio de tu equipo. Tiene sentido intentarlo.
+
+**Slide 7**
+> Pero enseñarlo no es que pase. Es una intención que se forma — no un
+> protocolo que se memoriza y ya está.
+
+**Slide 8 (cierre)**
+> Sin trato humano no hay recuerdo. Y sin recuerdo, no hay vuelta — por
+> bueno que sea el producto.
 
 **Caption:**
-> Hay una habilidad de barra que no se enseña en ningún curso: saber, solo
-> con mirarte, si hoy quieres hablar o que te dejen tranquilo. Esa, de
-> momento, no la sustituye nada.
+> Hay restaurantes con un manual de cultura perfecto donde ningún cliente
+> recuerda haber estado. El trato humano se puede intentar enseñar — pero
+> si no pasa de verdad en la mesa, no deja recuerdo. Y sin recuerdo, nadie
+> vuelve.
 
 ---
 
