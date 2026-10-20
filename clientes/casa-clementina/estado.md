@@ -819,3 +819,38 @@ los 12 meses, no solo desde el mes 9). Bloquea en cascada: Costes
 financieros y Cuota microcrédito en los 3 años, y por tanto Total
 costes/Beneficios/Impuesto Sociedades/Beneficio Neto/Saldo de Tesorería
 desde ese punto, y los trimestres de IVA que tocan el préstamo.
+
+## Proyecciones — reconstruida entera 2026-10-20
+
+Andrea pide calcular, en `Proyecciones`, el total de clientes de Ventas
+Año 1 (Pesimista/Base/Optimista) con las franjas horarias y el ticket
+medio reales, descartando las horas de tarde.
+
+**Hallazgo:** la hoja estaba contaminada al 100% con el modelo de un
+restaurante/bar de 24h de otro cliente — repetido 3 veces completas (una
+por escenario): franjas desde "Breakfast 6:00" hasta "Late Night 02:00-
+03:00" (con cena, afterwork y madrugada), tablas de gastos ("Shopping
+30%, Staff 40%, Other Expenses 12,5% del Total Billing") y de "Monthly
+Occupancy Rates" al 100% — nada de esto aplica a una cafetería de 8h sin
+servicio de tarde. Limpiada por completo (filas 1-270, en 3 tramos por
+el tamaño) y reconstruida desde cero:
+
+- **TABLA RESUMEN** (Semanal/Mensual/Anual, IVA incluido): enlazada
+  directamente a `Ventas!C7:N9` (Pesimista/Base/Optimista Año 1) y al
+  ticket medio real (`Datos!C20`=12€) — nunca hardcoded, así que
+  cualquier cambio futuro en Ventas se refleja solo. Verificado:
+  Mensual Base = 26.460€ y Anual Base = 285.180€, coinciden exactamente
+  con las cifras ya validadas en Cuenta Resultados/Tesorería.
+- **3 tablas de reparto por franja horaria** (Pesimista/Realista/
+  Optimista), solo con las franjas reales de la jornada de 8h: Apertura
+  (8-10h), Media mañana (10-12h), Hora punta mediodía (12-14h), Cierre
+  (14-16h) — sin tardeo, cena ni madrugada, como pidió Andrea.
+
+**Asunción flageada (no es un dato de Andrea, hay que confirmarla o
+ajustarla):** el reparto de clientes entre franjas es 20%/20%/40%/20%,
+con más peso en la hora punta de mediodía — estimación propia de TBNB
+consistente con la lógica de `Turnos` (coincide con el momento en que
+hacen falta las 3 personas a la vez), no un dato real de afluencia por
+hora de Casa Clementina. El horario exacto (8:00-16:00) también es una
+asunción razonable sobre el "8h, cerrado por la tarde" ya confirmado,
+nunca se fijó la hora exacta de apertura/cierre.
