@@ -712,3 +712,30 @@ en Cuenta Resultados):**
 inventado): Suministros, Marketing, Gastos diversos (y el pago puntual de
 fin de año dentro de esa partida) y si el Alquiler de Mes 0 debe duplicar
 el pago de fianza que ya consta como gastado en Inversión Inicial.
+
+## Tesorería — datos reales de Andrea aplicados 2026-10-20
+
+Respuesta de Andrea a las 4 preguntas pendientes:
+- Suministros: agua 50€ + luz 600€ + gas 0€ (no tienen gas) = **650€/mes**.
+- Marketing: **800€/mes**.
+- Alquiler Mes 0: "lo dejamos en mensualidades porque ya tenemos todo
+  pagado en este proyecto" → el Mes 0 NO debe duplicar la fianza (ya está
+  pagada y contabilizada en Inversión Inicial), solo la mensualidad normal.
+- Gastos diversos (150€/mes + pago puntual 1.650€/3.650€ a fin de año):
+  sin respuesta todavía — vuelto a preguntar.
+
+**Aplicado en las tres hojas de Tesorería (1r/2º/3er año):**
+- Suministros: 650€/mes fijo los 3 años (antes 1.060€→1.600€→2.100€
+  escalonado, residuo de otro cliente). Asunción tomada: se aplica el
+  mismo 650€ también al Mes 0 del año 1 (antes 400€) y sin escalado por
+  año, al no decir Andrea lo contrario — señalado para que lo corrija si
+  quería otra cosa.
+- Marketing: 800€/mes fijo los 3 años (antes 3.500-4.500€ escalonado).
+  Misma asunción: se sustituyó también el pago especial de Mes 0 (antes
+  6.000€, posible campaña de apertura) por el mismo 800€ — señalado por
+  si Andrea quería mantener un presupuesto de lanzamiento aparte.
+- Alquiler Mes 0 (`Tesorería 1r año!B26`): fórmula corregida de
+  `=Datos!$C$46*2` a `=Datos!$C$46` — ya no duplica la fianza.
+
+Cascada verificada en Cuenta Resultados 1r año: Suministros 537,19€/mes
+neto de IVA, Marketing 661,16€/mes neto de IVA — correcto.
