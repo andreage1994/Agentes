@@ -1006,3 +1006,21 @@ con reparto 10/20/20/30/20% (pico al mediodía). Todo enlazado a
 Verificado: Mensual Base = 26.460€ y Mensual Optimista = 41.160€,
 coinciden exactamente con la Tabla Resumen ya validada. Sin huecos en
 ninguna de las 48 franjas (7 días + mensual × 3 escenarios).
+
+## Proyecciones — organización visual 2026-10-20
+
+Andrea pide organizar mejor la información (la tabla con el detalle
+diario completo salía muy larga/difícil de escanear). Aplicado:
+
+- **Agrupadas y plegadas** las filas de Martes a Domingo en cada
+  escenario (son idénticas a Lunes, como ya confirmó Andrea) — quedan
+  ocultas por defecto, con el control "-" en el margen izquierdo para
+  desplegarlas si se quieren ver. Solo quedan siempre visibles Lunes
+  (de referencia) y Mensual (el resumen).
+- Fila "LUNES" con nota aclaratoria a la derecha explicando el grupo
+  plegado, y resaltado visual (fondo gris) en "LUNES" y (fondo azul
+  claro) en "MENSUAL" de cada escenario, con las filas TOTAL en negrita.
+
+Resultado: cada escenario pasa de 66 filas siempre visibles a solo 17
+(Lunes + Mensual), con el resto disponible con un clic si hace falta
+revisar el detalle día a día.
