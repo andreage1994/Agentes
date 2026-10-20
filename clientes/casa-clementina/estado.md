@@ -854,3 +854,60 @@ hacen falta las 3 personas a la vez), no un dato real de afluencia por
 hora de Casa Clementina. El horario exacto (8:00-16:00) también es una
 asunción razonable sobre el "8h, cerrado por la tarde" ya confirmado,
 nunca se fijó la hora exacta de apertura/cierre.
+
+## Financiación — resuelto el último bloqueo del documento, 2026-10-20
+
+Andrea confirma: **no hay préstamo real**, toda la inversión (244.712€)
+se cubre con ahorros de las 3 socias. Lo que sí pide es calcular qué
+necesitarían financiar (lo pendiente de pago + colchón de circulante
+para aguantar la operativa) y qué opciones de préstamo hay.
+
+**Diagnóstico confirmado:** la hoja `Financiación` tenía un préstamo
+falso — "ICF" (120.000€, 6,5%, 84 meses) activo + "Microbank" (50.000€,
+4,5%, 72 meses) inactivo. "ICF" = Institut Català de Finances, una
+entidad que **solo financia en Catalunya** — contaminación clara de un
+cliente de Barcelona, incompatible con "estamos en Madrid" que Andrea ya
+había avisado. Además, un problema técnico aparte: la tabla de
+amortización mensual solo tenía columnas hasta el mes 8 (la hoja solo
+tenía 10 columnas en total) — de ahí el `#REF!` desde el mes 9 en
+adelante y en los años 2-3 completos.
+
+**Arreglado:**
+- Desactivados Fin. 1 y Fin. 2 (`Activo=0`), vaciados sus datos falsos
+  (nombre, importe, tipo de interés, duración) — quedan como slots
+  disponibles para simular una opción real si se decide pedir
+  financiación. Nota añadida en la propia hoja explicando la situación.
+- Las 6 filas que dependían del grid roto ("Cuota microcrédito" en las 3
+  Tesorerías, "Costes financieros" en las 3 Cuentas de Resultados) se
+  redirigieron a `Financiación!$C$30` (la celda combinada, que ya da 0€
+  correctamente) en vez del grid mensual roto — sin necesidad de tocar
+  la estructura de columnas de la hoja.
+- **Bug aparte detectado y corregido de nuevo:** `Datos!C52` (% Seguridad
+  Social) había vuelto a estar en 50% en vez del 33% real que fijamos
+  antes — no está claro si fue un cambio de Andrea al mirar el documento
+  o algo más, se avisó y se corrigió otra vez.
+
+**Resultado: todo el documento (Cuenta de Resultados, Tesorería e IVA,
+los 3 años) calcula de principio a fin sin ningún `#REF!`.** Cifras
+finales reales:
+
+| | Año 1 | Año 2 | Año 3 |
+|---|---|---|---|
+| Beneficio Neto | 2.953,86€ | 9.226,40€ | 15.818,42€ |
+| Saldo de caja mínimo del año | 11.787€ (mes 0) | 49.372,95€ (fin año) | 59.522,66€ (fin año) |
+| Saldo de caja al cierre del año | 53.587,27€ | 102.960,22€ | 161.567,25€ |
+
+**Hallazgo importante para la pregunta de Andrea:** con la plantilla y
+costes actuales, **el Saldo Acumulado de Tesorería nunca baja del nivel
+inicial en ningún mes de los 3 años** — crece de forma sostenida desde
+los 11.787€ del mes 0. Es decir, **para la operativa del día a día no
+hace falta financiación externa adicional**, los 20.000€ de provisión de
+fondos ya son suficientes como colchón.
+
+**Pendiente real para terminar el análisis de "lo pendiente":** en
+`Inversión inicial`, 5 partidas de gastos de apertura siguen en 0€,
+marcadas "PENDIENTE — falta cifra real": Food cost inicial, Take away
+(packaging), Menaje, Utensilios de cocina, Material de oficina. Estas sí
+son gastos reales sin pagar todavía y sin cifra — sin ellas no se puede
+calcular "lo que necesitaríamos pedir para abrir con lo pendiente".
+Preguntado a Andrea.
