@@ -469,8 +469,6 @@ desarrollados aquí), tal como fija `brief-redaccion-noviembre.md`:
 - Caso anonimizado "detrás de la barra" sobre turnos (pilar Servicios TBNB).
 - The Røe Bar (alternativa de Copenhague no elegida para "por qué
   funciona").
-- Apotek 57 (alternativa de Copenhague descartada del 1 nov por solaparse
-  con Café Leon Dore — ver pieza 1 y pieza 4).
 
 ## Reparto de pilares en noviembre (8 piezas de esta tanda)
 
