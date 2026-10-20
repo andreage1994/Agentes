@@ -688,3 +688,27 @@ reconstrucción de Turnos/Tabla Salarial) y Costes financieros (`#REF!`,
 depende de la hoja `Financiación` sin revisar) en los tres años. Total
 costes, Beneficios/Pérdidas, Impuesto de Sociedades y Beneficio Neto
 seguirán en `#REF!` en los tres años hasta resolver esos dos puntos.
+
+## Tesorería 1r/2º/3er año — revisión inicial 2026-10-20
+
+Andrea pide preparar la Tesorería de los 3 años. Las tres hojas
+(`Tesorería 1r año`, `Tesorería 2 año`, `Tesorería 3 año`) ya existen con
+toda la estructura y fórmulas montadas (Cobros, Pagos, Saldo Mes/Anterior/
+Acumulado), heredando los mismos dos bloqueos ya documentados (Costes de
+personal deferido, hoja `Financiación` rota) — y estos dos arrastran
+también la hoja `IVA`, que depende de ambos para "Tributos IVA".
+
+**Limpieza mecánica ya hecha (sin esperar validación, mismo criterio que
+en Cuenta Resultados):**
+- Vaciada la fila "Clientes/Ventas Tardeo diarios" (volumen) en las tres
+  hojas de Tesorería — tenía números sueltos en rampa (4→16 año1, 20 año2,
+  22 año3) heredados de otro cliente; no afectaban al resultado (precio
+  tardeo en blanco → 0€) pero generaban ruido visual inconsistente.
+- Corregido el título de `Tesorería 3 año`, que decía "SEGUNDO AÑO" por
+  error de copia de plantilla → ahora "TERCER AÑO".
+- Personalizado `A2` de las tres hojas a "CASA CLEMENTINA".
+
+**Pendiente de datos reales de Andrea** (preguntado en el chat, no
+inventado): Suministros, Marketing, Gastos diversos (y el pago puntual de
+fin de año dentro de esa partida) y si el Alquiler de Mes 0 debe duplicar
+el pago de fianza que ya consta como gastado en Inversión Inicial.
