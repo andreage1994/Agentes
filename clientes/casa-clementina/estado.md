@@ -1024,3 +1024,23 @@ diario completo salía muy larga/difícil de escanear). Aplicado:
 Resultado: cada escenario pasa de 66 filas siempre visibles a solo 17
 (Lunes + Mensual), con el resto disponible con un clic si hace falta
 revisar el detalle día a día.
+
+## Cuenta de Resultados — Impuesto y Beneficio Neto mes a mes 2026-10-20
+
+Andrea avisa que cambió las ventas del Año 1 (Pesimista: 60→80 clientes/
+día, caída estacional a 40) directamente en `Ventas`. Verificado: como
+todo el documento está enlazado con fórmulas en vivo (no hay cifras
+fijas a mano), el cambio se propagó solo por `Proyecciones` (Tabla
+Resumen y detalle Pesimista) y por el crecimiento compuesto de Año 2/3
+de Ventas — no hizo falta tocar nada a mano. Cuenta de
+Resultados/Tesorería/IVA no cambiaron porque siguen mostrando el
+escenario Base (el seleccionado en `Datos!C3`), no el Pesimista.
+
+Luego pide quitar el 15% de Impuesto de Sociedades mes a mes y calcular
+el Beneficio Neto mensual — eran las únicas dos filas del documento que
+solo tenían el total anual (columna O), sin desglose por mes. Añadidas
+las 12 columnas mensuales en los 3 años, manteniendo la misma lógica que
+ya tenía la columna de Total (tipo reducido 15% los dos primeros años;
+en el año 3, 15% o 25% según si el año 1 tuvo pérdidas). Verificado: los
+totales anuales no cambian (446,27€/2.528,86€ año 1; 5.147,81€/15.443,42€
+año 3) — ya cuadraban, ahora también hay desglose mensual real.
