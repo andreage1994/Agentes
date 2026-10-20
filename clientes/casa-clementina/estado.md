@@ -739,3 +739,27 @@ Respuesta de Andrea a las 4 preguntas pendientes:
 
 Cascada verificada en Cuenta Resultados 1r año: Suministros 537,19€/mes
 neto de IVA, Marketing 661,16€/mes neto de IVA — correcto.
+
+## IVA — diagnóstico 2026-10-20
+
+Andrea pide terminar la hoja IVA. Revisión completa (27 columnas, 12
+trimestres de los 3 años + Mes 0 pre-apertura): la hoja ya está bien
+construida y ya recalcula sola con los datos reales de Tesorería que
+acabamos de fijar (Suministros 338,43€/trim., Marketing 416,53€/trim.,
+Alquiler 1.134€/trim. — se arrastraron automáticamente, sin tocar nada
+aquí). El crédito IVA de Mes 0 (872,63€) es correcto.
+
+Pero el resto de la hoja — Tributos IVA Trimestral y Acumulado de los 36
+meses, en los 3 años — está en `#REF!` sin excepción. No es un problema de
+datos: es que "Retribuciones propias" y "Seguridad Social" (coste de
+personal, diferido) ya contaminan el Q1 del año 1 (no hace falta llegar al
+mes 9), y al ser el IVA un acumulado trimestral, un solo mes roto rompe el
+trimestre entero y, en cascada, todos los trimestres siguientes. Desde el
+Q3 del año 1 se suma también "Cuota microcrédito" (hoja `Financiación`
+rota).
+
+Conclusión: no tiene sentido seguir pidiendo datos para IVA — el bloqueo es
+estructural. Se lo planteé a Andrea como decisión (Financiación primero /
+Personal primero / las dos / aparcar) — **elige Personal primero**, porque
+es el que contamina desde antes (Q1, no Q3). Se continúa reconstruyendo
+`Turnos` + `Tabla Salarial` con los roles reales de Casa Clementina.
