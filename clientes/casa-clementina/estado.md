@@ -1216,3 +1216,28 @@ las 3 Cuentas de Resultados, Tesorería y Break-Even.
 - Pendiente de invertir para abrir: **~48.450€**
 - Financiación propuesta (microcrédito/préstamo, a decidir con Andrea
   y Sergio): **48.012€**
+
+## Turnos — ejemplo de cuadrante semanal con posiciones 2026-10-20
+
+Andrea pide un ejemplo de horario Lunes-Domingo con puestos. Al abrir
+la hoja para añadirlo, encontré que tenía el mismo problema que
+`Proyecciones` y `Break-Even`: celdas combinadas sueltas de la
+plantilla vieja (repartidas hasta la fila 203) que se habían tragado
+"Manager", "Barista" y la nota operativa que había escrito antes —
+no se veía nada de eso. Quitadas todas las combinaciones de la hoja
+entera y reconstruido el contenido.
+
+**Añadido el ejemplo de cuadrante semanal** (ilustrativo, cada persona
+descansa 2 días/semana):
+- Manager descansa Lunes y Domingo.
+- Barista descansa Martes y Miércoles.
+- Cocinero/a descansa Jueves y Viernes.
+- Ayudante de camarero/a cubre 5 de los 6 huecos que deja esa
+  rotación (descansa Miércoles y Sábado).
+- Resultado: 3 personas en hora punta todos los días salvo el
+  miércoles (2 personas) — el mismo punto que ya se había señalado
+  como "día más ajustado", ahora visible en un ejemplo concreto.
+
+Aclarado que es un ejemplo ilustrativo, no el cuadrante real
+definitivo — el reparto exacto de descansos lo decide la encargada del
+día a día, no cambia el coste total.
