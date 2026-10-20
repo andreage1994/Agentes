@@ -1,118 +1,84 @@
 # Calendario Instagram — Noviembre
 
-Desarrollado el 2026-10-20 a petición de Andrea ("vamos a realizar el
-calendario de redes sociales de tbnb para noviembre, siguiendo los mismos
-bloques temáticos, desarrollemos los temas y redactemos los posts"). Sigue
-los mismos pilares de contenido del `BRIEF.md` (Gastro tradición, Gastro
-tendencia, Servicios TBNB, Transformaciones antes y después, Rentabilidad
-incómoda) y la misma cadencia de publicación de octubre (domingo/miércoles,
-cada 3-4 días).
+Copy final escrito el 2026-10-20 a partir de
+`instagram/brief-redaccion-noviembre.md` (ángulo, fecha, pilar y fuente ya
+cerrados con Andrea — no reabiertos aquí) y siguiendo el tono y formato de
+`instagram/calendario-octubre.md`. Esta versión sustituye por completo al
+borrador anterior de este mismo archivo, que quedaba desactualizado tras la
+ronda de brainstorming con Andrea.
 
-Ninguna pieza tiene "APROBADO" marcado — nada se publica sin que Andrea o
-Sergio lo aprueben antes, pieza por pieza.
+Ninguna de las 8 piezas tiene el estado "APROBADO" marcado como sí todavía —
+nada se publica sin que Andrea o Sergio lo aprueben antes, pieza por pieza.
 
-## Qué corrige respecto a octubre
-
-`instagram/calendario-octubre.md` cerraba con una nota explícita: "para que
-noviembre compense con más piezas de Gastro tendencia/tradición no técnicas
-y, si es posible, un segundo reel." Este calendario responde directamente a
-eso:
-
-- **Peso técnico-operativo bajado al mínimo**: de 4-5 piezas técnicas en
-  octubre (food cost/escandallos/APPCC/licencias) a **1 sola** en noviembre
-  (18 nov, y en clave de cultura de equipo, no de cálculo).
-- **Pilar "Transformaciones antes y después" estrenado** — en octubre no
-  tuvo ninguna pieza; en noviembre tiene 2 (4 y 25 nov), ambas en formato
-  conceptual/ilustrativo, sin atribuir cifras a un cliente concreto (ver
-  nota de datos más abajo).
-- **Segundo reel añadido** (15 nov), además del cierre de mes con otro
-  (30 nov) — octubre solo tenía uno.
-- **Nueva fuente de inspiración: el viaje a Copenhague.** Tres piezas (1,
-  11 y 22 nov) nacen de `Research_Copenhague_The-Bar-n-Bar`, la hoja de
-  investigación real del viaje (51 sitios documentados, Google Drive,
-  propiedad de Andrea). Encajan en el pilar Gastro tendencia porque son
-  exactamente lo que ese pilar pide: "inspiración de otros sectores /
-  referencias" traída a un ángulo aplicable, no turismo gastronómico.
-
-**Nota sobre el acceso a la investigación de Copenhague** (responde a la
-pregunta de Andrea sobre si tenía acceso): sí, encontrado en Drive. De los
-51 sitios del documento pude extraer con detalle completo los primeros 10
-(Noma, Alchemist, Barr, Høst, Restaurant Koan, Amator, Sonny, Restaurant
-Daphne, Admiralgade 26, Bistro Lupa — categorías "Alta cocina/Fine dining" y
-"Bistrós de barrio"); el resto del documento (coffee shops, panaderías,
-coctelería, que según el propio archivo también están documentados) no pude
-extraerlo de forma fiable con las herramientas de esta sesión — el archivo
-es grande y la vía de lectura estructurada solo entrega una muestra. Si
-Andrea quiere que se usen más sitios del research (hay 41 más), lo más
-rápido es compartir esa parte directamente o decirme qué categoría
-priorizar.
-
-## Nota sobre datos de cliente real (pilar Transformaciones)
-
-Las dos piezas de "Transformaciones antes y después" (4 y 25 nov) están
-escritas en formato **conceptual/ilustrativo** — patrones que vemos
-repetirse en proyectos reales, sin nombrar a ningún cliente ni usar cifras
-de un caso concreto. Esto es deliberado: el manual de la casa exige permiso
-explícito antes de publicar cualquier cosa ligada a un cliente real (ver el
-bloqueante que ya existió en `calendario-octubre.md` del 7 de octubre). Si
-Andrea tiene un caso real con permiso ya confirmado que prefiera usar en su
-lugar, se puede sustituir cualquiera de las dos piezas.
+Cada pieza incluye dos partes: el desarrollo creativo completo (slides del
+carrusel o guion clip a clip del reel) y, por separado, el **Caption** — el
+texto que se publica en Instagram junto al post, pensado para enganchar
+antes de que se abra el carrusel, no como resumen de las slides.
 
 ---
 
 ## 1 · 1 noviembre — Gastro tendencia
-**Serie fija: "Por qué funciona"** — Barr (Copenhague), de los fundadores de
-Noma.
+**Serie fija: "Por qué funciona"** — Atelier September (Copenhague, chef
+Frederik Bille Brahe).
+
+**Ángulo:** el local se diseña deliberadamente "sin terminar" — mínimo a
+propósito, para que sean los habituales y la vida diaria del barrio quienes
+lo completen.
 
 **Formato: carrusel editorial.**
 
 **Slide 1 (portada)**
-> Los fundadores de Noma abrieron un bar. Fue la decisión más inteligente
-> que tomaron.
+> Atelier September no está terminado. Y nunca lo va a estar — a propósito.
 
 **Slide 2**
-> Noma: 600-740€ por persona. Reserva por "drop" de tickets, meses de
-> antelación.
+> Ladrillo visto, paredes encaladas, mostradores de mármol, estanterías con
+> cerámica y libros de cocina. Nada "resuelto" del todo.
 
 **Slide 3**
-> Barr, a quince minutos andando: 55-80€. Sin lista de espera de un año.
+> Nikolaj Lorentz Mentze, el interiorista, no buscaba un render perfecto.
+> Buscaba, en sus palabras, *"a simple, effortless feel"*.
 
 **Slide 4**
-> Misma casa. Mismo nivel de producto. Carta corta que cambia cada semana.
+> No hay reservas. Quien entra, entra sabiendo que lo que va a encontrar
+> depende de quién más haya entrado antes.
 
 **Slide 5**
-> Cerveza propia. Platos contundentes. Cero servilletas de lino.
+> Cada sede de la cadena —Kronprinsessegade, Nordhavn— es distinta. Mismo
+> criterio, nunca la misma plantilla. El barrio termina de construir cada
+> una.
 
-**Slide 6**
-> No es "alta cocina barata". Es alta cocina sin la escenografía que no
-> aporta sabor.
-
-**Slide 7 (cierre)**
-> ¿Qué parte de tu concepto es esencia — y qué parte es solo decorado?
+**Slide 6 (cierre)**
+> ¿Qué parte de tu local deberías dejar de controlar del todo, para que la
+> termine quien entra cada día?
 
 **Caption:**
-> Estuvimos en Copenhague viendo cómo los mejores restaurantes del mundo
-> bajan su ADN a formato bar sin perder ni un grado de identidad. Barr es
-> el caso de estudio. Guárdalo para cuando te preguntes qué parte de tu
-> carta es realmente tuya.
+> Hay un café en Copenhague que se diseñó para no estar nunca del todo
+> terminado. Lo completa el barrio, mesa a mesa. Esa es la parte que casi
+> nadie copia cuando intenta copiar el local.
 
 ---
 
 ## 2 · 4 noviembre — Transformaciones antes y después
-**Formato conceptual** (ver nota de datos arriba) — qué cambia de verdad
-cuando un negocio se transforma, más allá de la foto de "antes/después".
+**Formato conceptual/ilustrativo — sin cliente real, sin cifras de un caso
+concreto** (regla de la casa aplicable: no hay permiso confirmado para
+ningún caso con este ángulo; se lee como patrón, no como caso disfrazado).
+
+**Ángulo:** qué cambia de verdad en una transformación real de negocio — no
+la foto de "antes/después", sino la carta que se recorta, el horario que se
+ajusta, el público que se elige.
 
 **Formato: carrusel editorial.**
 
 **Slide 1 (portada)**
-> Antes y después no es una foto bonita. Es una decisión que alguien tomó
-> primero.
+> El antes y después no es una foto bonita. Es una decisión que alguien
+> tomó primero.
 
 **Slide 2**
-> Antes: carta de 40 platos. Después: carta de 14.
+> Antes: una carta que intentaba cubrirlo todo. Después: una carta que sabe
+> a quién le habla.
 
 **Slide 3**
-> Antes: abierto de 8h a 00h, siete días. Después: cerrado un día, mejor
+> Antes: abierto siempre, por si acaso. Después: cerrado un día, mejor
 > servicio los otros seis.
 
 **Slide 4**
@@ -120,23 +86,28 @@ cuando un negocio se transforma, más allá de la foto de "antes/después".
 > exactamente a qué viene.
 
 **Slide 5**
-> El antes no era un error. Era una fase. El después es una decisión.
+> El antes no era un error. Era una fase sin filtrar. El después es un
+> filtro aplicado a conciencia.
 
 **Slide 6 (cierre)**
-> Lo que ves en redes como "reforma" casi nunca es solo diseño. Es una
-> carta que se recorta, un horario que se ajusta, un cliente que se elige.
+> Lo que se ve en redes como "reforma" casi nunca es solo pintura nueva. Es
+> una carta que se recorta, un horario que se ajusta, un cliente que se
+> elige.
 
 **Caption:**
-> No enseñamos el antes y después para presumir de una pared repintada. Lo
-> enseñamos porque detrás de cada foto bonita hay una decisión incómoda que
-> alguien tuvo que tomar primero.
+> No enseñamos el antes y después para presumir de una pared repintada.
+> Detrás de cada foto bonita hay una decisión incómoda que alguien tuvo que
+> tomar primero — y casi nunca es de diseño.
 
 ---
 
 ## 3 · 8 noviembre — Gastro tradición
-**Lo que un camarero de toda la vida sabe y ningún curso le enseñó** —
-deliberadamente sin derivar a un sistema técnico (a diferencia del 25 oct),
-para no repetir el patrón que la revisión de octubre ya señaló.
+**Serie: "¿Qué podemos aprender de los bares de toda la vida?"**
+
+**Ángulo:** el camarero de barrio que no mira la carta, te mira a ti — sabe
+leer al cliente sin que se lo haya enseñado ningún manual. (Deliberadamente
+sin derivar a un sistema técnico, a diferencia de la pieza equivalente de
+octubre.)
 
 **Formato: carrusel editorial.**
 
@@ -144,71 +115,80 @@ para no repetir el patrón que la revisión de octubre ya señaló.
 > El camarero de barrio no mira la carta. Te mira a ti.
 
 **Slide 2**
-> Sabe que hoy vienes más callado.
+> Sabe que hoy vienes más callado de lo normal.
 
 **Slide 3**
-> Sabe que el de la esquina lleva diez minutos de más esperando y aún no se
-> queja.
+> Sabe que el de la esquina lleva diez minutos de más esperando y todavía
+> no se ha quejado.
 
 **Slide 4**
 > Sabe quién necesita que le pregunten, y quién necesita que le dejen en
-> paz.
+> paz un rato.
 
 **Slide 5**
-> Eso no está en ningún manual de servicio.
+> Nada de eso está en un manual. Se aprende mirando, no estudiando.
 
 **Slide 6 (cierre)**
-> Antes de automatizar la experiencia, hay que entender qué parte de ella
-> nunca debería automatizarse.
+> Antes de automatizar la experiencia del cliente, hay que entender qué
+> parte de ella no debería automatizarse nunca.
 
 **Caption:**
-> Vamos a bares de toda la vida a aprender food cost, pero se nos olvida
-> aprender la parte que ninguna app puede hacer por nosotros: mirar a quien
-> tienes delante.
+> Hay una habilidad de barra que no se enseña en ningún curso: saber, solo
+> con mirarte, si hoy quieres hablar o que te dejen tranquilo. Esa, de
+> momento, no la sustituye nada.
 
 ---
 
 ## 4 · 11 noviembre — Gastro tendencia
-**Serie: inspiración de otros sectores** — Høst (Copenhague), interiorismo
-escandinavo de bajo coste y alto impacto.
+**Serie: "Inspiración de otros sectores"** — Café Leon Dore (Nueva York),
+la cafetería dentro de la tienda de Aimé Leon Dore (moda streetwear).
+
+**Ángulo:** el cruce real con moda/retail como eje — no es "otro sitio con
+buen café", es una marca de moda que usa el café como la forma más
+accesible de que alguien participe de su mundo.
 
 **Formato: carrusel editorial.**
 
 **Slide 1 (portada)**
-> Høst demuestra que el lujo nórdico no es mármol. Es madera sin tratar y
-> luz baja.
+> Café Leon Dore no es una cafetería con una tienda de ropa al lado. Es al
+> revés.
 
 **Slide 2**
-> Materiales: madera cruda, mimbre, ramas secas.
+> Aimé Leon Dore: marca de moda streetwear, Nueva York. Dentro de la
+> tienda, un café.
 
 **Slide 3**
-> Nada de eso es caro. Lo caro es decidir que todo tenga la misma
-> intención.
+> No venden café para que entres a la tienda. El café ya es la tienda —
+> solo que cuesta 4 dólares en vez de 400.
 
 **Slide 4**
-> El 90% de lo que se copia de Høst en el mundo entero es la estética. El
-> 10% que nadie copia es la disciplina: nada entra en la sala si no sirve a
-> la misma historia.
+> Por eso casi todos los retailers que copian el formato fracasan: copian
+> el café, la decoración, el merchandising — y se olvidan de lo único que
+> importa, un punto de vista cultural claro.
 
-**Slide 5 (cierre)**
-> ¿Tu local tiene un criterio claro de qué puede entrar... y qué no?
+**Slide 5**
+> Sin ese punto de vista, es retail con una cafetera. Con él, es un
+> destino.
+
+**Slide 6 (cierre)**
+> ¿Tu marca tiene un punto de vista que un café pudiera vender... o solo
+> tiene un local bonito?
 
 **Caption:**
-> Interiorismo escandinavo real, visto en Copenhague: materiales nobles
-> pero baratos, con una única regla detrás. La disciplina es gratis. El
-> mármol, no.
+> En Nueva York hay una marca de ropa que vende café. No es un truco de
+> marketing: es la prueba de que lo más barato de replicar es la decoración,
+> y lo único que de verdad no se puede copiar es tener algo que decir.
 
 ---
 
 ## 5 · 15 noviembre — Reel de observación (segundo del mes)
-**Formato: reel documental/observacional — no estilo influencer.** Escena
-distinta a la del 30 de octubre (que era apertura/mise en place): aquí, la
-llegada del producto antes de que abra nadie.
+**Formato: reel documental/observacional — no estilo influencer.** Mismo
+criterio de tono que el reel del 30 de octubre: sin cara a cámara, sin
+diálogo hablado, ritmo pausado, texto en pantalla mínimo.
 
-**Concepto:** la furgoneta de reparto, las cajas de producto fresco
-entrando por la puerta de servicio, el pedido que se revisa contra el
-albarán, antes de que el local tenga ni una luz encendida de cara al
-público.
+**Escena:** la llegada del producto fresco al amanecer, antes de que abra
+nadie de cara al público — furgoneta de reparto, cajas entrando por la
+puerta de servicio, el albarán comprobándose contra el pedido.
 
 **Duración estimada:** 20-25 segundos. **Sonido:** ambiente de calle
 temprano, motor de furgoneta, cajas de madera/cartón, sin música con letra
@@ -232,189 +212,205 @@ ni voz en off hablada.
    Texto en pantalla: **"Y entonces, empieza el día."**
 8. Corte a negro. Logo TBNB, sin claim de venta, 1-2 segundos.
 
-**Nota de tono:** igual que el reel de octubre — ningún clip con cara a
-cámara ni diálogo. Ritmo pausado, documental.
+**Nota de tono:** igual que el resto de reels del mes — ningún clip con cara
+a cámara ni diálogo, ritmo pausado y documental.
+
+**Caption:**
+> Lo que ves en la carta ya estaba decidido antes de que abrieras los ojos
+> esta mañana. Esto pasa cada día, antes de que entre el primer cliente.
 
 ---
 
-## 6 · 18 noviembre — Servicios TBNB
-**Única pieza técnico-operativa del mes** (deliberado, ver nota de
-rebalanceo arriba) — y en clave de cultura de equipo, no de cálculo.
+## 6 · 18 noviembre — Rentabilidad incómoda
+**Serie fija: Rentabilidad incómoda** — cruce con el blog
+(`seo/blog-web/articulos/food-cost-2026-por-que-el-calculo-ya-no-vale.md`,
+Tema 5 SEO). El artículo está en "Redacción final v2", todavía sin publicar
+(verificado 2026-10-20) — esta pieza no depende de esa publicación; si para
+el 18 de noviembre ya está en la web, se puede enlazar en el caption, si no,
+se publica sin enlace.
 
-**Serie fija: detrás de la barra, casos de éxito.** Caso real anonimizado
-(sin nombre de cliente, sin cifras no confirmadas): reorganización de
-turnos para que la barra nunca estuviera sola en ningún momento del día,
-sin contratar a nadie más — solo reordenando quién entra y quién sale.
+**Ángulo:** revisar el escandallo/food cost una vez al año ya no basta —
+hay que revisarlo dos veces al año como mínimo (más a menudo en ingredientes
+volátiles), porque la inflación y el coste laboral se comen margen sin que
+se note.
 
 **Formato: carrusel editorial.**
 
 **Slide 1 (portada)**
-> Reestructuramos los turnos de un local. Coste extra: cero. Resultado:
-> nunca más una barra sola en hora punta.
+> El food cost no se revisa una vez al año. Eso ya no existe.
 
 **Slide 2**
-> El problema no era de personal. Era de horario.
+> En 2025, los ingresos del sector hostelero en España crecieron un 3,1%.
 
 **Slide 3**
-> Todo el equipo entraba y salía a la misma hora. Así que todos descansaban
-> a la vez — justo cuando más falta hacían.
+> La rentabilidad, en el mismo periodo, cayó un 0,9%. (Fuente: Anuario de la
+> Hostelería de España / Hosteltur.)
 
 **Slide 4**
-> La solución: entradas escalonadas. Mismo equipo, mismas horas totales,
-> distinto reparto.
+> Subió la facturación. Bajó lo que queda de verdad. Eso solo pasa cuando
+> algo se come el margen por dentro, sin pedir permiso.
 
-**Slide 5 (cierre)**
-> A veces el problema no es cuánta gente tienes. Es cuándo la tienes.
+**Slide 5**
+> La inflación y el coste laboral no avisan. Suben mes a mes, mientras la
+> carta sigue con el precio de enero.
+
+**Slide 6**
+> Revisar el escandallo una vez al año es fotografiar un río y pensar que ya
+> sabes por dónde corre el agua.
+
+**Slide 7 (cierre)**
+> Dos veces al año, como mínimo. Más, si trabajas con producto volátil —
+> pescado, aceite, lo que sube y baja cada semana.
 
 **Caption:**
-> No hizo falta contratar a nadie. Hizo falta mirar el cuadrante con otros
-> ojos. (Caso real, detalles anonimizados a petición del cliente.)
+> Tu carta puede estar vendiendo más que nunca y dejándote menos que nunca
+> al mismo tiempo. En 2025 pasó en todo el sector: +3,1% de ingresos, -0,9%
+> de rentabilidad. El motivo no sale en ningún ticket — sale en el
+> escandallo que nadie volvió a mirar.
 
 ---
 
-## 7 · 22 noviembre — Gastro tendencia
-**Serie: "Por qué funciona"** — Amator (Copenhague), el bistró de seis
-mesas con lista de espera cada noche.
+## 7 · 22 noviembre — Rentabilidad incómoda
+**Serie fija: Rentabilidad incómoda** — cruce con el blog
+(`seo/blog-web/articulos/disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md`,
+Tema 6 SEO, keyword "diseño carta restaurante", 210 búsquedas/mes). El
+artículo está en "Borrador" tras reestructuración pedida por Andrea,
+todavía sin publicar (verificado 2026-10-20) — esta pieza no depende de esa
+publicación; se enlaza en el caption solo si ya está en la web para el 22 de
+noviembre.
+
+**Ángulo:** diseñar la carta no empieza por la estética — empieza por
+decidir qué plato empuja rentabilidad (ingeniería de menú), cruzado con el
+food cost real de cada plato.
 
 **Formato: carrusel editorial.**
 
 **Slide 1 (portada)**
-> Amator tiene seis mesas. Y lista de espera cada noche.
+> Diseñar la carta no empieza por el diseño.
 
 **Slide 2**
-> Carta corta, escrita a mano, que cambia según lo que llega del mercado
-> ese día.
+> Empieza por saber qué plato vende mucho y deja margen — y qué plato solo
+> ocupa sitio en el papel.
 
 **Slide 3**
-> No compite en volumen. Compite en que ese plato de hoy no estará la
-> semana que viene.
+> Kasavana y Smith le pusieron nombre en 1982: ingeniería de menú. Cuatro
+> cuadrantes, ningún misterio.
 
 **Slide 4**
-> Eso no es una limitación. Es la única ventaja real que un local pequeño
-> tiene sobre uno grande.
+> Estrella — vende mucho y deja margen. En un bar de tapas: las patatas
+> bravas.
 
-**Slide 5 (cierre)**
-> El tamaño pequeño no es el problema a resolver. Es la estrategia.
+**Slide 5**
+> Caballo de batalla — vende mucho, deja poco margen. Las croquetas
+> caseras: todo el éxito, pero mucha mano de obra detrás.
+
+**Slide 6**
+> Puzle — deja buen margen, pero casi nadie lo pide. El pescado del día:
+> mal colocado en la carta, sin un nombre que lo venda.
+
+**Slide 7**
+> Perro — no vende y no deja margen. La ensalada mixta genérica que está
+> porque "siempre tiene que haber una".
+
+**Slide 8 (cierre)**
+> La estética de la carta es la última decisión. Esta matriz es la primera.
 
 **Caption:**
-> Seis mesas, Copenhague, sin margen para equivocarse con la compra del
-> día. Y aun así, la lista de espera más larga de la calle. El tamaño no
-> pide disculpas.
+> Antes de elegir la tipografía de la carta, hay una pregunta que casi
+> nadie se hace: ¿qué plato te está pagando el alquiler? La respuesta tiene
+> más de 40 años y se llama ingeniería de menú.
 
 ---
 
-## 8 · 25 noviembre — Transformaciones antes y después
-**Formato conceptual** (ver nota de datos arriba) — esta vez sobre
-identidad de marca, no sobre operativa.
+## 8 · 25 noviembre — Gastro tendencia
+**Serie: "Cosas que nadie te dice cuando abres un restaurante"** — cruce con
+3 artículos de blog (ayudas de proveedores, Estrella Galicia, Mahou), los
+tres en "Redacción final" y todavía sin publicar (verificado 2026-10-20);
+esta pieza no depende de su publicación.
+
+**Ángulo:** lo que de verdad se cede a cambio de que una cervecera "te
+monte el bar" — exclusividad de suministro, condicionamiento de
+imagen/decoración, rappel, penalizaciones por rescisión — y el límite legal
+real a cuánto puede durar esa exclusividad.
+
+> ⚠️ **Regla obligatoria aplicada, no negociable:** "Estrella Galicia te
+> monta el bar" y "Mahou te monta el bar" se nombran solo como las
+> expresiones que la gente busca, dejando explícito que **no son nombres
+> oficiales de ningún programa con ficha publicada por las marcas**. Los
+> nombres reales y verificables que sí existen se citan tal cual: **The
+> Hop** y **Cervecerías Circulares** (Estrella Galicia); **+Bar**, **Nexho**
+> y **Más con Mahou San Miguel** (Mahou-San Miguel). **No se usa "Bar Uno"
+> en ningún punto** (no hay evidencia de que sea un programa real de
+> Mahou). Mismo criterio ya aprobado en
+> `seo/blog-web/articulos/estrella-galicia-te-monta-el-bar.md` y
+> `seo/blog-web/articulos/mahou-te-monta-el-bar.md`. Dado que esta pieza
+> nombra marcas comerciales de terceros, recomendamos que
+> `director-estrategia-marca-comunicacion` la revise con especial atención
+> antes de pasar a Andrea/Sergio.
 
 **Formato: carrusel editorial.**
 
 **Slide 1 (portada)**
-> Antes: un nombre que no decía nada. Después: un nombre que ya filtra
-> quién entra.
+> "Te montamos el bar" no es un regalo. Es un contrato.
 
 **Slide 2**
-> Antes: el logo se elegía por gustar. Después: se elige por significar
-> algo.
+> "Estrella Galicia te monta el bar." "Mahou te monta el bar." Se buscan
+> mucho. Ninguna de las dos es el nombre oficial de ningún programa
+> publicado así por las marcas.
 
 **Slide 3**
-> Antes: la carta explicaba cada plato. Después: la carta confía en que el
-> cliente ya sabe dónde está.
+> Lo que sí existe, con nombre y ficha propia: The Hop y Cervecerías
+> Circulares (Estrella Galicia); +Bar, Nexho y Más con Mahou San Miguel
+> (Mahou-San Miguel).
 
 **Slide 4**
-> El cambio no se nota en una foto. Se nota en cómo habla alguien de tu
-> sitio cuando tú no estás delante.
+> Lo que de verdad se cede a cambio de barra, neveras y rótulo:
+> exclusividad de suministro, condiciones sobre imagen y decoración, y en
+> ocasiones rappel.
 
-**Slide 5 (cierre)**
-> Un concepto no se transforma cuando cambia de aspecto. Se transforma
-> cuando deja de necesitar explicarse.
+**Slide 5**
+> Y si rescindes antes de tiempo, penalización. Pregúntala antes de firmar,
+> nunca después.
 
-**Caption:**
-> El antes y después que de verdad importa no se ve en una reforma. Se oye
-> en cómo te recomienda alguien que no trabaja para ti.
+**Slide 6**
+> Hay un límite legal a cuánto puede durar esa exclusividad: 5 años, según
+> el Reglamento (UE) 2022/720 — salvo que el local sea propiedad o esté
+> arrendado por el proveedor.
 
----
-
-## 9 · 29 noviembre — Gastro tradición
-**Cierre de mes** — la constancia como estrategia de marca, no como
-inmovilismo.
-
-**Formato: carrusel editorial.**
-
-**Slide 1 (portada)**
-> Hay bares que llevan 40 años sin tocar la carta. Eso también es una
-> estrategia de marca.
-
-**Slide 2**
-> No es que no sepan hacer otra cosa.
-
-**Slide 3**
-> Es que ya decidieron, hace 40 años, exactamente para quién existen.
-
-**Slide 4**
-> Cada generación que entra por esa puerta encuentra lo mismo que encontró
-> la anterior. Eso, hoy, es un lujo.
-
-**Slide 5 (cierre)**
-> La novedad vende una vez. La constancia vende siempre.
+**Slide 7 (cierre)**
+> No se trata de rechazar la ayuda. Se trata de firmar sabiendo exactamente
+> qué has firmado.
 
 **Caption:**
-> No todo lo que no cambia está parado. Algunas cosas llevan 40 años
-> exactamente donde querían estar.
+> Antes de aceptar que una cervecera te monte el bar, hay una pregunta que
+> vale más que el rótulo gratis: ¿cuántos años te acaba de comprar? La ley
+> dice que, salvo excepción, no deberían ser más de 5.
 
 ---
 
-## 10 · 30 noviembre — Reel de observación (cierre de mes)
-**Formato: reel documental/observacional — no estilo influencer.** Escena
-de cierre, en espejo del reel de apertura de octubre: el final del
-servicio, no el principio.
+## Banco de temas fuera de esta tanda
 
-**Concepto:** el local vaciándose, las sillas subiéndose a las mesas, las
-luces apagándose una a una — el mismo local del reel de octubre, visto en
-el momento opuesto del día.
+Quedan fuera del calendario de noviembre (banco de temas para otro mes, no
+desarrollados aquí), tal como fija `brief-redaccion-noviembre.md`:
 
-**Duración estimada:** 20-25 segundos. **Sonido:** ambiente de cierre
-(sillas arrastrándose, loza guardándose, persiana bajando), sin música con
-letra ni voz en off hablada.
+- "Gastro tradición — constancia de 40 años" (29 nov).
+- Segundo reel de cierre de mes (30 nov).
+- Caso anonimizado "detrás de la barra" sobre turnos (pilar Servicios TBNB).
+- The Røe Bar (alternativa de Copenhague no elegida para "por qué
+  funciona").
 
-**Guion (clip por clip):**
+## Reparto de pilares en noviembre (8 piezas de esta tanda)
 
-1. Plano fijo, sala en los últimos minutos de servicio, ya casi vacía. Sin
-   texto.
-2. Una silla subiéndose a una mesa, luego otra. Texto en pantalla:
-   **"Cuando se va el último cliente,"**
-3. Manos recogiendo copas de la barra, una a una. Sin texto.
-4. La máquina de café apagándose, una sola luz quedando encendida. Texto en
-   pantalla: **"el trabajo no ha terminado."**
-5. Loza apilándose en la cocina, agua corriendo. Sin texto.
-6. Una mano pasando un paño por la barra, de un extremo al otro. Texto en
-   pantalla: **"Se cierra igual que se abre: con cuidado."**
-7. La persiana metálica bajando desde dentro, la luz de la calle
-   desapareciendo poco a poco. Sin texto.
-8. Corte a negro. Logo TBNB, sin claim de venta, 1-2 segundos.
+- **Gastro tendencia:** 1, 11, 25 nov.
+- **Transformaciones antes y después:** 4 nov.
+- **Gastro tradición:** 8 nov.
+- **Reel de observación:** 15 nov.
+- **Rentabilidad incómoda (cruce SEO):** 18, 22 nov.
 
-**Nota de tono:** mismo criterio que el resto de reels del mes — sin cara a
-cámara, sin diálogo, ritmo pausado.
+## Pendiente de aprobación
 
----
-
-## Reparto de pilares en noviembre
-
-- **Gastro tendencia** (1, 11, 22 — las 3 piezas de Copenhague) + **Gastro
-  tradición** (8, 29) + **Transformaciones antes y después** (4, 25) + **Servicios
-  TBNB** (18, única pieza técnica del mes) + **Reels sin pilar fijo** (15, 30).
-- Frente a octubre (Servicios TBNB 3, Gastro tradición 2, Gastro tendencia
-  3, Transformaciones 0, reel 1), noviembre reduce el peso
-  técnico-operativo de 4-5 piezas a 1, estrena Transformaciones con 2
-  piezas, y dobla los reels.
-
-## Pendiente de decisión con Andrea
-
-- Confirmar o descartar las 3 piezas de Copenhague (1, 11, 22 nov) y decidir
-  si se quieren más, usando el resto del research (41 sitios más en
-  `Research_Copenhague_The-Bar-n-Bar`, no extraídos todavía — ver nota de
-  acceso arriba).
-- Confirmar si las 2 piezas de "Transformaciones antes y después" (4, 25
-  nov) se quedan en formato conceptual o si hay un caso real con permiso ya
-  confirmado que se prefiera usar en su lugar.
-- Como siempre: aprobación pieza por pieza antes de publicar.
+Las 8 piezas quedan a la espera de: 1) revisión de
+`director-estrategia-marca-comunicacion` (alineación con objetivo de marca y
+pilares, con atención reforzada a la pieza del 25 nov por nombrar marcas de
+terceros, y a la del 4 nov por el pilar Transformaciones sin caso real); 2)
+aprobación de Andrea/Sergio, pieza por pieza, antes de publicar.
