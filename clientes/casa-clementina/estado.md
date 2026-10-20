@@ -1087,3 +1087,19 @@ vez: más días reales de trabajo en los meses normales (31 en vez de
 Verificado sin ningún `#REF!`/`#ERROR!` en las 3 Cuentas de Resultados
 ni las 3 Tesorerías. Saldo Acumulado sigue siempre positivo (cierre
 año 1: 93.804,06€, antes 53.587,27€).
+
+## Comparativa coste de personal 30% facturación 2026-10-20
+
+Andrea pide ver cómo quedaría el coste de personal si fuera variable
+(30% de la facturación) en vez de la plantilla fija actual, para
+comparar. Añadido como bloque INFORMATIVO (no se suma al Total de
+costes, que sigue usando la plantilla fija real) debajo de "Beneficio
+Neto" en los 3 años: fila con la plantilla fija actual, su % real sobre
+Total ingresos, el cálculo al 30% variable, y la diferencia.
+
+Resultado: la plantilla fija (97.356€/año, igual los 3 años) ya está
+cerca del 30% en año 1 (30,6% de ingresos), pero cae a 28,9% en año 2 y
+27,2% en año 3 al crecer las ventas — con la plantilla actual el peso
+del personal baja solo por el crecimiento (la fija sale más barata que
+el 30% variable: -1.907€ año1, pero +3.820€ y +9.891€ de ahorro en año
+2 y 3 respectivamente).
