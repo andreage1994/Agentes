@@ -390,68 +390,67 @@ food cost real de cada plato.
 ---
 
 ## 8 · 25 noviembre — Gastro tendencia
-**Serie: "Cosas que nadie te dice cuando abres un restaurante"** — cruce con
-3 artículos de blog (ayudas de proveedores, Estrella Galicia, Mahou), los
-tres en "Redacción final" y todavía sin publicar (verificado 2026-10-20);
-esta pieza no depende de su publicación.
+**Serie: "Cosas que nadie te dice cuando abres un restaurante".** Reescrita
+2026-10-20 tras feedback directo de Andrea: la versión anterior nombraba
+marcas concretas y analizaba sus condiciones una a una; le parece bien el
+tema de fondo, pero no quiere ningún nombre de marca en el post — pide, en
+su lugar, una reflexión sobre qué significa en general que una marca
+patrocine tu local, antes de decidirlo.
 
-**Ángulo:** lo que de verdad se cede a cambio de que una cervecera "te
-monte el bar" — exclusividad de suministro, condicionamiento de
-imagen/decoración, rappel, penalizaciones por rescisión — y el límite legal
-real a cuánto puede durar esa exclusividad.
+**Nota operativa:** al quitar los nombres de marca, esta pieza deja de
+depender y de cruzarse con los 3 artículos de blog sobre ayudas de
+proveedores (que sí nombran esas marcas, por decisión ya tomada para el
+blog, que no cambia). Esta versión de Instagram ya no es "trailer" de esos
+3 artículos — es una reflexión independiente sobre el mismo fondo de la
+cuestión.
 
-> ⚠️ **Regla obligatoria aplicada, no negociable:** "Estrella Galicia te
-> monta el bar" y "Mahou te monta el bar" se nombran solo como las
-> expresiones que la gente busca, dejando explícito que **no son nombres
-> oficiales de ningún programa con ficha publicada por las marcas**. Los
-> nombres reales y verificables que sí existen se citan tal cual: **The
-> Hop** y **Cervecerías Circulares** (Estrella Galicia); **+Bar**, **Nexho**
-> y **Más con Mahou San Miguel** (Mahou-San Miguel). **No se usa "Bar Uno"
-> en ningún punto** (no hay evidencia de que sea un programa real de
-> Mahou). Mismo criterio ya aprobado en
-> `seo/blog-web/articulos/estrella-galicia-te-monta-el-bar.md` y
-> `seo/blog-web/articulos/mahou-te-monta-el-bar.md`. Dado que esta pieza
-> nombra marcas comerciales de terceros, recomendamos que
-> `director-estrategia-marca-comunicacion` la revise con especial atención
-> antes de pasar a Andrea/Sergio.
+**Ángulo:** que una marca te monte el bar no es solo dinero o mobiliario
+gratis. Es casarte con esa marca: asumir su imagen y sus condiciones como
+parte de tu identidad. Lo que de verdad se cede a cambio de barra, neveras
+y rótulo es exclusividad de suministro, tu local rodeado de su imagen en
+todas partes, y en ocasiones penalización si rompes antes de tiempo. Sin
+pensarlo bien antes, eso puede diluir el propio concepto: el local deja de
+verse como tu local y empieza a verse como el escaparate de otra marca.
 
 **Formato: carrusel editorial.**
 
 **Slide 1 (portada)**
-> "Te montamos el bar" no es un regalo. Es un contrato.
+> Que una marca te monte el bar no es un regalo. Es un contrato.
 
 **Slide 2**
-> "Estrella Galicia te monta el bar." "Mahou te monta el bar." Se buscan
-> mucho. Ninguna de las dos es el nombre oficial de ningún programa
-> publicado así por las marcas.
+> Y como todo contrato largo, antes de firmarlo hay que leerlo entero —
+> no solo la parte de lo que te dan.
 
 **Slide 3**
-> Lo que sí existe, con nombre y ficha propia: The Hop y Cervecerías
-> Circulares (Estrella Galicia); +Bar, Nexho y Más con Mahou San Miguel
-> (Mahou-San Miguel).
+> A cambio de barra, neveras y rótulo, lo primero que cedes es
+> exclusividad de suministro. Sirves lo suyo, donde antes decidías tú.
 
 **Slide 4**
-> Lo que de verdad se cede a cambio de barra, neveras y rótulo:
-> exclusividad de suministro, condiciones sobre imagen y decoración, y en
-> ocasiones rappel.
+> Lo segundo es tu propia imagen. Su marca aparece en la decoración, en
+> el rótulo, en cada rincón visible del local — convive con la tuya, le
+> guste o no a tu concepto.
 
 **Slide 5**
-> Y si rescindes antes de tiempo, penalización. Pregúntala antes de firmar,
-> nunca después.
+> Y si quieres romper antes de tiempo, a veces hay penalización.
+> Pregúntala antes de firmar, nunca después.
 
 **Slide 6**
-> Hay un límite legal a cuánto puede durar esa exclusividad: 5 años, según
-> el Reglamento (UE) 2022/720 — salvo que el local sea propiedad o esté
-> arrendado por el proveedor.
+> Hay un límite legal a cuánto puede durar esa exclusividad: 5 años,
+> según el Reglamento (UE) 2022/720 — salvo que el local sea propiedad o
+> esté arrendado por el proveedor.
 
-**Slide 7 (cierre)**
-> No se trata de rechazar la ayuda. Se trata de firmar sabiendo exactamente
-> qué has firmado.
+**Slide 7**
+> Pero el límite legal no es el límite real. El real es cuánto de tu
+> concepto sigue siendo tuyo después de firmar.
+
+**Slide 8 (cierre)**
+> No se trata de rechazar la ayuda. Se trata de no casarte con una marca
+> sin haber leído antes la letra pequeña.
 
 **Caption:**
-> Antes de aceptar que una cervecera te monte el bar, hay una pregunta que
-> vale más que el rótulo gratis: ¿cuántos años te acaba de comprar? La ley
-> dice que, salvo excepción, no deberían ser más de 5.
+> Decir que sí a que una marca te monte el bar no es firmar un contrato
+> de suministro. Es casarte con ella — con sus obligaciones, su imagen y
+> sus condiciones. Y eso se piensa antes de firmar, no después.
 
 ---
 
@@ -478,6 +477,5 @@ desarrollados aquí), tal como fija `brief-redaccion-noviembre.md`:
 
 Las 8 piezas quedan a la espera de: 1) revisión de
 `director-estrategia-marca-comunicacion` (alineación con objetivo de marca y
-pilares, con atención reforzada a la pieza del 25 nov por nombrar marcas de
-terceros, y a la del 4 nov por el pilar Transformaciones sin caso real); 2)
+pilares, y a la del 4 nov por el pilar Transformaciones sin caso real); 2)
 aprobación de Andrea/Sergio, pieza por pieza, antes de publicar.
