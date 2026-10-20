@@ -975,3 +975,34 @@ en toda la tabla.
 También se corrigió el alto de la fila 1 (163px, herencia de la
 plantilla vieja) que podía estar descolocando la vista de Andrea al
 abrir la hoja.
+
+## Proyecciones — restaurada con el nivel de detalle original 2026-10-20
+
+Andrea rechaza la versión comparativa simplificada: quería recuperar el
+nivel de detalle de la tabla original (desglose por día de la semana +
+mensual, con Franja horaria/Horas/Clientes/Facturación), solo con datos
+reales en vez de `#REF!`/`#ERROR!` — no una tabla nueva simplificada.
+Confirma que, al no haber datos reales de variación por día de la
+semana, los 7 días (Lunes-Domingo) se repiten iguales (más Mensual).
+
+**Reconstruido:** 3 bloques (Pesimista filas 11-76, Realista/Base
+78-143, Optimista 145-210), cada uno con Lunes a Domingo + Mensual (8
+sub-bloques de 5 franjas + Total), usando las franjas horarias reales
+de café (Breakfast 1/2/3, Brunch, Brunch 2 = 6:00-15:00, sin tardeo)
+con reparto 10/20/20/30/20% (pico al mediodía). Todo enlazado a
+`Ventas!C7/C8/C9` y al ticket medio real — nunca hardcoded.
+
+**Dos problemas técnicos encontrados y corregidos por el camino:**
+1. Al escribir la fila "Brunch 2" del bloque Mensual (Pesimista), una
+   celda se quedó vacía sin motivo aparente en la primera pasada —
+   corregida directamente, verificada.
+2. **Hallazgo más serio:** la plantilla vieja tenía celdas combinadas
+   sueltas (merges) repartidas por toda la hoja, en filas que
+   coincidían justo con donde iba a escribir Base y Optimista — una
+   combinación A:C bloqueaba escribir "Horas" y "Clientes" por separado
+   en una fila. Se quitaron TODAS las combinaciones de la hoja entera
+   (filas 1-260) antes de seguir, para no tropezar fila a fila.
+
+Verificado: Mensual Base = 26.460€ y Mensual Optimista = 41.160€,
+coinciden exactamente con la Tabla Resumen ya validada. Sin huecos en
+ninguna de las 48 franjas (7 días + mensual × 3 escenarios).
