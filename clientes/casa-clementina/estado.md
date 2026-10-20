@@ -527,3 +527,61 @@ número real de socios y/o fuente de financiación del resto de la
 inversión; food cost inicial, take away, menaje, utensilios de cocina,
 material de oficina; iluminación, decoración, plantas; póliza de
 seguro y RC.
+
+**2026-10-20 (cont.) — Tercera socia confirmada.** La madre de
+Fuensanta es la tercera socia (nombre pendiente). `Plan de
+Financiación`: Ahorros personales = 80.000€ × 3 = **240.000€**, que
+reconcilia con el total invertido — resuelve el hueco de financiación.
+
+**2026-10-20 (cont.) — Hoja `Datos` (Supuestos): mix de venta, volumen
+diario y food cost, con un error propio corregido en el camino.**
+
+Andrea define el modelo de ingresos real: 3 segmentos de venta en sala
+(sin delivery, Casa Clementina no reparte) — café solo (especialidad),
+café + snack, café + plato — con una jornada de 8h, cerrado por la
+tarde, afluencia del 80% sobre el aforo (44 pax) y rotación de mesa 4
+veces al día. Food cost variable: 30%.
+
+Para dar sitio a los 3 segmentos (la plantilla original del cliente
+anterior solo tenía 2, "Classic"/"Maxi"), se insertaron 2 filas nuevas
+en `Datos` y se reescribió la sección como "Mix de Venta (sala — sin
+canal delivery)": % Café solo 20% (ticket 4€) / % Café + snack 40%
+(ticket 10€) / % Café + plato 40% (ticket 18€) → **Ticket medio
+calculado: 12,00€**, dentro de la horquilla ya confirmada (11-14€).
+Canal delivery neutralizado (100% sala) sin borrar la sección, solo
+desactivada. Volumen diario (44×80%×4 = **141 comensales/día**)
+cargado en la hoja `Ventas` (escenario Base, Año 1), con la
+estacionalidad ya confirmada aplicada directamente ahí: 56/día en
+julio-agosto (-60%), 141/día el resto del año. Food Cost % = 30%
+confirmado. De paso se tradujeron al español los restos en italiano
+("Anno"→"Año", "€/ordine"→"€/pedido", "PESSIMISTICO/OTTIMISTICO"→
+"PESIMISTA/OPTIMISTA") y se fijó el escenario activo en "Base".
+
+**Error propio detectado y corregido en el mismo turno:** al insertar
+las 2 filas nuevas, todo el contenido de `Datos` por debajo se desplazó
+2 filas hacia abajo (comportamiento correcto y esperado de Google
+Sheets — las fórmulas de otras hojas que apuntaban a esas celdas se
+reajustaron solas). El error fue mío: seguí escribiendo varias
+correcciones posteriores (Food Cost%, Alquiler, % Seguridad Social,
+Impuesto de Sociedades, Inversión Total, limpieza de Branding/
+Operations) usando los números de fila **de antes del desplazamiento**,
+así que esas 18 celdas aterrizaron 2 filas más arriba de donde debían
+(el desplazamiento no se tuvo en cuenta),
+pisando contenido real (algunas con fórmulas en vivo, como "Inversión
+Total" y "Costes Personal Neto Año 2", que quedaron rotas). Se detectó
+al revisar la Cuenta de Resultados y ver "Compras Food" en 0€ pese a
+tener el food cost puesto. Se releyó la hoja entera fila por fila con
+los números reales ya desplazados, y se corrigieron las 18 celdas en su
+posición correcta, restaurando las fórmulas rotas
+(`=Turnos!C14`, `=Inversiones!C22`). Verificado después contra la
+Cuenta de Resultados: Compras Food, Alquiler, IVA e Inversión Total ya
+calculan correctamente.
+
+**Pendiente, fuera del alcance de hoy (son hojas futuras, no de
+`Datos`):** la fórmula `Costes Personal Neto Año 1/3` sigue en `#REF!`
+— es la contaminación ya detectada en la hoja `Turnos` del cliente
+anterior (roles Chef/Freidor, no los puestos reales de Casa
+Clementina), pendiente de reconstruir esa hoja y la `Tabla Salarial`.
+`Suministros` y `Servicios externos (Marketing)` en la Cuenta de
+Resultados siguen leyendo datos contaminados de `Tesorería`, todavía
+sin tocar.
