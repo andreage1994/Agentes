@@ -505,10 +505,11 @@ inicial`), más la parte ya necesaria de `Plan de Financiación`:**
   Circulante 20.000€ (Provisión de fondos, dato directo de Andrea;
   Existencias en 0€, pendiente — "el food cost lo ponemos luego").
   **Total: 244.712€.**
-- `Plan de Financiación`: Ahorros personales 160.000€ (80.000€ × 2
-  socias conocidas, Fuensanta y Lucia — **no cuadra con el total
-  invertido (~240.000€), falta confirmar si hay más socios o un
-  préstamo**). Resto de fuentes en 0€ ("sin más datos").
+- `Plan de Financiación`: Ahorros personales **240.000€** (80.000€ × 3
+  socias — Fuensanta, Lucia y la madre de Fuensanta, nombre todavía
+  pendiente — confirmado 2026-10-20, resuelve el hueco inicial de
+  160.000€ frente al total invertido). Resto de fuentes en 0€ ("sin más
+  datos").
 - `Inversión inicial` (lista de partidas por ID/Concepto/Importe,
   organizada en 3 bloques según el criterio de Andrea): **Operating
   Costs** (gastos de apertura) 9.450€ — incluye Marca, Depósitos y
