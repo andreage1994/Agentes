@@ -311,33 +311,29 @@ se note.
 > El food cost no se revisa una vez al año. Eso ya no existe.
 
 **Slide 2**
-> En 2025, los ingresos del sector hostelero en España crecieron un 3,1%.
+> En 2025, el sector hostelero en España facturó un 3,1% más. Y ganó un
+> 0,9% menos, en el mismo periodo.
 
 **Slide 3**
-> La rentabilidad, en el mismo periodo, cayó un 0,9%. (Fuente: Anuario de la
-> Hostelería de España / Hosteltur.)
+> Eso solo pasa cuando algo se come el margen por dentro, sin pedir
+> permiso.
 
 **Slide 4**
-> Subió la facturación. Bajó lo que queda de verdad. Eso solo pasa cuando
-> algo se come el margen por dentro, sin pedir permiso.
-
-**Slide 5**
 > La inflación y el coste laboral no avisan. Suben mes a mes, mientras la
 > carta sigue con el precio de enero.
 
-**Slide 6**
-> Revisar el escandallo una vez al año es fotografiar un río y pensar que ya
-> sabes por dónde corre el agua.
+**Slide 5**
+> Revisar el escandallo una vez al año es fotografiar un río y pensar que
+> ya sabes por dónde corre el agua.
 
-**Slide 7 (cierre)**
+**Slide 6 (cierre)**
 > Dos veces al año, como mínimo. Más, si trabajas con producto volátil —
 > pescado, aceite, lo que sube y baja cada semana.
 
 **Caption:**
-> Tu carta puede estar vendiendo más que nunca y dejándote menos que nunca
-> al mismo tiempo. En 2025 pasó en todo el sector: +3,1% de ingresos, -0,9%
-> de rentabilidad. El motivo no sale en ningún ticket — sale en el
-> escandallo que nadie volvió a mirar.
+> Tu carta puede estar vendiendo más que nunca y dejándote menos que nunca,
+> al mismo tiempo. En 2025 le pasó a todo el sector. El motivo no sale en
+> ningún ticket — sale en el escandallo que nadie volvió a mirar.
 
 ---
 
