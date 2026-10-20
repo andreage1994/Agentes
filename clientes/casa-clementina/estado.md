@@ -1044,3 +1044,46 @@ ya tenía la columna de Total (tipo reducido 15% los dos primeros años;
 en el año 3, 15% o 25% según si el año 1 tuvo pérdidas). Verificado: los
 totales anuales no cambian (446,27€/2.528,86€ año 1; 5.147,81€/15.443,42€
 año 3) — ya cuadraban, ahora también hay desglose mensual real.
+
+## Días de trabajo reales + cierre de agosto/diciembre 2026-10-20
+
+Andrea pregunta si "días de trabajo" son 30/mes — detecta que el
+documento usaba **24,5 días/mes fijo todos los meses** (herencia de la
+plantilla de otro cliente), inconsistente con "abierto 7 días a la
+semana" ya confirmado. Al preguntar por los cierres reales: **1 semana
+en Navidad + 15 días en agosto = 22 días de cierre/año** (343 días
+abiertos/año).
+
+Esto destapó dos cosas sin modelar: diciembre no tenía ninguna
+reducción (cierre de Navidad no estaba), y agosto estaba modelado como
+"menos clientes/día" (la caída de temporada) en vez de "cerrado medio
+mes" — habría que elegir uno de los dos efectos, no ambos. Andrea
+confirma (en ambos casos): **días reales abiertos, sin tocar el
+cliente/día** — el cierre real ya explica la bajada, no hay que
+duplicarlo con menos demanda.
+
+**Aplicado:**
+- `Datos de trabajo mensual` (antes 24,5 fijo todo el año) → días
+  reales de calendario por mes en las 3 Cuentas de Resultados y las 3
+  Tesorerías: Ene31, Feb28, Mar31, Abr30, May31, Jun30, **Jul31**,
+  **Ago16** (31-15 cierre), Sep30, Oct31, Nov30, **Dic24** (31-7
+  cierre).
+- `Ventas` Año 1, agosto (columna J): quitada la caída de clientes/día
+  que tenía (vuelve al valor normal: Pesimista 80, Base 90, Optimista
+  140) — julio se queda igual (35/90... según escenario), julio NO
+  cierra, solo tiene menos demanda real.
+- Año 2 y 3 de `Ventas` (crecimiento compuesto) se recalcularon solos
+  al ser fórmulas en vivo sobre Año 1.
+
+**Impacto real en las cifras — sube bastante, por dos motivos a la
+vez: más días reales de trabajo en los meses normales (31 en vez de
+24,5) + quitar la caída doble de agosto:**
+
+| | Año 1 | Año 2 | Año 3 |
+|---|---|---|---|
+| Beneficio Neto (antes) | 2.528,86€ | 8.801,40€ | 15.443,42€ |
+| Beneficio Neto (ahora) | **36.713,12€** | **45.036,73€** | **49.334,10€** |
+
+Verificado sin ningún `#REF!`/`#ERROR!` en las 3 Cuentas de Resultados
+ni las 3 Tesorerías. Saldo Acumulado sigue siempre positivo (cierre
+año 1: 93.804,06€, antes 53.587,27€).
