@@ -763,3 +763,59 @@ estructural. Se lo planteé a Andrea como decisión (Financiación primero /
 Personal primero / las dos / aparcar) — **elige Personal primero**, porque
 es el que contamina desde antes (Q1, no Q3). Se continúa reconstruyendo
 `Turnos` + `Tabla Salarial` con los roles reales de Casa Clementina.
+
+## Personal — Tabla Salarial y Turnos reconstruidos 2026-10-20
+
+Plantilla real confirmada por Andrea (vía chat, no AskUserQuestion — no
+hay que repetir la pregunta): 1 Manager (1.800€ neto, 5h/día en servicio
+de camarero + resto administrativo) + 1 Barista (1.500€ neto, cubre
+barra y cocina ligera en horas tranquilas) + 1 Cocinero/a (1.400€ neto,
+entra en horas de más movimiento) + 1 Ayudante de camarero/a (1.400€
+neto, cubre los descansos de los tres anteriores) — hora punta máximo 3
+personas a la vez, apertura/cierre siempre 1 persona sola. Camarero/a,
+Ayudante de cocina y Jefe/a de cocina quedan en la tabla salarial a
+tarifa de convenio como referencia para futuras contrataciones (0
+personas hoy).
+
+**Hecho:**
+- `Tabla Salarial` reconstruida entera (antes: 10 filas de "CATEGORIA"
+  genéricas con `#ERROR!` por comas decimales, 100% plantilla de otro
+  cliente, sin datos reales). Nueva tabla: 4 puestos activos + 3 de
+  referencia, Total Neto Mensual = **6.100€**, Coste empresa/mes =
+  **8.113€** (con el 33% real), Coste empresa/año = **97.356€**.
+  Corregido también un bug de formato (la columna de totales heredó
+  formato de porcentaje del cliente anterior y mostraba "150000,00%" en
+  vez de "1.500,00€").
+- `Turnos` reconstruida como ficha operativa simple (antes: grid
+  hora-por-hora de un restaurante con brigada de cocina completa de otro
+  cliente — Chef/Runner/2 cocineros/Jefe cocina con turnos partidos,
+  totalmente incompatible con el modelo de café de Casa Clementina).
+  Nota transparente añadida: con 4 personas y 7 días abiertos, cuadrar
+  2 descansos/semana para 3 puestos fijos con un solo Ayudante de
+  camarero/a deja como máximo 1 día/semana algo más ajustado — no afecta
+  al coste total, es decisión de cuadrante diario de la Manager, no del
+  modelo financiero.
+- `Datos!C52` ("% Seguridad Social + Impuestos"): corregido de **50%**
+  (contaminación de otro cliente) a **33%** (dato real de Andrea).
+- `Datos!C49/C50/C51` ("Costes Personal Neto AÑO 1/2/3"): antes
+  `=Turnos!C8/C14/C22` (roto, `#REF!`, dependía del grid viejo) → ahora
+  los tres apuntan a `='Tabla Salarial'!$D$14` (6.100€), misma plantilla
+  los 3 años — asunción flageada: ajustar si Casa Clementina prevé
+  contratar más personal según crecen las ventas.
+
+**Resultado verificado:** Costes de personal ya da 8.113€/mes en las 3
+Cuentas de Resultados; Retribuciones propias (6.100€) y Seguridad Social
+(2.013€) ya dan cifras reales en las 3 Tesorerías. En el año 1, los
+meses 1-8 de "Total costes" y "Beneficios/Pérdidas" **ya calculan de
+verdad** (antes todo `#REF!`) — p.ej. Beneficio mes 1 = +180,26€, mes 7-8
+(temporada baja) = -9.855,32€. El IVA trimestral también calcula ya en
+los trimestres sin arrastre de Financiación (Q1 = 3.460,75€, Q2 =
+4.333,38€).
+
+**Único bloqueo que queda en todo el documento: la hoja `Financiación`**
+(rota desde antes de esta sesión). Afecta: mes 9 en adelante del año 1,
+y la totalidad de los años 2 y 3 (ahí "Costes financieros" está roto en
+los 12 meses, no solo desde el mes 9). Bloquea en cascada: Costes
+financieros y Cuota microcrédito en los 3 años, y por tanto Total
+costes/Beneficios/Impuesto Sociedades/Beneficio Neto/Saldo de Tesorería
+desde ese punto, y los trimestres de IVA que tocan el préstamo.
