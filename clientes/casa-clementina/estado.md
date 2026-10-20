@@ -465,3 +465,64 @@ pestaña "Preguntas Abiertas" del archivo):
    al cliente — en particular, reconciliar la cifra única de inversión
    total (sigue sin fijarse, punto 1 del gap analysis) y el saldo real
    de obra pendiente.
+
+## 2026-10-20 — Conector de Google Sheets activado; trabajo directo en el Sheet real
+
+Andrea activa el conector de edición de Google Sheets en esta sesión.
+A partir de ahora Andrea dicta, hoja a hoja, qué construir en el Sheet
+real (`Casa_Clementina_Proyección_Financiera`), y se ejecuta directamente
+ahí — ya no se trabaja sobre el Excel local
+(`run/Casa_Clementina_Modelo_Financiero_TBNB.xlsx`, que queda como
+primer borrador de referencia, no como entregable final).
+
+**Hallazgo grave antes de empezar a escribir:** la plantilla real
+**no estaba vacía** — tenía la lógica y los números completos de un
+proyecto de **otro cliente** (un concepto de comida a domicilio en
+Barcelona, tipo panzerotti, con comisión Glovo, canales Delivery/
+In-Store/"Tardeo", benchmarks de marcas reales de Barcelona, tabla
+salarial con sueldos y retenciones reales de ese cliente, e incluso
+fórmulas rotas `#REF!` del archivo original de ese cliente). Esto
+afecta a las hojas `Datos`, `Tabla Salarial`, `Inversiones`, `Ventas`,
+`Turnos`, `Break-Even` y `Cuenta Resultados`. Es un problema de higiene
+de datos más serio que el ya detectado en `Menu Margenes y Precio
+Unitario` (cabeceras en italiano) — hay datos reales de un cliente
+distinto circulando en una plantilla reutilizada entre proyectos.
+**Recomendación: revisar el resto de plantillas maestras del equipo por
+el mismo motivo.**
+
+**Hojas 1 y 2 completadas con datos reales (`Inversiones` e `Inversión
+inicial`), más la parte ya necesaria de `Plan de Financiación`:**
+
+- `Inversiones` (categorías contables clásicas — estructura reutilizable,
+  solo se han sustituido los números del cliente anterior): Inmovilizado
+  material 215.261,60€ (Instalaciones = obra completa 190.961,60€, con
+  el proyecto acústico de Absotec ya incluido; Mobiliario 15.000€;
+  Maquinaria 8.000€ — solo el saldo pendiente; Equipamientos
+  informáticos 1.300€ = TPV 300€ + impresoras/handhelds 1.000€).
+  Inmovilizado inmaterial 9.450€ (Marcas y patentes 600€; Depósitos y
+  fianzas 7.200€ = 4 meses × 1.800€/mes; Estudios previos 1.650€ =
+  honorarios de consultoría AR03 de TBNB, coincide con el SOW firmado).
+  Circulante 20.000€ (Provisión de fondos, dato directo de Andrea;
+  Existencias en 0€, pendiente — "el food cost lo ponemos luego").
+  **Total: 244.712€.**
+- `Plan de Financiación`: Ahorros personales 160.000€ (80.000€ × 2
+  socias conocidas, Fuensanta y Lucia — **no cuadra con el total
+  invertido (~240.000€), falta confirmar si hay más socios o un
+  préstamo**). Resto de fuentes en 0€ ("sin más datos").
+- `Inversión inicial` (lista de partidas por ID/Concepto/Importe,
+  organizada en 3 bloques según el criterio de Andrea): **Operating
+  Costs** (gastos de apertura) 9.450€ — incluye Marca, Depósitos y
+  fianzas, Estudios previos (TBNB), y 5 partidas todavía en 0€
+  pendientes (food cost, take away, menaje, utensilios de cocina,
+  material de oficina). **CAPEX** 233.761,60€ — obra, mobiliario,
+  maquinaria, cafetera Marzocco+molinos (ya pagada), pequeños
+  electrodomésticos, TPV, impresoras/handhelds, y 3 partidas en 0€
+  pendientes (iluminación, decoración, plantas). **OPEX (Gastos
+  Fijos)** 1.980€/mes — alquiler, alarma, wifi, software TPV, y 2
+  partidas en 0€ pendientes (póliza de seguro, RC).
+
+**Pendiente de Andrea/cliente para cerrar estas dos hojas del todo:**
+número real de socios y/o fuente de financiación del resto de la
+inversión; food cost inicial, take away, menaje, utensilios de cocina,
+material de oficina; iluminación, decoración, plantas; póliza de
+seguro y RC.
