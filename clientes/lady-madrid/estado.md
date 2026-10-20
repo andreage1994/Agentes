@@ -644,3 +644,63 @@ de servicio") y un bloque sin su encabezado visible en las fotos
 recibidas. No se puede confirmar si son tareas reales perdidas al
 fotografiar el papel o si nunca existieron — se pide al equipo que
 revise la versión nueva antes de darla por definitiva.
+
+**2026-10-20 — Control de Inventario ampliado: solo aparecía la
+comida, faltaban bebidas y consumibles.** Andrea detecta que
+`run/Control_Inventario_Lady_Madrid.xlsx` (construido el 2026-10-13)
+solo cubría comida + obrador, y pide incluir también bebidas y
+consumibles **en ese mismo archivo**, no en uno aparte. Sube dos ficheros
+de referencia (`Plantilla_Inventario_Lady_Madrid.xlsx`, estructural
+genérica con pestañas por categoría, y `Control_Inventario_Lady_Madrid_1.xlsx`,
+una copia del archivo real de trabajo).
+
+Diagnóstico antes de tocar nada: revisé de nuevo `Escandallos_LadyMadrid.xlsx`
+(el archivo de costes real de cocina, descargado de Drive para confirmar)
+y confirmo que **no tiene ninguna pestaña de bebidas sin café, ni de
+consumibles** — solo `BEBIDAS_CAFÉ` (ya incluida desde el principio) y
+las pestañas de platos/obrador. Es decir, el dato real de bebidas (agua,
+refrescos, cerveza, vino, zumos) y de consumibles (limpieza, papel,
+envases) **no existe todavía en ningún archivo al que tengamos acceso** —
+no es que se hubiera omitido al extraer, es que la fuente nunca lo tuvo.
+(Nota aparte: durante la búsqueda en Drive apareció un
+`Control_Inventario_Lady_Madrid_INTEGRADO.xlsx`, creado hoy mismo con una
+estructura muy distinta — Compras del mes/Control mensual/Maestro de
+productos — que no coincide con nuestro archivo real ni fue mencionado
+por Andrea; no se ha usado ni tocado, puede ser de otra fuente.)
+
+Cambios hechos en `run/Control_Inventario_Lady_Madrid.xlsx` (mismo
+archivo, mismo patrón Ventas del mes → Escandallos → Inventario que ya
+existía, con `openpyxl` + verificación recalculando con LibreOffice
+antes de dar por bueno):
+- `Ventas del mes` — 7 filas nuevas, categoría `BEBIDAS_OTRAS` (filas
+  66-72): agua con/sin gas, refresco de cola/cola zero, zumo de naranja
+  natural, cerveza botellín, copa de vino.
+- `Escandallos` — mismas 7 líneas (filas 325-331): cada bebida es su
+  propio "ingrediente" con cantidad 1 por unidad vendida (consumo
+  directo, sin receta/dosificación — a diferencia de los platos). Las
+  fórmulas de consumo de TODAS las líneas existentes (comida/obrador) se
+  han re-apuntado de `'Ventas del mes'!$A$4:$A$65` a `$A$4:$A$72` para
+  que sigan sumando bien con las filas nuevas.
+- `Inventario` — las 7 bebidas añadidas como filas de ingrediente
+  normales (171-177, mismo patrón de fórmulas que la comida), fila
+  "Total" recolocada a la fila 179 con los rangos de suma actualizados.
+  Debajo (filas 181-190), **bloque nuevo "CONSUMIBLES"**, estructuralmente
+  distinto porque un consumible no se "vende" como un plato: no pasa por
+  'Ventas del mes', solo lleva seguimiento directo por compras y recuento
+  (Stock mes anterior + Compras − Stock final = Consumo real), con aviso
+  si el consumo real sale negativo (error de recuento). 8 productos de
+  ejemplo (servilletas, papel de horno, film, bolsas de basura, guantes
+  de nitrilo, detergente, envases y vasos take away).
+- `Instrucciones` — nota añadida explicando el cambio y los límites
+  actualizados (16 → 331 líneas en Escandallos, 168 → 175 ingredientes +
+  bloque de consumibles en Inventario).
+
+**Importante — las líneas de bebidas y consumibles son EJEMPLOS, no
+datos reales de Lady Madrid** (marcadas explícitamente como tal en el
+propio archivo, columna Notas/Observaciones): no hay ningún archivo con
+la carta real de bebidas (más allá del café) ni el listado real de
+consumibles del local, así que no se han inventado como si lo fueran —
+siguiendo la regla de no usar datos de cliente inventados como si fueran
+reales. **Pendiente: pedir a Andrea/cocina la carta real de bebidas y el
+listado real de consumibles (con sus unidades) para sustituir las filas
+de ejemplo** antes de usar esta plantilla en producción.
