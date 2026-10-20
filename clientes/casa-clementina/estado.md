@@ -955,3 +955,23 @@ Pendiente de que Andrea elija una opción para simular sus condiciones
 reales (importe, tipo, plazo) en la hoja `Financiación` — los slots
 Fin. 1-4 quedan ya preparados y limpios (sin el ICF/Microbank falso de
 antes) para activar la que se decida.
+
+## Proyecciones — reorganizada en tabla comparativa 2026-10-20
+
+Andrea pide mejorar la organización de `Proyecciones`. Antes había 3
+tablas idénticas apiladas (una por escenario, repitiendo Franja
+horaria/Horas/%reparto cada vez) — ahora es **una sola tabla** con los
+3 escenarios en columnas, lado a lado, para comparar de un vistazo:
+Pesimista (rosa) | Realista/Base (azul) | Optimista (verde), cada uno
+con Clientes/día, Facturación IVA incl. y sin IVA.
+
+De paso corregidos 2 problemas de formato heredados de la plantilla
+vieja al escribir en celdas que ya tenían formato de otra cosa: la
+columna "% reparto" mostraba "0,20€" en vez de "20%", y las columnas de
+Base/Optimista mostraban números sueltos o "28,00€" en la columna de
+clientes en vez de euros/número limpio en Facturación. Ya consistente
+en toda la tabla.
+
+También se corrigió el alto de la fila 1 (163px, herencia de la
+plantilla vieja) que podía estar descolocando la vista de Andrea al
+abrir la hoja.
