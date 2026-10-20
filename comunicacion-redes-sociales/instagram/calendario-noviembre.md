@@ -18,56 +18,69 @@ antes de que se abra el carrusel, no como resumen de las slides.
 ---
 
 ## 1 · 1 noviembre — Gastro tendencia
-**Serie fija: "Por qué funciona"** — Apotek 57, el café dentro de FRAMA
-Studio Store (Copenhague, barrio de Nyboder). Sustituye a la pieza anterior
-de Atelier September tras feedback directo de Andrea (2026-10-20): "no es
-nada revelador ni interesante... hay que hablar mejor del estilo de vida
-que crea y no tanto de solo la decoración".
+**Serie fija: "Por qué funciona"** — Atelier September (Copenhague). Vuelve a
+este local tras una segunda ronda de feedback de Andrea (2026-10-20):
+la versión anterior (ángulo de decoración) se descartó por plana; se
+sustituyó por Apotek 57, pero la revisión de
+`director-estrategia-marca-comunicacion` detectó que Apotek 57 y Café Leon
+Dore (pieza 4, 11 nov) decían lo mismo con otro nombre. Andrea decide
+mantener Café Leon Dore donde está y recuperar Atelier September — esta vez
+desarrollado en profundidad, no con el ángulo de decoración de la primera
+versión.
 
-**Ángulo:** no es un post de decoración. Es un post sobre el estilo de vida
-que el sitio vende — la sensación de estar en una casa con buen gusto, no en
-un negocio, y cómo eso conecta con que el local pertenece a una marca de
-diseño (FRAMA), no a una cadena de hostelería. Cuando el mobiliario, la luz
-y la cocina están pensados como los de una casa real, el cliente no compra
-un café: compra un rato dentro de un estilo de vida que querría tener en la
-suya.
+**Ángulo:** no es un post sobre un sitio bonito. Es un post sobre por qué una
+fórmula copiada cientos de veces en todo el mundo — look nórdico,
+mobiliario vintage, cocina abierta, tostada de aguacate — solo sigue
+funcionando de verdad en el original. Aquí conviven dos oficios reales bajo
+el mismo techo, no un concepto de marca fingiendo tenerlos: eso es lo que
+nadie ha conseguido replicar.
 
 **Formato: carrusel editorial.**
 
 **Slide 1 (portada)**
-> Apotek 57 no vende café. Vende una casa en la que querrías vivir.
+> Atelier September lleva más de diez años siendo parada obligada en
+> Copenhague. Cientos de cafés han copiado su estética. Ninguno ha copiado
+> lo otro.
 
 **Slide 2**
-> Ninguna mesa es igual a otra. La luz, el mobiliario, todo de diseño — nada
-> puesto ahí para "parecer" un café.
+> Antes de ser café, era una tienda de antigüedades. En realidad, sigue
+> siéndolo.
 
 **Slide 3**
-> La cocina está abierta, a la vista, como si fuera la de alguien en su
-> casa. No hay barra que separe a quien cocina de quien come.
+> El local lo llevan dos oficios distintos, bajo el mismo techo: Jonas y
+> Annette Trampedach, con las antigüedades. Frederik Bille Brahe, con la
+> cocina.
 
 **Slide 4**
-> El local ocupa una farmacia de 1878 en Nyboder — St. Paul's Apotek.
-> Siguen ahí los armarios de roble originales y los techos pintados de
-> época.
+> El mobiliario no lo elige un decorador. Lo eligen dos anticuarios que lo
+> han sido toda su vida — piezas reales, no atrezzo comprado para "quedar
+> bien".
 
 **Slide 5**
-> Apotek 57 es el café de FRAMA, una marca danesa de diseño y mobiliario.
-> No lo monta una cadena de hostelería — lo monta una marca que vende un
-> estilo de vida, y el café es la puerta de entrada.
+> Frederik Bille Brahe no inventó un concepto de café con estilo. Lleva años
+> llevando comida a instituciones de arte reales: el Apollo Bar & Kantine,
+> junto al Kunsthal Charlottenborg, y un restaurante en el National Gallery
+> of Denmark, con el artista Danh Vo.
 
 **Slide 6**
-> Por eso el contraste no es casualidad: mobiliario contemporáneo dentro de
-> una farmacia clásica, pensado para convivir, no para "ambientar".
+> Él mismo lo ha contado: buen producto a un precio que la mayoría pueda
+> pagar, y una cultura de cocina más humana que la que vivió formándose.
+> No es un eslogan de marca — es cómo trabaja desde hace años.
 
-**Slide 7 (cierre)**
-> Cuando un sitio se diseña como una casa y no como un negocio, el cliente
-> deja de comprar un café. Compra un rato dentro de un estilo de vida que
-> querría tener en la suya.
+**Slide 7**
+> Cientos de cafés han copiado el mobiliario vintage descolocado a
+> propósito, la cocina abierta, la tostada de aguacate. Nadie ha copiado que
+> aquí los dos oficios son reales.
+
+**Slide 8 (cierre)**
+> Eso no se compra en una tienda de mobiliario ni se aprende en un curso de
+> interiorismo. Por eso sigue siendo referencia, diez años después de que
+> empezaran a copiarlo.
 
 **Caption:**
-> Hay un café en Copenhague, dentro de una farmacia de 1878, que no parece
-> una cafetería — parece la casa de alguien con muy buen gusto. Esa
-> confusión es exactamente el producto.
+> En Copenhague hay un café que todo el mundo visita y casi nadie consigue
+> copiar — aunque lo llevan intentando más de diez años. El motivo no está
+> en la decoración.
 
 ---
 
@@ -221,43 +234,61 @@ accesible de que alguien participe de su mundo.
 
 ---
 
-## 5 · 15 noviembre — Reel de observación (segundo del mes)
-**Formato: reel documental/observacional — no estilo influencer.** Mismo
-criterio de tono que el reel del 30 de octubre: sin cara a cámara, sin
-diálogo hablado, ritmo pausado, texto en pantalla mínimo.
+## 5 · 15 noviembre — Rentabilidad incómoda
+**Formato: carrusel editorial.** Reescrita 2026-10-20 tras feedback directo
+de Andrea: la pieza era un reel de observación (llegada de producto al
+amanecer) y "no le parece nada interesante, para nada" — cambia de pilar
+(a Rentabilidad incómoda) y de formato (de reel a carrusel editorial), hacia
+un ángulo que requiere desarrollo conceptual.
 
-**Escena:** la llegada del producto fresco al amanecer, antes de que abra
-nadie de cara al público — furgoneta de reparto, cajas entrando por la
-puerta de servicio, el albarán comprobándose contra el pedido.
+**Ángulo (palabras de Andrea):** "los restaurantes que lo hacen bien, lo que
+hacen para tener rentabilidad, es tener un sistema que lo controla todo" —
+desde la recepción de mercancías hasta el inventario mensual, las
+variaciones, el control de mermas, los escandallos reales con un chef que
+sabe qué cantidad pone en cada plato, un equipo consciente del valor del
+producto, y un buen aprovisionamiento. La rentabilidad no sale de un cálculo
+puntual (un escandallo hecho una vez) — sale de que todos esos eslabones
+estén conectados y se revisen juntos. Ninguno de ellos, aislado, sostiene
+nada. (El escandallo y el diseño de carta se mencionan de pasada como piezas
+de este sistema, sin repetir el desarrollo propio de las piezas del 18 y 22
+de noviembre.)
 
-**Duración estimada:** 20-25 segundos. **Sonido:** ambiente de calle
-temprano, motor de furgoneta, cajas de madera/cartón, sin música con letra
-ni voz en off hablada.
+**Formato: carrusel editorial.**
 
-**Guion (clip por clip):**
+**Slide 1 (portada)**
+> La rentabilidad no sale de un escandallo. Sale de un sistema.
 
-1. Plano fijo, calle vacía al amanecer, la persiana metálica del local
-   todavía bajada. Sin texto.
-2. Una furgoneta de reparto aparcando junto a la puerta de servicio. Sin
-   texto.
-3. Cajas de verdura y pescado bajando de la furgoneta, manos cargándolas.
-   Texto en pantalla: **"Antes de que abra nadie,"**
-4. Un albarán de papel comparándose con el contenido de una caja, dedo
-   recorriendo la lista. Sin texto.
-5. Hielo cayendo sobre una caja de pescado fresco. Texto en pantalla:
-   **"alguien ya decidió qué vas a comer hoy."**
-6. Las cajas entrando por la puerta de servicio hacia la cocina, en fila.
-   Sin texto.
-7. La persiana metálica subiendo, luz de la calle entrando poco a poco.
-   Texto en pantalla: **"Y entonces, empieza el día."**
-8. Corte a negro. Logo TBNB, sin claim de venta, 1-2 segundos.
+**Slide 2**
+> Empieza en la puerta de servicio — cuando entra la mercancía, no cuando
+> se abre la carta.
 
-**Nota de tono:** igual que el resto de reels del mes — ningún clip con cara
-a cámara ni diálogo, ritmo pausado y documental.
+**Slide 3**
+> Sigue en el inventario de cada mes. Lo que importa no es el total: son
+> las variaciones, lo que no cuadra.
+
+**Slide 4**
+> Sigue en la merma. Lo que se tira se pesa y se mira — no se asume.
+
+**Slide 5**
+> Un escandallo no es un documento guardado. Es que el chef sepa la
+> cantidad exacta que pone en cada plato, no "a ojo".
+
+**Slide 6**
+> Sigue en el equipo. Gente que sabe lo que vale el producto no lo
+> desperdicia por descuido.
+
+**Slide 7**
+> Y sigue en el aprovisionamiento. Comprar bien no es comprar barato — es
+> comprar sabiendo qué vas a necesitar.
+
+**Slide 8 (cierre)**
+> Ningún eslabón, solo, salva un restaurante. Lo que lo hace rentable es
+> que todos se revisen juntos, el mismo mes, el mismo informe.
 
 **Caption:**
-> Lo que ves en la carta ya estaba decidido antes de que abrieras los ojos
-> esta mañana. Esto pasa cada día, antes de que entre el primer cliente.
+> Hay restaurantes que hacen un escandallo perfecto una vez al año. Y hay
+> restaurantes que llevan un sistema. Solo los segundos siguen siendo
+> rentables en diciembre.
 
 ---
 
@@ -438,13 +469,15 @@ desarrollados aquí), tal como fija `brief-redaccion-noviembre.md`:
 - Caso anonimizado "detrás de la barra" sobre turnos (pilar Servicios TBNB).
 - The Røe Bar (alternativa de Copenhague no elegida para "por qué
   funciona").
+- Apotek 57 (alternativa de Copenhague descartada del 1 nov por solaparse
+  con Café Leon Dore — ver pieza 1 y pieza 4).
 
 ## Reparto de pilares en noviembre (8 piezas de esta tanda)
 
 - **Gastro tendencia:** 1, 11, 25 nov.
 - **Transformaciones antes y después:** 4 nov.
 - **Gastro tradición:** 8 nov.
-- **Reel de observación:** 15 nov.
+- **Rentabilidad incómoda:** 15 nov.
 - **Rentabilidad incómoda (cruce SEO):** 18, 22 nov.
 
 ## Pendiente de aprobación
