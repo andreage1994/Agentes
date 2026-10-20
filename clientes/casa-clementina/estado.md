@@ -1241,3 +1241,23 @@ descansa 2 días/semana):
 Aclarado que es un ejemplo ilustrativo, no el cuadrante real
 definitivo — el reparto exacto de descansos lo decide la encargada del
 día a día, no cambia el coste total.
+
+## Turnos — horarios concretos de entrada y salida 2026-10-20
+
+Andrea pide ser específica con horarios de entrada/salida, no solo
+"trabaja/descansa". Sustituido por turnos escalonados concretos
+(jornada de 8h cada uno):
+- **Manager**: 7:00-15:00 (entra 1h antes de abrir al público, prep +
+  administrativo, abre en solitario).
+- **Barista**: 8:00-16:00 (coincide exacto con el horario de apertura
+  al público).
+- **Cocinero/a**: 9:00-17:00 (entra 1h después, no urge tan pronto; se
+  queda 1h tras el cierre para limpieza de cocina, cierra en solitario).
+- **Ayudante de camarero/a**: toma el horario de a quién sustituye ese
+  día (7:00-15:00 si cubre al Manager, 8:00-16:00 si cubre a la
+  Barista, 9:00-17:00 si cubre al Cocinero/a).
+
+Con este escalonado: Manager abre solo/a 7:00-8:00, se solapan los 3
+puestos 9:00-15:00 (hora punta), y Cocinero/a cierra solo/a 16:00-17:00
+— cumple "apertura y cierre con 1 persona sola" de forma más realista
+que turnos idénticos para los tres.
