@@ -911,3 +911,47 @@ marcadas "PENDIENTE — falta cifra real": Food cost inicial, Take away
 son gastos reales sin pagar todavía y sin cifra — sin ellas no se puede
 calcular "lo que necesitaríamos pedir para abrir con lo pendiente".
 Preguntado a Andrea.
+
+## Necesidad de financiación calculada 2026-10-20
+
+Andrea da las 5 cifras reales pendientes: Food cost inicial 4.000€,
+Packaging 800€, Menaje 3.000€, Utensilios de cocina 1.500€, Material de
+oficina 500€ (total 9.800€).
+
+**Aplicado:**
+- `Inversión inicial`: las 5 filas PENDIENTE rellenadas con los datos
+  reales de Andrea. Total de la hoja: 9.450€ → **19.250€**.
+- `Inversiones` (hoja maestra, alimenta todo el modelo): Food cost +
+  Packaging (4.800€) → fila "Existencias" (eran consumibles, encajan ahí).
+  Menaje + Utensilios cocina + Material oficina (5.000€) → fila
+  "Mobiliario y herramientas de oficina" (15.000€ → 20.000€, son
+  equipamiento duradero, no stock). Total: 244.712€ → **254.512€**.
+- `Plan de Financiación`: añadida línea "Préstamo/microcrédito
+  (propuesta, a decidir)" = **14.512€** — el hueco real entre el nuevo
+  Total de Inversión (254.512€) y los ahorros de las 3 socias (240.000€
+  fijos). Total ya cuadra otra vez: 254.512€ (94,3% ahorros + 5,7%
+  financiación a decidir).
+
+**Respuesta a la pregunta de Andrea ("qué necesitaríamos para abrir con
+lo pendiente y el circulante"):** la necesidad de financiación real es
+**14.512€**, y es íntegramente para cubrir estos gastos de apertura
+pendientes — NO hace falta nada adicional para circulante/operativa
+(ya confirmado antes: el Saldo Acumulado de Tesorería nunca baja del
+nivel inicial en ningún mes de los 3 años con los 20.000€ de provisión
+de fondos ya incluidos).
+
+**Opciones de financiación propuestas a Andrea (sin activar ninguna
+todavía, pendiente de que decida):**
+1. Microcrédito MicroBank (CaixaBank) — hasta 25.000€, sin aval
+   necesario, opera en toda España (a diferencia del ICF, que solo
+   cubre Catalunya).
+2. Línea ICO Empresas y Emprendedores, tramitada a través de un banco
+   comercial — línea nacional, válida para importes pequeños.
+3. Negociar plazo de pago con el proveedor de menaje/utensilios en vez
+   de pedir deuda bancaria (categoría "Créditos de proveedores" ya
+   existe en el propio Plan de Financiación, hoy a 0€).
+
+Pendiente de que Andrea elija una opción para simular sus condiciones
+reales (importe, tipo, plazo) en la hoja `Financiación` — los slots
+Fin. 1-4 quedan ya preparados y limpios (sin el ICF/Microbank falso de
+antes) para activar la que se decida.
