@@ -605,3 +605,40 @@ Año 3. Preguntado a Andrea si es intencional.
 Confirmado por Andrea: la caída de temporada del escenario Optimista
 debía estar en julio-agosto, no junio-julio. Corregido en Año 1
 (C9:N9) — Año 2 y Año 3 se recalculan solos al ser fórmulas sobre Año 1.
+
+## Cuenta de Resultados (1r año) — correcciones 2026-10-20
+
+Siguiendo instrucción de Andrea de trabajar ya la Cuenta de Resultados dejando
+coste de personal para más adelante (se vinculará cuando reconstruyamos Turnos
++ Tabla Salarial), se detectaron y corrigieron dos anomalías más, ambas
+secuelas del mismo bug de desplazamiento de filas ya documentado arriba:
+
+1. **"Ventas (food)" daba 0,00€ en todos los meses.** La fórmula depende de
+   `Datos!F6` (% ventas en sala) y `Datos!G6` (% delivery) — el "truco 100%
+   sala" que habíamos fijado antes. Esas celdas habían quedado completamente
+   vacías. Corregido: `Datos!F6=1`, `Datos!G6=0`. Resultado ya correcto:
+   Ventas (food) = 24.054,55€/mes en meses normales, 9.354,55€ en los meses
+   de caída estacional (jul/ago), total año 259.254,55€. Compras Food se
+   recalculó en cascada a 7.632,69€/mes (82.263,46€ año).
+2. **"Servicios externos (Contabilidad)" daba 206,61€/mes en vez de 0€.**
+   `Datos!C43` (Contabilidad Mensual) tenía 250€ (dato heredado del cliente
+   anterior / residual del bug de desplazamiento) en vez de 0 — la nota
+   "PENDIENTE — falta cifra real" ya estaba puesta pero el valor nunca se
+   corrigió. Fijado a `Datos!C43=0`. Ya muestra 0,00€/mes correctamente.
+
+**Nuevo hallazgo, no corregido todavía — pendiente de decisión de Andrea:**
+"Costes financieros" (fila 27) da `#REF!` a partir del mes 9. No es un
+problema de esta hoja: la fórmula apunta a `'Financiación'!C41:N41`, y ahí
+las celdas de los meses 9-12 contienen literalmente `=#REF!` guardado (algo
+se borró dentro de la hoja `Financiación`, el simulador de préstamo, que
+sigue sin revisar esta sesión y estaba en la lista de hojas con posible
+contaminación de otro cliente). Arreglarlo exige entrar en esa hoja, igual
+que coste de personal exige entrar en Turnos/Tabla Salarial — se deja
+pendiente de que Andrea decida si se aborda ahora o se agrupa con el resto
+de hojas por revisar (Financiación, Amortizaciones, Tesorería, IVA,
+Break-Even, Proyecciones).
+
+Como consecuencia, "Total costes", "Beneficios/Pérdidas", "Impuesto de
+Sociedades" y "Beneficio Neto" siguen en `#REF!` hasta que se resuelvan
+tanto Costes de personal como Costes financieros — es esperado, no un bug
+nuevo.
