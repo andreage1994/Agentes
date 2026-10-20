@@ -585,3 +585,18 @@ Clementina), pendiente de reconstruir esa hoja y la `Tabla Salarial`.
 `Suministros` y `Servicios externos (Marketing)` en la Cuenta de
 Resultados siguen leyendo datos contaminados de `Tesorería`, todavía
 sin tocar.
+
+**2026-10-20 (cont.) — Hoja `Ventas`: Año 2 y Año 3 con crecimiento compuesto.**
+Andrea rellena ella misma el Año 1 (Pesimista 60/día, Base 90/día,
+Optimista 140/día, con caídas de temporada propias por escenario). Se
+construyen Año 2 y Año 3 con fórmulas de crecimiento compuesto sobre esas
+cifras reales (no hardcoded): una celda de tasa anual editable por
+escenario en P7:Q9 (Pesimista 3%, Base 6%, Optimista 10% — asunción
+razonable, no dato del cliente, fácil de ajustar) multiplicando cada mes
+del año anterior. Resultado: Pesimista 60→62→64, Base 90→95→101,
+Optimista 140→154→169.
+
+**Aviso pendiente de confirmar:** en el escenario Optimista del Año 1,
+la caída de temporada está puesta en junio-julio (70/70) en vez de
+julio-agosto como en Pesimista y Base — se ha propagado igual a Año 2 y
+Año 3. Preguntado a Andrea si es intencional.
