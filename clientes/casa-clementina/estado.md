@@ -1170,3 +1170,49 @@ plantilla), texto blanco en negrita con fuente Epilogue, borde blanco
 grueso; subtotales en gris claro (tema BACKGROUND), mismo texto
 negrita. Reemplazado el formato inventado por este, igual que el resto
 del documento, en los 5 bloques de `Break-Even`.
+
+## Inversión total real del proyecto — para el informe al cliente 2026-10-20
+
+Andrea pide localizar, para preparar el informe de viabilidad al
+cliente: (1) lo que el cliente ya ha invertido, y (2) lo que
+calculamos que se necesita para abrir.
+
+**Encontrado:** (1) "239.561,25€ ya pagado" solo existía en nuestras
+notas de la reunión del 19/10, no en el documento. (2) El total de
+`Inversiones` (254.512€) no era el coste real del proyecto completo —
+la maquinaria de cocina/barra solo contaba el saldo pendiente (8.000€),
+no el valor total del activo (41.500€: 15.000€ cafetera Marzocco +
+15.000€ molinos, ya pagados + 8.000€ pendiente + 3.500€ pequeños
+electrodomésticos), por decisión de Andrea en su momento de registrar
+solo lo pendiente.
+
+**Decisión de Andrea:** mostrar en el informe el coste total REAL del
+proyecto (recomendado), no solo lo pendiente de financiar.
+
+**Aplicado:**
+- `Inversiones!C10` (Maquinaria): 8.000€ → **41.500€** (valor total del
+  activo). Total `Inversiones`: 254.512€ → **288.012€**.
+- `Plan de Financiación`: Préstamo/microcrédito ahora es fórmula viva
+  (`=Inversiones!$C$22-C6`), se actualiza sola a **48.012€** (antes
+  14.512€) para seguir cuadrando con Ahorros personales (240.000€).
+  Total: **288.012€** (83,3% ahorros / 16,7% a financiar).
+- Añadidas 2 filas de referencia en `Plan de Financiación`: "Ya pagado
+  por el cliente hasta la fecha" = **239.561,25€** (dato directo,
+  reunión 19/10) y "Pendiente de invertir para abrir" = **48.450€**
+  (diferencia entre el total y lo ya pagado — los ~438€ de diferencia
+  con el gap de financiación de arriba son los ahorros comprometidos
+  que aún no se han desembolsado del todo).
+
+**Efecto en cascada (correcto, no un error — ahora se amortiza sobre el
+valor completo del activo, no solo lo pendiente):** Amortización mensual
+2.959,98€ → **3.358,79€**. Beneficio Neto recalculado: Año 1 =
+22.067,87€ (antes 26.135,72€), Año 2 = 30.391,47€, Año 3 = 36.411,82€.
+Break-Even: 69,2 → **71,0 clientes/día**. Verificado sin ningún error en
+las 3 Cuentas de Resultados, Tesorería y Break-Even.
+
+**Resumen para el informe al cliente:**
+- Inversión total real del proyecto: **288.012€**
+- Ya invertido por el cliente: **239.561,25€**
+- Pendiente de invertir para abrir: **~48.450€**
+- Financiación propuesta (microcrédito/préstamo, a decidir con Andrea
+  y Sergio): **48.012€**
