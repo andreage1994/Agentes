@@ -477,5 +477,7 @@ desarrollados aquí), tal como fija `brief-redaccion-noviembre.md`:
 
 Las 8 piezas quedan a la espera de: 1) revisión de
 `director-estrategia-marca-comunicacion` (alineación con objetivo de marca y
-pilares, y a la del 4 nov por el pilar Transformaciones sin caso real); 2)
-aprobación de Andrea/Sergio, pieza por pieza, antes de publicar.
+pilares, con atención a la pieza del 4 nov por el pilar Transformaciones sin
+caso real; la pieza del 25 nov ya no nombra marcas de terceros tras el
+ajuste del 2026-10-20, ese punto queda resuelto); 2) aprobación de
+Andrea/Sergio, pieza por pieza, antes de publicar.
