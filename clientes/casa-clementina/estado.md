@@ -642,3 +642,49 @@ Como consecuencia, "Total costes", "Beneficios/Pérdidas", "Impuesto de
 Sociedades" y "Beneficio Neto" siguen en `#REF!` hasta que se resuelvan
 tanto Costes de personal como Costes financieros — es esperado, no un bug
 nuevo.
+
+## Cuenta de Resultados 2º y 3er año — 2026-10-20
+
+Andrea pide hacer la Cuenta de Resultados del 2º y 3er año. Las hojas
+`Cuenta Resultados 2nd año` y `Cuenta Resultados 3rd año` ya existían con
+toda la estructura y fórmulas montadas en paralelo exacto al 1r año
+(mismos conceptos, Año2 = meses 13-24, Año3 = meses 25-36, referencian
+`Ventas`, `Datos` y `Tesorería 2/3 año`). Tenían el mismo bug que el 1r
+año (la fila F:G de "% sala / % delivery" en `Datos`, filas 6-8, se vació
+entera con el bug de desplazamiento ya documentado — no solo la fila 6 del
+año 1).
+
+**Corregido:**
+- `Datos!F7=1, G7=0` (año 2) y `Datos!F8=1, G8=0` (año 3) — mismo truco
+  "100% sala" aplicado al año 1. Resultado:
+  - **Año 2**: Ventas (food) = 25.497,82€/mes (9.915,82€ en los meses de
+    caída estacional), total 274.809,82€. Compras Food en cascada:
+    8.090,65€/mes.
+  - **Año 3**: Ventas (food) = 27.027,69€/mes (10.510,77€ en caída),
+    total 291.298,41€. Compras Food en cascada: 8.576,09€/mes.
+- Contabilidad ya salía en 0,00€ en ambas hojas automáticamente, al ser
+  `Datos!C43` compartido entre los 3 años (corrección ya hecha hoy mismo
+  para el año 1).
+- Personalizado `A2` de ambas hojas a "CASA CLEMENTINA" (mismo patrón que
+  Inversiones/Inversión inicial/Plan de Financiación/Ventas/1r año).
+- Limpiada fila "Ventas Tardeo" (volumen) del 3r año, que tenía un número
+  suelto (21,92 en todos los meses) heredado de otro cliente — Casa
+  Clementina no tiene tardeo, y en año 1/2 esa fila está vacía
+  correctamente. Ya no afectaba al resultado (el precio de tardeo está en
+  blanco), era solo inconsistencia visual.
+
+**Error propio detectado y corregido en el acto:** al limpiar la fila de
+Tardeo del año 3 escribí primero en la fila equivocada (`C9:N9` en vez de
+`C8:N8`) porque la hoja del año 3 tiene una fila menos de margen que la de
+año 1/2 — eso borró por un momento "Días de trabajo mensual" (24,5),
+haciendo que Ventas (food) volviera a dar 0€. Detectado al releer la hoja
+completa inmediatamente después del cambio y corregido restaurando
+`C9:N9=24,5` y limpiando `C8:N8` (la fila correcta de Tardeo). Verificado
+con una relectura completa de la hoja: todo correcto.
+
+**Sigue bloqueado, como ya se explicó en el 1r año (no es nuevo, es el
+mismo arrastre):** Costes de personal (`#REF!`, deferido a la
+reconstrucción de Turnos/Tabla Salarial) y Costes financieros (`#REF!`,
+depende de la hoja `Financiación` sin revisar) en los tres años. Total
+costes, Beneficios/Pérdidas, Impuesto de Sociedades y Beneficio Neto
+seguirán en `#REF!` en los tres años hasta resolver esos dos puntos.
