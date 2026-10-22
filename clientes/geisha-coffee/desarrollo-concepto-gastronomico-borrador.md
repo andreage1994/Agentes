@@ -981,9 +981,11 @@ disponible hoy.
 
 Estas recomendaciones son para quien diseñe la pieza física/visual de carta
 (no para este documento en sí) — se entregan ahora porque dependen
-directamente del trabajo de las secciones 2 a 5, pero su ejecución gráfica
-cae fuera del propio AR02 si no está explícitamente contratada como tal (a
-confirmar con Andrea/Sergio qué cubre el alcance de diseño real).
+directamente del trabajo de las secciones 2 a 5, pero **el diseño gráfico
+de la carta no es un entregable de TBNB dentro de AR02** (confirmado por
+Andrea, 2026-10-22): esta sección da el contenido y el criterio de
+jerarquía/organización para que Geisha (o quien ellos encarguen el diseño)
+lo ejecute, no la pieza gráfica final.
 
 1. **Organización de categorías — seguir la arquitectura de 4 papeles
    (sección 2.3) y las familias de producto (sección 4.2), no las
@@ -1141,7 +1143,8 @@ confirmar con Andrea/Sergio qué cubre el alcance de diseño real).
     nuevos — este documento solo puede argumentar la palanca de ingreso
     (ticket medio, conversión), no la de margen, y lo deja dicho de forma
     explícita en las conclusiones estratégicas.
-13. **Alcance del diseño gráfico de la carta** (sección 6): estas son
-    recomendaciones de contenido y jerarquía para quien diseñe la pieza
-    física/visual — confirmar con Andrea/Sergio si esa pieza de diseño
-    está dentro del alcance de AR02 o es un servicio/entregable aparte.
+13. **Alcance del diseño gráfico de la carta — resuelto (2026-10-22).**
+    Confirmado por Andrea: TBNB no crea la pieza gráfica final. La
+    sección 6 da contenido y criterio de jerarquía/organización; la
+    ejecución visual corresponde a Geisha o a quien ellos encarguen el
+    diseño.

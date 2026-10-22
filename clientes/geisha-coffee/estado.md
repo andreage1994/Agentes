@@ -291,17 +291,16 @@ trabajo:
    margen bruto proyectable**, solo palanca de ingreso), Recomendaciones
    de diseño de carta, y Siguientes pasos (7 puntos, todos reales).
 
-**Documento completo, de carácter consultivo, pendiente de revisión de
-Andrea/Sergio antes de enviarlo a Juan.** Dos puntos señalados por
-`chef-ejecutivo` que necesitan decisión explícita de Andrea/Sergio antes
-del envío:
-1. Si el diseño gráfico de la carta física entra en el alcance de AR02
-   (pregunta nueva, no resuelta en el SOW ni en el briefing).
-2. El cálculo ilustrativo de la sección 5 (~3.500€ por punto de
-   conversión recuperado, ~17.500€ en un escenario de 5 puntos) está
-   etiquetado como "ilustrativo, no proyección comprometida" — confirmar
-   que ese nivel de cálculo no se lee como promesa de resultado antes de
-   que lo vea el cliente.
+**Documento completo, de carácter consultivo, pendiente de revisión final
+de Andrea/Sergio antes de enviarlo a Juan.** Los dos puntos que necesitaban
+decisión de Andrea quedan resueltos (2026-10-22):
+1. **El diseño gráfico de la carta física no entra en el alcance de
+   AR02** — TBNB entrega contenido y criterio de jerarquía (sección 6),
+   no la pieza visual final. Documento actualizado (cabecera de la
+   sección 6 y pregunta abierta 13).
+2. El cálculo ilustrativo de la sección 5 (~3.500€/punto de conversión,
+   ~17.500€ en escenario de 5 puntos) queda confirmado tal cual —
+   Andrea confirma que no se lee como promesa de resultado.
 
 Huecos de información que siguen abiertos (no bloquean el documento,
 pero sí RU06 y el pricing final): food cost actualizado (ibérico,
