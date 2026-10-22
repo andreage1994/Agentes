@@ -322,3 +322,238 @@ no está cerrado:
     salamandra) en la franja previa a apertura y en el pico de fin de
     semana, antes de confirmar cuántas de las referencias nuevas que
     compiten por el mismo equipo entran juntas en las 10 finales.
+
+---
+
+## 7. Validación de la capa de identidad japonesa y de la referencia 20 (actualización 2026-10-22)
+
+`chef-ejecutivo` ha añadido un matiz japonés a 16 de las 20 referencias y ha
+definido por primera vez el producto de la referencia 20 ("Ritual Semanal",
+ahora "Tartaleta de Autor"). Esta sección valida específicamente los 4 puntos
+que `chef-ejecutivo` dejó marcados como pendientes de mi revisión. No repito
+aquí la validación ya cerrada de las secciones 1-6 — sigue vigente igual, con
+la misma advertencia sobre equipamiento no confirmado tras la mudanza.
+
+### 7.1 Referencia 20 completa — "Tartaleta de Autor" (nunca validada hasta hoy)
+
+**Veredicto general: viable con ajustes de técnica en 2 de los 4 rellenos
+(matcha y hojicha necesitan solo una adaptación menor y ya la tenía prevista
+la propia referencia 11; yuzu/merengue y miso tienen cada uno un punto que
+hay que resolver antes de estandarizar). Nada de lo que propone obliga a
+comprar equipamiento nuevo, salvo la reserva ya señalada sobre el caramelo de
+miso (ver 7.2).**
+
+**Masa quebrada + horneado de base.** Viable sin ninguna duda. El horno
+convectivo de producción ya hornea a diario masas similares (base de
+cheesecake, carrot cake, banana bread, brownie) — una masa quebrada tipo
+tartaleta es, si cabe, una técnica más sencilla que esas. No es una técnica
+nueva para el equipo, es una extensión directa de lo que ya dominan.
+
+**Relleno 1 — Curd de yuzu con merengue tostado.**
+- *Curd:* un curd clásico (yema + cítrico + azúcar + mantequilla) se cuaja
+  tradicionalmente a fuego directo con batido constante — sin fogón, la
+  adaptación estándar en pastelería profesional es hacerlo **al microondas,
+  en tandas cortas de 20-30 seg removiendo entre cada tanda** (técnica
+  habitual para curds en lotes pequeños/medios, tolera bien la falta de
+  control de llama porque el calor es más uniforme y se puede parar al
+  instante) o, como alternativa para lotes más grandes, **al baño maría
+  dentro del horno convectivo** (bandeja con agua caliente, cocción lenta y
+  controlada — misma lógica que ya se usa para bases de flan/cheesecake).
+  Ambas vías son viables con el equipamiento real; recomiendo probar las dos
+  en RU06 y quedarse con la que dé mejor textura y mejor rendimiento de
+  tiempo de producción.
+- *Merengue tostado:* aquí está la pregunta concreta del briefing — sin
+  soplete, **la salamandra de producción es exactamente el sustituto
+  correcto** (es un equipo de calor superior directo, pensado justo para
+  gratinar/tostar superficies, el mismo principio que un soplete pero a
+  escala de bandeja). El horno convectivo en modo grill, si lo tiene, es una
+  alternativa de respaldo, pero la salamandra da más control de punto de
+  tostado porque se puede vigilar de cerca. **Viable sin comprar nada
+  nuevo** — pero esto añade un uso más a la salamandra, que ya señalé en la
+  sección 4.3 como posible cuello de botella si la referencia 9 también la
+  usa en producción; con la referencia 20 compitiendo por el mismo equipo en
+  la misma franja de producción matinal, el riesgo de saturación de
+  salamandra sube un grado. Conviene mapearlo junto con el resto de la
+  secuenciación en RU06, no asumir que hay hueco libre.
+
+**Relleno 2 — Crema diplomática de matcha.** Una crema diplomática es crema
+pastelera (que normalmente se cuaja a fuego directo con batido constante)
+aligerada con nata montada y, a veces, gelatina. La adaptación sin fogón es
+la misma que en pastelería profesional cuando no hay placa dedicada: **crema
+pastelera al microondas, en tandas cortas removiendo** — es una técnica
+estándar y fiable para volúmenes de obrador pequeño/medio, más previsible que
+el baño maría porque el calor es más rápido de controlar en tandas. El matcha
+en polvo se incorpora después, tamizado y bien disuelto en un poco de líquido
+templado antes de mezclarlo con el resto (para evitar grumos) — es exactamente
+el mismo tipo de paso breve de preparación en producción que señalo en el
+punto 7.3 para la referencia 11, no un proceso nuevo. **Viable sin ajuste de
+equipamiento.**
+
+**Relleno 3 — Ganache de chocolate con caramelo de miso.** El ganache en sí
+(chocolate + nata caliente) no tiene ninguna duda: la nata se calienta sin
+problema en microondas, es una técnica estándar y no necesita fogón. El
+problema es el caramelo de miso — comparte exactamente el mismo hueco técnico
+que la referencia 18 (mismo matiz). Ver el análisis dedicado en 7.2: la
+alternativa que recomiendo ahí (ver más abajo) aplica igual aquí.
+
+**Relleno 4 — Crema de hojicha con sésamo negro en crumble.** Misma lógica
+que el relleno 2 (crema diplomática o similar, cuajada al microondas en
+tandas, con el hojicha en polvo tamizado e incorporado después). El crumble
+de sésamo negro es un horneado seco simple (sésamo + un ligante tipo
+mantequilla/azúcar, horneado a baja temperatura hasta tostar) — técnica
+idéntica a cualquier crumble ya usado en la vitrina (carrot cake, cheesecake).
+**Viable sin ajuste de equipamiento.**
+
+**Montaje y acabado en producción** (como ya propone `chef-ejecutivo`,
+coherente con cómo resolví la referencia 9): correcto. Esta es una pieza de
+mayor ejecución, no de montaje rápido, y el merengue tostado con salamandra
+confirma que el acabado tiene que hacerse donde está ese equipo —
+producción, no sala.
+
+**Capacidad de horno para el lote semanal.** Sigue siendo el mismo riesgo que
+ya señalé en la sección 4.2: el horno convectivo único ya está cargado con el
+horneado diario existente más las referencias nuevas candidatas que también
+lo usan. Un lote semanal de tartaletas (horneado de masa + posible
+horneado/cocción de algún componente de relleno) es una carga adicional, pero
+acotada a un día a la semana, no diaria — más manejable que, por ejemplo, el
+huevo a baja temperatura de las referencias 5/9, que sería diario. Aun así,
+el tamaño del lote (a definir con el cliente) debe fijarse teniendo en cuenta
+esa franja de producción ya ajustada, no de forma independiente.
+
+### 7.2 Caramelo de miso (referencias 18 y 20)
+
+**Veredicto: no es viable como caramelo clásico de fogón (confirmado, no hay
+fogón en producción), pero sí hay una vía de adaptación viable con el
+equipamiento real — con una reserva de practicidad que conviene resolver en
+RU06 antes de estandarizarla, y una alternativa de proveedor que dejo como
+recomendación, no como hecho.**
+
+El caramelo clásico (azúcar seco o húmedo, llevado a punto de color a fuego
+directo, con ajuste de temperatura en tiempo real) necesita control visual y
+térmico inmediato que un fogón da y un horno/microondas no dan de la misma
+forma. Dos adaptaciones reales, no inventadas — son técnicas conocidas en
+pastelería profesional para obradores sin placa dedicada:
+
+1. **Caramelo/toffee tipo "dulce de leche" al horno, al baño maría.**
+   Cocinar leche condensada (o una base similar nata+azúcar) con el miso
+   incorporado, en un molde cerrado dentro de una bandeja con agua, a
+   temperatura baja y constante durante un tiempo largo (técnica clásica de
+   "dulce de leche al horno", muy fiable porque no depende de vigilar el
+   punto de color segundo a segundo). El resultado es un caramelo untuoso,
+   no un caramelo líquido transparente de sartén — distinto en textura al
+   caramelo clásico, pero coherente con el uso que le dan las referencias 18
+   y 20 (salsa/relleno, no un caramelo soplado o decorativo). **Esta es la
+   adaptación que recomiendo como primera opción**: es la más fiable sin
+   fogón y no depende de comprar nada nuevo.
+2. **Caramelo con glucosa/azúcar invertido al microondas, en tandas
+   cortas revisando el color entre cada tanda.** Técnica real (el azúcar
+   invertido/glucosa reduce el riesgo de cristalización y tolera mejor un
+   calentamiento menos controlado que el azúcar puro), pero tiene más riesgo
+   práctico: hay que abrir el microondas para comprobar el color, lo que
+   interrumpe el calentamiento, y quemarlo es fácil si se deja un ciclo de
+   más. Es viable, pero exige más práctica y estandarización de tiempos
+   exactos por tanda antes de confiar en ella para servicio — **si se
+   explora, debe probarse y cronometrarse en RU06 antes de salir a carta**,
+   no asumir que sale bien a la primera.
+3. **Comprarlo ya elaborado a un proveedor e infusionar el miso en casa**
+   (mezclando el miso en el caramelo ya hecho, en frío o con un golpe suave
+   de calor en microondas, no cocinándolo desde cero). **Esto lo dejo
+   explícitamente como recomendación a valorar, no como hecho confirmado**:
+   no sé si existe hoy un proveedor de caramelo de pastelería que Geisha ya
+   use o pueda usar, ni su coste — es un hueco de información nuevo, no una
+   vía ya validada.
+
+Mi recomendación de orden de preferencia: probar primero la opción 1 (dulce
+de leche al horno con miso) porque es la más fiable con el equipamiento real
+y no depende de ningún dato externo pendiente; si el resultado de textura no
+convence para el uso que se le quiere dar (por ejemplo, si se busca un
+caramelo más líquido para decorar en hilo), valorar la opción 3 como
+alternativa de compra. La opción 2 la dejaría como plan B si las dos
+anteriores no dan el resultado buscado, porque es la que exige más práctica
+y más riesgo de fallo en servicio real.
+
+Esta misma conclusión aplica igual a la referencia 18 (Brownie Reforzado) y a
+la referencia 20 (relleno 3, ganache con caramelo de miso) — es el mismo
+problema técnico y la misma solución, no hace falta resolverlo dos veces por
+separado.
+
+### 7.3 Referencia 11 — mezclar matcha/hojicha en la crema/yogur base
+
+**Veredicto: confirmado, es correcto lo que dice `chef-ejecutivo` — es un
+paso breve de preparación en producción, no un montaje puro en sala — y no
+cambia la división producción/sala que ya validé para esta referencia, solo
+la hace un poco más explícita.**
+
+Incorporar matcha u hojicha en polvo directamente a una base de crema o
+yogur fría, sin preparación previa, da grumos y una distribución de color/
+sabor desigual casi garantizada — ambos polvos necesitan tamizarse y
+disolverse primero en una pequeña cantidad de líquido templado (o batirse
+enérgicamente con un poco de la propia base) antes de incorporarse al resto.
+Es un paso de pocos minutos, no una cocción ni una elaboración compleja, pero
+sí es trabajo de producción (donde está el batidor/varillas y el control de
+calidad de la mezcla), no algo que se pueda improvisar en el momento del
+montaje en sala con el equipamiento limitado de arriba.
+
+Esto no cambia la viabilidad general ya confirmada en la sección 2 de este
+documento (toppings preparados abajo, montaje en sala): simplemente añade un
+matiz a "qué se prepara abajo" — ya no es solo cortar/porcionar toppings, es
+también premezclar la base con el polvo japonés antes de que suba a sala. La
+mesa refrigerada de producción puede guardar esta base ya mezclada con
+antelación (igual que cualquier otra base preparada), así que no añade carga
+de producción en el momento de pico, solo en la fase de mise en place previa.
+
+### 7.4 Food cost de los ingredientes japoneses nuevos
+
+**Ninguno de estos ingredientes tiene proveedor ni escandallo hoy — no voy a
+estimar ningún coste.** Esto incluye, de la lista completa usada en la capa
+de identidad: yuzu, matcha, miso, hojicha, kinako, sésamo negro (goma),
+furikake, nori, yuzu kosho, shichimi togarashi y mirin/glaseado de soja.
+
+Es un hueco de información **distinto y adicional** al ya señalado para
+ibérico y salmón (sección 3 de este documento): el ibérico y el salmón son
+producto local/europeo ya comprado hoy por Geisha, con proveedor conocido
+aunque sin escandallo actualizado — el problema ahí es de precio
+desactualizado. Los ingredientes japoneses de esta lista, en cambio, **no
+tienen ningún proveedor confirmado todavía** y, en su mayoría, son producto
+de importación (yuzu fresco o en pulpa, matcha de calidad ceremonial o
+culinaria, miso, hojicha, kinako, furikake, nori, yuzu kosho, shichimi
+togarashi): esto significa normalmente mayor variabilidad de precio por tipo
+de calidad/origen, mayor dependencia de un número reducido de distribuidores
+especializados en producto japonés/asiático en España, y plazos de
+reposición distintos a los del proveedor local habitual de la carta actual.
+
+Antes de cerrar pricing real de cualquier referencia con matiz japonés (1, 4,
+5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 y 20), hace falta cotizar
+con al menos un proveedor de producto japonés/asiático — idealmente
+comparando 2-3 distribuidores, dado el rango de calidad/precio que puede
+tener especialmente el matcha y el yuzu. Esto no lo puedo resolver yo: es una
+gestión de compras que corresponde coordinar con Andrea/Sergio y el cliente
+(quién decide el proveedor final, formato de compra — fresco/en polvo/en
+pasta — y volumen mínimo de pedido, relevante si el volumen real de consumo
+semanal es bajo, como en la referencia 20).
+
+### 7.5 Huecos de información nuevos de esta actualización (además de los ya listados en la sección 6)
+
+11. **Proveedor y coste de los 11 ingredientes japoneses de la capa de
+    identidad** (yuzu, matcha, miso, hojicha, kinako, sésamo negro, furikake,
+    nori, yuzu kosho, shichimi togarashi, mirin) — sin esto no se puede
+    costear ninguna de las 17 referencias que llevan matiz, ni la referencia
+    20 completa.
+12. **Confirmar si el horno convectivo tiene modo grill** (relevante como
+    alternativa de respaldo al merengue tostado de la referencia 20, aunque
+    la salamandra ya es una solución viable sin esa confirmación).
+13. **Probar y cronometrar en RU06 la vía de microondas para curd de yuzu y
+    cremas diplomáticas** (matcha y hojicha) antes de fijar una receta
+    estandarizada — son técnicas conocidas pero no probadas todavía con el
+    equipamiento concreto de Geisha.
+14. **Decidir y probar en RU06 la técnica final del caramelo de miso**
+    (dulce de leche al horno recomendado como primera opción, caramelo al
+    microondas con glucosa como plan B, o compra a proveedor como
+    alternativa) antes de estandarizarlo en las referencias 18 y 20 — sigue
+    sin ser un hecho cerrado, solo una recomendación de orden de preferencia.
+15. **Tamaño del lote semanal de la referencia 20** y su impacto real en la
+    secuenciación de horno/salamandra ya señalada como riesgo en la sección
+    4 — a fijar junto con el cliente y con la prueba de secuenciación de
+    RU06, no de forma aislada.
+16. **Proveedor de caramelo de pastelería ya elaborado**, por si se opta por
+    la vía de compra del punto 7.2 — no confirmado que exista ni su coste.
