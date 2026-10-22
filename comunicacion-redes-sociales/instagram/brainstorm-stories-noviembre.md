@@ -32,23 +32,56 @@ revisión de food cost/escandallos (18 nov) y menu engineering de carta
 
 ## 1. PARA VOLVER — "Sitios que nos han gustado de verdad"
 
-**Limitación real que gobierna este bloque:** no se puede inventar que a
-TBNB "le ha gustado" un sitio sin que sea cierto. Por eso aquí no hay
-nombres de locales — solo **categorías/criterios de qué tipo de sitio
-buscar cada semana**. El nombre real de cada semana lo confirma
-**Andrea o Sergio** (son quienes habrán ido o decidirán ir), no
-TBNB-Agentes.
+**Resuelto (2026-10-22): Andrea confirma los 4 sitios reales**, encajando
+exactamente con los 4 criterios que se habían propuesto (producto / trato /
+ambiente / polivalente).
 
-| Semana | Criterio de sitio a buscar | Por qué este criterio | Confianza |
+| Semana | Sitio | Criterio (palabras de Andrea) | Lo que he podido verificar |
 |---|---|---|---|
-| 1 | Un sitio que destaque por **producto**: algo que se come o se bebe ahí y que, por sí solo, ya justifica la vuelta (un plato, un café, un cóctel concreto). | Encaja con "por el producto" tal cual lo dijo Andrea en el brief del bloque. | 🟡 — criterio claro, falta el sitio real |
-| 2 | Un sitio que destaque por **trato/servicio**: algo que recuerdes porque el equipo de sala/barra lo hizo bien, no por la carta. | Encaja con "por el trato" del brief. Además da variedad real frente a la semana 1 (producto vs. personas). | 🟡 — criterio claro, falta el sitio real |
-| 3 | Un sitio que destaque por **ambiente/diseño**: el espacio en sí es motivo suficiente para volver (luz, materiales, cómo suena, cómo se siente sentarse ahí). | Encaja con "por el ambiente" del brief; también conecta con el eje de interiorismo que ya trabaja TBNB en Architecture (Estrategia de Espacio). | 🟡 — criterio claro, falta el sitio real |
-| 4 | Un sitio **polivalente**: de los que vuelves "por todo a la vez" — producto, trato y ambiente alineados, sin que ninguno sobresalga por encima del resto. | Cierra el mes con el caso más completo, el que mejor resume qué busca TBNB cuando recomienda un sitio. | 🟡 — criterio claro, falta el sitio real |
+| 1 | **Malparit** (Barcelona) | Producto muy bien ejecutado, precio razonable, servicio eficiente y atento. | Ya es un sitio con historia en TBNB — protagonista de "Por qué funciona" en el feed de octubre (cocina catalana + barra). Aquí se usa con un ángulo distinto (recomendación personal, no análisis de concepto). |
+| 2 | **Xemei** (Poble Sec) | Trato cercano, amable. | Confirmado: cocina veneciana, abierto en 2005 por los gemelos Stefano y Max Colombo, foco en pescado/marisco (sepietas, nero di sepia, sarde in saor). |
+| 3 | **Tiberi Bar** (Poble Sec) | Sin descriptor dado por Andrea — asignado a "ambiente" por ser lo que más destaca de lo verificable. | Confirmado: barra central de mármol verde, cortinas, terciopelo y espejos pensados para que se mezclen desconocidos (diseño de h3o Architects); vinos naturales de pequeños productores, gilda como plato firma. |
+| 4 | **Cacho** (Poblenou) | Buen trato, buen producto, buen precio. | Confirmado solo dirección y horario (Carrer de Llull) — sin detalle de carta/chef verificable en fuentes públicas; el texto se apoya en la valoración de Andrea, no en dato externo adicional. |
 
-**Pendiente explícito de Andrea/Sergio:** elegir el sitio real de cada
-semana (idealmente uno ya visitado, no uno "a visitar para la pieza") antes
-de que `director-redaccion` pueda escribir una sola palabra de este bloque.
+### Textos finales para Stories — "PARA VOLVER"
+
+*(Mismo tono: cercano, relajado, de Story.)*
+
+**Semana 1 — Malparit**
+> Malparit, Barcelona.
+>
+> Volvemos por el producto: todo sale bien ejecutado, el precio es
+> justo, y el servicio es de los que no te hacen esperar ni te sobra
+> nada.
+>
+> Así de simple.
+
+**Semana 2 — Xemei**
+> Xemei, Poble Sec.
+>
+> Cocina veneciana de verdad — llevan desde 2005 demostrando que Italia
+> es mucho más que pasta boloñesa.
+>
+> Pero volvemos sobre todo por el trato: cercano, amable, de los que se
+> nota que les gusta lo que hacen.
+
+**Semana 3 — Tiberi Bar**
+> Tiberi Bar, Poble Sec.
+>
+> Una barra de mármol verde en el centro, cortinas, terciopelo — pensado
+> para que acabes hablando con la mesa de al lado.
+>
+> Volvemos por el ambiente. Aquí el espacio hace tanto trabajo como la
+> carta.
+
+**Semana 4 — Cacho**
+> Cacho, Poblenou.
+>
+> Buen trato, buen producto, buen precio — de los sitios en los que no
+> hay un "pero".
+>
+> Por eso vuelves: no porque destaque una sola cosa, sino porque no
+> falla ninguna.
 
 ---
 
