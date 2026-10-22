@@ -45,43 +45,24 @@ ambiente / polivalente).
 
 ### Textos finales para Stories — "PARA VOLVER"
 
-*(Mismo tono: cercano, relajado, de Story.)*
+*(Confirmado 2026-10-22. Ajustado a texto corto de Story — cercano,
+casual, tono de marca, nada de párrafos largos.)*
 
 **Semana 1 — Malparit**
-> Malparit, Barcelona.
->
-> Volvemos por el producto: todo sale bien ejecutado, el precio es
-> justo, y el servicio es de los que no te hacen esperar ni te sobra
-> nada.
->
-> Así de simple.
+> Volvemos a Malparit siempre que podemos. Producto top, precio justo, y
+> un servicio que no te hace esperar ni de más ni de menos.
 
 **Semana 2 — Xemei**
-> Xemei, Poble Sec.
->
-> Cocina veneciana de verdad — llevan desde 2005 demostrando que Italia
-> es mucho más que pasta boloñesa.
->
-> Pero volvemos sobre todo por el trato: cercano, amable, de los que se
-> nota que les gusta lo que hacen.
+> Xemei, en Poble Sec. Cocina veneciana desde 2005 y un trato tan
+> cercano que parece que llevas yendo toda la vida.
 
 **Semana 3 — Tiberi Bar**
-> Tiberi Bar, Poble Sec.
->
-> Una barra de mármol verde en el centro, cortinas, terciopelo — pensado
-> para que acabes hablando con la mesa de al lado.
->
-> Volvemos por el ambiente. Aquí el espacio hace tanto trabajo como la
-> carta.
+> Tiberi Bar nos tiene enamorados del ambiente. Barra de mármol verde,
+> terciopelo, y ganas de quedarte toda la noche.
 
 **Semana 4 — Cacho**
-> Cacho, Poblenou.
->
-> Buen trato, buen producto, buen precio — de los sitios en los que no
-> hay un "pero".
->
-> Por eso vuelves: no porque destaque una sola cosa, sino porque no
-> falla ninguna.
+> Cacho, en Poblenou. Sin "peros": buen trato, buen producto, buen
+> precio. Así de fácil.
 
 ---
 
@@ -112,42 +93,24 @@ también al banco (sustituidos esta semana, no descartados para siempre).
 
 ### Textos finales para Stories — "LO QUE SE VIENE"
 
-*(Tono cercano y relajado, como se escribe en una Story — no el tono
-editorial del carrusel de feed. Cada bloque son 1-2 pantallas de texto,
-pensadas para overlay sobre foto/vídeo, no para leerse como un post.)*
+*(Confirmado 2026-10-22. Texto corto de Story — cercano, casual, tono de
+marca.)*
 
 **Semana 1 — Barr**
-> Los fundadores de Noma abrieron un bar.
->
-> Mismo nivel de producto. De un menú de 600€ a cañas y platos contundentes
-> por 55-80€.
->
-> Esto se va a ver mucho más por aquí.
+> Los de Noma se han montado un bar. Mismo nivel, de 600€ el menú a
+> cañas y platazos por 55-80€. Esto se va a copiar mucho por aquí.
 
 **Semana 2 — Amator**
-> Seis mesas. Carta escrita a mano que cambia según lo que llega del
-> mercado ese día.
->
-> No es un sitio al que vas una vez al año. Es un sitio al que vuelves
-> cada semana sin pensarlo.
->
-> Eso es un tercer espacio de verdad — no necesita wifi ni ser grande.
+> Seis mesas, carta a mano que cambia cada día según el mercado. Así se
+> construye un sitio al que vuelves sin pensarlo.
 
 **Semana 3 — Apotek 57**
-> Apotek 57, dentro de FRAMA (marca de diseño danesa).
->
-> No parece una cafetería. Parece la casa de alguien con muy buen gusto:
-> mobiliario real, cocina abierta como la de casa.
->
-> El diseño ya no decora el café. Es el café.
+> Apotek 57 no parece una cafetería, parece la casa de alguien con muy
+> buen gusto. Aquí el diseño ya no decora el café: es el café.
 
 **Semana 4 — La Cabra**
-> La Cabra, Copenhague.
->
-> Café servido casi como un omakase: barra, maderas, un ritual distinto
-> para algo tan simple como un café.
->
-> No es solo lo que te dan. Es cómo te lo dan.
+> La Cabra sirve el café casi como un omakase. No es solo lo que te dan,
+> es cómo te lo dan.
 
 ---
 
@@ -172,6 +135,28 @@ incorpore patrones concretos de clientes activos, necesito que me indique
 las rutas exactas de los expedientes a revisar, respetando siempre la
 norma de la casa de no usar nombre de cliente sin permiso.
 
+### Textos finales para Stories — "QUÉ HEMOS VISTO"
+
+*(Confirmado 2026-10-22. Texto corto de Story — cercano, casual, tono de
+marca.)*
+
+**Semana 1**
+> Lo que más se repite en nuestras reuniones: escandallos, food cost,
+> pricing... y siempre en el peor momento. Se hace antes, no cuando ya
+> duele.
+
+**Semana 2**
+> Cambiar de idea a medio camino sale caro. Si no cierras el concepto
+> antes de construir encima, luego lo pagas en tiempo y en dinero.
+
+**Semana 3**
+> El "customer journey" lo miramos hasta 4 veces en un mismo proyecto.
+> No es repetir trabajo: es el mismo mapa visto desde ángulos distintos.
+
+**Semana 4**
+> Hasta un restaurante con estrella Michelin cierra el mes con un margen
+> del 3-4%. Las tendencias atraen clientes. Los márgenes los retienen.
+
 ---
 
 ## 4. DÓNDE TRABAJAMOS LOS MIÉRCOLES — "Cambiamos la oficina por una cafetería"
@@ -191,34 +176,24 @@ del local que no puedo verificar.
 
 ### Textos finales para Stories — "DÓNDE TRABAJAMOS LOS MIÉRCOLES"
 
-*(Mismo tono: cercano, relajado, de Story — no editorial.)*
+*(Confirmado 2026-10-22. Texto corto de Story — cercano, casual, tono de
+marca.)*
 
 **Semana 1 — Scharllet BCN**
-> Miércoles de oficina en Scharllet.
->
-> Portátil fuera, café delante, y la pregunta de siempre dándonos vueltas:
-> ¿qué hace que alguien se quede aquí más de la cuenta?
+> Miércoles de oficina en Scharllet. Portátil fuera, café delante, y
+> ojo puesto en todo lo que pasa alrededor.
 
 **Semana 2 — Atav**
-> Hoy la oficina es Atav.
->
-> Un café, el ruido de fondo justo, y nosotros observando — porque de eso
-> va este miércoles: mirar cómo se siente un sitio desde dentro, no solo
-> desde la carta.
+> Hoy la oficina es Atav. Un café y nosotros mirando cómo se vive el
+> sitio desde dentro, no solo desde la carta.
 
 **Semana 3 — Superauto**
-> Miércoles en Superauto, en el Eixample.
->
-> Sin carta fija: un menú que viaja de Tel Aviv a Tailandia pasando por
-> México. Justo el tipo de sitio que nos interesa observar — qué pasa
-> cuando un concepto no se encierra en una sola cocina.
+> Miércoles en Superauto. Sin carta fija, con influencias de medio
+> mundo. Justo el tipo de sitio que nos gusta observar.
 
 **Semana 4 — Amauta**
-> Cerramos el mes en Amauta, con café de filtro y el portátil abierto en
-> serio.
->
-> Es de los sitios pensados para quedarte a trabajar de verdad — y eso
-> también es una decisión de negocio, no solo de ambiente.
+> Cerramos el mes en Amauta. Café de filtro, portátil en serio, y un
+> sitio pensado para quedarte a trabajar de verdad.
 
 **Pendiente de Andrea/Sergio:** confirmar fecha exacta de cada miércoles
 dentro de noviembre, y si quieren que se mencione algo concreto que
