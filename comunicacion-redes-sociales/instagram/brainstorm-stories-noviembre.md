@@ -68,17 +68,53 @@ ilustración genérica.
 
 | Semana | Idea (sitio real + tendencia) | Fuente | Confianza |
 |---|---|---|---|
-| 1 | **Barr demuestra la "democratización del lujo" antes de que se vuelva trend.** Los fundadores de Noma (600-740€/persona) abrieron, a quince minutos andando, una taberna de cervezas propias y platos contundentes a 55-80€. Mismo nivel de producto, sin la escenografía. Ángulo Stories: esto es exactamente lo que Gluttonomy llama "lujo accesible, reducido de tamaño, no de calidad" — ya está pasando en Copenhague, lo vamos a ver aquí. | Barr (research Copenhague) + Gluttonomy, "Food & Beverage Trends 2026" (matriz-tematica.md, sección 06) | 🟢 |
-| 2 | **Amator y el "third-space" de seis mesas.** Carta corta escrita a mano que cambia según el mercado, ambiente informal-elegante, hora punta a las 19:30 de clientela de barrio. No es un restaurante al que vas a "una ocasión": es un sitio que forma parte de la semana de alguien. Ángulo Stories: el tercer espacio no necesita ser grande ni tener wifi — necesita que alguien vuelva sin pensarlo. | Amator (research Copenhague) + WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" (matriz-tematica.md, sección 06) | 🟢 |
-| 3 | **Sonny y la vuelta de la brasa/proteína con hospitalidad marcada.** Del chef de Kadeau, formato relajado, producto de temporada a la brasa. Encaja letra por letra con la tendencia que ya señala Gluttonomy: la proteína vuelve a ser protagonista (crece 3x más rápido que los sustitutos vegetales) y el asador se reinventa menos estirado, con hospitalidad de verdad. | Sonny (research Copenhague) + Gluttonomy, "Food & Beverage Trends 2026" (matriz-tematica.md, sección 06) | 🟢 |
-| 4 | **Høst y el interiorismo que ya se replica en miles de sitios.** Madera cruda, mimbre, ramas secas, luz baja — hygge escandinavo que el propio research ya señala como "referencia mundial... replicado por miles de restaurantes". Ángulo Stories: lo que ya ganó en Copenhague hace años es, literalmente, lo que ahora se abre cada mes en Madrid y Barcelona — y la disciplina de fondo (qué entra en la sala y qué no) sigue siendo lo que nadie copia bien. | Høst (research Copenhague) + Grupo Ephemera / Sirha Food, "Sustainability: The Model Restaurant", 21 feb 2025 (matriz-tematica.md, sección 04) | 🟢 |
+| 1 | **Barr demuestra la "democratización del lujo" antes de que se vuelva trend.** Los fundadores de Noma (600-740€/persona) abrieron, a quince minutos andando, una taberna de cervezas propias y platos contundentes a 55-80€. Mismo nivel de producto, sin la escenografía. | Barr (research Copenhague) + Gluttonomy, "Food & Beverage Trends 2026" (matriz-tematica.md, sección 06) | 🟢 |
+| 2 | **Amator y el "third-space" de seis mesas.** Carta corta escrita a mano que cambia según el mercado, ambiente informal-elegante, hora punta a las 19:30 de clientela de barrio. | Amator (research Copenhague) + WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" (matriz-tematica.md, sección 06) | 🟢 |
+| 3 | **Apotek 57 y el café como extensión de una marca de diseño.** Sustituye a la idea de Sonny, descartada por Andrea (2026-10-22, "no es relevante"). Apotek 57 vive dentro de FRAMA Studio Store (marca danesa de diseño/mobiliario), en una farmacia histórica de 1878 en Nyboder. No se vende decoración — se vive como si fuera la casa de alguien: mobiliario real, cocina abierta como la de casa. | Apotek 57 (research Copenhague, ya documentado también en `fuentes` de este proyecto) + conexión diseño-hostelería ya trabajada por TBNB | 🟢 |
+| 4 | **La Cabra (Copenhague) y el café servido como una barra de omakase.** Sustituye a Høst, a petición de Andrea (2026-10-22). Roastery nacida en Aarhus en 2012, con café en Copenhague desde 2023 y una tostadora/café nueva en Nordhavn (2025): maderas, acero, ladrillo visto del antiguo puerto. El formato "omakase" (barra, ritual, un café servido con la misma atención que una pieza de sushi) es la lectura propia de TBNB sobre el sitio, no una etiqueta oficial de La Cabra. | La Cabra (verificado vía web: [Visit Denmark](https://www.visitdenmark.com/denmark/plan-your-trip/la-cabra-gdk1153820), [sitio oficial La Cabra US](https://us.lacabra.com/pages/nordhavn)) | 🟢 |
 
-**Sitios de Copenhague en el banco, sin usar este mes:** Alchemist
-(experiencia teatral-inmersiva, Rasmus Munk — candidato fuerte para un mes
-donde se quiera profundizar en "restaurantes inmersivos" en vez de solo
-mencionarlo), Restaurant Daphne, Admiralgade 26 (carta diaria sin menú
-fijo, ya usado como ángulo en el feed de octubre vía otro sitio, pero no
-en noviembre) y Bistro Lupa.
+**Sitios de Copenhague en el banco, sin usar este mes:** Alchemist,
+Restaurant Daphne, Admiralgade 26 y Bistro Lupa. Sonny y Høst vuelven
+también al banco (sustituidos esta semana, no descartados para siempre).
+
+### Textos finales para Stories — "LO QUE SE VIENE"
+
+*(Tono cercano y relajado, como se escribe en una Story — no el tono
+editorial del carrusel de feed. Cada bloque son 1-2 pantallas de texto,
+pensadas para overlay sobre foto/vídeo, no para leerse como un post.)*
+
+**Semana 1 — Barr**
+> Los fundadores de Noma abrieron un bar.
+>
+> Mismo nivel de producto. De un menú de 600€ a cañas y platos contundentes
+> por 55-80€.
+>
+> Esto se va a ver mucho más por aquí.
+
+**Semana 2 — Amator**
+> Seis mesas. Carta escrita a mano que cambia según lo que llega del
+> mercado ese día.
+>
+> No es un sitio al que vas una vez al año. Es un sitio al que vuelves
+> cada semana sin pensarlo.
+>
+> Eso es un tercer espacio de verdad — no necesita wifi ni ser grande.
+
+**Semana 3 — Apotek 57**
+> Apotek 57, dentro de FRAMA (marca de diseño danesa).
+>
+> No parece una cafetería. Parece la casa de alguien con muy buen gusto:
+> mobiliario real, cocina abierta como la de casa.
+>
+> El diseño ya no decora el café. Es el café.
+
+**Semana 4 — La Cabra**
+> La Cabra, Copenhague.
+>
+> Café servido casi como un omakase: barra, maderas, un ritual distinto
+> para algo tan simple como un café.
+>
+> No es solo lo que te dan. Es cómo te lo dan.
 
 ---
 
@@ -107,23 +143,54 @@ norma de la casa de no usar nombre de cliente sin permiso.
 
 ## 4. DÓNDE TRABAJAMOS LOS MIÉRCOLES — "Cambiamos la oficina por una cafetería"
 
-**Misma limitación que PARA VOLVER:** no se puede fingir una visita de
-trabajo semanal a una cafetería concreta que no exista. Aquí propongo
-**criterios de qué tipo de cafetería buscar cada semana**, para dar
-variedad real al mes — el nombre y la confirmación de que efectivamente
-se trabajó ahí ese miércoles los da **Andrea o Sergio**.
+**Resuelto (2026-10-22): Andrea confirma los 4 sitios reales.** Dejo
+constancia de lo que he podido verificar de cada uno (búsqueda web, sitios
+públicos) y lo que no — donde no hay dato confirmado, el texto final se
+queda en lo experiencial (qué se hizo esa mañana), sin inventar detalles
+del local que no puedo verificar.
 
-| Semana | Criterio de cafetería a buscar | Qué observar/contar ese día | Confianza |
-|---|---|---|---|
-| 1 | Cafetería de barrio, clásica, con mesa grande y buen wifi — el "despacho improvisado" de siempre. | Cómo funciona el ritmo de un sitio que no fue pensado para trabajar ahí, y aun así lo permite bien. | 🟡 — criterio claro, falta confirmar sitio real y fecha |
-| 2 | Cafetería de apertura reciente o con interiorismo cuidado. | Qué decisiones de diseño/espacio llaman la atención desde dentro, en vivo — conecta con el eje de Estrategia de Espacio del BAR Method. | 🟡 — criterio claro, falta confirmar sitio real y fecha |
-| 3 | Cafetería con terraza o flujo de mañana marcado (zona de oficinas, mucho "para llevar"). | Cómo se nota el ritmo de la mañana desde fuera de la barra: picos, calma, quién entra y a qué hora. | 🟡 — criterio claro, falta confirmar sitio real y fecha |
-| 4 | Cafetería especializada en café de especialidad (producto como foco explícito del sitio). | Cómo se comunica el producto sin que suene a masterclass — trato y producto a la vez. | 🟡 — criterio claro, falta confirmar sitio real y fecha |
+| Semana | Sitio | Lo que he podido verificar |
+|---|---|---|
+| 1 | **Scharllet BCN** | No he encontrado el local con este nombre en fuentes públicas — puede ser un nombre interno, una grafía distinta, o un sitio muy reciente/pequeño sin presencia online. El texto se queda en lo experiencial. |
+| 2 | **Atav** | Mismo caso que Scharllet — sin resultado verificable. Texto experiencial. |
+| 3 | **Superauto** | Confirmado: restaurante/café en el Eixample de Barcelona, de la chef Ronit Stern (grupo La Balabusta), que sustituyó a su anterior "Auto Rosellón". Sin carta fija — mezcla influencias de sus viajes (San Francisco, Tel Aviv, Ámsterdam, Tailandia, Japón, México) en brunch, dulces y menú del día. |
+| 4 | **Amauta** | Confirmado: Amauta Coffee Roasters, Carrer del Carme 53 (Barcelona) — especializado en café de filtro, señalado como buen sitio para trabajar en remoto. |
 
-**Pendiente explícito de Andrea/Sergio:** confirmar, semana a semana, dónde
-se trabajó de verdad ese miércoles (o planificarlo con antelación si se
-quiere elegir el sitio antes). Sin esa confirmación, este bloque no puede
-pasar a redacción.
+### Textos finales para Stories — "DÓNDE TRABAJAMOS LOS MIÉRCOLES"
+
+*(Mismo tono: cercano, relajado, de Story — no editorial.)*
+
+**Semana 1 — Scharllet BCN**
+> Miércoles de oficina en Scharllet.
+>
+> Portátil fuera, café delante, y la pregunta de siempre dándonos vueltas:
+> ¿qué hace que alguien se quede aquí más de la cuenta?
+
+**Semana 2 — Atav**
+> Hoy la oficina es Atav.
+>
+> Un café, el ruido de fondo justo, y nosotros observando — porque de eso
+> va este miércoles: mirar cómo se siente un sitio desde dentro, no solo
+> desde la carta.
+
+**Semana 3 — Superauto**
+> Miércoles en Superauto, en el Eixample.
+>
+> Sin carta fija: un menú que viaja de Tel Aviv a Tailandia pasando por
+> México. Justo el tipo de sitio que nos interesa observar — qué pasa
+> cuando un concepto no se encierra en una sola cocina.
+
+**Semana 4 — Amauta**
+> Cerramos el mes en Amauta, con café de filtro y el portátil abierto en
+> serio.
+>
+> Es de los sitios pensados para quedarte a trabajar de verdad — y eso
+> también es una decisión de negocio, no solo de ambiente.
+
+**Pendiente de Andrea/Sergio:** confirmar fecha exacta de cada miércoles
+dentro de noviembre, y si quieren que se mencione algo concreto que
+observaron ese día (plato, gesto del equipo, detalle de diseño) para que
+el texto no se quede solo en lo genérico.
 
 ---
 
