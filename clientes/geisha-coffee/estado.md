@@ -254,6 +254,62 @@ de diseño de carta, Siguientes pasos) quedan pendientes para después de
 que el cliente recorte de 20 a 10, o de que `culinary-development`
 valide las referencias marcadas.
 
+**2026-10-22 — Documento completo (7/7 secciones), a petición de
+Andrea ("necesito crear el documento de Geisha Coffee hoy").** Decididas
+dos cosas con Andrea antes de cerrar: se presentan las **20 referencias
+completas** a Juan (no una preselección de TBNB), y se cierra el
+documento **sin food cost actualizado** (hueco explícito por referencia,
+sin inventar cifras).
+
+Andrea pide además, en vivo, bajar el concepto de carta a "productos de
+tendencia con pequeños matices de especias/técnica tradicional japonesa,
+coherentes con el nombre Geisha, sin caer en fusión forzada". Ciclo de
+trabajo:
+1. `chef-ejecutivo` añade matices japoneses reales (yuzu, matcha, miso,
+   hojicha, kinako, sésamo negro, furikake, nori, yuzu kosho, shichimi
+   togarashi, mirin) a 16 de las 20 referencias, dejando las otras 3 sin
+   matiz de forma razonada (no forzarlo donde no aporta). Define producto
+   concreto para la referencia 20, que no lo tenía: "Tartaleta de Autor"
+   de edición limitada semanal, 4 fórmulas rotativas (yuzu/merengue,
+   matcha, miso, hojicha/sésamo).
+2. `culinary-development` valida la viabilidad técnica de los matices
+   nuevos y de la referencia 20 completa — sin bloqueantes reales: la
+   masa quebrada y las cremas son viables con el equipamiento existente;
+   el caramelo de miso no es viable como caramelo clásico (no hay fogón)
+   pero sí como dulce de leche al horno; el merengue tostado se resuelve
+   con la salamandra ya existente (sube el riesgo de saturación de ese
+   equipo, ya señalado antes). Deja explícito que ningún ingrediente
+   japonés nuevo tiene proveedor ni escandallo todavía — hueco de
+   información distinto al de ibérico/salmón, por ser producto de
+   importación.
+3. `chef-ejecutivo` completa las secciones 4-7: Product Strategy (5
+   territorios de producto, con el "Acento Geisha" como territorio
+   transversal diferenciador frente a Nubra/The Fix/Davob), Estrategia
+   Económica (benchmark marcado explícitamente como cualitativo, sin
+   dato real de venta de competidores; conclusiones ancladas en las
+   cifras reales del proyecto; deja explícito que **sin food cost no hay
+   margen bruto proyectable**, solo palanca de ingreso), Recomendaciones
+   de diseño de carta, y Siguientes pasos (7 puntos, todos reales).
+
+**Documento completo, de carácter consultivo, pendiente de revisión de
+Andrea/Sergio antes de enviarlo a Juan.** Dos puntos señalados por
+`chef-ejecutivo` que necesitan decisión explícita de Andrea/Sergio antes
+del envío:
+1. Si el diseño gráfico de la carta física entra en el alcance de AR02
+   (pregunta nueva, no resuelta en el SOW ni en el briefing).
+2. El cálculo ilustrativo de la sección 5 (~3.500€ por punto de
+   conversión recuperado, ~17.500€ en un escenario de 5 puntos) está
+   etiquetado como "ilustrativo, no proyección comprometida" — confirmar
+   que ese nivel de cálculo no se lee como promesa de resultado antes de
+   que lo vea el cliente.
+
+Huecos de información que siguen abiertos (no bloquean el documento,
+pero sí RU06 y el pricing final): food cost actualizado (ibérico,
+salmón, y el resto de materia prima base — últimos escandallos de hace
+6 años), proveedores/coste de los ingredientes japoneses nuevos,
+confirmación visual de que el equipamiento sigue vigente tras la mudanza
+de octubre, y Brand Kit/Brand Book todavía no leídos en profundidad.
+
 ## Equipo de especialistas creado para este servicio
 
 A petición de Andrea, se crean dos agentes especializados en
