@@ -54,33 +54,31 @@ de que `director-redaccion` pueda escribir una sola palabra de este bloque.
 
 ## 2. LO QUE SE VIENE — "Cosas que creemos que van a dar que hablar"
 
-Base real: `hospitality-report/matriz-tematica.md` (investigación propia de
-TBNB para el Hospitality Report, fuentes con nombre y fecha). Evito
-Copenhague/Atelier September/Café Leon Dore porque ya están en el feed de
-noviembre — **nota importante más abajo sobre el research de Copenhague**.
+**Actualizado (2026-10-22), a petición de Andrea: cruzado con el research
+real del viaje a Copenhague** (`Research_Copenhague_The-Bar-n-Bar`, Drive,
+51 sitios documentados). El feed de noviembre ya usa Atelier September y
+Café Leon Dore — aquí se usan **7 sitios distintos, ninguno repetido**:
+Noma, Alchemist, Barr, Høst, Restaurant Koan, Amator, Sonny, Restaurant
+Daphne, Admiralgade 26, Bistro Lupa (quedan Alchemist, Daphne, Admiralgade
+26 y Bistro Lupa en el banco, sin usar todavía, por si hace falta más
+material otro mes). Cada semana cruza un sitio real visto en Copenhague con
+una tendencia ya documentada por TBNB en `hospitality-report/matriz-tematica.md`
+— el sitio real es la prueba de que la tendencia ya está pasando, no una
+ilustración genérica.
 
-| Semana | Idea | Fuente | Confianza |
+| Semana | Idea (sitio real + tendencia) | Fuente | Confianza |
 |---|---|---|---|
-| 1 | **"Third-space feels"**: la cafetería (o el bar) como hub comunitario de día — el consumo social se desplaza del "salir de noche" a espacios de nicho (running clubs, supper clubs, sesiones de trabajo). Ángulo Stories: "esto lo vamos a ver más" en vez de analizarlo a fondo como haría el feed. | WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" (matriz-tematica.md, sección 06) | 🟢 |
-| 1 (alternativa) | El café/producto premium como "lujo accesible": el cliente no renuncia al placer, lo reduce de tamaño (café de especialidad, chocolate de autor). | Gluttonomy, "Food & Beverage Trends 2026" (matriz-tematica.md, sección 06) | 🟢 |
-| 2 | **Panaderías que dejan de ser panaderías**: una nueva generación de panaderos se posiciona como "espacio para quedarse" (desayuno, brunch, eventos) en vez de vender solo pan — el pan baja al 5-15% de la actividad en los negocios más híbridos. | Sirha Food, "...decline of the traditional French bakery", 26 may 2025 (matriz-tematica.md, sección 03) | 🟢 |
-| 2 (alternativa) | Panaderías de diáspora (japonesa, coreana, venezolana, mexicana, de Oriente Medio) como el nuevo "tercer espacio" social diurno. | Gluttonomy, "Food & Beverage Trends 2026" (matriz-tematica.md, sección 06) | 🟢 |
-| 3 | **Vuelve el steakhouse, pero reinventado**: menos estirado, cócteles clásicos, hospitalidad marcada — tras una década de omakase. Ligado a nostalgia y a la vuelta de la proteína como foco. | Gluttonomy, "Food & Beverage Trends 2026" (matriz-tematica.md, sección 06) | 🟢 |
-| 3 (alternativa) | Vuelta a la hamburguesa gruesa y jugosa tras años de smash burger — el interés por la proteína crece 3x más rápido que por sustitutos vegetales (Tastewise). | Gluttonomy, "Food & Beverage Trends 2026" (matriz-tematica.md, sección 06) | 🟢 |
-| 4 | **Restaurantes inmersivos como estrategia replicable**, no solo como proyecto único: un grupo parisino construye varios locales, cada uno como un "mundo" propio diseñado junto a la cocina, no decoración añadida después. | Grupo Ephemera, vía Sirha Food "Sustainability: The Model Restaurant", 21 feb 2025 (matriz-tematica.md, sección 04) | 🟢 |
-| 4 (alternativa) | Marcas centenarias reactivando un ritual que **ya existía** entre sus clientes (en vez de inventar uno nuevo) para rejuvenecer sin tocar el producto — caso de una marca de cerveza con 267 años que dobló su viralidad social activando un gesto de bar ya extendido. | McKinsey, "State of Food & Beverage", abr 2026 (matriz-tematica.md, sección 09, The Radar) | 🟢 |
+| 1 | **Barr demuestra la "democratización del lujo" antes de que se vuelva trend.** Los fundadores de Noma (600-740€/persona) abrieron, a quince minutos andando, una taberna de cervezas propias y platos contundentes a 55-80€. Mismo nivel de producto, sin la escenografía. Ángulo Stories: esto es exactamente lo que Gluttonomy llama "lujo accesible, reducido de tamaño, no de calidad" — ya está pasando en Copenhague, lo vamos a ver aquí. | Barr (research Copenhague) + Gluttonomy, "Food & Beverage Trends 2026" (matriz-tematica.md, sección 06) | 🟢 |
+| 2 | **Amator y el "third-space" de seis mesas.** Carta corta escrita a mano que cambia según el mercado, ambiente informal-elegante, hora punta a las 19:30 de clientela de barrio. No es un restaurante al que vas a "una ocasión": es un sitio que forma parte de la semana de alguien. Ángulo Stories: el tercer espacio no necesita ser grande ni tener wifi — necesita que alguien vuelva sin pensarlo. | Amator (research Copenhague) + WGSN, "Key Trend 2026/27: Gen Z Food & Drink Priorities" (matriz-tematica.md, sección 06) | 🟢 |
+| 3 | **Sonny y la vuelta de la brasa/proteína con hospitalidad marcada.** Del chef de Kadeau, formato relajado, producto de temporada a la brasa. Encaja letra por letra con la tendencia que ya señala Gluttonomy: la proteína vuelve a ser protagonista (crece 3x más rápido que los sustitutos vegetales) y el asador se reinventa menos estirado, con hospitalidad de verdad. | Sonny (research Copenhague) + Gluttonomy, "Food & Beverage Trends 2026" (matriz-tematica.md, sección 06) | 🟢 |
+| 4 | **Høst y el interiorismo que ya se replica en miles de sitios.** Madera cruda, mimbre, ramas secas, luz baja — hygge escandinavo que el propio research ya señala como "referencia mundial... replicado por miles de restaurantes". Ángulo Stories: lo que ya ganó en Copenhague hace años es, literalmente, lo que ahora se abre cada mes en Madrid y Barcelona — y la disciplina de fondo (qué entra en la sala y qué no) sigue siendo lo que nadie copia bien. | Høst (research Copenhague) + Grupo Ephemera / Sirha Food, "Sustainability: The Model Restaurant", 21 feb 2025 (matriz-tematica.md, sección 04) | 🟢 |
 
-**Nota importante — research de Copenhague no localizado:** se me pidió
-revisar `Research_Copenhague_The-Bar-n-Bar` para buscar un ángulo de
-Copenhague no usado ya en feed (que cubre Atelier September y Café Leon
-Dore). Con las herramientas de esta sesión no he podido localizar ese
-documento en el repositorio — no tengo listado de directorios, solo lectura
-de rutas concretas, y no aparece citado con esa ruta exacta en ningún otro
-documento que haya revisado (`BRIEF.md`, `calendario-noviembre.md`,
-`calendario-octubre.md`, `matriz-tematica.md`). Dos opciones para Andrea:
-decirme la ruta exacta del archivo, o confirmar que las ideas de arriba
-(basadas en `matriz-tematica.md`, que sí es investigación propia y
-verificada de TBNB) son suficientes para este bloque sin Copenhague.
+**Sitios de Copenhague en el banco, sin usar este mes:** Alchemist
+(experiencia teatral-inmersiva, Rasmus Munk — candidato fuerte para un mes
+donde se quiera profundizar en "restaurantes inmersivos" en vez de solo
+mencionarlo), Restaurant Daphne, Admiralgade 26 (carta diaria sin menú
+fijo, ya usado como ángulo en el feed de octubre vía otro sitio, pero no
+en noviembre) y Bistro Lupa.
 
 ---
 
@@ -135,9 +133,9 @@ pasar a redacción.
    los criterios están listos, pero **ninguna puede redactarse sin que
    Andrea/Sergio confirmen el sitio real** de cada semana — es el bloqueo
    más grande del brainstorming completo.
-2. **Research de Copenhague no localizado** — necesito la ruta exacta del
-   documento o confirmación de que `matriz-tematica.md` es fuente
-   suficiente para "LO QUE SE VIENE" este mes.
+2. **Research de Copenhague — resuelto (2026-10-22).** "LO QUE SE VIENE"
+   ya cruza 4 sitios reales (Barr, Amator, Sonny, Høst) con tendencias de
+   `matriz-tematica.md`, sin repetir nada del feed de noviembre.
 3. **`clientes/` sin revisar** — sin listado de directorios no he podido
    confirmar patrones adicionales ahí; si Andrea quiere enriquecer "QUÉ
    HEMOS VISTO" con eso, necesito rutas concretas.
