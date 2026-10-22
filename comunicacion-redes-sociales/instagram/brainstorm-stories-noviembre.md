@@ -105,10 +105,11 @@ sitio real entra después, como prueba, no como titular.)*
 > perder nivel. Barr, en Copenhague, lo hace así — de un menú de 600€ a
 > cañas y platazos por 60.
 
-**Semana 2 — tendencia: ganar por repetición, no por aforo**
-> Los sitios pequeños están ganando por repetición, no por aforo.
-> Amator tiene solo seis mesas y carta a mano que cambia cada día — así
-> se cuela en tu semana.
+**Semana 2 — tendencia: sitios pequeños que no necesitan crecer, necesitan que vuelvas**
+> Cada vez vemos más sitios pequeños que no buscan más aforo: buscan que
+> la misma gente vuelva más veces. Amator tiene solo seis mesas y una
+> carta que cambia cada día a mano — por eso no le hace falta ser
+> grande.
 
 **Semana 3 — tendencia: el diseño ya no decora, define el concepto**
 > El diseño ya no decora la hostelería, la define. Apotek 57, dentro de
