@@ -96,21 +96,29 @@ también al banco (sustituidos esta semana, no descartados para siempre).
 *(Confirmado 2026-10-22. Texto corto de Story — cercano, casual, tono de
 marca.)*
 
-**Semana 1 — Barr**
-> Los de Noma se han montado un bar. Mismo nivel, de 600€ el menú a
-> cañas y platazos por 55-80€. Esto se va a copiar mucho por aquí.
+*(Reescrito 2026-10-22 — a petición de Andrea, cambia el ángulo: no se
+abre nombrando el restaurante, se abre con la tendencia observada; el
+sitio real entra después, como prueba, no como titular.)*
 
-**Semana 2 — Amator**
-> Seis mesas, carta a mano que cambia cada día según el mercado. Así se
-> construye un sitio al que vuelves sin pensarlo.
+**Semana 1 — tendencia: alta cocina bajada a formato bar**
+> Se está viendo cada vez más: alta cocina bajada a formato bar, sin
+> perder nivel. Barr, en Copenhague, lo hace así — de un menú de 600€ a
+> cañas y platazos por 60.
 
-**Semana 3 — Apotek 57**
-> Apotek 57 no parece una cafetería, parece la casa de alguien con muy
-> buen gusto. Aquí el diseño ya no decora el café: es el café.
+**Semana 2 — tendencia: ganar por repetición, no por aforo**
+> Los sitios pequeños están ganando por repetición, no por aforo.
+> Amator tiene solo seis mesas y carta a mano que cambia cada día — así
+> se cuela en tu semana.
 
-**Semana 4 — La Cabra**
-> La Cabra sirve el café casi como un omakase. No es solo lo que te dan,
-> es cómo te lo dan.
+**Semana 3 — tendencia: el diseño ya no decora, define el concepto**
+> El diseño ya no decora la hostelería, la define. Apotek 57, dentro de
+> FRAMA, no parece una cafetería: parece la casa de alguien con buen
+> gusto.
+
+**Semana 4 — tendencia: el café como ritual, no como trámite**
+> El café empieza a servirse como un ritual, no como un trámite. La
+> Cabra lo hace casi como un omakase: barra, maderas, y mucha atención
+> a cómo te lo dan.
 
 ---
 
@@ -149,13 +157,15 @@ marca.)*
 > Cambiar de idea a medio camino sale caro. Si no cierras el concepto
 > antes de construir encima, luego lo pagas en tiempo y en dinero.
 
-**Semana 3**
-> El "customer journey" lo miramos hasta 4 veces en un mismo proyecto.
-> No es repetir trabajo: es el mismo mapa visto desde ángulos distintos.
+**Semana 3** *(reescrita 2026-10-22 — ángulo anterior poco relevante)*
+> Casi nadie que abre un negocio ha pensado el recorrido completo del
+> cliente, de principio a fin. Lo piensan por partes: la carta, el
+> espacio, el servicio... pero nunca todo junto.
 
-**Semana 4**
-> Hasta un restaurante con estrella Michelin cierra el mes con un margen
-> del 3-4%. Las tendencias atraen clientes. Los márgenes los retienen.
+**Semana 4** *(reescrita 2026-10-22 — ángulo anterior poco relevante)*
+> Hablamos con negocios que facturan muy bien y a fin de mes no les
+> queda casi nada. Pasa más de lo que parece — hasta en los que tienen
+> estrella Michelin.
 
 ---
 
