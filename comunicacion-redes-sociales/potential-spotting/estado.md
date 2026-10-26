@@ -55,6 +55,52 @@ de candidatos y mantiene la base de datos; el envío de los emails lo hace
 Sergio, en su rol de fundador. Actualizado en `SOP.md` (reparto del ciclo,
 paso 2 del ciclo paso a paso, y "Qué no cambia").
 
+## Primera tanda del nuevo modelo — café de contacto (2026-10-26)
+
+Andrea pidió identificar 5 sitios de Barcelona a contactar "con el nuevo
+formato que desarrollamos" (café de contacto, `email-contacto-cafe.md`) y
+encontrar una nota de gancho para cada uno. Búsqueda mixta: 3 candidatos
+los trajo Andrea de primera mano, 2 los investigó Claude por WebSearch
+(prensa real, premios verificables). Registrados en el Drive "Potential
+spotting" → pestaña "BASE DE DATOS" (filas de la tanda Octubre 2026).
+
+| Local | Quién lo trajo | Motivo | Nota de gancho (resumen) |
+|---|---|---|---|
+| Baldomero (Eixample) | Andrea | Inspiración | Antiguo garaje reconvertido en "granja urbana" (interior rosa, Santa & Cole) — y Raw Studio hace los desayunos dentro del mismo espacio. Confirmado por Andrea lo de Raw Studio; el resto, prensa (Santa & Cole, Trendland). |
+| Vereda → Vecina (Eixample) | Andrea | Oportunidad | Vereda ya es un homenaje real al bar de barrio (diseño de A SPACE ABOUT, cubierto en Architizer); el equipo acaba de abrir un obrador nuevo, Vecina. **Dato de Vecina solo confirmado por Andrea (spotting físico/directo) — no lo he encontrado en prensa.** Vereda ya estaba en la base de datos (Julieta Menéndez, Founder, fila existente) — se actualiza esa fila con este gancho en vez de crear una nueva, para no duplicar el contacto. |
+| Viblioteca (Gràcia) | Andrea | Inspiración | Bar de vino y queso desde 2008: +60 quesos de leche cruda, carta de vino por copas que cambia cada mes, sin cocina caliente. Verificado por WebSearch (Indagare, En Primeur Club). |
+| Cervecería 640 / Seis Cuarenta (Av. Diagonal) | Claude (WebSearch) | Oportunidad | Eugeni de Diego (ex-elBulli, también Lombo y Wilmot) abrió esta cervecería en diciembre 2025; Time Out (enero 2026) dice que "lo está petando sin clientela turista". Verificado (Ara, Time Out, Indagare). |
+| Margarit (Poble-sec) | Claude (WebSearch) | Inspiración | Abrieron en 2024 en el local del antiguo Bar Margarit; cocina de raíz griega con técnica, de Stefano Balis y Jordi Fenoll. Mejor Restaurante en los Time Out Barcelona Food & Drink 2025. Verificado (Neo2, Time Out). |
+
+**Candidatos investigados pero descartados de esta tanda de 5** (quedan en
+reserva para la siguiente, sin gancho perdido): Bellafila (Ciutat Vella,
+premio Barcelona Restauració 2025 calidad gastronómica) y La Esquinica
+(Nou Barris, taberna desde 1972, mismo premio categoría integración en el
+barrio) — Andrea pidió mezclar porque estos dos y Mina (Sarrià, abierto
+2024, 5/5 Time Out) salían "de perfil más tradicional"; Mina también
+queda en reserva. La Esquinica tiene un pero adicional: solo una fuente
+(Culinary Backstreets) nombra a un fundador (José María Utrillas) y
+ninguna fuente confirma quién lleva el negocio hoy — verificar antes de
+dirigir cualquier email a ese nombre.
+
+**Contacto — nada verificado del todo, pendiente para Sergio:**
+- Baldomero: tel. +34 932 50 78 60. Instagram posible `@baldomerobcn` (sin
+  confirmar en la propia cuenta).
+- Vereda / Vecina: sin vía de contacto nueva — usar la que ya tenga
+  registrada la fila de Vereda, o la que Andrea tenga de haber visto
+  Vecina en persona.
+- Viblioteca: tel. +34 932 84 42 02.
+- Cervecería 640: tel. +34 933 63 08 11.
+- Margarit: tel. 935413946 (encontrado en un listado del local anterior,
+  La Tomaquera — confirmar que sigue siendo el mismo número).
+
+Ningún nombre de persona a contactar está confirmado al 100% salvo
+Eugeni de Diego (640) y Stefano Balis / Jordi Fenoll (Margarit) — Sergio
+debería confirmar el resto (Instagram/web del propio local) antes de
+personalizar el email de `email-contacto-cafe.md`. Recuerda la regla de
+la casa: esto es lista de candidatos y ganchos, no un email terminado —
+nada se envía sin que Andrea o Sergio lo revisen y aprueben antes.
+
 ## Situación actual (histórico — modelo en pausa, ver arriba)
 
 Proyecto y equipo creados. Documentación de partida lista:
