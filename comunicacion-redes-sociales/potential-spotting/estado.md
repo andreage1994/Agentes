@@ -64,13 +64,21 @@ los trajo Andrea de primera mano, 2 los investigó Claude por WebSearch
 (prensa real, premios verificables). Registrados en el Drive "Potential
 spotting" → pestaña "BASE DE DATOS" (filas de la tanda Octubre 2026).
 
-| Local | Quién lo trajo | Motivo | Nota de gancho (resumen) |
+**Corrección de tono (2026-10-26, mismo día):** Andrea marcó que la
+primera versión de los ganchos (más abajo en el historial de commits)
+sonaba a nota de investigación interna, no a admiración real por el
+proyecto ni a motivo genuino para querer conectar. Reescritos como frase
+de gancho real (la que iría, personalizada, en `email-contacto-cafe.md`),
+manteniendo el mismo hecho verificable como base pero en tono de
+admiración TBNB, no de ficha de datos.
+
+| Local | Quién lo trajo | Motivo | Nota de gancho |
 |---|---|---|---|
-| Baldomero (Eixample) | Andrea | Inspiración | Antiguo garaje reconvertido en "granja urbana" (interior rosa, Santa & Cole) — y Raw Studio hace los desayunos dentro del mismo espacio. Confirmado por Andrea lo de Raw Studio; el resto, prensa (Santa & Cole, Trendland). |
-| Vereda → Vecina (Eixample) | Andrea | Oportunidad | Vereda ya es un homenaje real al bar de barrio (diseño de A SPACE ABOUT, cubierto en Architizer); el equipo acaba de abrir un obrador nuevo, Vecina. **Dato de Vecina solo confirmado por Andrea (spotting físico/directo) — no lo he encontrado en prensa.** Vereda ya estaba en la base de datos (Julieta Menéndez, Founder, fila existente) — se actualiza esa fila con este gancho en vez de crear una nueva, para no duplicar el contacto. |
-| Viblioteca (Gràcia) | Andrea | Inspiración | Bar de vino y queso desde 2008: +60 quesos de leche cruda, carta de vino por copas que cambia cada mes, sin cocina caliente. Verificado por WebSearch (Indagare, En Primeur Club). |
-| Cervecería 640 / Seis Cuarenta (Av. Diagonal) | Claude (WebSearch) | Oportunidad | Eugeni de Diego (ex-elBulli, también Lombo y Wilmot) abrió esta cervecería en diciembre 2025; Time Out (enero 2026) dice que "lo está petando sin clientela turista". Verificado (Ara, Time Out, Indagare). |
-| Margarit (Poble-sec) | Claude (WebSearch) | Inspiración | Abrieron en 2024 en el local del antiguo Bar Margarit; cocina de raíz griega con técnica, de Stefano Balis y Jordi Fenoll. Mejor Restaurante en los Time Out Barcelona Food & Drink 2025. Verificado (Neo2, Time Out). |
+| Baldomero (Eixample) | Andrea | Inspiración | Lo que más nos llamó la atención es cómo habéis convertido un garaje del Eixample en una granja urbana con alma propia, compartiendo el espacio con Raw Studio para los desayunos sin que ningún concepto pierda su identidad. |
+| Vereda → Vecina (Eixample) | Andrea | Oportunidad | Nos parece admirable que, teniendo ya un concepto tan cuidado como Vereda, hayáis seguido construyendo y abierto Vecina — esa forma de no quedaros quietos es justo lo que más nos gusta ver en un proyecto. **Dato de Vecina solo confirmado por Andrea (spotting físico/directo) — no lo he encontrado en prensa.** Vereda ya estaba en la base de datos (Julieta Menéndez, Founder, fila existente) — se actualiza esa fila con este gancho en vez de crear una nueva, para no duplicar el contacto. |
+| Viblioteca (Gràcia) | Andrea | Inspiración | Lleváis casi 20 años siendo radicalmente específicos — vino y queso, nada más — y en un sector que tiende a querer ofrecerlo todo, eso nos parece una lección de identidad. |
+| Cervecería 640 / Seis Cuarenta (Av. Diagonal) | Claude (WebSearch) | Oportunidad | Que abráis una cervecería de barrio después de Lombo y Wilmot, y que esté funcionando sin depender del turista, nos parece la prueba de que un concepto honesto y bien pensado sigue ganando. |
+| Margarit (Poble-sec) | Claude (WebSearch) | Inspiración | Admiramos haber traído una cocina de raíz griega con tanta técnica a un barrio como Poble-sec, y que en poco más de un año os hayáis ganado el reconocimiento de Mejor Restaurante en los Time Out BCN Food & Drink. |
 
 **Candidatos investigados pero descartados de esta tanda de 5** (quedan en
 reserva para la siguiente, sin gancho perdido): Bellafila (Ciutat Vella,
