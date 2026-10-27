@@ -704,3 +704,33 @@ siguiendo la regla de no usar datos de cliente inventados como si fueran
 reales. **Pendiente: pedir a Andrea/cocina la carta real de bebidas y el
 listado real de consumibles (con sus unidades) para sustituir las filas
 de ejemplo** antes de usar esta plantilla en producción.
+
+## 2026-10-27 — Sección 4 (Layout operativo) desarrollada con esquema real
+
+Andrea mandó una captura de la pantalla "Seleccionar Mesa" del TPV de
+Plaza República Dominicana, anotada a mano por el equipo con entrada,
+cafetera, TPV, zona de montaje de comida y terraza. Guardada en
+`fuentes/layout-plaza-republica-dominicana/esquema-tpv-anotado-2026-10-27.webp`.
+No es un plano de arquitecto (sin paredes, puertas ni escala, y no
+muestra el interior del obrador), pero sí da por primera vez la posición
+real de los puntos clave de la zona de cliente.
+
+Con ese esquema, Andrea definió un cambio de diseño y modelo operativo
+concreto, redactado en las secciones a-h de `## 4. Layout operativo`:
+eliminar el tostador de la barra, acceso diferenciado al TPV (camarero
+por la derecha, cocina/barista por la izquierda), comandero visible
+para cocina/barista, y un runner condicional según volumen (en
+Plaza República Dominicana) que para un local nuevo podría ser un rol
+fijo desde el arranque, coordinado por radio.
+
+**Pendiente de decidir:** el comandero y el runner actualizan, de
+hecho, lo que dicen hoy 7.c (Ticketing) y 7.d (Pase y entrega) — ambas
+secciones afirman explícitamente que Lady Madrid no usa protocolo
+adicional de ticketing ni figura de expedidor. Queda señalado dentro
+del propio documento (final de 4.f); falta decidir si se actualizan
+7.c/7.d en una pasada aparte.
+
+Siguen abiertas, igual que antes: foto/plano del interior del obrador
+(4.c), visita de TBNB a sala en hora punta para confirmar circulaciones
+y puntos críticos (4.b/4.f), fotos de señalética (4.e), y el mismo tipo
+de dato (esquema + modelo) para Parquesur (4.h).

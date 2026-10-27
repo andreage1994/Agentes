@@ -537,72 +537,114 @@ producción, relación entre áreas. Esta sección habla de algo más
 físico: cómo está pensado el espacio en el que pasa todo eso — las
 mesas, la barra, la zona donde se prepara lo que llega a cada mesa.
 
-Lo que tenemos documentado hoy, con dato real, es la distribución de
-mesas de Plaza República Dominicana tal como la usa nuestro propio
-TPV. Lo que no tenemos todavía es un plano completo del local — por
-dónde se entra, cómo se cruzan los pasillos, dónde están exactamente
-la cocina, el obrador, el almacén o los baños. Así que en los
-apartados donde ese plano hace falta de verdad, lo decimos con la
-misma honestidad con la que hemos tratado cualquier otro hueco de
-este documento: explicamos qué recogería ese apartado y qué nos haría
-falta levantar para documentarlo de verdad, en vez de inventar un
-recorrido que no conocemos.
+Además de la distribución de mesas del TPV que ya teníamos, contamos
+ahora con un esquema real de Plaza República Dominicana: el propio
+equipo anotó a mano, sobre esa misma pantalla, dónde está la entrada,
+la cafetera, el TPV, la zona de montaje de comida y la terraza. No es
+un plano de arquitecto — no tiene paredes, puertas ni medidas a escala,
+y no muestra cómo está organizado el obrador/cocina por dentro — pero
+sí da, por primera vez, la posición real de los puntos que más
+importan para esta sección. En los apartados donde todavía hace falta
+más (el interior del obrador, los baños, el almacén), seguimos con la
+misma honestidad de siempre: decimos qué falta y qué haría falta
+levantar, en vez de inventarlo.
 
 ### a. Diseño de flujos
 
-Este apartado debería contar cómo se cruzan, dentro del espacio físico,
-los tres recorridos que ya hemos descrito en otras secciones: por dónde
-entra y se mueve un cliente (recorrido de servicio, 2.d), por dónde se
-mueve el equipo entre barra, sala y obrador (3.c), y por dónde viaja el
-producto desde que se prepara hasta que llega a la mesa (3.e). Para
-contarlo bien no basta con saber qué mesas hay — hace falta saber dónde
-está la puerta de entrada, dónde la barra respecto a esa puerta, y por
-dónde entra y sale el equipo de la zona de producción. Hoy no tenemos
-ese plano. Queda como pregunta abierta: ¿nos puede pasar Propiedad un
-plano del local (aunque sea un boceto a mano) que marque entrada,
-barra, obrador/cocina y almacén, para poder dibujar de verdad cómo se
-cruzan estos tres recorridos?
+Con el esquema anotado ya podemos decir algo real sobre cómo se cruzan,
+en el espacio físico de Plaza República Dominicana, los tres recorridos
+que describimos en otras secciones: el del cliente (2.d), el del
+equipo (3.c) y el del producto (3.e).
+
+La entrada está junto a la barra, en el extremo derecho de la fila de
+mesas de sala (al lado de B1-B2) — el cliente entra prácticamente al
+lado de donde se sirve el café. La cafetera y la zona de montaje de
+comida están en el extremo opuesto, a la izquierda, y el TPV queda en
+medio de las dos.
+
+A partir de este esquema, Andrea y Sergio proponen un cambio de diseño
+concreto, que es también la base del modelo operativo que quieren
+implantar:
+
+- **Eliminar el tostador de la barra**, para liberar espacio de
+  trabajo en ese punto (ver también g, Ergonomía).
+- **El TPV se hace accesible por dos lados distintos, cada uno para
+  una función:** el camarero o camarera entra al TPV por la derecha
+  — el mismo lado por el que entra el cliente —, y cocina/barista
+  acceden por la izquierda, desde la zona de cafetera/montaje de
+  comida.
+
+La razón de este cambio es de flujo, no estética: hoy, cualquiera que
+necesite usar el TPV —tome la comanda o recoja un pedido— se acerca al
+mismo punto desde direcciones que pueden cruzarse. Separar el acceso
+por función hace que el camino del camarero (cliente → TPV → mesa) y
+el camino de cocina/barista (producción → montaje → punto de entrega)
+no tengan que pisarse en el sitio donde, como ya veremos en f, es más
+fácil que el servicio se atasque.
+
+Esto no sustituye la necesidad de un plano completo del local —seguimos
+sin saber por dónde entra y sale el equipo de la zona de producción
+propiamente dicha, más allá del punto de montaje (ver c)— pero sí nos
+permite diseñar con fundamento el punto de mayor actividad del local,
+que es el que más pesaba de los tres recorridos.
 
 ### b. Circulaciones
 
-Aquí se describirían los pasillos y zonas de paso del local: por dónde
-camina el equipo para llegar de la barra a cada mesa sin cruzarse entre
-sí en hora punta, y por dónde se mueve un cliente para llegar al baño o
-salir a la terraza sin atravesar una zona de trabajo. Es un apartado
-que depende por completo de conocer la distribución física real —
-anchos de paso, puntos de cruce, puertas — y de verlo en
-funcionamiento, no solo dibujado. No tenemos ese dato. Pregunta
-abierta: cuando tengamos el plano de 4.a, ¿tiene sentido acompañarlo de
-una visita de TBNB a sala en hora punta, para ver dónde se producen los
-cruces reales y no solo los que parecen obvios sobre el papel?
+Con lo que ya sabemos, podemos describir las circulaciones principales,
+aunque sigue faltando ver el servicio en marcha para confirmar que
+funcionan como se han pensado sobre el papel (ver f):
+
+- **Cliente:** entra por la derecha, junto a la barra. Desde ahí puede
+  quedarse en barra (B1-B2), sentarse en sala (mesas 3 a 10, o las más
+  apartadas, mesa 1 y 2) o cruzar hasta la terraza, la zona más alejada
+  tanto de la entrada como del punto de montaje de comida.
+- **Camarero/a:** recorre el camino cliente → TPV (por el lado
+  derecho) → mesa, y a la inversa en la entrega cuando no la lleva
+  directamente desde el punto de montaje.
+- **Barista/cocina:** trabajan desde el extremo izquierdo (cafetera,
+  montaje de comida) y acceden al TPV por ese mismo lado, sin cruzar el
+  camino del camarero.
+
+Lo que seguimos sin poder confirmar sin verlo en vivo es la terraza: al
+ser la zona más alejada tanto de la entrada como del punto de montaje,
+recorre el camino más largo para cualquier entrega — bebida, comida, o
+la propia atención del camarero. Esto refuerza lo que ya apunta f sobre
+que la terraza tiende a quedarse sin cobertura en los momentos de más
+afluencia.
 
 ### c. Back of House
 
-De esto sí sabemos algo, aunque no todo. Confirmamos en la sección 3
-que la producción no está centralizada: cada local tiene su propio
-equipo de producción (su propia Thermomix, por ejemplo) y su propio
-obrador, separado del espacio donde está el cliente. Eso nos dice que
-existe una zona de trabajo diferenciada — pero no nos dice cómo está
-distribuida por dentro: dónde se amasa, dónde se hornea, dónde se
-guarda materia prima, cómo se organiza el paso de cocina/obrador a
-sala. Para desarrollar esto de verdad necesitaríamos fotos o un plano
-de la zona de producción de Plaza República Dominicana, y entender
-cómo se mueve hoy el equipo ahí dentro. Mientras no lo tengamos, nos
-quedamos con lo que ya es seguro — que el back of house existe como
-espacio propio y diferenciado — sin inventar su distribución exacta.
+Gracias al esquema anotado, ahora sabemos algo que antes no sabíamos:
+dónde está el punto exacto donde el back of house entrega al front of
+house — la zona de **montaje de comida**, en el extremo izquierdo del
+local, junto a la cafetera. Es el punto de transición real entre
+producción y servicio.
+
+Lo que seguimos sin saber es qué hay detrás de ese punto: cómo está
+distribuido el obrador/cocina por dentro (dónde se amasa, dónde se
+hornea, dónde se guarda materia prima, cómo se mueve hoy el equipo ahí
+dentro). El esquema que tenemos es de la zona de cliente vista desde el
+TPV, no del obrador. Pregunta abierta, igual que antes: ¿nos podéis
+pasar una foto o un plano de la zona de producción, ahora que ya
+sabemos exactamente por dónde entra y sale lo que prepara?
 
 ### d. Front of House
 
-Esto sí lo podemos desarrollar con dato real, porque es justo la
-información que ya usa nuestro TPV en Plaza República Dominicana. El
-espacio de cliente se organiza en tres zonas:
+Esta sección ya la teníamos desarrollada con dato real del TPV. El
+esquema anotado añade ahora la posición de los puntos de servicio
+dentro de esa misma zona de cliente:
 
 - **Sala/fachada**, con 10 mesas (Mesa 1 a Mesa 10), pensadas para 3
-  personas cada una.
-- **Barra**, con 2 taburetes (B1-B2), para quien prefiere tomar algo
-  rápido sin sentarse a mesa.
+  personas cada una. Las mesas 1 y 2 quedan algo apartadas del resto,
+  más cerca de la entrada que de las mesas 3 a 10.
+- **Barra**, con 2 taburetes (B1-B2), junto a la entrada.
 - **Terraza**, aparte, junto a las palmeras, con 6 mesas (T1-T6),
   pensadas para 2 personas cada una.
+- **TPV**, en el centro de la zona de cliente, con el acceso
+  diferenciado que describimos en a.
+- **Cafetera y punto de montaje de comida**, en el extremo izquierdo
+  — dentro del front of house, aunque funcionalmente son el punto de
+  entrega del back of house.
 
 No es solo una lista de mesas: cada zona vive el recorrido de servicio
 de 2.d de forma un poco distinta. En barra, el "acomodo en mesa" casi
@@ -614,60 +656,107 @@ es justo el tipo de matiz que después se concretará en el Operations
 Playbook — aquí lo que fijamos es que las zonas existen, cuáles son, y
 que no todas se atienden igual de "a la vista".
 
+Con el tostador fuera de la barra, ese punto queda con más espacio de
+trabajo — un cambio pequeño que ayuda directamente a que el nuevo
+diseño de accesos al TPV (a) funcione sin que el mobiliario lo
+entorpezca.
+
 ### e. Señalética
 
-Este apartado recogería cómo se orienta un cliente dentro del local sin
-tener que preguntar: dónde está la carta expuesta, cómo se distingue la
-zona de terraza de la de sala, cómo se señala el baño, si hay algo que
-indique "aquí se pide en barra" frente a "aquí te atendemos en mesa".
-Es información que depende de ver el local tal como está hoy, con
-fotos o una visita — no se puede documentar desde un plano de mesas.
-Pregunta abierta: ¿puede Andrea o Blanca mandarnos unas fotos del
-local actual — entrada, barra, zona de terraza — para saber qué
-señalética ya existe y cuál falta, antes de entrar en esto?
+Esto sigue dependiendo de ver el local tal como está hoy —fotos o
+visita—, pero el nuevo dato cambia una cosa: al estar la entrada justo
+al lado de la barra, el cliente que entra puede dudar, en los primeros
+segundos, si el sitio funciona en barra (pedir y quedarse en el
+taburete) o en mesa (esperar a que le atiendan) — justo la distinción
+que ya señalábamos como pregunta abierta. Con la entrada tan próxima a
+B1-B2, esta señal importa más de lo que pensábamos antes de tener el
+esquema. Sigue en pie la pregunta: ¿puede Andrea o Blanca mandarnos
+fotos de la entrada y la barra para ver qué señalética existe hoy?
 
 ### f. Puntos críticos
 
-Aquí se describirían los puntos del local donde es más fácil que el
-servicio se atasque: por ejemplo, si la barra se convierte en cuello de
-botella cuando coincide la gente que pide para llevar con la que
-prepara bebidas para mesa, o si la zona de terraza, al estar aparte,
-tiende a quedarse sin cobertura en los momentos de más afluencia que ya
-identificamos en 6.d (la mañana de fin de semana, el pico de
-16:00-19:00h). Son los puntos donde la polivalencia de 3.c tiene que
-demostrar que funciona de verdad. No podemos señalarlos con precisión
-sin haber visto el servicio en marcha. Pregunta abierta: cuando
-observemos el servicio en sala (ya previsto en 2.d, prioridad 4, como
-forma de confirmar que el recorrido se sigue de verdad), ¿aprovechamos
-esa misma visita para anotar dónde se atasca el servicio en la
-práctica?
+Con el esquema y el modelo operativo que propone Andrea, ya podemos ser
+más concretos que antes sobre dónde se atasca el servicio y qué se está
+haciendo para evitarlo.
+
+**El punto de TPV/cafetera/montaje de comida** es, con diferencia, el
+de mayor actividad del local: ahí convergen la toma de comanda, la
+entrega del ticket a cocina y a cafetera, y la recogida de lo que ya
+está listo. El cambio de diseño de a (accesos diferenciados, tostador
+fuera) responde directamente a este riesgo.
+
+Sobre ese mismo punto, el modelo operativo que propone Andrea añade dos
+piezas más, que no son solo de layout sino de cómo se trabaja en él:
+
+- **Comandero visible para cocina y barista.** Cada ticket impreso (de
+  cocina y de cafetera, por separado, como ya fija 7.c) se coloca en un
+  comandero con visibilidad clara de todas las comandas pendientes,
+  para que cocina y barista organicen su propio orden de trabajo sin
+  depender de que alguien se lo recuerde verbalmente.
+- **Runner condicional según volumen.** En momentos de alto volumen,
+  una persona (runner) se dedica a acercar bebida y comida a todas las
+  mesas, incluida la terraza — la zona con el camino más largo, ya
+  señalada en b como la más expuesta a quedarse sin cobertura. En días
+  tranquilos no hace falta esa figura: el propio camarero, cocina o
+  barista llevan el pedido, según el principio de polivalencia ya
+  fijado en 3.c. No es un puesto fijo nuevo en Plaza República
+  Dominicana — es una función que se activa o no según la demanda del
+  turno, igual que el resto del reparto de funciones.
+
+**Nota de consistencia, pendiente de cerrar:** el comandero y el runner
+condicional son desarrollo concreto de algo que 7.c y 7.d dejaban como
+pregunta abierta ("documentar el problema concreto antes de definir un
+ajuste"), pero esas dos secciones, tal como están hoy, dicen
+explícitamente que Lady Madrid "no incorpora una figura de expedidor"
+ni "un protocolo adicional de ticketing". Con este modelo, eso ya no es
+del todo exacto — el comandero es justo ese protocolo adicional, y el
+runner, aunque condicional y no sea un puesto fijo, cumple parte de lo
+que haría un expedidor. Lo dejamos señalado aquí; falta decidir si se
+actualizan 7.c y 7.d en la misma pasada o en otra.
+
+Sigue pendiente, como ya decíamos, observar el servicio en marcha para
+confirmar que este diseño funciona en la práctica y no solo sobre el
+esquema.
 
 ### g. Ergonomía
 
-Esto hablaría de cómo está pensado el espacio de trabajo para quien
-está detrás: la altura de la barra, la distancia entre la máquina de
-café y el molino, si hay sitio suficiente en el obrador para trabajar
-sin estorbarse, si las zonas de paso del equipo son cómodas en hora
-punta. Es, de los ocho apartados, el que más depende de ver el espacio
-en persona — no se puede evaluar ergonomía sobre un plano de mesas de
-cliente. Pregunta abierta: cuando se levante el plano completo del
-local (4.a) y se visite la zona de producción (4.c), ¿tiene sentido que
-esa misma visita incluya una mirada a la ergonomía de los puestos de
-trabajo, en vez de hacer una visita aparte solo para esto?
+Eliminar el tostador de la barra es, en sí mismo, una mejora de
+ergonomía directa: libera espacio de trabajo en el punto más saturado
+del local (ver f). Más allá de esto, seguimos sin poder evaluar la
+ergonomía completa del puesto de barista (altura de la máquina de café,
+distancia al molino) ni la del obrador, porque eso exige ver el espacio
+en persona. Pregunta abierta, igual que antes: cuando se visite la zona
+de producción (c), ¿aprovechamos esa misma visita para mirar también la
+ergonomía de los puestos de trabajo?
 
 ### h. Capacidad operativa
 
-Esto también lo podemos cerrar con dato real. Sumando las tres zonas de
-4.d, Plaza República Dominicana tiene una capacidad de **~44 plazas**:
-30 en sala/fachada (10 mesas × 3 personas), 2 en barra, y 12 en terraza
-(6 mesas × 2 personas). Esta cifra no vive aislada — es la misma que ya
-usamos en la sección 6.d para calcular cuánto equipo hace falta en cada
-franja de servicio, y la que da sentido a los tiempos de referencia de
-2.c (no es lo mismo servir a 44 plazas con la plantilla de una mañana
-tranquila que con la de un sábado a tope). Lo que sí queda pendiente,
-igual que en el resto del documento, es tener esta misma foto de
-Parquesur: hoy sabemos su staffing, pero no su aforo ni su distribución
-por zonas, así que esta sección de Layout operativo solo se puede dar
+Esto lo mantenemos con el mismo dato real que ya teníamos: **~44
+plazas** en Plaza República Dominicana (30 en sala/fachada, 2 en barra,
+12 en terraza). Esta cifra no vive aislada — es la misma que ya usamos
+en la sección 6.d para calcular cuánto equipo hace falta en cada franja
+de servicio, y la que da sentido a los tiempos de referencia de 2.c.
+
+Lo que añade el nuevo modelo operativo es una palanca más para
+gestionar esa capacidad en los momentos de más afluencia (la mañana de
+fin de semana, el pico de 16:00-19:00h, ya identificados en 6.d): el
+runner condicional de f da una forma de cubrir las 44 plazas —sobre
+todo las 12 de terraza, las más alejadas del punto de montaje— sin
+aumentar la plantilla fija, activando esa función solo cuando el
+volumen lo pide.
+
+**Para un local nuevo**, el mismo modelo se puede llevar un paso más
+allá, dependiendo del tamaño: en vez de que el runner sea una función
+condicional dentro del equipo ya existente, puede plantearse como un
+rol fijo desde el arranque, coordinado por radio con cocina y barista.
+Esto evita tener que sumar, además del runner, una figura de
+comunicación/expedidor aparte — la radio cumple esa función. Es una
+decisión de diseño para cuando haya un local nuevo sobre la mesa, no
+algo que aplique hoy a Plaza República Dominicana ni a Parquesur tal
+como están.
+
+Seguimos sin tener esta misma foto de capacidad y distribución para
+Parquesur, así que esta sección de Layout operativo solo se puede dar
 por cerrada del todo para Plaza República Dominicana.
 
 ---
