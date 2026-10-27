@@ -61,6 +61,8 @@ ningún dashboard de marketing puede evolucionar de "mapa de estructura" a
 | Analítica / conversión | — | Sin responsable humano asignado, sin datos |
 | Editorial / posicionamiento (Hospitality Report) | Sergio + Andrea | — |
 | Aprobación de marca | Andrea + Sergio | — |
+| Web / WordPress (mantenimiento técnico) | **Angel Vicedo** (freelancer externo, [angelvicedo.com](https://www.angelvicedo.com/)) | Ver `marketing-tbnb-web-wordpress.md` — primer encargo en curso desde 2026-10-27 |
+| SEM / Google Ads | Gestor externo | Ver `marketing-tbnb-sem-google-ads.md` |
 
 ## Próximos 3 pasos recomendados
 
