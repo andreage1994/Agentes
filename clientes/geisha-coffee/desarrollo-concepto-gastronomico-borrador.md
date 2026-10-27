@@ -271,13 +271,20 @@ diferencia.
 - *Producción:* horneado en lote en producción (horno convectivo),
   enfriado y porcionado abajo; en sala solo emplatado, con calentado
   opcional en grill tostador.
-- *Matiz Geisha (identidad):* un topping ligero de kinako (harina de soja
-  tostada, sabor dulce a fruto seco) o un crumble de sésamo negro (goma)
-  sobre la pieza — matiz pequeño, coherente con un formato de compromiso
-  bajo, que no cambia el producto base ni el proceso. *Nota: añade un
-  ingrediente nuevo a la lista de compra sin escandallo propio hoy —
-  revisar coste con `culinary-development` junto al resto de huecos de
-  food cost.*
+- *Matiz Geisha (identidad) — dos opciones, a elegir una o mantener ambas en
+  rotación:*
+  1. **Kinako** (harina de soja tostada) — topping fino en polvo, dulce,
+     sabor a fruto seco tostado; combina mejor sobre una base neutra o
+     mantecosa.
+  2. **Sésamo negro (goma)** — crumble con más textura y un punto
+     tostado/amargo; combina mejor sobre una base con algo de dulzor propio
+     (p. ej. un toque de miel o mantequilla).
+
+  Matiz pequeño en los dos casos, coherente con un formato de compromiso
+  bajo, que no cambia el producto base ni el proceso. *Nota: cualquiera de
+  las dos añade un ingrediente nuevo a la lista de compra sin escandallo
+  propio hoy — revisar coste con `culinary-development` junto al resto de
+  huecos de food cost.*
 
 **2. "Dupla Filtro + Repostería" (pairing formalizado en carta)**
 - *Por qué:* el propio dato de pairing señala CheeseCake, Banana Bread y
