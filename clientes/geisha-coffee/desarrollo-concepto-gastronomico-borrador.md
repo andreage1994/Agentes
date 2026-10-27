@@ -20,10 +20,21 @@ referencias ya validadas técnicamente (incluida la capa de identidad
 japonesa y el producto definitivo de la referencia 20). Las secciones 1-3
 no se modifican de fondo en esta pasada.
 
-**Actualización 2026-10-27:** a petición de Andrea se añaden dos
-referencias nuevas, la 21 ("Ensalada de Temporada") y la 22 ("Energy Balls
-Geisha"), que pasan el total de 20 a 22 candidatas. A diferencia de las 20
-anteriores, **estas dos todavía no han pasado por la validación técnica de
+**Actualización 2026-10-27 (primera pasada):** a petición de Andrea se
+añaden dos referencias nuevas, la 21 ("Ensalada de Temporada") y la 22
+("Energy Balls Geisha"), que pasan el total de 20 a 22 candidatas.
+
+**Actualización 2026-10-27 (segunda pasada):** a petición de Andrea
+("3 opciones más creativas") se añaden tres referencias más — 23 ("Danesa
+Españolizada"), 24 ("Shakshuka Flamenca") y 25 ("Smørrebrød Ibérico") —,
+que pasan el total a 25 candidatas. Estas tres abren un segundo eje de
+identidad, distinto del Acento Geisha japonés: toman un formato
+internacional ya reconocible (danesa, shakshuka, smørrebrød) y lo
+reconstruyen con producto español (ver sección 3.5, nota después de la
+referencia 25, y territorio 6 en la sección 4.1).
+
+A diferencia de las 20 referencias originales, **las 23, 24 y 25 (y
+también la 21 y la 22) todavía no han pasado por la validación técnica de
 `culinary-development`** — están redactadas con la misma lógica y
 restricciones de cocina ya conocidas (sin fogón, producción abajo/montaje
 en sala), pero su proceso, tiempos y food cost quedan pendientes de
@@ -765,23 +776,100 @@ concreto, definido hoy a petición de Andrea)**
 
 ---
 
+**23. "Danesa Españolizada" (bollería danesa con relleno español)**
+- *Por qué:* incorporación creativa pedida por Andrea (2026-10-27), sin
+  histórico de venta propio. La danesa (bollería laminada tipo Danish
+  pastry) es un formato ya reconocible y de bajo riesgo para el cliente —
+  en vez del relleno genérico (crema pastelera, manzana), se reinterpreta
+  con relleno 100% español, para dar un producto diferenciado en vitrina
+  sin inventar un formato nuevo desde cero.
+- *Función:* Captación / diferenciación de vitrina (producto reconocible,
+  con una historia de producto propia que contar).
+- *Producción:* masa laminada formada y horneada en producción (horno
+  convectivo); relleno preparado en producción, incorporado antes o
+  después del horneado según la variante; en sala solo expuesta en
+  vitrina, igual que el resto de bollería. **Pendiente de confirmar con
+  `culinary-development`** antes de estandarizar.
+- *Identidad (española, no la capa Geisha japonesa):* dos variantes de
+  relleno, a elegir o en rotación — **membrillo y queso** (combinación
+  clásica española de sobremesa) o **sobrasada y miel** (dulce-salado
+  mallorquín). Si es sobrasada, `culinary-development` debe confirmar si
+  aguanta el horneado de la masa sin que se queme la grasa, o si hay que
+  incorporarla después.
+
+**24. "Shakshuka Flamenca" (shakshuka con alma de huevos a la flamenca)**
+- *Por qué:* el shakshuka (huevos escalfados en salsa de tomate
+  especiada), formato internacional en tendencia de brunch, coincide casi
+  por completo con los huevos a la flamenca españoles — en vez de
+  importar la receta magrebí/israelí tal cual, se construye sobre la base
+  española (sofrito, pimentón, chorizo o jamón) y se presenta con el
+  formato visual del shakshuka, que es lo que está en tendencia ahora.
+  Incorporación creativa, sin histórico propio.
+- *Función:* Captación (formato de tendencia en brunch) + Ticket medio
+  (plato de sartén individual, mayor entidad que una tosta).
+- *Producción:* sofrito de tomate y pimentón elaborado en producción, en
+  lote, se conserva; el huevo se escalfa en la propia salsa ya caliente.
+  **Pendiente de confirmar con `culinary-development`** si esto es viable
+  sin fogón en sala (p. ej. salsa calentada en sartén sobre la placa de
+  inducción pequeña y huevo cascado directamente, o terminado en horno
+  convectivo de producción y solo regenerado en sala).
+- *Identidad (española, no la capa Geisha japonesa):* pimentón, chorizo o
+  jamón y sofrito español — el matiz aquí es "huevos a la flamenca con
+  nombre y formato de shakshuka", no un acento japonés.
+
+**25. "Smørrebrød Ibérico" (tosta abierta estilo danés con producto
+español)**
+- *Por qué:* el smørrebrød (tosta abierta nórdica, muy visual, en formato
+  individual) es un formato internacional reconocible que encaja con la
+  lógica ya validada de las tostas de Geisha (Serrano, Ibérico) — da un
+  formato nuevo y vistoso a producto que la casa ya sabe trabajar, no un
+  ingrediente nuevo. Incorporación creativa, sin histórico propio.
+- *Función:* Captación (formato visual, diferenciador) + Ticket medio.
+- *Producción:* pan de centeno o similar tostado en grill en sala;
+  montaje en frío (jamón ibérico, tomate rallado, aceite de oliva virgen)
+  en sala, sin cocción — mismo tipo de montaje ya validado en la
+  referencia 6. **Pendiente de confirmar con `culinary-development`** si
+  el pan de centeno requiere algún ajuste de compra/proveedor nuevo.
+- *Identidad (española, no la capa Geisha japonesa):* jamón ibérico,
+  tomate rallado y aceite de oliva virgen — formato nórdico, producto e
+  identidad españoles.
+
+---
+
+**Nota sobre esta terna (23-25) — segunda capa de identidad, distinta del
+Acento Geisha japonés:** a petición de Andrea, estas tres referencias no
+llevan la capa de identidad japonesa de las secciones anteriores — llevan
+una identidad española sobre un formato internacional reconocible (danesa,
+shakshuka, smørrebrød). Es un territorio de producto nuevo, no una
+sustitución del Acento Geisha: ambas capas pueden convivir en la carta
+final, pero no se mezclan dentro de la misma referencia (ninguna de estas
+tres pieza lleva matiz japonés, y viceversa). Si en el futuro se quiere
+combinar ambas identidades en una sola pieza (p. ej. una danesa con relleno
+de yuzu), es una decisión de carta a tomar explícitamente, no algo que este
+documento asuma por defecto.
+
+---
+
 **Resumen de la capa de identidad añadida (actualizado 2026-10-27):** de
-las 22 referencias, 18 incorporan un matiz japonés concreto (1, 4, 5, 6, 7,
-8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21 y 22), y la referencia 20 pasa
-de no tener producto a construirse directamente sobre esta misma
-identidad. Se deja explícitamente sin matiz: la 2 (ya cubierto por las
-referencias que agrupa), la 3 (su valor es precisamente ser clásica y sin
-fricción) y la 19 (su valor es ser la opción más barata y simple de toda la
-lista). Esta capa es una capa de sabor e identidad sobre la misma
-arquitectura y los mismos datos de venta ya descritos en 3.1-3.4 — no
-cambia qué referencia resuelve qué problema de negocio, solo cómo sabe y se
+las 25 referencias totales, 18 incorporan el acento japonés Geisha (1, 4,
+5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21 y 22), y la
+referencia 20 pasa de no tener producto a construirse directamente sobre
+esta misma identidad. Se deja explícitamente sin ningún matiz de
+identidad: la 2 (ya cubierto por las referencias que agrupa), la 3 (su
+valor es precisamente ser clásica y sin fricción) y la 19 (su valor es ser
+la opción más barata y simple de toda la lista). Las referencias 23, 24 y
+25 llevan, en cambio, la segunda capa de identidad española descrita justo
+arriba — no cuentan ni como "con acento japonés" ni como "sin identidad".
+Esta capa es una capa de sabor e identidad sobre la misma arquitectura y
+los mismos datos de venta ya descritos en 3.1-3.4 — no cambia qué
+referencia resuelve qué problema de negocio, solo cómo sabe y se
 diferencia. Igual que el resto del documento, ningún matiz debe tratarse
 como cerrado hasta que `culinary-development` confirme viabilidad de los
 puntos señalados explícitamente arriba — sobre todo: el caramelo de miso
-(referencias 18 y 20), el paso de preparación añadido en la 11, la
-validación completa, de cero, de la referencia 20, y la validación
-completa, también de cero, de las referencias 21 y 22, que a diferencia de
-las primeras 20 no pasaron todavía por `culinary-development`.
+(referencias 18 y 20), el paso de preparación añadido en la 11, y la
+validación completa, de cero, de las referencias 20, 21, 22, 23, 24 y 25,
+que a diferencia de las primeras 19 no pasaron todavía por
+`culinary-development`.
 
 ---
 
@@ -802,9 +890,13 @@ candidatas:
 - Las referencias de **ticket medio/upsell** (5, 7, 8, 9, 13, 17) se
   posicionan como extras de precio pequeño sobre una base ya existente —
   suman al ticket sin que el cliente perciba una subida de precio del
-  plato base. La 21 (Ensalada de Temporada) no tiene base existente que
-  extender, así que se posiciona directamente como plato completo, al
-  nivel de precio de las referencias 7 y 9.
+  plato base. La 21 (Ensalada de Temporada), la 24 (Shakshuka Flamenca) y
+  la 25 (Smørrebrød Ibérico) no tienen base existente que extender, así
+  que se posicionan directamente como plato completo, al nivel de precio
+  de las referencias 7 y 9 (25, por ser tosta, algo por debajo). La 23
+  (Danesa Españolizada) se posiciona por encima de la bollería de vitrina
+  básica (Croissant, Banana Bread), coherente con llevar un relleno más
+  elaborado y diferenciado.
 - Las referencias de **ocasión/experiencia** (12) se posicionan en el
   escalón más alto de la carta de comida, coherente con el perfil de la
   tabla compartida y el momento (fin de semana, hostess).
@@ -867,7 +959,7 @@ distinto, y un quinto territorio transversal:
    12.
 5. **Transversal — Acento Geisha (identidad japonesa).** No es un bloque de
    carta ni compite con los cuatro anteriores: es un eje de sabor y
-   narrativa que atraviesa 18 de las 22 referencias, en los cuatro
+   narrativa que atraviesa 18 de las 25 referencias, en los cuatro
    territorios a la vez. **Este eje es, en sí mismo, un territorio de
    producto que diferencia a Geisha de sus tres competidores directos de
    café (Nubra, The Fix, Davob)** — ninguno de ellos tiene, hasta donde
@@ -878,6 +970,15 @@ distinto, y un quinto territorio transversal:
    Geisha una razón de ser distinta a "croissant y bowls como cualquier
    otra cafetería de especialidad", coherente con el propio nombre de la
    marca.
+6. **Transversal — clásico internacional, alma española.** Segundo eje de
+   identidad, añadido el 2026-10-27, que atraviesa las referencias 23
+   ("Danesa Españolizada"), 24 ("Shakshuka Flamenca") y 25 ("Smørrebrød
+   Ibérico"). No sustituye ni se mezcla con el Acento Geisha (punto 5): es
+   un territorio distinto, que toma un formato internacional ya reconocible
+   (danesa, shakshuka, smørrebrød) y lo reconstruye con producto e
+   identidad española. Sirve a los mismos públicos que el resto de la
+   carta, pero por una vía distinta — el reconocimiento del formato, no el
+   dato de venta existente ni la narrativa del nombre Geisha.
 
 ### 4.2 Familias de producto — Producto → Función principal
 
@@ -899,6 +1000,7 @@ diseño de carta (sección 6) y a la decisión de recorte de 20 a 10.
 | 19. Mini Viennoiserie de Vitrina | Captación + Conversión |
 | 20. Ritual Semanal (Tartaleta de Autor) | Recurrencia + ancla de identidad de marca |
 | 22. Energy Balls Geisha | Conversión / captación de ticket pequeño |
+| 23. Danesa Españolizada | Captación / diferenciación de vitrina |
 
 **Familia: Tostas** (puente vitrina-plato, ticket medio-bajo)
 
@@ -924,6 +1026,8 @@ diseño de carta (sección 6) y a la decisión de recorte de 20 a 10.
 | 9. Benedict Eggs — variante | Ticket medio + Recurrencia |
 | 16. Nueva referencia salada ligera | Ticket medio / Conversión |
 | 21. Ensalada de Temporada | Captación (mujer 25-35) + Ticket medio |
+| 24. Shakshuka Flamenca | Captación (tendencia) + Ticket medio |
+| 25. Smørrebrød Ibérico | Captación (formato visual) + Ticket medio |
 
 **Familia: Compartible / Ocasión** (ticket medio alto, fin de semana)
 
