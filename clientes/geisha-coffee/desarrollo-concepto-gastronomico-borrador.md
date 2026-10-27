@@ -20,6 +20,16 @@ referencias ya validadas técnicamente (incluida la capa de identidad
 japonesa y el producto definitivo de la referencia 20). Las secciones 1-3
 no se modifican de fondo en esta pasada.
 
+**Actualización 2026-10-27:** a petición de Andrea se añaden dos
+referencias nuevas, la 21 ("Ensalada de Temporada") y la 22 ("Energy Balls
+Geisha"), que pasan el total de 20 a 22 candidatas. A diferencia de las 20
+anteriores, **estas dos todavía no han pasado por la validación técnica de
+`culinary-development`** — están redactadas con la misma lógica y
+restricciones de cocina ya conocidas (sin fogón, producción abajo/montaje
+en sala), pero su proceso, tiempos y food cost quedan pendientes de
+confirmar formalmente antes de estandarizarlas, igual que se hizo con el
+resto de referencias en su momento.
+
 ---
 
 ## 1. Resumen Ejecutivo
@@ -700,21 +710,78 @@ concreto, definido hoy a petición de Andrea)**
 
 ---
 
-**Resumen de la capa de identidad añadida (2026-10-22):** de las 20
-referencias, 16 incorporan un matiz japonés concreto (1, 4, 5, 6, 7, 8, 9,
-10, 11, 12, 13, 14, 15, 16, 17 y 18), y la referencia 20 pasa de no tener
-producto a construirse directamente sobre esta misma identidad. Se deja
-explícitamente sin matiz: la 2 (ya cubierto por las referencias que
-agrupa), la 3 (su valor es precisamente ser clásica y sin fricción) y la 19
-(su valor es ser la opción más barata y simple de toda la lista). Esta capa
-es una capa de sabor e identidad sobre la misma arquitectura y los mismos
-datos de venta ya descritos en 3.1-3.4 — no cambia qué referencia resuelve
-qué problema de negocio, solo cómo sabe y se diferencia. Igual que el resto
-del documento, ningún matiz debe tratarse como cerrado hasta que
-`culinary-development` confirme viabilidad de los puntos señalados
-explícitamente arriba — sobre todo: el caramelo de miso (referencias 18 y
-20), el paso de preparación añadido en la 11, y la validación completa, de
-cero, de la referencia 20.
+**21. "Ensalada de Temporada" (plato colorido, rotación por estación)**
+- *Por qué:* incorporación nueva pedida por Andrea (2026-10-27), sin
+  histórico de venta propio al no existir hoy en carta — se justifica por
+  segmento, no por dato de caída/crecimiento. Va dirigida al mismo
+  público mujer 25-35 que ya captan Açai/Yogur/Berry Bowl (busca
+  experiencia y salud, no es fiel al café en sí), pero en formato de
+  plato salado completo en vez de bowl dulce, y cubre el pico de fin de
+  semana (+39% tickets) con una opción de mayor entidad que las tostas.
+- *Función:* Captación (segmento mujer 25-35, salud/experiencia) + Ticket
+  medio (plato con entidad, ocasión fin de semana).
+- *Producción:* verduras, granos y proteína (si la lleva) lavados,
+  cortados y, si hace falta cocción, pasados por horno convectivo en
+  producción; montaje en frío en sala (mesa refrigerada), sin cocción —
+  mismo tipo de montaje que ya usa la referencia 6. **Pendiente de
+  confirmar con `culinary-development`** antes de estandarizar: volumen
+  de corte diario asumible, y si algún grano de la rotación necesita una
+  cocción larga que, sin fogón, tenga que resolverse en horno o en lote
+  grande el día anterior (mismo tipo de ajuste ya resuelto para otras
+  referencias de esta lista).
+- *Matiz Geisha (identidad):* vinagreta de miso y yuzu como aderezo base,
+  con un toque final de sésamo negro o furikake al servir — el matiz vive
+  en el aderezo y el topping, no en la verdura o el grano de base, así que
+  la ensalada puede rotar por temporada sin perder la identidad. *Nota de
+  coste: miso, yuzu, sésamo negro y furikake ya aparecen en otras
+  referencias de esta lista (6, 9, 12, 13, 14, 16, 20) — comparten el mismo
+  hueco de food cost ya señalado para esos ingredientes, no suman uno
+  completamente nuevo a la lista de compra.*
+
+**22. "Energy Balls Geisha" (vitrina, producto de impulso)**
+- *Por qué:* incorporación nueva pedida por Andrea (2026-10-27), sin
+  histórico de venta propio. Ataca el mismo hueco de conversión ya
+  señalado para los clientes de espresso, frío especialidad y filtro
+  (28-33% de tickets con comida, por debajo de la media de 36,3%) — mismo
+  papel que la referencia 1 (Mini bollería de acompañamiento), pero sin
+  horneado, con percepción más saludable y a un precio de entrada todavía
+  más bajo.
+- *Función:* Conversión / captación de ticket pequeño (producto de
+  impulso en vitrina).
+- *Producción:* elaboración sin horno en producción — frutos secos, fruta
+  deshidratada/dátiles y un ligante (p. ej. mantequilla de frutos secos)
+  triturados y prensados a mano en bolas, refrigerados y porcionados; en
+  sala solo expuestas en vitrina, sin montaje. Previsiblemente de las más
+  simples de las 22 (sin cocción, sin equipo de sala), en la misma línea
+  que la referencia 19 — **a confirmar formalmente con
+  `culinary-development` antes de estandarizar**, igual que el resto de
+  referencias nuevas de esta lista.
+- *Matiz Geisha (identidad):* dos variantes en rotación — una con matcha
+  (color verde natural, sin colorante) y otra con sésamo negro y kinako —
+  ambas combinaciones ya habituales en energy balls de tendencia, no una
+  invención. *Nota de coste: matcha, sésamo negro y kinako ya aparecen en
+  otras referencias de esta lista (1, 8, 10, 11, 14, 17, 20) — mismo hueco
+  de food cost ya señalado, no suman un ingrediente completamente nuevo.*
+
+---
+
+**Resumen de la capa de identidad añadida (actualizado 2026-10-27):** de
+las 22 referencias, 18 incorporan un matiz japonés concreto (1, 4, 5, 6, 7,
+8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21 y 22), y la referencia 20 pasa
+de no tener producto a construirse directamente sobre esta misma
+identidad. Se deja explícitamente sin matiz: la 2 (ya cubierto por las
+referencias que agrupa), la 3 (su valor es precisamente ser clásica y sin
+fricción) y la 19 (su valor es ser la opción más barata y simple de toda la
+lista). Esta capa es una capa de sabor e identidad sobre la misma
+arquitectura y los mismos datos de venta ya descritos en 3.1-3.4 — no
+cambia qué referencia resuelve qué problema de negocio, solo cómo sabe y se
+diferencia. Igual que el resto del documento, ningún matiz debe tratarse
+como cerrado hasta que `culinary-development` confirme viabilidad de los
+puntos señalados explícitamente arriba — sobre todo: el caramelo de miso
+(referencias 18 y 20), el paso de preparación añadido en la 11, la
+validación completa, de cero, de la referencia 20, y la validación
+completa, también de cero, de las referencias 21 y 22, que a diferencia de
+las primeras 20 no pasaron todavía por `culinary-development`.
 
 ---
 
@@ -726,14 +793,18 @@ candidatas:
 
 - **No se tocan los precios de las referencias existentes.** El movimiento
   de ticket viene del mix, no del pricing.
-- Las referencias de **conversión** (1, 2, 3, 11, 16, 19) se posicionan en
-  el rango de entrada más bajo posible — su función es bajar la fricción
-  de decisión para el cliente de solo bebida, no maximizar margen por
-  unidad.
+- Las referencias de **conversión** (1, 2, 3, 11, 16, 19, 22) se posicionan
+  en el rango de entrada más bajo posible — su función es bajar la
+  fricción de decisión para el cliente de solo bebida, no maximizar margen
+  por unidad. La 22 (Energy Balls), al no tener una base existente sobre la
+  que montarse, debe fijar su propio precio de entrada — más bajo que la
+  referencia 1, coherente con ser un producto sin horneado.
 - Las referencias de **ticket medio/upsell** (5, 7, 8, 9, 13, 17) se
   posicionan como extras de precio pequeño sobre una base ya existente —
   suman al ticket sin que el cliente perciba una subida de precio del
-  plato base.
+  plato base. La 21 (Ensalada de Temporada) no tiene base existente que
+  extender, así que se posiciona directamente como plato completo, al
+  nivel de precio de las referencias 7 y 9.
 - Las referencias de **ocasión/experiencia** (12) se posicionan en el
   escalón más alto de la carta de comida, coherente con el perfil de la
   tabla compartida y el momento (fin de semana, hostess).
@@ -778,12 +849,12 @@ distinto, y un quinto territorio transversal:
    Benedict Eggs/Tosta Aguacate). Ataca directamente el hueco de conversión
    de los ~29.500 tickets de solo bebida, con prioridad en filtro (33% con
    comida), espresso (28,3%) y frío especialidad (28,0%) — las tres bebidas
-   peor convertidas. Referencias: 1, 2, 3, 13.
+   peor convertidas. Referencias: 1, 2, 3, 13, 22.
 2. **Plato con entidad.** Comida de ocasión completa, ticket medio alto,
    construida sobre los dos mayores crecimientos reales de la carta
    (Sandwich de pollo +102%, Benedict Eggs +14-16%) más una sustitución del
-   peor comportamiento salado (Sandwich Kimchi). Referencias: 7, 9, 16; y,
-   en su vertiente de tosta "de plato", 5 y 6.
+   peor comportamiento salado (Sandwich Kimchi). Referencias: 7, 9, 16, 21;
+   y, en su vertiente de tosta "de plato", 5 y 6.
 3. **Vitrina viva.** Repostería y bollería de autoservicio en rotación de
    sabor o formato, para que el bloque de mayor volumen de la carta (el que
    hoy sostiene el grab&go) no se perciba como estático mientras varias de
@@ -796,7 +867,7 @@ distinto, y un quinto territorio transversal:
    12.
 5. **Transversal — Acento Geisha (identidad japonesa).** No es un bloque de
    carta ni compite con los cuatro anteriores: es un eje de sabor y
-   narrativa que atraviesa 16 de las 20 referencias, en los cuatro
+   narrativa que atraviesa 18 de las 22 referencias, en los cuatro
    territorios a la vez. **Este eje es, en sí mismo, un territorio de
    producto que diferencia a Geisha de sus tres competidores directos de
    café (Nubra, The Fix, Davob)** — ninguno de ellos tiene, hasta donde
@@ -827,6 +898,7 @@ diseño de carta (sección 6) y a la decisión de recorte de 20 a 10.
 | 18. Brownie Reforzado | Posicionamiento (nueva ocasión) + Ticket medio |
 | 19. Mini Viennoiserie de Vitrina | Captación + Conversión |
 | 20. Ritual Semanal (Tartaleta de Autor) | Recurrencia + ancla de identidad de marca |
+| 22. Energy Balls Geisha | Conversión / captación de ticket pequeño |
 
 **Familia: Tostas** (puente vitrina-plato, ticket medio-bajo)
 
@@ -851,6 +923,7 @@ diseño de carta (sección 6) y a la decisión de recorte de 20 a 10.
 | 7. Sandwich de Pollo Deluxe | Ticket medio + Tractor de tráfico |
 | 9. Benedict Eggs — variante | Ticket medio + Recurrencia |
 | 16. Nueva referencia salada ligera | Ticket medio / Conversión |
+| 21. Ensalada de Temporada | Captación (mujer 25-35) + Ticket medio |
 
 **Familia: Compartible / Ocasión** (ticket medio alto, fin de semana)
 
