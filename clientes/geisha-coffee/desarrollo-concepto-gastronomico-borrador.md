@@ -271,8 +271,10 @@ diferencia.
 - *Producción:* horneado en lote en producción (horno convectivo),
   enfriado y porcionado abajo; en sala solo emplatado, con calentado
   opcional en grill tostador.
-- *Matiz Geisha (identidad) — dos opciones, a elegir una o mantener ambas en
-  rotación:*
+- *Matiz Geisha (identidad) — dos opciones de producto, a elegir una o
+  mantener ambas en carta como dos piezas distintas:*
+
+  **Opción A — con topping (seca, crujiente):**
   1. **Kinako** (harina de soja tostada) — topping fino en polvo, dulce,
      sabor a fruto seco tostado; combina mejor sobre una base neutra o
      mantecosa.
@@ -280,11 +282,21 @@ diferencia.
      tostado/amargo; combina mejor sobre una base con algo de dulzor propio
      (p. ej. un toque de miel o mantequilla).
 
-  Matiz pequeño en los dos casos, coherente con un formato de compromiso
-  bajo, que no cambia el producto base ni el proceso. *Nota: cualquiera de
-  las dos añade un ingrediente nuevo a la lista de compra sin escandallo
-  propio hoy — revisar coste con `culinary-development` junto al resto de
-  huecos de food cost.*
+  **Opción B — con relleno (cremosa, más jugosa):** un relleno de crema de
+  matcha o de curd de yuzu (a elegir uno), inyectado en el centro de la
+  pieza o servido en quenelle al lado. Misma técnica de preparación ya
+  validada por `culinary-development` en las referencias 11 y 20 (microondas
+  en tandas cortas, o baño maría en el horno convectivo; si es matcha, con
+  tamizado y disolución previa) — no exige ningún equipo ni proceso nuevo.
+
+  Las dos opciones cumplen igual la función de "entrada de comida de
+  compromiso bajo" — A es más seca y crujiente, B más cremosa y jugosa; se
+  pueden ofrecer como dos piezas de carta distintas si interesa dar
+  variedad dentro del mismo papel, o elegir solo una. *Nota de coste: tanto
+  el topping (kinako/sésamo negro) como el relleno (matcha/yuzu) añaden un
+  ingrediente nuevo a la lista de compra sin escandallo propio hoy —
+  revisar con `culinary-development` junto al resto de huecos de food
+  cost.*
 
 **2. "Dupla Filtro + Repostería" (pairing formalizado en carta)**
 - *Por qué:* el propio dato de pairing señala CheeseCake, Banana Bread y
