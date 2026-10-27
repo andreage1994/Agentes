@@ -26,12 +26,15 @@ añaden dos referencias nuevas, la 21 ("Ensalada de Temporada") y la 22
 
 **Actualización 2026-10-27 (segunda pasada):** a petición de Andrea
 ("3 opciones más creativas") se añaden tres referencias más — 23 ("Danesa
-Españolizada"), 24 ("Shakshuka Flamenca") y 25 ("Smørrebrød Ibérico") —,
-que pasan el total a 25 candidatas. Estas tres abren un segundo eje de
+Españolizada"), 24 ("Shakshuka Geisha") y 25 ("Smørrebrød Ibérico") —, que
+pasan el total a 25 candidatas. La 23 y la 25 abren un segundo eje de
 identidad, distinto del Acento Geisha japonés: toman un formato
-internacional ya reconocible (danesa, shakshuka, smørrebrød) y lo
-reconstruyen con producto español (ver sección 3.5, nota después de la
-referencia 25, y territorio 6 en la sección 4.1).
+internacional ya reconocible (danesa, smørrebrød) y lo reconstruyen con
+producto español (ver sección 3.5, nota después de la referencia 25, y
+territorio 6 en la sección 4.1). La 24 (Shakshuka) se pensó primero con
+esa misma identidad española, pero se reformuló el mismo día, a petición
+de Andrea, para llevar un acento japonés en su lugar — se suma así al
+Acento Geisha (sección 4.1, punto 5) en vez de abrir un eje propio.
 
 A diferencia de las 20 referencias originales, **las 23, 24 y 25 (y
 también la 21 y la 22) todavía no han pasado por la validación técnica de
@@ -797,25 +800,33 @@ concreto, definido hoy a petición de Andrea)**
   aguanta el horneado de la masa sin que se queme la grasa, o si hay que
   incorporarla después.
 
-**24. "Shakshuka Flamenca" (shakshuka con alma de huevos a la flamenca)**
+**24. "Shakshuka Geisha" (shakshuka con un acento japonés)**
 - *Por qué:* el shakshuka (huevos escalfados en salsa de tomate
-  especiada), formato internacional en tendencia de brunch, coincide casi
-  por completo con los huevos a la flamenca españoles — en vez de
-  importar la receta magrebí/israelí tal cual, se construye sobre la base
-  española (sofrito, pimentón, chorizo o jamón) y se presenta con el
-  formato visual del shakshuka, que es lo que está en tendencia ahora.
-  Incorporación creativa, sin histórico propio.
+  especiada), formato internacional en tendencia de brunch, mantiene el
+  mismo papel en la carta — plato de sartén individual, de tendencia,
+  mayor entidad que una tosta —, pero reformulado a petición de Andrea
+  (2026-10-27) para llevar un acento japonés en vez de la base española
+  pensada en la primera versión. Pasa así a sumarse al territorio
+  transversal del Acento Geisha (sección 4.1, punto 5) en vez de abrir un
+  eje propio. Incorporación creativa, sin histórico de venta propio.
 - *Función:* Captación (formato de tendencia en brunch) + Ticket medio
   (plato de sartén individual, mayor entidad que una tosta).
-- *Producción:* sofrito de tomate y pimentón elaborado en producción, en
-  lote, se conserva; el huevo se escalfa en la propia salsa ya caliente.
-  **Pendiente de confirmar con `culinary-development`** si esto es viable
-  sin fogón en sala (p. ej. salsa calentada en sartén sobre la placa de
-  inducción pequeña y huevo cascado directamente, o terminado en horno
-  convectivo de producción y solo regenerado en sala).
-- *Identidad (española, no la capa Geisha japonesa):* pimentón, chorizo o
-  jamón y sofrito español — el matiz aquí es "huevos a la flamenca con
-  nombre y formato de shakshuka", no un acento japonés.
+- *Producción:* salsa de tomate elaborada en producción, en lote, se
+  conserva; el huevo se escalfa en la propia salsa ya caliente. **Pendiente
+  de confirmar con `culinary-development`** si esto es viable sin fogón en
+  sala (p. ej. salsa calentada en sartén sobre la placa de inducción
+  pequeña y huevo cascado directamente, o terminado en horno convectivo de
+  producción y solo regenerado en sala) — misma duda técnica que antes, no
+  cambia con el matiz.
+- *Matiz Geisha (identidad):* la salsa de tomate se construye con un toque
+  de miso (profundidad umami, combinación real ya habitual en salsas de
+  tomate de tendencia, no una invención) y se termina con un crumble de
+  sésamo negro o un toque de shichimi togarashi al servir — un acento
+  tostado o ligeramente picante, sin convertir el plato en una fusión
+  forzada. *Nota de coste: miso, sésamo negro y shichimi togarashi ya
+  aparecen en otras referencias de esta lista (6, 9, 12, 13, 14, 16, 18,
+  20, 21) — comparten el mismo hueco de food cost ya señalado, no suman un
+  ingrediente completamente nuevo.*
 
 **25. "Smørrebrød Ibérico" (tosta abierta estilo danés con producto
 español)**
@@ -836,30 +847,36 @@ español)**
 
 ---
 
-**Nota sobre esta terna (23-25) — segunda capa de identidad, distinta del
-Acento Geisha japonés:** a petición de Andrea, estas tres referencias no
+**Nota sobre esta pareja (23 y 25) — segunda capa de identidad, distinta
+del Acento Geisha japonés:** a petición de Andrea, estas dos referencias no
 llevan la capa de identidad japonesa de las secciones anteriores — llevan
 una identidad española sobre un formato internacional reconocible (danesa,
-shakshuka, smørrebrød). Es un territorio de producto nuevo, no una
-sustitución del Acento Geisha: ambas capas pueden convivir en la carta
-final, pero no se mezclan dentro de la misma referencia (ninguna de estas
-tres pieza lleva matiz japonés, y viceversa). Si en el futuro se quiere
-combinar ambas identidades en una sola pieza (p. ej. una danesa con relleno
-de yuzu), es una decisión de carta a tomar explícitamente, no algo que este
-documento asuma por defecto.
+smørrebrød). Es un territorio de producto nuevo, no una sustitución del
+Acento Geisha: ambas capas pueden convivir en la carta final, pero no se
+mezclan dentro de la misma referencia (ninguna de estas dos piezas lleva
+matiz japonés, y viceversa). La 24 (Shakshuka), que inicialmente formaba
+parte de esta misma terna con identidad española, se reformuló después a
+petición de Andrea para llevar acento japonés en su lugar — ver más abajo
+en el resumen de identidad, ya cuenta como Acento Geisha, no como parte de
+este territorio. Si en el futuro se quiere combinar ambas identidades en
+una sola pieza (p. ej. una danesa con relleno de yuzu), es una decisión de
+carta a tomar explícitamente, no algo que este documento asuma por
+defecto.
 
 ---
 
 **Resumen de la capa de identidad añadida (actualizado 2026-10-27):** de
-las 25 referencias totales, 18 incorporan el acento japonés Geisha (1, 4,
-5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21 y 22), y la
-referencia 20 pasa de no tener producto a construirse directamente sobre
-esta misma identidad. Se deja explícitamente sin ningún matiz de
-identidad: la 2 (ya cubierto por las referencias que agrupa), la 3 (su
-valor es precisamente ser clásica y sin fricción) y la 19 (su valor es ser
-la opción más barata y simple de toda la lista). Las referencias 23, 24 y
-25 llevan, en cambio, la segunda capa de identidad española descrita justo
-arriba — no cuentan ni como "con acento japonés" ni como "sin identidad".
+las 25 referencias totales, 19 incorporan el acento japonés Geisha (1, 4,
+5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 22 y 24 — esta
+última, reformulada después de su primera versión, que llevaba identidad
+española), y la referencia 20 pasa de no tener producto a construirse
+directamente sobre esta misma identidad. Se deja explícitamente sin ningún
+matiz de identidad: la 2 (ya cubierto por las referencias que agrupa), la
+3 (su valor es precisamente ser clásica y sin fricción) y la 19 (su valor
+es ser la opción más barata y simple de toda la lista). Las referencias 23
+y 25 llevan, en cambio, la segunda capa de identidad española descrita
+justo arriba — no cuentan ni como "con acento japonés" ni como "sin
+identidad".
 Esta capa es una capa de sabor e identidad sobre la misma arquitectura y
 los mismos datos de venta ya descritos en 3.1-3.4 — no cambia qué
 referencia resuelve qué problema de negocio, solo cómo sabe y se
@@ -890,7 +907,7 @@ candidatas:
 - Las referencias de **ticket medio/upsell** (5, 7, 8, 9, 13, 17) se
   posicionan como extras de precio pequeño sobre una base ya existente —
   suman al ticket sin que el cliente perciba una subida de precio del
-  plato base. La 21 (Ensalada de Temporada), la 24 (Shakshuka Flamenca) y
+  plato base. La 21 (Ensalada de Temporada), la 24 (Shakshuka Geisha) y
   la 25 (Smørrebrød Ibérico) no tienen base existente que extender, así
   que se posicionan directamente como plato completo, al nivel de precio
   de las referencias 7 y 9 (25, por ser tosta, algo por debajo). La 23
@@ -959,7 +976,7 @@ distinto, y un quinto territorio transversal:
    12.
 5. **Transversal — Acento Geisha (identidad japonesa).** No es un bloque de
    carta ni compite con los cuatro anteriores: es un eje de sabor y
-   narrativa que atraviesa 18 de las 25 referencias, en los cuatro
+   narrativa que atraviesa 19 de las 25 referencias, en los cuatro
    territorios a la vez. **Este eje es, en sí mismo, un territorio de
    producto que diferencia a Geisha de sus tres competidores directos de
    café (Nubra, The Fix, Davob)** — ninguno de ellos tiene, hasta donde
@@ -972,13 +989,15 @@ distinto, y un quinto territorio transversal:
    marca.
 6. **Transversal — clásico internacional, alma española.** Segundo eje de
    identidad, añadido el 2026-10-27, que atraviesa las referencias 23
-   ("Danesa Españolizada"), 24 ("Shakshuka Flamenca") y 25 ("Smørrebrød
-   Ibérico"). No sustituye ni se mezcla con el Acento Geisha (punto 5): es
-   un territorio distinto, que toma un formato internacional ya reconocible
-   (danesa, shakshuka, smørrebrød) y lo reconstruye con producto e
-   identidad española. Sirve a los mismos públicos que el resto de la
-   carta, pero por una vía distinta — el reconocimiento del formato, no el
-   dato de venta existente ni la narrativa del nombre Geisha.
+   ("Danesa Españolizada") y 25 ("Smørrebrød Ibérico") — la 24 (Shakshuka)
+   se pensó inicialmente dentro de este territorio, pero se reformuló el
+   mismo día con acento japonés y pasó al punto 5. No sustituye ni se
+   mezcla con el Acento Geisha: es un territorio distinto, que toma un
+   formato internacional ya reconocible (danesa, smørrebrød) y lo
+   reconstruye con producto e identidad española. Sirve a los mismos
+   públicos que el resto de la carta, pero por una vía distinta — el
+   reconocimiento del formato, no el dato de venta existente ni la
+   narrativa del nombre Geisha.
 
 ### 4.2 Familias de producto — Producto → Función principal
 
@@ -1026,7 +1045,7 @@ diseño de carta (sección 6) y a la decisión de recorte de 20 a 10.
 | 9. Benedict Eggs — variante | Ticket medio + Recurrencia |
 | 16. Nueva referencia salada ligera | Ticket medio / Conversión |
 | 21. Ensalada de Temporada | Captación (mujer 25-35) + Ticket medio |
-| 24. Shakshuka Flamenca | Captación (tendencia) + Ticket medio |
+| 24. Shakshuka Geisha | Captación (tendencia) + Ticket medio |
 | 25. Smørrebrød Ibérico | Captación (formato visual) + Ticket medio |
 
 **Familia: Compartible / Ocasión** (ticket medio alto, fin de semana)
