@@ -24,56 +24,38 @@ no se modifican de fondo en esta pasada.
 
 ## 1. Resumen Ejecutivo
 
-Geisha Specialty Coffee tiene un problema de negocio muy concreto, y los
-cinco años de datos de venta (Loyverse) lo dejan ver con claridad: **el café
+Geisha Specialty Coffee tiene un problema de negocio concreto: **el café
 funciona, la comida se está quedando atrás.** El ticket medio sube cada año
-(7,20€ en 2022 a 9,75€ en los últimos 12 meses) casi enteramente tirado por el
-café — y en particular por el filtro, que crece +27% en unidades y +31% en
-ingreso y ya es el 15% del ingreso de bebida con solo el 6% de las unidades.
-La comida, en cambio, cae: -7% en unidades y -5% en euros en el último año, y
-el porcentaje de tickets que llevan comida baja de 41% (2024) a 37% (2025) y
-34-36% en el local nuevo. De los ~47.800 tickets anuales, unos **29.500 son
-hoy de solo bebida** — ese es, literalmente, el público objetivo de todo este
-desarrollo gastronómico.
+(7,20€ en 2022 a 9,75€ ahora) tirado casi solo por el café — sobre todo por
+el filtro, que crece +27% en unidades y ya es el 15% del ingreso de bebida
+con solo el 6% de las unidades —, mientras la comida cae (-7% en unidades,
+-5% en euros en el último año) y el % de tickets con comida baja de 41% a
+37% (34-36% en el local nuevo). De los ~47.800 tickets anuales, unos
+**29.500 son hoy de solo bebida**: ese es el público objetivo de este
+desarrollo.
 
-La buena noticia es que ese problema tiene una palanca clara y ya validada
-por el propio comportamiento del cliente: un ticket con comida factura
-14,39€ frente a 7,11€ sin ella, así que cada punto de conversión que se
-recupere vale aproximadamente 480 tickets con comida al año. El objetivo de
-negocio del cliente — subir el ticket medio de 10€ a 13-15€ **sin tocar
-precios** — se resuelve así: con mix de producto y con conversión a comida,
-no con pricing.
+La palanca ya está validada por el propio dato: un ticket con comida
+factura 14,39€ frente a 7,11€ sin ella. El objetivo del cliente — subir el
+ticket medio de 10€ a 13-15€ **sin tocar precios** — se resuelve con mix de
+producto y conversión a comida, no con pricing.
 
-Este documento propone una dirección gastronómica que no inventa un
-posicionamiento nuevo: parte del que Geisha ya tiene (el café es el centro,
-la comida acompaña discretamente sin perder calidad, "el mejor producto al
-mejor precio posible") y lo traduce en una arquitectura de carta y en **20
-referencias candidatas** ancladas, cada una, en un dato real de venta
-concreto — qué crece, qué cae, qué pairing ya existe de forma natural y qué
-hueco de conversión hay que cerrar. Las 20 referencias ya pasaron por la
-validación técnica de `culinary-development` (viabilidad de espacio y
-equipamiento, y food cost donde hay dato real), incluida una capa de
-identidad propia —matices pequeños de especia o técnica tradicional
-japonesa, coherentes con el nombre Geisha— que hoy toca a 16 de las 20. El
-cliente y Andrea/Sergio seleccionarán de estas 20 las 10 que entran dentro
-del alcance contratado de AR02.
+Este documento no inventa un posicionamiento nuevo: parte del que Geisha ya
+tiene (el café es el centro, la comida acompaña sin perder calidad) y lo
+traduce en **20 referencias candidatas**, cada una anclada en un dato real
+de venta y validada técnicamente por `culinary-development`, incluida una
+capa de identidad japonesa (matices de especia o técnica tradicional,
+coherentes con el nombre Geisha) que hoy toca a 16 de las 20. El cliente y
+Andrea/Sergio seleccionarán de estas 20 las 10 que entran en el alcance de
+AR02. Las secciones 4 a 7 organizan estas referencias en territorios de
+producto, las sitúan frente al mercado con el dato disponible, las traducen
+en recomendaciones de diseño de carta y dejan un plan de siguientes pasos
+antes de pasar a RU06.
 
-Las secciones 4 a 7 de este documento (Product Strategy, Estrategia
-Económica, Recomendaciones para Diseño de Carta y Siguientes Pasos) cierran
-el desarrollo del concepto: organizan las 20 referencias en territorios y
-familias de producto, sitúan la propuesta frente al mercado competitivo con
-el dato real disponible (sin inventar el que no existe), la traducen en
-recomendaciones concretas para quien diseñe la carta física, y dejan un plan
-de siguientes pasos accionable antes de pasar a RU06.
-
-**Aviso de carácter consultivo:** esta propuesta es una dirección
-estratégica y de producto, no una garantía de resultado comercial ni de
-rentabilidad futura. La viabilidad técnica (espacio, equipamiento, tiempos
-de producción) ya la validó `culinary-development`, pero el food cost
-depende de escandallos que hoy no están actualizados (los últimos son de
-hace 6 años, y los ingredientes nuevos de la capa de identidad japonesa no
-tienen ni proveedor ni escandallo todavía). Ninguna referencia ni ningún
-precio de este documento debe darse por cerrado hasta resolver esos huecos.
+**Aviso de carácter consultivo:** esta propuesta es dirección estratégica y
+de producto, no garantía de resultado comercial. La viabilidad técnica ya
+está validada; el food cost depende de escandallos desactualizados (6 años)
+y de ingredientes nuevos sin proveedor ni escandallo todavía. Ningún precio
+ni referencia debe darse por cerrado hasta resolver esos huecos.
 
 ---
 
