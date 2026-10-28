@@ -235,6 +235,97 @@ keywords marcadas Failed antes de sacar conclusiones sobre ellas.
 2. Relanzar las keywords que dieron "Failed." esta vez.
 3. Añadir las keywords de traspasos a la lista de 102.
 
+## Workshop web 2026-10-28 — datos reales de GSC y GA4, con acceso directo
+
+Primera vez que Andrea/Sergio tienen acceso propio a GA4 y Search
+Console y lo cruzamos en vivo. Esto **resuelve con dato real**, no con
+RankTank, varias preguntas que llevaban abiertas desde octubre.
+
+### Cannibalización "consultoria hosteleria" — RESUELTO
+
+Search Console (3 y 6 meses), filtro de query exacto "consultoria
+hosteleria", desglosado por página:
+
+| Página | Impresiones (query exacto) | Posición |
+|---|---|---|
+| `/consultoria-hosteleria-en-barcelona/` | 127 | **3,56** |
+| Home (`/`) | 94 | 28,74 |
+| `/equipo/` | 59 | 78,69 (ruido, irrelevante) |
+| `/consultoria-hosteleria-en-madrid/` | 9 | 12,89 |
+
+Confirmado: **Barcelona gana la keyword, no el Home.** No es sesgo de
+ubicación de RankTank — es Search Console real, sin simular ubicación.
+Recomendación: no reoptimizar el Home para este término exacto (dejarlo
+a Barcelona), y revisar si el Home lo repite en title/H1 sin necesidad.
+
+### `/marketing-gastronomico/` — orfandad confirmada por partida doble
+
+Ausente por completo del informe de Pages sin filtrar, tanto en 3 como
+en 6 meses (de 165 y 195 URLs respectivamente). No es un problema de
+posición, es que no existe para Google. Pendiente de cerrar la URL
+correcta (ver `plan-de-accion-seo.md`) antes de reconstruir y enlazar
+internamente.
+
+### `/traspasos/` — visible pero empeorando
+
+3 meses: 3 clics, 175 impr., posición 36. 6 meses: 6 clics, 754 impr.,
+posición **54** — más impresiones pero peor posición media. La keyword
+de mayor volumen de todo el research (1.600/mes) sigue sin una página
+fuerte propia; el contenido relacionado está repartido en
+`/traspasos/`, `/comprar-restaurante-traspaso/`, `/comprar-un-restaurante/`
+en vez de concentrado.
+
+### Hallazgo nuevo: el blog es el motor real de SEO del sitio
+
+Estable en 6 meses (no es un pico puntual): "Cómo calcular la
+rentabilidad de un negocio de hostelería" rankea en posición ~6,95-6,98
+de forma consistente, muy por delante de cualquier página de servicio.
+El Home, en cambio, se mantiene exactamente en posición ~32,8 en ambas
+ventanas — estructural, no ruido.
+
+### Hallazgo nuevo: contenido fragmentado/casi duplicado
+
+Mismo ángulo de rentabilidad publicado en 3 páginas distintas
+(`/rentabilidad-restaurante-lleno-sin-beneficios/`,
+`/restaurante-factura-pero-no-gana/`,
+`/tu-restaurante-esta-lleno-pero-no-ganas-dinero/`). **Riesgo
+inmediato:** ya existe `/licencias-de-apertura-de-restaurantes/` (pos.
+33) casi sobre el mismo tema que el artículo nuevo sin publicar
+`licencias-para-abrir-un-restaurante.md` — antes de publicarlo hay que
+decidir fusión/redirección, no sacarlo como página nueva suelta.
+
+### GA4 — conversión real, pero mal configurada hasta hoy
+
+Los eventos de conversión reales (`click_agendar_cita`, `click_whatsapp`,
+el embudo de Calendly) **no estaban marcados como "Key event"** en GA4
+Admin — por eso cualquier informe estándar enseñaba 0 conversiones en
+todas las páginas, aunque sí estaban pasando. Corregido hoy en vivo
+(Admin → Events → Recent events → estrella en cada uno).
+
+**Dato real del embudo (1 sept - 28 oct, ventana fiable tras el ajuste de
+conversiones de inicio de septiembre):** 30 clics en "agendar cita" → 16
+vieron el calendario de Calendly → 10 eligieron día → 8 eligieron hora →
+**5 reuniones agendadas de verdad**. Más 7 clics a WhatsApp, 3 a email.
+**Sí hay conversión real** — la alarma inicial de "0 conversiones en
+todo el sitio" era un artefacto de configuración, no la realidad.
+
+**Hallazgo de fricción real:** `form_start` (7) → `form_submit` (1) — de
+7 personas que empiezan el formulario de contacto, solo 1 lo termina.
+Pendiente de investigar por qué.
+
+**Pendiente, no resuelto hoy:** qué página exacta lleva a cada clic de
+"agendar cita"/WhatsApp (la tarjeta de GA4 "Event count by Page path"
+dio error interno repetido durante el workshop). Repetir cuando GA4 no
+esté fallando.
+
+### Nota de seguridad para Angel (de paso, no bloquea SEO)
+
+Entre las URLs indexadas/con tráfico aparecen rutas de escaneo típicas
+de bots: `/phpinfo2.php`, `/wp-admin+`, `/wp-adminb`, `/rdobots.txt`, y
+una URL de login de WordPress con token (`/wp-login.php?itsec-hb-token=...`)
+indexada por Google. Volumen bajo, pero conecta con la revisión de
+seguridad ya pendiente con Angel (`marketing-tbnb-web-wordpress.md`).
+
 ## Próxima entrega
 
 Mismo formato, mes de octubre — cadencia mensual ya acordada.

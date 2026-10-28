@@ -39,25 +39,20 @@ cambia en este plan:
 Nada de esto es crear contenido nuevo — es SEO técnico/on-page sobre
 páginas que ya están construidas.
 
-1. **Resolver la (posible) canibalización del Home — pendiente de un
-   escaneo limpio antes de decidir nada.** El primer escaneo de RankTank
-   mostraba "consultoria hosteleria" (960/mes) sin rankear en ninguna
-   página; el segundo, hecho con la ubicación fijada en Barcelona, la
-   muestra en posición 1 pero vía la página de Barcelona, no vía el Home.
-   Los dos escaneos no son comparables entre sí (uno mide desde Barcelona,
-   el otro no tenía ubicación fija) — antes de decidir si se reoptimiza
-   el Home o se acepta que las páginas locales son las que funcionan,
-   hace falta relanzar RankTank sin ubicación fija (o con Madrid y
-   Barcelona por separado) para tener una lectura real. Ver el detalle
-   metodológico en `medicion-mensual.md`. Responsable: `seo-arquitectura-web`.
-2. **Investigar por qué `/traspasos/` y `/marketing-gastronomico/` tienen
-   cero impresiones**, pese a existir y recibir tráfico real (Traspasos
-   tuvo 57 vistas en septiembre). No es un problema de posición, es que
-   Google no las muestra ni una vez para sus keywords objetivo
-   (1.600/mes y 700/mes respectivamente, las dos de mayor volumen de todo
-   el research). Revisar indexación, Title/meta, contenido on-page. —
-   *Dato: Search Console, `medicion-mensual.md`.* Responsable:
-   `seo-arquitectura-web`.
+1. **✅ RESUELTO (workshop 2026-10-28), con dato real de Search Console
+   (no RankTank).** `/consultoria-hosteleria-en-barcelona/` gana la
+   keyword "consultoria hosteleria" con posición 3,56; el Home se queda
+   en 28,74, estable en 6 meses — no es ruido, es estructural. No
+   reoptimizar el Home para este término; dejarlo a Barcelona. Detalle
+   completo en `medicion-mensual.md`, sección "Workshop web 2026-10-28".
+2. **✅ EN PARTE RESUELTO (workshop 2026-10-28).**
+   `/marketing-gastronomico/` confirmado como página huérfana total —
+   ausente de 165 y 195 URLs en los informes de 3 y 6 meses de Search
+   Console, no solo con pocas impresiones. `/traspasos/` sí tiene
+   impresiones pero va a peor (posición 36 → 54 entre 3 y 6 meses) y su
+   contenido está repartido en 3 páginas distintas en vez de
+   concentrado. Sigue pendiente: decidir la URL correcta (punto 4) y
+   consolidar el contenido de traspasos antes de enlazar nada.
 3. **Relanzar las 5 keywords que fallaron el escaneo de RankTank**
    (incluida una variante cercana a un término pilar del Home) y
    **confirmar/añadir las keywords de traspasos** a la lista de RankTank
