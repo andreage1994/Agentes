@@ -29,6 +29,28 @@ que la excelencia no depende del talento individual. Depende de procesos,
 cultura y personas que entienden por qué hacen lo que hacen. Hoy esa forma de
 entender la hospitalidad está detrás de cada decisión que tomamos en TBNB.
 
+## Citas más largas, del bloque "Quiénes somos" de /bar-method/ (2026-10-28)
+
+Durante el workshop de revisión de la web, Sergio compartió una captura del
+bloque "Quiénes somos" que ya vive en `/bar-method/` — usa versiones más
+largas de las mismas dos citas de arriba (fuente distinta: la web en vivo,
+no el pptx comercial). Las dos son reales, se documentan ambas sin que una
+sustituya a la otra:
+
+> "Un buen concepto necesita un buen sistema. Sin eso, todo lo demás es
+> improvisar con estilo."
+> — Sergio Alonso, founder
+
+> "La hospitalidad no se improvisa. Se diseña, se entrena y se mantiene.
+> Todos los días."
+> — Andrea Giménez, director of Strategic Operations
+
+El resto del bloque: eyebrow "QUIÉNES SOMOS", titular *"No venimos de una
+agencia. Venimos de la hostelería."*, párrafo *"No hemos aprendido esto
+desde un PowerPoint. Lo hemos aprendido abriendo negocios, gestionando
+equipos, diseñando cartas y viviendo servicios donde cada decisión tiene
+consecuencias reales al día siguiente."*, botón "Conócenos →".
+
 ## Resto del equipo
 
 - **Aleix Montcusi** — Consultor F&B. (Resuelve la duda abierta en
