@@ -16,13 +16,32 @@ dos fuentes propias nuevas, guardadas en `fuentes-propias/`:
    que ya señalaba este documento el 2026-10-02 ("Casi todos los datos macro
    duros... son de EEUU o Francia... sería valioso 1-2 datos equivalentes de
    España") — aquí hay docenas, no solo 1-2.
-2. **`research-copenhague-51-sitios.md`** — observación propia de Andrea y
-   Sergio en su viaje a Copenhague (ya anticipado en este mismo documento el
-   2026-10-02: "es probable que amplíen la edición después"). 51 sitios reales
-   categorizados, con patrones transversales propios ya identificados
-   (ecosistemas de marca tipo Frama/Kadeau/Noma, el patrón repetido de "chef
-   de referencia aterriza en formato casero", el vino natural como columna
-   vertebral de la escena de bares).
+2. **`research-copenhague-51-sitios.md`** — guía de planificación del viaje
+   (Drive, 2026-09-08): 51 sitios reales categorizados antes de viajar, con
+   patrones transversales propios ya identificados (ecosistemas de marca
+   tipo Frama/Kadeau/Noma, el patrón repetido de "chef de referencia
+   aterriza en formato casero", el vino natural como columna vertebral de la
+   escena de bares). Es la lista de qué visitar, no lo que realmente se
+   observó una vez allí.
+3. **`research-copenhague-observacion-in-situ.md`** (añadido 2026-10-29,
+   después de que Andrea preguntara explícitamente si ya teníamos acceso a
+   todo el viaje) — **esta es la fuente fuerte de verdad**: documento propio
+   de Sergio (2026-10-09), 7 tendencias observadas de primera mano en 4
+   locales realmente visitados (Sonny, Pompette, Villette, Cabin) y en la
+   calle, con notas y fotos del equipo — bebida funcional sin alcohol,
+   precio accesible como concepto, carta mínima, espacio en bruto, marca
+   dibujada a mano, modelos de servicio/grupos de marca, fusión sin
+   tematizar. Llegó vía un documento de Claude Docs compartido a media
+   conversación — ya anticipado el 2026-10-02 ("es probable que amplíen la
+   edición después"), ahora confirmado y en el repo.
+
+**Importante para quien siga este trabajo:** hay tres fuentes de Copenhague
+y no son intercambiables — la guía de planificación (#2) dice qué se
+pretendía ver, la observación in situ (#3) dice qué se vio de verdad. Donde
+las dos coincidan (ej. Villette/Pompette aparecen en ambas), usar la
+observación in situ como fuente de verdad del dato concreto (precio,
+servicio) y la guía de planificación solo como contexto/razón de interés
+original.
 
 Pedido explícito de Andrea: integrar todo, no dejarlo como anexo suelto —
 candidato natural para nutrir 02 (The Big Picture, datos España), 03 (The
