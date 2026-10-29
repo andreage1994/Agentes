@@ -126,26 +126,29 @@ se inventa.
 
 ## Semana 3 — 22 de noviembre — origen IG: 22 noviembre, diseño de carta e ingeniería de menú (Rentabilidad incómoda)
 
-**¿Sabes qué platos de tu carta deberías potenciar, cuáles rediseñar y
-cuáles revisar?**
+**¿Cada plato de tu carta está ahí porque decidiste que debía estarlo, o
+porque nadie se ha planteado quitarlo?**
 
-La mayoría de las cartas se diseñan mirando primero la estética —
-fotografía, tipografía, orden visual— y solo después, si queda tiempo, la
-rentabilidad de cada plato.
+Muchos restaurantes deciden qué va en la carta por cómo suena, por lo que
+le gusta a quien la diseña o porque "siempre ha estado ahí" — no por lo que
+ese plato aporta de verdad al negocio.
 
-Los síntomas se repiten: un plato que se vende mucho pero deja poco margen,
-un plato con buen margen que casi nadie pide porque está mal colocado o mal
-descrito, decisiones de carta que se toman "a ojo" en vez de con datos
-reales de ventas y costes.
+Los síntomas se repiten: platos que se mantienen porque el chef o el dueño
+los adora, no porque vendan o dejen margen; novedades que entran en la
+carta por moda o por estética, sin preguntarse qué papel van a jugar;
+decisiones de carta que nunca se revisan porque "siempre se ha hecho así".
 
-En TBNB trabajamos el diseño de carta dentro de la fase Architecture del BAR
-Method aplicando ingeniería de menú — el marco de Kasavana y Smith, que
-cruza popularidad y rentabilidad para decidir qué papel juega cada plato,
-antes de tocar una sola fotografía.
+Una carta necesita coherencia gastronómica — eso no se discute. Pero
+coherencia no es lo mismo que gusto personal. En TBNB trabajamos la carta
+como lo que realmente es para un restaurante: el principal canalizador de
+facturación del negocio. Qué plato se mantiene, cuál se cambia y cuál
+desaparece es una decisión estratégica, no una cuestión de qué le apetece a
+quien la diseña.
 
-¿Sabes qué platos de tu carta son tus estrellas, cuáles necesitan rediseño y
-cuáles conviene revisar a fondo? Podemos cruzar contigo ventas y margen de
-tu carta para decidir qué destacar, qué repensar y qué dejar ir.
+¿Sabes qué plato de tu carta sigue ahí solo porque a alguien le gusta, no
+porque te esté dejando dinero? Podemos revisar contigo, plato a plato, qué
+mantener, qué cambiar y qué dejar ir — pensando en el negocio, no en el
+gusto.
 
 **Caso real:** ninguno con nombre citado en el calendario de noviembre.
 
