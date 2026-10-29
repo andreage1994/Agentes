@@ -58,37 +58,54 @@ repite entre canales.
 
 ## Calendario final coordinado — LinkedIn y GMB, noviembre 2026
 
-**Fechas fijadas por `director-marketing` el 2026-10-29**, a partir del
-plan de cruce de `director-estrategia-marca-comunicacion`
-(`plan-cruce-linkedin-gmb-noviembre.md`) y del copy final ya redactado por
-`director-redaccion`. A diferencia de octubre, noviembre tiene **8 piezas
-de Instagram pero solo 7 temas elegibles para cruzar** (el reel del 15 nov
-no se cruza a ningún canal), así que el tema del 1 de noviembre
-(Transformaciones) se reparte entre LinkedIn y GMB el mismo mes — el único
-solape de tema entre los dos canales. Se decidió mantener ambas piezas en
-la **misma fecha (1 de noviembre)** en vez de desplazar una de las dos: ver
-justificación completa en el bloque "Fechas confirmadas por
-`director-marketing`" de `linkedin/calendario-noviembre.md`.
+**Cerrado editorialmente por Andrea/Sergio el 2026-10-29**, tras varias
+rondas de ajuste sobre el copy ya fijado por fecha (`director-marketing`,
+2026-10-29): la pieza del 1 nov se reenfocó hacia cambio organizacional
+interno con impacto en rentabilidad (protocolos de servicio, orden de
+carta, recepción de proveedores) en vez de "qué dejar de hacer"; la del 4
+nov sustituyó el ángulo de "espacio inacabado" de Atelier September
+(lectura de diseño poco sólida) por cómo el local construye comunidad y
+estilo de vida, verificado con fuentes nuevas (Remodelista, Dezeen,
+Copenhagen Fashion Week); la del 8 nov pasó de dejar la pregunta abierta
+sobre si el trato hospitalario se puede entrenar a una postura clara de
+autoridad — es cultura de servicio definida por el negocio, no suerte al
+contratar; y la pieza GMB del 22 nov se reenfocó de la estética/estructura
+visual de la carta a las decisiones estratégicas sobre qué platos se
+mantienen, cambian o se quitan, con más peso en margen y rentabilidad. No
+se esperan más cambios de contenido salvo que Andrea o Sergio reabran el
+tema. Igual que en octubre, **cerrar el contenido no es aprobarlo para
+publicar** — sigue pendiente la aprobación de publicación pieza por pieza,
+y dos piezas concretas no se pueden aprobar todavía por sus bloqueantes
+heredados (ver más abajo).
+
+A diferencia de octubre, noviembre tiene **8 piezas de Instagram pero solo
+7 temas elegibles para cruzar** (el reel del 15 nov no se cruza a ningún
+canal), así que el tema del 1 de noviembre (Transformaciones) se reparte
+entre LinkedIn y GMB el mismo mes — el único solape de tema entre los dos
+canales. Se decidió mantener ambas piezas en la **misma fecha (1 de
+noviembre)** en vez de desplazar una de las dos: ver justificación completa
+en el bloque "Fechas confirmadas por `director-marketing`" de
+`linkedin/calendario-noviembre.md`.
 
 | Fecha | Canal | Tema origen (Instagram) | Estado de aprobación |
 |---|---|---|---|
-| 1 nov | LinkedIn | 1 nov — Transformaciones antes y después (pieza conceptual) | Pendiente de aprobación Andrea/Sergio |
-| 1 nov | GMB (semana 1) | 1 nov — Transformaciones antes y después (pieza conceptual) | Pendiente de aprobación Andrea/Sergio — mismo día que LinkedIn, decisión intencionada (ver justificación) |
-| 4 nov | LinkedIn | 4 nov — Atelier September (Gastro tendencia) | Pendiente de aprobación Andrea/Sergio |
-| 8 nov | LinkedIn | 8 nov — camarero de barrio (Gastro tradición) | Pendiente de aprobación Andrea/Sergio |
-| 11 nov | GMB (semana 2) | 11 nov — Café Leon Dore (Gastro tendencia) | Pendiente de aprobación Andrea/Sergio |
-| 18 nov | LinkedIn | 18 nov — food cost (Rentabilidad incómoda) | **Bloqueado** — cifra sectorial pendiente de confirmar fuente exacta (sección 5.1 del plan de cruce); no lo decide `director-marketing` |
-| 22 nov | GMB (semana 3) | 22 nov — menu engineering (Rentabilidad incómoda) | Pendiente de aprobación Andrea/Sergio — además pendiente la decisión sobre el caso Gambit Madrid (recomendación de `director-marketing`: no reutilizarlo, ver `google-my-business/calendario-noviembre.md`) |
-| 25 nov | GMB (semana 4) | 25 nov — acuerdos de proveedores (Servicios TBNB) | **Bloqueado** — revisión jurídica obligatoria pendiente de confirmar (sección 5.2 del plan de cruce); no lo decide `director-marketing` |
+| 1 nov | LinkedIn | 1 nov — Transformaciones antes y después (pieza conceptual, reenfocada a cambio organizacional) | Cerrado editorialmente — pendiente de aprobación de publicación |
+| 1 nov | GMB (semana 1) | 1 nov — Transformaciones antes y después (pieza conceptual) | Cerrado editorialmente — mismo día que LinkedIn, decisión intencionada (ver justificación); pendiente de aprobación de publicación |
+| 4 nov | LinkedIn | 4 nov — Atelier September, ángulo de comunidad/estilo de vida (Gastro tendencia) | Cerrado editorialmente — pendiente de aprobación de publicación |
+| 8 nov | LinkedIn | 8 nov — camarero de barrio, cultura de servicio (Gastro tradición) | Cerrado editorialmente — pendiente de aprobación de publicación |
+| 11 nov | GMB (semana 2) | 11 nov — Café Leon Dore (Gastro tendencia) | Cerrado editorialmente — pendiente de aprobación de publicación |
+| 18 nov | LinkedIn | 18 nov — food cost (Rentabilidad incómoda) | Cerrado editorialmente, pero **bloqueado para publicar** — cifra sectorial pendiente de confirmar fuente exacta (sección 5.1 del plan de cruce) |
+| 22 nov | GMB (semana 3) | 22 nov — decisiones de carta/rentabilidad, no estética (Rentabilidad incómoda) | Cerrado editorialmente — pendiente de aprobación de publicación; además pendiente la decisión sobre el caso Gambit Madrid (recomendación de `director-marketing`: no reutilizarlo) |
+| 25 nov | GMB (semana 4) | 25 nov — acuerdos de proveedores (Servicios TBNB) | Cerrado editorialmente, pero **bloqueado para publicar** — revisión jurídica obligatoria pendiente de confirmar (sección 5.2 del plan de cruce) |
 
 No hay huecos ni duplicados involuntarios: LinkedIn ocupa 1, 4, 8 y 18 de
 noviembre; GMB ocupa 1, 11, 22 y 25 de noviembre. El único día compartido
 entre canales (1 de noviembre) es intencionado y está justificado en
-`linkedin/calendario-noviembre.md`. **El calendario de noviembre no se
-puede dar por aprobado todavía** — quedan dos bloqueantes heredados sin
-resolver (18 nov LinkedIn y 25 nov GMB) y una recomendación de
-`director-marketing` sobre el 22 nov GMB (Gambit Madrid) a la espera de
-decisión de Andrea/Sergio.
+`linkedin/calendario-noviembre.md`. **El calendario de noviembre queda
+cerrado a nivel de contenido**, pero no se puede dar por aprobado para
+publicar todavía — quedan dos bloqueantes heredados sin resolver (18 nov
+LinkedIn y 25 nov GMB) y una recomendación de `director-marketing` sobre el
+22 nov GMB (Gambit Madrid) a la espera de decisión de Andrea/Sergio.
 
 ## Canales activos
 
