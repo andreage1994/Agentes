@@ -33,6 +33,35 @@ ya existente:
   (ver "Backlog de síntesis" y "Tensiones y contradicciones" en la matriz temática) —
   eso es lo que nos distingue de simplemente resumir informes ajenos.
 
+### Registro editorial de revista (pedido por Andrea/Sergio, 2026-10-29)
+
+Todo el reporte debe sonar más a pieza de revista de autor — **Condé Nast
+Traveler o Wallpaper\*** — que a informe de consultoría, sin perder ninguna de
+las reglas de arriba (afirmamos con datos reales citados, TBNB TAKE,
+TREND/MOMENT/NOISE, nada inventado). Esto es una elevación de **cómo se
+escribe**, no un permiso para relajar el rigor:
+
+- **Escena antes que dato.** Abrir con una imagen concreta y sensorial (un
+  lugar, un gesto, un detalle físico) antes de nombrar la tendencia —
+  referencia real de este mismo registro: el artículo de Wallpaper\* sobre
+  Circadian (Berlín) abre por el espacio (230 m² dentro del Funkhaus, antigua
+  sede de radio de la RDA, mesa compartida con lado de anfitrión y lado de
+  invitado) antes de explicar el concepto de té.
+- **Vocabulario preciso y físico, no genérico.** Materiales, luz, temperatura,
+  sonido, textura — el tipo de detalle que ya recoge `research-copenhague-51-sitios.md`
+  ("madera cruda, mimbre, ramas secas", "iluminación cálida y baja") es
+  exactamente el nivel de concreción a mantener en toda la redacción, no solo
+  en Concept Watch.
+- **Autoridad con calma, no con urgencia de venta.** Frases declarativas y
+  seguras, ritmo pausado — nunca tono de newsletter de marketing ni de "no te
+  lo puedes perder".
+- **Una idea fuerte por párrafo**, con aire alrededor — párrafos cortos,
+  nunca acumulación de datos sin respirar entre ellos.
+- Se aplica a las 11 secciones del índice, no solo a Concept Watch/The
+  Radar/Early Signal — incluido el dato duro de 02/07, que debe seguir
+  citando la fuente exacta pero contado con esta misma voz, no como tabla
+  fría.
+
 ## Cadencia
 
 Semestral (H1 / H2), según el departamento de Marketing y Comunicación de TBNB
