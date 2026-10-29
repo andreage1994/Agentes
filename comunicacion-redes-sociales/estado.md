@@ -1,6 +1,6 @@
 # Estado — Comunicación y Redes Sociales
 
-**Última actualización:** 2026-09-30.
+**Última actualización:** 2026-10-29.
 
 ## En curso
 
@@ -14,6 +14,15 @@
   selección, no copy final (eso lo cierra `director-redaccion`). Hereda el
   bloqueante del 7 de octubre (permiso de cliente sin confirmar) para la
   pieza equivalente de GMB semana 1.
+- Plan de cruce Instagram → LinkedIn/GMB para noviembre 2026
+  (`plan-cruce-linkedin-gmb-noviembre.md`), decidido por
+  `director-estrategia-marca-comunicacion` a partir de
+  `instagram/calendario-noviembre.md`. Copy final ya redactado por
+  `director-redaccion` en `linkedin/calendario-noviembre.md` y
+  `google-my-business/calendario-noviembre.md`; fechas exactas ya
+  confirmadas por `director-marketing` (ver sección más abajo). Hereda dos
+  bloqueantes sin resolver: cifra sectorial del 18 nov (LinkedIn) y
+  revisión jurídica del 25 nov (GMB).
 - Plantillas de email marketing para Mailchimp (`mail-marketing/`): plantilla
   maestra de flujos de automatización + plantilla de newsletter, con la
   identidad de marca real (`Manual_marca.pdf`, no el brand kit de Canva, que
@@ -47,21 +56,65 @@ No hay fechas duplicadas ni huecos entre las 8 piezas: LinkedIn ocupa 4, 14,
 21 y 25 de octubre; GMB ocupa 7, 11, 18 y 28 de octubre; ningún día se
 repite entre canales.
 
+## Calendario final coordinado — LinkedIn y GMB, noviembre 2026
+
+**Fechas fijadas por `director-marketing` el 2026-10-29**, a partir del
+plan de cruce de `director-estrategia-marca-comunicacion`
+(`plan-cruce-linkedin-gmb-noviembre.md`) y del copy final ya redactado por
+`director-redaccion`. A diferencia de octubre, noviembre tiene **8 piezas
+de Instagram pero solo 7 temas elegibles para cruzar** (el reel del 15 nov
+no se cruza a ningún canal), así que el tema del 1 de noviembre
+(Transformaciones) se reparte entre LinkedIn y GMB el mismo mes — el único
+solape de tema entre los dos canales. Se decidió mantener ambas piezas en
+la **misma fecha (1 de noviembre)** en vez de desplazar una de las dos: ver
+justificación completa en el bloque "Fechas confirmadas por
+`director-marketing`" de `linkedin/calendario-noviembre.md`.
+
+| Fecha | Canal | Tema origen (Instagram) | Estado de aprobación |
+|---|---|---|---|
+| 1 nov | LinkedIn | 1 nov — Transformaciones antes y después (pieza conceptual) | Pendiente de aprobación Andrea/Sergio |
+| 1 nov | GMB (semana 1) | 1 nov — Transformaciones antes y después (pieza conceptual) | Pendiente de aprobación Andrea/Sergio — mismo día que LinkedIn, decisión intencionada (ver justificación) |
+| 4 nov | LinkedIn | 4 nov — Atelier September (Gastro tendencia) | Pendiente de aprobación Andrea/Sergio |
+| 8 nov | LinkedIn | 8 nov — camarero de barrio (Gastro tradición) | Pendiente de aprobación Andrea/Sergio |
+| 11 nov | GMB (semana 2) | 11 nov — Café Leon Dore (Gastro tendencia) | Pendiente de aprobación Andrea/Sergio |
+| 18 nov | LinkedIn | 18 nov — food cost (Rentabilidad incómoda) | **Bloqueado** — cifra sectorial pendiente de confirmar fuente exacta (sección 5.1 del plan de cruce); no lo decide `director-marketing` |
+| 22 nov | GMB (semana 3) | 22 nov — menu engineering (Rentabilidad incómoda) | Pendiente de aprobación Andrea/Sergio — además pendiente la decisión sobre el caso Gambit Madrid (recomendación de `director-marketing`: no reutilizarlo, ver `google-my-business/calendario-noviembre.md`) |
+| 25 nov | GMB (semana 4) | 25 nov — acuerdos de proveedores (Servicios TBNB) | **Bloqueado** — revisión jurídica obligatoria pendiente de confirmar (sección 5.2 del plan de cruce); no lo decide `director-marketing` |
+
+No hay huecos ni duplicados involuntarios: LinkedIn ocupa 1, 4, 8 y 18 de
+noviembre; GMB ocupa 1, 11, 22 y 25 de noviembre. El único día compartido
+entre canales (1 de noviembre) es intencionado y está justificado en
+`linkedin/calendario-noviembre.md`. **El calendario de noviembre no se
+puede dar por aprobado todavía** — quedan dos bloqueantes heredados sin
+resolver (18 nov LinkedIn y 25 nov GMB) y una recomendación de
+`director-marketing` sobre el 22 nov GMB (Gambit Madrid) a la espera de
+decisión de Andrea/Sergio.
+
 ## Canales activos
 
 - Instagram (`instagram/`)
 - LinkedIn (`linkedin/`) — copy final de octubre listo en
   `linkedin/calendario-octubre.md` (4, 14, 21 y 25 octubre), redactado por
-  `director-redaccion` a partir del plan de cruce. Pendiente de aprobación de
-  Andrea o Sergio, pieza por pieza.
+  `director-redaccion` a partir del plan de cruce. Copy final de noviembre
+  listo en `linkedin/calendario-noviembre.md` (1, 4, 8 y 18 noviembre, con
+  fechas ya confirmadas por `director-marketing`). Pendiente de aprobación
+  de Andrea o Sergio, pieza por pieza; la pieza del 18 nov sigue bloqueada
+  por verificación de una cifra sectorial.
 - Google My Business (`google-my-business/`) — copy final de octubre listo en
   `google-my-business/calendario-octubre.md` (semanas 1-4, con fecha exacta
   confirmada: 7, 11, 18 y 28 de octubre), redactado por
   `director-redaccion`. La pieza de semana 1 incluye dos versiones (con caso
   real y alternativa anonimizada) a la espera del permiso del cliente del 7
   de octubre; la de semana 4 se entrega sin caso con nombre por defecto, con
-  nota para añadir Gambit Madrid si Andrea lo confirma. Pendiente de
-  aprobación de Andrea o Sergio, pieza por pieza.
+  nota para añadir Gambit Madrid si Andrea lo confirma. Copy final de
+  noviembre listo en `google-my-business/calendario-noviembre.md` (1, 11,
+  22 y 25 noviembre, con fechas ya confirmadas por `director-marketing`,
+  incluido el día 1 compartido intencionadamente con LinkedIn). La pieza de
+  semana 3 (22 nov) se entrega sin caso con nombre, con recomendación de
+  `director-marketing` de no reutilizar Gambit Madrid un tercer mes
+  consecutivo; la de semana 4 (25 nov) sigue bloqueada por revisión
+  jurídica pendiente. Pendiente de aprobación de Andrea o Sergio, pieza por
+  pieza.
 - Mail marketing (`mail-marketing/`) — plantillas y contenido listos, ver
   `mail-marketing/README.md`. Pendiente de configurar en Mailchimp.
 - Potential spotting (`potential-spotting/`) — sin contenido traído todavía.
@@ -77,3 +130,16 @@ repite entre canales.
   como sus dos versiones en GMB semana 1
   (`google-my-business/calendario-octubre.md`). Es el único bloqueante que
   sigue abierto en el calendario de octubre.
+- Confirmar la fuente exacta del dato sectorial (rentabilidad -0,9% / 
+  ingresos +3,1% en 2025) citado en Instagram (18 nov) y LinkedIn (18 nov,
+  `linkedin/calendario-noviembre.md`) antes de aprobar esas piezas de
+  noviembre.
+- Confirmar la revisión jurídica obligatoria de la pieza de proveedores (25
+  nov, Instagram y GMB `google-my-business/calendario-noviembre.md`) antes
+  de aprobarla — normativa europea de competencia, aclaración de "te monta
+  el bar" como expresión coloquial, no sugerir patrocinio con Estrella
+  Galicia/Mahou.
+- Decidir si se reutiliza el caso real de Gambit Madrid en la pieza de GMB
+  del 22 de noviembre (menu engineering) o se deja sin caso con nombre un
+  tercer mes consecutivo — recomendación de `director-marketing`: no
+  reutilizarlo (ver `google-my-business/calendario-noviembre.md`).

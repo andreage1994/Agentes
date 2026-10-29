@@ -16,16 +16,61 @@ pregunta directa + incentivo concreto atado al tema del post, siguiendo el
 matiz de cierre específico para GMB del `BRIEF.md` (nunca la cortesía
 genérica "estaremos encantados de conocerlo").
 
-**Fechas de publicación en GMB:** pendientes de confirmar por
-`director-marketing` en el siguiente paso, igual que en octubre. Cada pieza
-indica debajo la fecha/semana de origen en Instagram y el pilar.
+**Fechas confirmadas por `director-marketing`:** se fijan las cuatro fechas
+de publicación en GMB — **1, 11, 22 y 25 de noviembre** — el mismo día (o
+semana, convertida a fecha exacta) que su pieza de Instagram de origen,
+siguiendo el mismo criterio que en octubre. No se ha detectado ningún
+motivo operativo para desplazarlas: ninguna fecha de GMB coincide con otra
+fecha de GMB el mismo mes, y de las cuatro fechas de LinkedIn este mes (1,
+4, 8 y 18 de noviembre — ver `linkedin/calendario-noviembre.md`), solo el
+**1 de noviembre** coincide con GMB el mismo día.
+
+**Caso especial del 1 de noviembre (Transformaciones):** la explicación
+completa de por qué se mantiene la misma fecha en los dos canales, en vez
+de desplazar uno de los dos, está desarrollada en
+`linkedin/calendario-noviembre.md` (bloque "Fechas confirmadas por
+`director-marketing`"). En resumen: el origen es el mismo día en Instagram,
+el ángulo ya es distinto en cada canal (LinkedIn reflexiona sin caso; GMB
+demuestra el enfoque del BAR Method), y GMB no es un canal de feed con
+seguimiento diario — se descubre por búsqueda local, no por scroll — así
+que no hay sobrecarga real de mensaje sobre la misma audiencia el mismo
+día.
+
+**Recomendación sobre el caso Gambit Madrid (semana 3, 22 de noviembre) —
+decisión pendiente de Andrea/Sergio:** `director-redaccion` dejó abierta la
+pregunta de si reutilizar el caso real de Gambit Madrid (ya citado en
+septiembre y valorado, sin resolverse, para el 28 de octubre) en la pieza
+de menu engineering de esta semana. Mi recomendación es **no reutilizarlo
+este mes** y mantener la pieza sin caso con nombre, como ya se entregó por
+defecto: sería la tercera vez consecutiva que aparece en tres meses
+seguidos (septiembre, valorado para octubre, y ahora noviembre), lo que
+puede debilitar precisamente la sensación de "última validación" que GMB
+necesita transmitir — un caso que se repite cada mes deja de sonar a prueba
+concreta y empieza a sonar a recurso fijo de plantilla. Si en algún momento
+se usa Gambit Madrid otra vez, recomiendo espaciarlo más (no en meses
+consecutivos) y, si es posible, ya no en el mismo pilar (menu engineering)
+sino en un contexto distinto. Esta es mi recomendación como
+`director-marketing`, no la decisión final — Andrea o Sergio son quienes
+cierran esto.
+
+**Bloqueante sin resolver — el calendario no se puede dar por aprobado
+todavía:** la pieza del 25 de noviembre (acuerdos de proveedores) arrastra
+el bloqueante heredado de revisión jurídica obligatoria (normativa europea
+de competencia, duración de acuerdos, aclaración sobre "te monta el bar"
+como expresión coloquial, no sugerir patrocinio con Estrella Galicia o
+Mahou) — ver sección 5.2 de `plan-cruce-linkedin-gmb-noviembre.md` y la
+nota ya incluida en la pieza de semana 4 de este documento. No me
+corresponde a mí resolver esa revisión — señalo que el calendario de GMB de
+noviembre no queda cerrado hasta que Andrea o Sergio la confirmen.
 
 ---
 
-## Semana 1 — origen IG: 1 noviembre, "Transformaciones antes y después" (pieza conceptual, sin pilar fijo)
+## Semana 1 — 1 de noviembre — origen IG: 1 noviembre, "Transformaciones antes y después" (pieza conceptual, sin pilar fijo)
 
-**⚠️ Tema compartido con LinkedIn esta semana** — ver `plan-cruce-linkedin-gmb-noviembre.md`,
-sección 4, sobre por qué un tema se reparte entre los dos canales este mes.
+**⚠️ Tema compartido con LinkedIn esta fecha** — ver `plan-cruce-linkedin-gmb-noviembre.md`,
+sección 4, sobre por qué un tema se reparte entre los dos canales este mes,
+y el bloque "Fechas confirmadas por `director-marketing`" arriba sobre por
+qué se mantiene la misma fecha en los dos canales.
 
 **¿Sabes qué de tu negocio deberías dejar de hacer antes de cambiar algo
 visible?**
@@ -52,7 +97,7 @@ noviembre — no se inventa.
 
 ---
 
-## Semana 2 — origen IG: 11 noviembre, Café Leon Dore (cruce retail/hostelería) (Gastro tendencia)
+## Semana 2 — 11 de noviembre — origen IG: 11 noviembre, Café Leon Dore (cruce retail/hostelería) (Gastro tendencia)
 
 **¿Cada cosa que añades a tu negocio refuerza lo que ya eres, o solo suma
 formato?**
@@ -79,7 +124,7 @@ se inventa.
 
 ---
 
-## Semana 3 — origen IG: 22 noviembre, diseño de carta e ingeniería de menú (Rentabilidad incómoda)
+## Semana 3 — 22 de noviembre — origen IG: 22 noviembre, diseño de carta e ingeniería de menú (Rentabilidad incómoda)
 
 **¿Sabes qué platos de tu carta deberías potenciar, cuáles rediseñar y
 cuáles revisar?**
@@ -109,7 +154,10 @@ septiembre y encajaría temáticamente, pero ya se usó en septiembre y se
 valoró (sin resolverse) para el 28 de octubre — reutilizarlo un tercer mes
 consecutivo puede debilitar la sensación de "última validación". Esta pieza
 se entrega sin caso con nombre; la decisión de añadir uno es de
-`director-marketing`/Andrea (ver sección 3.3 del plan de cruce).*
+`director-marketing`/Andrea (ver sección 3.3 del plan de cruce).
+**Recomendación de `director-marketing`: no reutilizarlo este mes** — ver
+el bloque "Recomendación sobre el caso Gambit Madrid" al inicio de este
+documento. Decisión final de Andrea/Sergio.*
 
 **🔸 Bloqueante menor heredado (sección 5.3 del plan de cruce):** enlazar el
 artículo sobre diseño de carta únicamente si ya está publicado en la web;
@@ -118,7 +166,7 @@ artículo. No afecta al ángulo, solo a si se incluye o no un enlace.
 
 ---
 
-## Semana 4 — origen IG: 25 noviembre, acuerdos y ayudas de proveedores ("Cosas que nadie te dice") (Servicios TBNB)
+## Semana 4 — 25 de noviembre — origen IG: 25 noviembre, acuerdos y ayudas de proveedores ("Cosas que nadie te dice") (Servicios TBNB)
 
 > 🚫 **BLOQUEANTE HEREDADO — revisión jurídica obligatoria antes de
 > publicar.** No lo resuelve `director-redaccion`. No aprobar esta pieza sin
