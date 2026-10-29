@@ -110,28 +110,41 @@ presenta como caso de cliente ni se inventa uno.
 ## 2 · origen IG: 4 noviembre — "Por qué funciona: Atelier September" (Gastro tendencia)
 
 Llevo toda la semana dándole vueltas a Atelier September, el café de
-Copenhague que se ha convertido casi en parada obligada. No tengo nada claro
-si lo que hacen es replicable fuera de un barrio como ese — pero me hace
-pensar en algo que va más allá de su barrio.
+Copenhague que se ha convertido casi en parada obligada. Al principio
+pensé que la clave estaba en el espacio — la estética minimalista, las
+mesas de mercadillo, la cocina abierta. Cuanto más lo miro, menos me lo
+parece.
 
-Su diseñador habla de dejar el espacio "sin terminar" a propósito. No es
-dejadez: es una decisión de diseño. Cada detalle está pensado, pero no está
-pensado para cerrarlo todo — está pensado para que la gente, el barrio, las
-rutinas, terminen de darle carácter.
+Lo que de verdad han construido ahí no es un café. Es una comunidad. El
+sitio funciona como punto de encuentro de la escena creativa de la ciudad
+— reuniones informales, conversaciones serias, gente que entra de paso y
+se queda. Tanto, que marcas como New Balance eligen su local para
+instalarse durante la Fashion Week de Copenhague, como si fuera territorio
+propio de esa comunidad y no solo un sitio bonito para una activación.
 
-Nosotros solemos hacer lo contrario en hostelería: definir cada centímetro,
-cada mensaje, cada gesto de servicio, como si cuanto más controlado, mejor.
-Y seguro que en muchos negocios es exactamente así.
+Eso no se consigue solo con una carta bien pensada o buen interiorismo,
+aunque ayuden. Se consigue decidiendo, desde el principio, a qué tipo de
+persona quieres que le apetezca estar ahí — y dejando que esa comunidad,
+con el tiempo, acabe definiendo la identidad del sitio tanto como la
+propia carta.
 
-Pero me pregunto si en algunos casos esa necesidad de controlarlo todo es,
-en realidad, la razón por la que el sitio nunca llega a sentirse propio de
-nadie en concreto.
+Me pregunto cuántos negocios de hostelería se hacen esa pregunta de
+verdad, más allá del "público objetivo" que ponen en un dossier. No es
+solo a quién le vendes. Es qué estilo de vida representa tu negocio para
+quien entra por la puerta.
 
-¿Qué parte de tu negocio dejarías sin cerrar del todo, para que la gente la
-complete en vez de controlarlo todo?
+¿Os habéis parado a pensar qué estilo de vida inspira vuestro negocio en
+quien lo visita, más allá de lo que sirve en la mesa?
 
-**Caso real:** Atelier September (concepto real, uso editorial, mismo
-citado en Instagram — no es cliente de TBNB).
+**Caso real:** Atelier September — ángulo centrado en comunidad, no en el
+espacio. Fuentes: [Remodelista](https://remodelista.com/posts/atelier-september-in-copenhagen)
+(espacio y equipo, 2016), [Dezeen](https://www.dezeen.com/?p=2076249)
+(colaboración con Bolon) y la residencia de New Balance durante
+[Copenhagen Fashion Week](https://copenhagenfashionweek.com/event/new-balance-atelier-september).
+No se afirma una estructura societaria exacta (información de 2016-2017,
+posiblemente desactualizada) — el hecho verificable y sobre el que se
+construye el post es que el local funciona como punto de encuentro de la
+comunidad creativa y que marcas lo usan como tal.
 
 ---
 
