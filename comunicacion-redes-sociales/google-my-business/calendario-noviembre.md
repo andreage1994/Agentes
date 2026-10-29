@@ -134,21 +134,23 @@ le gusta a quien la diseña o porque "siempre ha estado ahí" — no por lo que
 ese plato aporta de verdad al negocio.
 
 Los síntomas se repiten: platos que se mantienen porque el chef o el dueño
-los adora, no porque vendan o dejen margen; novedades que entran en la
-carta por moda o por estética, sin preguntarse qué papel van a jugar;
-decisiones de carta que nunca se revisan porque "siempre se ha hecho así".
+los adora, no porque vendan o dejen margen; platos con buen margen que casi
+nadie pide, simplemente porque nunca se les ha prestado atención;
+novedades que entran en la carta por moda o por estética, sin preguntarse
+qué van a aportar a la cuenta de resultados.
 
 Una carta necesita coherencia gastronómica — eso no se discute. Pero
 coherencia no es lo mismo que gusto personal. En TBNB trabajamos la carta
 como lo que realmente es para un restaurante: el principal canalizador de
 facturación del negocio. Qué plato se mantiene, cuál se cambia y cuál
-desaparece es una decisión estratégica, no una cuestión de qué le apetece a
-quien la diseña.
+desaparece es una decisión estratégica que cruza ventas, margen y
+coherencia con el concepto — no una cuestión de qué le apetece a quien la
+diseña.
 
-¿Sabes qué plato de tu carta sigue ahí solo porque a alguien le gusta, no
-porque te esté dejando dinero? Podemos revisar contigo, plato a plato, qué
-mantener, qué cambiar y qué dejar ir — pensando en el negocio, no en el
-gusto.
+¿Sabes qué plato de tu carta sigue ahí solo porque a alguien le gusta, y
+cuál es el que de verdad te está dejando el margen que sostiene el
+negocio? Podemos revisar contigo, plato a plato, ventas y rentabilidad,
+para decidir qué mantener, qué cambiar y qué dejar ir.
 
 **Caso real:** ninguno con nombre citado en el calendario de noviembre.
 
