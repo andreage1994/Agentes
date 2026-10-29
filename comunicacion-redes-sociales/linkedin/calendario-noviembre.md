@@ -150,30 +150,35 @@ comunidad creativa y que marcas lo usan como tal.
 
 ## 3 · origen IG: 8 noviembre — "¿Qué podemos aprender de los bares de toda la vida?" (camarero de barrio) (Gastro tradición)
 
-Esta semana he vuelto a tener la misma conversación con un cliente que
-lleva meses intentando que su equipo nuevo "sepa leer la sala" igual que lo
-hace el camarero que lleva quince años en el bar de su padre.
+Esta semana he vuelto a tener la misma conversación con un cliente: quiere
+que su equipo nuevo "sepa leer la sala" igual que el camarero que lleva
+quince años en el bar de su padre.
 
-Y no sé si eso es del todo posible.
+Cada vez tengo más claro que eso no es cuestión de suerte ni de talento
+innato. Es cuestión de cultura.
 
-Lo que hace que alguien vuelva a un bar de barrio casi nunca es una carta ni
-un protocolo de servicio. Es que el camarero sabe si vienes con prisa o si
-hoy has venido a quedarte, recuerda lo que sueles pedir sin que lo tengas
-que repetir, se da cuenta de que una mesa espera antes de que nadie levante
-la mano.
+Lo que hace que alguien vuelva a un bar de barrio casi nunca es la carta.
+Es que el camarero sabe si vienes con prisa o si hoy has venido a quedarte,
+recuerda lo que sueles pedir sin que lo tengas que repetir, se da cuenta de
+que una mesa espera antes de que nadie levante la mano. Trato hospitalario,
+cercano, sin impostura.
 
-Eso no sale de un manual. Sale de estar ahí, con la misma gente, durante
-mucho tiempo.
+Contratar a gente a la que le guste tratar con personas es necesario. Pero
+no es suficiente — y confiar solo en eso es dejar la experiencia de tu
+cliente en manos de a quién te tocó contratar.
 
-La parte que me cuesta resolver es esta: ¿se puede entrenar deliberadamente,
-o es sobre todo el resultado de que alguien lleve suficientes años
-haciéndolo? Tengo clientes que lo han conseguido documentando pequeñas
-rutinas de atención. Y tengo otros en los que, en cuanto cambia la
-plantilla, esa manera de tratar al cliente desaparece con la persona que se
-fue.
+Lo que de verdad lo sostiene es la cultura: unos valores de servicio
+definidos por el negocio, no improvisados por cada persona que entra al
+equipo. Esos valores son los que le dicen a un camarero nuevo qué se
+espera de él, qué prioridad le das de verdad al trato humano, y cómo
+decidir cuando algo no sale como estaba previsto.
 
-¿Habéis conseguido entrenar eso en un equipo nuevo, o se pierde en cuanto
-cambia la plantilla?
+Sin esa cultura, cada vez que cambia la plantilla, el negocio vuelve a
+depender de si tuvo suerte contratando. Con ella, la hospitalidad deja de
+vivir en la cabeza de una sola persona.
+
+¿Vuestro equipo trata bien a la gente porque lo decidisteis como negocio,
+o porque tuvisteis suerte contratando a las personas correctas?
 
 **Caso real:** ninguno — pieza observacional del pilar Gastro tradición,
 igual que en Instagram.
