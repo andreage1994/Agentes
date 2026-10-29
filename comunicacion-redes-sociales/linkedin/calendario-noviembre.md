@@ -80,25 +80,27 @@ restaurante ha cambiado de verdad. Respondí lo obvio: cuando cambia la
 carta, el local, la fachada. Pero llevo días sin quedarme del todo tranquilo
 con esa respuesta.
 
-Los antes y después que más recuerdo de este año no empezaron por una
-reforma. Empezaron por una carta demasiado larga para la cocina que había
-detrás, un horario que se mantenía por costumbre más que por sentido, una
-propuesta que intentaba gustarle a todo el mundo y no acababa de ser de
-nadie en concreto.
+Los antes y después que más recuerdo de este año casi nunca empezaron por
+una reforma. Empezaron mirando hacia dentro: un protocolo de servicio que se
+reescribió, un plato que cambió de sitio en la carta, cómo se recibía cada
+mañana a un proveedor.
 
-Ahí no hay foto de "antes" bonita. Hay una decisión bastante menos vistosa:
-qué dejar de hacer.
+Son cambios que casi no se ven desde fuera. No hay foto de "antes" bonita,
+no hay inauguración. Y sin embargo son los que de verdad remodelan un
+negocio — porque tocan directamente dónde se pierde o se gana dinero: un
+turno mejor organizado, una mesa que se libera antes, un pedido que entra
+sin errores.
 
-No tengo tan claro si lo correcto siempre es recortar. A veces lo que hace
-falta no es quitar, es reordenar — mover un plato de sitio, cambiar un
-turno, sin eliminar nada. Depende del negocio, y cada vez me fío menos de
-una regla única para los dos casos.
+No tengo tan claro si lo correcto siempre es cambiar la imagen primero. A
+veces el negocio necesita justo lo contrario: dejar la fachada como está y
+reordenar lo de dentro.
 
-Lo que sí me parece cierto es que esa decisión rara vez se ve desde fuera.
-Se nota en cómo funciona el negocio, no en una foto.
+Lo que cada vez me parece más claro es que el impacto en la rentabilidad
+casi nunca viene de lo que se ve. Viene de lo que se reorganiza.
 
-¿Qué decisión estructural te costó más tomar en tu negocio, aunque desde
-fuera nadie la notara?
+¿Qué cambio "pequeño" — un protocolo, un turno, una forma de recibir
+mercancía — ha tenido más impacto en tu negocio que la última reforma que
+hiciste?
 
 **Caso real:** ninguno — pieza conceptual, igual que en Instagram; no se
 presenta como caso de cliente ni se inventa uno.
