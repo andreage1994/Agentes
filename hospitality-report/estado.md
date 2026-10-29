@@ -1,7 +1,37 @@
 # Estado — Hospitality Report
 
 **Cadencia:** semestral (H1 / H2).
-**Última actualización:** 2026-10-02.
+**Última actualización:** 2026-10-29.
+
+## Retomar la edición H2 2026 hacia versión publicable (2026-10-29)
+
+Andrea/Sergio piden retomar el primer borrador (`ediciones/2026-H2/contenido.md`)
+hacia una versión publicable — explícitamente no está lista todavía. Aportan
+dos fuentes propias nuevas, guardadas en `fuentes-propias/`:
+
+1. **`tendencias-espana-2026-research.md`** (+ el xlsx maestro) — research
+   interno de TBNB, 34 tendencias en 9 áreas con datos de mercado español
+   reales y bien sourceados (Anuario de la Hostelería de España 2025,
+   barómetro HIP, INE, AECOC/40dB, Circana...). Resuelve directamente el gap
+   que ya señalaba este documento el 2026-10-02 ("Casi todos los datos macro
+   duros... son de EEUU o Francia... sería valioso 1-2 datos equivalentes de
+   España") — aquí hay docenas, no solo 1-2.
+2. **`research-copenhague-51-sitios.md`** — observación propia de Andrea y
+   Sergio en su viaje a Copenhague (ya anticipado en este mismo documento el
+   2026-10-02: "es probable que amplíen la edición después"). 51 sitios reales
+   categorizados, con patrones transversales propios ya identificados
+   (ecosistemas de marca tipo Frama/Kadeau/Noma, el patrón repetido de "chef
+   de referencia aterriza en formato casero", el vino natural como columna
+   vertebral de la escena de bares).
+
+Pedido explícito de Andrea: integrar todo, no dejarlo como anexo suelto —
+candidato natural para nutrir 02 (The Big Picture, datos España), 03 (The
+Shifts), 04 (Concept Watch, casos de Copenhague), 06 (Food & Drink), 07
+(Business of Hospitality) y, sobre todo, 09 (The Radar)/10 (Early Signal) con
+los conceptos de Copenhague no vistos todavía en España. Siguiente paso:
+`hospitality-investigador` nutre `matriz-tematica.md` con ambas fuentes,
+clasificadas por sección — antes de que estrategia decida qué entra en la
+edición.
 
 ## Edición en curso
 
