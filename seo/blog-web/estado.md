@@ -769,3 +769,108 @@ páginas fragmentadas (rentabilidad y traspasos), confirmar el tema de
 `/fin-monodosis-restaurantes/`, y resolver las dos decisiones de
 fusión/reenfoque antes de invertir esfuerzo pleno de reescritura en esas
 páginas.
+
+`blog-investigacion` ha entregado los tres briefs de la curación de los 3
+artículos de mayor prioridad (`seo/blog-web/investigacion/curacion-01-
+rentabilidad.md`, `curacion-02-cinco-tipos-negocio.md`, `curacion-03-guia-
+abrir-bar.md`). Los tres briefs confirman el mismo bloqueo de partida: el
+dominio `thebarnbarconsulting.com` no resolvió en esa sesión (`WebFetch`
+daba `ENOTFOUND`) y `WebSearch` no devolvió ningún fragmento indexado del
+contenido real de los tres artículos en vivo — así que ninguno de los tres
+briefs es una comparación contra el texto publicado hoy, es investigación
+de contexto propio (Hospitality Report) y de lo que rankea en la
+competencia, con recomendación explícita en los tres de que Andrea/Sergio
+confirmen el contenido actual antes de dar la reescritura por definitiva.
+Hallazgo transversal nuevo en los tres: CaixaBank Research (Pedro Álvarez
+Ondina, ene-feb 2026) documenta que el sector de restauración española
+tiene una de las tasas de rotación empresarial más altas de la economía
+española (en torno al 21% en 2023-2024, solo detrás de información y
+telecomunicaciones) — dato español, de 2026, con fuente con nombre propio,
+que ningún competidor rastreado usa, y que no estaba anticipado en la
+matriz del Hospitality Report.
+
+**`blog-redaccion` ha entregado los tres artículos (2026-10-30)**, en
+`seo/blog-web/articulos/curacion-01-rentabilidad.md`,
+`curacion-02-cinco-tipos-negocio.md` y `curacion-03-guia-abrir-bar.md`.
+Los tres son una reescritura completa, no un parche sobre el texto en
+vivo (mismo motivo de bloqueo de red que señalan los tres briefs). Cada
+archivo conserva la URL real indicada en el encargo (se mantiene igual
+al publicar, para no perder el posicionamiento ya ganado) e incluye H1,
+una propuesta de meta descripción claramente etiquetada como tal, y el
+cuerpo completo en markdown.
+
+Decisiones de redacción dentro del ángulo ya fijado por
+`blog-estrategia-seo`:
+
+- **#1 (rentabilidad):** se mantiene el H1 original tal cual (es el
+  motor de tráfico nº1 del sitio, no convenía arriesgar la keyword ya
+  posicionada) y su rol de "mapa entero" frente al food cost específico
+  — el food cost no se desarrolla en detalle, se enlaza. Se incorpora el
+  dato de rentabilidad sectorial -0,9% (2025) como gancho de apertura, el
+  dato nuevo de rotación empresarial del 21% (CaixaBank Research) como
+  refuerzo de por qué importa calcular bien, la cita de Inpulse.ai (marcada
+  explícitamente como mercado francés, nunca como dato español) y el rango
+  de margen neto sano 8-15% que, según confirmó Andrea al revisar el
+  ángulo del Tema 5, ya es el rango que usa el artículo en vivo — se
+  mantiene por coherencia, contrastado con los rangos sin fuente que da la
+  competencia (15-20%, 5-15%, 3-5%, ninguno sourceado). El caso de "María"
+  (El Español) se usa solo como anécdota ilustrativa, con la reserva
+  explícita en el propio texto de que las cifras varían entre piezas de
+  prensa. Enlaces internos: a la regla 50/30/20 y a punto de equilibrio
+  (URLs reales confirmadas); el enlace al artículo de food cost (Tema 5)
+  queda como nota entre corchetes pendiente de URL real, porque ese
+  artículo todavía no está confirmado como publicado en la web en vivo
+  (el brief de investigación lo daba por publicado basándose en una
+  lectura no del todo concluyente de este mismo `estado.md` — por
+  precaución, se trata como pendiente, siguiendo la convención ya usada en
+  el resto del proyecto para enlaces no confirmados).
+- **#2 (5 tipos de negocio):** se quita "2024" del H1 pero se conserva el
+  "5" (para no perder la intención de búsqueda de quien busca
+  específicamente una lista), con el giro "y por qué lo son" para marcar
+  el reframe de criterio. Se abre afirmando explícitamente que no existe
+  ranking oficial con fuente fiable — validado por la investigación
+  competitiva — y se construyen los cinco puntos con casos reales
+  100% españoles o aplicables de 2025-2026 (El Campero/Garelos/Varra,
+  Nomad Coffee, Sips/Paradiso en el top 5 mundial de 50 Best Bars 2025,
+  Pompette/Villette, Barr), usando el dato de Inpulse.ai (food cost
+  24-30%/margen bruto 70-76%) solo como criterio estructural de apertura,
+  marcado como mercado francés. Se mantiene la frontera con la guía de
+  apertura (#3): aquí se elige modelo, allí se ejecuta. Enlaces internos
+  reales: a la guía de apertura, a café de especialidad y de cierre a
+  rentabilidad. La URL se mantiene con "2024" tal como pide el encargo,
+  aunque el H1 y el cuerpo ya no lo mencionen — se deja nota interna
+  explícita sobre esto en el propio archivo.
+- **#3 (guía abrir un bar):** se antepone un "Paso 0" de diagnóstico BAR
+  Method (Breakdown) a la checklist administrativa, usando el dato de
+  rotación empresarial del 21% (CaixaBank Research) como justificación
+  central de por qué el diagnóstico importa más que el papeleo — es el
+  hueco que confirma la investigación competitiva (ninguna guía rastreada
+  antepone diagnóstico a trámites). La checklist de trámites se deja
+  deliberadamente resumida (6 puntos) para no competir con el detalle de
+  los artículos específicos, remitiendo a ellos. Enlaces internos reales:
+  a rentabilidad, a los 5 tipos de negocio y a punto de equilibrio; el
+  enlace al artículo de licencias (Tema 1) queda como nota entre corchetes
+  pendiente de URL real, porque tampoco está confirmado como publicado en
+  la web en vivo (mismo criterio de precaución que en el #1). No se enlaza
+  "Common mistakes when opening a restaurant" al no tener URL confirmada
+  — se prefirió omitirlo a inventar un enlace.
+
+**Aviso que se repite igual en los tres artículos, a petición explícita
+del encargo:** ninguno de los tres es una edición del texto que hoy está
+en la web, son reescrituras completas a partir de la estrategia y la
+investigación — el dominio no se pudo leer en esta sesión por restricción
+de red, no por un fallo de la investigación. **Andrea/Sergio deben
+comparar cada uno contra el artículo en vivo antes de sustituirlo**, sobre
+todo para no perder matices, enlaces o datos que el texto actual ya
+tuviera y que esta reescritura no pudo contrastar.
+
+Los tres artículos pasan a **Borrador** en el seguimiento de esta
+curación, pendientes de `blog-revision-seo-calidad` y, después, de la
+comparación directa de Andrea/Sergio contra el texto en vivo antes de
+publicar.
+
+| Curación | Fase | Artículo | URL real (mantener al publicar) |
+|---|---|---|---|
+| #1 Rentabilidad | 🟡 Borrador | [`seo/blog-web/articulos/curacion-01-rentabilidad.md`](articulos/curacion-01-rentabilidad.md) | `/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/` |
+| #2 5 tipos de negocio | 🟡 Borrador | [`seo/blog-web/articulos/curacion-02-cinco-tipos-negocio.md`](articulos/curacion-02-cinco-tipos-negocio.md) | `/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024/` |
+| #3 Guía abrir un bar | 🟡 Borrador | [`seo/blog-web/articulos/curacion-03-guia-abrir-bar.md`](articulos/curacion-03-guia-abrir-bar.md) | `/guia-completa-para-abrir-un-bar/` |
