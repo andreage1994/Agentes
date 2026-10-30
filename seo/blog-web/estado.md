@@ -1028,6 +1028,7 @@ en el seguimiento de esta curación.
 | #1 Rentabilidad | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo y verificación del rango 8-15%) | [`seo/blog-web/articulos/curacion-01-rentabilidad.md`](articulos/curacion-01-rentabilidad.md) | `/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/` |
 | #2 5 tipos de negocio | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-02-cinco-tipos-negocio.md`](articulos/curacion-02-cinco-tipos-negocio.md) | `/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024/` |
 | #3 Guía abrir un bar | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-03-guia-abrir-bar.md`](articulos/curacion-03-guia-abrir-bar.md) | `/guia-completa-para-abrir-un-bar/` |
+| #7 Regla 50/30/20 | 🟡 Borrador — pendiente de `blog-revision-seo-calidad` | [`seo/blog-web/articulos/curacion-07-regla-50-30-20.md`](articulos/curacion-07-regla-50-30-20.md) | `/que-es-la-regla-50-30-20-en-la-hosteleria/` |
 
 `blog-investigacion` ha entregado los tres encargos del lote 12-13-14
 (2026-10-30): `seo/blog-web/investigacion/curacion-12-crecer-tu-bar.md`
@@ -1049,3 +1050,56 @@ la página de Barcelona, no el Home.
 
 Lotes 2 (`#4-#7`) y 3 (`#8-#11`) de investigación en curso en segundo
 plano — se actualizará esta tabla cuando entreguen.
+
+`blog-redaccion` ha entregado el artículo de la curación #7 (regla
+50/30/20) (2026-10-30), en
+`seo/blog-web/articulos/curacion-07-regla-50-30-20.md`. Es una reescritura
+completa, no un parche sobre el texto en vivo — el dominio
+`thebarnbarconsulting.com` no fue accesible para investigación en esta
+sesión, tal como señala el propio brief de `blog-investigacion`
+(`seo/blog-web/investigacion/curacion-07-regla-50-30-20.md`). Sigue el
+encargo de curación **ligera, no de fondo**: el artículo mantiene su rol de
+framework corto de referencia (no se convierte en un segundo artículo de
+food cost) y conserva la URL real `/que-es-la-regla-50-30-20-en-la-hosteleria/`.
+
+El hallazgo central del brief se incorpora con honestidad, sin esconderlo
+ni presentarlo como un error vergonzoso del artículo anterior: el H2 1
+explica que la "regla 50/30/20" tal como se busca en el mercado es un
+framework de finanzas personales (Elizabeth Warren y Amelia Warren Tyagi,
+*All Your Worth*, 2005 — 50% necesidades/30% caprichos/20% ahorro del
+ingreso neto personal), no un estándar de hostelería, y que no existe
+ninguna fuente externa que aplique ese nombre y esos tres porcentajes a
+costes de restaurante. El H2 2 aclara que el reparto real del sector que sí
+coincide con la estructura de TBNB (30% materia prima/60% operativo/10%
+beneficio) es la "regla 30/30/30/10" (food cost 30% + mano de obra 30% +
+gastos generales 30% + beneficio 10%, agrupando los dos tramos operativos
+en el bloque de 60%), presentándolo como una aclaración útil para el
+lector, no como una corrección vergonzosa.
+
+El matiz pedido sobre el 30% de materia prima se resuelve sin repetir el
+desarrollo del Tema 5: el H2 3 confirma que el 30% sigue dentro del rango
+sano general (25-42% según tipo de negocio, dato ya verificado para el
+Tema 5), pero cae en la parte media-baja del rango — correcto para bares y
+restauración tradicional, bajo para cocina elaborada o marisquerías — y lo
+presenta explícitamente como "punto de partida, no cifra fija". El H2 4
+añade el matiz de que el bloque operativo (60%) también está bajo presión
+(SMI 1.184€/mes en 2025, mano de obra ~1/3 de los gastos, fuentes
+internacionales que marcan el 30/30/30/10 como "desactualizado para
+operaciones modernas"), conectando con el dato ya usado en el proyecto de
+que la rentabilidad del sector cayó -0,9% en 2025 pese a crecer ingresos
++3,1%. Ningún porcentaje del framework se cambia — tal como pedía el
+encargo, solo se matiza.
+
+Enlaces internos usados, todos con URLs reales ya confirmadas en el
+proyecto: a `/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/`
+(#1, ya curado) y a `/punto-de-equilibrio-en-restauracion-cuanto-necesitas-vender/`
+(#4, URL real del artículo en vivo, aunque su curación todavía no se ha
+redactado en este proyecto — se enlaza igual porque la página existe y
+está publicada, mismo criterio que ya usa el #1 al enlazar a este mismo
+punto de equilibrio). El enlace de ida y vuelta con el Tema 5 (food cost
+2026) queda como nota entre corchetes pendiente de URL real, porque ese
+artículo sigue sin confirmarse como publicado en la web en vivo — mismo
+criterio de precaución que el resto del proyecto. El cierre es una idea
+propia de TBNB (el framework como brújula, no como ley) sin CTA de venta
+forzado. El artículo pasa a **Borrador**, pendiente de
+`blog-revision-seo-calidad`.
