@@ -13,7 +13,7 @@ En 2026 esa confusión sale más cara que nunca. El sector español cerró 2025 
 
 Así que si estás calculando la rentabilidad de tu negocio hoy, probablemente no es por curiosidad. Es porque algo no cuadra y necesitas saber qué.
 
-## Las tres fórmulas que necesitas (y en qué orden te dicen algo distinto)
+## Las tres fórmulas de rentabilidad que necesitas (y en qué orden te dicen algo distinto)
 
 Hay tres niveles de margen, y cada uno responde una pregunta diferente:
 

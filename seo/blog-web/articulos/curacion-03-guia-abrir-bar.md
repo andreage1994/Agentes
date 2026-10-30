@@ -13,7 +13,7 @@ No es una afirmación retórica. El sector de la restauración española tiene u
 
 Por eso esta guía no empieza en la checklist. Empieza un paso antes: el diagnóstico.
 
-## Paso 0: el diagnóstico antes de cualquier trámite (Breakdown)
+## Paso 0: el diagnóstico antes de abrir un bar (Breakdown)
 
 En TBNB lo llamamos Breakdown, la primera fase del BAR Method, y es exactamente lo que falta en la mayoría de guías de apertura. Antes de pedir ninguna licencia, conviene responder tres preguntas con números, no con intuición:
 

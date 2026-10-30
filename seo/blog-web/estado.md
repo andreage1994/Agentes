@@ -864,13 +864,167 @@ comparar cada uno contra el artículo en vivo antes de sustituirlo**, sobre
 todo para no perder matices, enlaces o datos que el texto actual ya
 tuviera y que esta reescritura no pudo contrastar.
 
-Los tres artículos pasan a **Borrador** en el seguimiento de esta
-curación, pendientes de `blog-revision-seo-calidad` y, después, de la
-comparación directa de Andrea/Sergio contra el texto en vivo antes de
-publicar.
+`blog-revision-seo-calidad` ha revisado los tres artículos (2026-10-30)
+contra el checklist SEO on-page y el control de calidad real del
+proyecto, cruzando cada uno con `curacion-estrategia.md` y con su brief de
+investigación correspondiente (`seo/blog-web/investigacion/curacion-01-
+rentabilidad.md`, `curacion-02-cinco-tipos-negocio.md`, `curacion-03-guia-
+abrir-bar.md`) para confirmar que ningún dato citado está inventado o
+tergiversado.
+
+**Verificación de datos (punto más delicado del encargo) — sin hallazgos
+de datos inventados en ninguno de los tres.**
+- El dato de Inpulse.ai aparece en el #1 (margen neto Michelin 3-4%) y en
+  el #2 (food cost 24-30%/margen bruto 70-76%, pizzería napolitana/pasta
+  artesanal) — en ambos casos marcado explícitamente como mercado
+  francés, nunca presentado como dato español, en línea con el resto del
+  proyecto (Tema 5 ya publicado, Tema 6). El #3 no usa este dato.
+- El caso "María" (El Español) en el #1 se presenta exactamente con la
+  reserva que exigía el encargo: "anécdota ilustrativa, no... estadística"
+  y la aclaración de que "las cifras exactas... varían algo entre las
+  distintas piezas". No se usa en ningún momento como dato estadístico
+  cerrado.
+- El resto de cifras nuevas de esta curación (rentabilidad sectorial
+  -0,9%/+3,1% en 2025, rotación empresarial 21% vía CaixaBank Research,
+  19.300 cierres de bares en ocho años vía Anuario, precio medio del menú
+  del día 14,7€ vía Hostelería de España/Edenred, El Campero/Garelos/
+  Varra, Nomad Coffee y el 83% de Project Café España 2025, Sips/Paradiso
+  en el 50 Best Bars 2025, Pompette/Villette, Barr) se verificaron una por
+  una contra los tres briefs de investigación y coinciden sin
+  tergiversación — ninguna cifra aparece en los artículos sin respaldo en
+  el brief correspondiente.
+- **Única salvedad de procedencia, no un dato inventado, que merece
+  quedar anotada para Andrea/Sergio:** el rango "margen neto sano 8-15%"
+  que cita el #1 no figura en el brief de investigación de esta ronda de
+  curación — viene, según indica el propio `blog-redaccion` en su entrega,
+  de la confirmación que hizo Andrea en su momento (`listado-temas.md`,
+  sección 5) de que ese es el rango que ya usa el artículo en vivo de
+  rentabilidad. Es decir: es una cifra trazable a una confirmación humana
+  anterior sobre el contenido ya publicado, no una invención de esta
+  cadena de especialistas — pero ningún brief de esta ronda la vuelve a
+  verificar de forma independiente. Como el propio artículo señala en su
+  nota final que no se ha podido comparar contra el texto en vivo, pido
+  que esta cifra en concreto sea una de las que Andrea/Sergio confirmen al
+  cotejar el artículo nuevo contra el publicado, antes de sustituirlo.
+- Nota menor de atribución (no bloquea, solo a afinar): el #1 atribuye el
+  dato de rentabilidad -0,9%/+3,1% "según el Anuario de la Hostelería de
+  España y el INE", mientras que en el resto del proyecto (artículo del
+  Tema 5 ya redactado, y el propio brief de esta curación) esa cifra
+  concreta se atribuye de forma más precisa solo a "Anuario de la
+  Hostelería de España, recogido por Hosteltur" (el INE respalda otras
+  cifras del proyecto, como el +30% de encarecimiento de materia prima o
+  el IPC, no necesariamente esta). No es un dato falso ni inventado — es
+  una atribución combinada que convendría afinar para que cite
+  exactamente la misma fuente que ya usa el resto del proyecto para este
+  número.
+
+**Enlaces internos — cumplen la regla pedida, nada inventado.**
+- #1: enlaces reales a la regla 50/30/20 y a punto de equilibrio (URLs
+  confirmadas en el proyecto); el enlace al artículo de food cost (Tema 5)
+  queda correctamente marcado como *"enlace pendiente... todavía no está
+  publicado en la web en vivo"*, no como URL inventada.
+- #2: tres enlaces reales (guía de apertura, café de especialidad,
+  rentabilidad), todos URLs ya verificadas en otros puntos del proyecto.
+  No necesita enlace "pendiente" porque no depende de ningún artículo sin
+  publicar.
+- #3: enlaces reales a rentabilidad, a los 5 tipos de negocio y a punto de
+  equilibrio; el enlace al artículo de licencias (Tema 1) queda también
+  correctamente marcado como *"enlace pendiente... todavía no publicado en
+  la web en vivo"*. Se prefirió omitir el enlace a "Common mistakes when
+  opening a restaurant" en vez de inventar una URL — decisión correcta.
+
+**Año "2024" en la URL del #2 — queda anotado con claridad, tal como pedía
+el encargo.** La URL conserva `-en-2024/` tal cual, el H1 pasa a "en 2026"
+y el cuerpo no menciona "2024" en ningún punto — confirmado leyendo el
+artículo completo. El propio archivo deja la nota explícita al final:
+*"Se mantiene la URL original (con '2024') por indicación explícita del
+encargo, aunque el H1 y el contenido ya no la mencionan."* Esto es
+exactamente lo que pedía el encargo para no perder el posicionamiento ya
+ganado si la URL cambiara sin querer al publicar.
+
+**Reparto de roles del #1 (rentabilidad vs. food cost vs. 50/30/20) —
+respetado.** El #1 mantiene su rol de "mapa entero": el food cost se
+menciona solo como una partida más dentro de "los costes que de verdad hay
+que sumar", con un párrafo breve y enlace de salida al artículo dedicado,
+sin desarrollar ninguna fórmula de food cost ni repetir los rangos del
+Tema 5. No se ha convertido en un artículo de food cost. El cierre
+("primero food cost, después plantilla, luego precio") da un criterio de
+priorización propio sin duplicar las "tres palancas" que ya desarrolla el
+Tema 5 en detalle.
+
+**Checklist SEO on-page — en general bien resuelto en los tres, con dos
+ajustes menores de header aplicados directamente en esta revisión (no
+cambian contenido de fondo):**
+- H1: claro, con keyword, sin relleno en los tres.
+- Meta descripción: las tres están dentro de un rango razonable (~150-165
+  caracteres según conteo manual), dan un motivo real de clic, no
+  clickbait. No requieren cambio.
+- Jerarquía de headers: un único H1 y H2 en los tres, sin saltos a H3/H4,
+  y los H2 funcionan como índice legible en los tres (especialmente claro
+  en el #3: diagnóstico → local → trámites → después de abrir).
+- Uso de keyword: presente de forma natural en título y primer párrafo en
+  los tres. En el #2 ya aparecía también en un H2 ("Qué hace rentable a un
+  negocio de hostelería, estructuralmente"). En el #1 y el #3 ningún H2
+  contenía la keyword literal (solo sinónimos como "margen" o la mención
+  de "bar" sin "abrir un bar") — **corregido directamente en esta
+  revisión**: en el #1 el primer H2 pasa de "Las tres fórmulas que
+  necesitas..." a "Las tres fórmulas de rentabilidad que necesitas..."; en
+  el #3 el H2 del Paso 0 pasa de "...antes de cualquier trámite
+  (Breakdown)" a "...antes de abrir un bar (Breakdown)". Es un ajuste de
+  una frase en cada caso, sin tocar ningún dato ni argumento.
+- Enlaces: ver apartado específico arriba.
+- Legibilidad: párrafos cortos, uso de negrita y listas, sin bloques
+  densos sin respiro — correcto en los tres.
+
+**Control de calidad real ("¿es relevante o es relleno?") — los tres
+pasan.** Ninguno es una lista de puntos sin jerarquía ni un explicador
+genérico intercambiable con cualquier consultora: el #1 tiene un criterio
+propio de margen (8-15%) contrastado explícitamente contra la competencia
+sin fuente, y un orden de prioridad de acción (food cost → plantilla →
+precio) que es una opinión de consultoría, no un dato neutro; el #2 hace
+un reframe honesto (no existe ranking defendible, así que no se inventa
+uno) y sostiene el criterio estructural con casos reales con nombre propio
+en vez de categorías genéricas; el #3 antepone explícitamente el
+diagnóstico (Breakdown) al papeleo, con una frase de voz propia de
+consultoría ("el error más caro que vemos en consultoría no es
+administrativo, es de secuencia") que ninguna guía de la competencia
+rastreada ofrece. Ninguno de los tres suena a agencia SEO genérica.
+
+**Advertencia que se traslada también aquí, no solo en los tres archivos
+(punto 5 del encargo):** ninguno de los tres briefs de investigación ni
+esta revisión han podido leer el texto que hoy está publicado en
+`thebarnbarconsulting.com` — el dominio no fue accesible para ningún
+especialista de la cadena en esta sesión. Los tres artículos son
+reescrituras completas, no ediciones del texto en vivo, verificadas
+internamente (contra la estrategia, la investigación y entre sí) pero
+**no contra el artículo que existe hoy en la web**. Esto no es un defecto
+de los artículos, es un límite real de esta sesión que Andrea o Sergio
+deben resolver antes de sustituir nada: comparar cada uno de los tres
+contra su versión en vivo, con atención especial a si el texto actual ya
+trae algún enlace, matiz o dato que esta reescritura no pudo contrastar
+(incluida la cifra de margen 8-15% del #1, señalada arriba).
+
+**Veredicto de esta revisión: los tres quedan listos para pasar a
+Andrea/Sergio** (nunca "publicado" — esa decisión sigue siendo solo de
+ellos), con dos condiciones explícitas que no bloquean el paso pero sí la
+publicación en vivo:
+1. Comparación directa de cada uno contra el artículo que hoy está
+   publicado (bloqueo de red de toda la cadena, no se pudo hacer antes).
+2. Verificación directa del rango "margen neto sano 8-15%" del #1 contra
+   el artículo en vivo, dado que esta ronda no lo reverificó de forma
+   independiente.
+No se detectó ningún dato inventado, ningún enlace inventado, ninguna
+pérdida del matiz "mercado francés" de Inpulse.ai, ninguna estadística sin
+reserva sobre el caso de El Español, y el año "2024" del #2 queda
+correctamente anotado en el propio archivo. Los dos ajustes de header
+(keyword en H2 del #1 y del #3) ya quedaron aplicados directamente en los
+archivos como parte de esta revisión.
+
+Los tres artículos pasan a **Revisión hecha — listos para Andrea/Sergio**
+en el seguimiento de esta curación.
 
 | Curación | Fase | Artículo | URL real (mantener al publicar) |
 |---|---|---|---|
-| #1 Rentabilidad | 🟡 Borrador | [`seo/blog-web/articulos/curacion-01-rentabilidad.md`](articulos/curacion-01-rentabilidad.md) | `/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/` |
-| #2 5 tipos de negocio | 🟡 Borrador | [`seo/blog-web/articulos/curacion-02-cinco-tipos-negocio.md`](articulos/curacion-02-cinco-tipos-negocio.md) | `/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024/` |
-| #3 Guía abrir un bar | 🟡 Borrador | [`seo/blog-web/articulos/curacion-03-guia-abrir-bar.md`](articulos/curacion-03-guia-abrir-bar.md) | `/guia-completa-para-abrir-un-bar/` |
+| #1 Rentabilidad | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo y verificación del rango 8-15%) | [`seo/blog-web/articulos/curacion-01-rentabilidad.md`](articulos/curacion-01-rentabilidad.md) | `/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/` |
+| #2 5 tipos de negocio | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-02-cinco-tipos-negocio.md`](articulos/curacion-02-cinco-tipos-negocio.md) | `/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024/` |
+| #3 Guía abrir un bar | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-03-guia-abrir-bar.md`](articulos/curacion-03-guia-abrir-bar.md) | `/guia-completa-para-abrir-un-bar/` |
