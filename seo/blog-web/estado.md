@@ -1167,3 +1167,109 @@ artículo publicado hoy en `/como-hacer-crecer-tu-bar/` antes de
 sustituirlo, por si el texto actual trae algún matiz, dato o enlace que
 esta reescritura no pudo contrastar por el bloqueo de red ya señalado en
 todo el proyecto.
+
+---
+
+`blog-revision-seo-calidad` ha revisado los artículos de la curación #7
+(regla 50/30/20) y #11 (fin de la monodosis) (2026-10-30), contra el
+checklist SEO on-page y el control de calidad real del proyecto
+("¿esto es relevante e interesante, o es relleno?"), cruzando cada uno con
+`curacion-estrategia.md` y con su brief de investigación correspondiente
+(`seo/blog-web/investigacion/curacion-07-regla-50-30-20.md` y
+`curacion-11-fin-monodosis.md`).
+
+**#7 — Regla 50/30/20 (`seo/blog-web/articulos/curacion-07-regla-50-30-20.md`).**
+Foco de esta revisión: el matiz de honestidad (la "regla 50/30/20" es el
+framework de finanzas personales de Elizabeth Warren, 2005, no un estándar
+de hostelería) y si queda tratado como valor añadido o como corrección
+avergonzada.
+
+- **Tratamiento del matiz — correcto.** El H2 1 lo cuenta con seguridad,
+  no a la defensiva: *"No es un error grave. Es una aclaración que merece
+  la pena hacer con honestidad, en vez de dejar que el lector dé por
+  bueno un estándar que no existe con ese nombre."* Nombra la fuente real
+  (Elizabeth Warren y Amelia Warren Tyagi, *All Your Worth*, 2005) y de
+  inmediato da la alternativa real del sector (la regla 30/30/30/10,
+  equivalente al reparto 30/60/10 de TBNB) — exactamente "se nota que
+  sabemos", no "nos equivocamos antes".
+- **Checklist SEO — resuelto sin necesidad de cambios.** H1 claro con la
+  keyword. Meta descripción de 158 caracteres (contados de nuevo en esta
+  revisión), dentro de rango, con motivo real de clic, no clickbait.
+  Jerarquía de headers correcta: un único H1 y cinco H2 que funcionan como
+  índice (origen del nombre → reparto real del sector → vigencia del 30%
+  en 2026 → presión del 60% operativo → el framework como brújula). La
+  keyword "regla 50/30/20" aparece de forma natural en título, primer
+  párrafo y en el propio H2 1, sin repetición forzada.
+- **Enlaces internos — verificados, ninguno inventado.** Enlaza a
+  `/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/` (#1, ya
+  curado) y a `/punto-de-equilibrio-en-restauracion-cuanto-necesitas-vender/`
+  (#4). **Enlace recíproco #4→#7 confirmado ya resuelto:** el artículo #4
+  ya incorporó, en su propia pasada de revisión anterior, un enlace real
+  de vuelta a la regla 50/30/20 al final de su primer H2 (ver nota interna
+  de `curacion-04-punto-equilibrio.md`) — no hacía falta ninguna acción
+  nueva aquí. El enlace pendiente al artículo de food cost (Tema 5, aún
+  sin publicar) queda correctamente marcado como nota entre corchetes, no
+  como URL inventada.
+- **Control de calidad real — pasa.** No es un explicador genérico de
+  "qué es la regla 50/30/20": tiene una postura propia (el nombre es un
+  préstamo de finanzas personales, el reparto real tiene otro nombre y
+  TBNB lo sitúa en el contexto de 2026 con datos de encarecimiento de
+  materia prima y SMI). No suena a agencia SEO ni a corrección vergonzosa.
+
+**Veredicto #7: no necesita ningún cambio.** Se revisó a fondo y no se ha
+aplicado ningún ajuste cosmético por aplicar algo — el artículo ya estaba
+bien resuelto en checklist y en honestidad del matiz. Queda **listo para
+que Andrea/Sergio lo revisen.**
+
+**#11 — Fin de la monodosis (`seo/blog-web/articulos/curacion-11-fin-monodosis.md`).**
+Foco de esta revisión: que la base legal citada sea el Reglamento (UE)
+2025/40 (envases) y no la Ley 1/2025 (desperdicio alimentario), sin
+mezclar las dos normas.
+
+- **Tratamiento legal — correcto, sin mezclar las dos normas.** El propio
+  H2 "Qué dice realmente la normativa (y qué no)" separa explícitamente
+  ambas leyes: la Ley 1/2025 regula envases gratuitos para sobras y
+  raciones pequeñas en carta (desperdicio alimentario), y aclara
+  literalmente que "ninguna fuente confirma que regule los envases
+  monodosis". El fin de la monodosis se atribuye correctamente al
+  Reglamento (UE) 2025/40 (envases y residuos de envases), con las fechas
+  correctas (aplicación general 12 de agosto de 2026, prohibición plena de
+  monodosis en hostelería en vigor hasta el 1 de enero de 2030). No hay
+  ningún punto del cuerpo del texto donde se confundan ambas normas.
+- **Checklist SEO — un ajuste aplicado directamente.** H1 claro con
+  keyword. Meta descripción dentro de rango (151 caracteres contados en
+  esta revisión, el rótulo interno decía "158 car." por error de cálculo
+  de origen, sin impacto real porque 151 sigue dentro de 140-160). Jerarquía
+  correcta: H1 → H2 → H3 (Breakdown/Architecture/Run dentro del H2 del BAR
+  Method) → vuelta a H2, sin saltos. Keyword "monodosis" presente en
+  título, primer párrafo y en un H2 (el del BAR Method). **El artículo no
+  traía ningún enlace interno real** — el único enlace mencionado era una
+  nota de "pendiente" al artículo de APPCC, todavía sin publicar, lo que
+  incumplía el checklist de "al menos un enlace interno real". Se añadió
+  directamente en el archivo una frase con enlace real a
+  [cómo reducir los gastos de un bar](/como-reducir-los-gastos-de-un-bar/)
+  (URL confirmada entre las 14 de `curacion-blogs-mas-visitados-2026-10.md`,
+  no inventada) al final del H2 "Esto no es una decisión ecológica, es una
+  decisión de coste e higiene" — conexión temática natural (ambos
+  artículos tratan la misma idea: decidir con números propios, no recortar
+  a ciegas), sin tocar ningún dato, cifra ni el tratamiento legal.
+- **Control de calidad real — pasa.** El artículo tiene una tesis propia
+  (esto no es una decisión ecológica ni voluntaria, es una decisión de
+  coste e higiene) y aplica el BAR Method de forma genuina a un problema
+  operativo concreto (qué formato por producto, con protocolo de limpieza
+  y trazabilidad), en vez de dar una lista plana de "alternativas a la
+  monodosis". No suena a blog de sostenibilidad genérico ni a agencia SEO.
+
+**Veredicto #11: un ajuste aplicado (enlace interno), nada más.** No se ha
+tocado ningún dato, cifra, fecha ni el tratamiento de las dos normativas,
+que ya estaba correctamente resuelto antes de esta revisión. Queda
+**listo para que Andrea/Sergio lo revisen.**
+
+Ambos artículos pasan a **Revisión hecha — listos para Andrea/Sergio** en
+el seguimiento de esta curación (recordatorio: esto nunca significa
+"publicado" — esa decisión sigue siendo solo de Andrea o Sergio).
+
+| Curación | Fase | Artículo | URL real (mantener al publicar) |
+|---|---|---|---|
+| #7 Regla 50/30/20 | 🟡 Revisión hecha — listo para Andrea/Sergio (sin cambios necesarios; pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-07-regla-50-30-20.md`](articulos/curacion-07-regla-50-30-20.md) | `/que-es-la-regla-50-30-20-en-la-hosteleria/` |
+| #11 Fin de la monodosis | 🟡 Revisión hecha — listo para Andrea/Sergio (ajuste de enlace interno aplicado; pendiente comparación con el artículo en vivo y verificación directa del Reglamento (UE) 2025/40 antes de publicar) | [`seo/blog-web/articulos/curacion-11-fin-monodosis.md`](articulos/curacion-11-fin-monodosis.md) | `/fin-monodosis-restaurantes/` |
