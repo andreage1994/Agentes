@@ -1029,6 +1029,7 @@ en el seguimiento de esta curación.
 | #2 5 tipos de negocio | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-02-cinco-tipos-negocio.md`](articulos/curacion-02-cinco-tipos-negocio.md) | `/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024/` |
 | #3 Guía abrir un bar | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-03-guia-abrir-bar.md`](articulos/curacion-03-guia-abrir-bar.md) | `/guia-completa-para-abrir-un-bar/` |
 | #7 Regla 50/30/20 | 🟡 Borrador — pendiente de `blog-revision-seo-calidad` | [`seo/blog-web/articulos/curacion-07-regla-50-30-20.md`](articulos/curacion-07-regla-50-30-20.md) | `/que-es-la-regla-50-30-20-en-la-hosteleria/` |
+| #12 Crecer el bar | 🟡 Borrador — pendiente de `blog-revision-seo-calidad` | [`seo/blog-web/articulos/curacion-12-crecer-tu-bar.md`](articulos/curacion-12-crecer-tu-bar.md) | `/como-hacer-crecer-tu-bar/` |
 
 `blog-investigacion` ha entregado los tres encargos del lote 12-13-14
 (2026-10-30): `seo/blog-web/investigacion/curacion-12-crecer-tu-bar.md`
@@ -1103,3 +1104,66 @@ criterio de precaución que el resto del proyecto. El cierre es una idea
 propia de TBNB (el framework como brújula, no como ley) sin CTA de venta
 forzado. El artículo pasa a **Borrador**, pendiente de
 `blog-revision-seo-calidad`.
+
+**`blog-redaccion` ha entregado el artículo del #12 (2026-10-30)**, en
+`seo/blog-web/articulos/curacion-12-crecer-tu-bar.md`. Es una reescritura
+completa (mismo motivo de bloqueo de red del resto de esta curación:
+`thebarnbarconsulting.com` no fue accesible en ninguna sesión de la
+cadena), no una edición del texto en vivo. Decisiones de redacción dentro
+del ángulo ya fijado por `blog-estrategia-seo` y del brief de
+`blog-investigacion`:
+
+- **Tesis central:** crecer sin Breakdown/Architecture resueltos (sistema
+  de costes, operativa, cultura) no escala — multiplica los problemas que
+  ya existían a pequeña escala. Se usa la cita literal de Sergio
+  (`equipo-tbnb.md`, ambas versiones documentadas, la del pptx comercial y
+  la más larga de `/bar-method/`) como columna del primer H2, no como
+  adorno de cierre.
+- **Matiz del Barómetro HIP 2026 — tratado con el cuidado que pedía el
+  encargo.** El H2 2 presenta el 55,2% en crecimiento y el 33,2% que
+  planea abrir nuevos locales (ambos del Barómetro HIP 2026, vía Vinetur)
+  junto al 86,2% que declara su negocio "rentable actualmente" —
+  explícitamente como percepción del hostelero encuestado— y los separa
+  con claridad de la rentabilidad sectorial negativa (-0,9% en 2025, vía
+  Anuario de la Hostelería de España/Hosteltur), aclarando en el propio
+  texto que son mediciones distintas, de fuentes distintas, que conviven
+  sin ser contradictorias. No se mezclan como si fueran el mismo dato, tal
+  como exigía el aviso del encargo.
+- **Dato de personal (34%, HIP 2026)** usado en el H2 1 como refuerzo de
+  por qué crecer sin sistema pesa más en 2026: multiplica también la
+  dependencia de personal cualificado que ya escasea.
+- **Caso Barbarian (Lima, Perú, vía Forbes)** usado en el H2 3 como
+  ejemplo de "diversificar dentro del mismo local", marcado explícitamente
+  como mercado peruano y no español, tal como exigía el encargo — con las
+  cifras exactas del brief (cócteles de <1% a ~20% de ventas; cerveza
+  ~40%, comida ~38%).
+- **Patrón de marcas hermanas (Kadeau → Sonny/Kani, Copenhague)** usado en
+  el mismo H2 3 como ejemplo de "crecer sin clonar el concepto original",
+  con la honestidad que pedía el brief: se dice explícitamente que es un
+  patrón de alta cocina trasladado por extensión a un bar, no un caso de
+  un bar idéntico al lector.
+- **Reforzado, sin citarlo como dato de mercado con cifra,** el argumento
+  de fuentes anglosajonas de que abrir una segunda ubicación pone a prueba
+  si el negocio funciona sin la presencia constante del dueño — se usa en
+  el H2 1 como refuerzo narrativo de la validez del ángulo TBNB, sin
+  nombrarlo como estudio ni dato citable, tal como pedía el brief.
+- **Enlaces internos:** solo a URLs reales ya confirmadas en el proyecto —
+  [cómo calcular la rentabilidad de un negocio de hostelería](/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/),
+  [la regla 50/30/20 en la hostelería](/que-es-la-regla-50-30-20-en-la-hosteleria/)
+  y [guía completa para abrir un bar](/guia-completa-para-abrir-un-bar/).
+  No se enlaza el artículo de food cost (Tema 5) por no tener URL de
+  publicación confirmada todavía — se prefirió omitirlo a inventar un
+  enlace o una nota de "pendiente" adicional, ya que los tres enlaces
+  reales ya cubren con solidez el H2 4.
+- **Ningún dato fuera del brief de investigación o del listado de temas**
+  — ninguna cifra, cita o caso nuevo se ha añadido sin respaldo en
+  `seo/blog-web/investigacion/curacion-12-crecer-tu-bar.md` o en
+  `equipo-tbnb.md`.
+
+El artículo queda en **Borrador — listo para `blog-revision-seo-calidad`**.
+Mismo aviso que el resto de esta curación: es una reescritura completa, no
+una edición del texto en vivo — Andrea/Sergio deben comparar contra el
+artículo publicado hoy en `/como-hacer-crecer-tu-bar/` antes de
+sustituirlo, por si el texto actual trae algún matiz, dato o enlace que
+esta reescritura no pudo contrastar por el bloqueo de red ya señalado en
+todo el proyecto.

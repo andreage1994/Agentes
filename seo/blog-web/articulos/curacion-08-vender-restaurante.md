@@ -13,7 +13,7 @@ Si estás valorando vender tu restaurante, esto es lo primero que tienes que ent
 
 Facturar mucho ya no impresiona a nadie que sepa lo que está comprando. El sector español cerró el periodo enero-septiembre de 2025 con rentabilidad negativa (-0,9%) a pesar de que la producción de la restauración creció un 9,9% en 2024 (116.193 millones de euros), y el IPC de restauración (4,8%) corrió muy por encima del IPC general (2,3%, febrero 2026), según el Anuario de la Hostelería de España y el INE. Un comprador que haya hecho los deberes sabe que un restaurante lleno puede no estar ganando dinero — así que no va a pagar por tu facturación, va a pagar por tu margen. Si no se lo puedes enseñar con claridad, va a asumir lo peor y negociar a la baja.
 
-## Preparar el negocio para vender sube el precio real — aunque no exista un estudio que lo diga
+## Preparar tu restaurante para vender sube el precio real — aunque no exista un estudio que lo diga
 
 No te vamos a dar un porcentaje de cuánto sube el precio de venta por tener los números ordenados. No existe: ningún estudio de mercado mide esa diferencia, y cualquier cifra que veas citada en otro sitio está inventada o repetida sin fuente, no la vas a encontrar aquí. Lo que sí tenemos, después de años dentro de negocios reales, es un criterio claro: un comprador paga más por lo que entiende y menos por lo que le genera dudas.
 
@@ -39,3 +39,5 @@ Nadie prepara un restaurante pensando en el día que lo va a vender. Pero los ne
 ---
 
 *Nota interna (no forma parte del artículo publicado): esta es una reescritura completa, no una edición del texto que hoy está en la web — el dominio `thebarnbarconsulting.com` no fue accesible para investigación en esta sesión. Compárese con el artículo en vivo antes de sustituirlo. No se cita ningún porcentaje de cuánto sube el precio de venta por tener el negocio ordenado, tal como exige el brief de investigación (`seo/blog-web/investigacion/curacion-08-vender-restaurante.md`): no existe ese dato de mercado, y el ángulo se sostiene en criterio de experiencia TBNB, no en una estadística. El mecanismo fiscal de la plusvalía se presenta sin citar a Merca2/Traspaso Restaurante como fuente neutral, al tratarse de una empresa intermediaria de traspasos (fuente de parte interesada) — se usa solo el mecanismo de cálculo, verificable por lógica fiscal, no una cifra suya de mercado. No se enlaza a `/traspasos/`, `/comprar-restaurante-traspaso/` ni `/comprar-un-restaurante/`, tal como pide explícitamente el brief, por ser hoy contenido fragmentado con posición que empeora.*
+
+*Ajuste de `blog-revision-seo-calidad` (2026-10-30): se cambió una palabra en el segundo H2 ("el negocio" → "tu restaurante") para reforzar la presencia literal de la keyword "vender un restaurante" en un H2, sin tocar ningún dato ni argumento.*

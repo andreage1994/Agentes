@@ -9,7 +9,7 @@
 
 Hacer crecer un bar no es vender más ni abrir una segunda puerta. Es escalar algo que ya funciona de forma ordenada — y eso solo es posible si, antes de intentarlo, el negocio tiene un sistema: costes claros, una operativa que no depende de que tú estés detrás de la barra, y una cultura de equipo que se sostiene sola. Sin eso, crecer no resuelve nada. Multiplica exactamente lo que ya fallaba a pequeña escala, solo que ahora en dos sitios a la vez.
 
-## Crecer sin sistema no es crecer, es multiplicar el problema
+## Hacer crecer tu bar sin sistema no es crecer, es multiplicar el problema
 
 Lo dice Sergio, cofundador de TBNB, con una frase que usamos tal cual porque resume el argumento entero: *"Un buen concepto necesita un buen sistema. Sin eso, todo lo demás es improvisar con estilo."* Y en una versión más larga de la misma idea: *"Una buena idea sin un sistema acaba encontrando un techo."*
 
@@ -50,3 +50,5 @@ Crecer un bar no es tener más ganas de crecer que el resto. Es haber hecho, ant
 ---
 
 *Nota interna (no forma parte del artículo publicado): esta es una reescritura completa a partir de la estrategia y la investigación de `blog-investigacion`, no una edición del texto que hoy está en la web — el dominio `thebarnbarconsulting.com` no se pudo leer en esta sesión por restricción de red (ni en esta tarea ni en las anteriores de esta curación). Compárese con el artículo en vivo antes de sustituirlo.*
+
+*Ajuste de `blog-revision-seo-calidad` (2026-10-30): se reforzó el primer H2 ("Crecer sin sistema..." → "Hacer crecer tu bar sin sistema...") para que la keyword literal "hacer crecer tu bar" aparezca también en un H2, sin tocar ningún dato ni argumento.*
