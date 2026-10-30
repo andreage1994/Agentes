@@ -1273,3 +1273,138 @@ el seguimiento de esta curación (recordatorio: esto nunca significa
 |---|---|---|---|
 | #7 Regla 50/30/20 | 🟡 Revisión hecha — listo para Andrea/Sergio (sin cambios necesarios; pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-07-regla-50-30-20.md`](articulos/curacion-07-regla-50-30-20.md) | `/que-es-la-regla-50-30-20-en-la-hosteleria/` |
 | #11 Fin de la monodosis | 🟡 Revisión hecha — listo para Andrea/Sergio (ajuste de enlace interno aplicado; pendiente comparación con el artículo en vivo y verificación directa del Reglamento (UE) 2025/40 antes de publicar) | [`seo/blog-web/articulos/curacion-11-fin-monodosis.md`](articulos/curacion-11-fin-monodosis.md) | `/fin-monodosis-restaurantes/` |
+
+---
+
+`blog-revision-seo-calidad` ha revisado también los artículos de la
+curación #5 (horario ininterrumpido) y #6 (su espejo en inglés) (2026-10-30),
+contra el mismo checklist SEO on-page y el mismo control de calidad real
+("¿esto es relevante e interesante, o es relleno?"), cruzando cada uno con
+`curacion-estrategia.md` (puntos 5 y 6) y con su brief de investigación
+correspondiente (`seo/blog-web/investigacion/curacion-05-horario-
+ininterrumpido.md` y `curacion-06-en-5-tipos-negocio.md`).
+
+**#5 — Horario ininterrumpido
+(`seo/blog-web/articulos/curacion-05-horario-ininterrumpido.md`).** Foco
+de esta revisión: el encargo es un *quick win* de CTR (la posición ya es
+buena, 6,69), así que el peso cae en título/meta, no en reescritura de
+fondo.
+
+- **Checklist SEO — bien resuelto, con un único ajuste de enlace interno
+  aplicado directamente.** H1 claro, con la keyword y sin relleno
+  artificial. Meta descripción: se recontaron los caracteres uno por uno
+  y da exactamente 145, dentro del rango 140-160, con un motivo real de
+  clic (el dato del tardeo en Madrid), no clickbait vacío. Jerarquía de
+  headers correcta: un único H1 y cuatro H2 que funcionan como índice
+  (el dato del tardeo → otros momentos de consumo → qué tener en cuenta →
+  cierre editorial), sin saltos a H3/H4. La keyword "horario
+  ininterrumpido" aparece de forma natural en título, primer párrafo y en
+  el H2 3 ("Qué tener en cuenta antes de pasar a horario ininterrumpido"),
+  sin repetición forzada. **El artículo no traía ningún enlace interno** —
+  el propio brief de investigación (sección 5) ya avisaba de que no había
+  ningún artículo propio directamente relacionado con horarios o tardeo,
+  así que no es un descuido de `blog-redaccion`, pero sí incumplía el
+  checklist de "al menos un enlace interno real". Se añadió directamente
+  en el archivo una frase con enlace real a [punto de equilibrio en
+  restauración](/punto-de-equilibrio-en-restauracion-cuanto-necesitas-vender/)
+  (URL ya confirmada en este proyecto) dentro del tercer punto de "Qué
+  tener en cuenta antes de pasar a horario ininterrumpido" — conexión
+  temática genuina, no forzada: el propio punto ya hablaba de medir si
+  cada franja nueva cubre su coste fijo antes de asumir que "se paga
+  sola", que es literalmente la lógica del punto de equilibrio aplicada a
+  una franja horaria en vez de al negocio entero. No se ha tocado ningún
+  dato del tardeo ni ningún otro contenido.
+- **Control de calidad real — pasa.** No es un explicador genérico de "por
+  qué abrir todo el día": matiza con honestidad el dato más fuerte (el
+  26,3% de facturación es de los locales que **ya** ofrecen tardeo, sobre
+  solo 800 de 27.767 locales de ocio en Madrid, no una media del sector) y
+  conecta tres datos de consumo distintos (tardeo, nocturno, fin de
+  semana) sin mezclarlos como si fueran el mismo fenómeno — ningún
+  competidor rastreado por `blog-investigacion` conecta hoy el horario
+  ininterrumpido con el tardeo como tendencia 2026, así que el ángulo es
+  terreno propio, no relleno de agencia.
+
+**Veredicto #5: un ajuste aplicado (enlace interno), nada más.** No se ha
+tocado el H1, la meta descripción, ningún dato del tardeo ni el resto del
+contenido, que ya estaba correctamente resuelto antes de esta revisión.
+Queda **listo para que Andrea/Sergio lo revisen.**
+
+**#6 — The 5 Most Profitable Hospitality Business Types in Spain
+(`seo/blog-web/articulos/curacion-06-en-5-tipos-negocio.md`).** Foco de
+esta revisión: que el espejo en inglés mantenga el mismo criterio
+estructural que el #2 ya revisado y aprobado
+(`curacion-02-cinco-tipos-negocio.md`), sin ángulo nuevo, y que la
+adaptación a audiencia internacional (expat/inversor evaluando España)
+esté bien resuelta. Se revisó en su propio idioma (inglés), sin
+traducirlo ni cambiarlo de idioma, tal como pedía el encargo.
+
+- **Checklist SEO — ya bien resuelto, no requiere ningún cambio.** H1
+  claro, con la keyword principal ("Most Profitable Hospitality Business
+  Types in Spain") y la aclaración "in Spain" que pide explícitamente el
+  encargo para audiencia internacional, sin relleno. Meta descripción: se
+  recontó y da aproximadamente 152 caracteres, dentro de rango, con un
+  motivo real de clic (desmontar la idea de que existe un ranking
+  oficial), no clickbait. Jerarquía de headers correcta: un único H1 y
+  ocho H2 que funcionan como índice (qué hace rentable un negocio → los 5
+  casos numerados → nota para quien evalúa España desde fuera → cierre),
+  sin saltos a H3/H4 — misma estructura que el #2 ya aprobado. La keyword
+  aparece de forma natural en título y primer párrafo, y el H2 1 ("What
+  makes a hospitality business profitable, structurally") ya trae la
+  keyword central sin forzarla — es la misma traducción literal del H2 1
+  del #2, que ya se había confirmado en su revisión que no necesitaba
+  ningún ajuste de keyword en H2 por la misma razón.
+- **Enlaces internos — verificados, ninguno inventado.** Enlaza a la
+  versión en español ya curada
+  (`/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024/`, #2) y a
+  la guía de abrir un bar (`/guia-completa-para-abrir-un-bar/`, #3, con
+  aviso explícito de "in Spanish" para el lector angloparlante) — ambas
+  URLs reales ya confirmadas en este proyecto. Correctamente **no** se
+  enlaza ninguna versión en inglés de `/como-vender-cafe-de-especialidad/`
+  por no existir confirmada, y se deja explícito en la nota interna por
+  qué tampoco se usa `/en/transitioning-to-specialty-coffee-with-the-bar-n-bar-2/`
+  (candidata a fusión, no una página a la que enlazar como si fuera
+  equivalente) — decisión correcta, nada inventado.
+- **Año "2024" en la URL — tratado igual que en el #2, correctamente.** La
+  URL conserva `-in-2024/` tal cual, el H1 dice explícitamente "(and Why
+  They Work)" sin mencionar el año, y el cuerpo no menciona "2024" en
+  ningún punto — mismo criterio ya aprobado en el #2 para no perder el
+  posicionamiento ganado.
+- **Datos y fuentes — consistentes con el #2 ya verificado, con matices
+  de audiencia añadidos correctamente.** Inpulse.ai sigue marcado como
+  mercado francés ("It's a French data point, not a Spanish one"); Barr y
+  Pompette/Villette siguen marcados como Copenhague, no España, con el
+  cuidado adicional que pedía el brief de aclarar la ciudad en cada
+  mención para un lector internacional sin el contexto dado por hecho de
+  un lector español; el dato nuevo de aperturas/cierres (38.015 vs.
+  34.247, 2023) se presenta correctamente con el matiz de fuente de menor
+  fiabilidad ("Global Citizen Solutions — a lower-reliability source than
+  official statistics, worth citing with that caveat"). Ningún dato se
+  presenta con más autoridad de la que realmente tiene.
+- **Control de calidad real — pasa.** No es una traducción plana ni un
+  artículo que podría firmar cualquier consultora: abre desmontando
+  explícitamente la ausencia de un ranking fiable en inglés sobre este
+  tema (con la comparación honesta de qué sí existe en inglés —informes de
+  inversión hotelera a gran escala— y qué no), sostiene el mismo criterio
+  estructural del #2 con casos reales con nombre propio, y cierra con una
+  tesis propia ("choosing the model is half the work") sin sonar a listado
+  genérico de tendencias.
+
+**Veredicto #6: no necesita ningún cambio.** Se revisó a fondo contra el
+checklist y contra el criterio de calidad real, y no se ha aplicado ningún
+ajuste cosmético por aplicar algo — el artículo ya estaba bien resuelto
+como espejo fiel y adaptado del #2. Queda **listo para que Andrea/Sergio
+lo revisen.**
+
+Ambos artículos (#5 y #6) pasan a **Revisión hecha — listos para
+Andrea/Sergio** en el seguimiento de esta curación (recordatorio: esto
+nunca significa "publicado" — esa decisión sigue siendo solo de Andrea o
+Sergio). Mismo aviso que el resto del proyecto: ninguno de los dos se pudo
+comparar contra el texto que hoy está en vivo (`thebarnbarconsulting.com`
+no fue accesible en esta sesión ni en las anteriores de la cadena) — es
+una reescritura/actualización verificada internamente, no contra el
+artículo publicado hoy.
+
+| Curación | Fase | Artículo | URL real (mantener al publicar) |
+|---|---|---|---|
+| #5 Horario ininterrumpido | 🟡 Revisión hecha — listo para Andrea/Sergio (ajuste de enlace interno aplicado; pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-05-horario-ininterrumpido.md`](articulos/curacion-05-horario-ininterrumpido.md) | `/horario-ininterrumpido-restaurante/` |
+| #6 The 5 Most Profitable Hospitality Businesses (EN) | 🟡 Revisión hecha — listo para Andrea/Sergio (sin cambios necesarios; pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-06-en-5-tipos-negocio.md`](articulos/curacion-06-en-5-tipos-negocio.md) | `/en/the-5-most-profitable-hospitality-businesses-in-2024/` |
