@@ -711,4 +711,61 @@ esa revisión:
   (Estrella Galicia / Mahou) sigue quedando resuelto con el mismo criterio
   tras la pasada de estilo final — el aviso se mantiene íntegro en
   contenido, solo contado de forma más conversacional.
-</content>
+
+## Curación de los 14 blogs más visitados (2026-10-30) — proyecto distinto, mismo departamento
+
+Encargo nuevo y separado del trabajo habitual con `listado-temas.md`:
+Sergio/Andrea pidieron curar (reenfocar) los 14 artículos del blog con más
+tráfico real de los últimos 6 meses (datos de Search Console), no elegir
+temas nuevos desde cero. `blog-estrategia-seo` ha entregado la
+priorización y el ángulo de cada uno en
+`seo/blog-web/curacion-estrategia.md`, a partir de
+`seo/blog-web/curacion-blogs-mas-visitados-2026-10.md` (ranking real) y
+`seo/medicion-mensual.md` (contexto de canibalización).
+
+Resumen de lo entregado:
+- Orden de prioridad de trabajo para los 14 (no es prioridad de tráfico,
+  es en qué orden conviene investigar/reescribir cruzando volumen,
+  recorrido de posición/CTR y claridad de ángulo).
+- Intención de búsqueda de cada uno, marcando si ha cambiado desde que se
+  escribió originalmente (caso claro: `/horario-ininterrumpido-restaurante/`
+  ahora conecta con el tardeo, tendencia 2026 documentada en el
+  Hospitality Report que no existía con ese peso cuando se escribió).
+- Ángulo TBNB competitivo por artículo, basado en conocimiento propio
+  (BAR Method, Hospitality Report, cita real de Sergio en `equipo-tbnb.md`)
+  en vez de research competitivo en vivo (eso lo hace `blog-investigacion`
+  después, sin WebSearch disponible en esta tarea).
+- Avisos de canibalización, incluido uno nuevo no pedido explícitamente
+  pero detectado: el artículo de punto de equilibrio
+  (`/punto-de-equilibrio-en-restauracion-cuanto-necesitas-vender/`) es, en
+  realidad, el que tiene más solape real con el trío fragmentado de
+  rentabilidad (`/rentabilidad-restaurante-lleno-sin-beneficios/`,
+  `/restaurante-factura-pero-no-gana/`,
+  `/tu-restaurante-esta-lleno-pero-no-ganas-dinero/`), más que el propio
+  artículo de rentabilidad general.
+- Recomendación explícita de fusión/redirección (no reescritura al mismo
+  nivel) para las dos páginas de tráfico casi nulo:
+  `/en/transitioning-to-specialty-coffee-with-the-bar-n-bar-2/` (2 clics,
+  candidata a fusionarse con `/como-vender-cafe-de-especialidad/` o a
+  reconvertirse en caso de estudio de servicio) y
+  `/por-que-contratar-la-consultoria-de-hosteleria/` (1 clic, candidata a
+  fusionarse con el Home o una página de servicio por intención
+  duplicada).
+- Confirmación explícita de que el tono pedido por Sergio/Andrea para esta
+  curación ("cercano pero con autoridad, reflexivo, estratégico para SEO")
+  no es un criterio nuevo — coincide con el ya fijado en
+  `seo/blog-web/BRIEF.md`.
+- Un artículo (`/fin-monodosis-restaurantes/`) queda con ángulo pendiente
+  de confirmar por `blog-investigacion`, porque no se ha podido leer el
+  contenido actual del artículo en esta tarea para confirmar su tema
+  exacto — se dejan dos pistas de conexión con el Hospitality Report y con
+  la Ley 1/2025 ya usada en el Tema 7, pero sin forzar un ángulo sin
+  confirmar primero de qué habla el artículo hoy.
+
+**Pendiente para `blog-investigacion` y `seo-arquitectura-web`:** el
+listado completo de pendientes queda al final de
+`seo/blog-web/curacion-estrategia.md` — en resumen, decidir fusión de
+páginas fragmentadas (rentabilidad y traspasos), confirmar el tema de
+`/fin-monodosis-restaurantes/`, y resolver las dos decisiones de
+fusión/reenfoque antes de invertir esfuerzo pleno de reescritura en esas
+páginas.
