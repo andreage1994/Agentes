@@ -1028,3 +1028,24 @@ en el seguimiento de esta curación.
 | #1 Rentabilidad | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo y verificación del rango 8-15%) | [`seo/blog-web/articulos/curacion-01-rentabilidad.md`](articulos/curacion-01-rentabilidad.md) | `/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/` |
 | #2 5 tipos de negocio | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-02-cinco-tipos-negocio.md`](articulos/curacion-02-cinco-tipos-negocio.md) | `/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024/` |
 | #3 Guía abrir un bar | 🟡 Revisión hecha — listo para Andrea/Sergio (pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-03-guia-abrir-bar.md`](articulos/curacion-03-guia-abrir-bar.md) | `/guia-completa-para-abrir-un-bar/` |
+
+`blog-investigacion` ha entregado los tres encargos del lote 12-13-14
+(2026-10-30): `seo/blog-web/investigacion/curacion-12-crecer-tu-bar.md`
+(brief de investigación para reescritura completa), y las recomendaciones
+cortas de fusión `seo/blog-web/investigacion/curacion-13-recomendacion-fusion.md`
+y `seo/blog-web/investigacion/curacion-14-recomendacion-fusion.md`
+(entregables finales, no requieren pasar por `blog-redaccion` salvo que se
+decida ejecutar la fusión). Para el #12: conocimiento propio de TBNB
+confirmado (cita de Sergio, patrón Kadeau/Sonny-Kani) + investigación
+competitiva nueva que confirma que la competencia da tácticas sueltas sin
+criterio de sistema, con un caso de apoyo nuevo (Barbarian, Perú, vía
+Forbes, marcado como no-español). Para el #13: no se pudo confirmar ni
+descartar si documenta un cliente real (dominio y página no indexados) —
+recomendación queda condicionada a que Andrea/Sergio lo confirmen. Para
+el #14: se precisó la canibalización con el dato ya real de
+`seo/medicion-mensual.md` (Home posición 28,74 vs. página de Barcelona
+3,56 para "consultoria hosteleria") — el destino de fusión recomendado es
+la página de Barcelona, no el Home.
+
+Lotes 2 (`#4-#7`) y 3 (`#8-#11`) de investigación en curso en segundo
+plano — se actualizará esta tabla cuando entreguen.
