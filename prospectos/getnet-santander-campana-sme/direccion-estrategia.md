@@ -1,11 +1,31 @@
 # Getnet × Santander — Dirección de Estrategia
-### Primera propuesta para la campaña de adopción de SMEs de hostelería
+### Primera propuesta — estrategia Getnet for SMEs 2027, vertical piloto hostelería
 
 **Estado:** propuesta preliminar de primer nivel, para la respuesta a Marta de
-la semana del 2026-11-09. No sustituye al briefing ejecutivo de Getnet, que
-todavía no hemos recibido — donde falta un dato duro (KPIs, presupuesto de
-medios, mercados objetivo, territorio de marca de Santander), lo decimos
-explícitamente como supuesto de trabajo, no como hecho.
+la semana del 2026-11-09. Revisada tras recibir el briefing ejecutivo real
+de Getnet (`briefing-ejecutivo-getnet.md`, 2026-11-02) — este documento ya
+lo incorpora. Donde el briefing sigue sin dar un dato duro (presupuesto de
+medios, territorio de marca de Santander, especificidad de México/Brasil),
+lo marcamos explícitamente como supuesto, no como hecho.
+
+**Lo que cambia el briefing respecto a nuestra primera lectura:** el
+encargo no es una campaña de adopción de un sistema de pago. Es una
+**estrategia de posicionamiento y marketing de Getnet para SMEs** —
+visibilidad, conexión con pequeños negocios y emprendedores, generación de
+oportunidades comerciales — que "debe ir más allá de comunicar soluciones
+de pago" y aportar valor real a la operativa y el crecimiento del negocio.
+Hostelería (restaurantes, bares, cafeterías) es la **vertical piloto**,
+antes de Retail, Travel y Health & Beauty. El alcance geográfico es
+**España, México y Brasil**, con un concepto creativo común adaptable por
+mercado — pero la activación/implementación la hacemos nosotros solo en
+España. Los KPIs pedidos son **notoriedad, interacción y generación de
+oportunidades comerciales**, no conversión directa de pago.
+
+Nuestro insight original — que el freno real no es el precio sino la
+confianza operativa — sigue siendo válido y sigue siendo nuestra ventaja
+diferencial. Pero ahora es **un pilar fuerte dentro de un posicionamiento
+de marca más amplio**, no el mensaje único de la campaña. Este documento
+está reescrito con ese orden de prioridades.
 
 Este documento cubre el territorio **estratégico** (oportunidad / reto /
 decisión, segmentación, barreras de adopción, por qué TBNB). El territorio
@@ -16,23 +36,29 @@ este texto es su base, no compite con él.
 
 ## LA PREGUNTA
 
-Antes de los tres bloques, la pregunta que ordena todo lo demás:
+El briefing pide un posicionamiento amplio ("aportar valor, ayudar a
+gestionar mejor el negocio y crecer"), no solo comunicar un medio de pago.
+Pero cualquier marca financiera puede decir "te ayudamos a crecer" — lo
+dicen todas. La pregunta que da credibilidad real a esa promesa, y que
+ordena todo lo demás, es más concreta:
 
 > **Si el TPV que tienes hoy funciona — aunque sea a medias —, ¿qué tendría
-> que pasar para que lo cambiaras en plena temporada alta?**
+> que pasar para que confiaras en que esta marca también entiende el resto
+> de tu negocio?**
 
-Nadie cambia de sistema de pago por un folleto bien diseñado ni por 0,1
-puntos menos de comisión. Lo cambia cuando deja de tener miedo a lo que
-pasa el día de la migración. Toda esta propuesta está construida sobre esa
-idea: el problema de Getnet con las SMEs de hostelería no es de producto,
-es de confianza operativa.
+Nadie se cree que una marca de pagos "entiende tu operativa" porque lo
+diga en un reel. Se lo cree si la primera prueba que le da —cómo habla de
+su propio producto, el pago— demuestra que de verdad conoce cómo se vive
+un servicio lleno. Esa primera prueba es la puerta de entrada a todo lo
+demás que Getnet quiere comunicar (gestión, recursos, crecimiento).
 
 ---
 
 ## 1. La oportunidad que vimos
 
-**El hostelero español ya no hay que convencerlo de ir digital. Hay que
-convencerlo de ir más allá de lo mínimo.**
+**Getnet no tiene que elegir entre "hablar de pagos" o "hablar de
+crecimiento del negocio" — tiene la oportunidad de ser la única marca de
+pagos que se ha ganado el derecho a hablar de las dos cosas a la vez.**
 
 El dato lo confirma: según la Confederación Empresarial de Hostelería de
 España (CEHE), el **83,5% de los negocios de hostelería ya usa alguna
@@ -40,28 +66,32 @@ herramienta digital**. Pero un informe de BCC Innovation y Delectatech sitúa
 en solo **15,9%** el porcentaje de restaurantes, bares y cafeterías con un
 nivel *alto* de digitalización ([recogido por softwaredoit.es](https://www.softwaredoit.es/actualidad/un-16-de-los-establecimientos-de-hosteleria-tiene-un-alto-nivel-de-digitalizacion.html)).
 
-Esa diferencia —83,5% frente a 15,9%— es la oportunidad real. No es un
-sector que resista lo digital. Es un sector que ya pagó el peaje de
-digitalizarse a medias (un datáfono, una web básica, poco más) y se quedó
-ahí porque nadie le dio una razón que pesara más que el riesgo de tocarlo.
-Getnet no necesita "educar" al hostelero sobre pagos digitales — ya los usa
-todos los días, varias veces por servicio. Necesita darle una razón
-concreta y de bajo riesgo para dar el siguiente paso con *su* proveedor.
-
-Eso cambia por completo el mensaje: no es una campaña de evangelización
-tecnológica. Es una campaña de confianza aplicada a algo que el hostelero
-ya usa y ya conoce.
+Esa diferencia —83,5% frente a 15,9%— es la oportunidad real, y encaja
+exactamente con lo que pide el briefing: no es un sector que resista lo
+digital, es un sector que ya pagó el peaje de digitalizarse a medias (un
+datáfono, una web básica, poco más) y se quedó ahí porque nadie le ha dado
+contenido de verdad útil para dar el siguiente paso — ni en pagos, ni en
+gestión, ni en crecimiento. Ahí es donde el briefing pide que Getnet entre:
+no como banco que vende un TPV, sino como marca que aporta valor real a la
+operativa del día a día (turnos, caja, costes, recursos) y usa el pago
+como la puerta de entrada más natural, porque es lo que ya conoce de
+Getnet. El pago no es el mensaje completo — es la prueba de credibilidad
+que hace creíble todo lo demás que la marca quiere decir.
 
 ## 2. El reto que está frenando el crecimiento
 
-**El freno no es el precio. Es el miedo a que algo se rompa en mitad de un
-servicio lleno.**
+**El reto no es solo que el hostelero no cambie de TPV. Es que, como
+cualquier SME, no tiene tiempo ni confianza para prestarle atención a
+contenido de marca de una entidad financiera — y eso es justo lo que el
+briefing necesita que haga (notoriedad, interacción, oportunidades
+comerciales).**
 
 Un dato de Banco de España (vía finantresnoticias.com) sitúa la tasa de
 descuento media de las tarjetas en restauración en el **0,48%** en el primer
 trimestre de 2026 — ya bastante ajustada, y no muy distinta de la media
 general del comercio (0,37%). Si la diferencia de comisión fuera el
-argumento ganador, ya habría movido al sector. No lo ha hecho. El reto está
+argumento ganador, ya habría movido al sector. No lo ha hecho. El reto,
+tanto para el pilar de pagos como para el posicionamiento más amplio, está
 en otro sitio:
 
 - **Miedo a la interrupción del servicio.** Un TPV no es una app de oficina:
@@ -72,37 +102,52 @@ en otro sitio:
 - **Desconfianza hacia la letra pequeña.** Muchos ya se han sentido
   "engañados" alguna vez por comisiones que subieron o por condiciones que
   no entendieron hasta la liquidación mensual. Esa desconfianza se traslada
-  a cualquier proveedor nuevo, aunque sea mejor.
+  a cualquier proveedor nuevo, aunque sea mejor — y se traslada también a
+  cualquier contenido "de valor" que venga de una marca financiera: se lee
+  primero como venta encubierta.
 - **Inercia y relación personal con el proveedor actual.** El TPV casi
   nunca lo elige el hostelero solo por producto: viene con la cuenta del
   banco, con el gestor que conoce desde hace años, con una relación
   personal que un argumento racional no desmonta solo.
-- **Falta de tiempo real para evaluar.** Un bar o restaurante no tiene un
-  departamento de compras. Las decisiones de este tipo se posponen porque
-  la única ventana para plantearse un cambio es temporada baja — y para
-  entonces ya se ha olvidado el problema que lo motivó.
+- **Cero tiempo de atención disponible.** Un bar o restaurante no tiene
+  departamento de compras ni de marketing interno. No solo posponen la
+  decisión de cambiar de TPV — tampoco tienen minutos para consumir
+  contenido de una marca, por útil que sea, salvo que resuelva algo
+  inmediato y se lo digan en su propio idioma operativo, no en el de un
+  banco.
 
 Ninguna de estas cuatro barreras se resuelve con mejor publicidad del
-producto. Se resuelve quitando riesgo de la decisión, y eso solo lo hace
-creíble alguien que demuestre que entiende por qué ese miedo es razonable.
+producto o más volumen de contenido. Se resuelve quitando riesgo y ruido de
+la relación, y eso solo lo hace creíble alguien que demuestre que entiende
+por qué ese miedo y esa falta de tiempo son razonables.
 
 ## 3. La decisión que marcará la diferencia
 
-**La decisión estratégica de esta campaña: liderar con riesgo cero en la
-migración, no con ahorro en comisión.**
+**La decisión estratégica: ganarse el derecho a hablar de crecimiento
+demostrando primero fluidez operativa real — no al revés.**
 
 Es la decisión que más cambia el resto de la propuesta (mensaje, prueba
-social, formato de piezas), así que la dejamos explícita: todo mensaje de
-"ahorra en comisiones" compite en un terreno ya empatado (ver dato de BdE
-arriba) y además activa la barrera de desconfianza hacia la letra pequeña,
-en vez de calmarla. Un mensaje de "cambia sin parar tu servicio, con
-alguien que entiende cómo funciona tu barra" ataca directamente la barrera
-más alta (el miedo a la interrupción) y es, además, el único ángulo que
-una agencia sin experiencia de operativa real no puede ocupar con
-credibilidad.
+social, pilares de contenido, formato de piezas), así que la dejamos
+explícita. El briefing pide un posicionamiento amplio de "aliado de
+crecimiento" — pero ese territorio ya está ocupado por todas las fintechs
+y bancos que lo reclaman sin pruebas. Si Getnet empieza por ahí (consejos
+genéricos de gestión, titulares de "haz crecer tu negocio"), compite en el
+terreno más saturado y menos creíble, y activa la barrera de desconfianza
+hacia el contenido de marca financiera que acabamos de describir.
 
-Esto no descarta hablar de condiciones económicas — hay que hacerlo, con
-transparencia, porque es parte de la confianza. Pero no es la puerta de
+La secuencia que proponemos es la inversa: **primero la prueba concreta
+(hablar del pago, y de la operativa alrededor del pago, con precisión real
+de barra y servicio), después el territorio amplio de gestión y
+crecimiento**, una vez gana la credibilidad. Esto sirve directamente a los
+KPIs pedidos: la prueba operativa concreta es lo que genera **interacción**
+real (se reconocen en el detalle, no en el titular genérico) y abre la
+puerta a **oportunidades comerciales** (confianza ganada, no publicidad
+intrusiva); el paraguas de marca más amplio aporta la **notoriedad** y
+sostiene la coherencia entre España, México y Brasil sin depender de que
+cada pieza concreta se traduzca literalmente de un mercado a otro.
+
+Esto no descarta hablar de gestión de recursos o condiciones económicas —
+hay que hacerlo, es justo lo que pide el briefing. Pero no es la puerta de
 entrada del mensaje.
 
 ---
@@ -110,38 +155,54 @@ entrada del mensaje.
 ## 4. Segmentación — tres prioridades, no un mapa completo
 
 Marta no pide un plan de contenidos exhaustivo, así que no segmentamos todo
-el universo de hostelería. Priorizamos tres perfiles por el motivo real de
-por qué importan para esta campaña — no por tamaño de mercado en abstracto.
+el universo de hostelería. Priorizamos tres perfiles — y con los KPIs del
+briefing (notoriedad, interacción, oportunidades comerciales) cada uno
+pesa distinto, no es la misma prioridad de adopción de pago que planteamos
+en la primera versión de este documento.
 
 ### A. El bar de barrio / independiente de alta rotación
 El bar de toda la vida, dueño-operador, caja mayoritariamente de barra,
 muchas transacciones pequeñas por servicio. **Por qué priorizarlo:** es el
 perfil con más inercia y más desconfianza (las cuatro barreras del bloque
-2 pegan más fuerte aquí), pero también el más numeroso — y si el mensaje de
-"riesgo cero en la migración" funciona aquí, funciona en cualquier otro
-segmento más fácil. Es el test de fuego del territorio creativo, no el
-segmento más cómodo.
+2 pegan más fuerte aquí) — su valor para la campaña no es que vaya a
+generar interacción digital alta (probablemente consume poco contenido de
+marca en Instagram/TikTok), es que es el **test de fuego de la
+credibilidad**: si el mensaje de fluidez operativa real funciona delante
+de este perfil, es prueba social legítima para todos los demás. Aporta
+sobre todo a notoriedad por asociación ("si entienden al bar de la
+esquina, entienden el sector") y a historias reales que alimentan el
+pilar de contenido.
 
 ### B. El grupo con varios locales (2-6 establecimientos)
 Gestión más profesionalizada, con alguien mirando el P&L de varios locales
-a la vez, no solo el día a día de un servicio. **Por qué priorizarlo:** la
-decisión aquí no la toma una sola persona con miedo a un mal día, la toma
-alguien que compara opciones con cierto rigor — y una vez convencido, el
-contrato vale varias veces más (un TPV por local). Es el segmento donde un
-argumento de consolidación de caja y reporting entre locales tiene sentido
-real, no solo decorativo.
+a la vez, no solo el día a día de un servicio. **Por qué priorizarlo:** es
+el perfil que más se ajusta al KPI de **generación de oportunidades
+comerciales** — consume contenido profesional (LinkedIn, comunidades
+empresariales, podcasts de emprendimiento, exactamente lo que el briefing
+pregunta), compara opciones con cierto rigor, y si se convierte, el
+contrato vale varias veces más (un TPV por local). Es el segmento donde
+un argumento de gestión de recursos y reporting entre locales —justo el
+tipo de valor que pide el briefing más allá del pago— tiene sentido real.
 
 ### C. El concepto nuevo / hostelería moderna
 Negocios jóvenes, ya cómodos con herramientas digitales (reservas online,
 delivery, redes), sin una relación heredada con un banco de toda la vida.
-**Por qué priorizarlo:** es el segmento con menos inercia que vencer —
-puede convertirse rápido y, sobre todo, puede convertirse en la prueba
-social visible que necesita el segmento A para confiar. No es el segmento
-de mayor volumen, pero es el que genera casos reales más rápido.
+**Por qué priorizarlo:** es el perfil que mejor se ajusta al KPI de
+**interacción** — consume y comparte contenido en Instagram/TikTok de
+forma natural (los canales que el briefing pregunta si Getnet debería
+abrir), tiene menos inercia que vencer, y puede convertirse en caso real
+visible rápido, que es la prueba social que necesita el segmento A para
+confiar.
 
 *Dejamos fuera, a propósito, cadenas grandes/franquicias (no son SME) y
 nichos muy específicos (dark kitchens, food trucks) — no porque no existan,
-sino porque el encargo pide dirección, no cobertura total.*
+sino porque el encargo pide dirección, no cobertura total. Esta
+segmentación está pensada y validada sobre el mercado español — para
+México y Brasil, los mismos arquetipos (independiente de barrio, grupo
+multi-local, concepto moderno) probablemente existen, pero la proporción,
+el peso del efectivo y la relación con la banca varían por mercado; lo
+marcamos como algo a validar con conocimiento local, no como una
+extrapolación automática.*
 
 ---
 
@@ -158,9 +219,11 @@ a mitad de turno, o por qué un hostelero no contesta al teléfono de un
 proveedor nuevo en agosto. Nosotros sí — es, literalmente, la primera fase
 de nuestro propio método de trabajo: **Breakdown**, entender la operativa
 real de un negocio antes de proponer nada. Aplicado aquí, significa que
-podemos construir el mensaje de "riesgo cero en la migración" del bloque 3
-desde el conocimiento real de cómo se vive un servicio lleno, no desde una
-suposición de agencia.
+podemos construir la "prueba de fluidez operativa real" del bloque 3 desde
+el conocimiento real de cómo se vive un servicio lleno, no desde una
+suposición de agencia — y eso incluye el miedo concreto a que un cambio
+de TPV interrumpa el servicio, que sigue siendo una de las barreras más
+altas del bloque 2.
 
 Dos citas reales del equipo que resumen por qué este encargo nos encaja,
 no solo como argumento de venta sino como criterio real de trabajo:
@@ -193,24 +256,53 @@ consecuencias reales al día siguiente. Para una campaña que tiene que
 vencer el miedo a interrumpir el servicio, esa autoridad no se puede
 fingir desde fuera del sector.
 
+**Además, el briefing nos da un argumento extra que no teníamos la primera
+vez: hostelería es la vertical piloto, antes de Retail, Travel y Health &
+Beauty.** Esto no es un detalle de alcance, es una razón de peso para
+elegirnos precisamente ahora. Si el modelo —narrativa, canales, tipo de
+contenido— tiene que demostrar que funciona con la primera vertical antes
+de replicarse en las demás, lo lógico es que ese primer modelo lo
+construya quien de verdad conoce esa vertical por dentro, no quien la
+trata como la primera de una lista de sectores a cubrir. Lo que acertemos
+o no en hostelería no se queda en hostelería: es, probablemente, la
+plantilla que Getnet use después para Retail, Travel y Health & Beauty.
+Esa responsabilidad pesa más que un encargo puntual de campaña, y es
+coherente con cómo ya trabajamos: no entregamos una pieza aislada, dejamos
+un criterio que se pueda reutilizar.
+
 ---
 
 ## Supuestos y huecos abiertos (explícitos)
 
-Esta dirección se apoya en nuestro conocimiento del sector y en el mensaje
-de Marta, no en el briefing ejecutivo de Getnet (todavía no recibido). En
-concreto, asumimos — y lo marcamos como asunción, no como dato confirmado:
+Esta dirección ya incorpora el briefing ejecutivo real de Getnet
+(`briefing-ejecutivo-getnet.md`). Lo que sigue sin confirmar, y que
+marcamos como supuesto de trabajo, no como hecho:
 
-- Que el objetivo de esta fase es adopción (nuevos usuarios), no
-  retención o upsell sobre clientes Getnet ya existentes.
-- Que no hay, de momento, restricción de territorio de marca de Santander
-  que condicione el tono cercano/operativo que proponemos — a confirmar
-  cuando llegue el briefing.
-- Que la campaña puede hablar en términos generales de hostelería española
-  sin fijar aún ciudades o mercados concretos.
+- **México y Brasil:** nuestro conocimiento real de operativa de
+  hostelería es del mercado español. El briefing pide un concepto
+  creativo común para los tres mercados, pero nosotros solo activamos en
+  España — la segmentación (bloque 4) y las barreras de adopción (bloque
+  2) están validadas sobre el hostelero español; para México y Brasil
+  asumimos que el principio general (la confianza se gana con precisión
+  operativa, no con promesas genéricas) es portable, pero la forma
+  concreta —peso del efectivo, cultura de propina, relación con la
+  banca, regulación de TPV— necesita validación local que no tenemos.
+- **Presupuesto de medios:** el briefing pide una estimación orientativa
+  pero no da un presupuesto de partida ya comprometido por Getnet — lo
+  que entregue Dirección Creativa/Canales en el apartado de inversión es
+  una propuesta preliminar nuestra, no un ajuste a una cifra ya fijada.
+- **Territorio de marca de Santander:** no tenemos restricciones o
+  guidelines de marca de Santander/Getnet más allá del propio briefing —
+  asumimos que el tono cercano y operativo que proponemos es compatible,
+  a confirmar en la siguiente vuelta.
+- **Retail, Travel y Health & Beauty:** no entra en el alcance de esta
+  propuesta (hostelería es la vertical piloto), pero lo señalamos en el
+  bloque de "por qué TBNB" porque cambia el peso estratégico de acertar
+  bien en esta primera vertical.
 
-En cuanto llegue el briefing ejecutivo de Getnet, esta dirección se ajusta
-— no se tira: el reto de adopción (bloque 2), la decisión de liderar con
-riesgo cero (bloque 3) y el porqué de TBNB (bloque 5) son conclusiones de
-criterio propio sobre cómo piensa un hostelero, no dependen de ese
-documento para seguir siendo válidas.
+El reto de confianza operativa (bloque 2), la decisión de secuenciar
+prueba-antes-que-promesa (bloque 3) y el porqué de TBNB (bloque 5) son
+conclusiones de criterio propio sobre cómo piensa un hostelero y sobre
+cómo funciona esta campaña — no dependen de más documentación para seguir
+siendo válidas, aunque la cifra final de inversión y el ajuste fino para
+México/Brasil sí la necesiten.
