@@ -65,3 +65,33 @@ calendario, recursos, KPIs) y el presupuesto por las 6 categorías pedidas
 medios pagados, influencers) no son horas de consultoría sino costes de
 mercado/partners, así que se presentarán como rango orientativo con
 supuestos explícitos, no como cifra cerrada.
+
+**2026-11-02 (bloque 4 + presupuesto entregados):** Entregado
+`implementacion-presupuesto.md` con el bloque 4 del briefing (lanzamiento,
+calendario por fases tipo Breakdown/Architecture/Run adaptado, recursos y
+modelo de gestión honesto sobre que no hay equipo de campaña montado, KPIs
+de notoriedad/interacción/oportunidades comerciales) y el presupuesto en
+las 6 categorías: categoría 1 (desarrollo estratégico y creativo) en horas
+(97-126h), **sigue pendiente la tarifa/hora real de TBNB**; categorías 2-6
+con búsqueda web real de rangos de mercado en España, citando fuentes y
+marcando explícitamente dónde no hay dato fiable (producción de vídeo,
+podcasts, medios especializados y coste actual de stand en ferias sin
+fuente española sólida — ver sección de fuentes del documento); categoría
+5 (medios pagados) presentada como 3 escenarios (piloto conservador/medio/
+escalado), decisión de Getnet, no cifra cerrada.
+
+**2026-11-02 (propuesta consolidada):** `propuesta-borrador.md` reescrito
+desde cero siguiendo la estructura exacta de 4 bloques + presupuesto del
+briefing real (estrategia creativa, canales, contenidos, implementación,
+presupuesto), consolidando los tres documentos de los directivos en un
+único documento legible para enviar a Marta.
+
+**Pendiente antes de enviar a Marta:**
+1. Confirmación de Andrea/Sergio sobre el contenido de `propuesta-borrador.md`
+   (y, si hace falta más detalle, de los tres documentos de origen:
+   `direccion-estrategia.md`, `direccion-creativa-canales.md`,
+   `implementacion-presupuesto.md`).
+2. Tarifa/hora real de TBNB para cerrar la categoría 1 del presupuesto en
+   euros (sigue en horas: 97-126h).
+3. Decidir si se envía como documento (este borrador) o también como deck
+   visual con la plantilla de presupuestos — no construido todavía.

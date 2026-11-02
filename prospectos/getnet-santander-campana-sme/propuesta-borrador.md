@@ -1,221 +1,335 @@
-# Propuesta — Getnet (Santander): campaña de adopción en SMEs de hostelería
+# Getnet for SMEs 2027 — Primera propuesta estratégica y creativa
+### Vertical piloto: restaurantes, bares y cafeterías (España)
 
 **Para:** Marta (agencia de comunicación, en nombre de Getnet)
 **De:** The Bar N' Bar
 **Estado: BORRADOR — pendiente de revisión y aprobación de Andrea/Sergio antes de enviar a Marta.** Nada de este documento sale de casa sin esa aprobación (regla de `CLAUDE.md`).
 
-> Esta es la "primera propuesta estratégica y creativa" que Marta pidió para
-> la semana del 2026-11-09: dirección creativa, canales prioritarios y
-> presupuesto preliminar — explícitamente **no** un plan de contenidos
-> exhaustivo. Construida sin el "briefing ejecutivo" que Marta menciona
-> (no se ha recibido) — cada supuesto que hacemos está marcado como tal,
-> no como dato confirmado. Fuentes completas y razonamiento extendido en
-> `direccion-estrategia.md` y `direccion-creativa-canales.md`, en esta
-> misma carpeta.
+> Responde al briefing ejecutivo real (`briefing-ejecutivo-getnet.md`,
+> recibido 2026-11-02): dirección creativa, canales, contenidos,
+> implementación y presupuesto orientativo — explícitamente **no** un plan
+> de contenidos exhaustivo. Razonamiento completo y fuentes en
+> `direccion-estrategia.md`, `direccion-creativa-canales.md` e
+> `implementacion-presupuesto.md`, en esta misma carpeta.
 
 ---
 
-## 0. Hola, Marta
+## Hola, Marta
 
-Gracias por pensar en nosotros para este proyecto. Lo que sigue no es un
-pitch genérico de agencia — es la lectura que hacemos de por qué un
-hostelero cambia (o no cambia) de sistema de pago, y qué tendría que decir
-y dónde tendría que decirlo una campaña de Getnet para moverlo de verdad.
+Gracias por el briefing — ayuda mucho tener claro que esto va más allá de
+comunicar un sistema de pago: Getnet quiere ganarse un sitio real en el
+día a día de las SMEs, empezando por hostelería antes de Retail, Travel y
+Health & Beauty. Eso es, literalmente, lo que sabemos hacer mejor que
+nadie: entender la operativa real de un bar o restaurante y hablar desde
+ahí, no desde un departamento de marketing bancario.
 
-**Una cosa por delante, con la misma honestidad con la que trabajamos
-siempre:** no hemos recibido el briefing ejecutivo que mencionas en tu
-mensaje — solo tu mensaje en sí. Lo que encontrarás aquí es nuestra mejor
-dirección posible con eso, construida sobre conocimiento real de cómo
-opera un bar o restaurante, no sobre suposiciones de agencia. En cuanto
-tengamos el briefing completo (KPIs, mercados, presupuesto de medios,
-territorio de marca de Santander si existe), ajustamos — no tiramos: el
-diagnóstico de fondo no depende de esos datos para seguir siendo válido.
+Lo que sigue cubre los cuatro bloques que pedís, en el mismo orden, más el
+presupuesto orientativo. Antes de entrar, una aclaración honesta: nuestro
+conocimiento real de operativa es del mercado español — para México y
+Brasil, el concepto creativo está pensado para sostenerse (ver más abajo),
+pero su adaptación fina necesitaría conocimiento local que hoy no tenemos.
 
 ---
 
-## 1. La pregunta que ordena esta propuesta
+## 1. Estrategia creativa
 
-> **Si el TPV que tienes hoy funciona — aunque sea a medias —, ¿qué tendría
-> que pasar para que lo cambiaras en plena temporada alta?**
+### La pregunta que lo ordena todo
 
-Nadie cambia de sistema de pago por un folleto bien diseñado ni por 0,1
-puntos menos de comisión. El problema de Getnet con las SMEs de hostelería
-no es de producto. **Es de confianza operativa.**
+> **Si el TPV que tienes hoy funciona — aunque sea a medias —, ¿qué
+> tendría que pasar para que confiaras en que esta marca también entiende
+> el resto de tu negocio?**
 
-## 2. Lo que vimos
+Cualquier marca financiera puede prometer "te ayudamos a crecer". Nadie se
+lo cree si no demuestra primero que entiende algo muy concreto. Por eso la
+secuencia que proponemos es **la prueba antes que la promesa**: Getnet se
+gana el derecho a hablar de gestión y crecimiento demostrando primero,
+con precisión real, que entiende el pago dentro de un servicio lleno —
+no al revés. Empezar directamente por "te ayudamos a crecer" compite en el
+terreno más saturado y menos creíble (lo dicen todos los bancos y
+fintechs); empezar por la prueba operativa concreta es el único terreno
+que una agencia sin experiencia real de hostelería no puede ocupar.
 
-**La oportunidad.** El hostelero español ya no hay que convencerlo de ir
-digital: según CEHE, el 83,5% ya usa alguna herramienta digital. Pero solo
-un 15,9% tiene un nivel *alto* de digitalización (BCC Innovation /
-Delectatech, vía softwaredoit.es). Esa diferencia es la oportunidad real:
-un sector que se digitalizó a medias y se quedó ahí porque nadie le dio una
-razón que pesara más que el riesgo de tocarlo.
+### La idea rectora
 
-**El reto.** El freno no es el precio — la tasa de descuento media en
-restauración ya está ajustada (0,48%, Banco de España, Q1 2026), muy cerca
-de la media general de comercio (0,37%). El freno real son cuatro barreras
-de confianza, no de producto: miedo a que el TPV falle en mitad de un
-servicio lleno, desconfianza hacia la letra pequeña de comisiones, inercia
-con el proveedor actual (casi nunca elegido solo por producto), y falta de
-tiempo real para evaluar alternativas fuera de temporada baja.
-
-**La decisión que más cambia el resto de la propuesta.** Liderar con
-**riesgo cero en la migración**, no con ahorro en comisión. Un mensaje de
-"ahorra en comisiones" compite en terreno ya empatado y activa la
-desconfianza hacia la letra pequeña. Un mensaje de "cambia sin parar tu
-servicio" ataca la barrera más alta — y es el único ángulo que una agencia
-sin experiencia de operativa real no puede ocupar con credibilidad.
-
-## 3. A quién le hablamos primero
-
-No cubrimos todo el universo de hostelería — priorizamos tres perfiles por
-el motivo real de por qué importan para esta campaña:
-
-| Segmento | Por qué primero |
-|---|---|
-| **Bar de barrio / independiente, alta rotación** | El perfil con más inercia y desconfianza — si el mensaje de riesgo cero funciona aquí, funciona en cualquier otro segmento. Es el test de fuego. |
-| **Grupo con 2-6 locales** | Decisión más profesionalizada, un TPV vale varias veces más por el número de locales, y es donde un argumento de consolidación de caja/reporting tiene sentido real. |
-| **Concepto nuevo / hostelería moderna** | Menos inercia que vencer, conversión más rápida, y genera la prueba social visible que el segmento A necesita para confiar. |
-
-*Dejamos fuera a propósito cadenas grandes (no son SME) y nichos muy
-específicos (dark kitchens, food trucks) — el encargo pide dirección, no
-cobertura total.*
-
-## 4. El territorio creativo
-
-**La idea rectora: "El cobro es el último gesto del servicio."**
+**"El cobro es el último gesto del servicio."**
 
 En hostelería, el servicio no termina con el postre. Termina cuando el
 cliente paga y se va con buena sensación — o con la última impresión
-estropeada por una tarjeta que no entra o una sorpresa en la comisión. El
-pago no es una formalidad administrativa al margen de la experiencia: es
-lo último que el cliente recuerda y lo primero que el hostelero comprueba
-al cerrar caja. Igual que una buena sala no se nota, un buen sistema de
-pago tampoco debería notarse.
+estropeada por una tarjeta que no entra o una sorpresa en la comisión al
+mes siguiente. El pago no es un trámite al margen de la experiencia: es lo
+último que el cliente recuerda y lo primero que el hostelero comprueba al
+cerrar caja. Igual que una buena sala no se nota, un buen sistema de pago
+tampoco debería notarse.
 
-**Tono:** desde dentro del servicio, no desde fuera mirando una hoja de
-cálculo. Lenguaje de barra y de cocina, no de folleto bancario. Honesto
-con el miedo al cambio, nunca minimizándolo. Ninguna palabra como
-"innovación", "disrupción" o "transformación digital" — si una pieza
-podría anunciar cualquier TPV del mercado, no sirve.
+**Por qué esto importa ahora.** Según CEHE, el 83,5% de los negocios de
+hostelería ya usa alguna herramienta digital, pero solo el 15,9% tiene un
+nivel *alto* de digitalización (BCC Innovation/Delectatech). El sector ya
+pagó el peaje de digitalizarse a medias y se quedó ahí — no porque resista
+lo digital, sino porque nadie le ha dado contenido de verdad útil para dar
+el siguiente paso. Y el freno no es el precio: la comisión media en
+restauración ya está ajustada (0,48%, Banco de España Q1 2026, muy cerca
+del 0,37% general de comercio). El freno real son cuatro barreras de
+confianza: miedo a que el sistema falle en mitad de un servicio lleno,
+desconfianza hacia la letra pequeña, inercia con el proveedor actual, y
+cero tiempo real para evaluar alternativas.
 
-### Tres pilares de mensaje
+### Propuesta de valor y mensajes clave — tres pilares
 
 1. **No le quites tiempo a la hora punta** — velocidad y fiabilidad del
-   cobro quando más presión hay en el servicio.
+   cobro cuando más presión hay en el servicio.
 2. **Sin sorpresas cuando cierras caja** — transparencia real de
    comisiones y liquidaciones, contada desde la tranquilidad, no desde la
    tabla de tarifas.
-3. **El cambio no te va a parar un servicio** — la instalación y
-   migración no interrumpen la operativa. *(Supuesto a confirmar con el
-   equipo de producto de Getnet: que el onboarding sea razonablemente
-   rápido — si no lo es, este pilar no se sostiene tal cual.)*
+3. **El cambio no te va a parar un servicio** — instalación y migración
+   que no interrumpen la operativa. *(Supuesto a confirmar con el equipo
+   de producto de Getnet: que el onboarding sea razonablemente rápido —
+   si no lo es, este pilar no se sostiene tal cual.)*
 
-## 5. Canales prioritarios
+### Tono
 
-Un hostelero de pyme no decide esto viendo un anuncio en Instagram.
-Decide por lo que le dice alguien en quien confía, en un sitio donde ya
-está por otro motivo:
+Desde dentro del servicio, no desde fuera mirando una hoja de cálculo.
+Lenguaje de barra y de cocina (hora punta, el pase, cerrar caja, la
+propina), nunca de folleto bancario. Honesto con el miedo al cambio, sin
+minimizarlo. Fuera: "innovación", "disrupción", "transformación digital" —
+si una pieza podría firmarla cualquier banco, no sirve.
 
-1. **Proveedores que ya le visitan** (distribuidores de bebida, de
-   maquinaria, instaladores de TPV) — co-marketing/referido con quien ya
-   superó el filtro de confianza del hostelero.
-2. **Gremios y asociaciones de hostelería** por comunidad autónoma — el
-   sitio al que el hostelero va a preguntar, no que le interrumpe.
-3. **Prescripción entre dueños** — material pensado explícitamente para
-   que un hostelero se lo enseñe a otro, con testimonios reales, no
-   actores.
-4. **Ferias sectoriales** (HIP, Hostelco, H&T) — como hito puntual de
-   lanzamiento o activación de acuerdos con partners que ya exponen, no
-   como canal de inversión continua (coste alto, alcance puntual).
+### Un concepto creativo común para España, México y Brasil
 
-**Lo que dejamos fuera, de momento:** publicidad genérica en redes
-sociales en frío y prensa financiera tradicional — no es que no funcionen
-nunca, es que no es donde un hostelero busca este tipo de información, y
-ahí es muy fácil caer en el cliché bancario que este territorio evita.
+"El cobro es el último gesto del servicio" no es un hallazgo español: el
+ritual de cerrar una visita — pagar, despedirse, irse con buena o mala
+última impresión — no cambia de cultura a cultura en hostelería. Lo que
+cambia es el vocabulario concreto del ritual (la propina y su peso, el
+efectivo, "la cuenta, por favor" frente a "pode trazer a conta?").
+Proponemos tratarlo en dos capas:
 
-## 6. Por qué TBNB
+- **Capa universal** (viaja a los tres mercados): el pago como parte del
+  servicio, el miedo legítimo a interrumpir un servicio lleno, la
+  tranquilidad al cerrar caja. No se traduce, se reescribe en el
+  vocabulario de cada mercado.
+- **Capa local** (la que desarrollamos en España): lenguaje de barra
+  español, canales y formatos concretos de este documento.
 
-No vendemos una campaña de pagos bonita. Vendemos la única consultoría que
-puede hablarle a un hostelero en su propio idioma operativo, porque hemos
-estado dentro de esos negocios — es literalmente la primera fase de
-nuestro propio método de trabajo (**Breakdown**: entender la operativa
-real antes de proponer nada).
+*Para adaptar la capa local a México y Brasil haría falta un socio o
+consultoría local que haga el mismo ejercicio de entender la operativa
+real — no es un ejercicio de traducción de copy.*
 
-> "Un buen concepto necesita un buen sistema. Sin eso, todo lo demás es
-> improvisar con estilo."
-> — Sergio Alonso, founder
+---
 
-> "La hospitalidad no se improvisa. Se diseña, se entrena y se mantiene.
-> Todos los días."
-> — Andrea Giménez, director of Strategic Operations
+## 2. Estrategia de canales
 
-Una migración de sistema de pago tampoco se improvisa el día del cambio:
-se diseña y se entrena. Ese es el ángulo que nos diferencia de cualquier
-agencia sin este conocimiento: no prometemos que el cambio "no da miedo",
-prometemos que lo diseñamos para que no duela.
+Un hostelero de pyme no decide esto viendo un anuncio en frío. Decide por
+lo que le dice alguien en quien confía, en un sitio donde ya está por otro
+motivo.
 
-## 7. Equipo del proyecto
+### Canales de terceros — la prioridad real
 
-De cara a Getnet, esta dirección estratégica y creativa la lideramos y
-firmamos **Sergio Alonso y Andrea Giménez** directamente — como en
-cualquier proyecto de TBNB, con nombre y cara reales, no "equipo
-genérico". Es la parte que no se puede subcontratar: el conocimiento real
-de operativa de hostelería que sostiene todo el territorio de esta
-propuesta.
+| Canal | Por qué |
+|---|---|
+| **Proveedores que ya le visitan** (distribuidores, instaladores de TPV) | Entran en el local cada semana, ya tienen la confianza del dueño. Co-marketing/referido llega al momento exacto de la decisión. |
+| **Gremios y asociaciones de hostelería** (por comunidad autónoma) | El sitio al que el hostelero va a *preguntar*, no que le interrumpe. Existe un directorio real por CCAA ([Qamarero, 2025](https://www.qamarero.com/blog/asociaciones-de-hosteleria-de-espana-guia-y-directorio/)) para activar. |
+| **Prescripción entre dueños** (boca-oreja con casos reales) | En un sector donde todos se conocen en su zona, la recomendación de otro hostelero pesa más que cualquier mensaje de marca. |
+| **Ferias sectoriales** (HIP, Hostelco, H&T) | Hito puntual de lanzamiento/activación de acuerdos, no inversión continua — coste alto, alcance puntual en el tiempo. |
 
-Para la fase de producción y activación (si el proyecto avanza —
-desarrollo de piezas con hosteleros reales, acuerdos con distribuidores y
-gremios, presencia en ferias), TBNB no tiene hoy un equipo de campaña
-dedicado montado para este tipo de encargo — lo honesto es decirlo así en
-vez de nombrar a alguien que no es el perfil exacto que necesita este
-proyecto. Identificaríamos e incorporaríamos a los partners o
-colaboradores adecuados (producción audiovisual, gestión de medios si
-aplica) durante la fase de Arquitectura, una vez cerrado el territorio
-con el briefing real de Getnet — con la misma lógica de "partners de
-confianza" con la que ya trabajamos el resto de servicios complementarios
-de TBNB (ver `CLAUDE.md`).
+### ¿Perfiles propios de Getnet en Instagram y/o TikTok en España?
 
-## 8. Próximos pasos, si seguimos adelante
+**Instagram: sí, con matiz — no como vitrina de producto.** Tiene sentido
+si sostiene el territorio con contenido de valor real (casos, prescripción
+entre dueños) y ancla las colaboraciones con terceros. No tiene sentido
+como canal de venta directa: un perfil propio recién abierto no tiene la
+credibilidad que sí tienen los canales de terceros — hay que ganársela.
 
-Esta primera propuesta responde a lo que Marta pidió para esta fase. Si
-Getnet quiere avanzar, así es como lo estructuraríamos (estimación de
-horas, no de euros — ver nota de presupuesto más abajo):
+**TikTok: cuándo, no si.** Mejor esperar a tener contenido de prescripción
+real producido (vía Instagram/colaboraciones) antes de abrir un canal
+nativo de formato corto — abrir un perfil vacío no construye nada. El
+ecosistema de creadores gastronómicos españoles ya se reparte casi a
+partes iguales entre Instagram (53%) y TikTok (47%, IAB Spain/Go Talents),
+así que TikTok es relevante, pero como segundo paso.
 
-| Fase | Qué incluye | Horas estimadas |
+**Condición para cualquiera de los dos:** gestión de comunidad real
+(alguien respondiendo con criterio), no un perfil que publica y
+desaparece.
+
+### LinkedIn y canales profesionales
+
+Rol distinto al de Instagram: el dueño de un bar de barrio no está en
+LinkedIn buscando contenido de hostelería — sí está el gerente de un grupo
+multi-local, el distribuidor con el que queremos colaborar, y la prensa
+especializada. LinkedIn no es el canal para llegar al bar de barrio, es el
+canal para construir la credibilidad y las alianzas que después llegan a
+ese bar por otra vía: contenido de autoridad de negocio, casos de grupos
+multi-local, alianzas con asociaciones/distribuidores.
+
+### Colaboraciones con podcasts, creadores y comunidades
+
+El error más fácil aquí es fichar a un influencer gastronómico genérico —
+hay tensión real y documentada entre hostelería tradicional y creadores
+que piden comida gratis sin aportar nada al negocio ([Noticias de Navarra,
+2024](https://www.noticiasdenavarra.com/pamplona/2024/04/21/influencers-gastronomicos-pamplona-8132741.amp.html)).
+Asociar a Getnet con ese arquetipo dañaría la credibilidad operativa que
+buscamos construir. La alternativa: creadores y formatos que hablan de
+**negocio** de hostelería, no de comida — podcasts de gestión/rentabilidad
+(referencia real del tipo de formato: "El Plato Fuerte", de yurest, con la
+salvedad de que tiene interés comercial propio) y comunidades/congresos de
+gestión del sector (tipo GastroMarketing), como colaboración puntual, no
+canal continuo.
+
+---
+
+## 3. Estrategia de contenidos (dirección, no calendario)
+
+El briefing pide dirección clara, no un plan exhaustivo — esto son
+pilares, formatos orientativos y tipo de pieza.
+
+**Los 3 pilares, con formato:**
+- *No le quites tiempo a la hora punta* → piezas de observación de
+  servicio real (barra llena, el momento del cobro) que **muestren**
+  fluidez, no que la expliquen. Vídeo corto/reel documental, nunca
+  testimonial tipo anuncio.
+- *Sin sorpresas cuando cierras caja* → pieza explicativa con narrativa,
+  no ficha de producto. Carrusel o "antes/después" de un cierre de caja.
+- *El cambio no te va a parar un servicio* → el pilar más indicado para
+  contenido de prescripción y caso real — un hostelero contándolo es
+  mucho más creíble que cualquier pieza de marca.
+
+**Formatos y frecuencia orientativa:** formato principal, pieza corta de
+observación/testimonio real (60-90s), pensada primero para colaboraciones
+y canales de terceros, reutilizable después en Instagram propio. Formato
+secundario, carrusel/pieza explicativa para LinkedIn y medios
+especializados. Mejor pocas piezas con un caso real detrás que mucho
+volumen genérico — la cadencia concreta se fija en la fase de
+implementación, con recursos de producción confirmados.
+
+**Casos reales y prescripción entre dueños** — el contenido con más
+potencial de conversión y el que menos se parece a publicidad bancaria:
+negocios reales que ya usan Getnet (o están migrando) contando, en sus
+propias palabras, el momento de miedo antes del cambio y qué pasó después
+— el detalle operativo concreto, no un testimonial de 5 estrellas
+genérico. Esto es exactamente lo que pide el briefing al hablar de "dar
+visibilidad a los retos, experiencias y casos de éxito reales".
+
+**Patrocinios con medios especializados** (prensa/plataformas de
+hostelería, no generalista) — mismo público que las asociaciones, con más
+margen para historias largas que un perfil propio.
+
+**Producción para España/México/Brasil:** las piezas ancladas en la capa
+universal (miedo al cambio, cierre de caja, hora punta) se producen una
+vez y se adaptan por mercado (voz/subtítulos/casos locales); las piezas de
+capa local española no viajan. Cuantas más piezas vivan en la capa
+universal, menor coste total de producción.
+
+---
+
+## 4. Modelo de implementación
+
+### Lanzamiento y primeras acciones
+
+1. Validar el pilar "el cambio no para el servicio" con 3-5 hosteleros
+   reales de nuestra red (y, si Getnet puede facilitarlo, 2-3 clientes
+   actuales) antes de producir nada.
+2. Cerrar **2-3 acuerdos piloto**, no una lista larga: un distribuidor,
+   una asociación, un medio/podcast especializado.
+3. Producir las primeras piezas de prescripción (2-4 testimonios reales).
+4. Instagram antes que TikTok, y solo cuando haya contenido real que
+   mostrar.
+
+### Calendario inicial orientativo
+
+| Fase | Qué se hace | Duración |
 |---|---|---|
-| **1. Alineamiento y validación** | Revisar el briefing ejecutivo real, ajustar esta dirección, validar los insights con 3-5 hosteleros reales de nuestra red, taller de alineamiento con Getnet | 22h |
-| **2. Territorio y mensajes** | Cerrar territorio creativo y naming, desarrollar los 3 pilares en 3-5 formatos de pieza, guía breve de tono | 32h |
-| **3. Plan de canales y partnerships** | Mapa de partners reales por canal (distribuidores, gremios, ferias), propuesta de acuerdo con 2-3 partners piloto, calendario de activación | 26h |
-| **4. Piezas piloto** | Producción de 2-3 testimonios reales de hosteleros, material de prescripción boca-oreja | 20h |
-| **5. Medición y ajuste** | KPIs de seguimiento acordados con Getnet, primer informe de resultados y recomendaciones | 12h |
-| **Total** | | **112h** |
+| **0. Brindis** — alineamiento y validación | Taller con Getnet, validación con hosteleros reales, confirmar presupuesto de medios | 1-2 semanas |
+| **1. Architecture** — mensajes y mapa de partners | Pilares en formatos concretos, mapa de partners con 2-3 acuerdos en negociación, decisión final Instagram/LinkedIn | 3-4 semanas |
+| **2. Run** — piloto en España | Producción de piezas, activación de acuerdos, apertura del canal propio decidido, arranque de medios si se aprueba | 4-6 semanas |
+| **3. Barra libre** — medición y recomendación | Primer corte de KPIs, informe de aprendizaje, recomendación de escalado (más España, MX/BR, otras verticales) | 2 semanas |
 
-## 9. Inversión preliminar
+**Total orientativo: 10-14 semanas (~3 meses)** desde la aprobación de
+Getnet. No es un compromiso de fechas cerrado — depende de cuándo cierre
+Getnet el presupuesto de medios y de la disponibilidad de los partners.
 
-*Pendiente de aplicar la tarifa/hora estándar de TBNB a las 112h de
-arriba — ver nota a Sergio en el chat, no incluida en este borrador para
-no inventar una cifra.* Condiciones de pago, si se mantiene nuestro
-criterio habitual: 50% al inicio, 25% a mitad de proyecto, 25% a la
-entrega. Cualquier desarrollo no contemplado aquí (producción
-audiovisual externa, compra de medios, desplazamientos a ferias) se
-presupuesta aparte, igual que con cualquier proyecto de TBNB.
+### Recursos, responsabilidades y modelo de gestión
 
-## 10. Para cerrar
+Con la misma honestidad de siempre: **TBNB no tiene hoy un equipo de
+campaña o producción ya montado** para este tipo de encargo. Lo que no se
+puede subcontratar es el conocimiento real de operativa que sostiene todo
+el territorio — eso lo lideran y firman **Sergio Alonso** (founder) y
+**Andrea Giménez** (director of Strategic Operations) directamente, con
+nombre y cara reales. Sergio es el punto de contacto comercial/contractual
+con Marta y la agencia; Andrea lidera el criterio de operativa real que
+valida el territorio y las piezas de prescripción.
+
+Para producción, gestión de comunidad y compra de medios: identificaríamos
+e incorporaríamos a los partners adecuados durante la fase de
+Architecture, con la misma lógica de partners de confianza con la que ya
+trabajamos los servicios complementarios de TBNB — no nombramos partners
+concretos aquí porque todavía no los hemos seleccionado ni validado para
+este encargo. TBNB sería el punto único de responsabilidad estratégica y
+creativa ante Getnet; los partners trabajarían bajo nuestra coordinación,
+salvo que Getnet prefiera otro modelo, a confirmar si el proyecto avanza.
+
+*México y Brasil quedan fuera de nuestro alcance de implementación — los
+activaría Getnet o un partner local, según el propio briefing.*
+
+### KPIs recomendados
+
+| Eje | Métricas propuestas |
+|---|---|
+| **Notoriedad** | Alcance/impresiones en canales propios y de partners; menciones en medios especializados; crecimiento de audiencia del canal propio frente a su propia línea base. |
+| **Interacción** | Engagement rate en piezas de prescripción (línea base propia, sin benchmark de sector fiable); participación real en canales de partners (comentarios, reenvíos); video completion rate en piezas cortas. |
+| **Oportunidades comerciales** | Leads cualificados atribuibles a la campaña; reuniones/demos agendadas vía partner o canal concreto; acuerdos de co-marketing cerrados con flujo continuo de contactos. |
+
+Ningún KPI tiene todavía un objetivo numérico fijado — no hay línea base
+real de los canales de Getnet para proponerlo con honestidad. El primer
+ciclo (fase 3) sirve, entre otras cosas, para establecer esa línea base.
+
+---
+
+## 5. Presupuesto orientativo
+
+*Cómo leer esto: la categoría 1 es trabajo de consultoría de TBNB (horas).
+Las categorías 2-6 son costes de mercado real en España, que dependen de a
+quién se contrate y de cuánto decida invertir Getnet — no de nuestra
+tarifa. Donde hay referencia de mercado fiable para España, la citamos;
+donde no, lo decimos explícitamente.*
+
+| Categoría | Rango orientativo | Base |
+|---|---|---|
+| **1. Desarrollo estratégico y creativo** (TBNB) | 97-126h | Pendiente aplicar la tarifa/hora real de TBNB — no incluye horas de partners |
+| **2. Producción de contenidos** | 6.600€-21.600€ | Criterio propio sobre referencias de mercado; sin fuente española específica en euros |
+| **3. Gestión de canal/es y comunidades** | 1.200€-6.000€ (piloto, 1-2 meses) | Suelo de mercado (freelance/pyme) ajustado a escala de marca |
+| **4. Colaboraciones, patrocinios e influencers** | 1.400€-9.000€ | Mezcla de dato real de mercado (influencers) y extrapolación de criterio (podcasts, medios) |
+| **5. Inversión en medios pagados** | 5.000€ – 100.000€+ (3 escenarios) | Decisión de Getnet — ver detalle abajo |
+| **6. Activación en España** | 3.500€-9.500€ | Referencias de feria desactualizadas + criterio propio; co-marketing con distribuidores pendiente de negociar, no de presupuesto |
+| **Total orientativo (sin medios pagados)** | **~12.700€-46.100€** + horas de categoría 1 | Piloto de 3 meses en España |
+
+**Medios pagados — tres escenarios, decisión de Getnet, no estimación de
+mercado:**
+
+| Escenario | Inversión | Qué permite |
+|---|---|---|
+| Piloto conservador | 5.000-15.000€ | 1-2 canales de soporte, alcance limitado, foco en aprendizaje |
+| Piloto medio | 15.000-40.000€ | Soporte de medios al lanzamiento durante los 2-3 meses del piloto |
+| Escalado | 40.000-100.000€+ | Inversión sostenida, más canales — solo tras validar el piloto |
+
+Este es el coste de un primer ciclo de piloto (3 meses), no de la campaña
+completa si se decide escalar a más meses, mercados o verticales — esa
+decisión se toma con los datos del propio piloto, no antes. Recomendamos
+pedir 2-3 presupuestos reales a productoras/proveedores españoles en
+cuanto se cierre el alcance definitivo — estos rangos son de partida, no
+una cotización.
+
+---
+
+## Para cerrar
 
 No buscamos que Getnet tome una decisión rápida. Buscamos que tome la
-decisión correcta — y que, si nos la confía, el hostelero que reciba esta
-campaña sienta que por fin alguien le habla de pagos sin sonar a banco.
+decisión correcta — y que, si nos la confía, lo que construyamos en
+hostelería no se quede en hostelería: sea la plantilla que funcione
+también cuando el modelo se extienda a Retail, Travel y Health & Beauty.
 
 ---
 
 *Preguntas internas abiertas antes de enviar — ver también `estado.md`:*
-1. *¿Tenéis ya el briefing ejecutivo de Getnet para integrarlo antes de
-   responder a Marta, o enviamos esta dirección preliminar tal cual,
-   dejando explícito que se ajustará con el briefing?*
-2. *Tarifa/hora a aplicar en la sección 9 — soy consciente de que esto es
-   un tipo de proyecto distinto a un cliente de hostelería, decídmelo vos.*
-3. *Equipo (sección 7) — confirmado: Sergio y Andrea firman la dirección
-   estratégica/creativa; los partners de producción y activación se
-   buscan e incorporan más adelante, no están nombrados en esta primera
-   propuesta. Si no es así como lo veis, decídmelo.*
+1. *Tarifa/hora a aplicar en la categoría 1 del presupuesto.*
+2. *¿Validáis el contenido de los 4 bloques tal cual, o hay algo que
+   ajustar antes de responder a Marta?*
+3. *¿Enviamos esto como documento, o lo montamos también como deck visual
+   con la plantilla de presupuestos? (no construido todavía)*
