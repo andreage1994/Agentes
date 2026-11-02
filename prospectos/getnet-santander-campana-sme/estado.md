@@ -32,10 +32,36 @@ es estrategia+creatividad+canales para un partner B2B).
   buscarían partners más adelante si el proyecto avanza, no se nombra a
   nadie más en esta primera propuesta.
 
-**Pendiente antes de enviar a Marta:**
+**Pendiente antes de enviar a Marta (antes de esto):**
 1. Confirmación final de Andrea/Sergio sobre el contenido del borrador.
 2. Tarifa/hora para cerrar la sección 9 (inversión preliminar).
 3. Decidir si se envía como documento (este borrador) o si se monta
    además como deck visual con la plantilla PPTX — no se ha construido
    el PPTX todavía, solo el borrador en markdown, a la espera de validar
    el contenido primero.
+
+---
+
+**2026-11-02 (briefing real recibido):** Andrea sube
+`Briefing_Plan_SMEs_Getnet.docx` — el briefing ejecutivo real que faltaba.
+Guardado en `briefing-ejecutivo-getnet.md`. Cambia el encargo de forma
+importante: no es solo "vencer el miedo a migrar de TPV", es
+posicionamiento de marca + marketing de SMEs en ES/MX/BR, con hostelería
+como vertical piloto, y 4 bloques de entrega (estrategia creativa,
+canales, contenidos, implementación) + presupuesto en 6 categorías.
+
+Relanzados ambos "directivos" (estrategia y creativa/canales) con el
+briefing real para que revisen y amplíen su trabajo — lo que ya tenían
+sigue siendo válido como pieza dentro del encargo más amplio, no se tira.
+Pendiente de sus entregas revisadas antes de rehacer `propuesta-borrador.md`
+siguiendo la estructura de 4 bloques + presupuesto que pide el briefing
+real (más fiel a lo pedido que la estructura anterior, inspirada en nuestra
+plantilla genérica).
+
+Yo me encargo directamente de: modelo de implementación (lanzamiento,
+calendario, recursos, KPIs) y el presupuesto por las 6 categorías pedidas
+— sigue pendiente la tarifa/hora real de Sergio para cerrar cifras de
+"desarrollo estratégico y creativo"; las demás categorías (producción,
+medios pagados, influencers) no son horas de consultoría sino costes de
+mercado/partners, así que se presentarán como rango orientativo con
+supuestos explícitos, no como cifra cerrada.

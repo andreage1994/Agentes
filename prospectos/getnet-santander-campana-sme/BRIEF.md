@@ -35,17 +35,38 @@ genérico.
 >
 > ¿Cómo lo veis? ¿Podéis llegar con una primera propuesta?
 
-## Lo que falta — "briefing ejecutivo" mencionado por Marta
+## Briefing ejecutivo real (recibido 2026-11-02)
 
-Marta dice "os envío un briefing ejecutivo" pero **ese documento no se ha
-subido a esta sesión** — solo tenemos su mensaje y nuestra plantilla de
-presupuestos (`ESP_2026_PLANTILLA_PRESUPUESTO.pdf`, formato visual a
-seguir, no contenido de Getnet). Sin ese briefing no conocemos: objetivos
-de conversión/KPIs concretos, segmentos de SME más allá de "hostelería",
-presupuesto de medios ya estimado por Getnet, territorio de marca o
-restricciones de Santander, mercados/ciudades objetivo, ni la fecha de
-lanzamiento real de campaña. Ver `estado.md` para el seguimiento de esta
-pregunta a Andrea/Sergio.
+Ver `briefing-ejecutivo-getnet.md` (texto completo). Puntos clave que
+cambian el encargo respecto a lo que se asumió al principio:
+
+- **Objetivo real: posicionamiento de marca + marketing dirigido a SMEs**
+  para aumentar visibilidad, conectar con pequeños/medianos negocios y
+  emprendedores, y generar oportunidades comerciales — explícitamente
+  "más allá de comunicar soluciones de pago": quieren aportar valor real
+  al negocio del hostelero (operativa, recursos, crecimiento), no solo
+  vender el sistema de pago.
+- **Alcance geográfico: España, México y Brasil**, con concepto creativo
+  común adaptable a cada mercado. Nosotros (vía la agencia) solo
+  implementamos/activamos en España.
+- **Hostelería (restaurantes, bares, cafeterías) es la vertical piloto**,
+  antes de extender el modelo a Retail, Travel y Health & Beauty — esto
+  refuerza mucho el argumento de "por qué TBNB": somos el partner natural
+  de la vertical con la que arrancan.
+- **Piden 4 bloques concretos:** (1) estrategia creativa (territorio,
+  propuesta de valor, mensajes, concepto común ES/MX/BR), (2) estrategia
+  de canales (recomendación de canales, evaluación explícita de abrir
+  Instagram/TikTok propios de Getnet en España, papel de LinkedIn,
+  colaboraciones con podcasts/creadores/influencers/comunidades), (3)
+  estrategia de contenidos (pilares, formatos, frecuencia orientativa,
+  ideas para la vertical hostelería, casos de éxito reales, posibles
+  patrocinios con medios especializados), (4) modelo de implementación
+  (lanzamiento, calendario inicial, recursos/responsabilidades, KPIs de
+  notoriedad/interacción/oportunidades comerciales).
+- **Presupuesto orientativo pedido en 6 categorías:** desarrollo
+  estratégico y creativo, producción de contenidos, gestión de
+  canal/es y comunidades, colaboraciones/patrocinios/influencers,
+  inversión en medios pagados, activación en España.
 
 ## Lo que sí sabemos
 
