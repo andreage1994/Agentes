@@ -86,12 +86,36 @@ briefing real (estrategia creativa, canales, contenidos, implementación,
 presupuesto), consolidando los tres documentos de los directivos en un
 único documento legible para enviar a Marta.
 
+**2026-11-02 (deck construido):** Andrea sube además
+`ESTRATEGIA_DE_MARCA_Y_COMUNICACIO_N_1.pptx` — la plantilla real de TBNB
+para este tipo de encargo (estrategia + creatividad), con pedido explícito
+de montar ahí la propuesta de trabajo/creatividad y el presupuesto en el
+formato de `ESP_2026_PLANTILLA_PRESUPUESTO.pdf`.
+
+Construido `Getnet_Estrategia_de_Marca_y_Comunicacion_TBNB.pptx` (16
+diapositivas) rellenando la plantilla real de TBNB con todo el contenido
+de los tres documentos de los directivos: portada, índice, resumen
+ejecutivo, estrategia de comunicación, voz y personalidad, arquitectura
+del mensaje, arquitectura del contenido, ecosistema de canales, customer
+communication journey (reinterpretado como el camino de confianza del
+hostelero: descubrimiento → consideración → decisión → prescripción),
+formatos de contenido, brief para colaboradores, roadmap de
+implementación, presupuesto orientativo (tabla de las 6 categorías
+pedidas), total y condiciones, y cierre.
+
+**Simplificación consciente:** el círculo de "Inversión" de
+`ESP_2026_PLANTILLA_PRESUPUESTO.pdf` no se replicó visualmente (solo
+teníamos esa plantilla en PDF, no editable) — el presupuesto se presentó
+en formato tabla, con la misma estructura de 6 categorías y el mismo
+criterio de contenido. Si Andrea/Sergio quieren el círculo exacto, haría
+falta la plantilla de presupuesto en `.pptx` editable.
+
+Verificado: sin texto de plantilla sin rellenar (lorem ipsum, SUBTÍTULO,
+NOMBRE EMPRESA), sin solapamientos visuales, validación de archivo
+(`validate.py`) en verde.
+
 **Pendiente antes de enviar a Marta:**
-1. Confirmación de Andrea/Sergio sobre el contenido de `propuesta-borrador.md`
-   (y, si hace falta más detalle, de los tres documentos de origen:
-   `direccion-estrategia.md`, `direccion-creativa-canales.md`,
-   `implementacion-presupuesto.md`).
+1. Confirmación de Andrea/Sergio sobre el contenido del deck y de
+   `propuesta-borrador.md` (versión en markdown, mismo contenido).
 2. Tarifa/hora real de TBNB para cerrar la categoría 1 del presupuesto en
-   euros (sigue en horas: 97-126h).
-3. Decidir si se envía como documento (este borrador) o también como deck
-   visual con la plantilla de presupuestos — no construido todavía.
+   euros (sigue en horas: 97-126h, en el deck y en el borrador).
