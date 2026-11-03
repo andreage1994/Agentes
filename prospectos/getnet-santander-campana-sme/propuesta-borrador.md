@@ -73,10 +73,27 @@ confianza: miedo a que el sistema falle en mitad de un servicio lleno,
 desconfianza hacia la letra pequeña, inercia con el proveedor actual, y
 cero tiempo real para evaluar alternativas.
 
+### El porqué de fondo: para qué sirve que el pago no falle
+
+**El valor real de un hostelero no está en cobrar rápido — está en el
+tiempo que le dedica al cliente.** Un sistema de pago que no da trabajo no
+es solo comodidad operativa: es tiempo que vuelve a la sala, a la mesa, a
+la barra — al oficio real de la hospitalidad, que es estar presente con el
+cliente, no pelearte con un datáfono mientras él espera. Los tres pilares
+de abajo no son solo defensa contra el fallo: son la condición para que el
+hostelero pueda dedicarse a lo que de verdad importa. El argumento no es
+"Getnet te ahorra tiempo" en abstracto —eso lo dice cualquier fintech— es
+*"Getnet te devuelve el tiempo que el oficio de verdad necesita"*, y eso
+solo lo decimos con autoridad real porque conectamos con nuestro propio
+criterio: *"La hospitalidad no se improvisa. Se diseña, se entrena y se
+mantiene. Todos los días."* (Andrea Giménez, TBNB).
+
 ### Propuesta de valor y mensajes clave — tres pilares
 
-1. **No le quites tiempo a la hora punta** — velocidad y fiabilidad del
-   cobro cuando más presión hay en el servicio.
+1. **No le quites tiempo a la hora punta (y ese tiempo vuelve al
+   cliente)** — velocidad y fiabilidad del cobro cuando más presión hay
+   en el servicio, para que ese tiempo se quede en la mesa, no en el
+   datáfono.
 2. **Sin sorpresas cuando cierras caja** — transparencia real de
    comisiones y liquidaciones, contada desde la tranquilidad, no desde la
    tabla de tarifas.
@@ -121,14 +138,19 @@ Un hostelero de pyme no decide esto viendo un anuncio en frío. Decide por
 lo que le dice alguien en quien confía, en un sitio donde ya está por otro
 motivo.
 
-### Canales de terceros — la prioridad real
+### Canales de terceros — dónde, y sobre todo cómo
 
-| Canal | Por qué |
-|---|---|
-| **Proveedores que ya le visitan** (distribuidores, instaladores de TPV) | Entran en el local cada semana, ya tienen la confianza del dueño. Co-marketing/referido llega al momento exacto de la decisión. |
-| **Gremios y asociaciones de hostelería** (por comunidad autónoma) | El sitio al que el hostelero va a *preguntar*, no que le interrumpe. Existe un directorio real por CCAA ([Qamarero, 2025](https://www.qamarero.com/blog/asociaciones-de-hosteleria-de-espana-guia-y-directorio/)) para activar. |
-| **Prescripción entre dueños** (boca-oreja con casos reales) | En un sector donde todos se conocen en su zona, la recomendación de otro hostelero pesa más que cualquier mensaje de marca. |
-| **Ferias sectoriales** (HIP, Hostelco, H&T) | Hito puntual de lanzamiento/activación de acuerdos, no inversión continua — coste alto, alcance puntual en el tiempo. |
+Proveedores, gremios, boca-oreja y ferias no son un hallazgo: cualquier
+competidor (Redsys, SumUp, CaixaBank...) ya está en estos mismos sitios.
+**Estar presente no es diferencial — lo es la mecánica de activación**,
+construida desde el territorio, no desde el logo:
+
+| Canal | Lo genérico (lo que ya hace la competencia) | Cómo lo hacemos relevante |
+|---|---|---|
+| **Proveedores que ya le visitan** (distribuidores, instaladores de TPV) | Comisión por referido a cambio de mención o folleto. | El distribuidor no lleva un folleto, lleva una historia real y un guion de 2 preguntas que traduce el insight estratégico a la venta: *"¿qué te preocupa más, perder el jueves que lo cambias, o la comisión que pagas hoy?"* |
+| **Gremios y asociaciones** (por CCAA, [directorio real](https://www.qamarero.com/blog/asociaciones-de-hosteleria-de-espana-guia-y-directorio/)) | Banner o newsletter patrocinada. | Co-crear una guía honesta *"cómo decidir si te conviene cambiar de sistema de pago"*, con criterio operativo real — no un anuncio con el logo al lado. |
+| **Prescripción entre dueños** (boca-oreja) | Programa de referidos tipo fintech (link, descuento). No es un canal que se compre — es un resultado que hay que diseñar. | Al hostelero que migra se le da una pieza física/social pensada para enseñarse en la barra (su propia migración, grabada), no para reenviarse por redes. |
+| **Ferias sectoriales** (HIP, Hostelco, H&T) | Stand con azafata y roll-up — el canal más débil si no se activa bien, indistinguible de la competencia. | Demo experiencial de "hora punta simulada": una barra real en el stand donde el visitante cobra bajo presión, viviendo el pilar en vez de oírlo. |
 
 ### ¿Perfiles propios de Getnet en Instagram y/o TikTok en España?
 

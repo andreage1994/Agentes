@@ -114,8 +114,37 @@ Verificado: sin texto de plantilla sin rellenar (lorem ipsum, SUBTÍTULO,
 NOMBRE EMPRESA), sin solapamientos visuales, validación de archivo
 (`validate.py`) en verde.
 
+**2026-11-03 (dos ajustes de fondo pedidos por Andrea/Sergio tras revisar):**
+
+1. **Canales — capa de activación, no solo lista de sitios.** Andrea
+   señaló que proveedores/gremios/boca-oreja/ferias ya los usa toda la
+   competencia (Redsys, SumUp, CaixaBank...) — estar presente no es
+   diferencial. Reescrita la sección 3.1 de `direccion-creativa-canales.md`,
+   la sección 2 de `propuesta-borrador.md` y la diapositiva 9 del deck con
+   una mecánica de activación concreta por canal, ligada al territorio: el
+   distribuidor cuenta un caso real con un guion de 2 preguntas (no reparte
+   folleto), el gremio recibe una guía honesta co-creada (no un banner), la
+   prescripción se diseña como pieza física para enseñar en la barra (no
+   un link de afiliado), la feria es una demo experiencial de "hora punta
+   simulada" (no un stand genérico) — marcado explícitamente que ferias es
+   el canal más débil de los cuatro si no se activa bien.
+
+2. **"El porqué de fondo" — el tiempo que no se pierde en el cobro vuelve
+   al cliente.** Añadido a petición directa de Andrea/Sergio: el valor real
+   de un hostelero no es cobrar rápido, es el tiempo que dedica a la
+   relación con el cliente — un sistema de pago que no da trabajo libera
+   ese tiempo para lo que de verdad importa en hostelería. Conecta
+   directamente con la cita real de Andrea ("la hospitalidad no se
+   improvisa, se diseña, se entrena y se mantiene"). Integrado en
+   `direccion-creativa-canales.md` (nueva subsección tras "La idea
+   rectora"), en `propuesta-borrador.md` (nueva subsección antes de los 3
+   pilares) y en el deck (diapositivas 5 y 7) — refuerza el Pilar 1 sin
+   sustituir los otros dos.
+
+Deck revalidado (`validate.py` en verde, sin overflow ni placeholders) y
+actualizado en el repo.
+
 **Pendiente antes de enviar a Marta:**
-1. Confirmación de Andrea/Sergio sobre el contenido del deck y de
-   `propuesta-borrador.md` (versión en markdown, mismo contenido).
+1. Confirmación de Andrea/Sergio sobre el contenido actualizado.
 2. Tarifa/hora real de TBNB para cerrar la categoría 1 del presupuesto en
    euros (sigue en horas: 97-126h, en el deck y en el borrador).
