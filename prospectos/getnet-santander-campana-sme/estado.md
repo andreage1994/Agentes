@@ -144,7 +144,37 @@ NOMBRE EMPRESA), sin solapamientos visuales, validación de archivo
 Deck revalidado (`validate.py` en verde, sin overflow ni placeholders) y
 actualizado en el repo.
 
-**Pendiente antes de enviar a Marta:**
-1. Confirmación de Andrea/Sergio sobre el contenido actualizado.
-2. Tarifa/hora real de TBNB para cerrar la categoría 1 del presupuesto en
-   euros (sigue en horas: 97-126h, en el deck y en el borrador).
+**2026-11-03 (presupuesto pasa a fase 2 + deck dividido en dos):** Sergio
+confirma tarifa TBNB (70€/h), pero el proyecto es anual, no un piloto de 3
+meses — la estructura de presupuesto actual (horas sueltas + categorías
+de un piloto corto) no encaja. Además, se subcontratará una agencia de PR
+y creación de contenido todavía por cerrar con ellos. **Se deja
+explícitamente pendiente para una segunda fase** — no se fuerza una
+cifra anual sin esos datos (tarifa/reparto con la agencia, estructura de
+retainer vs. horas, techo de presupuesto de Getnet si lo hay).
+
+A petición de Sergio/Andrea, el deck único se divide en los dos
+documentos que pidieron desde el principio:
+- `Getnet_Desarrollo_del_Proyecto_TBNB.pptx` (13 diapositivas) — la
+  propuesta de estrategia y creatividad, ya cerrada, sin dependencia del
+  presupuesto.
+- `Getnet_Presupuesto_TBNB.pptx` (4 diapositivas: portada, presupuesto
+  orientativo, total/condiciones, cierre) — portada retitulada
+  explícitamente **"Borrador, pendiente de cierre con agencia (fase 2)"**
+  para que no se confunda con una cifra cerrada si se comparte.
+
+Eliminado el archivo combinado anterior (`Getnet_Estrategia_de_Marca_y_
+Comunicacion_TBNB.pptx`), sustituido por estos dos.
+
+**Pendiente (fase 2, no bloqueante para enviar la parte de estrategia):**
+1. Cerrar con la agencia de PR/contenido su tarifa y el reparto de trabajo
+   (qué hace la agencia vs. qué se queda en TBNB).
+2. Decidir modelo de facturación TBNB para un anual (retainer mensual vs.
+   horas reales a 70€/h).
+3. Sondear si Getnet tiene techo de presupuesto anual ya comprometido.
+4. Rehacer la sección de presupuesto (documento + deck) con la
+   estructura anual una vez cerrado lo anterior.
+
+**No bloqueante — ya se puede enviar a Marta si Andrea/Sergio lo
+confirman:** `Getnet_Desarrollo_del_Proyecto_TBNB.pptx` y
+`propuesta-borrador.md` (secciones 1-4, sin presupuesto).
