@@ -166,6 +166,31 @@ documentos que pidieron desde el principio:
 Eliminado el archivo combinado anterior (`Getnet_Estrategia_de_Marca_y_
 Comunicacion_TBNB.pptx`), sustituido por estos dos.
 
+**2026-11-03 (rediseño fiel a la plantilla real de presupuesto):** Andrea
+señala que `Getnet_Presupuesto_TBNB.pptx` usaba el estilo de la plantilla
+de marca/comunicación, no el de la plantilla de presupuesto real que
+mandó al principio (`ESP_2026_PLANTILLA_PRESUPUESTO.pdf`). Solo
+teníamos esa plantilla en PDF, no editable — reconstruido desde cero con
+pptxgenjs replicando su identidad visual real (colores exactos
+muestreados del PDF: teal `#33B086`/`#31AC82`, fondo oscuro `#1D1D1B`,
+anillo de 6 colores purple/teal/yellow/orange/blue/red), con el mismo
+logo TBNB (extraído de la plantilla de marca, versión blanca generada
+para fondo oscuro). Estructura: portada, "Trabajar juntos" (cronología
+de 6 fases adaptada a nuestro proceso real, Fase 2 destacada como
+"Propuesta a medida"), "Inversión" (el anillo circular, con las 6
+categorías reales del proyecto en vez de las de un diagnóstico de
+restaurante), "Total y Condiciones", y cierre (disclaimer + gracias +
+contacto) — reutilizando casi textualmente el copy de marca de la
+plantilla original donde aplicaba universalmente (el mensaje de "no
+buscamos que toméis una decisión rápida...", el "podríamos servirte el
+menú completo..."). Omitidas a propósito las diapositivas específicas de
+diagnóstico de restaurante (BAR Method Break Down/Architecture/Run,
+herramientas, partners de confianza) por no aplicar a este tipo de
+proyecto — no es información que falte, es contenido que no corresponde.
+
+Validado (`validate.py` en verde) y revisado visualmente diapositiva a
+diapositiva.
+
 **Pendiente (fase 2, no bloqueante para enviar la parte de estrategia):**
 1. Cerrar con la agencia de PR/contenido su tarifa y el reparto de trabajo
    (qué hace la agencia vs. qué se queda en TBNB).
@@ -173,7 +198,8 @@ Comunicacion_TBNB.pptx`), sustituido por estos dos.
    horas reales a 70€/h).
 3. Sondear si Getnet tiene techo de presupuesto anual ya comprometido.
 4. Rehacer la sección de presupuesto (documento + deck) con la
-   estructura anual una vez cerrado lo anterior.
+   estructura anual una vez cerrado lo anterior — el deck ya está en el
+   formato correcto, solo falta sustituir las cifras.
 
 **No bloqueante — ya se puede enviar a Marta si Andrea/Sergio lo
 confirman:** `Getnet_Desarrollo_del_Proyecto_TBNB.pptx` y
