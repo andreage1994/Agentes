@@ -18,6 +18,23 @@ publicable.
   `seo/blog-web/estado.md` (datos, ejemplos, fuentes, enlaces internos
   posibles).
 - `seo/blog-web/BRIEF.md` — tono de marca completo.
+- `seo/blog-web/manual-tono-y-reescritura-blog.md` — manual específico de
+  blog (estructura de 6 bloques, extensión 800-1200 palabras, CTA suave)
+  que da Andrea; sigue su punto 3 para la estructura del artículo.
+
+## Si el artículo es una curación de un blog ya publicado (no un tema nuevo)
+
+Sigue siempre el punto 5 de `manual-tono-y-reescritura-blog.md`: lee
+primero el texto que hoy está realmente publicado en la URL (no lo
+reconstruyas por búsqueda ni lo des por supuesto desde la estrategia),
+identifica su intención de búsqueda/keywords/estructura actuales, mantén
+lo que ya sirve para SEO, y reescribe solo lo que hace falta (estilo,
+datos caducados, claridad). **Nunca entregues una reescritura completa
+construida solo desde la estrategia y la investigación sin haber leído
+el texto en vivo** — si no se puede leer (bloqueo de red u otro motivo),
+lo dices explícitamente en el artículo y en `estado.md`, y no lo marcas
+como listo para Andrea/Sergio hasta que alguien lo haya podido comparar
+contra el texto real.
 
 ## Tono — no es un tono nuevo, es el de TBNB adaptado a artículo largo
 

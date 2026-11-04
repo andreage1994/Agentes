@@ -55,6 +55,15 @@ No se parte de una página en blanco ni se sustituye el texto entero,
 aunque el resultado final cambie mucho en algunos casos (ej. el #2 y el
 #6 necesitan quitar "2024" del H1 y repensar el enfoque de fondo).
 
+**2026-11-04 (manual de Andrea, confirma el mismo diagnóstico):** Andrea
+comparte `manual-tono-y-reescritura-blog.md` — un manual propio que no
+existía en el repo hasta ahora. Su punto 5 ("Cómo reescribir los blogs
+existentes") es, literalmente, el proceso correcto que falta arriba: leer
+el blog actual, identificar intención/keywords/estructura, mantener lo
+que sirve para SEO, reescribir solo estilo. Queda como referencia
+obligatoria en `blog-redaccion` y `blog-revision-seo-calidad` (ver sus
+fichas en `.claude/agents/`) para cualquier curación a partir de ahora.
+
 **No se manda ningún `curacion-XX` más como definitivo hasta resolver
 esto.** Las fases de redacción/revisión de los artículos #9, #10, #13 y
 #14 (ver tabla de seguimiento) quedan en pausa por este motivo, no porque

@@ -80,6 +80,11 @@ Cuatro especialistas (`.claude/agents/`), cada uno con una fase del proceso:
 ## Cómo está organizada esta carpeta
 
 - `BRIEF.md` — este documento.
+- `manual-tono-y-reescritura-blog.md` — manual de Andrea con la estructura
+  de blog, pautas SEO y, sobre todo, el proceso correcto para reescribir
+  un blog ya publicado (leer el texto real antes de tocar nada). Es de
+  obligada consulta para `blog-redaccion` y `blog-revision-seo-calidad`
+  en cualquier curación de contenido ya publicado.
 - `listado-temas.md` — temas que da `seo-estrategia-senior`, con su prioridad y
   ángulo una vez `blog-estrategia-seo` los trabaja.
 - `estado.md` — en qué fase va cada artículo (estrategia → investigación →

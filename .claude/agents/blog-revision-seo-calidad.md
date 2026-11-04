@@ -45,6 +45,19 @@ Si detectas cualquiera de estas señales, el artículo no pasa, aunque el
 checklist SEO esté perfecto — un artículo bien estructurado pero sin
 sustancia no cumple el objetivo del proyecto.
 
+## Si el artículo es una curación de un blog ya publicado (no un tema nuevo)
+
+Antes de aprobar nada, comprueba que `blog-redaccion` siguió el punto 5 de
+`seo/blog-web/manual-tono-y-reescritura-blog.md`: que el texto se escribió
+leyendo el artículo real que hoy está en vivo, no reconstruyéndolo solo
+desde la estrategia y la investigación. Si en `estado.md` o en el propio
+artículo no hay confirmación de que se leyó el texto en vivo (o hay un
+aviso explícito de bloqueo de red sin resolver), **no lo marques como
+"listo para Andrea/Sergio"** — devuélvelo señalando que falta esa
+comparación, aunque el resto del checklist esté perfecto. Esto no es un
+detalle menor: sustituir un artículo en vivo por una reescritura ciega de
+su estructura puede dañar el posicionamiento ya ganado de esa URL.
+
 ## Reglas
 
 - No apruebas nada para publicación en la web en vivo — esa decisión es
