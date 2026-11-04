@@ -33,7 +33,7 @@ Compensa cuando el negocio tiene poco capital inicial y la cerveza es, de hecho,
 
 No compensa en conceptos de coctelería, vino o cerveza artesanal, donde la exclusividad limita exactamente lo que hace diferente al local. Si tu propuesta de valor es la variedad o la curación de producto, ceder ese espacio a cambio de unos grifos y un rótulo es cambiar la identidad del negocio por una ayuda que, en muchos casos, se amortizaría igual con financiación convencional.
 
-En el artículo sobre ayudas de proveedores explicamos con más detalle cómo ponerle un número al coste real de la exclusividad *(enlace interno pendiente de añadir cuando esté publicado)* — la lógica, resumida: compara el precio que pagarías sin exclusividad frente al pactado, multiplícalo por volumen y años de contrato, y compáralo con el valor de lo recibido.
+En [el artículo sobre ayudas de proveedores](https://www.thebarnbarconsulting.com/ayudas-para-montar-un-bar/) explicamos con más detalle cómo ponerle un número al coste real de la exclusividad — la lógica, resumida: compara el precio que pagarías sin exclusividad frente al pactado, multiplícalo por volumen y años de contrato, y compáralo con el valor de lo recibido.
 
 ## Preguntas concretas para llevar a la reunión con el comercial
 
@@ -43,4 +43,6 @@ En el artículo sobre ayudas de proveedores explicamos con más detalle cómo po
 - **¿Cómo se calcula la penalización por rescisión anticipada, y sobre qué importe?** Sin esta respuesta por escrito no sabes cuánto cuesta de verdad salir del contrato si el negocio cambia de rumbo.
 - **¿La decoración y la rotulación exterior son propiedad del bar o de la cervecera al finalizar el contrato?** Parte de "lo que te dan" puede no ser tuyo nunca del todo.
 
-Ninguna de estas preguntas convierte un buen acuerdo en uno malo. Solo evitan que firmes algo que no entiendes del todo por lo bien que suena en la reunión. En TBNB no tenemos ningún interés en que aceptes o rechaces la ayuda de una cervecera — el interés es que la aceptes sabiendo exactamente qué has firmado. Si quieres comparar con el mismo criterio aplicado a otra marca, el artículo sobre Mahou sigue la misma estructura *(enlace interno pendiente de añadir cuando esté publicado)*.
+Ninguna de estas preguntas convierte un buen acuerdo en uno malo. Solo evitan que firmes algo que no entiendes del todo por lo bien que suena en la reunión. En TBNB no tenemos ningún interés en que aceptes o rechaces la ayuda de una cervecera — el interés es que la aceptes sabiendo exactamente qué has firmado. Si quieres comparar con el mismo criterio aplicado a otra marca, [el artículo sobre Mahou](https://www.thebarnbarconsulting.com/mahou-te-monta-el-bar/) sigue la misma estructura.
+
+Si antes de la reunión con el comercial quieres repasar juntos las condiciones, hablamos.

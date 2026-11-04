@@ -12,7 +12,10 @@ Tener un plan APPCC no es lo mismo que aprobar una inspección de sanidad.
 La ley no pide un documento bonito guardado en un cajón: pide un sistema
 de seguridad alimentaria que el restaurante aplique y mantenga cada día.
 Y es justo ahí donde casi todos fallan — no por no tener el plan APPCC,
-sino por no usarlo.
+sino por no usarlo. Es el mismo problema de fondo que vemos con las
+[licencias para abrir un restaurante](https://www.thebarnbarconsulting.com/licencias-para-abrir-un-restaurante/):
+tratar un requisito como papeleo de apertura en vez de como parte de la
+operativa real del día a día.
 
 ## Requisitos sanitarios para abrir un restaurante: APPCC, registro y qué exige la ley
 
@@ -185,4 +188,5 @@ lo rellena cada día sin que se lo pidan. Esa es la diferencia entre
 diseñar un sistema y sostenerlo — que es, al final, de lo que trata la
 fase Run del BAR Method: no basta con dejarlo bien montado el primer día,
 hay que hacer que siga funcionando cuando ya nadie está mirando.
-</content>
+
+Si quieres que revisemos juntos cómo está funcionando el tuyo en el día a día, hablamos.

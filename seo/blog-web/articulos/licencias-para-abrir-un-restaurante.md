@@ -58,7 +58,7 @@ Ninguno de estos errores viene de mala suerte. Vienen de decidir el local, la ob
 - **Actividad clasificada de forma incorrecta.** Montar un concepto con música en directo o cocina con mucha extracción de humos, asumiendo que es "inocuo" porque el local de al lado lo tramitó así. Cada actividad se evalúa por lo que hace, no por lo que hizo el vecino.
 - **Terraza denegada después de invertir en la obra interior.** Es el error más caro de los tres porque llega al final: el interior ya está reformado, el presupuesto ya está gastado, y la terraza —que en muchos casos era parte del modelo de negocio— no se concede porque el aforo interior no se acreditó como hacía falta.
 
-Ya lo avisábamos en nuestro artículo sobre errores comunes al abrir un restaurante (en inglés): licencias, tasas municipales y proyecto técnico mal planificados pueden disparar el presupuesto inicial bastante más de lo previsto.
+Licencias, tasas municipales y proyecto técnico mal planificados son, de largo, lo que más dispara un presupuesto de apertura por encima de lo previsto.
 
 ## Checklist rápido para no llegar a la apertura con sorpresas
 
@@ -69,3 +69,5 @@ Ya lo avisábamos en nuestro artículo sobre errores comunes al abrir un restaur
 - **Orden de trámites: actividad antes que obra.** Empezar la reforma sin la actividad validada es apostar el presupuesto de obra a que todo saldrá bien después.
 
 Nada de esta lista sustituye a una gestoría especializada en el trámite concreto — eso sigue siendo terreno suyo, y bien. Lo que cambia es el momento en el que haces las preguntas: antes de comprometerte con un local, no cuando ya has firmado y el margen para corregir se ha cerrado. Esa es, para nosotros, la diferencia entre tratar las licencias como papeleo posterior o como parte del diagnóstico del propio proyecto — y es donde de verdad se decide si el negocio arranca bien o arranca ya con un problema estructural encima.
+
+Si quieres que repasemos juntos el local que tienes en mente antes de firmar nada, hablamos.

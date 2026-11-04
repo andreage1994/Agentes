@@ -64,7 +64,7 @@ Tener menos referencias en la carta también ayuda por el lado del coste, no sol
 
 Un ejemplo de cómo se traduce esto en el diseño real: Honest Greens, cadena fast-casual con presencia en España, separa visualmente en su carta un apartado de "healthy indulgences" para su repostería, en vez de forzar que todo el menú parezca sano. Así ofrece un producto claramente indulgente sin diluir el posicionamiento del resto de la carta — resuelve variedad y honestidad de producto a la vez, sin restar valor percibido al conjunto.
 
-Esta capa cruzada con el food cost real de cada plato es exactamente donde conecta con lo que ya contamos sobre por qué el food cost calculado hace tiempo puede estar mintiendo hoy [enlazar cuando esté publicado: URL final del artículo de food cost]. Una carta no se diseña bien sin las dos cosas a la vez: qué margen deja cada plato y qué percibe el cliente que está pagando.
+Esta capa cruzada con el food cost real de cada plato es exactamente donde conecta con lo que ya contamos sobre [por qué el food cost calculado hace tiempo puede estar mintiendo hoy](https://www.thebarnbarconsulting.com/food-cost-2026-por-que-el-calculo-ya-no-vale/). Una carta no se diseña bien sin las dos cosas a la vez: qué margen deja cada plato y qué percibe el cliente que está pagando.
 
 ## Errores en el diseño de la carta de un restaurante que cuestan dinero
 
@@ -86,3 +86,5 @@ Esta capa cruzada con el food cost real de cada plato es exactamente donde conec
 - Solo si todo lo anterior está resuelto: ¿la estética (tipografía, papel, fotos) refuerza esa decisión o la tapa?
 
 En TBNB vemos la misma escena una y otra vez: cartas preciosas, con el food cost sin recalcular y platos que nadie ha vuelto a mirar desde que se imprimieron. La estética no es el problema. El problema es decidirla primero, cuando debería ser el último paso de una decisión que ya estaba tomada.
+
+Si quieres que clasifiquemos juntos tu carta antes de mandarla a imprenta, hablamos.

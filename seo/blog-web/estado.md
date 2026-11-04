@@ -64,6 +64,58 @@ que sirve para SEO, reescribir solo estilo. Queda como referencia
 obligatoria en `blog-redaccion` y `blog-revision-seo-calidad` (ver sus
 fichas en `.claude/agents/`) para cualquier curación a partir de ahora.
 
+**2026-11-04 (revisión de los 7 artículos ya publicados hoy, contra el
+manual de Andrea):** Andrea publicó hoy los 7 artículos del primer lote
+del proyecto (licencias, ayudas de proveedores, Estrella Galicia, Mahou,
+food cost 2026, APPCC, diseño de carta — los mismos de `listado-temas.md`
+temas 1-7). Revisados los 7 contra el checklist de
+`manual-tono-y-reescritura-blog.md`. El contenido de fondo (tono, rigor,
+ángulo TBNB, estructura SEO) ya cumplía bien el manual sin tocarlo — los
+fallos encontrados eran técnicos, no de fondo:
+
+- **Enlaces internos pendientes sin resolver.** `ayudas-para-montar-un-
+  bar.md`, `estrella-galicia-te-monta-el-bar.md` y `mahou-te-monta-el-
+  bar.md` se escribieron antes de que los tres estuvieran publicados, así
+  que se cruzaban enlaces entre ellos marcados como *"(enlace interno
+  pendiente de añadir cuando esté publicado)"*. Ahora que los 7 ya están
+  publicados, se han sustituido por enlaces reales.
+- **`disenar-carta-restaurante-...md`** tenía el mismo problema con el
+  enlace al artículo de food cost (`[enlazar cuando esté publicado]`),
+  ya resuelto.
+- **`appcc-restaurante-tenerlo-vs-usarlo.md`** tenía una etiqueta técnica
+  suelta (`</content>`) al final del archivo — se habría publicado tal
+  cual en la web. Eliminada. Además era el único de los 7 sin ningún
+  enlace interno; se añadió uno a licencias.
+- **`licencias-para-abrir-un-restaurante.md`** mencionaba "nuestro
+  artículo sobre errores comunes al abrir un restaurante (en inglés)" sin
+  enlazarlo — no se pudo verificar que esa URL exista (sin acceso a
+  `thebarnbarconsulting.com` en esta sesión), así que se quitó la
+  referencia en vez de dejar un enlace sin verificar.
+- **Ninguno de los 7 tenía el CTA suave que pide el punto 6 del manual.**
+  Añadida una línea de cierre a cada uno, en el tono del manual (nunca
+  agresivo), específica para cada tema.
+
+**⚠️ Aviso importante sobre las URLs de los nuevos enlaces cruzados:**
+como estos 7 artículos se publican hoy por primera vez, no hay forma de
+confirmar en esta sesión (sin acceso a la web) cuál es el slug real que
+va a tener cada uno en `thebarnbarconsulting.com`. Los enlaces añadidos
+usan el slug que coincide con el nombre de archivo de cada artículo
+(ej. `/ayudas-para-montar-un-bar/`, `/estrella-galicia-te-monta-el-bar/`,
+`/mahou-te-monta-el-bar/`, `/food-cost-2026-por-que-el-calculo-ya-no-
+vale/`) — **Andrea/Sergio deben confirmar que esos son los slugs reales
+antes de publicar**, o ajustarlos si el gestor de la web les puso otra
+URL al publicar. No es un enlace inventado en el sentido de que apunte a
+contenido que no existe — es un enlace a contenido real con una URL
+asumida, pendiente de confirmación.
+
+**Nota sobre extensión:** `appcc-restaurante-tenerlo-vs-usarlo.md` (~1.670
+palabras) y `disenar-carta-restaurante-...md` (~2.540 palabras) superan
+bastante el rango de 800-1200 que pide el manual. No se han recortado —
+el de diseño de carta es el tema de mayor volumen de todo el listado
+(210/mes) y la profundidad parece justificada por la competencia; el de
+APPCC tiene contenido operativo real, no relleno. Se deja como nota para
+que Andrea decida si prefiere una versión más corta.
+
 **No se manda ningún `curacion-XX` más como definitivo hasta resolver
 esto.** Las fases de redacción/revisión de los artículos #9, #10, #13 y
 #14 (ver tabla de seguimiento) quedan en pausa por este motivo, no porque

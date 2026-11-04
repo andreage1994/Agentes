@@ -64,3 +64,5 @@ Y hay un último criterio, quizá el más incómodo: la popularidad no es garant
 Todo esto es un zoom a una sola pieza del negocio: el coste de lo que sirves. Si lo que necesitas es la fotografía completa — personal, alquiler, suministros, todos los costes, no solo materia prima — ya la hicimos en [cómo calcular la rentabilidad de un negocio de hostelería](https://www.thebarnbarconsulting.com/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/). Ese artículo es el mapa entero; este es la lupa sobre el punto que más rápido se desactualiza sin que nadie lo note.
 
 En TBNB no creemos que revisar el food cost dos veces al año sea disciplina extra. Es la higiene mínima del negocio, sobre todo cuando el sector entero factura más y gana menos. La carta no miente — el problema es la frecuencia con la que le preguntas.
+
+Si quieres que repasemos juntos tu escandallo con los números de hoy, hablamos.
