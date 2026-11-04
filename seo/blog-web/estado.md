@@ -1,5 +1,68 @@
 # Estado — Blog Web TBNB
 
+## ⚠️ 2026-11-04 — Diagnóstico de Andrea: la "curación" de los 14 blogs no es curación real
+
+**Andrea tiene razón y hay que parar aquí antes de seguir.** Lo que se ha
+entregado hasta ahora como "curación" de los 14 artículos más visitados
+(`curacion-01` a `curacion-12`, ver tabla de seguimiento más abajo) **no es
+una actualización del texto que hoy está publicado en la web** — es una
+redacción nueva construida desde la estrategia (`curacion-estrategia.md`)
+y la investigación (`investigacion/curacion-*.md`), sin haber leído nunca
+el artículo real. Si se usara tal cual para sustituir el contenido en vivo,
+el riesgo que señala Andrea es real: se perdería la estructura/perspectiva
+ya indexada por Google de cada URL sin necesidad, en vez de evolucionarla.
+
+**Por qué pasó esto (ya estaba documentado, pero no se frenó el trabajo a
+tiempo):** `thebarnbarconsulting.com` da `ENOTFOUND` por política de red de
+esta sesión en la nube — no es un fallo puntual, pasa en todas las sesiones
+de esta cadena de trabajo, confirmado de nuevo ahora mismo. Cada brief de
+`investigacion/curacion-*.md` y cada entrada de este documento lo avisa
+explícitamente ("no se ha podido leer el artículo tal cual está publicado
+hoy"), pero el trabajo siguió adelante igualmente en vez de pararse y
+pedir el acceso antes de redactar nada — ese es el fallo de proceso real,
+no la calidad de la estrategia o la investigación en sí (esas dos partes
+siguen siendo aprovechables, ver abajo).
+
+**Qué es aprovechable y qué no, de lo ya hecho:**
+- ✅ `curacion-estrategia.md` — el ángulo, la prioridad y los avisos de
+  canibalización por URL siguen siendo válidos, no dependen de leer el
+  texto en vivo.
+- ✅ `investigacion/curacion-*.md` — los datos, fuentes y criterio de TBNB
+  por tema siguen siendo aprovechables como material para editar, no como
+  brief de "reescribe desde cero".
+- ❌ `articulos/curacion-*.md` — **ninguno de estos debe copiarse encima del
+  artículo en vivo tal cual.** Son borradores de referencia (qué datos y
+  qué ángulo incorporar), no el texto final a publicar.
+
+**Cómo se arregla, dos caminos (no excluyentes):**
+1. **Dar acceso a `thebarnbarconsulting.com` desde los ajustes de red de
+   este entorno** (menú del entorno en la barra de título de la sesión →
+   Editar → Network access → nivel "Limited" → añadir el dominio a
+   "Allowed domains"). Con eso puedo leer el H1/H2/H3 y el texto real de
+   cada artículo y hacer la curación de verdad: editar sobre lo que ya
+   existe, no sustituirlo.
+2. **Si no se puede abrir el dominio**, Andrea/Sergio pegan aquí (o suben)
+   el texto actual de cada artículo (empezando por los 3 de máxima
+   prioridad: rentabilidad, 5 tipos de negocio, guía abrir un bar) y
+   trabajo la curación sobre ese texto real.
+
+**Cómo debería trabajarse la curación real, a partir de ahora:** partir
+siempre del texto publicado (H1, cada H2/H3 en su orden, párrafos tal
+cual) y aplicar sobre ÉL los cambios que ya identificó la estrategia —
+actualizar datos/cifras caducadas, matizar o añadir un H2 si hace falta,
+reforzar keyword y enlazado interno — tocando solo lo que hay que tocar.
+No se parte de una página en blanco ni se sustituye el texto entero,
+aunque el resultado final cambie mucho en algunos casos (ej. el #2 y el
+#6 necesitan quitar "2024" del H1 y repensar el enfoque de fondo).
+
+**No se manda ningún `curacion-XX` más como definitivo hasta resolver
+esto.** Las fases de redacción/revisión de los artículos #9, #10, #13 y
+#14 (ver tabla de seguimiento) quedan en pausa por este motivo, no porque
+falte trabajo de estrategia.
+
+---
+
+
 **Fecha de arranque:** 2026-09-28.
 
 ## Situación actual
