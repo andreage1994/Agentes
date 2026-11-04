@@ -204,3 +204,73 @@ diapositiva.
 **No bloqueante — ya se puede enviar a Marta si Andrea/Sergio lo
 confirman:** `Getnet_Desarrollo_del_Proyecto_TBNB.pptx` y
 `propuesta-borrador.md` (secciones 1-4, sin presupuesto).
+
+---
+
+**2026-11-04 (reestructuración completa del deck a 7 secciones, con
+presupuesto real incluido):** Andrea y Sergio revisan `Getnet_Desarrollo_
+del_Proyecto_TBNB.pptx` y deciden que "le falta mucho para estar
+presentable" — definen un índice obligatorio de 7 secciones que cubre
+todos los puntos del briefing en un único documento:
+
+1. Contexto y objetivo (incluye oportunidad, reto y decisión)
+2. Estrategia creativa (territorio, mensajes clave, enfoque)
+3. Estrategia de canales
+4. Estrategia de contenidos
+5. Modelo de implementación (por canales)
+6. Por qué TBNB
+7. Presupuesto — **ya no en fase 2**: Sergio confirma el modelo mensual
+   (mes 1 con 60h de implementación, meses siguientes con fee de 33h,
+   70€/hora) y pide mantener las cantidades ya estimadas para el resto de
+   partners hasta que confirmen sus fees.
+
+Reconstruido el deck desde la plantilla real (`ESTRATEGIA_DE_MARCA_Y_
+COMUNICACIO_N_1.pptx`): 31 diapositivas (portada + 2 de índice + 28 de
+contenido), con **todo** el contenido ya desarrollado en
+`direccion-estrategia.md`, `direccion-creativa-canales.md` e
+`implementacion-presupuesto.md` distribuido punto por punto (segmentación
+A/B/C, los 3 pilares, "el porqué de fondo", los 4 canales de terceros con
+su mecánica de activación, perfiles propios/LinkedIn, colaboraciones,
+estrategia de contenidos, primeras acciones, calendario de 4 fases,
+tabla nueva de "implementación por canal", recursos/responsabilidades,
+KPIs, el argumento de por qué TBNB con las dos citas reales, y el
+presupuesto con las cifras ya cerradas).
+
+**Cifras nuevas de la categoría 1 (TBNB), ya cerradas:**
+- Mes 1 (implementación): 60h × 70€/h = **4.200€**
+- Meses siguientes (fee de dirección): 33h × 70€/h = **2.310€/mes**
+
+Categorías 2-6 (producción, gestión de canales, colaboraciones, medios
+pagados, activación) se mantienen con los rangos del estudio orientativo
+anterior, marcadas explícitamente como "pendiente de confirmación de la
+agencia/partners" — tal y como pidió Sergio.
+
+**Decisiones de orden tomadas sin devolver pregunta a Andrea/Sergio**
+(el índice que dieron ya venía bien pensado, no hizo falta reordenar):
+segmentación se queda dentro de la sección 1 (es parte del contexto, no
+de la estrategia creativa); KPIs se queda dentro de la sección 5 (modelo
+de implementación), junto a recursos — no se separó en su propia sección
+porque son la métrica de ese mismo modelo.
+
+**Nota técnica interna (no afecta al contenido):** al construir el deck
+se detectó y corrigió un bug de duplicación de cajas de texto (36 shapes
+duplicados por relanzar el script de relleno sobre el mismo archivo en
+pasadas sucesivas) — limpiado antes de la validación final.
+
+Validado (`validate.py` en verde) y revisado visualmente las 31
+diapositivas una por una — sin texto de plantilla sin rellenar, sin
+solapamientos.
+
+**Pendiente de verdad:**
+1. Confirmación de Andrea/Sergio sobre el contenido y el orden.
+2. Las cifras de las categorías 2-6 siguen siendo estimaciones nuestras,
+   a la espera de que la agencia de PR/contenido y el resto de partners
+   confirmen sus fees reales.
+3. `Getnet_Presupuesto_TBNB.pptx` (el deck independiente de presupuesto)
+   **todavía no se ha actualizado** con las nuevas cifras de 70€/h — sigue
+   teniendo el placeholder antiguo "97-126h, pendiente tarifa". A decidir
+   si se actualiza también o si a partir de ahora el presupuesto vive solo
+   dentro del documento único de Desarrollo del Proyecto.
+4. `propuesta-borrador.md` (versión markdown) no se ha actualizado a la
+   nueva estructura de 7 secciones — sigue reflejando la estructura
+   anterior de 4 bloques.
