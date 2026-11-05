@@ -240,6 +240,13 @@ presupuesto con las cifras ya cerradas).
 - Mes 1 (implementación): 60h × 70€/h = **4.200€**
 - Meses siguientes (fee de dirección): 33h × 70€/h = **2.310€/mes**
 
+**2026-11-05 (corrección de horas de la categoría 1):** Sergio recalcula
+las horas reales — mes 1 son **100h** de trabajo (no 60h), y los meses
+siguientes serán **70h/mes** (no 33h). Cifras corregidas en el deck
+(`Getnet_Desarrollo_del_Proyecto_TBNB.pptx`, diapositivas 29 y 31):
+- Mes 1 (implementación): 100h × 70€/h = **7.000€**
+- Meses siguientes (fee de dirección): 70h × 70€/h = **4.900€/mes**
+
 Categorías 2-6 (producción, gestión de canales, colaboraciones, medios
 pagados, activación) se mantienen con los rangos del estudio orientativo
 anterior, marcadas explícitamente como "pendiente de confirmación de la
