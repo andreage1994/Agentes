@@ -42,13 +42,17 @@ Esta edición sigue ese mismo hilo. Con tanta inspiración disponible, ¿qué se
 ## 02. THE BIG PICTURE
 *El tablero está cambiando.*
 
-De las cinco aperturas más esperadas en Madrid en 2026, tres se explican con una sola palabra. El Campero: atún rojo de Barbate. Garelos: Galicia. Varra: temporada [30].
+Barcelona y Madrid llevan todo 2026 dando la misma lección, cada una a su manera.
+
+En Barcelona, la cocina catalana de siempre vuelve con otra cara. Artur Martínez, el chef de Aürt, abrió en febrero Trü: una taberna para recuperar platos catalanes que ya casi no se veían en la ciudad, sin el protocolo del fine dining [42]. El equipo de Maleducat montó Casa Fiero, una casa de comidas a la que se va a por macarrones, brasa y cazuela [43]. Barra Oso toma como referencia una serie de televisión, *The Bear*, y cocina casero de principio a fin [44].
+
+En Madrid, el casual se ha puesto nombre propio. Caradura se presenta como *"not so fine dining"* y llena Chamberí con sándwiches y brunch [45]. En BAS, dos cocineros argentinos han convertido la lengua a la brasa, un plato nada fácil para el gran público, en uno de los más pedidos de la carta [46]. Dolce Positano lleva la Costa Amalfitana a Moncloa con una pizza elegida la segunda mejor de la Comunidad de Madrid en 2025 [47]. Y de las cinco aperturas más esperadas del año en la ciudad, tres se explican con una sola palabra. El Campero: atún rojo de Barbate. Garelos: Galicia. Varra: temporada [30].
 
 No es casualidad, y tampoco es una moda de producto. Es la señal más clara de un cambio de fondo: **ya no basta con abrir un sitio donde se come bien.** La buena cocina se da por supuesta. Lo que decide si alguien vuelve, o si se lo cuenta a un amigo, es que entienda a la primera qué es ese sitio y por qué tendría que ir.
 
 El mercado ya lo está premiando. En 2025, los restaurantes de marca y cadena crecieron seis veces más que el independiente [39]. No porque cocinen mejor, sino porque el cliente sabe exactamente qué va a encontrar. Un concepto claro hace por un restaurante independiente lo mismo que la marca hace por una cadena: le da al cliente una razón fácil de recordar.
 
-Hay una prueba sencilla que usamos con clientes: **si el concepto no se puede explicar en una frase, el cliente tampoco va a poder repetirlo.**
+Hay una prueba sencilla que usamos con clientes: **si el concepto no se puede explicar en una frase, el cliente tampoco va a poder repetirlo.** Todos los sitios de arriba la pasan.
 
 Ese es el tablero de 2026. Debajo hay seis movimientos que están cambiando la forma de entender la hostelería. No son tendencias de temporada: son cambios en lo que el cliente espera de un bar, una cafetería o un restaurante. Aquí va la vista completa; las secciones que siguen los desarrollan.
 
@@ -56,7 +60,9 @@ Ese es el tablero de 2026. Debajo hay seis movimientos que están cambiando la f
 
 El café era lo que se tomaba antes de otra cosa. Hoy es la razón para salir.
 
-España ya tiene 2.215 cafeterías de marca, un 3% más que el año anterior y el tercer año seguido de crecimiento neto. Es el séptimo mercado europeo y el sector lo considera todavía no saturado [30]. A la vez, el 83% de los consumidores pidió café en una cafetería independiente en el último año [30], y el 83% de los trabajadores desayuna en un bar o una cafetería algún día laborable [30]. Hay demanda para todos. Lo que empieza a escasear es la diferencia.
+España ya tiene 2.215 cafeterías de marca, un 3% más que el año anterior y el tercer año seguido de crecimiento neto. Es el séptimo mercado europeo y el sector lo considera todavía no saturado [30]. A la vez, el 83% de los consumidores pidió café en una cafetería independiente en el último año [30], y el 83% de los trabajadores desayuna en un bar o una cafetería algún día laborable [30].
+
+La parte alta también se mueve. Nomad Frutas Selectas, en Poblenou, es ya la decimosexta mejor cafetería del mundo [48], y cada vez más cafeterías tuestan su propio café, como Sip Coffee Roasters en el Raval [49]. Hay demanda para todos. Lo que empieza a escasear es la diferencia.
 
 Cada vez más sitios sirven un buen café. Por eso **la clave para seguir siendo relevante ya no está solo en la taza, sino en lo que pasa alrededor de ella**: aportar valor con experiencias nuevas y convertir el momento del café en un ritual.
 
@@ -555,3 +561,11 @@ See you in six months.
 39. Circana, balance Foodservice España 2025, vía InfoHoreca, *"Circana anuncia un nuevo récord en gasto en Foodservice en España"*, 23 feb 2026.
 40. Hostelería de España, *Anuario de la Hostelería de España 2025*, vía EFE, *"La facturación de los bares crece un 3% en un 2025 marcado por la pérdida de rentabilidad"*, 16 dic 2025.
 41. Hostelería de España, vía Forbes España, *"La hostelería cierra 2025 con un alza de los ingresos de hasta el 4% y se moderará al 3% en 2026"*, dic 2025.
+42. Time Out Barcelona, *"Acaba de abrir Trü, el nuevo restaurante en Barcelona de uno de los chefs más revolucionarios de la cocina catalana actual"*, feb 2026; Ara, *"Trü, la nueva taberna de cocina catalana del chef Artur Martínez"*, 2026.
+43. Time Out Barcelona, *"Así es el nuevo restaurante de uno de los chefs de moda de Barcelona: tradicional, juguetón y asequible"*, jul 2025; Ara, *"Casa Fiero, el nuevo seguro en forma de macarrones, brasa o fideos a la cazuela"*, 2025.
+44. Time Out Barcelona, ficha de Barra Oso, 2026.
+45. Time Out Madrid, ficha de Caradura y *"Los nuevos reyes del brunch en Madrid"*, jul 2026.
+46. El Español (Cocinillas), *"BAS: estimulante fusión italo-argentina con raíces españolas"*, 6 jun 2026; Neo2, *"Restaurante BAS: dos chefs argentinos y cuatro manos"*, 2026.
+47. Guía del Ocio Madrid, *"La dolce vita en Madrid: Dolce Positano, el restaurante italiano que te transporta a la Costa Amalfitana"*, 2025.
+48. The World's 100 Best Coffee Shops 2026, vía The Olive Press, *"Revealed: the four Spanish coffee shops ranked among the best in the world"*, 24 feb 2026.
+49. Time Out Barcelona, ficha de Sip Coffee Roasters, 2025-2026.
