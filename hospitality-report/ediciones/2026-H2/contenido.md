@@ -44,7 +44,9 @@ Esta edición sigue ese mismo hilo. Con tanta inspiración disponible, ¿qué se
 
 Barcelona y Madrid llevan todo 2026 dando la misma lección, cada una a su manera.
 
-En Barcelona, la cocina catalana de siempre vuelve con otra cara. Artur Martínez, el chef de Aürt, abrió en febrero Trü: una taberna para recuperar platos catalanes que ya casi no se veían en la ciudad, sin el protocolo del fine dining [42]. El equipo de Maleducat montó Casa Fiero, una casa de comidas a la que se va a por macarrones, brasa y cazuela [43]. Barra Oso toma como referencia una serie de televisión, *The Bear*, y cocina casero de principio a fin [44].
+En Barcelona, la cocina catalana de siempre vuelve con otra cara. El equipo de Maleducat montó Casa Fiero, una casa de comidas a la que se va a por macarrones, brasa y cazuela [43]. Artur Martínez, el chef de Aürt, abrió en febrero Trü: una taberna para recuperar platos catalanes que ya casi no se veían en la ciudad, sin el protocolo del fine dining [42].
+
+Trü no es un caso aislado. En Barra Oso, paredes desnudas, velas y música de fondo conviven con una cocina de una exigencia técnica enorme: todo se elabora desde cero, con fondos muy trabajados, brasa y técnicas contemporáneas aplicadas a producto tradicional, y la carta cambia según lo que llega cada mañana de la lonja y del mercado [44]. Malparit, en el Eixample, junta producto de primera y técnica en un formato de bar y restaurante sin ceremonia [50]. **Es la alta gastronomía hecha accesible: la técnica se queda, el protocolo se va.**
 
 En Madrid, el casual se ha puesto nombre propio. Caradura se presenta como *"not so fine dining"* y llena Chamberí con sándwiches y brunch [45]. En BAS, dos cocineros argentinos han convertido la lengua a la brasa, un plato nada fácil para el gran público, en uno de los más pedidos de la carta [46]. Dolce Positano lleva la Costa Amalfitana a Moncloa con una pizza elegida la segunda mejor de la Comunidad de Madrid en 2025 [47]. Y de las cinco aperturas más esperadas del año en la ciudad, tres se explican con una sola palabra. El Campero: atún rojo de Barbate. Garelos: Galicia. Varra: temporada [30].
 
@@ -563,9 +565,10 @@ See you in six months.
 41. Hostelería de España, vía Forbes España, *"La hostelería cierra 2025 con un alza de los ingresos de hasta el 4% y se moderará al 3% en 2026"*, dic 2025.
 42. Time Out Barcelona, *"Acaba de abrir Trü, el nuevo restaurante en Barcelona de uno de los chefs más revolucionarios de la cocina catalana actual"*, feb 2026; Ara, *"Trü, la nueva taberna de cocina catalana del chef Artur Martínez"*, 2026.
 43. Time Out Barcelona, *"Así es el nuevo restaurante de uno de los chefs de moda de Barcelona: tradicional, juguetón y asequible"*, jul 2025; Ara, *"Casa Fiero, el nuevo seguro en forma de macarrones, brasa o fideos a la cazuela"*, 2025.
-44. Time Out Barcelona, ficha de Barra Oso, 2026.
+44. Time Out Barcelona, ficha de Barra Oso, 2026; descripción de la cocina y la carta: TBNB (Andrea), nov 2026.
 45. Time Out Madrid, ficha de Caradura y *"Los nuevos reyes del brunch en Madrid"*, jul 2026.
 46. El Español (Cocinillas), *"BAS: estimulante fusión italo-argentina con raíces españolas"*, 6 jun 2026; Neo2, *"Restaurante BAS: dos chefs argentinos y cuatro manos"*, 2026.
 47. Guía del Ocio Madrid, *"La dolce vita en Madrid: Dolce Positano, el restaurante italiano que te transporta a la Costa Amalfitana"*, 2025.
 48. The World's 100 Best Coffee Shops 2026, vía The Olive Press, *"Revealed: the four Spanish coffee shops ranked among the best in the world"*, 24 feb 2026.
 49. Time Out Barcelona, ficha de Sip Coffee Roasters, 2025-2026.
+50. Time Out Barcelona, ficha de Malparit; Macarfi, ficha de Malparit, 2026.
