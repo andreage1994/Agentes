@@ -325,6 +325,56 @@ proyectos de Desarrollo Gastronómico:
   food cost, y el puente hacia la implementación operativa (RU06).
   Decide el "cómo" se produce cada cosa que propone chef-ejecutivo.
 
+## Cierre de propuesta tras feedback de Juan (2026-11-05)
+
+Juan respondió al email de Sergio con feedback concreto sobre la propuesta
+enviada. Sergio pidió cerrar el documento hoy mismo con platos y decisiones
+concretas en los puntos que tocaba su email — no más opciones abiertas.
+`chef-ejecutivo` cerró los 7 puntos directamente en
+`desarrollo-concepto-gastronomico-borrador.md` (nueva sección 8), y
+`culinary-development` validó técnicamente todo lo nuevo en
+`culinary-development-validacion-tecnica.md` (nueva sección 8):
+
+1. **Acento japonés recalibrado, no retirado**: el café pasa a nombrarse
+   primero como la ventaja competitiva de Geisha (con el dato nuevo de
+   Juan: filtro + retail en tienda = 23% de la facturación de tienda,
+   +28% de crecimiento este mes); el matiz japonés baja de "diferenciador
+   frente a competidores" a "matiz discreto de identidad".
+2. **Tosta Aguacate** → reemplazo cerrado: referencia 26, "Tosta Burrata,
+   Tomate Confitado y Albahaca" (identidad mediterránea, sin matiz
+   japonés).
+3. **Croissant Jamón y Queso** (el "serrano-cheddar" de Juan, que no existe
+   como producto real en Loyverse) → reemplazo cerrado: referencia 27,
+   "Croissant de Jamón Ibérico y Queso Manchego Curado Gratinado". **Ojo:**
+   antes de prometer "gratinado" en carta hay que probar en RU06 que el
+   manchego curado funde bien en la salamandra (riesgo real de que sude
+   grasa o quede granuloso con un queso muy curado).
+4. **Energy Balls** (ref. 22) → se añade una tercera variante
+   "Mediterránea" (naranja, dátil, algarroba, almendra) junto a las de
+   matcha y sésamo negro/kinako.
+5. **Bagel** → se retira el formato para el salmón (ref. 15, retirada) y se
+   sustituye por la referencia 29, "Smørrebrød de Salmón Curado" (mismo
+   salmón y matiz, pan de centeno en vez de bagel).
+6. **Sando** → cerrado con un sí: referencia 28, "Sando de Tortilla
+   Española". **Ojo:** la tortilla real no se puede hacer "sin fritura" tal
+   cual sin fogón — se adapta a patata confitada al horno + huevo horneado
+   en terrina, un resultado de corte limpio más parecido a una terrina que
+   a la tortilla jugosa clásica. Hay que presentárselo a Juan como esa
+   decisión consciente, no como "la misma tortilla de siempre en sando".
+   Se recomienda comprar el pan tipo shokupan ya hecho (no hornearlo:
+   falta molde Pullman y confirmación de función de vapor del horno).
+7. **Pairing**: se incorporan los dos pairings de éxito real que compartió
+   Juan (chocolate+sal+filtro Exclusivo; chocolate+rosas y
+   frambuesa+filtro Geisha/Leyenda) como variantes nuevas de las
+   referencias 18 (Brownie) y 14 (CheeseCake), y como principio de
+   desarrollo nuevo ("probar siempre con el café, nunca food-first").
+
+La lista activa de candidatas queda en 28 (25 originales − la 15 retirada
++ las 26, 27, 28 y 29). Sigue pendiente de revisión de Andrea/Sergio antes
+de cualquier envío a Juan — hay varias preguntas abiertas nuevas (14-20 en
+el borrador) sobre proveedores, precio y validación en RU06 que no se
+resuelven con esta pasada.
+
 ## Próximos pasos
 
 1. Resolver los 3 primeros puntos del gap analysis con Andrea/Juan
