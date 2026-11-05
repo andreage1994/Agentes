@@ -80,23 +80,23 @@ En Sonny, la carta de bebida es el concepto. Matcha ceremonial, cafés y tés fu
 
 ### 2. Beyond the Menu — el producto como firma
 
-Cada mañana, Albert Enrich, pastelero de La Mar Salada, cruza a la lonja de la Barceloneta a buscar en la subasta lo que el chef Marc Singla cocinará ese día [51].
+En un local pequeño y algo escondido junto a Santa María del Mar, el pescado de Estimar llega del puerto de Roses de la mano de la familia Gotanegra, cinco generaciones ligadas al mar. Rafa Zafra lo cocina casi sin tocarlo: brasa, vapor y producto [51].
 
 Durante mucho tiempo, lo que diferenciaba a un restaurante se decidía en la cocina: la receta, la técnica, la creatividad del chef. Cada vez más proyectos lo deciden antes. En qué se compra, a quién, en qué condiciones y por qué ese producto merece estar en la carta.
 
 El productor deja de ser un eslabón invisible y pasa a formar parte del relato. Un tomate no es solo un tomate cuando se conoce su variedad, quién lo cultiva y cuándo se recogió. Un pescado cambia de valor cuando se sabe dónde se capturó, con qué arte y quién lo eligió. **El producto habla por sí mismo, pero también habla del negocio que lo sirve.**
 
-Tres casos lo cuentan desde formatos muy distintos.
+Barcelona lo cuenta desde formatos muy distintos.
 
-**La Mar Salada (Barcelona): la lonja como parte de la cocina.** La materia prima llega de la subasta que el restaurante tiene enfrente, y la carta responde a lo que el mar ha dado ese día [51]. Aquí la compra no es una tarea administrativa que se delega. Es una decisión gastronómica.
+**Sagàs Pagesos i Cuiners: la granja en la ciudad.** En el Born, casi toda la verdura, la carne, los huevos y los embutidos llegan de la granja de la familia Rovira, la misma que abastece a Els Casals, su restaurante con estrella Michelin en el Berguedà [52]. El nombre ya lo dice todo: primero campesinos, después cocineros.
 
-**Sartoria Panatieri (Barcelona): el origen en un producto cotidiano.** Rafa Panatieri, que tuvo estrella Michelin en Roca Moo, y Jorge Sastre trabajan con producto ecológico, local y de temporada, y elaboran ellos mismos parte de los embutidos y los quesos [52]. Lo hacen con uno de los formatos más replicados del mundo, la pizza, y aun así han llegado a estar entre las mejores pizzerías del mundo según 50 Top Pizza [52].
+**Pirineu en Boca: un territorio entero.** Restaurante, carnicería y tienda a la vez, en el Eixample, con un único criterio: todo viene del Pirineo. Trabajan directamente con unos 70 pequeños productores de montaña [53].
 
-**Quincé (Madrid): una carta que sigue al mercado.** En Chueca, el mercado, la temporada y la compra diaria deciden qué entra y qué sale de una carta que cambia con frecuencia. El vino sigue el mismo ritmo, con pequeños productores, bodegas e importadores [53].
+**Sartoria Panatieri: el origen en un producto cotidiano.** Rafa Panatieri, que tuvo estrella Michelin en Roca Moo, y Jorge Sastre trabajan con producto ecológico, local y de temporada, y elaboran ellos mismos parte de los embutidos y los quesos [54]. Lo hacen con uno de los formatos más replicados del mundo, la pizza, y aun así han llegado a estar entre las mejores pizzerías del mundo según 50 Top Pizza [54].
 
-No son casos aislados. De las cinco aperturas más esperadas en Madrid en 2026, tres se definen por un producto o un origen: el atún rojo de Barbate en El Campero, la cocina gallega en Garelos y el producto de temporada en Varra [30].
+Madrid sigue la misma línea. En Quincé (Chueca), el mercado, la temporada y la compra diaria deciden qué entra y qué sale de una carta que cambia con frecuencia, y el vino sigue el mismo ritmo, con pequeños productores, bodegas e importadores [55]. Y de las cinco aperturas más esperadas en la ciudad en 2026, tres se definen por un producto o un origen: el atún rojo de Barbate en El Campero, la cocina gallega en Garelos y el producto de temporada en Varra [30].
 
-**TBNB TAKE.** Esto es TREND, no moda: la pregunta ya no es solo qué se quiere ofrecer, sino qué criterio se defiende detrás de cada ingrediente. Y no hace falta inventar una categoría nueva para tenerlo: Sartoria Panatieri lo aplica a una pizza. Lo que sí hace falta es mirarlo antes de abrir, porque tiene un coste. Comprar en directo pide tiempo de alguien del equipo, una carta flexible y un escandallo que se actualiza con el mercado. Bien hecho, mejora la compra y le da a la sala algo que contar: qué ha llegado hoy, de dónde viene y por qué está en la carta. Sin esa disciplina, el food cost se come la idea [30].
+**TBNB TAKE.** Esto es TREND, no moda: la pregunta ya no es solo qué se quiere ofrecer, sino qué criterio se defiende detrás de cada ingrediente. Y no hace falta inventar una categoría nueva para tenerlo: Sartoria Panatieri lo aplica a una pizza, Sagàs a un bocadillo. Lo que sí hace falta es mirarlo antes de abrir, porque tiene un coste. Comprar en directo pide tiempo de alguien del equipo, una carta flexible y un escandallo que se actualiza con el mercado. Bien hecho, mejora la compra y le da a la sala algo que contar: qué ha llegado hoy, de dónde viene y por qué está en la carta. Sin esa disciplina, el food cost se come la idea [30].
 
 ### 3. The Experience Economy — una razón para ir, no un espectáculo
 
@@ -584,6 +584,8 @@ See you in six months.
 48. The World's 100 Best Coffee Shops 2026, vía The Olive Press, *"Revealed: the four Spanish coffee shops ranked among the best in the world"*, 24 feb 2026.
 49. Time Out Barcelona, ficha de Sip Coffee Roasters, 2025-2026.
 50. Time Out Barcelona, ficha de Malparit; Macarfi, ficha de Malparit, 2026.
-51. Time Out Barcelona, *"La Mar Salada, el pescado que se creyó carne"* y ficha de La Mar Salada; Fodor's, ficha de La Mar Salada.
-52. Ajuntament de Barcelona (Comerç), ficha de Sartoria Panatieri; 50 Top Pizza, fichas de Sartoria Panatieri (2021-2023); Time Out Barcelona.
-53. Time Out Madrid, ficha de Quincé, 2026.
+51. Time Out Barcelona, ficha de Estimar; Guía Michelin, ficha de Estimar.
+52. Culinary Backstreets y Time Out Barcelona, fichas de Sagàs Pagesos i Cuiners; VilaWeb, entrevista a Oriol Rovira, feb 2025.
+53. Time Out Barcelona, ficha de Pirineu en Boca; Culinary Backstreets.
+54. Ajuntament de Barcelona (Comerç), ficha de Sartoria Panatieri; 50 Top Pizza, fichas de Sartoria Panatieri (2021-2023); Time Out Barcelona.
+55. Time Out Madrid, ficha de Quincé, 2026.
