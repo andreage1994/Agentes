@@ -1,7 +1,27 @@
 # Estado — Hospitality Report
 
 **Cadencia:** semestral (H1 / H2).
-**Última actualización:** 2026-10-29.
+**Última actualización:** 2026-11-05.
+
+## Revisión de Andrea, sección por sección (2026-11-05)
+
+Andrea revisa la edición H2 2026 punto por punto en una sesión de chat.
+
+- **01. Opening:** rehecho. Datos solo de España y de 2025-2026, en euros
+  (España primero, mundo después); fuera Francia. Integrado el bloque de
+  Andrea "Vamos al grano" (validar la viabilidad antes de abrir) y el TBNB
+  TAKE alineado con él (viabilidad → sistema → puesta en marcha = orden del
+  BAR Method). Conversión $→€ de EHL a 1 $ ≈ 0,88 €, decisión propia a
+  confirmar. Dato de Delectatech [38] pendiente de verificar en el original.
+- **02. The Big Picture:** cambia de enfoque en esta edición, a petición de
+  Andrea. Deja de ser una lista de 8-12 indicadores ("Hospitality by
+  Numbers", como dice `plantilla-indice.md`) y pasa a ser la vista general
+  del sector: idea central "ya no basta con buena comida, hace falta un
+  concepto que el cliente identifique a la primera" + seis líneas propuestas
+  por Andrea (The New Coffee Culture, Beyond the Menu, The Experience
+  Economy, The New Social Spaces, Design with Purpose, The Return of
+  Hospitality). Pendiente decidir si este enfoque se lleva también a la
+  plantilla para próximas ediciones.
 
 ## Retomar la edición H2 2026 hacia versión publicable (2026-10-29)
 

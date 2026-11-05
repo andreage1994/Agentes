@@ -35,29 +35,74 @@ No venimos a apagar la ilusión. Venimos a que siga viva después del primer añ
 
 **TBNB TAKE.** Que los números cuadren antes de firmar es el primer paso, no el último. Un concepto viable sobre el papel todavía tiene que aguantar el primer mes lleno, el primer proveedor que falla, la primera baja en cocina. Ahí empieza la segunda parte del trabajo: convertir el concepto, el local y el equipo en un sistema que funcione cada día, no solo el de la inauguración. *"Un buen concepto necesita un buen sistema"*, dice Sergio. *"La hospitalidad no se improvisa. Se diseña"*, añade Andrea, después de más de diez años gestionando operaciones en hostelería de lujo. Las dos frases van en la misma dirección que todo lo anterior: la ilusión pone el concepto, y los números y el sistema hacen que dure. Por eso seguimos este orden y no otro: primero comprobar que la idea puede ser rentable, después diseñar cómo va a funcionar, y solo entonces ponerlo en marcha. Es, literalmente, el orden del BAR Method con el que trabajamos desde The Bar N' Bar.
 
-Esta edición sigue ese mismo hilo. Con tanta inspiración disponible, ¿qué separa a quien construye algo que dura de quien construye algo que brilla un semestre y desaparece? Lo adelantamos ya: no es tener más ideas. Es decidir cómo encajan todas las piezas (concepto, carta, equipo, operación, números) antes de abrir la puerta. Cada sección que sigue (el tablero de números, los movimientos de fondo, los conceptos que estudiamos, el negocio detrás de la experiencia) mira esa misma pregunta desde un ángulo distinto. No es una lista de tendencias sueltas: son las piezas de un mismo argumento.
+Esta edición sigue ese mismo hilo. Con tanta inspiración disponible, ¿qué separa a quien construye algo que dura de quien construye algo que brilla un semestre y desaparece? Lo adelantamos ya: no es tener más ideas. Es decidir cómo encajan todas las piezas (concepto, carta, equipo, operación, números) antes de abrir la puerta. Cada sección que sigue (la vista general del sector, los movimientos de fondo, los conceptos que estudiamos, el negocio detrás de la experiencia) mira esa misma pregunta desde un ángulo distinto. No es una lista de tendencias sueltas: son las piezas de un mismo argumento.
 
 ---
 
 ## 02. THE BIG PICTURE
 *El tablero está cambiando.*
 
-No llenamos esta sección de datos. Elegimos los que cuentan una historia.
+De las cinco aperturas más esperadas en Madrid en 2026, tres se explican con una sola palabra. El Campero: atún rojo de Barbate. Garelos: Galicia. Varra: temporada [30].
 
-1. **El mercado global de hostelería** pasa de 4,67-4,9 billones de dólares (2024) a una proyección de ~7 billones en 2029 (CAGR 5,3%) [1].
-2. **Viajes y turismo** mueven 11,7 billones de dólares, el 10,3% del PIB mundial, y emplean a 371 millones de personas hoy [1].
-3. **La "cuota de estómago" sigue creciendo**: el gasto en comer fuera de casa en EEUU pasó de ~48% (finales de los 90) a ~58% (2025) del gasto total en alimentación [3]. Tailwind estructural real a favor del sector.
-4. **Pero el récord convive con el colapso**: la restauración comercial francesa facturó más de 123.000 millones de euros en 2026 — récord — mientras los cierres de restauración rápida subieron un 19% en el mismo periodo (Q3 2025) [2]. Este es el dato bisagra de toda la sección: el que convierte el resto en una historia, no en una lista.
-5. **España cuenta la misma historia, con sus propias fuentes.** La producción de la restauración española creció a 116.193 M€ en 2024 (+9,9%) y los turistas internacionales llegaron a 96,8 millones en 2025 (+3,2%) — pero la rentabilidad del sector fue negativa en ene-sept 2025 (−0,9%), el gasto por persona cayó a 1.146€ (−1,6%) y el IPC de restauración (4,8%) duplica al IPC general (2,3%, feb 2026) [27]. Y con el margen ya apretado, el 55,2% de los hosteleros españoles se declara en crecimiento y el 33,2% planea abrir en 2026 [28]. El sector abre con confianza mientras el margen ya aprieta — el mismo gesto exacto que Francia, esta vez con el nombre de nuestro propio país en la cifra.
-6. **La fragilidad no es solo de los pequeños**: incluso los restaurantes con estrella Michelin cierran el mes con un margen neto de 3-4% [2].
-7. **La percepción de valor se tensiona**: el IPC de "comer fuera" subió un 6% entre enero de 2024 y septiembre de 2025 en EEUU, frente a un 3% de "comer en casa" en el mismo periodo [4].
-8. **Los precios de carta suben más rápido que la memoria del cliente**: +26% desde enero de 2020, con una brecha del 37% entre el precio percibido y el precio real de un combo típico [5].
-9. **La fidelidad aguanta más que el ticket medio**: cuando el cliente recorta gasto, prefiere quedarse en su restaurante de siempre y pedir distinto (50% usa más promos, 45% pide menos artículos, 40% elige opciones más baratas) antes que cambiar de sitio (32%) [4].
-10. **Se invierte en IA más rápido de lo que se gobierna**: la práctica totalidad de las empresas del sector aumenta su inversión en IA, pero solo un 20-30% se siente preparada en gobernanza, riesgo o talento para gestionarla [6].
-11. **Y aun así, hay ahorro real sobre la mesa**: aplicada a toda la cadena de valor (y no solo a atención al cliente), la próxima ola de IA podría liberar entre 200 y 300 puntos básicos adicionales de reducción de costes [3].
-12. **Y, al contrario de lo que cuenta el consenso, España sigue siendo un país de sala.** El 75% del gasto en restauración español se hace en el local, frente al 64% de media europea [29]. Antes de dar por hecho que el delivery se come el sector entero, conviene mirar esta cifra.
+No es casualidad, y tampoco es una moda de producto. Es la señal más clara de un cambio de fondo: **ya no basta con abrir un sitio donde se come bien.** La buena cocina se da por supuesta. Lo que decide si alguien vuelve, o si se lo cuenta a un amigo, es que entienda a la primera qué es ese sitio y por qué tendría que ir.
 
-**TBNB TAKE.** El tablero no se mueve en una sola dirección. Esto no es un fenómeno francés aislado — es España, medido con fuentes públicas del propio sector, el mismo patrón exacto: crece el negocio y crece la fragilidad del negocio individual, a la vez. No es que "todo crezca" ni que "todo se rompa": crece el sector y crece la fragilidad de los conceptos individuales *a la vez*. Eso solo tiene sentido si el problema no es la oportunidad de mercado — el mercado nunca ha estado mejor — sino la falta de un sistema capaz de absorber esa oportunidad sin romperse por dentro. El mismo patrón se repite con la IA de los puntos 10 y 11: hay ahorro real esperando, y casi nadie está listo para gobernarlo bien. Es la misma paradoja del Opening, ahora convertida en números: nunca ha habido tanta oportunidad sobre la mesa, y aun así construir un negocio capaz de sostenerla sigue siendo igual de difícil. Es el hilo que atraviesa todo este informe.
+El mercado ya lo está premiando. En 2025, los restaurantes de marca y cadena crecieron seis veces más que el independiente [39]. No porque cocinen mejor, sino porque el cliente sabe exactamente qué va a encontrar. Un concepto claro hace por un restaurante independiente lo mismo que la marca hace por una cadena: le da al cliente una razón fácil de recordar.
+
+Hay una prueba sencilla que usamos con clientes: **si el concepto no se puede explicar en una frase, el cliente tampoco va a poder repetirlo.**
+
+Ese es el tablero de 2026. Debajo hay seis movimientos que están cambiando la forma de entender la hostelería. No son tendencias de temporada: son cambios en lo que el cliente espera de un bar, una cafetería o un restaurante. Aquí va la vista completa; las secciones que siguen los desarrollan.
+
+### 1. The New Coffee Culture — la cafetería deja de ser un trámite
+
+El café era lo que se tomaba antes de otra cosa. Hoy es la razón para salir.
+
+España ya tiene 2.215 cafeterías de marca, un 3% más que el año anterior y el tercer año seguido de crecimiento neto. Es el séptimo mercado europeo y el sector lo considera todavía no saturado [30]. A la vez, el 83% de los consumidores pidió café en una cafetería independiente en el último año [30], y el 83% de los trabajadores desayuna en un bar o una cafetería algún día laborable [30].
+
+En Copenhague, April Coffee enseña hacia dónde va la parte alta: café de especialidad, conocimiento técnico explicado en la barra, un espacio pensado al detalle y café para preparar en casa, todo con la misma filosofía [33]. En Sonny, un matcha ceremonial cuesta más del doble que un espresso, con una elaboración parecida [32].
+
+**TBNB TAKE.** La cafetería se está partiendo en dos: la de cadena, que gana en rapidez y consistencia, y la de especialidad, que gana en producto y criterio. La que se queda en medio, con un café correcto y nada más que contar, es la que más va a sufrir.
+
+### 2. Beyond the Menu — el producto como firma
+
+Durante años, una carta larga era sinónimo de ambición. Hoy la diferencia la marca un producto.
+
+El atún de El Campero, la cocina gallega de Garelos y la temporada de Varra no son platos: son el concepto entero [30]. En Pompette (Copenhague), cuatro vinos naturales esperan abiertos sobre el mostrador y se prueban antes de pedir, como en una tienda [32]. Y Noma lleva el producto fuera del comedor: su Projects Shop vende fermentados y café propios para cocinar en casa [35].
+
+**TBNB TAKE.** Un producto que se reconoce es la forma más directa de construir concepto. Pero exige dominarlo entero: despiece, aprovechamiento, uno o dos proveedores bien negociados. Sin eso, el food cost se come la idea antes de que el cliente llegue a entenderla [30].
+
+### 3. The Experience Economy — una razón para ir, no un espectáculo
+
+El 66% de los españoles sale igual o más que hace un año, pero el 20% gasta menos [30]. El cliente no ha dejado de salir. Ha empezado a elegir.
+
+Y cuando se elige con más cuidado, cada sitio necesita una razón para ser el elegido. EHL sitúa la experiencia inmersiva entre las grandes tendencias del sector [1], pero los casos más interesantes no son los más aparatosos. En Bird (Copenhague), la experiencia es escuchar música, inspirada en los jazz kissa japoneses, con el sonido tratado como decisión de negocio y no como ambientación [33]. En Circadian (Berlín), un té se sirve como ritual en una mesa compartida con un lado para quien sirve y otro para quien recibe [34].
+
+**TBNB TAKE.** Experiencia no es montar un show. Es que el cliente sepa qué va a vivir y por qué no puede vivirlo en otro sitio. Muchas veces basta con una forma de servir.
+
+### 4. The New Social Spaces — bares y restaurantes como lugar de comunidad
+
+La gente no sale solo a comer. Sale a estar con otros, y busca sitios que se lo pongan fácil.
+
+En España, ese impulso ha cambiado de hora: el tardeo ya supone el 26,3% de la facturación semanal de los locales que lo ofrecen en Madrid, con un gasto medio de 45 €, y la mitad de los españoles ha pasado gasto de la noche al día [30]. Las nuevas aperturas copian el formato del bar de barrio (barra, conservas, vino por copa) y Barcelona protege sus bodegas históricas como patrimonio [30]. Fuera, Alle Tiders (Copenhague) combina comedor de alto volumen con programación social y cultural [33], y la cafetería se consolida como punto de encuentro alternativo a la noche [19].
+
+**TBNB TAKE.** España no tiene que inventarse esto: el bar de barrio siempre fue un espacio de comunidad. Lo nuevo es diseñarlo a propósito (horarios, barra, mesas compartidas, programación) en lugar de esperar a que pase solo.
+
+### 5. Design with Purpose — el espacio también cuenta el concepto
+
+En Kaikaya (Valencia), el verde de las butacas evoca los cafetales de Brasil, donde la migración japonesa dio origen a la cocina que se sirve en la mesa [18]. En la Tunateca Balfegó, la sala sumerge al comensal en el fondo del mar con los colores del propio atún [18]. En Atelier September (Copenhague), la vajilla antigua en la pared, las flores frescas y hasta un plato roto en la mesa construyen una imperfección muy calculada. *"Parece casualidad, pero no lo es"*, resume Sergio [33].
+
+El diseño ya no decora. Explica el concepto antes de que llegue la carta. Y decide cosas de negocio: la luz, el sonido y el mobiliario cambian cuánto tiempo se queda la gente y qué pide [30].
+
+**TBNB TAKE.** Un interiorismo bonito que no responde al modelo de negocio es decoración cara. Si el negocio vive de la rotación, el espacio tiene que invitar a rotar. Si vive de la sobremesa y la bebida, a quedarse.
+
+### 6. The Return of Hospitality — el servicio vuelve a ser la diferencia
+
+Cuanto más se automatiza, más se nota cuando alguien te atiende de verdad.
+
+En Pompette, el servicio es una conversación: se cata antes de pedir [32]. En April Coffee, el barista explica lo que sirve [33]. Son gestos pequeños, y son justo los que el cliente recuerda. El problema es que cada vez cuesta más sostenerlos: para el 34% de los hosteleros españoles, la falta de equipos preparados es su principal desafío en 2026 [28].
+
+**TBNB TAKE.** La hospitalidad humana no compite con la tecnología. La tecnología debería liberar al equipo de lo que una máquina hace bien, para que tenga tiempo de hacer lo que una máquina no puede. Y eso no sale del talento suelto de una persona: sale de un equipo formado y de un sistema que lo sostiene.
+
+**Las seis líneas, juntas.** Ninguno de estos movimientos es obligatorio, y ninguno funciona por sí solo. Todos son formas de que un concepto se entienda a la primera, y todos cuestan dinero. Por eso volvemos al principio de este informe: elegir cuáles encajan con tu concepto, tu local y tus números es una decisión de viabilidad, no de inspiración.
 
 ---
 
@@ -88,7 +133,7 @@ Los seis movimientos de esta sección no son tendencias sueltas: son la misma pr
 
 **WHAT WE SEE.** Cuando el cliente recorta gasto, no cambia de restaurante. Cambia cómo pide dentro de él.
 
-**WHY NOW.** Incertidumbre económica prolongada, sumada a la fatiga de precio que ya documentamos en el punto 8 de Big Picture.
+**WHY NOW.** Incertidumbre económica prolongada, sumada a la fatiga de precio que ya documentamos en el Opening: en España, los precios de restaurantes suben al doble que el IPC general.
 
 **THE SIGNALS.** De los consumidores que planean reducir gasto en restauración, el 50% usa más promociones, el 45% pide menos artículos y el 40% elige opciones de carta más baratas; solo el 32% cambia directamente de restaurante [4]. La fidelidad al local no decae — lo que decae, sin que salte ninguna alarma de fuga de clientes, es cuánto deja cada visita.
 
@@ -490,7 +535,7 @@ See you in six months.
 27. Anuario de la Hostelería de España 2025; INE, IPC (feb 2026) — vía TBNB research interno, *"Tendencias gastronómicas España 2026"*, oct 2026.
 28. Barómetro HIP 2026, vía Vinetur — vía TBNB research interno, *"Tendencias gastronómicas España 2026"*, oct 2026.
 29. Circana, vía El Español — vía TBNB research interno, *"Tendencias gastronómicas España 2026"*, oct 2026.
-30. TBNB research interno, *"Tendencias gastronómicas España 2026"* (oct 2026) — incluye datos de AECOC/40dB, España de Noche, Barómetro HIP, CoverManager y TheFork citados en esta edición (tardeo, menú del día, no-shows, precio por franja horaria, El Campero/Garelos/Varra, comensal solo).
+30. TBNB research interno, *"Tendencias gastronómicas España 2026"* (oct 2026) — incluye datos de AECOC/40dB (may 2026), Noche Madrid (ago 2026), España de Noche, Barómetro HIP, Project Café España 2025, The Objective (ene 2026), CoverManager y TheFork citados en esta edición (tardeo, menú del día, no-shows, precio por franja horaria, El Campero/Garelos/Varra, comensal solo).
 31. The World's 50 Best Bars 2025.
 32. Sergio Alonso / TBNB, *"Copenhague: tendencias (observación in situ)"*, 9 oct 2026 — Sonny, Pompette, Villette, Cabin.
 33. TBNB, informes de visita propios — Atelier September, Apotek 57, Bird Uptown/Downtown, Alle Tiders, Lille Bakery, April Coffee (Copenhague, oct 2026).
