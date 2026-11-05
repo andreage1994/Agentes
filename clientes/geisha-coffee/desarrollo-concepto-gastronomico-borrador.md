@@ -1,18 +1,20 @@
 # Desarrollo Concepto Gastronómico — Geisha Specialty Coffee
 
 **Servicio:** AR02 — Desarrollo gastronómico (BAR Method, fase Architecture)
-**Estado del documento:** COMPLETO — las 7 secciones de la plantilla AR02
-(Resumen Ejecutivo, Estrategia Gastronómica, Arquitectura de la oferta,
-Product Strategy, Estrategia Económica, Recomendaciones para Diseño de
-Carta, Siguientes pasos) están redactadas. Pendiente de revisión de
-Andrea/Sergio antes de cualquier envío al cliente — ver la lista de
-preguntas abiertas al final del documento, que no se cierra con esta
-pasada.
-**Autoría:** `chef-ejecutivo` (TBNB), sobre dato real de cliente y sobre la
-validación técnica de `culinary-development` (`culinary-development-validacion-tecnica.md`,
-2026-10-22, incluida su ampliación sobre la capa de identidad japonesa y la
-referencia 20). Pendiente de revisión por Andrea/Sergio antes de cualquier
-envío al cliente.
+**Estado del documento:** CERRADO en los puntos que toca el feedback de Juan
+(ver sección 8) — platos y decisiones concretas, no opciones abiertas, en
+los puntos que su email de 2026-11-05 señala. El resto del documento sigue
+en el mismo estado que la actualización anterior: completo en sus 7/7
+secciones de plantilla, pendiente de revisión de Andrea/Sergio antes de
+cualquier envío al cliente — ver la lista de preguntas abiertas al final,
+que no se cierra con esta pasada.
+**Autoría:** `chef-ejecutivo` (TBNB), sobre dato real de cliente, sobre la
+validación técnica de `culinary-development`
+(`culinary-development-validacion-tecnica.md`, 2026-10-22, incluida su
+ampliación sobre la capa de identidad japonesa y la referencia 20), y sobre
+el feedback directo del cliente (Juan, email verbatim recibido 2026-11-05,
+en respuesta al envío de Sergio). Pendiente de revisión por Andrea/Sergio
+antes de cualquier envío al cliente.
 **Fecha:** 2026-10-15. **Última actualización: 2026-10-22** — se añaden las
 secciones 4 a 7 (Product Strategy, Estrategia Económica, Recomendaciones
 para Diseño de Carta, Siguientes pasos), construidas sobre las 20
@@ -43,6 +45,26 @@ restricciones de cocina ya conocidas (sin fogón, producción abajo/montaje
 en sala), pero su proceso, tiempos y food cost quedan pendientes de
 confirmar formalmente antes de estandarizarlas, igual que se hizo con el
 resto de referencias en su momento.
+
+**Actualización 2026-11-05 — cierre de propuesta en respuesta al feedback
+directo de Juan.** Sergio envió el documento de 25 referencias a Juan, que
+respondió con apuntes concretos sobre la carta (email íntegro recogido en
+la sección 8). Esta pasada: (1) recalibra el peso del acento japonés en las
+secciones 2.1 y 4.1 punto 5 — el café pasa a nombrarse explícitamente
+primero como la ventaja competitiva de Geisha, el acento japonés baja a
+matiz discreto de identidad de producto, sin retirarse de ninguna
+referencia donde ya aportaba sabor real; (2) cierra, con un único plato
+cada uno (no opciones), el reemplazo de la Tosta Aguacate (referencia 26) y
+del Croissant Jamón y Queso (referencia 27); (3) añade una tercera variante
+mediterránea a los Energy Balls (referencia 22); (4) cierra la decisión
+sobre el formato bagel: se retira y se sustituye por un formato de pan de
+centeno (referencia 29, sustituye a la 15); (5) cierra la exploración del
+formato sando con un sí y un plato concreto (referencia 28); (6) incorpora
+a la arquitectura de pairing y a dos referencias existentes (14 y 18) los
+dos pairings de éxito real que el cliente ya tiene hoy, gratuitos. Todo el
+detalle, decisión por decisión, está en la nueva sección 8. Las cuatro
+referencias nuevas (26-29) siguen, igual que la 21-25, sin validación
+técnica completa de `culinary-development`.
 
 ---
 
@@ -104,24 +126,46 @@ El posicionamiento gastronómico que se propone es, por tanto:
 > para dar al cliente que no es de café (el 25-35 femenino que busca
 > experiencia) una razón de calidad equivalente para quedarse.
 
-El nombre Geisha ya es, en sí mismo, una declaración de origen japonés que
-hoy vive solo en la marca, no en el producto. La dirección de producto que
-sigue en este documento (sección 3.5) añade, donde tiene sentido real, un
-matiz pequeño y concreto de especia, ingrediente o técnica tradicional
-japonesa sobre bases de producto de tendencia ya validadas por el dato de
-venta — nunca una carta de fusión ni un giro hacia cocina japonesa completa.
-Es, dentro de la misma lógica de "la comida acompaña sin competir", un
-acento de identidad: el café sigue llevándose todos los focos, y la comida
-gana un detalle reconocible y propio de Geisha sin dejar de acompañar
-discretamente.
+**Recalibración (feedback de Juan, 2026-11-05):** el café de especialidad es
+la ventaja competitiva de Geisha, nombrada aquí en primer lugar — no el
+acento japonés del nombre. Juan lo confirma con un dato nuevo que no estaba
+disponible al redactar esta sección por primera vez: el café filtrado y el
+café retail en tienda suman, juntos, el 23% de la facturación de tienda, en
+un mes que además crece un 28% sobre su facturación habitual. Quien entiende
+de café entiende qué es Geisha, y de ahí vive hoy el negocio. El nombre
+Geisha no es, ni pretende ser, una referencia japonesa: es, en palabras del
+propio Juan, *"una referencia colateral que aprovechamos para una cierta
+estética o matiz en los platos. No rige la marca."* Esta sección se
+actualiza en consecuencia (ver también sección 8, punto 1, y la sección 4.1,
+punto 5).
+
+Dicho esto, el nombre Geisha sigue aportando una estética y un matiz propio
+de producto, discreto y puntual, que la dirección de producto de este
+documento (sección 3.5) mantiene donde ya tenía sentido real: un matiz
+pequeño y concreto de especia, ingrediente o técnica tradicional japonesa
+sobre bases de producto de tendencia ya validadas por el dato de venta —
+nunca una carta de fusión ni un giro hacia cocina japonesa completa, y con
+un peso relativo menor en el discurso de marca que el que tenía esta
+sección antes del feedback de Juan: es un acento de identidad de producto,
+no la narrativa central de la comida. El café sigue llevándose todos los
+focos; la comida, cuando lleva este matiz, gana un detalle reconocible y
+propio de Geisha, sin que ese detalle se confunda con "Geisha hace comida
+japonesa".
 
 Esto encaja con la observación estratégica que el propio cliente ya hizo en
 el briefing: de sus competidores directos en café (Nubra, The Fix, Davob),
-solo The Fix trabaja comida en serio. **La comida es la ventaja competitiva
-disponible, no una obligación operativa.** Las referencias de inspiración
-que cita el cliente (Dalmore, Sampaka, Ambivium, The Edition) marcan el tono
-— calidad premium sin ostentación — más que el producto en sí; se usan aquí
-como referencia de actitud de marca, no como fuente de recetas.
+solo The Fix trabaja comida en serio. **La comida es una oportunidad
+competitiva real, pero secundaria al café** — no se invierte el orden: el
+café ya es, con dato propio, la ventaja competitiva validada (filtro +27%
+unidades/+31% ingreso; filtro + retail en tienda = 23% de la facturación de
+tienda este mes, que además crece un 28%); la comida es el terreno donde la
+categoría de café especializado de la zona no compite en serio, y es ahí
+donde este documento concentra el desarrollo, sin que eso signifique que la
+comida pase a liderar el posicionamiento de marca. Las referencias de
+inspiración que cita el cliente (Dalmore, Sampaka, Ambivium, The Edition)
+marcan el tono — calidad premium sin ostentación — más que el producto en
+sí; se usan aquí como referencia de actitud de marca, no como fuente de
+recetas.
 
 ### 2.2 Principios que rigen el desarrollo
 
@@ -152,6 +196,12 @@ como referencia de actitud de marca, no como fuente de recetas.
    mujer 25-35 (busca experiencia/brunch, no es fiel al café en sí) se gana
    con presentación, formato compartible y una razón no-cafetera para
    volver (atención, ambiente, Instagram).
+7. **Toda prueba de producto se hace pensando primero en el café
+   (añadido 2026-11-05, criterio explícito de Juan).** "La comida no se
+   come el café, ni viceversa, se suplementa": ninguna referencia nueva —
+   de esta lista o de cualquier desarrollo posterior — se prueba de forma
+   aislada; se prueba siempre junto con el café que la acompaña, valorando
+   el contraste entre ambos antes de aprobar el plato. Ver sección 8.7.
 
 ### 2.3 Arquitectura global de la propuesta
 
@@ -235,7 +285,12 @@ palancas que el propio dato de venta ya valida:
   Bagel Salmón (-23%), Croissant mermelada y Tosta Mermelada Casera
   (-19/-22% y -12/-15% respectivamente), Brownie (-15%), Bagel Verdura
   asada (-18%), Berry Bowl (-12,5% ingreso), Açai Bowl y Yogur Bowl
-  (-15% y -10% unidades pese a seguir siendo top 10).
+  (-15% y -10% unidades pese a seguir siendo top 10). **Tosta Aguacate**
+  cae -17,6% en unidades / -14,6% en ingreso pero sigue siendo top 3 en
+  ingreso (11.190€); **Croissant Jamón y Queso** cae -14,1% en unidades /
+  -13,5% en ingreso y sigue siendo top 10 de ingreso (6.892€) — ninguna de
+  las dos tenía reformulación propuesta hasta la actualización de
+  2026-11-05 (ver sección 8).
 
 ### 3.4 Arquitectura de la carta (qué papel juega cada bloque)
 
@@ -282,6 +337,14 @@ explícitamente y se deja la referencia igual que en el borrador original.
 Esta capa no cambia qué problema de negocio resuelve cada referencia (eso
 sigue anclado en el dato de venta, igual que antes) — cambia cómo sabe y se
 diferencia.
+
+**Nota 2026-11-05, tras el feedback de Juan (ver sección 8):** esta capa de
+identidad se mantiene sin cambios de fondo donde ya existía — Juan no pide
+retirarla, solo bajar su peso en el discurso general de marca (sección
+2.1 y sección 4.1, punto 5). Sí cambian dos referencias concretas de esta
+lista: la referencia 22 (Energy Balls) suma una tercera variante sin matiz
+japonés, y la referencia 15 (Bagel Salmón) queda retirada como candidata,
+sustituida por la referencia 29 en la sección 8.
 
 ---
 
@@ -563,25 +626,30 @@ Benedict Eggs / Tosta Aguacate)**
   cheesecake) — ambas son combinaciones ya habituales en repostería de
   tendencia y encajan directamente con la lógica de "refresco de sabor sin
   más complejidad de producción" que ya pedía esta referencia.
+- *Variante añadida 2026-11-05 (feedback de Juan, ver sección 8.7):* se
+  suma a la rotación una variante de **chocolate con rosas y frambuesa**,
+  pensada explícitamente como expresión en carta de un pairing que ya es
+  hoy un éxito rotundo y gratuito del local, junto al filtro Geisha o
+  Leyenda. No sustituye a las variantes de matcha/yuzu, se suma a la
+  rotación. *Pendiente de confirmar con `culinary-development` el proceso
+  exacto (decoración de rosas/frambuesa sobre base de chocolate ya
+  horneada) y con Andrea/Sergio y el cliente si esta variante se vende
+  como plato de carta o se mantiene como el pairing gratuito que es hoy.*
 
-**15. "Reformulación Bagel Salmón"**
-- *Por qué:* cae -23,4% en unidades en dos periodos seguidos; el formato
-  bagel en general pierde tracción (Bagel Verdura asada también cae
-  -18,2%) frente a tostas y sandwiches que crecen. **No se recomienda
-  retirarla solo con este dato** — puede ser un problema de ejecución o de
-  percepción de precio, no de formato; se propone revisar calidad de
-  salmón/aderezo antes de decidir retirada. Decisión a validar con el
-  cliente.
-- *Función:* Posicionamiento / a determinar tras validación.
-- *Producción:* salmón curado/porcionado abajo; montaje en frío en sala,
-  bagel tostado en grill tostador. `culinary-development` confirma que el
-  proceso es correcto (curado es técnica en frío, no necesita fogón).
-- *Matiz Geisha (identidad):* un crumble de nori o un toque de furikake
-  sobre el salmón — combinación de sabor que ya existe de forma natural
-  (salmón y alga combinan bien, sin que esto sea un giro hacia sushi o
-  fusión), y da una razón de sabor diferenciado si la causa real de la
-  caída es percepción de "bagel igual a cualquier otro", no solo precio o
-  ejecución. No cambia el proceso ya validado.
+**15. "Reformulación Bagel Salmón" — referencia retirada (2026-11-05)**
+- *Por qué (estado original, octubre 2026):* cae -23,4% en unidades en dos
+  periodos seguidos; el formato bagel en general pierde tracción (Bagel
+  Verdura asada también cae -18,2%) frente a tostas y sandwiches que
+  crecen. Se proponía revisar calidad de salmón/aderezo antes de decidir
+  retirada, dejando la decisión al cliente.
+- *Decisión cerrada (2026-11-05, feedback de Juan):* Juan cuestiona el
+  formato bagel en sí, no solo el relleno — y el propio dato ya apuntaba
+  en esa dirección. Se cierra la decisión: **esta referencia 15 queda
+  retirada de la lista de candidatas.** Se sustituye por la referencia 29
+  ("Smørrebrød de Salmón Ahumado", ver sección 8.5 y 8, "Referencias
+  nuevas"), que mantiene el mismo salmón curado y el mismo matiz japonés
+  (nori/furikake) que llevaba esta referencia, cambiando únicamente el
+  soporte de pan — de bagel a pan de centeno en formato abierto.
 
 **16. Nueva referencia salada ligera (sustituye Sandwich Kimchi y Queso)**
 - *Por qué:* el Sandwich Kimchi tiene la peor evolución de la carta salada
@@ -641,6 +709,16 @@ Benedict Eggs / Tosta Aguacate)**
   riesgo de fallo; (3) comprarlo ya elaborado a un proveedor e infusionar
   el miso después, recomendación a valorar, no un hecho confirmado (no se
   sabe si existe hoy proveedor ni su coste). A probar en RU06.
+- *Variante añadida 2026-11-05 (feedback de Juan, ver sección 8.7):* junto
+  al caramelo de miso ya propuesto, se añade una variante **"con sal"**
+  (caramelo de miso con un punto extra de sal en escamas), pensada
+  explícitamente como expresión en carta del pairing chocolate-sal que hoy
+  ya es un éxito rotundo y gratuito del local junto al filtro Exclusivo.
+  No cambia el proceso ya descrito arriba para el caramelo de miso (mismo
+  hueco técnico, misma solución recomendada) — solo añade sal en el
+  terminado. *Pendiente de confirmar con Andrea/Sergio y el cliente si
+  esta variante se vende como plato de carta o se mantiene como el
+  pairing gratuito que es hoy.*
 
 **19. Grab&go "Mini Viennoiserie de Vitrina" (formato individual económico)**
 - *Por qué:* en los primeros días del local nuevo crece más el cliente sin
@@ -770,12 +848,26 @@ concreto, definido hoy a petición de Andrea)**
   que la referencia 19 — **a confirmar formalmente con
   `culinary-development` antes de estandarizar**, igual que el resto de
   referencias nuevas de esta lista.
-- *Matiz Geisha (identidad):* dos variantes en rotación — una con matcha
-  (color verde natural, sin colorante) y otra con sésamo negro y kinako —
-  ambas combinaciones ya habituales en energy balls de tendencia, no una
-  invención. *Nota de coste: matcha, sésamo negro y kinako ya aparecen en
-  otras referencias de esta lista (1, 8, 10, 11, 14, 17, 20) — mismo hueco
-  de food cost ya señalado, no suman un ingrediente completamente nuevo.*
+- *Matiz Geisha (identidad) — actualizado 2026-11-05, a petición de Juan
+  (ver sección 8.4):* **tres variantes en rotación**, no sustitutivas
+  entre sí:
+  1. **Matcha** (color verde natural, sin colorante).
+  2. **Sésamo negro y kinako.**
+  3. **Mediterránea (naranja, dátil, algarroba y almendra)** — variante
+     nueva, pensada para el público local/turista que busca un sabor
+     reconocible sin necesidad de "entender" un ingrediente japonés; usa
+     el mismo segundo eje de identidad española/mediterránea que ya abren
+     las referencias 23 y 25 (sección 4.1, punto 6), no el Acento Geisha.
+
+  Las tres cumplen la misma función de "producto de impulso en vitrina,
+  conversión de ticket pequeño" — se ofrecen en rotación, no hace falta
+  mantener las tres a la vez en carta. *Nota de coste: matcha, sésamo
+  negro y kinako ya aparecen en otras referencias de esta lista (1, 8, 10,
+  11, 14, 17, 20) — mismo hueco de food cost ya señalado. La variante
+  mediterránea usa fruta seca/fruto seco de proveedor habitual de
+  repostería de vitrina (dátil, almendra, naranja) — previsiblemente de
+  menor incertidumbre de coste que el ingrediente japonés, aunque tampoco
+  tiene escandallo propio hoy.*
 
 ---
 
@@ -888,7 +980,15 @@ validación completa, de cero, de las referencias 20, 21, 22, 23, 24 y 25,
 que a diferencia de las primeras 19 no pasaron todavía por
 `culinary-development`.
 
----
+**Nota 2026-11-05 (feedback de Juan, ver sección 8):** la referencia 15
+queda retirada (sustituida por la 29) y se añaden cuatro referencias
+nuevas (26, 27, 28 y 29, ver sección 8). De estas, la 26, 27 y 28 se suman
+al segundo eje de identidad española/mediterránea (como 23 y 25), no al
+Acento Geisha — ninguna de las tres lleva matiz japonés, por decisión
+explícita (ver sección 8, puntos 2, 3 y 6). La 29 sustituye a la 15 y
+mantiene su mismo matiz de nori/furikake, así que sigue contando como
+Acento Geisha. El criterio de conteo no cambia, solo la lista de
+referencias sobre la que se aplica.
 
 ### 3.6 Estrategia de precio
 
@@ -936,6 +1036,17 @@ nori, yuzu kosho, shichimi togarashi ni mirin, así que ningún precio de
 este documento (con o sin matiz japonés) debe tratarse como definitivo
 hasta que `culinary-development` calcule food cost real.
 
+**Nota 2026-11-05, referencias 26-29 (ver sección 8):** las referencias 26
+y 27 (reemplazos de Tosta Aguacate y Croissant Jamón y Queso) se
+posicionan, igual que ya fijaba este criterio para las reformulaciones (4,
+6, 10, 14, 15, 18), a precio similar o levemente superior al de la
+referencia que sustituyen — el criterio de "igual de fuerte" que pide Juan
+es de producto y de ticket, no una instrucción de subir precio. La 28
+(Sando de Tortilla Española), al no tener base existente que extender, se
+posiciona como plato completo, al nivel de precio de las referencias 7 y
+9 (familia Plato). La 29 hereda el mismo rango de precio ya previsto para
+la 15, a la que sustituye.
+
 **Importante:** estos rangos son posicionamiento relativo, no precios
 finales. No hay escandallos actualizados (los últimos son de hace 6 años),
 así que ningún precio de este documento debe tratarse como definitivo hasta
@@ -950,7 +1061,7 @@ propiedad si existe un dato de coste más reciente que el declarado.
 
 Más allá de las 20 referencias sueltas, la propuesta se organiza en cuatro
 territorios de producto, cada uno resolviendo un problema de negocio
-distinto, y un quinto territorio transversal:
+distinto, y tres territorios transversales:
 
 1. **Pairing de conversión.** Referencias que no son "comida nueva" en el
    sentido tradicional, sino la formalización en carta de un consumo que ya
@@ -962,31 +1073,39 @@ distinto, y un quinto territorio transversal:
 2. **Plato con entidad.** Comida de ocasión completa, ticket medio alto,
    construida sobre los dos mayores crecimientos reales de la carta
    (Sandwich de pollo +102%, Benedict Eggs +14-16%) más una sustitución del
-   peor comportamiento salado (Sandwich Kimchi). Referencias: 7, 9, 16, 21;
-   y, en su vertiente de tosta "de plato", 5 y 6.
+   peor comportamiento salado (Sandwich Kimchi). Referencias: 7, 9, 16, 21,
+   28; y, en su vertiente de tosta "de plato", 5, 6 y 29.
 3. **Vitrina viva.** Repostería y bollería de autoservicio en rotación de
    sabor o formato, para que el bloque de mayor volumen de la carta (el que
    hoy sostiene el grab&go) no se perciba como estático mientras varias de
    sus referencias top caen por fatiga de producto (CheeseCake -26%, Açai
-   Bowl -15%, Berry Bowl -12,5%). Referencias: 4, 8, 10, 11, 14, 15, 17, 18,
-   19, 20.
+   Bowl -15%, Berry Bowl -12,5%). Referencias: 4, 8, 10, 11, 14, 17, 18,
+   19, 20, 26, 27.
 4. **Ocasión compartida.** Un único territorio, de momento, dirigido al
    pico de afluencia del local nuevo (+39% tickets en fin de semana) y al
    segmento mujer 25-35 que busca experiencia más que producto. Referencia:
    12.
 5. **Transversal — Acento Geisha (identidad japonesa).** No es un bloque de
    carta ni compite con los cuatro anteriores: es un eje de sabor y
-   narrativa que atraviesa 19 de las 25 referencias, en los cuatro
-   territorios a la vez. **Este eje es, en sí mismo, un territorio de
-   producto que diferencia a Geisha de sus tres competidores directos de
-   café (Nubra, The Fix, Davob)** — ninguno de ellos tiene, hasta donde
-   se sabe por el propio briefing del cliente, una propuesta de comida
-   articulada alrededor de una identidad propia; de hecho, el cliente ya
-   señaló que, salvo The Fix, ninguno trabaja comida en serio. El territorio
-   japonés no solo cierra el hueco de conversión: le da a la comida de
-   Geisha una razón de ser distinta a "croissant y bowls como cualquier
-   otra cafetería de especialidad", coherente con el propio nombre de la
-   marca.
+   narrativa que atraviesa 19 de las 25 referencias originales (más la 29,
+   que la sustituye en el caso de la 15), en los cuatro territorios a la
+   vez. **Recalibrado 2026-11-05, tras feedback de Juan:** este eje no es
+   la ventaja competitiva de Geisha — esa es el café de especialidad, con
+   dato propio que lo confirma (filtro +27% unidades/+31% ingreso; filtro
+   + retail en tienda = 23% de la facturación de tienda este mes, que
+   además crece un 28% sobre lo habitual — ver sección 2.1 y sección 8,
+   punto 1). El acento japonés es un matiz discreto de identidad de
+   producto, no una declaración de origen ni una narrativa central: Juan
+   es explícito en que Geisha "no es una referencia japonesa, ni pretende
+   serlo". Dicho esto, el matiz sí aporta algo real dentro de ese rol
+   secundario: ninguno de los tres competidores directos de café (Nubra,
+   The Fix, Davob) tiene, hasta donde se sabe por el propio briefing del
+   cliente, una propuesta de comida articulada alrededor de una identidad
+   propia — de hecho, el cliente ya señaló que, salvo The Fix, ninguno
+   trabaja comida en serio. El acento japonés, con su peso ya bajado,
+   sigue dando a la comida de Geisha un detalle reconocible frente a
+   "croissant y bowls como cualquier otra cafetería de especialidad", pero
+   sin competir con el café como mensaje principal de marca.
 6. **Transversal — clásico internacional, alma española.** Segundo eje de
    identidad, añadido el 2026-10-27, que atraviesa las referencias 23
    ("Danesa Españolizada") y 25 ("Smørrebrød Ibérico") — la 24 (Shakshuka)
@@ -997,7 +1116,22 @@ distinto, y un quinto territorio transversal:
    reconstruye con producto e identidad española. Sirve a los mismos
    públicos que el resto de la carta, pero por una vía distinta — el
    reconocimiento del formato, no el dato de venta existente ni la
-   narrativa del nombre Geisha.
+   narrativa del nombre Geisha. **Ampliado 2026-11-05 (ver sección 8):**
+   las referencias nuevas 26 ("Tosta Burrata, Tomate Confitado y
+   Albahaca"), 27 ("Croissant de Jamón Ibérico y Queso Manchego Curado
+   Gratinado") y 28 ("Sando de Tortilla Española") se suman a este mismo
+   eje — ninguna lleva matiz japonés, por ser precisamente el territorio
+   donde se expresa, sin necesidad de recurrir al nombre Geisha, la
+   recalibración que pide Juan: Geisha no es una referencia japonesa.
+7. **Transversal — Pairing de autor (añadido 2026-11-05, feedback de
+   Juan).** No ataca el hueco de conversión de los tickets de solo bebida
+   (ese es el rol del territorio 1): es un pairing de ocasión/experiencia
+   que ya funciona hoy en el local, de forma gratuita e informal
+   (chocolate con sal + filtro Exclusivo; chocolate con rosas y frambuesa
+   + filtro Geisha o Leyenda), y que este documento propone formalizar con
+   una expresión concreta en dos referencias ya existentes (14, CheeseCake
+   de Temporada; 18, Brownie Reforzado — ver sección 8.7) y con su propio
+   espacio editorial en carta (sección 6, punto 5).
 
 ### 4.2 Familias de producto — Producto → Función principal
 
@@ -1020,6 +1154,8 @@ diseño de carta (sección 6) y a la decisión de recorte de 20 a 10.
 | 20. Ritual Semanal (Tartaleta de Autor) | Recurrencia + ancla de identidad de marca |
 | 22. Energy Balls Geisha | Conversión / captación de ticket pequeño |
 | 23. Danesa Españolizada | Captación / diferenciación de vitrina |
+| 26. Tosta Burrata, Tomate Confitado y Albahaca *(nuevo 2026-11-05)* | Posicionamiento (reemplazo potente) + Ticket medio |
+| 27. Croissant de Jamón Ibérico y Manchego Gratinado *(nuevo 2026-11-05)* | Posicionamiento (reemplazo potente) + Ticket medio |
 
 **Familia: Tostas** (puente vitrina-plato, ticket medio-bajo)
 
@@ -1028,7 +1164,7 @@ diseño de carta (sección 6) y a la decisión de recorte de 20 a 10.
 | 4. Mermelada Artesana de Temporada | Posicionamiento + Ticket medio |
 | 5. Tosta Serrano Premium | Ticket medio (upsell sobre ganador validado) |
 | 6. Tosta Ibérico Reinventada | Posicionamiento (segmento fiel 35-45) |
-| 15. Reformulación Bagel Salmón | Posicionamiento / a determinar con el cliente |
+| 29. Smørrebrød de Salmón Ahumado *(nuevo 2026-11-05, sustituye a la 15)* | Posicionamiento / Ticket medio |
 
 **Familia: Bowls** (captación experiencia/salud, formato visual)
 
@@ -1047,6 +1183,7 @@ diseño de carta (sección 6) y a la decisión de recorte de 20 a 10.
 | 21. Ensalada de Temporada | Captación (mujer 25-35) + Ticket medio |
 | 24. Shakshuka Geisha | Captación (tendencia) + Ticket medio |
 | 25. Smørrebrød Ibérico | Captación (formato visual) + Ticket medio |
+| 28. Sando de Tortilla Española *(nuevo 2026-11-05)* | Captación (formato nuevo/visual) + Ticket medio |
 
 **Familia: Compartible / Ocasión** (ticket medio alto, fin de semana)
 
@@ -1071,6 +1208,13 @@ conversión (familia Add-on/Upsell, 3 referencias) es el de menor número de
 referencias pero el de mayor palanca directa sobre el problema central del
 documento (conversión de los 29.500 tickets de solo bebida), porque ataca
 exactamente las tres bebidas peor convertidas.
+
+**Nota 2026-11-05:** se añade un territorio transversal más, "Pairing de
+autor" (sección 4.1, punto 7, y sección 8.7), expresado en variantes
+concretas de las referencias 14 y 18 (chocolate con rosas y frambuesa;
+caramelo de miso con sal) — no es un territorio de conversión como los
+seis anteriores, es un pairing de ocasión ya de éxito real hoy, gratuito,
+que se formaliza con presencia en carta.
 
 ---
 
@@ -1098,6 +1242,14 @@ que la base sobre la que se construye la ventaja ("más especializados en
 café") tiene respaldo de dato, aunque el "más que los otros 3" sea una
 afirmación del cliente, no verificada por TBNB.
 
+**Dato nuevo (feedback de Juan, 2026-11-05), que refuerza directamente esta
+lectura:** el café filtrado y el café retail en tienda suman, juntos, el
+23% de la facturación de tienda, en un mes que además crece un 28% sobre
+su facturación habitual. Es la confirmación más directa, con dato propio,
+de que el café —no el acento japonés ni la comida— es la ventaja
+competitiva que sostiene hoy el negocio (ver recalibración en sección 2.1
+y sección 8, punto 1).
+
 **Hueco de información explícito, no a inventar:** no se dispone de ningún
 dato real de carta, precio, volumen o posicionamiento de Ambu, Alchemy, The
 Fix, Nubra o Davob. Cualquier afirmación sobre "cómo es su comida" o "cuánto
@@ -1110,12 +1262,14 @@ de cerrar pricing final de las referencias que entren en las 10 finales.
 **Conclusión del benchmark, con el dato real que sí existe:** la comida es
 el único terreno donde el cliente percibe que la categoría de café
 especializado de su zona no está jugando en serio (salvo The Fix) — y es
-exactamente el terreno donde este documento concentra el desarrollo. El
-territorio de identidad japonesa (sección 4.1) añade una segunda capa de
-diferenciación que, hasta donde se sabe por el propio briefing, ningún
-competidor nombrado tiene. Ninguna de estas dos afirmaciones garantiza
-resultado comercial: son una lectura de oportunidad sobre el dato
-disponible, no una previsión de cuota de mercado.
+exactamente el terreno donde este documento concentra el desarrollo, sin
+que esto desplace al café de su papel de ventaja competitiva principal
+(ver sección 2.1). El territorio de identidad japonesa (sección 4.1) añade
+una capa adicional de diferenciación discreta que, hasta donde se sabe por
+el propio briefing, ningún competidor nombrado tiene — pero su peso en el
+discurso es menor que el del café, no mayor ni igual. Ninguna de estas
+afirmaciones garantiza resultado comercial: son una lectura de oportunidad
+sobre el dato disponible, no una previsión de cuota de mercado.
 
 ### 5.2 Conclusiones estratégicas
 
@@ -1155,22 +1309,25 @@ la estrategia general de no subir precios base. Su función económica es
 distinta: sostener la percepción de valor (y, con ella, la disposición del
 cliente a aceptar ese "levemente superior") a través de una diferenciación
 real frente a la categoría de café especializado, no sustituir la palanca
-de conversión/mix por una de pricing.
+de conversión/mix por una de pricing. **Recalibrado 2026-11-05:** esa
+función de identidad sigue siendo secundaria frente a la del café, que es
+la ventaja competitiva principal con dato propio (ver 5.1).
 
 **Límite real de esta sección, explícito:** todo lo anterior es una palanca
 de **ingreso** (ticket medio, conversión), no de **margen**. Sin food cost
 actualizado — los escandallos son de hace 6 años, y los ingredientes nuevos
 de la capa de identidad japonesa (yuzu, matcha, miso, hojicha, kinako,
-sésamo negro, furikake, nori, yuzu kosho, shichimi togarashi, mirin) no
-tienen ni proveedor ni escandallo hoy — **no se puede calcular ni proyectar
-un margen bruto real para ninguna de las 20 referencias**. Esta sección se
-cierra, por tanto, con la cifra de ingreso que el propio dato de venta ya
-permite defender, y deja explícitamente fuera cualquier afirmación de
-rentabilidad hasta que `culinary-development` tenga datos de coste reales.
-Esto es, además, un servicio de carácter consultivo: ni esta estrategia
-económica ni el documento completo garantizan el resultado comercial
-descrito — son la dirección mejor fundamentada posible con el dato
-disponible hoy.
+sésamo negro, furikake, nori, yuzu kosho, shichimi togarashi, mirin), ni
+tampoco de los ingredientes nuevos de las referencias 26-29 (burrata,
+jamón ibérico/manchego curado, pan tipo shokupan, pan de centeno) — **no se
+puede calcular ni proyectar un margen bruto real para ninguna de las
+referencias de este documento**. Esta sección se cierra, por tanto, con la
+cifra de ingreso que el propio dato de venta ya permite defender, y deja
+explícitamente fuera cualquier afirmación de rentabilidad hasta que
+`culinary-development` tenga datos de coste reales. Esto es, además, un
+servicio de carácter consultivo: ni esta estrategia económica ni el
+documento completo garantizan el resultado comercial descrito — son la
+dirección mejor fundamentada posible con el dato disponible hoy.
 
 ---
 
@@ -1189,12 +1346,12 @@ lo ejecute, no la pieza gráfica final.
    categorías tradicionales de desayuno/brunch/postre.** Se propone un
    orden de lectura: Café (protagonista, intacto) → "Para acompañar tu
    café" (familia Add-on/Upsell: 2, 3, 13, más las entradas de bajo
-   compromiso de Vitrina: 1, 19) → "De plato" (familia Plato: 7, 9, 16, y
-   las tostas de mayor entidad: 5, 6) → "De vitrina" (resto de Vitrina y
-   Tostas: 4, 8, 10, 11, 14, 15, 17, 18, 20) → "Para compartir" (12, solo
-   fin de semana). Este orden sigue la lógica de conversión del propio
-   dato: lo primero que ve el cliente de solo bebida es la opción de menor
-   fricción, no el plato más caro.
+   compromiso de Vitrina: 1, 19, 22) → "De plato" (familia Plato: 7, 9, 16,
+   28, y las tostas de mayor entidad: 5, 6, 29) → "De vitrina" (resto de
+   Vitrina y Tostas: 4, 8, 10, 11, 14, 15/29, 17, 18, 20, 26, 27) → "Para
+   compartir" (12, solo fin de semana). Este orden sigue la lógica de
+   conversión del propio dato: lo primero que ve el cliente de solo bebida
+   es la opción de menor fricción, no el plato más caro.
 2. **Dar visibilidad a las referencias de mayor función estratégica sin
    romper "el café manda, la comida acompaña".** No usar fotografías a
    toda página ni tamaños de letra que compitan con la sección de café. Se
@@ -1208,11 +1365,14 @@ lo ejecute, no la pieza gráfica final.
    (carta de fin de semana o inserto), coherente con que solo está
    disponible cuando hay hostess.
 3. **Comunicar el matiz de identidad japonesa sin que suene a "carta de
-   fusión" ni a gimmick.** Se recomienda: (a) una nota breve una sola vez,
-   al principio del bloque de comida, explicando el criterio en una frase
-   (p. ej. "pequeños guiños a la tradición japonesa que da nombre a
-   Geisha, en dosis justas, nunca para tapar el producto") — así el cliente
-   entiende el porqué antes de leer el primer ingrediente; (b) nombrar el
+   fusión" ni a gimmick, y sin que compita con el café como mensaje
+   principal (recalibrado 2026-11-05).** Se recomienda: (a) una nota breve
+   una sola vez, al principio del bloque de comida, explicando el criterio
+   en una frase — ahora encabezada por el café, no por el acento japonés
+   (p. ej. "nuestro café es el centro de la casa; en la comida, de vez en
+   cuando, se nota un pequeño guiño a la tradición japonesa que da nombre
+   a Geisha, en dosis justas, nunca para tapar el producto") — así el
+   cliente entiende primero que el matiz es secundario; (b) nombrar el
    ingrediente concreto en la descripción de cada plato, nunca una
    categoría genérica tipo "toque oriental" o "fusión asiática" (p. ej.
    "con un velo de yuzu kosho" en vez de "con un toque exótico"); (c) dejar
@@ -1222,7 +1382,10 @@ lo ejecute, no la pieza gráfica final.
    propio tratamiento editorial — nombre semanal visible ("Ritual Semanal:
    Yuzu"), porque es la pieza donde la identidad tiene más protagonismo
    por diseño (sección 3.5, referencia 20) y conviene que se note en la
-   carta, no solo en el producto.
+   carta, no solo en el producto; (e) las referencias 26, 27 y 28 (y ya
+   antes 23 y 25) se comunican con su propio lenguaje de identidad
+   española/mediterránea, sin mezclar vocabulario japonés en su
+   descripción.
 4. **Pairing explícito en el propio texto de la carta**, formalizando el
    comportamiento de consumo ya documentado en 3.3: filtro + repostería
    (nota corta junto a la descripción del filtro, señalando CheeseCake,
@@ -1233,6 +1396,17 @@ lo ejecute, no la pieza gráfica final.
    explotado hoy, 66,2% de sus tickets ya llevan comida). Estas notas deben
    leerse como sugerencia, no como venta forzada — coherente con el tono
    "honesto y transparente" de la misión declarada del cliente.
+5. **Pairing de autor (añadido 2026-11-05, feedback de Juan) — ver sección
+   8.7.** Dos pairings ya de éxito real, hoy gratuitos: chocolate con sal
+   + filtro Exclusivo; chocolate con rosas y frambuesa + filtro Geisha o
+   Leyenda. A diferencia del punto 4 (pairing de conversión, dirigido al
+   cliente de solo bebida), este es un pairing de ocasión/experiencia ya
+   validado por el propio consumo del local — se recomienda darle un
+   espacio editorial propio en carta (p. ej. un recuadro junto a los
+   escalones de filtro, igual que el Geisha Board tiene el suyo en fin de
+   semana), no dejarlo solo como gesto informal de sala. Pendiente de
+   confirmar con Andrea/Sergio y el cliente si se mantiene gratuito como
+   hoy o se formaliza como venta (ver pregunta abierta 17).
 
 ---
 
@@ -1242,11 +1416,14 @@ lo ejecute, no la pieza gráfica final.
    recorte a las 10 del alcance contratado de AR02, con Andrea/Sergio
    mediando en la conversación — el criterio de priorización usado para
    llegar a estas 20 (sección 3.5) se explica al cliente como punto de
-   partida, no como decisión ya tomada por TBNB.
+   partida, no como decisión ya tomada por TBNB. *(Nota 2026-11-05: Juan ya
+   respondió con feedback sobre la lista enviada — este paso avanza con la
+   lista cerrada de la sección 8, no desde cero).*
 2. **Confirmar con el cliente el nivel de identidad japonesa deseado** —
    este documento aplica un matiz discreto en la mayoría de referencias y
-   uno con más protagonismo en la referencia 20 (Ritual Semanal); falta
-   validar con Juan si ese reparto es el tono que tiene en mente, antes de
+   uno con más protagonismo en la referencia 20 (Ritual Semanal); Juan ya
+   confirmó, en parte, el tono deseado (sección 8.1: el café primero, el
+   acento japonés discreto) — falta validar el detalle fino antes de
    llevarlo a diseño de carta.
 3. **Cotizar con proveedores de producto japonés/asiático** (yuzu, matcha,
    miso, hojicha, kinako, sésamo negro, furikake, nori, yuzu kosho,
@@ -1254,9 +1431,11 @@ lo ejecute, no la pieza gráfica final.
    dado el rango de calidad/precio del matcha y el yuzu en particular —
    antes de cerrar pricing real de cualquier referencia con matiz.
 4. **Confirmar con la propiedad si existe food cost más reciente** que el
-   de hace 6 años, sobre todo de ibérico y salmón (materia prima local ya
-   comprada hoy) — la respuesta previa del cliente ("ya conocidas. NA")
-   sigue siendo ambigua y condiciona toda la estrategia de precio final.
+   de hace 6 años, sobre todo de ibérico, salmón y manchego curado
+   (materia prima local ya comprada hoy o de nueva incorporación con las
+   referencias 26-29) — la respuesta previa del cliente ("ya conocidas.
+   NA") sigue siendo ambigua y condiciona toda la estrategia de precio
+   final.
 5. **Confirmar si el equipamiento de cocina documentado sigue vigente**
    tras la mudanza de octubre — no hay foto ni vídeo del local nuevo que lo
    confirme visualmente; si difiere, hay que revisar la validación técnica
@@ -1264,13 +1443,350 @@ lo ejecute, no la pieza gráfica final.
 6. **Probar en RU06 (2 jornadas presenciales) las técnicas marcadas como "a
    validar en práctica"**: el caramelo de miso (dulce de leche al horno,
    primera opción recomendada, referencias 18 y 20), el huevo poché/
-   regeneración en placa pequeña (referencias 5 y 9), y el merengue tostado
-   a la salamandra (referencia 20) — ninguna debe estandarizarse en carta
+   regeneración en placa pequeña (referencias 5 y 9), el merengue tostado
+   a la salamandra (referencia 20), y las técnicas nuevas de las
+   referencias 26-29 (tomate confitado en horno, gratinado en salamandra,
+   tortilla al horno para el sando) — ninguna debe estandarizarse en carta
    sin esta prueba.
 7. **Revisar el Brand Kit/Brand Book del cliente en profundidad** (todavía
    no leídos línea a línea, solo la descripción textual del briefing) antes
    de la presentación final, para confirmar que el tono de identidad
-   japonesa no choca con ningún matiz de marca ya definido por el cliente.
+   japonesa (ya recalibrado a la baja, sección 8.1) no choca con ningún
+   matiz de marca ya definido por el cliente.
+8. **Validar técnicamente con `culinary-development` las cuatro referencias
+   nuevas (26, 27, 28, 29)** cerradas en respuesta al feedback de Juan
+   (sección 8) — ninguna ha pasado todavía por el mismo proceso de
+   validación que las referencias 1-20.
+
+---
+
+## 8. Cierre de propuesta — respuesta al feedback de Juan (2026-11-05)
+
+Sergio envió el documento de 25 referencias candidatas a Juan. Juan
+respondió con feedback concreto, recogido aquí de forma íntegra para que
+quede constancia de la fuente de cada decisión:
+
+> *"Buenas Sergio, Gracias por el documento. En general, la idea está
+> captada y nuestro potencial de crecimiento también. Estoy totalmente
+> comprometido con la profesionalización de nuestro servicio y me
+> involucraré en esto los meses siguientes. Sé que la carta por sí sola no
+> hará todo el trabajo. En cuanto a la carta en sí. Ciertos apuntes: Geisha
+> no es una referencia japonesa, ni pretende serlo. Es una referencia
+> colateral que aprovechamos para una cierta estética o matiz en los
+> platos. No rige la marca. Quién sabe de café entiende qué es Geisha, y de
+> ello vivimos a día de hoy. Buena cuenta de ello lo dan nuestras ventas de
+> café filtrado o café retail en tienda. Si sumamos ambas cifras tenemos un
+> 23% de la facturación de la tienda. Teniendo en cuenta que este mes
+> crecemos un 28% de nuestra facturación habitual. La tosta de aguacate
+> estoy de acuerdo en que se sustituya, pero necesitamos algo igual de
+> fuerte que la reemplace. Del mismo modo el croissant serrano-cheddar. Si
+> bien su caída es notoria siguen representando productos que facturan
+> bien. Necesitamos reemplazos potentes. Los energy balls me parecen una
+> idea muy buena, pero habría que buscar una versión más adaptada al
+> público local o turista. Los bagel quizás son un soporte (pan) que el
+> público cada vez pide menos? Es al menos la tendencia que vemos por aquí.
+> Personalmente creo que el ciclo de esta moda ya pasó, quizás otros panes
+> podrían funcionar más. No tenemos ningún sando. Podría ser algo muy
+> atractivo de explorar o no? Geisha es lo opuesto a ofertas, sin embargo,
+> somos fieles y amantes de los pairings. Podemos darle una vuelta a esto a
+> nivel carta y presentación. A nivel ejecución de propuestas creo que lo
+> tienes bastante resuelto. Propongo que las pruebas que hagamos siempre se
+> hagan teniendo en cuenta con qué café y probando sus contrastes. La
+> comida no se come el café, ni viceversa, se suplementa. Actualmente esto
+> es un éxito rotundo de nuestro pairing (gratuito) de chocolate con sal y
+> filtro exclusivo. O chocolate con rosas y frambuesa y filtros geisha o
+> leyenda. Saludos"*
+
+Esta sección cierra, punto por punto, con una decisión concreta — no con
+opciones abiertas para que el cliente elija, salvo donde se indica
+explícitamente que falta una validación técnica o de food cost que no
+corresponde certificar a `chef-ejecutivo`.
+
+**Nota aclaratoria sobre el "croissant serrano-cheddar":** no existe ningún
+producto con ese nombre exacto en el dato de venta (Loyverse). El producto
+real que más se le parece, y al que es casi seguro que Juan se refiere de
+forma informal, es el **"Croissant Jamón y Queso"** (-14,1% unidades,
+-13,5% ingreso, 6.892€ en los últimos 12 meses, top 10 de ingreso). Todo el
+desarrollo del punto 8.3 se hace sobre este producto real, no sobre un
+nombre nuevo inventado.
+
+### 8.1 Recalibración del peso del acento japonés
+
+**Cerrado.** Juan es claro: Geisha "no es una referencia japonesa, ni
+pretende serlo... no rige la marca", y aporta un dato nuevo que no estaba
+en este documento: el café filtrado y el café retail en tienda suman,
+juntos, el 23% de la facturación de tienda, en un mes que crece un 28%
+sobre su facturación habitual.
+
+Esto **no retira** el matiz japonés de ninguna referencia — Juan no lo
+pide, y el propio dato de pairing (sección 3.3) sigue respaldando el matiz
+donde ya aportaba sabor real (p. ej. salmón + nori/furikake, referencia
+29). Lo que cambia es el discurso: el café pasa a nombrarse explícitamente
+primero como la ventaja competitiva de Geisha, con este dato nuevo como
+prueba; el acento japonés baja de "territorio de producto que diferencia a
+Geisha" a "matiz discreto de identidad de producto". Editado en
+consecuencia:
+- **Sección 2.1** (Posicionamiento gastronómico) — reescrita para nombrar
+  el café primero, con el dato del 23%/28%.
+- **Sección 4.1, punto 5** (Territorio transversal "Acento Geisha") —
+  reescrito para quitar la afirmación de que el acento japonés "es, en sí
+  mismo, un territorio de producto que diferencia a Geisha" y sustituirla
+  por su papel real: matiz discreto, secundario al café.
+- **Sección 5.1 y 5.2** (Benchmark y conclusiones) — se añade el dato
+  nuevo como prueba directa de que el café es la ventaja competitiva.
+- **Sección 6, punto 3** (Recomendaciones de diseño de carta) — se ajusta
+  la redacción del texto sugerido para la carta física, encabezándolo con
+  el café.
+
+### 8.2 Reemplazo de la Tosta Aguacate
+
+**Cerrado — un único plato.** La Tosta Aguacate cae -17,6% en unidades y
+-14,6% en ingreso en dos periodos seguidos, pero sigue siendo top 3 en
+ingreso (11.190€): Juan confirma que necesita un reemplazo "igual de
+fuerte", no una reformulación de la receta existente. Ver referencia **26
+— "Tosta Burrata, Tomate Confitado y Albahaca"** (detalle completo más
+abajo).
+
+### 8.3 Reemplazo del Croissant Jamón y Queso
+
+**Cerrado — un único plato.** Mismo criterio que el punto anterior: el
+Croissant Jamón y Queso cae -14,1% en unidades y -13,5% en ingreso, pero
+sigue siendo top 10 de ingreso (6.892€). Ver referencia **27 — "Croissant
+de Jamón Ibérico y Queso Manchego Curado Gratinado"** (detalle completo
+más abajo).
+
+### 8.4 Energy Balls (referencia 22) — variante local/turista
+
+**Cerrado.** Se añade una tercera variante a la referencia 22 (editada
+directamente en la sección 3.5): **"Mediterránea (naranja, dátil,
+algarroba y almendra)"**, en rotación junto a las dos variantes japonesas
+(matcha; sésamo negro y kinako) ya propuestas — no las sustituye. Usa el
+mismo segundo eje de identidad española/mediterránea que ya abren las
+referencias 23 y 25, coherente con la recalibración del punto 8.1: es una
+variante pensada para el público local/turista que busca un sabor
+reconocible sin necesidad de un ingrediente japonés.
+
+### 8.5 Bagel — decisión de formato
+
+**Cerrado.** Juan cuestiona el formato bagel en sí, no solo el relleno de
+la referencia 15 — y el dato de venta ya apuntaba en esa dirección antes
+de su feedback: Bagel Salmón cae -23,4% en unidades y Bagel Verdura asada
+-18,2%, mientras tostas y sandwiches (formatos que no son bagel) crecen
+con fuerza (Tosta Jamón Serrano +50%, Sandwich de Pollo +102%).
+
+**Decisión:** se retira el formato bagel para el salmón. La referencia 15
+("Reformulación Bagel Salmón") queda retirada de la lista de candidatas
+(ver nota añadida directamente en su entrada de la sección 3.5) y se
+sustituye por la referencia **29 — "Smørrebrød de Salmón Ahumado"**
+(detalle completo más abajo), que cambia el soporte de pan — de bagel a
+pan de centeno en formato abierto —, reutilizando el territorio ya abierto
+por la referencia 25 (Smørrebrød Ibérico), y mantiene el mismo salmón
+curado y el mismo matiz japonés (nori/furikake) que ya tenía la
+referencia 15: el cambio es de formato de pan, no de producto ni de
+identidad de sabor.
+
+### 8.6 Sando — ¿se explora?
+
+**Cerrado: sí.** Ver referencia **28 — "Sando de Tortilla Española"**
+(detalle completo más abajo) — un único plato, coherente con el criterio
+de "igual de fuerte" que pide Juan para los reemplazos y con la cocina sin
+fogón ni freidora (montaje en frío, sin cocción en sala).
+
+### 8.7 Pairing
+
+Juan aporta dos datos reales nuevos, ya en marcha hoy como pairing
+gratuito de éxito: **chocolate con sal + filtro Exclusivo**; **chocolate
+con rosas y frambuesa + filtro Geisha o Leyenda**. Y un criterio explícito:
+"la comida no se come el café, ni viceversa, se suplementa" — toda prueba
+de producto nueva debe hacerse pensando primero en qué café acompaña y
+probando el contraste, nunca food-first.
+
+Se incorpora en tres niveles:
+
+1. **Principio de desarrollo (sección 2.2, punto 7):** toda prueba de
+   producto nueva —de esta lista o de cualquier desarrollo posterior— se
+   hace junto con el café que la acompaña, probando el contraste entre
+   ambos antes de aprobar el plato.
+2. **Arquitectura de pairing (sección 4.1, punto 7, y sección 6, punto
+   5):** se añade un territorio transversal nuevo, "Pairing de autor",
+   distinto del "Pairing de conversión" ya existente (territorio 1) porque
+   no ataca el hueco de conversión de tickets de solo bebida: es un
+   pairing de ocasión/experiencia, hoy gratuito y ya de éxito, que merece
+   su propio espacio editorial en carta.
+3. **Expresión concreta en referencias ya existentes** (editadas
+   directamente en sus entradas de la sección 3.5):
+   - Referencia **14** (CheeseCake de Temporada): se añade una variante de
+     **chocolate con rosas y frambuesa**, pensada para acompañar el filtro
+     Geisha o Leyenda.
+   - Referencia **18** (Brownie Reforzado): se añade una variante **"con
+     sal"** sobre el caramelo de miso ya propuesto, pensada para acompañar
+     el filtro Exclusivo.
+
+**Pendiente de decidir con Andrea/Sergio y el cliente:** si estos dos
+pairings se mantienen gratuitos (como hoy) o se formalizan como venta
+dentro de las referencias 14 y 18 — cambia su lectura de precio y de food
+cost (ver pregunta abierta 17).
+
+---
+
+### Referencias nuevas (26-29), cerradas en respuesta al feedback de Juan
+
+Mismo formato que el resto de la lista (sección 3.5). Ninguna de las
+cuatro ha pasado todavía por la validación técnica completa de
+`culinary-development` — siguen la misma lógica de equipamiento ya
+conocida (sin fogón, producción abajo/montaje en sala), pero su proceso
+exacto, tiempos y food cost quedan pendientes de confirmar formalmente
+antes de estandarizarlas, igual que las referencias 21-25.
+
+**26. "Tosta Burrata, Tomate Confitado y Albahaca" (reemplazo cerrado de
+Tosta Aguacate)**
+- *Por qué:* la Tosta Aguacate cae -17,6% en unidades y -14,6% en ingreso
+  en dos periodos seguidos, pero sigue siendo top 3 en ingreso (11.190€) —
+  Juan confirma que necesita un reemplazo "igual de fuerte", no solo una
+  reformulación de la receta existente. Se propone un cambio de producto,
+  no de nombre: la burrata es un ingrediente de percepción premium y alto
+  atractivo visual (textura cremosa al cortar, ya tendencia fuerte en
+  brunch/cafeterías de especialidad), coherente con la misión del cliente
+  de "mejor producto disponible al mejor precio posible", y mantiene el
+  mismo formato de tosta que el cliente de Geisha ya reconoce y pide en
+  ese bloque de carta — baja la fricción de sustitución frente a
+  introducir un formato nuevo.
+- *Función:* Posicionamiento (reemplazo potente de una referencia en
+  declive pero de alto valor) + Ticket medio (precio igual o levemente
+  superior al de la Tosta Aguacate actual, coherente con 3.6).
+- *Producción:* tomate confitado/asado en horno convectivo de producción,
+  en lote, conservado en mesa refrigerada; burrata porcionada y
+  conservada en frío; pesto de albahaca preparado en producción. En sala:
+  montaje en frío (burrata + tomate confitado + pesto) sobre pan tostado
+  al momento en el grill tostador — mismo tipo de montaje ya validado por
+  `culinary-development` en referencias como la 6 y la 25. **Pendiente de
+  confirmar con `culinary-development`** antes de estandarizar: vida útil
+  de la burrata ya porcionada en mesa refrigerada de producción, y si el
+  tomate confitado en horno (sin fogón) necesita un ajuste de tiempo
+  distinto al ya resuelto para la mermelada de la referencia 4.
+- *Nota de identidad:* se deja intencionadamente **sin matiz japonés** —
+  es, junto con la referencia 27, la pieza donde más directamente se
+  expresa la recalibración pedida por Juan (sección 8.1): burrata, tomate
+  y albahaca son identidad mediterránea reconocible, coherente con el
+  segundo eje ya abierto en las referencias 23 y 25 (sección 4.1, punto
+  6), no con el Acento Geisha japonés. Forzar aquí un matiz japonés iría
+  en contra del propio mensaje de Juan de que el acento no rige la marca.
+- *Nota de coste:* la burrata es un ingrediente de coste variable y sin
+  escandallo propio hoy — mismo tipo de hueco de food cost ya señalado
+  para otras referencias de este documento; a cotizar con proveedor antes
+  de cerrar precio.
+
+**27. "Croissant de Jamón Ibérico y Queso Manchego Curado Gratinado"
+(reemplazo cerrado del Croissant Jamón y Queso)**
+- *Por qué:* el Croissant Jamón y Queso (el producto real del dato de
+  venta, no el "serrano-cheddar" que describe Juan de forma informal) cae
+  -14,1% en unidades y -13,5% en ingreso, pero sigue siendo top 10 de
+  ingreso (6.892€) — mismo criterio que la referencia 26: Juan pide un
+  reemplazo potente, no solo una reformulación menor. Se sube la calidad
+  de los dos ingredientes centrales (jamón ibérico en vez de genérico,
+  manchego curado en vez de queso estándar) y se gratina para dar una
+  textura y un aroma distintos al producto frío actual, manteniendo el
+  formato croissant que ya es el acompañante universal de la carta (13%
+  de las unidades totales) — mismo principio de bajo riesgo de
+  sustitución que la referencia 26.
+- *Función:* Posicionamiento (reemplazo potente, sube percepción de
+  calidad) + Ticket medio (producto de mayor coste de materia prima,
+  precio levemente superior justificado por el cambio, coherente con
+  3.6).
+- *Producción:* croissant ya horneado y relleno (jamón ibérico, manchego
+  curado) en producción; gratinado final en la salamandra de producción
+  (mismo principio ya usado en el merengue de la referencia 20) antes de
+  subir a sala. En sala, regeneración breve del corte en el grill
+  tostador si hace falta, nunca la pieza entera — mismo criterio y misma
+  duda técnica ya señalada por `culinary-development` para el Set
+  Espresso & Croissant Clásico (referencia 3): el grill tostador está
+  pensado para producto plano, no para una pieza 3D. **Pendiente de
+  confirmar con `culinary-development`** antes de estandarizar: si el
+  gratinado en salamandra añade más carga a un equipo ya señalado como
+  posible cuello de botella (referencias 9 y 20), y el food cost real del
+  jamón ibérico (mismo hueco ya abierto para la referencia 6 — se puede
+  resolver con el mismo dato de proveedor).
+- *Nota de identidad:* se deja sin matiz japonés, por el mismo criterio
+  que la referencia 26 — jamón ibérico y manchego ya son, por sí mismos,
+  una declaración de identidad española que no necesita un acento
+  añadido, coherente con bajar el peso del acento japonés en el discurso
+  general (sección 8.1).
+
+**28. "Sando de Tortilla Española" (exploración cerrada del formato sando)**
+- *Por qué:* Juan pregunta directamente si vale la pena explorar el
+  formato sando. La respuesta es sí, con un criterio concreto: el sando
+  (pan de molde japonés tipo shokupan, suave y esponjoso, cortado en
+  bloque limpio) es, igual que el acento Geisha en el resto de la carta,
+  un préstamo de formato/textura — no una declaración de cocina japonesa
+  — y aquí se rellena con un producto 100% español (tortilla de patatas),
+  exactamente en la lógica que Juan pide: Geisha no es una referencia
+  japonesa, el matiz es colateral. Es además un formato muy visual (corte
+  limpio, relleno a la vista), coherente con el segmento mujer 25-35 que
+  busca experiencia/Instagram, y da una opción de plato que hoy no existe
+  en la carta.
+- *Función:* Captación (formato nuevo y visual, sin competir con el
+  croissant/tosta ya existentes) + Ticket medio (plato con entidad
+  propia).
+- *Producción:* tortilla de patatas elaborada en horno convectivo de
+  producción, en lote (misma adaptación sin fogón ya validada para la
+  mermelada de la referencia 4 — cocción larga que se resuelve en horno,
+  no al cazo/sartén tradicional), enfriada, porcionada y conservada en
+  mesa refrigerada; pan de molde (shokupan o similar, proveedor a
+  confirmar) ya horneado o comprado. En sala: montaje en frío — corte del
+  pan, relleno con la porción de tortilla ya fría, sin ninguna cocción en
+  sala, coherente con no tener freidora ni fogón de sala. **Pendiente de
+  confirmar con `culinary-development`** antes de estandarizar: si el pan
+  tipo shokupan se compra ya hecho o se hornea en producción (equipo y
+  proceso a validar), y el food cost del pan (ingrediente nuevo, sin
+  proveedor ni escandallo hoy, distinto del hueco ya abierto para
+  ibérico/salmón).
+- *Nota de identidad:* formato de pan de origen japonés (shokupan),
+  relleno 100% español — exactamente la misma lógica de "formato
+  internacional reconocible + producto español" que ya usan las
+  referencias 23 y 25 (segundo eje de identidad, sección 4.1, punto 6),
+  no el Acento Geisha de especias/técnica. Se incorpora explícitamente a
+  ese segundo eje, no al primero.
+
+**29. "Smørrebrød de Salmón Ahumado" (cierra la decisión de formato bagel,
+sustituye a la referencia 15)**
+- *Por qué:* Juan cuestiona el formato bagel en sí, no solo el relleno de
+  la referencia 15 — y el propio dato de venta ya apuntaba en esa
+  dirección antes de su feedback: Bagel Salmón cae -23,4% en unidades y
+  Bagel Verdura asada -18,2%, mientras tostas y sandwiches (formatos que
+  no son bagel) crecen con fuerza (Tosta Jamón Serrano +50%, Sandwich de
+  Pollo +102%). Decisión cerrada: se sustituye el soporte de pan del
+  salmón — de bagel a pan de centeno en formato abierto (smørrebrød) —,
+  reutilizando el mismo formato y la misma lógica de montaje ya
+  propuestos en la referencia 25 (Smørrebrød Ibérico), que ya abre ese
+  territorio en la carta. La referencia 15 queda retirada de la lista de
+  candidatas; esta referencia 29 la sustituye.
+- *Función:* Posicionamiento (mismo papel que tenía la 15 — producto de
+  salmón de la carta) + Ticket medio.
+- *Producción:* salmón curado/porcionado en producción (proceso en frío
+  ya validado para la referencia 15, no cambia); pan de centeno tostado
+  en grill en sala; montaje en frío (salmón, aderezo) en sala, sin
+  cocción — mismo tipo de montaje que la referencia 25.
+- *Matiz Geisha (identidad):* se mantiene el mismo matiz ya propuesto para
+  la referencia 15 — un crumble de nori o un toque de furikake sobre el
+  salmón —, porque el cambio que pide Juan es de formato de pan, no de
+  relleno ni de identidad de sabor; el matiz japonés en este caso no es
+  la fachada de marca, es un maridaje de sabor real entre salmón y alga,
+  y se mantiene sin conflicto con la recalibración de la sección 8.1 (el
+  peso narrativo baja, no se retira donde ya aportaba sabor real).
+- *Nota de coste:* comparte el mismo hueco de food cost de salmón ya
+  señalado para la referencia 9 (ver validación técnica, sección 3) y el
+  pan de centeno comparte la misma duda de proveedor ya señalada para la
+  referencia 25. **Pendiente de confirmar con `culinary-development`**
+  antes de estandarizar.
+
+---
+
+Con estas cuatro referencias nuevas, la lista activa de candidatas queda en
+28 (las 25 originales, menos la 15 retirada, más la 26, 27, 28 y 29). El
+límite de 10 referencias finales del SOW de AR02 sigue vigente — estas
+decisiones cierran el contenido de producto que Juan pidió cerrar, no el
+recorte final de 28 a 10, que sigue correspondiendo al cliente con
+Andrea/Sergio mediando (ver siguiente paso 1 y pregunta abierta 4).
 
 ---
 
@@ -1287,21 +1803,22 @@ lo ejecute, no la pieza gráfica final.
    `Geisha_Analisis_Productos_2021-2026_v5.xlsx`** tampoco se han revisado
    en detalle — el xlsx probablemente trae menu engineering y costes de
    materia prima más finos que el resumen ejecutivo de ventas usado aquí.
-   Revisarlo puede afinar o corregir alguna de las 20 referencias
-   propuestas, especialmente las reformulaciones (4, 6, 10, 14, 15, 18).
+   Revisarlo puede afinar o corregir alguna de las referencias propuestas,
+   especialmente las reformulaciones (4, 6, 10, 14, 18) y los reemplazos
+   nuevos (26, 27, 29).
 3. **Escandallos/food cost actual:** el cliente respondió "ya conocidas.
    NA" de forma ambigua. Confirmar con Juan si existe food cost reciente
    (de un trabajo previo de TBNB con este cliente, por ejemplo) o si se
    trabaja sin él — condiciona directamente la estrategia de precio final
    y el cálculo de margen de la sección 5.2, que hoy queda explícitamente
    sin resolver.
-4. **Criterio de recorte de 20 a 10**: este documento no decide cuáles de
-   las 20 son las 10 finales — eso corresponde al cliente, con
-   Andrea/Sergio mediando (ver siguiente paso 1).
-5. **Referencias 6 y 15** (Tosta Ibérico, Bagel Salmón) se proponen como
-   reformulación, no como retirada — confirmar con el cliente si hay
-   contexto adicional (motivo real de la caída: precio, ejecución,
-   proveedor) que cambie esa recomendación.
+4. **Criterio de recorte de 28 a 10**: este documento no decide cuáles de
+   las 28 referencias activas son las 10 finales — eso corresponde al
+   cliente, con Andrea/Sergio mediando (ver siguiente paso 1).
+5. **Referencia 6** (Tosta Ibérico) se propone como reformulación, no como
+   retirada — confirmar con el cliente si hay contexto adicional (motivo
+   real de la caída: precio, ejecución, proveedor) que cambie esa
+   recomendación.
 6. **Confirmar si el equipamiento de cocina sigue vigente tras la mudanza
    de octubre** (fotos/vídeos originales son de julio 2026, antes del
    cambio de local) — Andrea ya lo dio por vigente con los matices del
@@ -1318,17 +1835,18 @@ lo ejecute, no la pieza gráfica final.
    fogón documentado en producción (dulce de leche al horno recomendado
    como primera opción, microondas con glucosa como plan B, o compra a
    proveedor como alternativa) antes de estandarizarlo en ninguna de las
-   dos referencias.
+   dos referencias, ni en la variante "con sal" añadida en la referencia
+   18 (sección 8.7).
 9. **Referencia 20 ("Ritual Semanal"):** ya tiene producto concreto y ya
    pasó por la validación técnica completa de `culinary-development`
    (2026-10-22); quedan dos puntos abiertos específicos (caramelo de miso
    del relleno 3, y tamaño del lote semanal frente a capacidad de horno) a
    cerrar antes de RU06.
-10. **Nivel de identidad japonesa deseado por el cliente:** este documento
-    aplica un criterio de "matiz pequeño y discreto" en la mayoría de
-    referencias y uno "de autor, con más protagonismo" solo en la
-    referencia 20 — conviene confirmar con Juan si ese reparto es el tono
-    que tiene en mente (ver siguiente paso 2).
+10. **Nivel de identidad japonesa deseado por el cliente — parcialmente
+    resuelto (2026-11-05):** Juan ya confirmó el criterio general (el café
+    primero, el acento japonés discreto y no central, sección 8.1); queda
+    por confirmar el detalle fino de tono en el texto final de carta antes
+    de llevarlo a diseño.
 11. **Benchmark competitivo real** (sección 5.1): no hay dato de carta,
     precio o venta de Ambu, Alchemy, The Fix, Nubra o Davob más allá del
     nombre y la percepción propia del cliente — queda marcado como hueco de
@@ -1345,3 +1863,28 @@ lo ejecute, no la pieza gráfica final.
     sección 6 da contenido y criterio de jerarquía/organización; la
     ejecución visual corresponde a Geisha o a quien ellos encarguen el
     diseño.
+14. **Validación técnica completa de las referencias 26, 27, 28 y 29**
+    (añadido 2026-11-05) — no han pasado todavía por `culinary-development`
+    (mismo hueco ya señalado para las referencias 21-25).
+15. **Proveedor y coste de burrata (ref. 26), de jamón ibérico de calidad
+    superior y queso manchego curado (ref. 27 — comparte el hueco ya
+    abierto de ibérico con la ref. 6), de pan tipo shokupan (ref. 28) y de
+    pan de centeno (ref. 29 — comparte el hueco ya abierto con la ref.
+    25)** (añadido 2026-11-05).
+16. **Confirmar con Andrea/Sergio y con el cliente si la referencia 15 se
+    retira formalmente de la lista presentada (sustituida por la 29) o si
+    se mantiene como alternativa en paralelo mientras se valida la 29**
+    (añadido 2026-11-05).
+17. **Confirmar con Juan si los dos pairings de éxito** (chocolate+sal+
+    filtro Exclusivo; chocolate+rosas y frambuesa+filtro Geisha/Leyenda)
+    **se mantienen gratuitos como hoy o se formalizan como venta** dentro
+    de las referencias 14 y 18 — cambia su lectura de precio y de food
+    cost (añadido 2026-11-05).
+18. **Nivel de precio esperado para los reemplazos "igual de fuerte"**
+    (referencias 26 y 27) — Juan pide fuerza de producto, no
+    necesariamente un precio concreto; confirmar con el cliente si deben
+    igualar, superar o quedar levemente por debajo del precio actual de
+    Tosta Aguacate y Croissant Jamón y Queso (añadido 2026-11-05).
+19. **Confirmar si el pan tipo shokupan (ref. 28) se compra ya elaborado o
+    se hornea en casa** — cambia proceso, proveedor y food cost (añadido
+    2026-11-05).
