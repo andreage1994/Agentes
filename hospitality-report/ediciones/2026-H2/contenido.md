@@ -13,13 +13,29 @@ La hostelería nunca ha tenido tantas ideas, conceptos e inspiración disponible
 
 No es un titular bonito para abrir una edición. Es la paradoja que define 2026.
 
-Por un lado, el sector crece como nunca. El mercado global de hostelería pasó de 4,67 a 4,9 billones de dólares en 2024, con una proyección de crecimiento del 5,3% anual hasta alcanzar cerca de 7 billones en 2029 [1]. Viajes y turismo aportan 11,7 billones de dólares a la economía mundial — el 10,3% del PIB global — y dan empleo hoy a 371 millones de personas; en una década, 1 de cada 8 empleos del planeta estará ligado a este sector [1]. Nunca ha habido tanta demanda, tanto capital, tanta atención puesta en comer y beber fuera de casa.
+**En España, el sector nunca ha facturado tanto.** La producción de la restauración llegó a 116.193 millones de euros en 2024, un 9,9% más que el año anterior, repartidos entre 266.837 establecimientos [27]. El país recibió 96,8 millones de turistas internacionales en 2025 (+3,2%) [27]. Y el 75% del gasto en restauración se sigue haciendo en el local, frente al 64% de media europea [29]: aquí la gente sale a comer y a beber fuera. La confianza acompaña. El 55,2% de los hosteleros se declara en crecimiento y uno de cada tres (33,2%) planea abrir nuevos locales en 2026 [28].
 
-Por otro lado, la fragilidad de los conceptos individuales no deja de crecer a la vez. En Francia, la restauración comercial marcó en 2026 una facturación récord de más de 123.000 millones de euros — y en el mismo periodo, los cierres de restauración rápida subieron un 19% en un solo trimestre [2]. Ni siquiera los restaurantes con estrella Michelin se libran: cierran el mes con un margen neto del 3-4% [2]. El sector crece y, a la vez, cada vez más negocios dentro de él se rompen. Las dos cosas son ciertas al mismo tiempo, y eso solo tiene una lectura honesta: el problema no es de oportunidad.
+**Pero facturar más no es lo mismo que ganar más.** En los mismos datos, la rentabilidad de la restauración española fue negativa entre enero y septiembre de 2025 (−0,9%). El gasto por persona bajó a 1.146 euros al año (−1,6%) [27]. Los precios de restaurantes y alojamiento suben al 4,8%, el doble que el IPC general (2,3%, febrero de 2026) [27]: el cliente nota cada subida y el margen apenas la recoge. El 93,7% de la hostelería son microempresas o negocios sin asalariados [27], así que un mal año no lo absorbe una estructura. Lo absorbe el dueño. Y no se libra nadie: en 2025 se cerraron menos bares y restaurantes que el año anterior, pero los que más cierres registraron fueron los restaurantes de precio alto y posicionamiento premium [38].
 
-**TBNB TAKE.** Llevamos años viendo el mismo patrón de cerca, con clientes reales: la hostelería no tiene un problema de inspiración. Tiene un problema de traducción — de cómo convertir una buena idea, un buen local y un buen equipo en una arquitectura que aguante el primer mes lleno, el primer proveedor que falla, la primera crisis de personal. *"Un buen concepto necesita un buen sistema"*, dice Sergio, y no es una frase de venta: es, literalmente, la razón por la que existe nuestro trabajo. *"La hospitalidad no se improvisa. Se diseña"*, añade Andrea, después de más de diez años gestionando operaciones en hostelería de lujo — la excelencia nunca depende solo del talento individual, depende de procesos, cultura y personas que entienden por qué hacen lo que hacen.
+**Fuera de España, el patrón es el mismo, a otra escala.** El mercado global de hostelería movió unos 4,3 billones de euros en 2024 y se proyecta hacia los 6 billones en 2029, con un crecimiento del 5,3% anual [1]. Viajes y turismo aportan unos 10 billones de euros a la economía mundial, el 10,3% del PIB global, y dan empleo a 371 millones de personas: en una década, uno de cada ocho empleos del planeta estará ligado a este sector [1].
 
-Esta edición no es una lista de tendencias sueltas. Es la pregunta que de verdad importa en 2026: con tanta inspiración disponible, ¿qué separa a quien construye algo que dura de quien construye algo que brilla un semestre y desaparece? La respuesta, lo adelantamos ya, no está en tener más ideas. Está en decidir cómo todas las piezas — concepto, carta, equipo, operación, números — trabajan en la misma dirección, antes de abrir la puerta. Cada sección que sigue — el tablero de números, los movimientos de fondo, los conceptos que estudiamos, el negocio detrás de la experiencia — es esa misma pregunta vista desde un ángulo distinto. No las hemos ordenado como una lista de curiosidades: las hemos ordenado como las piezas de un mismo argumento.
+El sector crece y, a la vez, cada vez más negocios dentro de él se rompen. Las dos cosas son ciertas al mismo tiempo, y solo tienen una lectura honesta: el problema no es de oportunidad.
+
+**Vamos al grano.**
+
+La mayoría de los que abren un restaurante lo hacen desde la ilusión del concepto. Casi nadie lo hace desde la viabilidad del negocio. Y ojo, la ilusión no es el problema. De hecho, sin ella no se abre nada. El problema es cuando la ilusión decide sola, sin que nadie le pregunte a los números.
+
+Se nota rápido. El local se elige porque "tiene un encanto especial", no porque el alquiler cuadre con lo que puede facturar. La carta se diseña porque "esto es lo que yo quiero cocinar", no porque el coste y la producción sean sostenibles. La decoración se piensa antes que el punto de equilibrio.
+
+Nada de esto está mal por sí solo. Lo que falla es el orden: primero el sueño y después, si acaso, la calculadora.
+
+**Esto es lo que sí funciona: dejar que la ilusión elija el qué, y que la viabilidad decida el cómo.** El concepto que te emociona puede seguir siendo el mismo, solo que aterrizado en un local que puedes pagar, con una carta que puedes producir y unos números que has mirado antes de firmar nada.
+
+No venimos a apagar la ilusión. Venimos a que siga viva después del primer año.
+
+**TBNB TAKE.** Llevamos años viendo el mismo patrón de cerca, con clientes reales: la hostelería no tiene un problema de inspiración. Tiene un problema de traducción, de cómo convertir una buena idea, un buen local y un buen equipo en una arquitectura que aguante el primer mes lleno, el primer proveedor que falla, la primera crisis de personal. Y esa traducción empieza antes de lo que se suele pensar: **antes de abrir, validando que la idea puede ser rentable; al abrir, diseñando el sistema que la sostiene.** *"Un buen concepto necesita un buen sistema"*, dice Sergio, y no es una frase de venta: es, literalmente, la razón por la que existe nuestro trabajo. *"La hospitalidad no se improvisa. Se diseña"*, añade Andrea, después de más de diez años gestionando operaciones en hostelería de lujo. La excelencia nunca depende solo del talento individual: depende de procesos, cultura y personas que entienden por qué hacen lo que hacen.
+
+Esta edición no es una lista de tendencias sueltas. Es la pregunta que de verdad importa en 2026: con tanta inspiración disponible, ¿qué separa a quien construye algo que dura de quien construye algo que brilla un semestre y desaparece? La respuesta, lo adelantamos ya, no está en tener más ideas. Está en comprobar que los números aguantan antes de firmar nada, y en decidir cómo todas las piezas (concepto, carta, equipo, operación, números) trabajan en la misma dirección antes de abrir la puerta. Cada sección que sigue (el tablero de números, los movimientos de fondo, los conceptos que estudiamos, el negocio detrás de la experiencia) es esa misma pregunta vista desde un ángulo distinto. No las hemos ordenado como una lista de curiosidades: las hemos ordenado como las piezas de un mismo argumento.
 
 ---
 
@@ -445,7 +461,7 @@ See you in six months.
 
 ## Fuentes
 
-1. EHL, *"Hospitality Outlook Report 2026"*, 27 nov 2025.
+1. EHL, *"Hospitality Outlook Report 2026"*, 27 nov 2025. Cifras originales en dólares; en el Opening, conversión aproximada a euros de TBNB (1 $ ≈ 0,88 €).
 2. Inpulse.ai, *"Concepts de restauration en 2026"*, 2026.
 3. McKinsey & Company, *"State of Food & Beverage: The choices CPG leaders can make to renew growth"*, abr 2026.
 4. McKinsey & Company, *"What US consumers want from restaurants in 2026"*, ene 2026.
@@ -482,3 +498,4 @@ See you in six months.
 35. TBNB research interno, *"Copenhague: guía de 51 sitios"*, sep 2026 — Barr, Kinyōbi, Bar Moro, Noma "12 Seasons" y Noma Projects Shop, Sonny/Kani (Kadeau), Frama, Bællevin, Juno the Bakery.
 36. FRAMA, framacph.com/blogs/projects/cabin; Highsnobiety, *"Cabin Copenhagen"*, 2026.
 37. Ley 1/2025 (prevención del desperdicio alimentario, España, en vigor desde el 3 de abril de 2026); Verifactu (normativa de sistemas de facturación, España).
+38. Delectatech, *"Resultados de la Restauración en 2025"*, vía Vinetur, *"El comensal español frena el gasto y obliga a bares y restaurantes a reinventarse sin subir precios"*, feb 2026.
