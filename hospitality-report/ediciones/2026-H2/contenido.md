@@ -126,21 +126,22 @@ Ese deseo no aparece por suerte. Se diseña, y en los casos que funcionan se rep
 
 Y una advertencia: la identidad es TREND; el hype, no. Un sitio que vive solo de estar de moda tiene fecha de caducidad. Lo que hace que ese deseo dure es lo que no se ve en TikTok: una cocina que sale igual cada día, un equipo que entiende lo que representa y unos números que aguantan cuando la moda pasa. Honest Greens lo demuestra a escala: puede abrir en Londres o en París porque su identidad viaja con el sistema, no con una persona. Por eso el estilo de vida no se decora al final. Se decide al principio, junto al concepto, la operación y los números.
 
-### 4. The New Social Spaces — el bar como lugar donde se conoce gente
+### 4. The New Social Spaces — del restaurante al club
 
-En marzo, más de 900 personas agotaron las entradas de Sutton, una discoteca de Barcelona. No había copas. Había una carrera de cinco kilómetros por la Diagonal, un entrenamiento guiado y un DJ en la pista [60].
+En enero de 2026, Club Metrópolis abrió en el edificio Metrópolis de la Gran Vía, de 1911, con el cupo inicial ya lleno antes de inaugurar: 1.500 socios, a 2.000 € de entrada y 3.500 € al año [60].
 
-La vida social se está reorganizando. Durante décadas, quedar significaba cenar o tomar algo con la gente de siempre. Hoy, cada vez más, se queda para hacer algo, y muchas veces con gente que todavía no se conoce.
+El club privado de socios nació en Londres con Soho House, en 1995, y Barcelona lo conoce desde hace tiempo: Soho House abrió en Ciutat Vella en 2016, sumó la Soho Beach House del Garraf en 2018 y preparaba para finales de 2025 una nueva casa en la Torre Bernat i Creus del Tibidabo, con gimnasio, wellness, piscina, café de día y restaurante de noche [61]. Pero el boom de verdad está en Madrid. Vega, el club de Íñigo Onieva y Manuel Campos en la calle Lagasca, abrió en febrero de 2026 con lista de espera, cuota anual de entre 1.500 y 2.400 € y una norma que dice mucho del concepto: el móvil está prohibido [62]. El veterano Club Matador tiene unos 2.500 socios y factura alrededor de seis millones de euros al año [63].
 
-Los run clubs son la señal más visible. Solo en Madrid hay más de 200 grupos activos [61], y muchos terminan donde empieza la hostelería: en Barcelona, Good Soles Run Club organiza sus quedadas con cafeterías como Foundation Coffee, y SIP by SIP Coffee Roasters convoca una carrera suave de media hora que acaba con café, música y conversación [61][62]. *"Para nosotros, es más una cuestión de comunidad que de correr"*, resume Blaz Rogelsek, de Run Club Marbella. *"La gente está cansada de los eventos de networking incómodos, de las apps de citas y de las formas forzadas de conocer gente"* [61].
+¿Por qué ahora? Madrid está saturada, conseguir mesa es difícil y una parte del público quiere privacidad, actividades propias y un lugar en el que encontrarse con los suyos [62]. *"No se trata de una moda"*, defiende Onieva [62].
 
-La mesa también se abre a desconocidos. Timeleft organiza en Madrid y Barcelona cenas en restaurantes entre personas que no se conocen: cada uno responde un cuestionario de personalidad y la plataforma decide quién se sienta con quién [63]. Según la propia plataforma, reúne a más de 120.000 personas al mes en todo el mundo [63].
+**Mirado desde el negocio, lo interesante no es la exclusividad. Es el modelo.**
 
-Y todo esto pasa cada vez más de día. El tardeo ya supone el 26,3% de la facturación semanal de los locales que lo ofrecen en Madrid, y la mitad de los españoles ha pasado gasto de la noche al día [30].
+- **Ingreso recurrente antes de servir un plato.** Con 1.500 socios a 3.500 € al año, Metrópolis tiene más de cinco millones de euros en cuotas anuales antes de vender una sola copa [60].
+- **Demanda previsible y cliente conocido.** El club sabe quién viene, con qué frecuencia y qué le gusta. Ningún restaurante con reservas abiertas tiene esa información.
+- **Lo exclusivo da valor a lo público.** Metrópolis abre al público cuatro de sus ocho plantas (restaurantes, barra de ostras, pista de baile y hotel) y reserva las demás para socios [60]. Una parte vende la otra.
+- **Y el modelo ya baja a escala restaurante.** Muyummy, en Coslada, convirtió su restaurante en un club social con mesas de chef entre desconocidos, catas y talleres. La Caníbal prepara Club Caníbal, con dos niveles de fidelización gratuitos y uno de pago con eventos exclusivos [62].
 
-**El bar deja de ser solo el sitio donde se queda. Pasa a ser el anfitrión del plan.**
-
-**TBNB TAKE.** España parte con ventaja: aquí el bar siempre ha sido el centro de la vida social. Lo que cambia es el motivo para quedar, que ya no es solo comer o beber, y las ganas de conocer gente nueva en persona. Los run clubs pueden ser un MOMENT. La necesidad que hay debajo, socializar cara a cara, de día y con menos alcohol, es TREND. Para un negocio, la oportunidad está en ser el anfitrión y no solo el destino: alianzas con comunidades que ya existen, franjas que hoy están vacías (un sábado a las diez de la mañana), barras y mesas compartidas que faciliten hablar con quien no conoces. Pero conviene hacer números antes de entusiasmarse. Un grupo que llena el local una hora a la semana con cafés de tres euros no paga el alquiler por sí solo. Funciona cuando la comunidad encaja con el concepto, se convierte en cliente habitual y llena una franja que antes no facturaba.
+**TBNB TAKE.** El club privado es la versión más explícita de lo que recorre todo este informe: la gente paga por pertenecer. Conviene separar dos cosas. El boom de clubes de lujo en Madrid puede ser un MOMENT, muy ligado a la llegada de grandes fortunas latinoamericanas a la ciudad [63]. La lógica de la membresía aplicada a la hostelería es TREND. A la mayoría de restaurantes no les tiene sentido cobrar 3.500 € al año. Sí les tiene sentido copiar la lógica: identificar a sus clientes más fieles, darles algo que el resto no tiene (una mesa, una franja, un evento, una botella guardada) y convertir parte de esa relación en un ingreso que se repite. Pero una cuota sin contenido es una cuota que nadie renueva. Metrópolis programa más de 200 experiencias al año para sostenerla [60]. Y la exclusividad tiene que encajar con el concepto: hay negocios, como el bar de barrio, que viven justo de lo contrario.
 
 ### 5. Design with Purpose — el espacio también cuenta el concepto
 
@@ -621,7 +622,7 @@ See you in six months.
 57. InfoHoreca, *"La Generación Z impulsa un modelo de restauración centrado en la experiencia y la identidad del local"*, 18 jun 2026 (cita CGA by NielsenIQ Reach 2025 Spain; Mazinn y Ansón+Bonet, *"Así come la Gen Z"*, may 2026).
 58. Time Out Madrid, reseña de Gabo's, 28 oct 2025.
 59. Alimarket, *"Honest Greens se estrena en Londres y ultima su debut en París"*, 22 dic 2025, y *"Honest Greens alcanza la quincena en Madrid"*; El Español, llegada de Honest Greens a Alicante, 26 abr 2026; L'Express Franchise, *"Honest Greens abre en París: primer restaurante en septiembre de 2026"*.
-60. Diari Catalunya, *"Running takes over Barcelona nightclubs with alcohol-free parties"*, 14 mar 2026 (Gravity Run en Sutton).
-61. The Olive Press, *"Spain's cities are being overtaken and redesigned by an unexpected new social phenomenon – running clubs"*, 16 may 2026.
-62. Luma, convocatoria *"A Social Morning Run with Coffee at the End"* (SIP by SIP Coffee Roasters, Barcelona), 2026.
-63. Timeleft, *"Timeleft's Madrid fiesta: sharing meals in the city of movida"*, 15 dic 2025; timeleft.com (cifra global de la propia plataforma).
+60. Revista Gran Hotel, *"Abre Club Metrópolis, con club privado, hotel boutique y restaurantes"*, 27 ene 2026.
+61. Crónica Global, *"La casa modernista convertida en un exclusivo club privado: 'Solo accesible para socios'"*, 26 oct 2025.
+62. El Español, *"El de Íñigo Onieva y los otros clubes de socios que ya tienen lista de espera antes de abrir"*, 14 dic 2025.
+63. Xataka, *"Madrid se ha llenado de millonarios latinoamericanos, así que los millonarios españoles están creando clubes sin ellos"*, 17 mar 2026.
