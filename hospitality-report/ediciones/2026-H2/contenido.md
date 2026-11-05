@@ -19,17 +19,17 @@ No es un titular bonito para abrir una edición. Es la paradoja que define 2026.
 
 **Fuera de España, el patrón es el mismo, a otra escala.** El mercado global de hostelería ronda hoy los 4,3 billones de euros y crecerá un 5,3% anual hasta acercarse a los 6 billones en 2029 [1]. Viajes y turismo aportan unos 10 billones de euros a la economía mundial, el 10,3% del PIB global, y dan empleo a 371 millones de personas: en una década, uno de cada ocho empleos del planeta estará ligado a este sector [1].
 
-El sector crece y, a la vez, cada vez más negocios dentro de él se rompen. Las dos cosas son ciertas al mismo tiempo, y solo tienen una lectura honesta: el problema no es de oportunidad.
+Los números dicen dos cosas a la vez: el mercado está, y el margen no. Hay clientes, hay turistas, hay ganas de abrir. Lo que no hay es colchón. Con una rentabilidad que ya fue negativa en 2025 y un restaurante independiente que crece al 0,8%, cada decisión que se toma al empezar pesa más que hace unos años. Así que la pregunta no es si hay oportunidad. Es en qué momento se juega el negocio. Y, por lo que vemos cada semana con clientes reales, se juega mucho antes de abrir la puerta.
 
 **Vamos al grano.**
 
-La mayoría de los que abren un restaurante lo hacen desde la ilusión del concepto. Casi nadie lo hace desde la viabilidad del negocio. Y ojo, la ilusión no es el problema. De hecho, sin ella no se abre nada. El problema es cuando la ilusión decide sola, sin que nadie le pregunte a los números.
+Un restaurante casi siempre nace de la ilusión por un concepto. Y tiene que ser así: sin ilusión no se abre nada. Lo que vemos repetirse es otra cosa: que esa ilusión tome las decisiones grandes sola, antes de que nadie haya mirado los números.
 
-Se nota rápido. El local se elige porque "tiene un encanto especial", no porque el alquiler cuadre con lo que puede facturar. La carta se diseña porque "esto es lo que yo quiero cocinar", no porque el coste y la producción sean sostenibles. La decoración se piensa antes que el punto de equilibrio.
+Pasa de forma muy natural. Un local enamora por su encanto y se firma antes de comprobar si el alquiler cuadra con lo que puede facturar. La carta nace de lo que se quiere cocinar, y el coste y la producción se revisan después. La decoración se decide antes que el punto de equilibrio.
 
-Nada de esto está mal por sí solo. Lo que falla es el orden: primero el sueño y después, si acaso, la calculadora.
+Ninguna de esas decisiones es un error en sí misma. Lo que cambia el resultado es el orden: primero el sueño y después, si da tiempo, la calculadora. Con márgenes como los de 2025, ese orden ya no sale gratis.
 
-**Esto es lo que sí funciona: dejar que la ilusión elija el qué, y que la viabilidad decida el cómo.** El concepto que te emociona puede seguir siendo el mismo, solo que aterrizado en un local que puedes pagar, con una carta que puedes producir y unos números que has mirado antes de firmar nada.
+**Lo que funciona: que la ilusión elija el qué, y que la viabilidad decida el cómo.** El concepto puede seguir siendo exactamente el mismo, aterrizado en un local que se puede pagar, con una carta que se puede producir y con unos números revisados antes de firmar nada.
 
 No venimos a apagar la ilusión. Venimos a que siga viva después del primer año.
 
