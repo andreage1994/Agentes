@@ -13,7 +13,7 @@ La ley no pide un documento bonito guardado en un cajón: pide un sistema
 de seguridad alimentaria que el restaurante aplique y mantenga cada día.
 Y es justo ahí donde casi todos fallan — no por no tener el plan APPCC,
 sino por no usarlo. Es el mismo problema de fondo que vemos con las
-[licencias para abrir un restaurante](https://www.thebarnbarconsulting.com/licencias-para-abrir-un-restaurante/):
+[licencias para abrir un restaurante](https://www.thebarnbarconsulting.com/licencias-abrir-restaurante/):
 tratar un requisito como papeleo de apertura en vez de como parte de la
 operativa real del día a día.
 

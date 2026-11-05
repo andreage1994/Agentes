@@ -1,5 +1,52 @@
 # Estado — Blog Web TBNB
 
+## ✅ 2026-11-05 — Acceso real a thebarnbarconsulting.com confirmado, y re-verificación de los 7 artículos
+
+El acceso de red a `thebarnbarconsulting.com` ya funciona en sesiones
+nuevas (se resolvió el bloqueo de red del 2026-11-04). Primer uso real:
+re-verificar los 7 artículos publicados ayer contra el texto en vivo.
+
+**Hallazgo 1 — lo publicado es la versión SIN corregir.** Los 7 artículos
+en vivo no tienen los CTA suaves añadidos el 2026-11-04, ni la etiqueta
+`</content>` de APPCC está quitada, ni los enlaces cruzados entre
+ayudas/Estrella Galicia/Mahou están resueltos (confirmado explícitamente:
+en `/estrella-galicia/` y en `/mahou-te-monta-el-bar/` el propio texto
+"enlace interno pendiente de añadir" sigue publicado como texto plano,
+sin enlace). Andrea publicó con los archivos de antes de la revisión.
+
+**Hallazgo 2 — mis suposiciones de slug (basadas en el nombre de
+archivo) eran incorrectas en 5 de los 7 casos.** URLs reales confirmadas
+leyendo la web en vivo:
+
+| Archivo | Slug que yo había asumido (incorrecto) | **Slug real confirmado** |
+|---|---|---|
+| `licencias-para-abrir-un-restaurante.md` | `/licencias-para-abrir-un-restaurante/` | **`/licencias-abrir-restaurante/`** |
+| `ayudas-para-montar-un-bar.md` | `/ayudas-para-montar-un-bar/` | **`/ayudas-montar-bar/`** |
+| `estrella-galicia-te-monta-el-bar.md` | `/estrella-galicia-te-monta-el-bar/` | **`/estrella-galicia/`** |
+| `mahou-te-monta-el-bar.md` | `/mahou-te-monta-el-bar/` | `/mahou-te-monta-el-bar/` ✓ (acertado) |
+| `food-cost-2026-por-que-el-calculo-ya-no-vale.md` | `/food-cost-2026-por-que-el-calculo-ya-no-vale/` | **`/food-cost-restaurantes/`** |
+| `appcc-restaurante-tenerlo-vs-usarlo.md` | (no se había enlazado a sí mismo) | **`/plan-appcc-hosteleria/`** |
+| `disenar-carta-restaurante-por-que-la-estetica-es-lo-ultimo.md` | (no se había enlazado a sí mismo) | **`/como-disenar-carta-restaurante/`** |
+
+Corregidos los 5 enlaces cruzados que usaban un slug equivocado (en
+`ayudas-para-montar-un-bar.md`, `estrella-galicia-te-monta-el-bar.md`,
+`mahou-te-monta-el-bar.md`, `appcc-restaurante-tenerlo-vs-usarlo.md` y
+`disenar-carta-restaurante-...md`) con las URLs reales de la tabla de
+arriba. Verificado con `grep` que no queda ningún slug asumido sin
+corregir en los 7 archivos.
+
+**Hallazgo 3, menor:** la búsqueda en la web encontró un artículo
+existente **"Cómo Crear una Carta de Menú"** (`/como-crear-una-carta-de-menu/`)
+que no estaba en nuestro radar — posible solape de intención con
+`/como-disenar-carta-restaurante/`. No se ha investigado a fondo, queda
+anotado para revisar si hay canibalización antes de dar esto por
+cerrado del todo.
+
+**Siguiente paso:** los 7 archivos del repo ya están en su versión
+definitiva (CTA, enlaces resueltos, sin etiquetas técnicas sueltas, y
+ahora con las URLs reales verificadas) — pendiente de que Andrea los
+vuelva a publicar sustituyendo el texto que hay hoy en la web.
+
 ## ⚠️ 2026-11-04 — Diagnóstico de Andrea: la "curación" de los 14 blogs no es curación real
 
 **Andrea tiene razón y hay que parar aquí antes de seguir.** Lo que se ha

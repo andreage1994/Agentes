@@ -33,7 +33,7 @@ La diferencia de fondo con el acuerdo de proveedor es esta: con el ICO o con el 
 
 ## Casos concretos: Estrella Galicia y Mahou
 
-Las dos marcas que más se buscan en este terreno son Estrella Galicia y Mahou. Les dedicamos un artículo a cada una —[el de Estrella Galicia](https://www.thebarnbarconsulting.com/estrella-galicia-te-monta-el-bar/) y [el de Mahou](https://www.thebarnbarconsulting.com/mahou-te-monta-el-bar/)— y aplicamos el mismo criterio en los dos: qué te piden a cambio, qué dice la letra pequeña y cuándo te compensa según el tipo de negocio que tengas.
+Las dos marcas que más se buscan en este terreno son Estrella Galicia y Mahou. Les dedicamos un artículo a cada una —[el de Estrella Galicia](https://www.thebarnbarconsulting.com/estrella-galicia/) y [el de Mahou](https://www.thebarnbarconsulting.com/mahou-te-monta-el-bar/)— y aplicamos el mismo criterio en los dos: qué te piden a cambio, qué dice la letra pequeña y cuándo te compensa según el tipo de negocio que tengas.
 
 Hay un dato que nos gusta recordar antes de aceptar cualquier ayuda, venga de donde venga. Según Inpulse.ai, los negocios de restauración no suelen fracasar sobre todo por falta de capital inicial — fracasan por una gestión de food cost y márgenes mal controlados: *"las tendencias atraen a los clientes, los márgenes los retienen."* Aceptar financiación o equipamiento no arregla un modelo económico que no cuadra. En TBNB preferimos que te hagas esa pregunta antes de firmar, no después de la primera renovación de barriles.
 

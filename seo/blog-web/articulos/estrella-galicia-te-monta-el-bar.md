@@ -33,7 +33,7 @@ Compensa cuando el negocio tiene poco capital inicial y la cerveza es, de hecho,
 
 No compensa en conceptos de coctelería, vino o cerveza artesanal, donde la exclusividad limita exactamente lo que hace diferente al local. Si tu propuesta de valor es la variedad o la curación de producto, ceder ese espacio a cambio de unos grifos y un rótulo es cambiar la identidad del negocio por una ayuda que, en muchos casos, se amortizaría igual con financiación convencional.
 
-En [el artículo sobre ayudas de proveedores](https://www.thebarnbarconsulting.com/ayudas-para-montar-un-bar/) explicamos con más detalle cómo ponerle un número al coste real de la exclusividad — la lógica, resumida: compara el precio que pagarías sin exclusividad frente al pactado, multiplícalo por volumen y años de contrato, y compáralo con el valor de lo recibido.
+En [el artículo sobre ayudas de proveedores](https://www.thebarnbarconsulting.com/ayudas-montar-bar/) explicamos con más detalle cómo ponerle un número al coste real de la exclusividad — la lógica, resumida: compara el precio que pagarías sin exclusividad frente al pactado, multiplícalo por volumen y años de contrato, y compáralo con el valor de lo recibido.
 
 ## Preguntas concretas para llevar a la reunión con el comercial
 
