@@ -163,13 +163,31 @@ Durante años, el diseño fue la última partida de la obra: se decidía cuando 
 
 **TBNB TAKE.** El espacio curado no es decoración. Es la parte del concepto que el cliente entiende antes de probar nada, y por eso tiene que decidirse a la vez que el concepto, no al final de la obra. Hay una pregunta sencilla para cada elemento, del suelo a la carta: ¿esto lo elegiría esta marca? Si la respuesta es no, sobra, aunque sea bonito. Y no depende del presupuesto: Pompette y Cabin llegan a una identidad igual de reconocible con inversiones muy distintas, una dejando la obra vista y gastando en producto, la otra diseñando cada tabla de pino [32]. Lo que sí tiene que hacer el espacio es trabajar para el negocio. Si el modelo vive de la rotación, tiene que invitar a rotar; si vive de la sobremesa y la bebida, a quedarse. Y lo que no se puede mantener (una vajilla que se rompe, un acabado que se estropea, un mobiliario que se nota descuidado) acaba siendo un coste y una contradicción con la propia marca [30][32].
 
-### 6. The Return of Hospitality — el servicio vuelve a ser la diferencia
+### 6. The Return of Hospitality — la sala vuelve al centro
 
-Cuanto más se automatiza, más se nota cuando alguien te atiende de verdad.
+Durante décadas, el protagonista del restaurante estuvo en la cocina. El chef firmaba los platos y la sala los ejecutaba. Al restaurante se iba con respeto, casi en voz baja; el camarero tomaba nota, servía y se retiraba. Mucho protocolo y poca conversación.
 
-En Pompette, el servicio es una conversación: se cata antes de pedir [32]. En April Coffee, el barista explica lo que sirve [33]. Son gestos pequeños, y son justo los que el cliente recuerda. El problema es que cada vez cuesta más sostenerlos: para el 34% de los hosteleros españoles, la falta de equipos preparados es su principal desafío en 2026 [28].
+Eso ha cambiado. Hoy el cliente quiere que le cuenten: de dónde viene el producto, por qué ese vino y no otro, qué pediría quien le está atendiendo. Quiere que se acuerden de él, de lo que tomó la última vez o de lo que no puede comer. Quiere sentirse atendido como una persona, no como el número de una mesa.
 
-**TBNB TAKE.** La hospitalidad humana no compite con la tecnología. La tecnología debería liberar al equipo de lo que una máquina hace bien, para que tenga tiempo de hacer lo que una máquina no puede. Y eso no sale del talento suelto de una persona: sale de un equipo formado y de un sistema que lo sostiene.
+Los datos lo confirman. En España, el 93% de los clientes confía más en la recomendación de un camarero que en una sugerencia automática, y el 82% volvería más a menudo a un sitio donde recuerden sus preferencias o sus restricciones alimentarias. El 77% cree que un restaurante pierde su esencia sin contacto humano [64]. Incluso la Gen Z, la generación de las apps, prefiere el servicio tradicional en mesa en casi un 60% de los casos [57]. Y el servicio es, junto con la comida, lo que más aparece en las reseñas que hoy deciden dónde se reserva [65].
+
+**Lo que antes era un valor añadido, ahora se da por hecho.** La amabilidad, el trato cercano y la recomendación honesta ya no sorprenden: se esperan. Y cuando faltan, se pagan. Casi seis de cada diez clientes han renunciado alguna vez a un postre o a una segunda copa por no tener que llamar al camarero, y el 84% se frustra cuando tiene que ir detrás de él para pedir o para pagar [64]. Cada uno de esos postres es ticket que se queda sin cobrar.
+
+No pasa igual en todos los formatos. En la comida rápida, la estandarización sigue siendo la promesa: rapidez, el mismo resultado siempre y el mínimo contacto. Pero en un bar o un restaurante donde el ticket medio ronda los 30 € o más, el cliente ya no paga solo lo que hay en el plato. Paga cómo se le atiende. Un servicio genérico, idéntico para todos, se percibe en ese ticket como frialdad.
+
+Los sitios que mejor lo entienden convierten el conocimiento del equipo en parte del producto. En Pompette (Copenhague), el servicio empieza con una cata: el vino se prueba antes de pedirlo [32]. En April Coffee, el equipo explica cada café como un sumiller explicaría un vino [33]. En Gabo's, la crítica destaca a un equipo "friki de lo que hace" tanto como la comida [58].
+
+La paradoja es que cada vez cuesta más sostenerlo. Para el 34% de los hosteleros españoles, la falta de equipos preparados es su principal desafío en 2026 [28].
+
+**TBNB TAKE.** La vuelta de la hospitalidad es TREND, y es estructural. Pero personalizar no es improvisar ni depender de que haya un camarero especialmente bueno ese día. Se diseña, igual que una carta o un espacio:
+
+- **Darle al equipo algo que contar.** Fichas de producto, el nombre del proveedor, la historia de cada plato y de cada vino. Nadie recomienda con convicción lo que no conoce.
+- **Que la memoria no dependa de una persona.** Preferencias, alergias, lo que tomó el cliente la última vez: eso lo puede guardar el sistema de reservas. La tecnología recuerda; la persona conversa.
+- **Dimensionar la sala para que nadie tenga que perseguir a nadie.** Si el camarero no tiene tiempo para mirar las mesas, no hay cercanía posible, por buena voluntad que tenga.
+- **Dar criterio para salirse del guion.** Un equipo que sabe hasta dónde puede decidir solo atiende mejor que uno que tiene que preguntar cada excepción.
+- **Cuidar a quien atiende.** Nadie es cercano con los clientes si está quemado. La hospitalidad hacia fuera empieza por cómo se trata al equipo dentro.
+
+La cercanía no se consigue con una formación de un día. Se construye con un equipo estable, formado y con tiempo para atender, y con un sistema que lo haga posible cada servicio, no solo los días buenos.
 
 **Las seis líneas, juntas.** Ninguno de estos movimientos es obligatorio, y ninguno funciona por sí solo. Todos son formas de que un concepto se entienda a la primera, y todos cuestan dinero. Por eso volvemos al principio de este informe: elegir cuáles encajan con tu concepto, tu local y tus números es una decisión de viabilidad, no de inspiración.
 
@@ -638,3 +656,5 @@ See you in six months.
 61. Crónica Global, *"La casa modernista convertida en un exclusivo club privado: 'Solo accesible para socios'"*, 26 oct 2025.
 62. El Español, *"El de Íñigo Onieva y los otros clubes de socios que ya tienen lista de espera antes de abrir"*, 14 dic 2025.
 63. Xataka, *"Madrid se ha llenado de millonarios latinoamericanos, así que los millonarios españoles están creando clubes sin ellos"*, 17 mar 2026.
+64. Cegid Revo, primer informe sobre digitalización y tendencias en restauración, vía InfoHoreca, *"6 de cada 10 españoles ha hecho un 'simpa' o lo ha considerado por la lentitud del restaurante"*, 15 abr 2026.
+65. TheFork lab, primer informe (más de 6.000 usuarios), vía InfoHoreca, *"Las reseñas online son el principal factor para elegir restaurante entre los comensales españoles"*, 24 jul 2026.
