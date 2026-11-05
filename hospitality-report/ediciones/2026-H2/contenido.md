@@ -128,7 +128,7 @@ Y una advertencia: la identidad es TREND; el hype, no. Un sitio que vive solo de
 
 ### 4. The New Social Spaces — el bar como lugar donde se conoce gente
 
-En marzo, más de 900 personas llenaron Sutton, en Barcelona, un sábado por la mañana. No había copas. Había una carrera de cinco kilómetros por la Diagonal, un entrenamiento guiado y un DJ en la pista [60].
+En marzo, más de 900 personas agotaron las entradas de Sutton, una discoteca de Barcelona. No había copas. Había una carrera de cinco kilómetros por la Diagonal, un entrenamiento guiado y un DJ en la pista [60].
 
 La vida social se está reorganizando. Durante décadas, quedar significaba cenar o tomar algo con la gente de siempre. Hoy, cada vez más, se queda para hacer algo, y muchas veces con gente que todavía no se conoce.
 
