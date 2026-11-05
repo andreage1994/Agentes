@@ -195,9 +195,9 @@ variable:
 
 - **Referencia 6 (Tosta Ibérico Reinventada):** falta precio actual por kg
   del jamón ibérico que use Geisha (y su grado: bellota/cebo), formato de
-  compra (pieza para cortar a mano vs. loncheado), merma real de corte si se
-  corta en casa, y gramaje de ración objetivo. Sin esto no se puede calcular
-  ni el coste ni el margen de la referencia "premium".
+  compra (pieza para cortar a mano vs. loncheado de fábrica), merma real de
+  corte si se corta en casa, y gramaje de ración objetivo. Sin esto no se
+  puede calcular ni el coste ni el margen de la referencia "premium".
 - **Referencia 9 (Benedict Eggs variante, salmón ahumado y/o huevo):** falta
   precio actual del salmón ahumado por kg y proveedor, precio del huevo por
   unidad/docena del proveedor actual, y gramaje real de cada componente
@@ -557,3 +557,491 @@ semanal es bajo, como en la referencia 20).
     RU06, no de forma aislada.
 16. **Proveedor de caramelo de pastelería ya elaborado**, por si se opta por
     la vía de compra del punto 7.2 — no confirmado que exista ni su coste.
+
+---
+
+## 8. Validación técnica — referencias 26 a 29 y variantes nuevas de 14, 18 y 22 (actualización 2026-11-05, cierre feedback Juan)
+
+`chef-ejecutivo` cerró el documento en respuesta al feedback directo de Juan
+(2026-11-05): cuatro referencias nuevas (26, 27, 28 y 29 — esta última
+sustituye a la 15, que queda retirada) y tres variantes nuevas sobre
+referencias ya validadas (14, 18 y 22). Ninguna de las cuatro referencias
+nuevas había pasado todavía por esta validación técnica — las 21-25 siguen,
+además, sin validar formalmente (ese hueco no se cierra en esta pasada,
+solo se cierra el encargado explícitamente: 26-29 y las tres variantes).
+
+Sigue vigente, sin cambios, la advertencia inicial de este documento: todo lo
+que sigue está calculado sobre el equipamiento documentado en
+`fuentes/equipamiento-cocina.md`, sin confirmación visual tras la mudanza de
+octubre. Esto es especialmente relevante aquí porque dos de las cuatro
+referencias nuevas (28, posiblemente 27) podrían necesitar un equipo
+(molde cerrado/Pullman para pan, función de vapor del horno) que no está
+listado — si el espacio real difiere, hay que revisar estos puntos
+específicamente, no solo los ya señalados para las referencias 1-25.
+
+### 8.1 Referencia 26 — "Tosta Burrata, Tomate Confitado y Albahaca"
+
+**Veredicto: viable con el equipamiento real, proceso coherente con las
+referencias 6 y 25 ya validadas (montaje en frío en sala sobre pan tostado
+en grill) — pero hay una duda operativa real sobre la burrata que el
+borrador no resuelve del todo, y que no es un problema de equipo sino de
+logística de mise en place.**
+
+- **Tomate confitado/asado en horno convectivo, en lote:** viable sin duda.
+  Es, si acaso, una técnica más sencilla que la mermelada por reducción de
+  la referencia 4 — confitar tomate en horno a temperatura baja (con aceite
+  de oliva, tiempo largo) es una técnica estándar en cocina profesional y
+  no necesita fogón ni control de llama en tiempo real como sí necesita un
+  caramelo o una reducción de líquido. No comparte exactamente el mismo
+  ajuste de tiempo que la mermelada (ref. 4 reduce un líquido hasta
+  textura de mermelada; aquí se trata de secar/concentrar sabor en una
+  pieza de verdura entera, más parecido a un asado lento) — hay que
+  estandarizar su propio tiempo/temperatura, no asumir que es la misma
+  receta que la 4 solo con otro ingrediente, pero no añade ninguna
+  dificultad nueva de equipamiento.
+- **Pesto de albahaca en producción:** sin ninguna duda, elaboración fría
+  estándar (batidora/robot de cocina, no especificado en la ficha pero
+  asumible como equipamiento básico de cualquier producción de hostelería;
+  si no existe un robot/batidora de mano en la ficha, confirmarlo, aunque es
+  un equipo menor y barato de resolver si faltara).
+- **Montaje en sala (burrata + tomate confitado + pesto sobre pan tostado al
+  momento en grill):** correcto, mismo tipo de montaje frío ya validado en
+  las referencias 6 y 25 — no añade ninguna cocción nueva en sala.
+- **Duda real y nueva — vida útil de la burrata ya porcionada:** la burrata
+  es un queso fresco que se conserva tradicionalmente entera, sumergida en
+  su propio suero/nata, y que **se degrada con rapidez una vez cortada**: el
+  centro cremoso (la "stracciatella") pierde textura y empieza a perder
+  calidad sensorial y de seguridad alimentaria en cuestión de horas, no de
+  días, a diferencia del jamón ibérico (ref. 6) o el salmón curado (ref. 9
+  y 29), que sí toleran un porcionado con antelación de varios días. El
+  borrador propone "burrata porcionada y conservada en frío" como si fuera
+  un proceso de lote igual que el resto de componentes — **esto no es
+  equivalente**: la práctica profesional estándar es porcionar la burrata lo
+  más cerca posible del servicio (idealmente el mismo día, en el turno en
+  el que se va a vender, no en un lote semanal o de varios días). Esto no
+  es un problema de equipamiento ni bloquea la referencia, pero sí cambia
+  la carga de trabajo real: es una tarea de mise en place diaria y de
+  volumen ajustado a la venta esperada del día, no un lote que se prepara
+  una vez y dura toda la semana como el tomate confitado o el pesto. Hay
+  que planificarlo así desde el principio, no descubrirlo en RU06.
+- **Food cost:** la burrata es, igual que el ibérico y el salmón, un
+  ingrediente de coste variable según proveedor/calidad (burrata nacional
+  vs. importada, formato de pieza) y sin escandallo propio hoy — no lo
+  estimo. Comparte el mismo tipo de hueco que el resto de producto fresco
+  de esta lista, ver sección 8.8.
+
+### 8.2 Referencia 27 — "Croissant de Jamón Ibérico y Queso Manchego Curado Gratinado"
+
+**Veredicto: viable, y el borrador ya corrige por su cuenta el error de
+equipamiento que señalé en la referencia 9 (el gratinado se hace en la
+salamandra de producción, no en sala) — buena señal de que el criterio ya
+quedó interiorizado. Aun así, hay una duda técnica real y nueva sobre cómo
+se comporta un queso curado bajo calor directo, que el borrador no
+contempla.**
+
+- **Corrección de equipamiento ya aplicada correctamente:** el borrador
+  describe el gratinado final "en la salamandra de producción... antes de
+  subir a sala", y solo deja en sala una regeneración breve y opcional del
+  corte en el grill tostador, "nunca la pieza entera". Esto es exactamente
+  el mismo criterio que apliqué para corregir la referencia 9 y para la
+  referencia 20 (merengue tostado en salamandra, montaje en producción) —
+  no hay error de equipamiento aquí, al contrario que en la 9 original.
+  Confirmo el proceso tal y como está descrito.
+- **Grill tostador para pieza 3D en sala:** el propio borrador ya señala,
+  citando mi propia duda sobre la referencia 3, que el grill tostador está
+  pensado para producto plano y puede aplastar o calentar de forma desigual
+  una pieza 3D como un croissant. Confirmo que sigue siendo la misma duda,
+  sin novedad — recomiendo la misma prueba en RU06 que ya pedí para la
+  referencia 3: comparar regenerar solo el corte en el grill frente a
+  recalentar la pieza entera.
+- **Duda nueva — comportamiento del queso manchego curado bajo gratinado:**
+  el gratinado (calor directo y fuerte, tipo salamandra) funciona mejor con
+  quesos de curación media/baja o alto contenido de humedad (semicurado,
+  fresco, mozzarella), que funden de forma elástica y uniforme. Un
+  **manchego curado** (mayor curación, menor humedad, mayor contenido de
+  grasa libre) tiende a comportarse de forma distinta bajo calor directo
+  intenso: en vez de fundir de forma cremosa, es habitual que **sude grasa y
+  se vuelva granuloso o correoso** en lugar de dorarse y quedar untuoso, sobre
+  todo si el golpe de calor es corto e intenso como el de una salamandra. Esto
+  no significa que la referencia no sea viable, pero sí que **el resultado
+  puede no ser el gratinado "fundente" que normalmente se espera de esta
+  palabra** — conviene probarlo en RU06 con el grado de curación real que
+  se vaya a comprar (un manchego "curado" tiene un rango amplio, de
+  ~3 meses a +12 meses) antes de prometer en carta un producto "gratinado"
+  que en la práctica no funda como tal. Si el resultado no convence,
+  alternativas reales a valorar (no asumidas, a decidir en RU06): mezclar el
+  manchego curado con una proporción menor de un queso de mejor fusión
+  (semicurado o un graso tipo mozzarella) para dar cuerpo fundente sin
+  perder el sabor del curado, o aceptar un gratinado más de "dorado/costra"
+  que de "fundido", y comunicarlo así en la descripción de carta.
+- **Salamandra como cuello de botella — ya un grado más alto:** esta
+  referencia añade un tercer uso de salamandra en la misma franja de
+  producción matinal (tras la referencia 9, si se resuelve ahí, y la
+  referencia 20, semanal). A diferencia de la 20 (uso semanal), esta
+  referencia 27 es un reemplazo potente de un producto de alto volumen
+  (Croissant Jamón y Queso, top 10 de ingreso) — es razonable esperar que
+  se gratine a diario y en volumen alto, no en lotes puntuales. Esto sube
+  el riesgo de saturación de salamandra ya señalado en la sección 4.3 un
+  grado más de lo que estaba: ya no es "la 9 y la 20 compitiendo
+  puntualmente", es "la 9 (si aplica) y la 27 compitiendo a diario, más la
+  20 una vez por semana". Hay que mapear esto en RU06 antes de confirmar
+  el flujo final, con más urgencia que antes.
+- **Food cost:** comparte el mismo hueco de ibérico ya abierto para la
+  referencia 6 (mismo dato de proveedor sirve para ambas), más un hueco
+  nuevo de manchego curado (precio/proveedor/grado de curación), ver
+  sección 8.8.
+
+### 8.3 Referencia 28 — "Sando de Tortilla Española"
+
+**Veredicto: la pieza es viable como producto de sando (formato, corte,
+montaje en frío sin cocción en sala no tienen ninguna duda), pero "sin
+fritura" no resuelve por sí solo el problema técnico de fondo — una tortilla
+de patatas española real depende, precisamente, de una cocción de la patata
+en aceite abundante a temperatura controlada (confitado/fritura suave), que
+sin fogón requiere una adaptación real, no solo "hacerla en el horno", y el
+resultado de esa adaptación va a ser distinto en textura del producto
+clásico. Hay que decidir conscientemente qué trade-off se acepta, no asumir
+que "sin fritura ni fogón" es un simple cambio de equipo sin coste de
+producto.**
+
+**Por qué el nombre del problema ("sin fritura") no es toda la historia:**
+una tortilla de patatas española clásica tiene dos pasos críticos, cada uno
+con su propia dificultad sin fogón:
+
+1. **Cocción de la patata (y cebolla) en aceite.** La técnica tradicional no
+   es una fritura rápida a fuego fuerte, es más bien un **confitado**: patata
+   troceada cocida lentamente sumergida en abundante aceite de oliva a
+   temperatura moderada (90-120°C aprox.) hasta quedar blanda pero sin
+   dorarse — esto es lo que da a la tortilla su textura característica
+   (patata untuosa, no reseca ni tostada). Decir "sin fritura" no elimina
+   esta necesidad: si se sustituye por patata simplemente horneada/asada en
+   seco (o con un chorro de aceite, no sumergida), el resultado es una
+   patata más firme, con bordes dorados/tostados en vez de blandos y
+   untuosos — un producto notablemente distinto en textura y sabor a una
+   tortilla española real, más cercano a una tortilla de patata "asada" que
+   a la clásica. **Adaptación real que sí reproduce bien el resultado
+   clásico sin fogón:** confitar la patata y la cebolla en el horno
+   convectivo, sumergidas en aceite de oliva dentro de una bandeja honda
+   cerrada (con tapa o papel de aluminio), a temperatura baja y constante
+   durante un tiempo largo — es una técnica profesional real y conocida
+   (el mismo principio que un confit de pato al horno), y da un resultado
+   de textura muy cercano al confitado tradicional. **Importante: esto
+   sigue siendo cocción en aceite**, solo que en horno en vez de en sartén
+   sobre fogón — es decir, resuelve el problema de "sin fogón", pero no es
+   literalmente "sin aceite/sin fritura" en el sentido de ausencia de
+   grasa de cocción. Si lo que pide el briefing es, además, evitar el uso
+   de un volumen significativo de aceite de cocción (no solo evitar el
+   fogón), hay que decirlo con claridad: la alternativa realista sería
+   cocer la patata al vapor/hervida en el horno (sin aceite de cocción), lo
+   que sí es "sin fritura" en sentido estricto, pero el resultado se aleja
+   todavía más del producto clásico — una patata cocida es más seca y
+   mucho menos untuosa que una confitada, y el sabor cambia de forma
+   perceptible. **Esto es una decisión de producto, no una decisión mía**:
+   recomiendo confitar en horno como primera opción por fidelidad al sabor
+   clásico, dejando claro que implica aceite de cocción (aunque no fogón ni
+   fritura directa), y que la opción de patata cocida/al vapor es la
+   verdadera "sin fritura" si eso es una condición no negociable, con el
+   coste de alejarse más del producto tradicional.
+2. **Cuajado del huevo con la patata.** La tortilla clásica se cuaja en una
+   sartén sobre fogón, con el característico centro "jugoso"/poco cuajado
+   (baveuse) que se consigue controlando el punto de cocción al voltear la
+   pieza. Sin fogón, la adaptación estándar es **hornear la mezcla de huevo
+   batido y patata/cebolla ya confitada en un molde o bandeja (tipo
+   terrina/quiche sin base), a temperatura moderada, hasta que cuaje**
+   — misma lógica que ya usa `chef-ejecutivo` para la mermelada (ref. 4) y
+   que yo mismo recomendé para el curd de la referencia 20: es una técnica
+   viable y fiable con horno convectivo. **Pero el resultado es
+   estructuralmente distinto**: un huevo horneado en bandeja cuaja de forma
+   más homogénea y firme en toda la pieza, no deja el centro jugoso/suelto
+   de la tortilla española tradicional — es, en términos de textura, más
+   parecido a una terrina o a un frittata que a una tortilla clásica
+   recién volteada en sartén. **Esto no es necesariamente malo para este
+   producto en concreto**: un sando necesita un corte limpio y estable para
+   verse bien y no desmoronarse al morder (el propio borrador busca
+   "formato muy visual, corte limpio"), y un relleno más firme/cuajado
+   encaja mejor con esa necesidad que una tortilla jugosa tradicional, que
+   probablemente no aguantaría un corte limpio dentro de un sando. **Pero
+   es un trade-off real que hay que nombrar explícitamente a
+   `chef-ejecutivo`/cliente, no asumir en silencio**: el producto resultante
+   va a ser, con casi total seguridad, una versión de tortilla más firme y
+   menos jugosa que la tortilla española "de bar" que el cliente español
+   puede esperar por el nombre — si eso se comunica bien en carta (un
+   "sando" es ya, de por sí, una reinterpretación de formato, así que el
+   cliente no espera literalmente la tortilla de bar clásica), no hay
+   problema; si se promete "tortilla española real" sin matizar, puede
+   generar expectativa que el producto no cumple.
+
+**Resumen de la adaptación que recomiendo, sujeta a prueba y decisión en
+RU06:** patata y cebolla confitadas en el horno convectivo (bandeja honda
+con aceite de oliva, cerrada, temperatura baja, tiempo largo) + mezcla con
+huevo batido, horneada en molde/bandeja a temperatura moderada hasta cuajar
+de forma firme + enfriado, porcionado en bloques limpios, conservación en
+mesa refrigerada de producción. Es viable con el equipamiento documentado y
+es, de las dos vías posibles, la que más se acerca al sabor tradicional —
+pero el resultado final es una tortilla de textura más firme/homogénea que
+la clásica de bar, coherente con las necesidades del formato sando, no un
+defecto de ejecución.
+
+**Equipamiento adicional no documentado — pan tipo shokupan:** si el pan se
+hornea en casa (una de las dos opciones que el propio borrador deja
+abierta), el shokupan es un pan de molde enriquecido (leche, mantequilla,
+a veces agua tangzhong) que tradicionalmente se hornea en un **molde cerrado
+tipo Pullman** para conseguir su forma de bloque uniforme y su miga prieta
+característica — **este molde no aparece en la lista de equipamiento de
+producción** (`fuentes/equipamiento-cocina.md` solo lista horno convectivo,
+microondas y salamandra, sin moldes específicos). Además, un shokupan de
+calidad se beneficia de un horneado con humedad/vapor para la corteza fina y
+la miga suave — **misma función de vapor del horno convectivo que ya dejé
+como hueco pendiente para el huevo a baja temperatura de las referencias 5 y
+9** (sección 6, punto 3): si el horno no tiene esa función, el pan puede
+salir con una corteza más gruesa/seca de lo esperado para este formato.
+**Recomiendo, como primera opción práctica, comprar el pan tipo shokupan ya
+elaborado a un proveedor** (igual que recomendé para el caramelo de miso en
+7.2): evita la necesidad de un molde nuevo y de confirmar la función de
+vapor del horno, y es una práctica habitual en cafeterías de especialidad
+que no son, en origen, obradores de pan especializado. Si se decide hornear
+en casa, hay que confirmar antes: disponibilidad de molde Pullman (compra
+de equipo menor) y función de vapor del horno.
+
+**Seguridad alimentaria:** la tortilla (huevo + patata) horneada y después
+enfriada y servida fría en el sando necesita el mismo cuidado de cadena de
+frío que cualquier elaboración de huevo cocido que se enfría para servicio
+posterior — abatimiento rápido tras el horneado (no dejar enfriar a
+temperatura ambiente de forma lenta) y conservación en mesa refrigerada
+hasta el montaje, igual que ya señalé para el huevo poché de las referencias
+5 y 9. No es una duda nueva de proceso, pero sí hay que incluirlo en el
+protocolo de producción cuando se estandarice en RU06.
+
+**Food cost:** pan tipo shokupan (si se compra o si se hornea, cambia el
+proveedor y el coste) es un ingrediente nuevo sin proveedor ni escandallo —
+distinto del hueco ya abierto de ibérico/salmón, ver sección 8.8.
+
+### 8.4 Referencia 29 — "Smørrebrød de Salmón Ahumado"
+
+**Veredicto: el principio general es correcto — mismo proceso de montaje en
+frío ya validado para la referencia 25 (Smørrebrød Ibérico), sin cocción en
+sala, viable sin ajuste. Pero hay una inconsistencia real entre el nombre de
+la referencia y el proceso que describe el borrador, que hay que resolver
+antes de estandarizar, porque cambia tanto el proceso como la seguridad
+alimentaria y el proveedor.**
+
+- **Montaje y formato (pan de centeno tostado en grill + relleno frío en
+  sala):** sin duda, aplica exactamente la misma lógica ya validada para la
+  referencia 25 — mismo tipo de montaje, mismo equipamiento, ningún
+  ajuste nuevo.
+- **Inconsistencia a resolver — "ahumado" vs. "curado":** el nombre de la
+  referencia es "Salmón **Ahumado**", pero la descripción de proceso del
+  borrador dice "salmón **curado**/porcionado en producción (proceso en frío
+  ya validado para la referencia 15, no cambia)" — y la referencia 15
+  describía explícitamente un **curado** en casa (sal/azúcar/tiempo en
+  nevera, sin ahumado). **Ahumado y curado no son el mismo producto ni el
+  mismo proceso**, y la diferencia importa para esta validación:
+  - Un salmón **curado en casa** (tipo gravlax) es un proceso que sí se
+    puede hacer con el equipamiento documentado (nevera, mesa refrigerada),
+    como ya confirmé para la referencia 15 — no necesita ningún equipo
+    adicional.
+  - Un salmón **ahumado de verdad** (en frío o en caliente) necesita un
+    equipo de ahumado (ahumador, generador de humo o cámara específica) que
+    **no aparece en ningún punto de la lista de equipamiento, ni en sala ni
+    en producción**. Si el nombre se toma literalmente y la intención es
+    ahumar el salmón en casa, **esto no es viable con el equipamiento
+    actual** y sería una inversión de equipo nueva, decisión que no me
+    corresponde a mí.
+  - **Lo más probable, y lo que recomiendo**, es que "salmón ahumado" se
+    refiera a comprar salmón ya ahumado a un proveedor externo (práctica
+    habitual en cafeterías de especialidad que no ahúman en casa) y
+    simplemente porcionarlo en producción — en ese caso sí es plenamente
+    viable, pero es un proceso **más simple** que "curar en casa" (no hay
+    elaboración, solo recepción, conservación y corte), y **cambia el
+    proveedor y el food cost** respecto a lo que describe literalmente el
+    borrador (que reutiliza el proceso de curado de la referencia 15, no el
+    de compra de producto ya ahumado).
+  - **Antes de estandarizar esta referencia hay que cerrar cuál de los dos
+    productos es realmente**: salmón curado en casa (proceso ya validado,
+    mismo que la 15) o salmón ahumado comprado ya elaborado (proceso más
+    simple, pero proveedor y coste distintos, y el nombre de carta debería
+    decir "ahumado" solo si efectivamente lo es, por coherencia con la
+    propia máxima de "honestidad de producto" que rige todo este documento,
+    sección 2.2 punto 2).
+- **Cadena de frío — diferencia real frente a la referencia 25:** tanto el
+  salmón curado en casa como el salmón ahumado comprado son productos
+  **listos para consumir, de pescado crudo o semi-crudo**, con un perfil de
+  riesgo de seguridad alimentaria (especialmente Listeria monocytogenes)
+  distinto y más exigente que el jamón ibérico de la referencia 25 (producto
+  curado cárnico, estable a temperatura ambiente de servicio durante horas).
+  El salmón, una vez porcionado, necesita conservarse en frío de forma
+  estricta en todo momento (recepción, almacenamiento, porcionado y montaje
+  en mesa refrigerada de sala) y tiene una vida útil más corta una vez
+  abierto el envase/loncheado que el ibérico. Esto no bloquea la viabilidad
+  de la referencia — el montaje frío en mesa refrigerada ya es, de hecho, el
+  entorno correcto — pero sí es un matiz de manipulación que no estaba
+  explícito en la documentación de equipamiento ni en el proceso descrito, y
+  que conviene incluir en el protocolo de RU06 (tiempo máximo fuera de frío
+  durante el montaje en sala, rotación FIFO del salmón).
+- **Pan de centeno:** comparte la misma duda ya señalada para la referencia
+  25 (proveedor/formato de compra a confirmar) — no añade un hueco nuevo,
+  es el mismo.
+- **Food cost:** comparte el mismo hueco de salmón ya abierto para la
+  referencia 9 (precio/proveedor), con la salvedad de que si finalmente es
+  salmón ahumado comprado (no curado en casa), el dato a pedir al proveedor
+  es distinto (precio de salmón ahumado ya elaborado, no de salmón crudo
+  para curar en casa) — ver sección 8.8.
+
+### 8.5 Variantes nuevas de referencias 14, 18 y 22
+
+**Referencia 14 — variante "chocolate con rosas y frambuesa":** viable sin
+ninguna duda de proceso — es una decoración (rosas/pétalos y frambuesa
+fresca) sobre una base de cheesecake de chocolate ya horneada, montada y
+porcionada en producción igual que el resto de la rotación de sabor de esta
+referencia; no introduce ninguna cocción ni equipo nuevo. **Único punto a
+confirmar, no bloqueante pero real:** si "rosas" significa pétalos de rosa
+frescos para consumo directo, tienen que ser **flores comestibles
+certificadas, cultivadas sin pesticidas/tratamiento ornamental** — no
+cualquier rosa decorativa — porque una rosa de floristería estándar no es
+apta para contacto con alimento. Si en cambio se trata de agua de rosas o
+un jarabe/esencia de rosa (ingrediente de repostería estándar, sin este
+riesgo), el proceso es todavía más simple. Hay que aclarar con
+`chef-ejecutivo` cuál de las dos formas de "rosa" se está proponiendo antes
+de cotizar proveedor — cambia tanto el coste como el proceso de manipulación.
+La frambuesa fresca no añade ninguna duda (fruta ya manipulada igual que en
+otros toppings de la carta). Food cost: ninguno de los dos ingredientes
+(rosa comestible/agua de rosas, frambuesa fresca) tiene escandallo propio
+hoy — hueco nuevo, ver sección 8.8.
+
+**Referencia 18 — variante "con sal":** viable sin ninguna duda. Es
+exactamente el mismo caramelo de miso ya analizado en la sección 7.2 (con la
+misma recomendación de técnica, dulce de leche al horno como primera
+opción), con un terminado de sal en escamas añadido al servir — un paso de
+montaje en frío que no cambia nada del proceso de elaboración del caramelo
+ya descrito. No añade ninguna duda técnica nueva ni de equipamiento.
+
+**Referencia 22 — variante "Mediterránea (naranja, dátil, algarroba y
+almendra)":** viable sin ninguna duda de proceso — usa exactamente la misma
+elaboración ya descrita para las otras dos variantes de esta referencia
+(frutos secos, fruta deshidratada y un ligante, triturados y prensados a
+mano en bolas, sin horno ni cocción), solo cambia qué ingredientes se
+trituran (naranja/ralladura o zumo, dátil, algarroba en polvo como sustituto
+de cacao, almendra en vez de sésamo negro/kinako/matcha). No introduce
+ningún equipo ni técnica nueva frente a las otras dos variantes. **Nota
+importante de alcance:** la referencia 22 en su conjunto (las tres
+variantes, incluida la base del proceso) todavía no ha pasado por una
+validación técnica formal mía — el propio borrador lo señala explícitamente
+("a confirmar formalmente con `culinary-development` antes de estandarizar",
+igual que las referencias 21, 23, 24 y 25). Esta pasada valida que la nueva
+variante mediterránea no añade ninguna duda distinta a las dos variantes
+japonesas que ya tenía la referencia, pero **no sustituye la validación
+formal completa de la referencia 22 en su conjunto**, que sigue pendiente
+igual que las referencias 21, 23, 24 y 25 — fuera del encargo concreto de
+esta actualización. Food cost: dátil, almendra y naranja son producto de
+proveedor habitual de repostería/fruta de la casa, previsiblemente de menor
+incertidumbre de precio que el ingrediente japonés de importación, pero
+tampoco tienen escandallo propio hoy.
+
+### 8.6 Riesgos operativos actualizados — impacto de las referencias 26-29 en la saturación ya señalada
+
+La sección 4 de este documento ya señalaba el horno convectivo único y la
+salamandra como posibles cuellos de botella con las referencias 1-20. Las
+referencias 26-29 **no abren un problema nuevo de tipo**, pero sí cambian su
+magnitud, porque a diferencia de varias de las referencias 21-25 (creativas,
+sin garantía de volumen), **26 y 27 están diseñadas explícitamente como
+reemplazos "igual de fuertes" de dos de los productos de mayor ingreso de
+toda la carta** (Tosta Aguacate, top 3 ingreso; Croissant Jamón y Queso, top
+10 ingreso) — es decir, si cumplen su función, se van a producir a diario y
+en volumen alto, no en lotes puntuales:
+
+- **Horno convectivo:** suma el horneado del tomate confitado (26, lote,
+  probablemente diario dado el volumen esperado), el relleno/horneado del
+  croissant (27, ya existente como base pero ahora con un paso añadido de
+  gratinado) y la tortilla de patatas (28, horneado diario en lote, más el
+  pan shokupan si se hornea en casa) a la carga ya señalada como ajustada en
+  la sección 4.2 (croissants, banana bread, carrot cake, cheesecake,
+  brownie, más las referencias 1, 4, 5, 7, 9, 16, 19, 20 si entran). Esto
+  **sube el riesgo de saturación un grado más de lo ya señalado**,
+  precisamente porque 26 y 27 no son candidatas de nicho sino reemplazos de
+  alto volumen que el cliente espera que funcionen igual o mejor que los
+  productos que sustituyen.
+- **Salamandra:** la referencia 27 añade un uso diario de alto volumen (ver
+  8.2) a un equipo que ya competía entre la referencia 9 (si se resuelve en
+  producción) y la referencia 20 (semanal). Con 27 sumándose a diario, la
+  salamandra pasa de "posible cuello de botella a vigilar" a **"muy probable
+  cuello de botella real si 9, 20 y 27 conviven en las 10 finales"** —
+  recomiendo tratar esto como punto de decisión explícito en RU06, no como
+  nota menor: puede condicionar cuántas de estas referencias conviven en la
+  carta final sin invertir en un segundo equipo.
+
+Esto no cambia mi veredicto de viabilidad de ninguna de las referencias —
+todas son ejecutables con el equipamiento real — pero sí refuerza, con más
+urgencia que antes, la recomendación ya hecha en la sección 4 y en el puente
+a RU06: **la secuenciación de horno y salamandra tiene que probarse y
+planificarse con el cliente antes de confirmar cuántas de las referencias que
+comparten estos dos equipos entran juntas en las 10 finales**, no asumir que
+hay hueco libre por defecto.
+
+### 8.7 Puente a RU06 — qué añade esta actualización
+
+Además de lo ya señalado en la sección 5 (sigue vigente igual), esta
+actualización añade a las jornadas presenciales de implementación:
+
+- **Prueba de cata comparativa del sando de tortilla (ref. 28):** confitado
+  en horno vs. patata cocida/al vapor para la base, y terrina horneada vs.
+  otras texturas de cuajado para el huevo — decidir con `chef-ejecutivo` y
+  el cliente qué trade-off de textura se acepta antes de estandarizar la
+  receta, no asumir el resultado sin probarlo.
+- **Prueba del gratinado de manchego curado (ref. 27):** confirmar en
+  salamandra real si el grado de curación elegido funde de forma aceptable
+  o si hay que mezclarlo con un queso de mejor fusión.
+- **Protocolo de mise en place diaria de burrata (ref. 26):** de lote
+  semanal a porcionado por turno de servicio — a definir con el equipo de
+  cocina en RU06, no solo como nota de receta.
+- **Cierre de qué es realmente "salmón ahumado" en la referencia 29**
+  (curado en casa o comprado ya ahumado) antes de cualquier prueba de
+  producto, porque cambia qué se prueba y con qué proveedor.
+- **Mapeo conjunto de secuenciación de horno y salamandra** con las
+  referencias 26, 27 y 28 incluidas, no solo las 1-20 ya señaladas — ver
+  8.6.
+- **Confirmar molde Pullman y función de vapor del horno** antes de decidir
+  si el pan shokupan de la referencia 28 se hornea en casa o se compra ya
+  elaborado (recomendación: comprarlo, ver 8.3).
+
+### 8.8 Huecos de información nuevos de esta actualización (continúan la numeración de las secciones 6 y 7.5)
+
+17. **Proveedor y coste de burrata** (ref. 26) — formato de pieza, origen
+    (nacional/importada), vida útil garantizada por el proveedor una vez
+    recibida.
+18. **Proveedor y coste de queso manchego curado** (ref. 27) — grado de
+    curación exacto a comprar (relevante para el comportamiento al
+    gratinar, ver 8.2), además del hueco ya abierto de jamón ibérico
+    (comparte dato con la ref. 6).
+19. **Confirmar si el pan tipo shokupan** (ref. 28) **se compra ya
+    elaborado o se hornea en producción** — si se hornea en casa, confirmar
+    disponibilidad de molde cerrado/Pullman (equipo no documentado hoy) y
+    función de vapor del horno convectivo (mismo hueco ya abierto para el
+    huevo a baja temperatura de las referencias 5 y 9, sección 6 punto 3).
+    Recomendación: comprarlo ya elaborado, ver 8.3.
+20. **Decisión de trade-off de textura del Sando de Tortilla** (ref. 28):
+    confitado en horno (más fiel al sabor clásico, pero con aceite de
+    cocción) frente a patata cocida/al vapor (más alejado del sabor
+    clásico, pero sin aceite de cocción) — decisión de producto a tomar con
+    `chef-ejecutivo` y el cliente antes de estandarizar, con prueba previa
+    en RU06.
+21. **Aclarar si "salmón ahumado" de la referencia 29 es, en realidad,
+    salmón curado en casa (como describe el proceso del borrador, igual
+    que la referencia 15 retirada) o salmón ahumado comprado ya elaborado**
+    — cambia proceso, proveedor, food cost y el propio nombre honesto del
+    producto en carta (coherente con el principio de "honestidad de
+    producto", sección 2.2 punto 2 del borrador).
+22. **Protocolo de cadena de frío específico para salmón (curado o
+    ahumado) de las referencias 9, 15 (retirada) y 29** — tiempo máximo
+    fuera de frío durante montaje en sala, rotación FIFO — no estaba
+    explícito hasta esta actualización.
+23. **Aclarar qué entiende `chef-ejecutivo` por "rosas" en la variante
+    nueva de la referencia 14** (pétalo comestible certificado vs. agua/
+    esencia de rosa) — cambia proceso de manipulación, proveedor y coste.
+24. **Proveedor y coste de pan de centeno** (ref. 29, comparte el hueco ya
+    abierto con la ref. 25) y de frambuesa fresca/rosa comestible o agua de
+    rosas (ref. 14, variante nueva).
+25. **Validación técnica formal completa de la referencia 22** (las tres
+    variantes como conjunto, incluida la base del proceso) — sigue
+    pendiente, igual que las referencias 21, 23, 24 y 25; esta actualización
+    solo confirma que la variante mediterránea no añade una duda distinta a
+    las dos variantes japonesas ya descritas en el borrador.

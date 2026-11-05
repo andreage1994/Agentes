@@ -631,10 +631,16 @@ Benedict Eggs / Tosta Aguacate)**
   pensada explícitamente como expresión en carta de un pairing que ya es
   hoy un éxito rotundo y gratuito del local, junto al filtro Geisha o
   Leyenda. No sustituye a las variantes de matcha/yuzu, se suma a la
-  rotación. *Pendiente de confirmar con `culinary-development` el proceso
-  exacto (decoración de rosas/frambuesa sobre base de chocolate ya
-  horneada) y con Andrea/Sergio y el cliente si esta variante se vende
-  como plato de carta o se mantiene como el pairing gratuito que es hoy.*
+  rotación. **Decisión de producto a cerrar antes de estandarizar
+  (validación técnica, sección 8.7):** "rosas" debe ser pétalo comestible
+  certificado (sin pesticida — distinto de una rosa de floristería) o
+  agua/esencia de rosa, nunca decoración floral no alimentaria; la opción
+  elegida cambia manipulación y coste, así que hay que fijarla antes de
+  comprar el ingrediente, no al servir el plato. *Pendiente de confirmar
+  con `culinary-development` el proceso exacto de decoración sobre base de
+  chocolate ya horneada, y con Andrea/Sergio y el cliente si esta variante
+  se vende como plato de carta o se mantiene como el pairing gratuito que
+  es hoy.*
 
 **15. "Reformulación Bagel Salmón" — referencia retirada (2026-11-05)**
 - *Por qué (estado original, octubre 2026):* cae -23,4% en unidades en dos
@@ -646,7 +652,7 @@ Benedict Eggs / Tosta Aguacate)**
   formato bagel en sí, no solo el relleno — y el propio dato ya apuntaba
   en esa dirección. Se cierra la decisión: **esta referencia 15 queda
   retirada de la lista de candidatas.** Se sustituye por la referencia 29
-  ("Smørrebrød de Salmón Ahumado", ver sección 8.5 y 8, "Referencias
+  ("Smørrebrød de Salmón Curado", ver sección 8.5 y 8, "Referencias
   nuevas"), que mantiene el mismo salmón curado y el mismo matiz japonés
   (nori/furikake) que llevaba esta referencia, cambiando únicamente el
   soporte de pan — de bagel a pan de centeno en formato abierto.
@@ -1164,7 +1170,7 @@ diseño de carta (sección 6) y a la decisión de recorte de 20 a 10.
 | 4. Mermelada Artesana de Temporada | Posicionamiento + Ticket medio |
 | 5. Tosta Serrano Premium | Ticket medio (upsell sobre ganador validado) |
 | 6. Tosta Ibérico Reinventada | Posicionamiento (segmento fiel 35-45) |
-| 29. Smørrebrød de Salmón Ahumado *(nuevo 2026-11-05, sustituye a la 15)* | Posicionamiento / Ticket medio |
+| 29. Smørrebrød de Salmón Curado *(nuevo 2026-11-05, sustituye a la 15)* | Posicionamiento / Ticket medio |
 
 **Familia: Bowls** (captación experiencia/salud, formato visual)
 
@@ -1577,7 +1583,7 @@ con fuerza (Tosta Jamón Serrano +50%, Sandwich de Pollo +102%).
 **Decisión:** se retira el formato bagel para el salmón. La referencia 15
 ("Reformulación Bagel Salmón") queda retirada de la lista de candidatas
 (ver nota añadida directamente en su entrada de la sección 3.5) y se
-sustituye por la referencia **29 — "Smørrebrød de Salmón Ahumado"**
+sustituye por la referencia **29 — "Smørrebrød de Salmón Curado"**
 (detalle completo más abajo), que cambia el soporte de pan — de bagel a
 pan de centeno en formato abierto —, reutilizando el territorio ya abierto
 por la referencia 25 (Smørrebrød Ibérico), y mantiene el mismo salmón
@@ -1703,9 +1709,18 @@ Tosta Aguacate)**
   pensado para producto plano, no para una pieza 3D. **Pendiente de
   confirmar con `culinary-development`** antes de estandarizar: si el
   gratinado en salamandra añade más carga a un equipo ya señalado como
-  posible cuello de botella (referencias 9 y 20), y el food cost real del
-  jamón ibérico (mismo hueco ya abierto para la referencia 6 — se puede
-  resolver con el mismo dato de proveedor).
+  posible cuello de botella (referencias 9 y 20) — y esta vez con más
+  urgencia, porque la 27 se espera de alto volumen diario, no de uso
+  puntual —, y el food cost real del jamón ibérico (mismo hueco ya
+  abierto para la referencia 6 — se puede resolver con el mismo dato de
+  proveedor). **Punto que bloquea prometer "gratinado" en carta
+  (validación técnica, sección 8.2):** un manchego **curado** (poca
+  humedad) no funde de forma cremosa bajo el calor directo fuerte de una
+  salamandra — puede sudar grasa y quedar granuloso en vez de fundente.
+  Hay que probar el gratinado con el grado de curación real del queso que
+  se vaya a comprar en RU06 antes de estandarizar la receta y, sobre
+  todo, antes de escribir "gratinado" en la descripción de carta — si el
+  resultado no convence, valorar un manchego semicurado en su lugar.
 - *Nota de identidad:* se deja sin matiz japonés, por el mismo criterio
   que la referencia 26 — jamón ibérico y manchego ya son, por sí mismos,
   una declaración de identidad española que no necesita un acento
@@ -1727,19 +1742,33 @@ Tosta Aguacate)**
 - *Función:* Captación (formato nuevo y visual, sin competir con el
   croissant/tosta ya existentes) + Ticket medio (plato con entidad
   propia).
-- *Producción:* tortilla de patatas elaborada en horno convectivo de
-  producción, en lote (misma adaptación sin fogón ya validada para la
-  mermelada de la referencia 4 — cocción larga que se resuelve en horno,
-  no al cazo/sartén tradicional), enfriada, porcionada y conservada en
-  mesa refrigerada; pan de molde (shokupan o similar, proveedor a
-  confirmar) ya horneado o comprado. En sala: montaje en frío — corte del
-  pan, relleno con la porción de tortilla ya fría, sin ninguna cocción en
-  sala, coherente con no tener freidora ni fogón de sala. **Pendiente de
-  confirmar con `culinary-development`** antes de estandarizar: si el pan
-  tipo shokupan se compra ya hecho o se hornea en producción (equipo y
-  proceso a validar), y el food cost del pan (ingrediente nuevo, sin
-  proveedor ni escandallo hoy, distinto del hueco ya abierto para
-  ibérico/salmón).
+- *Producción — decisión técnica cerrada tras validación (sección 8.3):*
+  "sin fritura ni fogón" en el nombre no resolvía por sí solo el problema
+  real: una tortilla de patatas clásica depende de confitar la patata en
+  aceite abundante y de cuajar el huevo jugoso en sartén, ninguna de las
+  dos cosas disponible sin fogón. La adaptación real y viable con el
+  equipamiento de producción es: patata y cebolla confitadas en horno
+  convectivo (bandeja honda con aceite, horno cerrado, temperatura baja —
+  sigue siendo cocción en aceite, solo que sin fogón, no "sin fritura" en
+  sentido estricto) + huevo horneado en molde tipo terrina hasta cuajar
+  firme. El resultado es más parecido a una terrina/frittata de corte
+  limpio que a la tortilla jugosa clásica de bar — **este es un trade-off
+  consciente, no un defecto**: es exactamente la textura de corte limpio
+  que necesita un sando, y hay que presentarlo así a Juan, no como "la
+  misma tortilla de toda la vida en formato sando". Enfriada, porcionada
+  y conservada en mesa refrigerada tras el horneado. Pan de molde: se
+  recomienda **comprarlo ya elaborado a proveedor** como primera opción,
+  no hornearlo en producción — hornear un shokupan real necesita un molde
+  Pullman (equipo no documentado en la ficha de cocina) y depende de la
+  misma función de vapor del horno convectivo todavía sin confirmar (ver
+  referencias 5 y 9); comprarlo hecho evita ambos huecos. En sala:
+  montaje en frío — corte del pan, relleno con la porción de tortilla ya
+  fría, sin ninguna cocción en sala. **Pendiente de confirmar con
+  `culinary-development`** antes de estandarizar: proveedor y food cost
+  del pan tipo shokupan (ingrediente nuevo, sin proveedor ni escandallo
+  hoy, distinto del hueco ya abierto para ibérico/salmón), y validar en
+  RU06 el tiempo/temperatura real de la patata confitada al horno y del
+  huevo en terrina antes de fijar la receta.
 - *Nota de identidad:* formato de pan de origen japonés (shokupan),
   relleno 100% español — exactamente la misma lógica de "formato
   internacional reconocible + producto español" que ya usan las
@@ -1747,7 +1776,7 @@ Tosta Aguacate)**
   no el Acento Geisha de especias/técnica. Se incorpora explícitamente a
   ese segundo eje, no al primero.
 
-**29. "Smørrebrød de Salmón Ahumado" (cierra la decisión de formato bagel,
+**29. "Smørrebrød de Salmón Curado" (cierra la decisión de formato bagel,
 sustituye a la referencia 15)**
 - *Por qué:* Juan cuestiona el formato bagel en sí, no solo el relleno de
   la referencia 15 — y el propio dato de venta ya apuntaba en esa
@@ -1759,13 +1788,24 @@ sustituye a la referencia 15)**
   reutilizando el mismo formato y la misma lógica de montaje ya
   propuestos en la referencia 25 (Smørrebrød Ibérico), que ya abre ese
   territorio en la carta. La referencia 15 queda retirada de la lista de
-  candidatas; esta referencia 29 la sustituye.
+  candidatas; esta referencia 29 la sustituye. **Aclaración cerrada tras
+  validación técnica (sección 8.4):** el nombre es, deliberadamente,
+  "salmón curado" y no "ahumado" — curado y ahumado son producto y
+  proceso distintos, y ahumar en casa no es viable con el equipamiento
+  documentado (no hay equipo de ahumado). Lo que pide Juan es cambiar el
+  soporte de pan, no la preparación del salmón, así que se mantiene el
+  mismo salmón curado ya validado para la referencia 15 — sin introducir
+  un proveedor ni un food cost nuevos.
 - *Función:* Posicionamiento (mismo papel que tenía la 15 — producto de
   salmón de la carta) + Ticket medio.
 - *Producción:* salmón curado/porcionado en producción (proceso en frío
   ya validado para la referencia 15, no cambia); pan de centeno tostado
   en grill en sala; montaje en frío (salmón, aderezo) en sala, sin
-  cocción — mismo tipo de montaje que la referencia 25.
+  cocción — mismo tipo de montaje que la referencia 25. El salmón
+  (curado, igual que antes) tiene un perfil de riesgo de cadena de frío
+  más exigente que el ibérico de la referencia 25 — a reforzar en la
+  formación de RU06, no es un punto nuevo de proceso, sí de seguridad
+  alimentaria a no dar por hecho.
 - *Matiz Geisha (identidad):* se mantiene el mismo matiz ya propuesto para
   la referencia 15 — un crumble de nori o un toque de furikake sobre el
   salmón —, porque el cambio que pide Juan es de formato de pan, no de
@@ -1863,9 +1903,18 @@ Andrea/Sergio mediando (ver siguiente paso 1 y pregunta abierta 4).
     sección 6 da contenido y criterio de jerarquía/organización; la
     ejecución visual corresponde a Geisha o a quien ellos encarguen el
     diseño.
-14. **Validación técnica completa de las referencias 26, 27, 28 y 29**
-    (añadido 2026-11-05) — no han pasado todavía por `culinary-development`
-    (mismo hueco ya señalado para las referencias 21-25).
+14. **Validación técnica de las referencias 26, 27, 28 y 29 — completada
+    (2026-11-05, ver `culinary-development-validacion-tecnica.md`, sección
+    8).** Las cuatro son ejecutables; quedan tres puntos que afectan a cómo
+    se describe el producto en carta, no solo a la receta interna, y que
+    conviene resolver antes de enviar a Juan: el trade-off de textura de la
+    tortilla de la referencia 28 (terrina de corte limpio, no la tortilla
+    jugosa clásica — ver su entrada en 3.5), la prueba real de gratinado
+    con manchego curado de la referencia 27 antes de prometer "gratinado"
+    en carta, y la aclaración ya cerrada de que la 29 es salmón curado, no
+    ahumado. La burrata de la referencia 26 se degrada en horas una vez
+    cortada — no se puede porcionar en lote semanal como el ibérico o el
+    salmón, hay que planificarla como mise en place diaria.
 15. **Proveedor y coste de burrata (ref. 26), de jamón ibérico de calidad
     superior y queso manchego curado (ref. 27 — comparte el hueco ya
     abierto de ibérico con la ref. 6), de pan tipo shokupan (ref. 28) y de
@@ -1885,6 +1934,17 @@ Andrea/Sergio mediando (ver siguiente paso 1 y pregunta abierta 4).
     necesariamente un precio concreto; confirmar con el cliente si deben
     igualar, superar o quedar levemente por debajo del precio actual de
     Tosta Aguacate y Croissant Jamón y Queso (añadido 2026-11-05).
-19. **Confirmar si el pan tipo shokupan (ref. 28) se compra ya elaborado o
-    se hornea en casa** — cambia proceso, proveedor y food cost (añadido
+19. **Pan tipo shokupan (ref. 28) — recomendación cerrada: comprarlo ya
+    elaborado a proveedor, no hornearlo en producción.** Hornear un
+    shokupan real necesita un molde Pullman (equipo no documentado) y
+    depende de la misma función de vapor del horno convectivo todavía sin
+    confirmar (huecos 2 y 3 de la validación técnica original); comprarlo
+    hecho evita ambos. Queda por confirmar proveedor y precio (añadido
     2026-11-05).
+20. **Saturación de horno y salamandra — sube de nivel (2026-11-05).** Las
+    referencias 26 y 27 son reemplazos de alto volumen esperado (no uso
+    puntual como varias de las 21-25), lo que agrava el riesgo de
+    saturación ya señalado en la validación técnica original (sección 4) —
+    a mapear junto con el resto de la secuenciación en RU06 antes de
+    confirmar cuántas referencias nuevas de alto volumen entran a la vez en
+    las 10 finales.
