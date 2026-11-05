@@ -128,11 +128,13 @@ Y una advertencia: la identidad es TREND; el hype, no. Un sitio que vive solo de
 
 ### 4. The New Social Spaces — del restaurante al club
 
-En enero de 2026, Club Metrópolis abrió en el edificio Metrópolis de la Gran Vía, de 1911, con el cupo inicial ya lleno antes de inaugurar: 1.500 socios, a 2.000 € de entrada y 3.500 € al año [60].
+Durante años pareció una costumbre británica. Hoy es una de las señales más claras de hacia dónde se mueve la vida social en las grandes ciudades.
 
-El club privado de socios nació en Londres con Soho House, en 1995, y Barcelona lo conoce desde hace tiempo: Soho House abrió en Ciutat Vella en 2016, sumó la Soho Beach House del Garraf en 2018 y preparaba para finales de 2025 una nueva casa en la Torre Bernat i Creus del Tibidabo, con gimnasio, wellness, piscina, café de día y restaurante de noche [61]. Pero el boom de verdad está en Madrid. Vega, el club de Íñigo Onieva y Manuel Campos en la calle Lagasca, abrió en febrero de 2026 con lista de espera, cuota anual de entre 1.500 y 2.400 € y una norma que dice mucho del concepto: el móvil está prohibido [62]. El veterano Club Matador tiene unos 2.500 socios y factura alrededor de seis millones de euros al año [63].
+El club privado de socios nació en Londres, con Soho House, a mediados de los noventa: un lugar donde comer, trabajar y encontrarse con gente afín, al que solo se entra si te aceptan. Barcelona lo conoce desde 2016, cuando Soho House abrió en Ciutat Vella, y el modelo no ha dejado de crecer allí: primero llegó la casa de playa del Garraf y, después, una nueva sede en una torre modernista del Tibidabo, con jardín, piscina, wellness y restaurante propio [61].
 
-¿Por qué ahora? Madrid está saturada, conseguir mesa es difícil y una parte del público quiere privacidad, actividades propias y un lugar en el que encontrarse con los suyos [62]. *"No se trata de una moda"*, defiende Onieva [62].
+Madrid es donde el fenómeno ha pasado de excepción a tendencia. En pocos meses han abierto Club Metrópolis, en uno de los edificios más reconocibles de la Gran Vía, y Vega, en la calle Lagasca, los dos con lista de espera antes de inaugurar [60][62]. En Vega, el móvil está prohibido. Y conviven con clubes veteranos como Matador, que lleva años sumando miles de socios [63]. Ya no son aperturas aisladas. Es un patrón.
+
+Lo que buscan sus socios dice mucho del momento. En una ciudad saturada, donde conseguir mesa se ha vuelto una pequeña hazaña, el club ofrece lo que el restaurante abierto ya no puede garantizar: privacidad, un sitio propio y la certeza de encontrarse con los suyos [62]. *"No se trata de una moda"*, defiende Íñigo Onieva, uno de los fundadores de Vega [62].
 
 **Mirado desde el negocio, lo interesante no es la exclusividad. Es el modelo.**
 
