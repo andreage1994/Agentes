@@ -56,11 +56,19 @@ Ese es el tablero de 2026. Debajo hay seis movimientos que están cambiando la f
 
 El café era lo que se tomaba antes de otra cosa. Hoy es la razón para salir.
 
-España ya tiene 2.215 cafeterías de marca, un 3% más que el año anterior y el tercer año seguido de crecimiento neto. Es el séptimo mercado europeo y el sector lo considera todavía no saturado [30]. A la vez, el 83% de los consumidores pidió café en una cafetería independiente en el último año [30], y el 83% de los trabajadores desayuna en un bar o una cafetería algún día laborable [30].
+España ya tiene 2.215 cafeterías de marca, un 3% más que el año anterior y el tercer año seguido de crecimiento neto. Es el séptimo mercado europeo y el sector lo considera todavía no saturado [30]. A la vez, el 83% de los consumidores pidió café en una cafetería independiente en el último año [30], y el 83% de los trabajadores desayuna en un bar o una cafetería algún día laborable [30]. Hay demanda para todos. Lo que empieza a escasear es la diferencia.
 
-En Copenhague, April Coffee enseña hacia dónde va la parte alta: café de especialidad, conocimiento técnico explicado en la barra, un espacio pensado al detalle y café para preparar en casa, todo con la misma filosofía [33]. En Sonny, un matcha ceremonial cuesta más del doble que un espresso, con una elaboración parecida [32].
+Cada vez más sitios sirven un buen café. Por eso **la clave para seguir siendo relevante ya no está solo en la taza, sino en lo que pasa alrededor de ella**: aportar valor con experiencias nuevas y convertir el momento del café en un ritual.
 
-**TBNB TAKE.** La cafetería se está partiendo en dos: la de cadena, que gana en rapidez y consistencia, y la de especialidad, que gana en producto y criterio. La que se queda en medio, con un café correcto y nada más que contar, es la que más va a sufrir.
+Copenhague lleva tiempo haciéndolo, y de tres formas distintas.
+
+En April Coffee, el café llega a la mesa en un carro y se prepara delante del cliente. Hay menús de degustación de café, el equipo explica lo que sirve como un sumiller explicaría un vino, el espacio está pensado al detalle y el mismo café se puede comprar para prepararlo en casa. Todo responde a una misma filosofía [33].
+
+En La Cabra, el formato es una barra omakase: el cliente se sienta frente al barista y se deja llevar, como en una barra de sushi [33].
+
+En Sonny, la carta de bebida es el concepto. Matcha ceremonial, cafés y tés funcionales con colágeno, lion's mane o espirulina, cada ingrediente con su proveedor nombrado en la carta. La comida acompaña. Y el ticket lo refleja: un matcha ceremonial cuesta más del doble que un espresso, con una elaboración parecida [32].
+
+**TBNB TAKE.** La cafetería se está partiendo en dos. La de cadena gana en rapidez y consistencia. La de especialidad gana cuando convierte el café en algo que se vive, no solo en algo que se bebe. La que se queda en medio, con un café correcto y nada más que contar, es la que más va a sufrir. Para la cafetería independiente española, ritualizar el café no es un capricho estético: es la forma de que el cliente valore, y pague, todo lo que hay detrás de la taza.
 
 ### 2. Beyond the Menu — el producto como firma
 
@@ -538,7 +546,7 @@ See you in six months.
 30. TBNB research interno, *"Tendencias gastronómicas España 2026"* (oct 2026) — incluye datos de AECOC/40dB (may 2026), Noche Madrid (ago 2026), España de Noche, Barómetro HIP, Project Café España 2025, The Objective (ene 2026), CoverManager y TheFork citados en esta edición (tardeo, menú del día, no-shows, precio por franja horaria, El Campero/Garelos/Varra, comensal solo).
 31. The World's 50 Best Bars 2025.
 32. Sergio Alonso / TBNB, *"Copenhague: tendencias (observación in situ)"*, 9 oct 2026 — Sonny, Pompette, Villette, Cabin.
-33. TBNB, informes de visita propios — Atelier September, Apotek 57, Bird Uptown/Downtown, Alle Tiders, Lille Bakery, April Coffee (Copenhague, oct 2026).
+33. TBNB, informes de visita propios — Atelier September, Apotek 57, Bird Uptown/Downtown, Alle Tiders, Lille Bakery, April Coffee y La Cabra (Copenhague, oct 2026). Servicio en carro y menús de degustación de April Coffee, y barra omakase de La Cabra: observación directa de Andrea, nov 2026.
 34. Wallpaper\*, *"Circadian brews a new ritual inside Berlin's brutalist Funkhaus"* (Milly Burroughs), 2026, vía circadiantea.co, Gour-med y Clubcommission.
 35. TBNB research interno, *"Copenhague: guía de 51 sitios"*, sep 2026 — Barr, Kinyōbi, Bar Moro, Noma "12 Seasons" y Noma Projects Shop, Sonny/Kani (Kadeau), Frama, Bællevin, Juno the Bakery.
 36. FRAMA, framacph.com/blogs/projects/cabin; Highsnobiety, *"Cabin Copenhagen"*, 2026.
