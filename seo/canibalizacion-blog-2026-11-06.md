@@ -26,6 +26,12 @@ impresiones: el 48 % de todas las del sitio**.
 > en el export por páginas, y en este solo conserva 9. **Los clics de este
 > documento son, por tanto, un mínimo, no el total.** Las comparaciones entre
 > URLs (quién gana a quién en la misma búsqueda) sí son fiables.
+>
+> **Confirmado con un segundo export solo por páginas**, con las mismas
+> fechas: el total real es de **2.102 clics y 307.292 impresiones** en 12
+> meses. El export por búsqueda + página solo ve el **10,6 % de los clics**.
+> Los clics por URL de este documento salen del export por páginas, salvo
+> cuando se indica una búsqueda concreta.
 
 Las ✅/❌ marcan si se confirma o se descarta lo que planteaba el mapa
 preliminar del mismo día (hecho solo con el sitemap).
@@ -73,18 +79,44 @@ ciudad".
 
 - **"The 5 most profitable hospitality businesses in 2024": 16 URLs.** Además
   de la original existen las versiones `-2` a `-16`.
-  **Corrección:** el artículo no había desaparecido. La URL original sigue
-  recibiendo impresiones (590). El problema es que tiene 15 copias.
+  **Corrección:** el artículo no había desaparecido. Según el export por
+  páginas, la original tiene **55 clics y 6.285 impresiones**, y está en la
+  posición 3,8.
+  - Las 15 copias suman **65 clics y unas 8.300 impresiones: más que la
+    original**. Juntas, todas las versiones suman ~120 clics y ~14.600
+    impresiones, así que este es uno de los artículos más fuertes del sitio,
+    partido en 16 trozos. Es la **consolidación con más retorno de todo el
+    análisis**.
   - Cuidado: en "hospitality business ideas" la copia **`-9` está en la
     posición 1,2** y la original en la 4,5. Hay que redirigir **todas las
     copias a una sola URL**, sin borrarlas sin más.
 - **"Transitioning to specialty coffee": 5 URLs** (original y `-2` a `-4`).
-  La que de verdad tiene visibilidad es la **`-3`, con 5.821 impresiones**,
-  la 6.ª URL del sitio. En curación se estaba trabajando la `-2` (242
-  impresiones). Hay que replantear sobre cuál se trabaja.
+  La que de verdad tiene visibilidad es la **`-3`: 31 clics y 11.270
+  impresiones en 12 meses**. La `-2`, que es la que se estaba curando, tiene
+  18 clics y 3.089 impresiones; la original, 2 clics. Hay que replantear
+  sobre cuál se trabaja: **la URL que se queda debería ser la `-3`**.
+- El export por páginas saca **más familias duplicadas que no están en el
+  sitemap**:
+  - `/en/your-restaurant-generates-revenue-but-makes-no-profit/`: original
+    y de `-2` a `-5`.
+  - `/en/the-bar-method-a-proven-hospitality-consulting-framework-…/`:
+    original y de `-2` a `-4`.
+  - `/en/privacy-policy-2/`.
+  - `/en/religion-coffee-2/` a `-10/`: casi sin impresiones, solo hay que
+    limpiarlas.
 - Hay variantes con erratas que reciben impresiones:
   `/los-5-tipos-de-negocios-de-hosteleria-mais-rentables-en-2024/`
   ("mais") y `/los-5-tipos-de-negocios-de-hosteleria-mas-rentables/`.
+
+### ⚠️ Fuera de la canibalización, pero urgente (para Sergio, IT)
+
+El export por páginas muestra que Google tiene indexada **la página de
+acceso a WordPress** (`/wp-login.php?itsec-hb-token=…`), con 88 + 31
+impresiones. Ese *token* es lo que usa el plugin de seguridad para esconder
+la URL de acceso. Si sale en Google, **ya no está escondida**. Hay que:
+1. cambiar el token en el plugin de seguridad;
+2. confirmar que la página de login lleva `noindex`;
+3. pedir la retirada de la URL en Search Console (**Removals**).
 
 ### 🔴 C. Fichas de proyecto en ES y EN compitiendo por la misma búsqueda de marca
 
