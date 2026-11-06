@@ -14,13 +14,18 @@ al menos 10 impresiones).
 Con ese criterio salen **175 búsquedas canibalizadas, que suman 66.466
 impresiones: el 48 % de todas las del sitio**.
 
-> ⚠️ **Hay que confirmar el rango de fechas del export.** El total de clics
-> (222) es muy bajo comparado con el export de Páginas del 28 de octubre
-> (161 clics solo para el artículo de rentabilidad en 6 meses; en este, 9).
-> Parte de la diferencia se explica porque Google oculta las búsquedas poco
-> frecuentes cuando se agrupa por consulta. Aun así, para leer bien los clics
-> hace falta saber qué fechas se eligieron. Las **comparaciones entre URLs**
-> de este documento no dependen de eso y son válidas.
+> **Rango confirmado por Andrea (captura del complemento):** del
+> **2025-11-04 al 2026-11-03** (12 meses). Propiedad
+> `sc-domain:thebarnbarconsulting.com`, tipo Web, agrupado por Query + Page,
+> sin filtros.
+>
+> **Por qué solo salen 222 clics:** cuando se agrupa por búsqueda, Google
+> **oculta las búsquedas poco frecuentes** ("consultas anonimizadas"). En un
+> sitio con mucho long tail, como el blog, eso hace desaparecer la mayoría de
+> los clics. Ejemplo: el artículo de rentabilidad tenía 161 clics en 6 meses
+> en el export por páginas, y en este solo conserva 9. **Los clics de este
+> documento son, por tanto, un mínimo, no el total.** Las comparaciones entre
+> URLs (quién gana a quién en la misma búsqueda) sí son fiables.
 
 Las ✅/❌ marcan si se confirma o se descarta lo que planteaba el mapa
 preliminar del mismo día (hecho solo con el sitemap).
@@ -173,7 +178,7 @@ quitarlo de la guía hasta ver que el nuevo posiciona.
 
 ## 4. Siguientes pasos
 
-1. Andrea: confirmar el **rango de fechas** del export.
+1. ~~Andrea: confirmar el rango de fechas del export~~ — hecho (12 meses, 2025-11-04 → 2026-11-03).
 2. `seo-arquitectura-web`: lista de redirecciones para B, E, F y H, y
    `hreflang` para C.
 3. `seo-estrategia-senior`: decidir qué URL va con cada búsqueda en A.
