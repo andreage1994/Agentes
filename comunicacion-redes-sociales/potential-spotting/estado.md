@@ -162,7 +162,7 @@ publicado; todo es canal del negocio):**
 Regla de la casa: esto es lista de candidatos y ganchos, no emails
 terminados. Sergio personaliza `email-contacto-cafe.md` y nada se envía
 sin que Andrea o Sergio lo aprueben. Registradas el 2026-11-09 en el
-Drive "Potential spotting" → pestaña "BASE DE DATOS", filas 12-16 (fecha
+Drive "Potential spotting" → pestaña "BASE DE DATOS" (ahora filas 11-15; fecha
 "Noviembre 2026", estado "Pendiente").
 
 ### Ampliación a 10 — cafeterías y brunch (2026-11-09, mismo día)
@@ -177,25 +177,31 @@ Coffee por tamaño; sugirió Bloome by Sasha como perfil).
 |---|---|---|---|
 | Amauta Coffee (Travessera de Gràcia, Sant Gervasi; Carme 53, Badalona; tueste en Montgat) | Inspiración | Ferran Torrell, fundador (dic. 2022; antes 7 años en Perú, también Andean Collective) | Que después de siete años en Perú hayáis montado aquí un proyecto que trabaja directamente con productores peruanos y lo cuenta con total transparencia nos parece una forma muy bonita de entender el café. |
 | Superauto (Rosselló 182, Eixample; antes Auto Rosellón) | Oportunidad | Ronit Stern (chef) y Rafael Campos (socio, vinos) — Grupo La Balabusta | Cerrar Auto Rosellón después de diez años funcionando para empezar de cero con Superauto, con brunch, comidas y cenas bajo el mismo techo, nos parece de una valentía que no se ve a menudo. |
-| La Papa (Aribau 92 y Pau Claris 190) | Oportunidad | Agustina Prinsich y Hugo Andrelo | Que en tan poco tiempo hayáis pasado de un local en Aribau a abrir un segundo, con un diseño tan cuidado y una carta tan vuestra, demuestra que habéis creado algo con muchísima identidad. |
+| La Papa (Aribau 92 y Pau Claris 190) + T.44 Taulat 44 (Poblenou) | Oportunidad | Agustina Prinsich (estilista) y Hugo Andrelo (arquitecto), dueños de los tres locales | Que en tan poco tiempo hayáis abierto La Papa en Aribau y en Pau Claris y Taulat 44 en Poblenou, cada uno con un diseño tan cuidado y sin perder vuestro sello, demuestra que habéis creado algo con muchísima identidad. |
 | Bloome by Sasha (Av. Gaudí 45, Pg. de Sant Joan 80, Via Laietana 45; temporada en Menorca) | Oportunidad | Sasha, fundador/a (apellido no publicado) | Haber hecho crecer un brunch 100% sin gluten hasta tres locales en Barcelona, y un espacio de temporada en Menorca, nos parece la prueba de que un concepto claro y pensado para su público funciona. |
-| Hidden Coffee Roasters (Constança 14, Les Corts; el Born; tueste en Poblenou) | Inspiración | Carlos Moral, cofundador (familia de Mare Terra, importadora desde 1979) | Habéis convertido una tradición familiar de más de cuarenta años en el café en un proyecto propio, con tueste en Poblenou y cafeterías de barrio en Les Corts y el Born, y eso nos parece muy inspirador. |
+| Casa Taos (Poblenou, bajos de Nest City Lab; Pere IV 100 / Àlaba 100) — propuesto por Andrea | Oportunidad | Por identificar (equipo de Vida Taos, tienda online de mobiliario vintage) | Nos encanta cómo habéis juntado en un mismo espacio de Poblenou café de especialidad con tostadores invitados, cocina de temporada y el mobiliario vintage de Vida Taos; es un concepto con muchísima personalidad. |
+| Otsu (Poblenou) — propuesto por Andrea | Inspiración | Por identificar | Que cada semana os deis permiso para inventar un postre nuevo, del helado inspirado en el David de Miguel Ángel al del eclipse, nos parece una forma muy creativa de conseguir que la gente quiera volver. |
 
 **Contacto:**
 - Amauta: IG del café sin confirmar; LinkedIn de Ferran Torrell (ponente
   en Alimentaria y HostelCo).
 - Superauto: tel. 636 69 68 05 (Neo2).
-- La Papa: IG @lapapabarcelona.
+- La Papa / T.44: IG @lapapabarcelona y @taulat44 · tel. T.44 696 29 51 44.
 - Bloome by Sasha: bloomebysasha@gmail.com · tel. +34 634 144 735 · IG
   @bloomebysasha (web bloomebysasha.es).
-- Hidden: IG sin confirmar; LinkedIn de Carlos Moral.
+- Casa Taos: IG posible @casa.taos (sin confirmar). No se publican los
+  dueños en ninguna fuente: preguntar en el local o por Instagram.
+- Otsu: IG @otsu.bcn. Tampoco se publican los dueños (Publimetro, sept.
+  2026, solo cita "el equipo de Otsu").
 
 **Salvedades:** La Papa — la segunda dirección (Pau Claris 190) sale de
-Time Out; otra ficha no la confirma. Hidden Coffee — tres sedes, perfil
-algo mayor que el resto; si se considera "demasiado grande" como Nomad,
-sustituir por un candidato de reserva.
+Time Out; otra ficha no la confirma. T.44 se descubrió al buscarlo como
+candidato aparte (lo propuso Andrea): es de los mismos dueños que La
+Papa, así que va en la misma fila para no duplicar el contacto.
 
 **Descartados por el camino:** Nomad Coffee (Andrea: demasiado grande);
+Hidden Coffee Roasters (Carlos Moral; tres sedes, perfil grande — sale
+al entrar Casa Taos, queda en reserva);
 Right Side Coffee (solo tostador mayorista, sin cafetería propia); Jaç
 Hi-Fi (ya contactado en la base de datos); Kruda Coffee, A Little Bud y
 Little Fern (no se encuentra a los propietarios).
@@ -206,8 +212,9 @@ Bitxo Taverna (Jordi Bernús y Jordi Devesa, Sants), Maíz Maíz (Nicolás
 de la Vega, Sant Antoni), La Palma de Bellafila (Judit Giménez y Albert
 Rial, Gòtic) y Pompa (Carles Pérez de Rozas, hermana de Berbena, Gràcia).
 
-Registradas en el Drive, pestaña "BASE DE DATOS", filas 17-21 (se
-insertaron 5 filas para no pisar el bloque "MENSAJE").
+Registro final en el Drive, pestaña "BASE DE DATOS": filas 11-21, 11
+contactos de noviembre (alguien borró la fila vacía 11 mientras se
+escribía y todo subió una posición; se reordenó y se verificó).
 
 ## Situación actual (histórico — modelo en pausa, ver arriba)
 
