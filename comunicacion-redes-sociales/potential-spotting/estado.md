@@ -165,6 +165,50 @@ sin que Andrea o Sergio lo aprueben. Registradas el 2026-11-09 en el
 Drive "Potential spotting" → pestaña "BASE DE DATOS", filas 12-16 (fecha
 "Noviembre 2026", estado "Pendiente").
 
+### Ampliación a 10 — cafeterías y brunch (2026-11-09, mismo día)
+
+Andrea reporta que los 5 de la primera tanda (octubre) ya se contactaron
+y **ninguno ha respondido**; pide subir el volumen a ~10 por tanda. Para
+estos 5 extra pide **cafeterías y sitios de brunch**, y que sean
+proyectos medianos/comerciales, no marcas muy grandes (descartó Nomad
+Coffee por tamaño; sugirió Bloome by Sasha como perfil).
+
+| Local | Motivo | Propietario/s | Nota de gancho |
+|---|---|---|---|
+| Amauta Coffee (Travessera de Gràcia, Sant Gervasi; Carme 53, Badalona; tueste en Montgat) | Inspiración | Ferran Torrell, fundador (dic. 2022; antes 7 años en Perú, también Andean Collective) | Que después de siete años en Perú hayáis montado aquí un proyecto que trabaja directamente con productores peruanos y lo cuenta con total transparencia nos parece una forma muy bonita de entender el café. |
+| Superauto (Rosselló 182, Eixample; antes Auto Rosellón) | Oportunidad | Ronit Stern (chef) y Rafael Campos (socio, vinos) — Grupo La Balabusta | Cerrar Auto Rosellón después de diez años funcionando para empezar de cero con Superauto, con brunch, comidas y cenas bajo el mismo techo, nos parece de una valentía que no se ve a menudo. |
+| La Papa (Aribau 92 y Pau Claris 190) | Oportunidad | Agustina Prinsich y Hugo Andrelo | Que en tan poco tiempo hayáis pasado de un local en Aribau a abrir un segundo, con un diseño tan cuidado y una carta tan vuestra, demuestra que habéis creado algo con muchísima identidad. |
+| Bloome by Sasha (Av. Gaudí 45, Pg. de Sant Joan 80, Via Laietana 45; temporada en Menorca) | Oportunidad | Sasha, fundador/a (apellido no publicado) | Haber hecho crecer un brunch 100% sin gluten hasta tres locales en Barcelona, y un espacio de temporada en Menorca, nos parece la prueba de que un concepto claro y pensado para su público funciona. |
+| Hidden Coffee Roasters (Constança 14, Les Corts; el Born; tueste en Poblenou) | Inspiración | Carlos Moral, cofundador (familia de Mare Terra, importadora desde 1979) | Habéis convertido una tradición familiar de más de cuarenta años en el café en un proyecto propio, con tueste en Poblenou y cafeterías de barrio en Les Corts y el Born, y eso nos parece muy inspirador. |
+
+**Contacto:**
+- Amauta: IG del café sin confirmar; LinkedIn de Ferran Torrell (ponente
+  en Alimentaria y HostelCo).
+- Superauto: tel. 636 69 68 05 (Neo2).
+- La Papa: IG @lapapabarcelona.
+- Bloome by Sasha: bloomebysasha@gmail.com · tel. +34 634 144 735 · IG
+  @bloomebysasha (web bloomebysasha.es).
+- Hidden: IG sin confirmar; LinkedIn de Carlos Moral.
+
+**Salvedades:** La Papa — la segunda dirección (Pau Claris 190) sale de
+Time Out; otra ficha no la confirma. Hidden Coffee — tres sedes, perfil
+algo mayor que el resto; si se considera "demasiado grande" como Nomad,
+sustituir por un candidato de reserva.
+
+**Descartados por el camino:** Nomad Coffee (Andrea: demasiado grande);
+Right Side Coffee (solo tostador mayorista, sin cafetería propia); Jaç
+Hi-Fi (ya contactado en la base de datos); Kruda Coffee, A Little Bud y
+Little Fern (no se encuentra a los propietarios).
+
+**En reserva para próximas tandas (restaurantes, con gancho ya
+verificado):** Romo (Jorge Sastre y Rafa Panatieri, Sartoria Panatieri),
+Bitxo Taverna (Jordi Bernús y Jordi Devesa, Sants), Maíz Maíz (Nicolás
+de la Vega, Sant Antoni), La Palma de Bellafila (Judit Giménez y Albert
+Rial, Gòtic) y Pompa (Carles Pérez de Rozas, hermana de Berbena, Gràcia).
+
+Registradas en el Drive, pestaña "BASE DE DATOS", filas 17-21 (se
+insertaron 5 filas para no pisar el bloque "MENSAJE").
+
 ## Situación actual (histórico — modelo en pausa, ver arriba)
 
 Proyecto y equipo creados. Documentación de partida lista:

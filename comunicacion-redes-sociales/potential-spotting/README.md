@@ -41,7 +41,7 @@ ventas"). Ver la nota sobre esto en `plantilla-notas-desde-la-barra.md`.
 
 - `README.md` — este documento.
 - `SOP.md` — qué es Potential Spotting para TBNB, dónde vive dentro de la
-  empresa, cadencia (1º y 3º lunes de mes, 3-5 contactos por tanda), y el
+  empresa, cadencia (1º y 3º lunes de mes, hasta 10 contactos por tanda), y el
   ciclo completo paso a paso.
 - `parametros-filtro.md` — los 4 filtros que definen qué locales encajan
   como oportunidad de digital spotting, y cómo clasificar su "tipo de

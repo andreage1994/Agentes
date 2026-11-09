@@ -35,9 +35,11 @@ los emails de contacto, en su rol de fundador.
 ## Cadencia
 
 - Potential Spotting se ejecuta el primer y el tercer lunes de cada mes.
-- En cada sesión se trabajan 3-5 contactos relevantes nuevos.
-- Ritmo mensual resultante: entre 6 y 10 contactos nuevos al mes (2 tandas
-  de 3-5).
+- En cada sesión se trabajan hasta 10 contactos relevantes nuevos
+  (subido de 3-5 a petición de Andrea el 2026-11-09, tras una primera
+  tanda de 5 sin ninguna respuesta).
+- Ritmo mensual resultante: hasta 20 contactos nuevos al mes (2 tandas
+  de hasta 10).
 
 ## Perfil de contacto
 
@@ -63,12 +65,12 @@ de "inspiración".
 
 ## El ciclo, paso a paso
 
-1. **Antes del lunes de sesión** — Andrea identifica 3-5 candidatos con un
+1. **Antes del lunes de sesión** — Andrea identifica hasta 10 candidatos con un
    gancho genuino y verificable (algo concreto y positivo sobre su proyecto
    o trabajo — ver `email-contacto-cafe.md` para qué cuenta como gancho
    válido) y los añade a la base de datos.
 2. **El lunes de sesión** (1º o 3º del mes) — Sergio redacta y envía los
-   3-5 emails de la tanda, personalizando cada uno a partir de la plantilla.
+   emails de la tanda (hasta 10), personalizando cada uno a partir de la plantilla.
 3. **Registro inmediato** — cada contacto queda marcado en la base de datos
    (ver abajo) con fecha de envío y estado "Enviado".
 4. **Seguimiento** — si responde, se agenda el café y se actualiza el
