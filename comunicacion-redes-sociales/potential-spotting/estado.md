@@ -161,8 +161,9 @@ publicado; todo es canal del negocio):**
 
 Regla de la casa: esto es lista de candidatos y ganchos, no emails
 terminados. Sergio personaliza `email-contacto-cafe.md` y nada se envía
-sin que Andrea o Sergio lo aprueben. Pendiente: registrar las 5 filas en
-el Drive "Potential spotting" → pestaña "Base datos".
+sin que Andrea o Sergio lo aprueben. Registradas el 2026-11-09 en el
+Drive "Potential spotting" → pestaña "BASE DE DATOS", filas 12-16 (fecha
+"Noviembre 2026", estado "Pendiente").
 
 ## Situación actual (histórico — modelo en pausa, ver arriba)
 
