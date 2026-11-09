@@ -109,6 +109,61 @@ personalizar el email de `email-contacto-cafe.md`. Recuerda la regla de
 la casa: esto es lista de candidatos y ganchos, no un email terminado —
 nada se envía sin que Andrea o Sergio lo revisen y aprueben antes.
 
+## Segunda tanda del nuevo modelo — café de contacto (2026-11-09)
+
+Andrea pidió otro cribado de 5 locales (Barcelona) para proponer un café,
+identificando propietario y vía de contacto. 2 los trajo Andrea de visita
+real esa semana; 3 los investigó Claude por WebSearch (prensa y guías
+verificables).
+
+**Lo que Andrea vio en sala (motivo interno, NO va en el email):**
+- Barra Oso — sitio con mucho atractivo, pero servicio pobre y
+  descoordinado durante su cena.
+- Bodega Murri — servicio descoordinado; oportunidad de venta perdida en
+  mesa.
+Ninguna de estas observaciones se menciona en el contacto: el gancho es
+siempre positivo (`SOP.md`, motivo "oportunidad").
+
+| Local | Quién lo trajo | Motivo | Propietario/s | Nota de gancho |
+|---|---|---|---|---|
+| Barra Oso (Muntaner 248, Sant Gervasi) | Andrea (cena) | Oportunidad | Òscar Álvarez Moreno, chef y socio fundador (con socios no nombrados en prensa). Equipo: Neri Comino (jefe de cocina), Jaime Derqui (sala) | Que después de Mesa Lobo y de llenar Trozo de Oso en Begur en un solo verano, hayáis apostado en Barra Oso por cocinarlo todo al día —y por que un plato se acabe cuando se acaba— nos parece una forma muy honesta de entender una barra. |
+| Bodega Murri (Pl. de Can Rosés 2, Les Corts) | Andrea (visita) | Oportunidad | Marta y Raquel (apellidos no publicados) | Habéis convertido una plaza tranquila de Les Corts en punto de encuentro —mercados, tardes de "Vermurri" con música, presentaciones de viticultores— y eso, para un bar de vinos naturales de barrio, es construir comunidad de verdad. |
+| Bar Gros (Provença 202, Eixample) | Claude (WebSearch) | Oportunidad | Jordi Millán y Sara Martín (Grupo Angelita: Casa Angelita, Camarote, Bocarte, Cal Pesca) | Llevar al centro el espíritu de Casa Angelita sin dejar de ser una empresa familiar —y con la idea de que un chaval pueda comer bien gastándose 20 euros— nos parece justo lo que le falta a muchas aperturas del Eixample. |
+| Piedra (Amigó 33, Sant Gervasi) | Claude (WebSearch) | Oportunidad | Soledad Lema (cocina) y Gonzalo Francisco San Martín (sumiller y sala) | Que después de pasar por Batea y Pompa hayáis abierto vuestra propia casa en Amigó, con más de 400 referencias y una cocina argentina que se apoya en el producto catalán, nos parece un proyecto con muchísima personalidad. |
+| Mineral (Mallorca 166, Eixample) | Claude (WebSearch) | Inspiración | Oliver Peña (chef, ex-Teatro) y Cristina Losada (sumiller, ex-directora de sala de Enigma) | Nos encantó leer que detrás de Mineral no hay inversores, solo Cristina y Oliver, y que hayáis elegido por convicción un restaurante pequeño, con la barra mirando a la cocina y 25 vinos por copa. |
+
+**Contacto — vía encontrada (ningún email personal de propietario
+publicado; todo es canal del negocio):**
+- Barra Oso: reservas@barraoso.com · IG @barraoso_ · tel. 934 097 127
+  (web barraoso.com). Como Andrea cenó allí, también se puede pedir el
+  contacto de Òscar en persona.
+- Bodega Murri: IG @bodega.murri (única vía pública encontrada; sin
+  email ni teléfono publicados).
+- Bar Gros: tel. 937 55 70 31 (Time Out, sept. 2026). Sin web ni IG
+  confirmados para Bar Gros ni para Grupo Angelita.
+- Piedra: IG @piedrabcn · tel. +34 646 80 37 98 · web piedrabcn.com.
+- Mineral: tel. 680 56 20 95 (Time Out, jul. 2026). Sin email ni IG
+  confirmados.
+
+**Salvedades a revisar antes de enviar:**
+- Bar Gros abrió en septiembre de 2026 — lleva solo dos meses; valorar
+  si es pronto para proponer el café.
+- Piedra: el paso previo por Batea y Pompa lo cuenta The Infatuation
+  (nov. 2026), que no nombra a la pareja; los nombres salen de
+  Barcelona Inspira (oct. 2026). Encajan (pareja argentina, cocina y
+  sala), pero no hay una única fuente que diga las dos cosas.
+- Mineral tiene muy buena prensa (Ara: "la mejor noticia gastronómica
+  del año") — por eso va como "inspiración", no como "oportunidad".
+- **Descartados en esta tanda:** Bar Rebrots (Sants) — citado en un
+  listado de aperturas de verano, pero no se ha podido confirmar que
+  exista ni encontrar ficha propia. Siguen en reserva, de la tanda
+  anterior, Bellafila, La Esquinica y Mina.
+
+Regla de la casa: esto es lista de candidatos y ganchos, no emails
+terminados. Sergio personaliza `email-contacto-cafe.md` y nada se envía
+sin que Andrea o Sergio lo aprueben. Pendiente: registrar las 5 filas en
+el Drive "Potential spotting" → pestaña "Base datos".
+
 ## Situación actual (histórico — modelo en pausa, ver arriba)
 
 Proyecto y equipo creados. Documentación de partida lista:
