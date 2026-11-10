@@ -178,7 +178,9 @@ Durante décadas, el protagonista del restaurante estuvo en la cocina. El chef f
 
 Eso ha cambiado. Hoy el cliente quiere que le cuenten: de dónde viene el producto, por qué ese vino y no otro, qué pediría quien le está atendiendo. Quiere que se acuerden de él, de lo que tomó la última vez o de lo que no puede comer. Quiere sentirse atendido como una persona, no como el número de una mesa.
 
-Los datos lo confirman. En España, el 93% de los clientes confía más en la recomendación de un camarero que en una sugerencia automática, y el 82% volvería más a menudo a un sitio donde recuerden sus preferencias o sus restricciones alimentarias. El 77% cree que un restaurante pierde su esencia sin contacto humano [64]. Incluso la Gen Z, la generación de las apps, prefiere el servicio tradicional en mesa en casi un 60% de los casos [57]. Y el servicio es, junto con la comida, lo que más aparece en las reseñas que hoy deciden dónde se reserva [65].
+Los datos lo confirman. En España, el 93% de los clientes confía más en la recomendación de un camarero que en una sugerencia automática, y el 82% volvería más a menudo a un sitio donde recuerden sus preferencias o sus restricciones alimentarias. El 77% cree que un restaurante pierde su esencia sin contacto humano [64]. Incluso la Gen Z, la generación de las apps, prefiere el servicio tradicional en mesa en casi un 60% de los casos [57]. Y el servicio es, junto con la comida, lo que más aparece en las reseñas que hoy deciden dónde se reserva [65]. El 86% prefiere el servicio en mesa aunque tenga que esperar más, y el 80% considera importante un trato amable, atento y rápido [73].
+
+Lo vemos también fuera de las encuestas. Cuando preguntamos a alguien cuál es su restaurante favorito y por qué, la mayoría de las veces la respuesta no es un plato. Es cómo le trataron y el recuerdo que se llevó.
 
 **Lo que antes era un valor añadido, ahora se da por hecho.** La amabilidad, el trato cercano y la recomendación honesta ya no sorprenden: se esperan. Y cuando faltan, se pagan. Casi seis de cada diez clientes han renunciado alguna vez a un postre o a una segunda copa por no tener que llamar al camarero, y el 84% se frustra cuando tiene que ir detrás de él para pedir o para pagar [64]. Cada uno de esos postres es ticket que se queda sin cobrar.
 
@@ -205,115 +207,55 @@ La cercanía no se consigue con una formación de un día. Se construye con un e
 ## 03. THE SHIFTS
 *Lo que está dejando de ser como antes.*
 
-Los seis movimientos de esta sección no son tendencias sueltas: son la misma pregunta del Opening — sobra inspiración, falta sistema — vista desde seis ángulos distintos. Un concepto que crece sin rediseñar a la vez su propio marco (Shift 1). Una base de clientes fiel cuyo margen se puede erosionar sin que salte ninguna alarma, si nadie diseña la carta para retenerlo (Shift 2). Una viralidad que llega antes que la estructura de costes capaz de sostenerla (Shift 3). Una marca que se confunde con la causa del éxito cuando en realidad es su síntoma (Shift 4). Una tecnología que se adopta más rápido de lo que se gobierna (Shift 5). Y un chef con la reputación más alta posible, rediseñando desde dentro el modelo de negocio que esa misma reputación había heredado (Shift 6). Seis movimientos distintos, un solo patrón de fondo.
+The Big Picture cuenta qué espera hoy el cliente. Esta sección cuenta lo que pasa al otro lado de la barra: cómo se está reorganizando el negocio para responder a eso. De dónde salen los ingresos, cuántas horas trabaja un local, qué carta es capaz de sostener un equipo, cómo se diseña un trabajo que la gente quiera hacer y qué números hay que mirar antes de firmar nada.
 
-### Shift 1 — El pan que dejó de poder llamarse pan
+Son cinco movimientos, y todos responden a la misma pregunta: **¿qué modelo de negocio sostiene hoy un concepto que funciona, y cuál ha dejado de hacerlo?**
 
-**WHAT WE SEE.** La panadería tradicional francesa se disuelve en un formato híbrido de permanencia: desayuno, brunch, servicio en mesa, eventos — hasta sesiones de DJ dentro de la propia panadería, un fenómeno que ya tiene nombre, "bakery rave" [7]. El caso más vívido: Mamatte (Amiens, Longueau, Lille, Reims) ha dejado de amasar pan en tienda y, por tanto, ya no puede llamarse legalmente "boulangerie". En 2024 eliminó los roscones de Navidad de su carta para enfocarse en snacking.
+### Shift 1 — Más horas de venta sobre el mismo alquiler
 
-**WHY NOW.** El margen ya no está en el pan. Está en el snacking y en la ocupación de mesa.
+**WHAT WE SEE.** El 8 de enero de 2026 abrió en Plaza de España, dentro del edificio que los madrileños llaman "la ballena", el Café Cervantes. Abre todos los días de ocho de la mañana a dos de la madrugada, con la cocina funcionando sin pausa de mediodía a la una: el mismo espacio sirve un café de 2,80 € a primera hora y un menú de 35 € por la noche [72]. No es una rareza. Es la forma en que cada vez más locales están resolviendo su cuenta de resultados: dejar de vivir de dos servicios y repartir el día en momentos distintos.
 
-**THE SIGNALS.** En los operadores más híbridos, el pan representa solo el 5-15% de la actividad, frente a más del 50% del snacking [7]. Mamatte no hizo este cambio de golpe: lo construyó apertura a apertura, añadiendo una capa de servicio cada vez que abría un nuevo local — primero snacking elaborado, después brunch, después eventos.
+**WHY NOW.** Porque el cliente ya ha cambiado de horario. La mitad de los españoles ha recortado el ocio nocturno y lo ha pasado al día, el 48% sale más a comer al mediodía que a cenar y el 30% adelanta la hora de comer o de cenar [73]. El 58% participa en el tardeo [73], que en los locales de Madrid que lo ofrecen ya supone el 26,3% de la facturación semanal [30]. Y al otro lado, los costes que no se mueven siguen subiendo: el alquiler, la energía y el equipo se pagan igual con el local lleno que vacío.
 
-**WHAT IT MEANS.** Un concepto puede evolucionar más rápido que el nombre, el marco legal y la identidad que lo contienen.
+**THE SIGNALS.**
+- **Un local, varios momentos.** En Copenhague, Apollo Bar, en Nyhavn, es café de día y wine bar de noche, sin perder coherencia entre una cosa y otra [35]. En Madrid, Diurno abrió en Chueca una barra pensada para el afterwork: vermut, vinos de Madrid y una carta con forma de casete de los ochenta, para que la tarde tenga su propio motivo para entrar [74].
+- **El día como negocio principal.** Las panaderías-cafetería con obrador crecen en red con tiendas pequeñas y abiertas desde primera hora: 365 Obrador, en Barcelona, se ha marcado un objetivo de entre 20 y 25 aperturas al año [30].
+- **El precio como herramienta de franja.** El 53% de los españoles iría en horarios menos concurridos si eso le supone un mejor precio [73]. La hora valle deja de ser un problema y pasa a ser una oferta.
 
-**TBNB TAKE.** Esto no es un problema de panaderías. Es la misma historia que abre este informe, en miniatura: sobra inspiración para evolucionar un concepto — lo que falta es quien rediseñe el sistema que lo sostiene a la misma velocidad: nombre, equipo, marco legal, narrativa. Mamatte lo hizo bien precisamente porque el cambio fue gradual y con intención: cada apertura ajustaba la operación real antes de que el discurso tuviera que ponerse al día. No todas las categorías que se rebautizan tienen esa suerte. WeWork es el contraejemplo que conviene recordar aquí: en su folleto de salida a bolsa de 2019 usó la palabra "tecnología" 110 veces y se presentó como empresa de "comunidad", no como lo que operativamente era — una inmobiliaria de subarriendo a largo plazo revendida como espacio flexible a corto plazo [8]. Barry Sternlicht (Starwood Capital) lo resumió sin rodeos: *"si lo hubieras posicionado como empresa inmobiliaria, no valdría esto [...] lo disfrazó de comunidad, y eso lo convirtió en una jugada tecnológica"* [9]. La narrativa se desplomó en cuanto los inversores miraron los números reales — 1.600 millones de dólares de pérdidas sobre 1.800 millones de ingresos — y la salida a bolsa nunca llegó [8]. Mamatte y WeWork son el mismo movimiento — una categoría se rebautiza en algo más amplio — con resultados opuestos. La diferencia nunca es el relato. Es si el sistema de operación cambió de verdad antes de cambiar el discurso.
+**WHAT IT MEANS.** El local deja de ser un sitio con dos picos de trabajo y largas horas muertas en medio. Pasa a ser un espacio que cambia de función a lo largo del día. Cada franja que se activa reparte el coste fijo entre más ventas. Pero también cambia todo lo de dentro: la mise en place, los turnos, la carta, la luz y hasta la música tienen que funcionar para tres momentos en lugar de dos.
 
-**WHAT TO WATCH.** Si aparece un nombre de categoría nuevo para este híbrido panadería-espacio de vida en los próximos 6 meses.
+**TBNB TAKE.** Abrir más horas no es lo mismo que vender más horas. Cada franja nueva tiene que pagar lo que cuesta: el turno extra, la energía, la producción y la merma de lo que no se vende. Una tarde que factura poco no diluye el alquiler. Solo añade trabajo. Las franjas que funcionan tienen tres cosas: una oferta propia (no la carta de la cena servida antes de hora), un cliente que ya está ahí a esa hora y un equipo organizado para no tener a todo el mundo todo el día. Y hay un riesgo que se ve poco: el local que intenta serlo todo, café, comida, tardeo y copa, y acaba sin ser nada concreto. La franja nueva tiene que sumar a la identidad del sitio, no diluirla. Es TREND, porque el cambio de horario del cliente es estructural. Pero solo es rentable cuando se diseña franja a franja, con números.
 
-**HOW TO TAKE ADVANTAGE.** Cualquier negocio que esté "añadiendo capas" a su concepto — brunch a un café, eventos a una coctelería — debería preguntarse primero si el nombre y la narrativa de marca todavía describen lo que el negocio realmente es, o si ya han dejado de hacerlo sin que nadie se haya dado cuenta.
+**WHAT TO WATCH.** Si en los próximos seis meses más locales empiezan a publicar precios distintos según la hora, y si el tardeo pasa de Madrid a Barcelona con la misma fuerza.
 
----
-
-### Shift 2 — La lealtad aguanta más que el ticket medio, y eso cambia dónde hay que pelear
-
-**WHAT WE SEE.** Cuando el cliente recorta gasto, no cambia de restaurante. Cambia cómo pide dentro de él.
-
-**WHY NOW.** Incertidumbre económica prolongada, sumada a la fatiga de precio que ya documentamos en el Opening: en España, los precios de restaurantes suben al doble que el IPC general.
-
-**THE SIGNALS.** De los consumidores que planean reducir gasto en restauración, el 50% usa más promociones, el 45% pide menos artículos y el 40% elige opciones de carta más baratas; solo el 32% cambia directamente de restaurante [4]. La fidelidad al local no decae — lo que decae, sin que salte ninguna alarma de fuga de clientes, es cuánto deja cada visita.
-
-**WHAT IT MEANS.** El riesgo real no es la fuga de clientes. Es la erosión silenciosa del ticket dentro de la base ya fiel.
-
-**TBNB TAKE.** La mayoría de negocios optimiza su marketing para no perder clientes. El verdadero campo de batalla de 2026 es diseñar la carta y el pricing para que ese cliente fiel, cuando decide gastar menos, siga dejando el margen que el negocio necesita. Eso no es fidelización de marca. Es ingeniería de sistema — carta, precio y ración trabajando juntos. Otra forma de decir lo mismo que el resto de esta edición: aquí no falta demanda ni falta fidelidad, falta diseñarlas como sistema antes de que el margen se vaya erosionando solo.
-
-**WHAT TO WATCH.** Si la brecha entre "frecuencia estable" y "ticket medio cayendo" se amplía en el próximo semestre.
-
-**HOW TO TAKE ADVANTAGE.** Auditar qué pasa en la cuenta de resultados si el 30% de la base fiel empieza a pedir "la opción barata" del menú en lugar de abandonar. Muchos modelos de carta no sobreviven a ese escenario con el margen intacto.
+**HOW TO TAKE ADVANTAGE.** Antes de ampliar horario, sacar la facturación y el coste por franja de los últimos tres meses. Identificar la franja más débil y preguntarse qué cliente ya pasa por delante a esa hora y qué necesitaría para entrar. Diseñar para él una oferta corta y propia, con su escandallo, y probarla un trimestre antes de cambiar turnos o carta.
 
 ---
 
-### Shift 3 — Las tendencias atraen clientes, los sistemas retienen el margen
+### Shift 2 — Menos carta, más sistema
 
-**WHAT WE SEE.** El mercado premia la visibilidad viral más rápido de lo que un negocio puede construir un sistema de costes y operación capaz de sostenerla.
-
-**WHY NOW.** Ciclos de tendencia cada vez más cortos y redes sociales como motor principal de descubrimiento. El 41% de las recomendaciones de restaurantes que da una IA proceden hoy de plataformas de listado como DoorDash, por delante de la web propia del negocio [10] — la mayoría de clientes ya no descubre un restaurante por lo que el propio negocio cuenta de sí mismo, lo descubre por cómo lo describe un tercero que no tiene ningún incentivo en que ese negocio sobreviva a largo plazo.
-
-**THE SIGNALS.** En Francia, una ola de marcas de pollo frito nacidas en TikTok (Tasty Crousty, Krousty Sabaïdi, Chikin Bang, Chick Chill) colonizó dark kitchens y abrió cientos de locales en apenas unos meses [2] — en el mismo mercado donde los cierres de restauración rápida subieron un 19% en un trimestre. Mientras tanto, los operadores con los mejores ratios estructurales del mercado francés no son los más virales: son las pizzerías napolitanas auténticas y los bares de pasta artesanal, con un food cost del 24-30% y un margen bruto del 70-76%, gracias a menos referencias, ingredientes menos volátiles y recetas más fáciles de estandarizar [2]. El mismo mecanismo, con cifras todavía más brutales, ya destruyó un mercado entero fuera de la hostelería: en el mercado de reventa de sneakers, el retorno medio de precio de los lanzamientos más hypeados pasó de +23% en 2021 a -7% en 2022, en cuanto Nike y Adidas inundaron el mercado persiguiendo ingresos trimestrales y mataron la escasez que sostenía el hype [11]. No es la misma industria, pero es exactamente el mismo mecanismo: el éxito de una idea atrae la oferta que destruye la condición que la hacía valiosa — escasez en un caso, estructura de costes en el otro.
-
-**WHAT IT MEANS.** Ser viral y ser viable son dos pruebas distintas, y miden cosas distintas: la primera mide cuánta gente quiere probar un concepto esta semana; la segunda, si el food cost, el proveedor y el equipo aguantan ese mismo volumen dentro de seis meses. La segunda es la que de verdad decide quién sigue abierto en doce meses.
-
-**TBNB TAKE.** Esta es la sección donde este informe tiene que ser más incómodo consigo mismo. El resto de "Concept Watch" y "Food & Drink" de esta misma edición documenta ideas atractivas. Si terminas esas secciones sin preguntarte cuáles de esas ideas pasarían un análisis de food cost antes de copiarlas, no has leído bien este informe. Y nos atrevemos a ir un paso más allá, como apuesta propia y no como hecho ya verificado: creemos que para 2027, el mayor riesgo competitivo de un concepto de hostelería no va a ser tener una carta floja o un mal servicio. Va a ser tener éxito viral *antes* de tener sistema. El pico de demanda sin sistema mata más negocios que la falta de demanda — y conviene ser precisos aquí: el problema no es la viralidad, es la viralidad sin un sistema que la absorba. No es un consejo contra el marketing. Es un aviso sobre qué pasa el día después de que el marketing funcione mejor de lo esperado.
-
-**WHAT TO WATCH.** Cuántas de las marcas virales de pollo frito francesas siguen abiertas dentro de 12 meses.
-
-**HOW TO TAKE ADVANTAGE.** Tratar cualquier tendencia viral como una hipótesis de producto que hay que testar con margen real — un LTO, no un relanzamiento de carta completa — antes de comprometer el sistema entero a ella.
+*En desarrollo.*
 
 ---
 
-### Shift 4 — La marca como sistema, no como estética — y el riesgo de confundir el síntoma con la causa
+### Shift 3 — Ingresos más allá de la mesa
 
-**WHAT WE SEE.** Tres fuentes de sector distinto — diseño y merchandising, branding, software de reservas — convergen, de forma independiente, en que la marca ya es el diferenciador competitivo real, no el producto [12][13][14].
-
-**WHY NOW.** Saturación de mercado, más una decisión de compra que empieza en redes antes que en la puerta del local.
-
-**THE SIGNALS.** El framework de marca de referencia en software de reservas — misión/visión/valores, público objetivo, personalidad y tono de voz, identidad visual, experiencia de cliente, consistencia entre touchpoints — coincide casi punto por punto con "Concepto y Narrativa de Marca" del BAR Method, la metodología propia de TBNB [14]. Miller's Guild, en Seattle, traduce el carácter industrial y artesano de su ciudad en madera, acero y cocina a la brasa con proveedores locales; Girl & The Goat, en Chicago, liga su marca a la personalidad real de la chef Stephanie Izard — dos pruebas de que la identidad fuerte nace de algo real, no se aplica encima después [13]. Un estudio académico con metodología real confirma, además, que el storytelling cambia de función según el tipo de restaurante: exclusividad en fine dining, autenticidad en casual dining [15].
-
-**WHAT IT MEANS.** La consistencia de marca entre canales ya no es un "plus". Es tabla de apuestas.
-
-**TBNB TAKE.** Aquí está el giro que de verdad importa: estas tres fuentes tratan la consistencia de marca como la *causa* del éxito. Nuestra lectura es la contraria — la consistencia de marca es el *síntoma visible* de que el sistema de debajo (concepto, operación, equipo) ya está alineado. Se puede imitar el uniforme, el packaging y el tono de voz de un restaurante que funciona sin conseguir nada, porque esas señales no son la causa, son el resultado. El propio sector ya tiene una prueba de esto: para Bao Family, el merchandising representa solo el 1% de su facturación [16] — contradice de forma explícita a quienes lo venden como "nueva línea de ingresos". Sigue siendo fidelización y visibilidad, no negocio. Tratarlo como negocio es exactamente el tipo de error — copiar la táctica sin el sistema — que esta sección denuncia, y es la misma trampa que ya vimos en el Shift 1 con WeWork: confundir la señal de fuera con la estructura de dentro.
-
-**WHAT TO WATCH.** Si aparecen casos de marcas que copian la estética (packaging, merchandising) sin mejora real de retención o ticket medio.
-
-**HOW TO TAKE ADVANTAGE.** Antes de invertir en un rediseño de marca, confirmar que el concepto, la carta y la operación ya cuentan la misma historia que se le va a pedir a la marca que cuente.
+*En desarrollo.*
 
 ---
 
-### Shift 5 — Se invierte en IA más rápido de lo que se diseña quién la gobierna
+### Shift 4 — De la improvisación al sistema: un trabajo que merezca la pena
 
-**WHAT WE SEE.** Casi el 100% de las empresas del sector aumenta su inversión en IA. Solo un 20% se siente lista en gobernanza y riesgo [6].
-
-**WHY NOW.** Presión competitiva y proveedores empujando la adopción más rápido de lo que la capacidad interna puede decidir bien dónde aplicarla.
-
-**THE SIGNALS.** El freno real que declaran los propios operadores no es la tecnología disponible: es identificar el caso de uso correcto y la falta de talento y gobernanza [6]. La brecha, además, no es pareja dentro de la propia empresa: la mayoría se siente cómoda con su estrategia de IA sobre el papel, pero esa confianza cae en cuanto se pregunta por infraestructura, talento o gobernanza real — ahí menos de un tercio dice estar preparado [6]. Es la prueba de que el problema nunca fue decidir invertir. Fue diseñar quién ejecuta, decide y audita esa inversión una vez aprobada. La brecha también tiene geografía y categoría: Asia lidera tanto en adopción como en preparación frente a Europa y EEUU, y el casual dining es, de todos los segmentos, el que adopta IA con más agresividad [6] — exactamente el segmento que corre con los márgenes más ajustados de todo el sector, y por tanto el que menos margen de error de gobernanza se puede permitir. McKinsey confirma, desde otro ángulo, que el ahorro real (200-300 puntos básicos) solo llega si la IA se aplica a toda la cadena de valor, no a una herramienta aislada [3] — y aplicarla a toda la cadena exige exactamente la coordinación y la gobernanza que hoy, según el propio sector, todavía no existe.
-
-**WHAT IT MEANS.** La IA es, ahora mismo, el ejemplo más actual y más caro de "idea sin sistema" de todo este informe — y el único de los seis shifts donde la factura de no tener sistema se puede ver en tiempo real: un precio mal ajustado por un modelo que nadie revisa, una recomendación de carta que ignora el stock disponible, un chatbot que promete algo que la cocina no puede cumplir. Ninguno de esos fallos es un fallo de tecnología. Es un fallo de diseño anterior a la tecnología — nadie decidió, antes de comprar la herramienta, quién revisa lo que decide.
-
-**TBNB TAKE.** Esta es la prueba de que nuestro hot take de esta edición no es retórica. Es, literalmente, el patrón que se repite con cada tecnología nueva: se compra la herramienta antes de decidir cómo encaja en el sistema que ya existe, y luego se culpa a la herramienta cuando no rinde. No es un problema de ejecución ni de pila tecnológica — es una decisión de diseño que tenía que tomarse antes de comprar nada. Y es, de los seis shifts de esta edición, el que más rápido se va a notar si se ignora: la ventana entre "invertir en IA" y "que la falta de gobernanza cueste dinero de verdad" ya no se mide en años, se mide en meses.
-
-**WHAT TO WATCH.** Si en 6 meses el discurso del sector pasa de "cuánta IA adoptar" a "quién decide y audita lo que la IA decide".
-
-**HOW TO TAKE ADVANTAGE.** Antes de comprar cualquier herramienta de IA, documentar tres cosas: quién en el equipo es responsable de verificar sus decisiones, con qué frecuencia se audita, y qué pasa operativamente cuando se equivoca. Si alguna de esas tres respuestas no existe todavía, el sistema no está listo para la herramienta — por buena que sea la herramienta.
+*En desarrollo.*
 
 ---
 
-### Shift 6 — El menú degustación no era el único negocio del chef con estrella. Era el heredado
+### Shift 5 — Una buena idea ya no basta: el negocio se diseña antes de abrir
 
-**WHAT WE SEE.** En octubre de 2025, Martín Berasategui cierra Oria. Semanas después abre Bera, en Barcelona: barra central, luz de after-work, cócteles, un ticket medio de unos 50 euros — una fracción de lo que costaba sentarse a su menú degustación. No es un gesto aislado. Chefs con el reconocimiento más alto posible están cerrando o reduciendo su proyecto insignia de alta cocina para abrir, en paralelo, un formato de barra o bistró de ticket medio mucho más bajo, sin coordinarse entre ellos.
-
-**WHY NOW.** El menú degustación es caro de producir — mise en place compleja, baja rotación, personal muy especializado — y caro de vender: ticket alto, pocas mesas por servicio. El nombre del chef se monetiza igual o mejor repartido entre más clientes, con más rotación y más margen de bebida.
-
-**THE SIGNALS.** En Londres, Hélène Darroze lanza en The Connaught una carta de mediodía por debajo de 135 dólares; The Ninth y Cardinal hacen el mismo movimiento en Reino Unido [30]. En Copenhague, Will King-Smith sale de Geranium y abre Kinyōbi; Jonas Franck, con pasado en Kong Hans y Geranium, abre Bar Moro — los dos en formato relajado [35]. Barr, de los fundadores de Noma, ya había validado el modelo antes: taberna con platos contundentes a 55-80€ por persona, cerveza incluida, sin carta de autor a precio de autor [35]. Cuatro mercados — España, Reino Unido, Dinamarca, y el propio ecosistema de Noma dentro de Dinamarca —, ninguna relación entre ellos, la misma ventana de tiempo.
-
-**WHAT IT MEANS.** El menú degustación nunca fue "la única forma de monetizar el talento de un chef de referencia". Fue una elección de sistema entre varias posibles. En cuanto la economía de esa elección deja de cuadrar, el propio chef la rediseña desde dentro, no desde fuera.
-
-**TBNB TAKE.** Esto no es la alta cocina "relajándose" — eso ya lo dice la prensa de sector con ese mismo titular. Es el chef haciendo, con su propio restaurante, exactamente lo que el resto de esta edición lleva cinco Shifts diciendo que hay que hacer con cualquier concepto: diagnosticar qué pieza del sistema — aquí, el modelo de rotación y ticket — ya no sostiene el resto, y rediseñarla en vez de defenderla por prestigio. Conecta con el Shift 2 (la carta y el precio como palanca real de margen) y con el Shift 3 (sistemas que retienen margen frente a visibilidad): aquí lo "viral" no es una moda externa que hay que resistir, es la reputación del propio chef — y aun así, sin un modelo de rotación que la sostenga, tampoco aguanta.
-
-**WHAT TO WATCH.** Si en los próximos 6 meses aparecen más chefs con estrella en España siguiendo el mismo movimiento. Bera es, de momento, el único caso español confirmado.
-
-**HOW TO TAKE ADVANTAGE.** Para cualquier concepto de ticket alto que ya nota la tensión entre rotación y margen, la pregunta correcta no es "¿bajamos de categoría?". Es "¿qué pieza de nuestro sistema actual — formato, rotación, ticket — ya no sostiene al resto, y qué formato nuevo, no necesariamente más barato pero sí más rotativo, podría sostenerlo sin diluir la marca?".
+*En desarrollo.*
 
 ---
+
 
 ## 04. CONCEPT WATCH
 *Los conceptos que están haciendo las cosas de forma diferente.*
@@ -673,3 +615,6 @@ See you in six months.
 69. Archinect, *"A SPACE ABOUT designs Vereda, the Barcelona restaurant that pays homage to the essence of the neighborhood bar"*; Raisin, ficha de Vereda Bar.
 70. TBNB (Andrea), nov 2026: cocina de producto local y de temporada y apertura del obrador propio de Vereda.
 71. Time Out Barcelona, *"Delacrem abre Delaterra, una heladería dedicada al mejor producto catalán de proximidad"*, 4 abr 2025.
+72. Trendencias, *"Con menú de 35 euros abre sus puertas el Café Cervantes, dentro del búnker de Plaza de España"*, 14 ene 2026.
+73. AECOC Shopperview y 40dB, 11.º Barómetro de Momentos de Consumo, vía Europa Press/Bolsamanía, *"El 66% de los españoles sale a bares y restaurantes igual o más que hace un año"*, 12 may 2026.
+74. Estrategias de Inversión, *"Se inaugura la nueva barra de Diurno"*, 10 ene 2025.
