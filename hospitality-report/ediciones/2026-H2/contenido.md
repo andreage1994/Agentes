@@ -186,7 +186,7 @@ Lo vemos también fuera de las encuestas. Cuando preguntamos a alguien cuál es 
 
 No pasa igual en todos los formatos. En la comida rápida, la estandarización sigue siendo la promesa: rapidez, el mismo resultado siempre y el mínimo contacto. Pero en un bar o un restaurante donde el ticket medio ronda los 30 € o más, el cliente ya no paga solo lo que hay en el plato. Paga cómo se le atiende. Un servicio genérico, idéntico para todos, se percibe en ese ticket como frialdad.
 
-Los sitios que mejor lo entienden ponen la sala al mismo nivel que la cocina, empezando por quién firma el proyecto. Mesa Lobo (Barcelona) lo abrieron a medias un cocinero, Òscar Àlvarez, y un jefe de sala, Pablo Arnal, después de diez años trabajando juntos. El nombre ya es una declaración: en el argot, la "mesa lobo" es la que se guarda sin reserva para un cliente importante, y aquí la idea es que todas las mesas lo son [68]. Es el reverso exacto del restaurante de chef: la sala no ejecuta, cofirma.
+Los sitios que mejor lo entienden ponen la sala al mismo nivel que la cocina, empezando por quién firma el proyecto. Mesa Lobo (Barcelona) lo abrieron a medias un cocinero, Òscar Àlvarez, y un jefe de sala, Pablo Arnal, después de diez años trabajando juntos. El nombre ya es una declaración: en el argot, la "mesa lobo" es la que se guarda sin reserva para un cliente importante, y aquí la idea es que todas las mesas lo son [68]. Es el reverso exacto del restaurante de chef: la sala no ejecuta, cofirma. En Entrepanes Díaz (Barcelona), la apuesta va por el oficio: el equipo de sala está formado por camareros de más de 50 años, con camisa blanca, chaleco y pajarita, elegidos porque conocen los rituales de la profesión, son puntuales y saben llamar al cliente por su nombre y adaptarse a lo que le gusta, en lugar de dar un servicio anónimo [91]. En un sector que pierde a la mitad de su gente cada pocos meses, convertir la experiencia en sala en parte del concepto también es una forma de diferenciarse.
 
 La paradoja es que cada vez cuesta más sostenerlo. Para el 34% de los hosteleros españoles, la falta de equipos preparados es su principal desafío en 2026 [28].
 
@@ -699,3 +699,4 @@ See you in six months.
 88. Ara, *"La pizzería que empezó en un parking abrirá dos nuevos locales, en Barcelona y en Madrid"*, nov 2025; Time Out Barcelona, ficha de Parking Pizza.
 89. Time Out Barcelona, ficha de Entrepanes Díaz; The Infatuation, reseña de Entrepanes Díaz.
 90. Time Out Madrid, *"Estas mujeres preparan los mejores tacos de birria del centro de Madrid"* (Mami Tacos), 27 oct 2023.
+91. Directo al Paladar, *"Este bar de Barcelona solo quiere camareros de más de 50 años para que sirvan tapas del siglo pasado"*, 19 jun 2024.
