@@ -324,7 +324,57 @@ Barcelona tiene ejemplos de cómo hacerlo con concepto. Superauto, el nuevo proy
 ## 04. CONCEPT WATCH
 *Los conceptos que están haciendo las cosas de forma diferente.*
 
-Si el resto de este informe explica por qué falta sistema, esta sección muestra qué aspecto tiene cuando sí existe — y qué aspecto tiene cuando se construye a medias, por el camino largo. RASA y Rascal, dos proyectos desarrollados por The Bar N' Bar, son nuestra propia prueba de que diseñar el sistema antes de abrir la puerta es una decisión concreta, no una frase bonita. Mamatte es la prueba de que también se puede llegar al mismo sitio rediseñando capa a capa, después de haber crecido sin plan. Los casos de esta sección no tienen fronteras: van de Barcelona a Copenhague y de Madrid a Valencia, y la pregunta que les hacemos es siempre la del Opening, vista en terreno real. Buscamos inspiración en cualquier ciudad del mundo donde alguien esté haciendo las cosas de otra manera. Y este semestre lo hacemos con una ventaja: buena parte de lo que contamos no lo hemos leído, lo hemos visto con nuestros propios ojos, durante el viaje a Copenhague y en nuestro propio trabajo de campo.
+Si The Big Picture cuenta qué espera hoy el cliente y The Shifts cómo se reorganiza el negocio, esta sección baja al terreno: siete conceptos concretos que ya lo están haciendo. Dos de ellos, RASA y Rascal, son proyectos desarrollados por The Bar N' Bar, y los hemos colocado junto a los casos de fuera con los que mejor dialogan. Los casos de esta sección no tienen fronteras: van de Barcelona a Copenhague y de Madrid a Londres, y la pregunta que les hacemos es siempre la del Opening, vista en terreno real. Buscamos inspiración en cualquier ciudad del mundo donde alguien esté haciendo las cosas de otra manera. Y este semestre lo hacemos con una ventaja: buena parte de lo que contamos no lo hemos leído, lo hemos visto con nuestros propios ojos, durante el viaje a Copenhague y en nuestro propio trabajo de campo.
+
+### Oblicuo Hi-Fi Bar — Cobertura: Barcelona
+
+**THE CONCEPT.** En la Riera de Sant Miquel, en Gràcia, un equipo de sonido diseñado a medida por Giorgio Di Salvo marca el ritmo de la noche. Oblicuo es un listening bar: se va a escuchar discos difíciles de encontrar en Spotify, con vino natural seleccionado por Noe Santamaria y cócteles de Marco Bacci. Lo abrieron Ivanmaria Vele y Dobrochna Giedwidz, una pareja italopolaca, y fue el primer listening bar de Gràcia [94].
+
+**WHY IT WORKS.** Porque convierte algo que en casi todos los bares es ruido de fondo en el motivo para ir. La música suena alta para disfrutarla, pero no tanto como para impedir la conversación, y la sesión de vinilos va subiendo hasta que, a última hora, hay quien se pone a bailar [94].
+
+**THE IDEA BEHIND IT.** El nombre viene de las *Oblique Strategies* de Brian Eno y Peter Schmidt, y el local entero se pensó al revés de lo habitual: primero el sonido, y después todo lo demás. El mobiliario se hizo a medida para que el equipo sonara como tenía que sonar [94]. El diseño no decora el concepto: lo hace posible.
+
+**WHAT WE CAN LEARN.** Que el sonido puede ser una decisión de negocio tan importante como la carta. Conecta con Design with Purpose del Big Picture (la luz y el sonido también son espacio) y con lo que vimos en Copenhague, donde Bird ha construido toda su propuesta alrededor de la escucha. El listening bar es la prueba de que un bar puede diferenciarse sin cambiar lo que sirve, cambiando cómo se vive.
+
+---
+
+### Pompette, Poulette y Villette — Cobertura: Europa
+
+**THE CONCEPT.** En el sótano sin rótulo de Pompette (Nørrebro, Copenhague), cuatro vinos esperan abiertos sobre el mostrador, sin nevera. Nadie elige a ciegas: antes de pedir, se prueba, como en una tienda. Pompette es la copa. Poulette, el bocado rápido. Villette, la mesa — tres marcas de un mismo grupo, cada una resolviendo un momento de consumo distinto.
+
+**WHY IT WORKS.** El precio bajo no es una renuncia. Es el argumento de marca. Pompette vende vino natural bueno al precio de una cerveza, con margen de tienda y no de restaurante: pocas referencias abiertas, poca merma, poco personal.
+
+**THE IDEA BEHIND IT.** El journey se diseñó en tres pasos deliberados. Pompette capta al cliente con precio bajo. Villette — ladrillo visto en un edificio que fue instituto y parque de bomberos, techos altos, farolillos de papel, luz rosada — lo retiene y le sube el ticket (principal por debajo de 150 DKK) con la confianza que Pompette ya ganó.
+
+**WHAT WE CAN LEARN.** El grupo reparte los momentos del día entre tres marcas. El caso siguiente, Rascal, resuelve lo mismo dentro de un único local. Y conecta con el Shift 2: aquí el ticket bajo y la rotación son la palanca de margen, no la carta de autor.
+
+---
+
+### Rascal — Cobertura: Barcelona
+
+*Caso propio · Proyecto desarrollado por The Bar N' Bar.*
+
+**THE CONCEPT.** Brunch y wine bar en Poblenou, con cocina contemporánea y de temporada, sabores potentes, fermentados y encurtidos propios e influencias internacionales, acompañada de café de especialidad y vino natural. *"Brunch sin clichés, vino sin reglas y un local que late al ritmo de Poblenou"* [93].
+
+**WHY IT WORKS.** Porque nació con una idea muy clara de lo que no quería ser. Peter, su propietario, no quería montar *"otro brunch más"*: quería un sitio con identidad, carácter y fondo [93]. Esa negativa inicial ordenó todas las decisiones posteriores, de la carta al espacio y de los proveedores al precio.
+
+**THE IDEA BEHIND IT.** Rascal es un proyecto desarrollado por The Bar N' Bar desde el primer día, y por eso es también un ejemplo de lo que significa diseñar un negocio antes de abrirlo. El trabajo empezó antes que la cocina: con la negociación con la propiedad del local. A partir de ahí, la marca y la definición del concepto; el desarrollo gastronómico, con pruebas de platos hasta cerrar la carta (una shakshuka sedosa, un romesco catalán) antes de la apertura; el acondicionamiento del espacio; la selección de proveedores, con una alianza de café de especialidad con Familia Osorio; la estrategia de precios y el diseño de la carta física; la estrategia de redes y de medios pagados, y el diseño de la operación diaria [93]. Nueve frentes distintos trabajados como un solo proyecto. Es, en pequeño, el bar con concepto del Shift 1, y la versión de un solo local de lo que Pompette, Poulette y Villette reparten entre tres marcas: un sitio al que se va por la mañana a por café y por la tarde a por vino natural, sin que deje de ser el mismo.
+
+**WHAT WE CAN LEARN.** Que el brunch, uno de los formatos más repetidos de la ciudad, todavía tiene espacio cuando hay un concepto detrás. Y que la diferencia no la marca una sola decisión brillante, sino que todas empujen en la misma dirección, empezando por las menos visibles: el contrato del local, el proveedor de café o el precio de cada plato. *"Rascal no es el brunch de siempre, ni pretende serlo"* [93].
+
+---
+
+### Cabin — Cobertura: Europa
+
+**THE CONCEPT.** En Cabin no hay ni un elefante, ni una especia a la vista, ni una tela estampada. Hay madera de pino, cerámica, y en la carta, un chaat de guisantes con tamarindo y yogur. Es un café de Frama con cocina de inspiración india servida sin un solo guiño decorativo a la India.
+
+**WHY IT WORKS.** La fusión vive en el ingrediente y en la técnica — tamarindo, chutney, chai, srikhand —, no en el decorado. Evita el restaurante temático sin perder autenticidad.
+
+**THE IDEA BEHIND IT.** Incluye un plato danés "puente": bollo de masa madre con Havarti, el más barato de la carta, como entrada de bajo riesgo al resto del menú.
+
+**WHAT WE CAN LEARN.** Esta es la conexión más propia de la sección, y ningún otro informe la va a hacer porque exige tener los dos casos a la vez: Cabin y RASA, el caso que viene a continuación, resuelven el mismo problema — cómo tratar una cocina de otra cultura sin caer en el cliché — por caminos casi opuestos. RASA lo resuelve por narrativa: cada decisión cuenta la misma historia con intención. Cabin lo resuelve por ausencia total de decorado. Dos caminos, un mismo resultado: ninguno de los dos tematiza.
+
+---
 
 ### RASA — Cobertura: España
 
@@ -338,105 +388,31 @@ Si el resto de este informe explica por qué falta sistema, esta sección muestr
 
 Por eso el sistema se construyó entero *antes* de abrir la puerta, no se ajustó después de ver qué funcionaba. Primero, el concepto y la narrativa de marca. Sobre ellos, una propuesta gastronómica y de coctelería con identidad propia, y un espacio que la acompaña. Después, la operación y los flujos, para que todo eso se pudiera producir y servir cada noche. Y, cerrando el círculo, la hospitalidad: un manual de servicio, rituales de bienvenida, formación con el equipo, un lenguaje común para explicar la carta y recomendar, y una identidad de tribu para que cada persona entrara en su rol al empezar el turno y representara RASA en cada mesa [92]. Una hospitalidad sin diseño deja que cada uno interprete la idea a su manera, y con el tiempo esa idea se diluye. Diseñada, es la capa que hace que el cliente viva el concepto en primera persona.
 
-**WHAT WE CAN LEARN.** RASA es el contraste directo de Mamatte: dos formas distintas de llegar al mismo sistema, una diseñándolo antes de abrir, la otra recomponiéndolo después de que el concepto ya hubiera crecido de forma desordenada. Más abajo, en esta misma sección, Cabin (Copenhague) resuelve el problema de RASA — cómo tratar una cocina de otra cultura sin caer en el cliché — por el camino opuesto: no por narrativa, por ausencia total de decorado. *"Los grandes conceptos se construyen antes de abrir la puerta."*
+**WHAT WE CAN LEARN.** Leído justo después de Cabin, RASA demuestra que no hay una sola forma correcta de llevar una cocina de otra cultura a una ciudad nueva. Cabin lo resuelve quitando todo el decorado; RASA, construyendo una narrativa en la que cada decisión cuenta la misma historia con intención. Lo que comparten es lo importante: ninguno de los dos tematiza, y en los dos el sistema estaba decidido antes de abrir. *"Los grandes conceptos se construyen antes de abrir la puerta."*
 
 ---
 
-### Rascal — Cobertura: Barcelona
+### Ultramarinos Marín — Cobertura: Barcelona y Madrid
 
-*Caso propio · Proyecto desarrollado por The Bar N' Bar.*
+**THE CONCEPT.** Una taberna de producto del mar con alma de ultramarinos. Borja García Ordoño la fundó en Barcelona en 2021 y el 15 de octubre de 2026 abrió en Madrid, en la calle San Andrés, con Gonzalo Guzmán en la cocina. Marisco y pescado de varios puertos españoles, carta que cambia con la temporada, unos ochenta vinos y una vitrina con la línea propia de la casa, De La Marín: escabeches, conservas, terrinas, encurtidos y salazones elaborados por ellos [95].
 
-**THE CONCEPT.** Brunch y wine bar en Poblenou, con cocina contemporánea y de temporada, sabores potentes, fermentados y encurtidos propios e influencias internacionales, acompañada de café de especialidad y vino natural. *"Brunch sin clichés, vino sin reglas y un local que late al ritmo de Poblenou"* [93].
+**WHY IT WORKS.** Recupera el código del ultramarinos de toda la vida, barra, producto a la vista y conserva, y lo pone al día con cocina y con una marca propia de producto. Es una de las aperturas más comentadas del otoño en Madrid, con un perfil de socios poco habitual: entre los inversores está Brian McGinn, productor de *Chef's Table* en Netflix [95].
 
-**WHY IT WORKS.** Porque nació con una idea muy clara de lo que no quería ser. Peter, su propietario, no quería montar *"otro brunch más"*: quería un sitio con identidad, carácter y fondo [93]. Esa negativa inicial ordenó todas las decisiones posteriores, de la carta al espacio y de los proveedores al precio.
+**THE IDEA BEHIND IT.** Forma parte de un movimiento más amplio que mezcla la tienda y la barra. En el extremo más joven están los *konbinis* contemporáneos, como Kim Market, en el Eixample, que convierte un supermercado de producto coreano en una experiencia de marca con estética de parada de autobús de Seúl [96]. En el más lúdico, Monk, en el Born, esconde una barra de coctelería detrás de la fachada de una tienda de conveniencia [97]. Y en el más gastronómico, Ultramarinos Marín: la conserva propia como puente entre lo que se come en la barra y lo que el cliente podría llevarse a casa.
 
-**THE IDEA BEHIND IT.** Rascal es un proyecto desarrollado por The Bar N' Bar desde el primer día, y por eso es también un ejemplo de lo que significa diseñar un negocio antes de abrirlo. El trabajo empezó antes que la cocina: con la negociación con la propiedad del local. A partir de ahí, la marca y la definición del concepto; el desarrollo gastronómico, con pruebas de platos hasta cerrar la carta (una shakshuka sedosa, un romesco catalán) antes de la apertura; el acondicionamiento del espacio; la selección de proveedores, con una alianza de café de especialidad con Familia Osorio; la estrategia de precios y el diseño de la carta física; la estrategia de redes y de medios pagados, y el diseño de la operación diaria [93]. Nueve frentes distintos trabajados como un solo proyecto. Es, en pequeño, el bar con concepto del Shift 1: un local al que se va por la mañana a por café y por la tarde a por vino natural, sin que deje de ser el mismo sitio.
-
-**WHAT WE CAN LEARN.** Que el brunch, uno de los formatos más repetidos de la ciudad, todavía tiene espacio cuando hay un concepto detrás. Y que la diferencia no la marca una sola decisión brillante, sino que todas empujen en la misma dirección, empezando por las menos visibles: el contrato del local, el proveedor de café o el precio de cada plato. *"Rascal no es el brunch de siempre, ni pretende serlo"* [93].
+**WHAT WE CAN LEARN.** Que la frontera entre comprar y salir a comer se está borrando, y que el producto propio es lo que permite cruzarla (Shift 3). Pero también conviene mirar el precio con frialdad: la crítica de su apertura en Madrid ha cuestionado la relación entre precio y ración, con un ticket que ronda los 80-100 € por persona sin bebida [95]. Un concepto que nace del ultramarinos tiene que cuidar mucho que el precio no traicione el código del que parte.
 
 ---
 
-### El Campero y Varra — Cobertura: Madrid
+### Botanicus — Cobertura: Barcelona
 
-**THE CONCEPT.** El Campero no tiene media carta de pescado. Tiene un pescado: atún rojo de Barbate, de la cabeza a la cola. Varra hace lo mismo con el producto de temporada. Dos de las aperturas más comentadas de Madrid en 2026, las dos definidas por un único producto.
+**THE CONCEPT.** Una "coctelería evolutiva" en la calle Pujades de Poblenou, donde la botánica y la fermentación hacen de cocina. Elaboran sus propios licores, vermut y destilados, y sobre todo sus propios fermentados, que son el centro de la casa. La carta tiene una selección de cócteles de autor sin alcohol al mismo nivel técnico que los demás, y el local organiza talleres de fermentación, destilación y coctelería clásica [98].
 
-**WHY IT WORKS.** Diferenciación clara, fácil de comunicar en una sola frase, con una carta que cambia según lo que hay disponible de verdad.
+**WHY IT WORKS.** Porque trata la bebida sin alcohol como una categoría propia y no como la alternativa para quien conduce. Quien no bebe no tiene que conformarse con un refresco: tiene un cóctel pensado con el mismo cuidado que el resto.
 
-**THE IDEA BEHIND IT.** Compras concentradas en uno o dos proveedores. El food cost alto del producto premium se compensa con el aprovechamiento integral — despiece, recortes — del mismo producto. Encaja con una cultura española que ya sabe leer esto: el producto manda.
+**THE IDEA BEHIND IT.** Botanicus es el ejemplo más técnico de un movimiento que ya tiene varios formatos en la misma ciudad. Probio Drinks, en Sant Antoni, es una microfábrica de kombucha ecológica viva que la sirve de grifo y en botella rellenable [99]. Sense Shop, en Gràcia, funciona como tienda y punto de descubrimiento de destilados, vinos y bases botánicas sin alcohol [100]. Y Club Soda, en Covent Garden (Londres), es el referente europeo de bar y tienda de degustación cien por cien sin alcohol [101]. Cuatro modelos distintos, del cóctel de autor a la tienda, para un mismo cliente: el que quiere salir sin beber, o bebiendo menos, sin renunciar a nada.
 
-**WHAT WE CAN LEARN.** Cruza de forma directa con la lógica de las pizzerías napolitanas y los bares de pasta franceses de 07. Business of Hospitality: menos referencias, más control de margen. Dos caminos al mismo principio — unos por estandarización de proceso, estos por especialización extrema de producto.
-
----
-
-### Pompette, Poulette y Villette — Cobertura: Europa
-
-**THE CONCEPT.** En el sótano sin rótulo de Pompette (Nørrebro, Copenhague), cuatro vinos esperan abiertos sobre el mostrador, sin nevera. Nadie elige a ciegas: antes de pedir, se prueba, como en una tienda. Pompette es la copa. Poulette, el bocado rápido. Villette, la mesa — tres marcas de un mismo grupo, cada una resolviendo un momento de consumo distinto.
-
-**WHY IT WORKS.** El precio bajo no es una renuncia. Es el argumento de marca. Pompette vende vino natural bueno al precio de una cerveza, con margen de tienda y no de restaurante: pocas referencias abiertas, poca merma, poco personal.
-
-**THE IDEA BEHIND IT.** El journey se diseñó en tres pasos deliberados. Pompette capta al cliente con precio bajo. Villette — ladrillo visto en un edificio que fue instituto y parque de bomberos, techos altos, farolillos de papel, luz rosada — lo retiene y le sube el ticket (principal por debajo de 150 DKK) con la confianza que Pompette ya ganó.
-
-**WHAT WE CAN LEARN.** Puente directo con RASA y Rascal: el sistema se diseña antes, no se parchea después. Y con el Shift 2: aquí el ticket bajo y la rotación son la palanca de margen, no la carta de autor.
-
----
-
-### Atelier September y Apotek 57 — Cobertura: Europa
-
-**THE CONCEPT.** En Atelier September hay un plato roto sobre la mesa, vajilla antigua colgada en la pared, flores recién cortadas junto al horno. Parece casualidad. No lo es. Apotek 57, dentro de la tienda de diseño Frama, presenta su bollería como si fuera joyería.
-
-**WHY IT WORKS.** La "imperfección" es puesta en escena muy calculada — el oficio se enseña en vez de esconderse en cocina, lo contrario del fine dining clásico.
-
-**THE IDEA BEHIND IT.** Los dos locales renuncian a metros cuadrados rentables — rincones de lectura en vez de maximizar mesas — a cambio de identidad y permanencia.
-
-**WHAT WE CAN LEARN.** Esta es también la nota de honestidad de esta edición: este patrón, espacio sobre volumen, no se confirma como tendencia estructural en el resto del material que trajimos de Copenhague — ver 10. Early Signal. Aquí funciona como una decisión de sistema válida para un segmento concreto (ticket alto, ocasión especial), no como receta universal.
-
----
-
-### Cabin — Cobertura: Europa
-
-**THE CONCEPT.** En Cabin no hay ni un elefante, ni una especia a la vista, ni una tela estampada. Hay madera de pino, cerámica, y en la carta, un chaat de guisantes con tamarindo y yogur. Es un café de Frama con cocina de inspiración india servida sin un solo guiño decorativo a la India.
-
-**WHY IT WORKS.** La fusión vive en el ingrediente y en la técnica — tamarindo, chutney, chai, srikhand —, no en el decorado. Evita el restaurante temático sin perder autenticidad.
-
-**THE IDEA BEHIND IT.** Incluye un plato danés "puente": bollo de masa madre con Havarti, el más barato de la carta, como entrada de bajo riesgo al resto del menú.
-
-**WHAT WE CAN LEARN.** Esta es la conexión más propia de las cuatro, y ningún otro informe la va a hacer porque exige tener los dos casos a la vez: Cabin y RASA resuelven el mismo problema — cómo tratar una cocina de otra cultura sin caer en el cliché — por caminos casi opuestos. RASA lo resuelve por narrativa: cada decisión cuenta la misma historia con intención. Cabin lo resuelve por ausencia total de decorado. Dos caminos, un mismo resultado: ninguno de los dos tematiza.
-
----
-
-### Mamatte y el ecosistema de panaderías híbridas francesas — Cobertura: Europa
-
-**THE CONCEPT.** Una red de antiguas panaderías (Mamatte, La Mie Paulette en Caen, KB "Fournil Fast Good" en Bretaña, The French Bastards en París) que se reinventan como espacios de permanencia — brunch, snacking elaborado, eventos.
-
-**WHY IT WORKS.** Cada apertura añade una capa de servicio nueva sin pretender ser un relanzamiento único. El modelo funciona igual de bien en mercados pequeños (Caen, Bretaña) que en París.
-
-**THE IDEA BEHIND IT.** Maxime Lefebvre (Mamatte) empezó en 2015 con snacking elaborado "poco común en panaderías" en su momento, y fue sumando brunch y servicio en mesa local a local — la evolución fue gradual y geográfica, no un golpe de timón [7].
-
-**WHAT WE CAN LEARN.** Ver el detalle completo en el Shift 1 — y el contraste con RASA, arriba. Lo que separa a Mamatte de un rebranding vacío es que la operación cambió primero, y el nombre cayó como consecuencia — no al revés.
-
----
-
-### Girl & The Goat — Cobertura: Global
-
-**THE CONCEPT.** Restaurante de Chicago cuya identidad de marca nace del carácter real de su chef, no se aplica encima después.
-
-**WHY IT WORKS.** El valor de marca está atado a la personalidad real de la chef Stephanie Izard — el motivo de la cabra, las salsas propias, la presencia en redes —; el comensal no va solo a comer, va a "su mundo".
-
-**THE IDEA BEHIND IT.** Un concepto no necesita parecer una cadena para escalar. Puede escalar precisamente por no parecerlo, mientras el hilo conductor — aquí, la chef — se mantenga intacto [13].
-
-**WHAT WE CAN LEARN.** Es la prueba, dentro de las fuentes que triangulan el Shift 4, de que la identidad fuerte no es un ejercicio de diseño gráfico — es la traducción honesta de algo que ya era verdad antes del logo. Miller's Guild, en Seattle, llega al mismo sitio desde el carácter industrial de su propia ciudad (ver Shift 4).
-
----
-
-### Kaikaya — Cobertura: España
-
-**THE CONCEPT.** Restaurante de fusión japonesa-brasileña en Valencia, diseñado por Masquespacio, con interiorismo firmado por Sancal.
-
-**WHY IT WORKS.** El origen real de la cocina — la migración japonesa a las plantaciones de café de Brasil — se traduce en una paleta tropical y ecléctica; el tapizado verde de la butaca evoca los cafetales.
-
-**THE IDEA BEHIND IT.** El material y el color cuentan la cocina, no solo decoran la sala [18].
-
-**WHAT WE CAN LEARN.** Misma lógica que la fila 15 del BAR Method, "Estrategia de Espacio" — narrativa espacial y materialidad conceptual como parte del sistema, no como capa estética final. Validación externa de algo que ya defendíamos.
+**WHAT WE CAN LEARN.** Conecta con la bebida funcional sin alcohol que vimos en Sonny y con el maridaje 0,0 que ya ofrecen algunas casas en Barcelona (06. Food & Drink). La lección para cualquier bar es directa: la carta sin alcohol merece escandallo, ficha técnica y precio propios. Bien hecha, recupera el margen que el cliente ya no deja en vino o en cóctel.
 
 ---
 
@@ -509,7 +485,7 @@ El no-show, para quien ya lo mide, deja de ser un problema futuro y se convierte
 
 El precio por franja horaria, en cambio, exige más delicadeza que lógica de ingresos. El 53% de los españoles iría a comer en horas de menos afluencia si fuera más barato — pero el 64% reacciona mal al recargo en la hora punta, como ya le pasó a Wendy's en Estados Unidos [30]. La lección es la misma que empuja el tardeo de la sección 05: incentivar la hora valle, no recargar la punta.
 
-**TBNB TAKE.** El Campero y Varra (04. Concept Watch) y las napolitanas y bares de pasta franceses de arriba llegan al mismo principio — menos referencias, más control de margen — desde dos direcciones opuestas: unos por especialización extrema de producto, otros por estandarización de proceso. El destino es el mismo. El camino, no.
+**TBNB TAKE.** El Campero y Varra (The Big Picture y Shift 2) y las napolitanas y bares de pasta franceses de arriba llegan al mismo principio — menos referencias, más control de margen — desde dos direcciones opuestas: unos por especialización extrema de producto, otros por estandarización de proceso. El destino es el mismo. El camino, no.
 
 **Caso propio — Gambit.** No todos los sistemas se construyen desde cero. Gambit ya tenía una identidad muy definida; la gastronomía todavía no jugaba la misma partida. El reto no era abrir un concepto nuevo, era insertar una pieza nueva — la carta — en un sistema que ya funcionaba en todo lo demás, y hacer que hablara el mismo idioma que el resto. El resultado: una propuesta gastronómica integrada en el universo de Gambit, que aumentó la permanencia, el ticket medio y la eficiencia operativa. *"Más que una carta: una estrategia para mejorar la experiencia y la rentabilidad."* Es la otra mitad del hot take de esta edición — no solo diseñar antes de abrir, también innovar dentro de un sistema que ya existe, sin romperlo.
 
@@ -708,3 +684,11 @@ See you in six months.
 91. Directo al Paladar, *"Este bar de Barcelona solo quiere camareros de más de 50 años para que sirvan tapas del siglo pasado"*, 19 jun 2024.
 92. TBNB, caso propio RASA (`casos-propios-tbnb.md`): concepto y narrativa de marca, propuesta gastronómica y de coctelería, operación, flujos y cultura de servicio; detalle del trabajo de hospitalidad (manual de servicio, rituales de bienvenida, formación, lenguaje de servicio e identidad de tribu del equipo) confirmado por Andrea, nov 2026.
 93. TBNB, caso Rascal, thebarnbarconsulting.com/rascal.
+94. Time Out Barcelona, ficha de Oblicuo Hi-Fi Bar, 22 ene 2024; *"Qué son los listening bars y por qué empiezan a estar de moda en Barcelona"*, ene 2024.
+95. Neo2, *"¿Vale lo que cuesta el nuevo Ultramarinos Marín en Madrid?"*, 26 oct 2026; Guía Michelin, ficha de Ultramarinos Marín (Barcelona).
+96. Idealista, *"The Korean retail phenomenon arrives in Barcelona: Kim Market, the first konbini in the city"*, 2 oct 2025; Metrópoli Abierta, 26 sep 2025.
+97. Lost in Travel Guide, *"Monk, Barcelona's hidden speakeasy tucked away behind a modest convenience store"*.
+98. Time Out Barcelona, *"Así es la coctelería evolutiva de Botanicus, el nuevo bar de Poblenou"*; botanicusbcn.com.
+99. Tripadvisor, ficha de Probio Drinks (Barcelona).
+100. Barcelona Urbana, *"Best mocktails Barcelona guide"*.
+101. Club Soda, tienda y tasting room sin alcohol, Covent Garden (Londres).
