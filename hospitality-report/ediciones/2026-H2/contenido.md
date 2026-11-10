@@ -527,18 +527,21 @@ Nos la llevamos a casa porque es la pregunta que, en nuestra experiencia con cli
 
 | Movimiento | Dónde | Señal | Fuente |
 |---|---|---|---|
-| ⚠ OVERHYPED — Ola de pollo frito viral en TikTok (Tasty Crousty, Krousty Sabaïdi, Chikin Bang, Chick Chill) | Francia | Explosión de marcas nacidas en redes, colonizando dark kitchens en meses — sin garantía de que sobrevivan al filtro del margen. Contraejemplo directo del Shift 3. | [2] |
+| ⚠ OVERHYPED — Ola de pollo frito viral en TikTok (Tasty Crousty, Krousty Sabaïdi, Chikin Bang, Chick Chill) | Francia | Explosión de marcas nacidas en redes, colonizando dark kitchens en meses — sin garantía de que sobrevivan al filtro del margen. Contraejemplo directo del Shift 5: una buena idea, o una buena ola, no basta. | [2] |
 | ↑ RISING — Guinness, "Splitting the G" | Reino Unido / global | Marca de 267 años que más que dobló su viralidad social (2023-2024) activando un ritual de bar que ya existía entre sus clientes, en vez de inventar uno nuevo. Innovar dentro de un sistema de marca sólido, no rompiéndolo. | [3] |
-| ● EARLY SIGNAL — Croissound y el "bakery rave" | Montreal (Canadá); también Amberes (Bélgica, pop-up de Louis Bekk) | Fiestas y sesiones de DJ dentro de panaderías, en dos países distintos — refuerza que el Shift 1 no es un caso aislado. | [19] |
+| ● EARLY SIGNAL — Croissound y el "bakery rave" | Montreal (Canadá); también Amberes (Bélgica, pop-up de Louis Bekk) | Fiestas y sesiones de DJ dentro de panaderías, en dos países distintos. Conecta con el Shift 1: el mismo local, otro momento del día. | [19] |
 | ↑ RISING — Soju en el mercado estadounidense | EEUU | Espirituoso coreano, impulsado por la cultura K-pop, entra al top de tendencias emergentes de bebida. | [26] |
 | ↑ RISING — Barritas proteicas "golosina" (Barebells, Built) | EEUU / Europa | Snack proteico posicionado como capricho, no como suplemento, con precio premium — entre las marcas de F&B independientes de más rápido crecimiento. | [3] |
 | ● EARLY SIGNAL — Xeque Mate (bebida lista para beber) | Brasil | Ganó penetración anclándose a momentos de alta energía social (Carnaval, festivales de calle) en vez de depender de medios pagados. | [3] |
-| ↑ RISING — Barr, de los fundadores de Noma | Copenhague | Taberna con platos contundentes a 55-80€ con cerveza incluida — ya validó el modelo que ahora persigue el Shift 6. | [35] |
+| ↑ RISING — Barr, de los fundadores de Noma | Copenhague | Taberna con platos contundentes a 55-80€ con cerveza incluida — la versión accesible y de barra de un equipo de referencia, sin menú degustación. | [35] |
 | ↑ RISING — Ecosistema Frama: diseño → hostelería | Copenhague | Apotek 57, Cabin y un restaurante completo previsto para 2026 — una marca de diseño desplegando hostelería como extensión natural, el espejo inverso de la hostelería que se hace merchandising. | [33][36] |
-| ↑ RISING — Sonny y Kani (ecosistema Kadeau) | Copenhague | Marcas hermanas de una casa de alta cocina, cada una con identidad propia — refuerzo del Shift 4 sin necesitar ficha propia. | [35] |
+| ↑ RISING — Sonny y Kani (ecosistema Kadeau) | Copenhague | Marcas hermanas de una casa de alta cocina, cada una con identidad propia: una familia de marcas en la que cada formato tiene su momento. | [35] |
 | ↑ RISING — Noma, "12 Seasons" y Noma Projects Shop | Copenhague | Un referente mundial cambia su modelo de reservas (de 3 temporadas a 12 al año) y vende fermentados propios para cocinar en casa — un restaurante ya consolidado rediseñando su propio negocio. | [35] |
 | → STABLE — Bird Uptown / Bird Downtown | Copenhague | Diseño acústico, no la coctelería, como eje de experiencia — formato asentado desde 2021, interesante pero no tan fresco como para Concept Watch. | [33] |
 | ↑ RISING — Mont Bar, maridaje 0,0 a 95€ | Barcelona | Refuerzo español directo del bloque DRINKS de 06 — diez bebidas sin alcohol al precio de una experiencia de autor. | [30] |
+| ↑ RISING — Café funcional y *tonic bars* | Nueva York / Los Ángeles / España | Erewhon, el supermercado de culto de Los Ángeles, ha llevado su *tonic bar* de batidos y bebidas funcionales a Kith Ivy, un club privado de bienestar del West Village [102]. En España, la versión de barrio son las cafeterías de especialidad que cambian el sirope por ingredientes funcionales (melena de león, reishi, colágeno), como vimos en Sonny en Copenhague [32]. | [32][102] |
+| → STABLE — Brodo, el caldo que se toma como un café | Nueva York | Caldo de huesos de larga cocción servido en vaso para llevar, como si fuera un café, desde 2014. El formato ya está asentado, y es el antecedente de la barra funcional que ahora crece [103]. | [103] |
+| ↑ RISING — Bienestar con barra | Barcelona | El contraste térmico se convierte en plan social. Termas Bonay abrió en 2026 en la azotea del hotel Casa Bonay, con sauna, hammam, baño de hielo y un ofuro japonés, dentro de un ecosistema conocido por su café y su cultura gastronómica [104]. Rokka Studio lleva el formato a un estudio boutique de sauna y baño de hielo [105]. La pregunta para la hostelería es quién se queda con el café de después. | [104][105] |
 | ● EARLY SIGNAL — Bællevin | Copenhague | Tienda de vino natural que anuncia el salto a wine bar de ~80 plazas, todavía no operativa — el caso más útil de todo el material para escalar de tienda a sala grande sin perder identidad. | [35] |
 
 ---
@@ -555,6 +558,7 @@ Nos la llevamos a casa porque es la pregunta que, en nuestra experiencia con cli
 | "Powered by pop" — refrescos funcionales de sabor complejo | Una de las 6 direcciones de producto de WGSN | Cruce entre funcionalidad e indulgencia sensorial en bebidas sin alcohol — categoría todavía en construcción. | [19] |
 | Circadian — atelier de té sin alcohol, mesa compartida anfitrión/invitado | Funkhaus, Berlín | Sin equivalente documentado en España; conecta con la categoría de bebida funcional de 06, llevada a un formato de ritual. | [34] |
 | Lille Bakery frente a Juno the Bakery — dos modelos de panadería de especialidad en la misma ciudad | Copenhague | Culto y cola diaria (Juno) frente a barrio y recurrencia (Lille) — sin equivalente documentado en España en el material disponible. | [33][35] |
+| La fermentación como producto propio: obradores de koji y "laboratorios de tiempo" | Delta del Ebro / País Vasco | Kenshô, en l'Ampolla, produjo en 2015 el primer sake de España y hoy elabora con koji su propio amazake, miso y tamari, con visitas y catas en una masía de 1945 [106]. En Irun, Ama Brewery, fundada por dos miembros del equipo de I+D de Mugaritz, embotella *pét-nat* de té fermentado, con muy poco alcohol, tratado con la precisión de un espumoso [107]. Todavía son productores, no hostelería. Pero apuntan a un tipo de bebida y de despensa que las barras más inquietas ya empiezan a pedir. | [106][107] |
 | El comensal solo y la barra | EEUU / España | Reservas individuales +23% en EEUU, con gasto medio de 94$ frente a 60$ del total; en España, señal todavía débil y localizada en turismo y negocios — vigilar si el modelo de barra (Barr, Pompette) se replica como respuesta. | [30] |
 
 **La pregunta que dejamos abierta: ¿espacio para retener, o espacio para rotar?**
@@ -692,3 +696,9 @@ See you in six months.
 99. Tripadvisor, ficha de Probio Drinks (Barcelona).
 100. Barcelona Urbana, *"Best mocktails Barcelona guide"*.
 101. Club Soda, tienda y tasting room sin alcohol, Covent Garden (Londres).
+102. AOL / Erewhon, *"Erewhon to open an exclusive tonic bar in New York City"* (Kith Ivy, West Village), 2025.
+103. DNAinfo, *"East Village restaurant serves up $9 to-go cups of bone broth"*, 17 nov 2014; drink.brodo.com.
+104. Time Out Barcelona, *"Un pequeño spa al aire libre con un ofuro japonés: así son las termas con vistas que han abierto en la azotea de un hotel de Barcelona"*, abr 2026.
+105. ClassPass, ficha de Rokka Studio (Barcelona).
+106. Fever / TUI, visita a Kenshô en el Delta del Ebro; kenshosake.com.
+107. Guía Repsol, ficha de Ama Brewery (Irun); Meininger's, *"Das baskische Low-Alcohol-Projekt Ama"*.
