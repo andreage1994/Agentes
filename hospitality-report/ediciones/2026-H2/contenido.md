@@ -42,21 +42,26 @@ Esta edición sigue ese mismo hilo. Con tanta inspiración disponible, ¿qué se
 ## 02. THE BIG PICTURE
 *El tablero está cambiando.*
 
-Barcelona y Madrid llevan todo 2026 dando la misma lección, cada una a su manera.
+Esta sección no va de cifras. Va de cómo está cambiando la forma de entender la hostelería: qué espera hoy el cliente cuando entra en un bar, una cafetería o un restaurante, y qué tienen en común los sitios que lo han entendido antes que el resto.
 
-En Barcelona, la cocina catalana de siempre vuelve con otra cara. El equipo de Maleducat montó Casa Fiero, una casa de comidas a la que se va a por macarrones, brasa y cazuela [43]. Artur Martínez, el chef de Aürt, abrió en febrero Trü: una taberna para recuperar platos catalanes que ya casi no se veían en la ciudad, sin el protocolo del fine dining [42].
+El punto de partida es sencillo: **ya no basta con abrir un sitio donde se come bien.** La buena cocina se da por supuesta. Lo que hace que un sitio se llene es que el cliente entienda a la primera qué es y por qué tendría que ir allí y no a otro.
 
-Trü no es un caso aislado. En Barra Oso, paredes desnudas, velas y música de fondo conviven con una cocina de una exigencia técnica enorme: todo se elabora desde cero, con fondos muy trabajados, brasa y técnicas contemporáneas aplicadas a producto tradicional, y la carta cambia según lo que llega cada mañana de la lonja y del mercado [44]. Malparit, en el Eixample, junta producto de primera y técnica en un formato de bar y restaurante sin ceremonia [50]. **Es la alta gastronomía hecha accesible: la técnica se queda, el protocolo se va.**
+Barcelona y Madrid llevan todo 2026 demostrándolo. En Barcelona, la cocina catalana de siempre vuelve con otra cara: el equipo de Maleducat montó Casa Fiero, una casa de comidas a la que se va a por macarrones, brasa y cazuela [43], y Artur Martínez abrió en febrero Trü, una taberna para recuperar platos catalanes que ya casi no se veían en la ciudad [42]. En Barra Oso, paredes desnudas, velas y música de fondo conviven con una cocina de exigencia técnica enorme, donde todo se elabora desde cero y la carta cambia según lo que llega cada mañana de la lonja y del mercado [44]. Malparit, en el Eixample, junta producto de primera y técnica en un formato de bar sin ceremonia [50]. **Es la alta gastronomía hecha accesible: la técnica se queda, el protocolo se va.**
 
-En Madrid, el casual se ha puesto nombre propio. Caradura se presenta como *"not so fine dining"* y llena Chamberí con sándwiches y brunch [45]. En BAS, dos cocineros argentinos han convertido la lengua a la brasa, un plato nada fácil para el gran público, en uno de los más pedidos de la carta [46]. Dolce Positano lleva la Costa Amalfitana a Moncloa con una pizza elegida la segunda mejor de la Comunidad de Madrid en 2025 [47].
+En Madrid, el casual se ha puesto nombre propio. Caradura se presenta como *"not so fine dining"* y llena Chamberí con sándwiches y brunch [45]. En BAS, dos cocineros argentinos han convertido la lengua a la brasa en uno de los platos más pedidos de la carta [46]. Dolce Positano lleva la Costa Amalfitana a Moncloa con una pizza elegida la segunda mejor de la Comunidad de Madrid en 2025 [47].
 
-Lo que tienen en común no es el tipo de cocina ni el precio. Es que cada uno se entiende a la primera: la taberna catalana del chef de Aürt, la casa de comidas de los macarrones, la barra de velas con cocina de lonja, el bistró de la lengua a la brasa, la pizzería amalfitana de Rosales. Ahí está el cambio de fondo: **ya no basta con abrir un sitio donde se come bien.** En todos ellos se come bien, pero no es eso lo que los llena. Lo que los llena es que el cliente sabe qué va a encontrar y por qué tendría que ir allí y no a otro sitio.
+Ninguno compite solo por cocinar bien. Todos se entienden a la primera, y eso, que parece una cuestión de estilo, es una cuestión de negocio. Son independientes, sin la estructura ni el presupuesto de una cadena, y compiten con la misma ventaja que hace crecer a las cadenas: que el cliente los reconozca. En 2025, los restaurantes de marca y cadena crecieron seis veces más que el independiente [39]. Un independiente no necesita convertirse en cadena para jugar con esa ventaja. Necesita un concepto claro. Hay una prueba sencilla que usamos con clientes: **si el concepto no se puede explicar en una frase, el cliente tampoco va a poder repetirlo.**
 
-Eso, que parece una cuestión de estilo, es una cuestión de negocio. Son restaurantes independientes, sin la estructura ni el presupuesto de una cadena, y compiten con la misma ventaja que hace crecer a las cadenas: que el cliente los reconozca. En 2025, los restaurantes de marca y cadena crecieron seis veces más que el independiente [39]. Estos locales demuestran que un independiente no necesita convertirse en cadena para jugar con esa ventaja. Necesita un concepto claro.
+A partir de ahí, identificamos seis tendencias que están transformando la manera de entender la hostelería:
 
-Hay una prueba sencilla que usamos con clientes: **si el concepto no se puede explicar en una frase, el cliente tampoco va a poder repetirlo.** Todos los sitios de arriba la pasan.
+1. **The New Coffee Culture:** el café deja de ser un trámite y se convierte en ritual.
+2. **Beyond the Menu:** el criterio de compra y el producto como firma.
+3. **The Experience Economy:** la identidad y el estilo de vida como razón para ir.
+4. **The New Social Spaces:** del restaurante al club.
+5. **Design with Purpose:** el espacio como parte del concepto.
+6. **The Return of Hospitality:** la sala vuelve al centro.
 
-Ese concepto claro se está construyendo hoy desde seis frentes: el café, el producto, la experiencia, el espacio social, el diseño y el servicio. Los locales de Barcelona y Madrid ya tocan varios a la vez: la cocina de lonja de Barra Oso, el plato que define a BAS, la estética de Dolce Positano. Debajo va la vista completa de cada frente; las secciones que siguen los desarrollan.
+Cada una responde, desde un ángulo distinto, a la misma pregunta: por qué alguien elige tu sitio y no otro.
 
 ### 1. The New Coffee Culture — la cafetería deja de ser un trámite
 
