@@ -156,3 +156,26 @@ construir desde cero** — es la tesis de fondo que TBNB ya usa para venderse a
 sí misma, con cuatro casos reales ya documentados que la sostienen. El
 Hospitality Report puede (y probablemente debe) ser la versión "editorial, no
 de venta" de la misma idea.
+
+---
+
+## Rascal (Barcelona)
+
+*Añadido el 2026-11-10 a partir de thebarnbarconsulting.com/rascal; sustituye a
+Mantener como caso propio en Concept Watch de la edición H2 2026.*
+
+**El reto:** Peter, el propietario, tenía claro que no quería montar "otro
+brunch más": quería un local con identidad, carácter y fondo en Poblenou.
+
+**Cómo lo hicimos realidad (nueve frentes):** negociación con la propiedad del
+local; branding y definición del concepto; desarrollo gastronómico; pruebas de
+platos y creación de la carta (shakshuka, romesco); acondicionamiento del
+local; selección de proveedores (alianza de café de especialidad con Familia
+Osorio); estrategia de precios y diseño de la carta física; estrategia de redes
+y medios pagados; diseño de la operación diaria.
+
+**El resultado:** brunch y wine bar de cocina contemporánea y de temporada,
+con fermentados y encurtidos propios, café de especialidad y vino natural.
+
+**Tagline del caso:** *"Brunch sin clichés, vino sin reglas y un local que late
+al ritmo de Poblenou."*

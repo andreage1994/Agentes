@@ -324,9 +324,11 @@ Barcelona tiene ejemplos de cómo hacerlo con concepto. Superauto, el nuevo proy
 ## 04. CONCEPT WATCH
 *Los conceptos que están haciendo las cosas de forma diferente.*
 
-Si el resto de este informe explica por qué falta sistema, esta sección muestra qué aspecto tiene cuando sí existe — y qué aspecto tiene cuando se construye a medias, por el camino largo. RASA y Mantener Barcelona son nuestra propia prueba de que diseñar el sistema antes de abrir la puerta es una decisión concreta, no una frase bonita. Mamatte es la prueba de que también se puede llegar al mismo sitio rediseñando capa a capa, después de haber crecido sin plan. Los casos de esta sección no tienen fronteras: van de Barcelona a Copenhague y de Madrid a Valencia, y la pregunta que les hacemos es siempre la del Opening, vista en terreno real. Buscamos inspiración en cualquier ciudad del mundo donde alguien esté haciendo las cosas de otra manera. Y este semestre lo hacemos con una ventaja: buena parte de lo que contamos no lo hemos leído, lo hemos visto con nuestros propios ojos, durante el viaje a Copenhague y en nuestro propio trabajo de campo.
+Si el resto de este informe explica por qué falta sistema, esta sección muestra qué aspecto tiene cuando sí existe — y qué aspecto tiene cuando se construye a medias, por el camino largo. RASA y Rascal, dos proyectos desarrollados por The Bar N' Bar, son nuestra propia prueba de que diseñar el sistema antes de abrir la puerta es una decisión concreta, no una frase bonita. Mamatte es la prueba de que también se puede llegar al mismo sitio rediseñando capa a capa, después de haber crecido sin plan. Los casos de esta sección no tienen fronteras: van de Barcelona a Copenhague y de Madrid a Valencia, y la pregunta que les hacemos es siempre la del Opening, vista en terreno real. Buscamos inspiración en cualquier ciudad del mundo donde alguien esté haciendo las cosas de otra manera. Y este semestre lo hacemos con una ventaja: buena parte de lo que contamos no lo hemos leído, lo hemos visto con nuestros propios ojos, durante el viaje a Copenhague y en nuestro propio trabajo de campo.
 
 ### RASA — Cobertura: España
+
+*Caso propio · Proyecto desarrollado por The Bar N' Bar.*
 
 **THE CONCEPT.** Cocktail lounge gastronómico inspirado en la India contemporánea, y un proyecto de desarrollo de The Bar N' Bar de principio a fin: concepto y narrativa de marca, propuesta gastronómica y de coctelería, operación y cultura de servicio.
 
@@ -340,15 +342,17 @@ Por eso el sistema se construyó entero *antes* de abrir la puerta, no se ajust�
 
 ---
 
-### Mantener Barcelona — Cobertura: Barcelona
+### Rascal — Cobertura: Barcelona
 
-**THE CONCEPT.** Restaurante de cocina latina contemporánea conectado con la energía gastronómica y cultural de Barcelona.
+*Caso propio · Proyecto desarrollado por The Bar N' Bar.*
 
-**WHY IT WORKS.** La decisión de local — alquiler, idoneidad del espacio — se evaluó como parte del mismo sistema que la operación y el concepto, no como un paso previo aislado.
+**THE CONCEPT.** Brunch y wine bar en Poblenou, con cocina contemporánea y de temporada, sabores potentes, fermentados y encurtidos propios e influencias internacionales, acompañada de café de especialidad y vino natural. *"Brunch sin clichés, vino sin reglas y un local que late al ritmo de Poblenou"* [93].
 
-**THE IDEA BEHIND IT.** *"El problema empieza antes de abrir la puerta, cuando se elige un espacio que no encaja con la operación, el concepto o los números."* El reto no era abrir un restaurante con buena pinta. Era conseguir que cien decisiones distintas empujaran hacia el mismo sitio.
+**WHY IT WORKS.** Porque nació con una idea muy clara de lo que no quería ser. Peter, su propietario, no quería montar *"otro brunch más"*: quería un sitio con identidad, carácter y fondo [93]. Esa negativa inicial ordenó todas las decisiones posteriores, de la carta al espacio y de los proveedores al precio.
 
-**WHAT WE CAN LEARN.** El puente directo aquí es con el Grupo Ephemera (París) — Stellar, Under the Sea y Jungle Palace, tres restaurantes inmersivos donde escenografía y creación culinaria se diseñan juntas desde el origen [17] — y con el eje de interiorismo de Sancal: en los tres casos, el espacio no es un contenedor neutro. Es una decisión de sistema, tomada con la misma seriedad que la carta o el equipo. *"Empezar bien, para no sufrir después."*
+**THE IDEA BEHIND IT.** Rascal es un proyecto desarrollado por The Bar N' Bar desde el primer día, y por eso es también un ejemplo de lo que significa diseñar un negocio antes de abrirlo. El trabajo empezó antes que la cocina: con la negociación con la propiedad del local. A partir de ahí, la marca y la definición del concepto; el desarrollo gastronómico, con pruebas de platos hasta cerrar la carta (una shakshuka sedosa, un romesco catalán) antes de la apertura; el acondicionamiento del espacio; la selección de proveedores, con una alianza de café de especialidad con Familia Osorio; la estrategia de precios y el diseño de la carta física; la estrategia de redes y de medios pagados, y el diseño de la operación diaria [93]. Nueve frentes distintos trabajados como un solo proyecto. Es, en pequeño, el bar con concepto del Shift 1: un local al que se va por la mañana a por café y por la tarde a por vino natural, sin que deje de ser el mismo sitio.
+
+**WHAT WE CAN LEARN.** Que el brunch, uno de los formatos más repetidos de la ciudad, todavía tiene espacio cuando hay un concepto detrás. Y que la diferencia no la marca una sola decisión brillante, sino que todas empujen en la misma dirección, empezando por las menos visibles: el contrato del local, el proveedor de café o el precio de cada plato. *"Rascal no es el brunch de siempre, ni pretende serlo"* [93].
 
 ---
 
@@ -372,7 +376,7 @@ Por eso el sistema se construyó entero *antes* de abrir la puerta, no se ajust�
 
 **THE IDEA BEHIND IT.** El journey se diseñó en tres pasos deliberados. Pompette capta al cliente con precio bajo. Villette — ladrillo visto en un edificio que fue instituto y parque de bomberos, techos altos, farolillos de papel, luz rosada — lo retiene y le sube el ticket (principal por debajo de 150 DKK) con la confianza que Pompette ya ganó.
 
-**WHAT WE CAN LEARN.** Puente directo con RASA y Mantener — el sistema se diseña antes, no se parchea después — y con el Shift 6: aquí el ticket bajo y la rotación son la palanca de margen, no la carta de autor.
+**WHAT WE CAN LEARN.** Puente directo con RASA y Rascal: el sistema se diseña antes, no se parchea después. Y con el Shift 2: aquí el ticket bajo y la rotación son la palanca de margen, no la carta de autor.
 
 ---
 
@@ -534,7 +538,7 @@ La marca como sistema (Shift 4) tiene detalle táctico concreto: uniforme como s
 
 No es una pregunta retórica. Es la pregunta que decide si un fracaso se entiende o se repite.
 
-Todo lo que hemos documentado en este informe apunta hacia la misma respuesta incómoda. Hay una cifra que debería grabarse en la pared de cualquier cocina: *"las tendencias atraen a los clientes, los márgenes los retienen"* [2]. El Shift 1 muestra qué pasa cuando una categoría se rebautiza sin cambiar primero la operación (WeWork) y qué pasa cuando sí lo hace (Mamatte). El Shift 4 muestra que la consistencia de marca que tanto se vende como receta de éxito es, en realidad, el síntoma de un sistema ya alineado por debajo — no la causa. El Shift 6 muestra lo mismo en la cocina de un chef con tres estrellas: ni la reputación más alta posible sostiene un sistema de rotación que ya no cuadra. Y nuestros propios casos, RASA y Mantener, llegan a la misma conclusión desde ángulos distintos: en RASA, el sistema se diseñó empezando por la narrativa; en Mantener, empezando por si el local encajaba de verdad con la operación y los números. En ninguno de los dos casos el punto de entrada fue "primero abrimos, ya veremos".
+Todo lo que hemos documentado en este informe apunta hacia la misma respuesta incómoda. Hay una cifra que debería grabarse en la pared de cualquier cocina: *"las tendencias atraen a los clientes, los márgenes los retienen"* [2]. El Shift 1 muestra qué pasa cuando una categoría se rebautiza sin cambiar primero la operación (WeWork) y qué pasa cuando sí lo hace (Mamatte). El Shift 4 muestra que la consistencia de marca que tanto se vende como receta de éxito es, en realidad, el síntoma de un sistema ya alineado por debajo — no la causa. El Shift 6 muestra lo mismo en la cocina de un chef con tres estrellas: ni la reputación más alta posible sostiene un sistema de rotación que ya no cuadra. Y nuestros propios casos, RASA y Rascal, llegan a la misma conclusión desde ángulos distintos: en RASA, el sistema se diseñó empezando por la narrativa; en Rascal, empezando por la negociación del local y por lo que el concepto no quería ser. En ninguno de los dos casos el punto de entrada fue "primero abrimos, ya veremos".
 
 La trampa de esta pregunta es que tiene una salida fácil: "el mercado no lo quería" no se puede refutar del todo, y además no señala a nadie. Es cómoda precisamente porque es externa. La otra respuesta — que tú abriste la puerta antes de sentarte a diseñar cómo iban a encajar todas las piezas — es incómoda porque es evitable, y porque es tuya. No decimos que el mercado nunca tenga razón. Decimos que, antes de concederle la razón al mercado, vale la pena comprobar si de verdad llegaste a dar a tu concepto la oportunidad de que el mercado lo juzgara bien diseñado.
 
@@ -592,7 +596,7 @@ La hostelería nunca ha tenido tantas ideas, conceptos e inspiración. Y sin emb
 
 Cerramos esta edición donde la abrimos, porque no ha cambiado: los negocios que documentamos no fracasan por falta de talento ni de ideas. Fracasan por falta de un sistema que haga que todo trabaje en la misma dirección. El tablero de números del Big Picture lo mostraba a escala de sector; los seis Shifts, uno por uno — desde una panadería francesa hasta la cocina de un chef con tres estrellas, el mismo gesto de rediseñar el sistema desde dentro —; los conceptos que estudiamos y el negocio que hay detrás de cada experiencia, con nombre propio. Si has leído esta edición de principio a fin, no has leído seis temas distintos — has leído el mismo argumento contado seis veces, desde seis sitios distintos.
 
-Nuestros cuatro casos propios de este semestre — RASA, Mantener Barcelona, Gambit y Lady Madrid — cuentan el mismo recorrido desde cuatro puntos de entrada distintos, y eso en sí mismo es una lección que casi nadie señala: el sistema no siempre se construye empezando por el mismo sitio. En RASA, el punto de entrada fue la narrativa — evitar el cliché cultural. En Mantener, fue el espacio — si el alquiler encajaba de verdad con la operación y los números. En Gambit, fue la identidad ya existente — hacer que la gastronomía hablara el idioma de un concepto que ya funcionaba en todo lo demás. Y en Lady Madrid, fue la operación del día a día.
+Nuestros cuatro casos propios de este semestre — RASA, Rascal, Gambit y Lady Madrid — cuentan el mismo recorrido desde cuatro puntos de entrada distintos, y eso en sí mismo es una lección que casi nadie señala: el sistema no siempre se construye empezando por el mismo sitio. En RASA, el punto de entrada fue la narrativa — evitar el cliché cultural. En Rascal, fue el propio local: la negociación con la propiedad y la decisión de no ser "otro brunch más". En Gambit, fue la identidad ya existente — hacer que la gastronomía hablara el idioma de un concepto que ya funcionaba en todo lo demás. Y en Lady Madrid, fue la operación del día a día.
 
 Lady Madrid ya tenía algo muy valioso cuando empezamos a trabajar juntos: un espacio con personalidad y una clientela fiel. Lo que le faltaba era la estructura para crecer con coherencia. Tras un año de trabajo, pasó de depender de la improvisación a crecer con criterio — no porque hiciera más cosas, sino porque todo, por fin, empezó a trabajar en la misma dirección. *"Transformar un negocio no siempre significa empezar de cero."*
 
@@ -703,3 +707,4 @@ See you in six months.
 90. Time Out Madrid, *"Estas mujeres preparan los mejores tacos de birria del centro de Madrid"* (Mami Tacos), 27 oct 2023.
 91. Directo al Paladar, *"Este bar de Barcelona solo quiere camareros de más de 50 años para que sirvan tapas del siglo pasado"*, 19 jun 2024.
 92. TBNB, caso propio RASA (`casos-propios-tbnb.md`): concepto y narrativa de marca, propuesta gastronómica y de coctelería, operación, flujos y cultura de servicio; detalle del trabajo de hospitalidad (manual de servicio, rituales de bienvenida, formación, lenguaje de servicio e identidad de tribu del equipo) confirmado por Andrea, nov 2026.
+93. TBNB, caso Rascal, thebarnbarconsulting.com/rascal.
