@@ -38,6 +38,10 @@ misma idea sin caer en lo evidente ni perder autenticidad.
 - Construimos el concepto y la narrativa de marca.
 - Diseñamos una propuesta gastronómica y de coctelería con identidad propia.
 - Definimos la operación, los flujos y la cultura de servicio.
+  Detalle confirmado por Andrea (2026-11-10): manual de servicio, rituales de
+  bienvenida, sesiones de formación con el equipo, lenguaje para explicar la
+  carta y recomendar, e identidad de tribu para que el equipo entre en un rol
+  y represente el concepto.
 - Coordinamos todas las capas del proyecto para que cada decisión sumara a
   una misma experiencia.
 
