@@ -238,25 +238,85 @@ Barcelona tiene ejemplos de cómo hacerlo con concepto. Superauto, el nuevo proy
 
 ### Shift 2 — Menos carta, más sistema
 
-*En desarrollo.*
+**WHAT WE SEE.** En diciembre de 2025, la familia La Ancha abrió Armando en la calle Carranza de Madrid. La carta cabe en una mano: cinco escalopes, del Armando de 40 centímetros de cerdo Duroc a uno de pez espada y otro vegetal, unas pocas guarniciones, tres postres y jarras para compartir [76]. El plato nació en los setenta, cuando un cliente pidió el escalope más grande posible y la cocina lo frio en una paellera. Medio siglo después tiene restaurante propio, sin reservas y con un ticket medio de unos 30 € [76]. En Malasaña, Mami Tacos lleva la idea al extremo: vive por y para la birria, servida en tacos, quesabirria o ramen, y solo abre a mediodía [77].
+
+**WHY NOW.** Por dos motivos que empujan en la misma dirección. Hacia fuera, una carta corta construye una identidad que el cliente entiende y recuerda a la primera: el sitio del escalope, el sitio de la birria. Hacia dentro, es la respuesta más directa a un problema que el sector no consigue resolver: para el 34% de los hosteleros, la falta de equipos preparados es su principal desafío en 2026 [28]. Y el cliente acompaña: el 37% de los españoles ya opta por menús más reducidos cuando sale [73].
+
+**THE SIGNALS.**
+- **El producto como concepto entero.** En Madrid, de las cinco aperturas más esperadas de 2026, tres se definen por un producto o un origen [30]. La carta deja de ser un catálogo y pasa a ser una frase.
+- **Lo mismo, lejos del fine dining.** En los cuatro locales que visitamos en Copenhague, la comida se reduce a pocos platos de producto, con poca o ninguna elaboración en el pase, y el margen se concentra en la bebida [32].
+- **Un plato, varios formatos.** Mami Tacos no tiene una carta larga, tiene una receta servida de varias maneras [77]. Es la forma de dar variedad sin multiplicar la producción.
+
+**WHAT IT MEANS.** Menos referencias significan menos stock, menos merma, menos partidas en cocina y una formación mucho más rápida. Un equipo nuevo aprende cinco platos en días, no en meses. El escandallo se puede controlar de verdad porque hay poco que controlar. Y la cocina deja de depender de perfiles que el mercado no tiene.
+
+**TBNB TAKE.** La carta corta es una de las pocas decisiones que mejoran a la vez la identidad y la cuenta de resultados. Pero tiene una contrapartida que conviene mirar de frente: deja muy poco margen de error. Si el plato estrella falla un día, no hay otros veinte que lo tapen. Si su materia prima se encarece, no hay dónde repartir la subida. Por eso funciona cuando el plato es de verdad excelente, cuando su coste está atado (proveedor estable, aprovechamiento completo del producto) y cuando hay un plan para que el cliente que ya lo probó tenga motivos para volver: formatos, temporada, extras. Es TREND. Lo que no funciona es la carta corta como recorte: quitar platos sin haber decidido antes qué es el sitio.
+
+**WHAT TO WATCH.** Si los monoproductos que hoy llenan con colas mantienen la frecuencia de visita pasado el primer año, o si dependen de la novedad.
+
+**HOW TO TAKE ADVANTAGE.** Sacar las ventas y el margen por plato de los últimos tres meses. En casi todas las cartas, unos pocos platos concentran la mayoría de las ventas y unos cuantos no se venden casi nunca pero se siguen produciendo. Empezar por ahí: quitar lo que no se vende, reforzar lo que define el sitio y medir qué pasa con la merma, las horas de cocina y el tiempo de servicio.
 
 ---
 
 ### Shift 3 — Ingresos más allá de la mesa
 
-*En desarrollo.*
+**WHAT WE SEE.** El restaurante empieza a vender fuera de su comedor. Armando fue primero un plato de la casa, después un fenómeno de delivery y, desde diciembre de 2025, un restaurante con nombre propio [76]: el delivery no sustituyó a la sala, sirvió para probar una marca antes de abrirle un local. Vereda, en Barcelona, ha abierto un obrador que sigue la filosofía de su cocina [70]. Las cafeterías de especialidad venden el café que sirven para prepararlo en casa. Y los bares con más comunidad lanzan ropa y objetos con su marca.
+
+**WHY NOW.** Porque la mesa tiene un techo. Hay un número de cubiertos por servicio y un número de servicios por día, y el alquiler no baja. Todo lo que se vende sin ocupar una silla mejora el rendimiento del mismo local. A la vez, el cliente ya ha normalizado comprar a las marcas que le gustan en más de un formato: el 57% de los españoles pide comida a domicilio alguna vez y el 28% lo hace al menos una vez por semana [73].
+
+**THE SIGNALS.**
+- **Delivery de marca propia, no de catálogo.** El delivery ha pasado de la euforia a la madurez: el gasto se ha estancado y las comisiones de plataforma están entre el 15% y el 30% [30]. Con esas comisiones, un plato rentable en sala puede perder dinero en casa del cliente. Lo que funciona es lo que nace pensado para viajar, como hizo Armando.
+- **El obrador como segunda línea.** Producir pan, bollería o conservas para el propio local y venderlas fuera reparte el coste de la producción entre dos negocios [70].
+- **El producto para casa.** El café en grano, la conserva propia o el helado para llevar convierten el criterio del local en algo que el cliente se lleva.
+
+**WHAT IT MEANS.** El negocio deja de medirse solo por lo que factura cada mesa y pasa a medirse por lo que factura cada cliente, esté o no sentado. Pero cada línea nueva es, en la práctica, otro negocio: con su producción, su stock, su logística y su atención.
+
+**TBNB TAKE.** Aquí hay que separar dos cosas que se suelen mezclar. Una es una segunda línea de negocio real: un obrador, un producto para casa o un delivery pensado como marca, con su escandallo y su margen. La otra es marketing con precio: la camiseta, la tote bag, la taza. La segunda casi nunca paga el alquiler, y no tiene por qué: su trabajo es que la marca salga a la calle y que el cliente fiel la lleve puesta. El error es esperar de una lo que solo puede dar la otra, o abrir una línea nueva sin saber si el equipo tiene horas para sostenerla sin que se resienta la sala. Es TREND, pero selectiva: tiene sentido para conceptos con una identidad lo bastante fuerte como para que alguien quiera llevársela a casa.
+
+**WHAT TO WATCH.** Si más restaurantes empiezan a lanzar producto propio en tiendas de terceros, y si el delivery de marca propia gana peso frente al catálogo de platos de la carta de sala.
+
+**HOW TO TAKE ADVANTAGE.** Antes de abrir una línea nueva, hacer tres números: cuánto margen deja cada unidad después de producción, embalaje y comisiones; cuántas horas de equipo necesita a la semana; y cuántas unidades hay que vender para que esas horas compensen. Si no salen, es marketing. Puede valer la pena, pero hay que presupuestarlo como tal.
 
 ---
 
 ### Shift 4 — De la improvisación al sistema: un trabajo que merezca la pena
 
-*En desarrollo.*
+**WHAT WE SEE.** La hostelería española tiene un problema que ya no se puede esconder detrás de la temporada alta. El 75% de las empresas del sector reconoce dificultades para encontrar los perfiles que necesita [78]. La rotación roza el 64%, la más alta de toda la economía española [79]. Y quien se va no lo hace solo por el sueldo, aunque pese: la retribución media en hostelería se queda en 1.512 € al mes, frente a 2.345 € de media en España [79]. Se va también por las jornadas largas, los turnos que cambian cada semana, la falta de conciliación y la sensación de que no hay a dónde crecer [80].
+
+**WHY NOW.** Porque la escasez ya no es coyuntural. Y porque todo lo que esta edición describe, desde la sala que vuelve al centro hasta el bar que cambia de ambiente tres veces al día, depende de un equipo que esté, que sepa y que quiera quedarse.
+
+**THE SIGNALS.**
+- **El problema no se arregla solo con horas.** Entre los motivos de abandono pesan tanto el sueldo como la forma de trabajar: turnos imprevisibles, falta de conciliación y pocas perspectivas [80]. Dos días libres no compensan una semana de caos.
+- **El improvisado es el que se quema.** Cuando no hay procesos, cada servicio se resuelve a base de esfuerzo individual. Funciona un día, una semana, una temporada. Después, el equipo se va.
+- **La carta y el modelo ya están cambiando por esto.** Las cartas cortas y las cocinas pensadas para el equipo que de verdad hay (Shift 2) son, en parte, una respuesta a la falta de personal.
+
+**WHAT IT MEANS.** El negocio que quiera retener a su gente tiene que competir no solo en sueldo, sino en cómo se trabaja. Y eso, a diferencia del sueldo, está casi siempre en su mano.
+
+**TBNB TAKE.** No se trata solo de dar dos días libres ni de trabajar ocho horas. Se trata de que esas ocho horas merezcan la pena. Eso empieza por algo muy poco glamuroso: un sistema de trabajo. Horarios publicados con tiempo. Funciones claras, para que cada persona sepa qué se espera de ella y qué no. Fichas técnicas y procesos escritos, para que el servicio no dependa de que la persona que lo sabe todo haya venido hoy. Una acogida de verdad para quien entra, y un briefing antes de cada servicio. Y un camino visible para crecer dentro. Cuando el trabajo depende de la improvisación, la improvisación acaba en estrés, en caos y en un equipo quemado. Cuando hay sistema, el equipo tiene espacio para hacer bien lo que solo una persona puede hacer: atender. Si queremos que la gente quiera trabajar en hostelería, las empresas tienen que aportar valor como empresa, no solo como sitio donde se cobra a fin de mes. Es TREND, y es el shift del que dependen todos los demás.
+
+**WHAT TO WATCH.** Si la rotación del sector empieza a bajar en los negocios que han profesionalizado su gestión de equipo, frente a los que siguen funcionando a base de urgencias.
+
+**HOW TO TAKE ADVANTAGE.** Preguntar al equipo, sin rodeos, qué es lo que más desgasta de su semana. Casi nunca es una sola cosa, y casi siempre tiene solución con organización: un cuadrante que no cambia a última hora, una tarea mal repartida, una información que nadie da. Elegir las dos que más pesan y resolverlas antes de tocar nada más.
 
 ---
 
 ### Shift 5 — Una buena idea ya no basta: el negocio se diseña antes de abrir
 
-*En desarrollo.*
+**WHAT WE SEE.** En 2025 se abrieron 585 locales de restauración en Madrid, y en el centro de la ciudad cerraron al menos 406: más de uno al día [81]. En toda España, la rentabilidad de la restauración fue negativa en los nueve primeros meses del año [40], y en 2025 los que más cerraron fueron los restaurantes de precio alto y posicionamiento premium [38]. Aun así, uno de cada tres hosteleros planea abrir en 2026 [28]. El mercado nunca había tenido tanta oferta. Y en un mercado así, una buena idea ya no es suficiente.
+
+**WHY NOW.** Porque el margen de error se ha estrechado. Los costes suben más rápido que lo que el cliente está dispuesto a pagar, el cliente elige con más cuidado y la competencia está en la misma calle. En Barcelona, además, el plan de usos de Ciutat Vella limita las licencias nuevas en las zonas más saturadas: el local con licencia se convierte en un activo, y muchas veces lo viable es reconvertir lo que ya existe antes que abrir algo nuevo [30].
+
+**THE SIGNALS.**
+- **Se cierra mucho y se cierra pronto.** Las cifras de Madrid no hablan de un sector en crisis, sino de uno con mucha rotación de proyectos: se abre con ilusión y se cierra cuando los números no salen.
+- **Ni siquiera la parte alta está a salvo.** Si el segmento premium es el que más cierra, el problema no es la ambición del concepto, sino lo que hay debajo [38].
+- **Los cuatro shifts anteriores son, en el fondo, formas de hacer que los números cuadren.** Más horas de venta, menos carta, ingresos fuera de la mesa, un equipo que se queda. Ninguno se improvisa después de abrir.
+
+**WHAT IT MEANS.** Un restaurante es, antes que nada, un negocio. Tener claro el concepto es imprescindible, pero no suficiente: hace falta saber cuánto hay que facturar para cubrir costes, cuánto se puede pagar de alquiler, qué carta se puede producir con el equipo que hay y cuánto tiempo aguanta el negocio si los primeros meses van más lentos de lo previsto.
+
+**TBNB TAKE.** Lo dijimos al principio de este informe y lo repetimos aquí, con los números delante: la ilusión elige el qué; la viabilidad decide el cómo. Proyectar no es hacer un Excel optimista para enseñárselo al banco. Es responder antes de firmar a las preguntas que, si no se responden, responderá el mercado. Cuál es el punto de equilibrio y cuántos cubiertos al día hacen falta para llegar a él. Qué parte de la facturación se va en alquiler, en personal y en producto, y si esa proporción es sostenible. Qué pasa si el primer año factura un 20% menos de lo previsto. Cuánto colchón hay para aguantarlo. Un concepto que no pasa esas preguntas no es un mal concepto: es un concepto que todavía no está listo. Es TREND, y es la razón por la que existe nuestro trabajo.
+
+**WHAT TO WATCH.** Si la proporción entre aperturas y cierres en Madrid y Barcelona se mantiene en 2026, y si los nuevos proyectos empiezan a abrir con formatos más pequeños y más flexibles para reducir riesgo.
+
+**HOW TO TAKE ADVANTAGE.** Antes de firmar un local, hacer el ejercicio al revés: partir de lo que el local puede facturar de forma realista, restar lo que cuesta, y ver si lo que queda justifica la inversión. Si para que salgan los números hace falta estar lleno todos los días desde el primer mes, el plan no está listo.
 
 ---
 
@@ -623,3 +683,9 @@ See you in six months.
 73. AECOC Shopperview y 40dB, 11.º Barómetro de Momentos de Consumo, vía Europa Press/Bolsamanía, *"El 66% de los españoles sale a bares y restaurantes igual o más que hace un año"*, 12 may 2026.
 74. Neo2, *Superauto* (Ronit Stern, La Balabusta), por Rosa Chaneta, 25 mar 2026.
 75. TBNB (Andrea), nov 2026: concepto de Tav y de Atav (Eixample, Barcelona).
+76. Neo2, *"Restaurante Armando: por fin el escalope tiene casa propia"*, por Javier Abio, 17 dic 2025.
+77. Time Out Madrid, *"Estas mujeres preparan los mejores tacos de birria del centro de Madrid"* (Mami Tacos), 27 oct 2023.
+78. ManpowerGroup, *"La hostelería española se queda sin manos: el 75% de los empresarios no encuentran personal"*, 2026.
+79. Synergie España, informe sobre el empleo en hostelería 2026, vía InfoHoreca, *"La falta de personal y una rotación del 64% ponen en jaque la campaña de verano de la hostelería"*, 26 jun 2026.
+80. Randstad Research, vía InfoHoreca, *"La hostelería española afronta su mayor crisis de talento"*, 29 abr 2026.
+81. Informe de Fernando Múgica (gestor de traspasos de locales de restauración) sobre 2025, vía El Cronista y OKDiario, 2026.
