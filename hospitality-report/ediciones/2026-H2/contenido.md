@@ -95,17 +95,13 @@ Barcelona lo cuenta desde formatos muy distintos.
 
 **Vereda: del bar de barrio al obrador.** En la esquina de Diputació con Villarroel, un local abandonado de 60 m² es hoy un bar de vinos naturales y cocina local, con la barra curva original restaurada y el terrazo recuperado [69]. La cocina trabaja con producto local y de temporada, y Vereda acaba de abrir un obrador propio que sigue la misma filosofía [70]. El criterio de compra ya no cabe solo en la carta del bar: se convierte en una segunda línea de negocio.
 
-**Sagàs Pagesos i Cuiners: la granja en la ciudad.** En el Born, casi toda la verdura, la carne, los huevos y los embutidos llegan de la granja de la familia Rovira, la que la familia lleva décadas trabajando en el Berguedà [52]. El nombre ya lo dice todo: primero campesinos, después cocineros.
-
-**Pirineu en Boca: un territorio entero.** Restaurante, carnicería y tienda a la vez, en el Eixample, con un único criterio: todo viene del Pirineo. Trabajan directamente con unos 70 pequeños productores de montaña [53].
-
 **Sartoria Panatieri: el origen en un producto cotidiano.** Rafa Panatieri y Jorge Sastre trabajan con producto ecológico, local y de temporada, y elaboran ellos mismos parte de los embutidos y los quesos [54]. Lo hacen con uno de los formatos más replicados del mundo, la pizza, y aun así han llegado a estar entre las mejores pizzerías del mundo según 50 Top Pizza [54].
 
 **Delacrem Terra: el origen en un helado.** Massimo Pignata, fundador de Delacrem, abrió en abril de 2025 en la calle Muntaner una heladería construida alrededor de pequeños productores de proximidad: avellana negreta de La Trencadora, una familia de Tarragona que la cultiva desde 1920; dulce de leche de La Garriga; quesos como el del Cadí, y sorbetes con la fruta de cada temporada. La carta rota a lo largo del año hasta unas ochenta recetas, según lo que da cada momento. *"Se trata de construir los sabores del helado a partir del producto, no al revés"*, explica Pignata [71].
 
 Madrid sigue la misma línea. En Quincé (Chueca), el mercado, la temporada y la compra diaria deciden qué entra y qué sale de una carta que cambia con frecuencia, y el vino sigue el mismo ritmo, con pequeños productores, bodegas e importadores [55]. Y de las cinco aperturas más esperadas en la ciudad en 2026, tres se definen por un producto o un origen: el atún rojo de Barbate en El Campero, la cocina gallega en Garelos y el producto de temporada en Varra [30].
 
-**TBNB TAKE.** Esto es TREND, no moda: la pregunta ya no es solo qué se quiere ofrecer, sino qué criterio se defiende detrás de cada ingrediente. Y no hace falta inventar una categoría nueva para tenerlo: Sartoria Panatieri lo aplica a una pizza, Sagàs a un bocadillo y Delacrem a un helado. Lo que sí hace falta es mirarlo antes de abrir, porque tiene un coste. Comprar en directo pide tiempo de alguien del equipo, una carta flexible y un escandallo que se actualiza con el mercado. Bien hecho, mejora la compra y le da a la sala algo que contar: qué ha llegado hoy, de dónde viene y por qué está en la carta. Sin esa disciplina, el food cost se come la idea [30].
+**TBNB TAKE.** Esto es TREND, no moda: la pregunta ya no es solo qué se quiere ofrecer, sino qué criterio se defiende detrás de cada ingrediente. Y no hace falta inventar una categoría nueva para tenerlo: Sartoria Panatieri lo aplica a una pizza y Delacrem a un helado. Lo que sí hace falta es mirarlo antes de abrir, porque tiene un coste. Comprar en directo pide tiempo de alguien del equipo, una carta flexible y un escandallo que se actualiza con el mercado. Bien hecho, mejora la compra y le da a la sala algo que contar: qué ha llegado hoy, de dónde viene y por qué está en la carta. Sin esa disciplina, el food cost se come la idea [30].
 
 ### 3. The Experience Economy — una razón para ir, no un espectáculo
 
@@ -150,7 +146,7 @@ Lo que buscan sus socios dice mucho del momento. En una ciudad saturada, donde c
 - **Ingreso recurrente antes de servir un plato.** Con 1.500 socios a 3.500 € al año, Metrópolis tiene más de cinco millones de euros en cuotas anuales antes de vender una sola copa [60].
 - **Demanda previsible y cliente conocido.** El club sabe quién viene, con qué frecuencia y qué le gusta. Ningún restaurante con reservas abiertas tiene esa información.
 - **Lo exclusivo da valor a lo público.** Metrópolis abre al público cuatro de sus ocho plantas (restaurantes, barra de ostras, pista de baile y hotel) y reserva las demás para socios [60]. Una parte vende la otra.
-- **Y el modelo ya baja a escala restaurante.** Muyummy, en Coslada, convirtió su restaurante en un club social con mesas de chef entre desconocidos, catas y talleres. La Caníbal prepara Club Caníbal, con dos niveles de fidelización gratuitos y uno de pago con eventos exclusivos [62].
+- **Cada club elige su comunidad.** Forbes House, el primer club de la marca en el mundo, abrió junto a la Castellana con un perfil ejecutivo y moderno: biblioteca, restaurante, bar en la azotea y una agenda constante de encuentros sobre innovación y emprendimiento. Para entrar no basta con pagar: hay entrevista y hacen falta dos socios que te recomienden [63][77]. Club Monteverdi, en un palacete de Chamberí, va en la dirección contraria: un club cultural e íntimo donde mandan la música en directo, el jazz y la clásica, las tertulias y la mesa [78]. Lo que se vende no es un espacio. Es una comunidad concreta.
 
 **TBNB TAKE.** El club privado es la versión más explícita de lo que recorre todo este informe: la gente paga por pertenecer. Conviene separar dos cosas. El boom de clubes de lujo en Madrid puede ser un MOMENT, muy ligado a la llegada de grandes fortunas latinoamericanas a la ciudad [63]. La lógica de la membresía aplicada a la hostelería es TREND. A la mayoría de restaurantes no les tiene sentido cobrar 3.500 € al año. Sí les tiene sentido copiar la lógica: identificar a sus clientes más fieles, darles algo que el resto no tiene (una mesa, una franja, un evento, una botella guardada) y convertir parte de esa relación en un ingreso que se repite. Pero una cuota sin contenido es una cuota que nadie renueva. Metrópolis programa más de 200 experiencias al año para sostenerla [60]. Y la exclusividad tiene que encajar con el concepto: hay negocios, como el bar de barrio, que viven justo de lo contrario.
 
@@ -164,7 +160,7 @@ Durante años, el diseño fue la última partida de la obra: se decidía cuando 
 
 **La imperfección también se diseña.** En Copenhague, el patrón más repetido es el espacio en bruto. Pompette deja las paredes sin acabar, con capas de pintura antigua, ladrillo visto y botellas vacías en los alféizares, y el mensaje coincide con la oferta: un bar que no tiene nada que esconder ni que demostrar [32]. En Atelier September, la vajilla antigua en la pared, las flores frescas y hasta un plato roto en la mesa construyen una imperfección muy calculada. *"Parece casualidad, pero no lo es"*, resume Sergio [33].
 
-**La luz y el sonido también son espacio.** En Barcelona, tabernas como Els Sortidors del Parlament o Can Recasens se iluminan con velas [30]. En Sala Equis (Madrid), un antiguo cine X de Lavapiés convertido en bar, la pantalla y la penumbra siguen mandando: se va a tomar algo y a ver una película en el mismo espacio [67]. Ninguna de estas decisiones es estética sin más: la luz y la música cambian cuánto tiempo se queda la gente y qué pide [30].
+**La luz y el sonido también son espacio.** En Barcelona, tabernas como Els Sortidors del Parlament o Can Recasens se iluminan con velas [30]. Ninguna de estas decisiones es estética sin más: la luz y la música cambian cuánto tiempo se queda la gente y qué pide [30].
 
 **Hasta la carta forma parte del espacio.** Es el objeto que más tiempo pasa en las manos del cliente, y habla del sitio antes que el primer plato. Habla por su estructura: cuántos platos hay y cómo se ordenan. En Cabin caben en nueve referencias, seis saladas y tres dulces; en Villette, en una carta corta que cambia cada día [32]. Habla por su soporte: el papel, su textura, si es reciclado como en Cabin [32], si es una hoja que se imprime cada mañana o una carta encuadernada que no cambia en años. Y habla por su formato: qué se destaca, qué se calla, cómo se escriben los precios. Incluso el QR es una decisión de diseño. Un código pegado en la mesa sin más le dice al cliente que la carta no importa. Uno que lleva a una carta pensada para leerse en el móvil, o que convive con una en papel, le dice otra cosa. **La carta no es un listado de precios. Es la parte del espacio que el cliente tiene en la mano.**
 
@@ -222,7 +218,7 @@ Barcelona tiene ejemplos de cómo hacerlo con concepto. Superauto, el nuevo proy
 **WHY NOW.** Porque el cliente ya ha cambiado de horario. La mitad de los españoles ha recortado el ocio nocturno y lo ha pasado al día, el 48% sale más a comer al mediodía que a cenar y el 30% adelanta la hora de comer o de cenar [73]. El 58% participa en el tardeo [73], que en los locales de Madrid que lo ofrecen ya supone el 26,3% de la facturación semanal [30]. Y al otro lado, los costes que no se mueven siguen subiendo: el alquiler, la energía y el equipo se pagan igual con el local lleno que vacío.
 
 **THE SIGNALS.**
-- **El mismo espacio, de la mañana a la madrugada.** El 8 de enero de 2026 abrió en Plaza de España, en el edificio que los madrileños llaman "la ballena", el Café Cervantes. Abre todos los días de ocho de la mañana a dos de la madrugada y sirve desde un café de 2,80 € a primera hora hasta un menú de 35 € por la noche [72].
+- **El bar con concepto ya existe, y se llena.** Superauto, Tav y Atav en Barcelona demuestran que el mismo local puede ser destino a las nueve de la mañana y a las nueve de la noche, siempre que cada momento tenga su propia oferta y su propio ambiente [74][75].
 - **El precio como herramienta de franja.** El 53% de los españoles iría en horarios menos concurridos si eso le supone un mejor precio [73]. La hora valle deja de ser un problema y pasa a ser una oferta.
 
 **WHAT IT MEANS.** Una cafetería puede facturar muy bien por la mañana y quedarse vacía a partir de las cinco. Un bar de copas vive al revés. El local que cambia de ambiente a lo largo del día reparte el coste fijo entre muchas más ventas, y eso es justo lo que el bar español siempre hizo sin necesidad de ponerle nombre. Lo nuevo es que ahora tiene que hacerlo con concepto: la carta, la luz, la música y hasta el servicio tienen que cambiar con la hora sin que el sitio deje de ser reconocible.
@@ -658,8 +654,8 @@ See you in six months.
 49. Time Out Barcelona, ficha de Sip Coffee Roasters, 2025-2026.
 50. Time Out Barcelona, ficha de Malparit; Macarfi, ficha de Malparit, 2026.
 51. Time Out Barcelona, ficha de Estimar; Guía Michelin, ficha de Estimar.
-52. Culinary Backstreets y Time Out Barcelona, fichas de Sagàs Pagesos i Cuiners; VilaWeb, entrevista a Oriol Rovira, feb 2025.
-53. Time Out Barcelona, ficha de Pirineu en Boca; Culinary Backstreets.
+52. *(sin uso tras la revisión del 2026-11-10)*
+53. *(sin uso tras la revisión del 2026-11-10)*
 54. Ajuntament de Barcelona (Comerç), ficha de Sartoria Panatieri; 50 Top Pizza, fichas de Sartoria Panatieri (2021-2023); Time Out Barcelona.
 55. Time Out Madrid, ficha de Quincé, 2026.
 56. Time Out Barcelona, *"El Bar Bocata abre un tercer local en Barcelona y se llamará Bocata París"*, 9 oct 2026; *"El Bar Bocata abre un segundo local"*, feb 2026; Yonder, guía de bares de tapas de Barcelona, ago 2026 (fundadores).
@@ -673,19 +669,20 @@ See you in six months.
 64. Cegid Revo, primer informe sobre digitalización y tendencias en restauración, vía InfoHoreca, *"6 de cada 10 españoles ha hecho un 'simpa' o lo ha considerado por la lentitud del restaurante"*, 15 abr 2026.
 65. TheFork lab, primer informe (más de 6.000 usuarios), vía InfoHoreca, *"Las reseñas online son el principal factor para elegir restaurante entre los comensales españoles"*, 24 jul 2026.
 66. Time Out Madrid, *"Así es el restaurante donde cenó el Real Madrid: el nuevo icono de la noche en Madrid donde todo el mundo quiere estar"* (61, Grupo Mosh), feb 2026.
-67. Guía del Ocio Madrid, *"Sala Equis: cine, conciertos y presentaciones en el bar más alternativo de todo Madrid"*.
+67. *(sin uso tras la revisión del 2026-11-10)*
 68. Ara, *"Mesa Lobo, el restaurante en el que todo el mundo es importante"*, 14 ene 2025.
 69. Archinect, *"A SPACE ABOUT designs Vereda, the Barcelona restaurant that pays homage to the essence of the neighborhood bar"*; Raisin, ficha de Vereda Bar.
 70. TBNB (Andrea), nov 2026: cocina de producto local y de temporada y apertura del obrador propio de Vereda.
 71. Time Out Barcelona, *"Delacrem abre Delaterra, una heladería dedicada al mejor producto catalán de proximidad"*, 4 abr 2025.
-72. Trendencias, *"Con menú de 35 euros abre sus puertas el Café Cervantes, dentro del búnker de Plaza de España"*, 14 ene 2026.
+72. *(sin uso tras la revisión del 2026-11-10)*
 73. AECOC Shopperview y 40dB, 11.º Barómetro de Momentos de Consumo, vía Europa Press/Bolsamanía, *"El 66% de los españoles sale a bares y restaurantes igual o más que hace un año"*, 12 may 2026.
 74. Neo2, *Superauto* (Ronit Stern, La Balabusta), por Rosa Chaneta, 25 mar 2026.
 75. TBNB (Andrea), nov 2026: concepto de Tav y de Atav (Eixample, Barcelona).
 76. Neo2, *"Restaurante Armando: por fin el escalope tiene casa propia"*, por Javier Abio, 17 dic 2025.
-77. *(sin uso tras la revisión del 2026-11-10)*
+77. Desalas, *"Clubes privados en Madrid: los círculos más exclusivos y discretos"*, 17 abr 2026; Highxtar, *"The world's first Forbes House opens its doors in Madrid"*; Forbes España, primer aniversario de Forbes House.
 78. ManpowerGroup, *"La hostelería española se queda sin manos: el 75% de los empresarios no encuentran personal"*, 2026.
 79. Synergie España, informe sobre el empleo en hostelería 2026, vía InfoHoreca, *"La falta de personal y una rotación del 64% ponen en jaque la campaña de verano de la hostelería"*, 26 jun 2026.
 80. Randstad Research, vía InfoHoreca, *"La hostelería española afronta su mayor crisis de talento"*, 29 abr 2026.
 81. Informe de Fernando Múgica (gestor de traspasos de locales de restauración) sobre 2025, vía El Cronista y OKDiario, 2026.
 82. ¡Hola!, *"Entrecote Café de Paris: el restaurante de un solo plato"*, 8 mar 2024; Time Out Madrid, *"Este es uno de los platos históricos más vendidos de Madrid y es de origen suizo"*, 15 mar 2024, y *"Madrid convierte en bocadillo la legendaria receta del Café de Paris"*, 5 may 2025.
+78. TBNB (Andrea), nov 2026; Hire Space, ficha de Club Monteverdi (club privado de artes: música, pintura, literatura y gastronomía).
