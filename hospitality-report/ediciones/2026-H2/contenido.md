@@ -217,7 +217,7 @@ Son cinco movimientos, y todos responden a la misma pregunta: **¿qué modelo de
 
 **El bar es el all day dining de España.** Nadie lo llama así, pero ningún otro formato responde tan bien a cómo vive la sociedad española: se baja al bar a desayunar, se vuelve a comer y se queda para tomar algo al salir del trabajo. Por eso es también el modelo de negocio más accesible y el más fácil de rentabilizar. El mismo alquiler, la misma barra y el mismo equipo trabajan desde primera hora hasta la noche.
 
-Barcelona tiene ejemplos de cómo hacerlo con concepto. Superauto, el nuevo proyecto de Ronit Stern en el Eixample, abre a las nueve con brunch y pastelería propia, sirve un menú de mediodía a 19,95 € y por la noche pasa a platos para compartir con una selección de vinos naturales. Sus diseñadores lo resumen así: *"Aquí no se viene a cumplir con una etiqueta"* [74]. Tav sigue la misma lógica [75]. A los dos se piensa en ir tanto por la mañana, a por un buen café de especialidad, como por la tarde, a por una copa de vino y unos bites que de verdad despiertan los sentidos.
+Barcelona tiene ejemplos de cómo hacerlo con concepto. Superauto, el nuevo proyecto de Ronit Stern en el Eixample, abre a las nueve con brunch y pastelería propia, sirve un menú de mediodía a 19,95 € y por la noche pasa a platos para compartir con una selección de vinos naturales. Sus diseñadores lo resumen así: *"Aquí no se viene a cumplir con una etiqueta"* [74]. Tav y Atav, también en el Eixample, siguen la misma lógica [75]. A todos ellos se piensa en ir tanto por la mañana, a por un buen café de especialidad, como por la tarde, a por una copa de vino y unos bites que de verdad despiertan los sentidos.
 
 **WHY NOW.** Porque el cliente ya ha cambiado de horario. La mitad de los españoles ha recortado el ocio nocturno y lo ha pasado al día, el 48% sale más a comer al mediodía que a cenar y el 30% adelanta la hora de comer o de cenar [73]. El 58% participa en el tardeo [73], que en los locales de Madrid que lo ofrecen ya supone el 26,3% de la facturación semanal [30]. Y al otro lado, los costes que no se mueven siguen subiendo: el alquiler, la energía y el equipo se pagan igual con el local lleno que vacío.
 
@@ -622,4 +622,4 @@ See you in six months.
 72. Trendencias, *"Con menú de 35 euros abre sus puertas el Café Cervantes, dentro del búnker de Plaza de España"*, 14 ene 2026.
 73. AECOC Shopperview y 40dB, 11.º Barómetro de Momentos de Consumo, vía Europa Press/Bolsamanía, *"El 66% de los españoles sale a bares y restaurantes igual o más que hace un año"*, 12 may 2026.
 74. Neo2, *Superauto* (Ronit Stern, La Balabusta), por Rosa Chaneta, 25 mar 2026.
-75. TBNB (Andrea), nov 2026: concepto de Tav (Barcelona).
+75. TBNB (Andrea), nov 2026: concepto de Tav y de Atav (Eixample, Barcelona).
