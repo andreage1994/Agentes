@@ -237,15 +237,14 @@ Barcelona tiene ejemplos de cómo hacerlo con concepto. Superauto, el nuevo proy
 
 ### Shift 2 — Menos carta, más sistema
 
-**WHAT WE SEE.** En diciembre de 2025, la familia La Ancha abrió Armando en la calle Carranza de Madrid. La carta cabe en una mano: cinco escalopes, del Armando de 40 centímetros de cerdo Duroc a uno de pez espada y otro vegetal, unas pocas guarniciones, tres postres y jarras para compartir [76]. El plato nació en los setenta, cuando un cliente pidió el escalope más grande posible y la cocina lo frio en una paellera. Medio siglo después tiene restaurante propio, sin reservas y con un ticket medio de unos 30 € [76]. En Malasaña, Mami Tacos lleva la idea al extremo: vive por y para la birria, servida en tacos, quesabirria o ramen, y solo abre a mediodía [77].
+**WHAT WE SEE.** En diciembre de 2025, la familia La Ancha abrió Armando en la calle Carranza de Madrid. La carta cabe en una mano: cinco escalopes, del Armando de 40 centímetros de cerdo Duroc a uno de pez espada y otro vegetal, unas pocas guarniciones, tres postres y jarras para compartir [76]. El plato nació en los setenta, cuando un cliente pidió el escalope más grande posible y la cocina lo frio en una paellera. Medio siglo después tiene restaurante propio, sin reservas y con un ticket medio de unos 30 € [76].
 
-**WHY NOW.** Por dos motivos que empujan en la misma dirección. Hacia fuera, una carta corta construye una identidad que el cliente entiende y recuerda a la primera: el sitio del escalope, el sitio de la birria. Hacia dentro, es la respuesta más directa a un problema que el sector no consigue resolver: para el 34% de los hosteleros, la falta de equipos preparados es su principal desafío en 2026 [28]. Y el cliente acompaña: el 37% de los españoles ya opta por menús más reducidos cuando sale [73].
+**WHY NOW.** Por dos motivos que empujan en la misma dirección. Hacia fuera, una carta corta construye una identidad que el cliente entiende y recuerda a la primera: el sitio del escalope, el sitio del entrecot. Hacia dentro, es la respuesta más directa a un problema que el sector no consigue resolver: para el 34% de los hosteleros, la falta de equipos preparados es su principal desafío en 2026 [28]. Y el cliente acompaña: el 37% de los españoles ya opta por menús más reducidos cuando sale [73].
 
 **THE SIGNALS.**
 - **El producto como concepto entero.** En Madrid, de las cinco aperturas más esperadas de 2026, tres se definen por un producto o un origen [30]. La carta deja de ser un catálogo y pasa a ser una frase.
 - **Lo mismo, lejos del fine dining.** En los cuatro locales que visitamos en Copenhague, la comida se reduce a pocos platos de producto, con poca o ninguna elaboración en el pase, y el margen se concentra en la bebida [32].
 - **El monoplato como fórmula que se replica.** Café de Paris lleva desde 1942 sirviendo prácticamente un solo menú: ensalada, entrecot con su salsa de mantequilla y patatas a voluntad. La receta es de origen suizo y en Madrid ya tiene tres locales [82]. La carta mínima no es una moda de 2026: es un sistema que, cuando funciona, se puede repetir casi sin cambios.
-- **Un plato, varios formatos.** Mami Tacos no tiene una carta larga, tiene una receta servida de varias maneras [77]. Es la forma de dar variedad sin multiplicar la producción.
 
 **WHAT IT MEANS.** Menos referencias significan menos stock, menos merma, menos partidas en cocina y una formación mucho más rápida. Un equipo nuevo aprende cinco platos en días, no en meses. El escandallo se puede controlar de verdad porque hay poco que controlar. Y la cocina deja de depender de perfiles que el mercado no tiene.
 
@@ -684,7 +683,7 @@ See you in six months.
 74. Neo2, *Superauto* (Ronit Stern, La Balabusta), por Rosa Chaneta, 25 mar 2026.
 75. TBNB (Andrea), nov 2026: concepto de Tav y de Atav (Eixample, Barcelona).
 76. Neo2, *"Restaurante Armando: por fin el escalope tiene casa propia"*, por Javier Abio, 17 dic 2025.
-77. Time Out Madrid, *"Estas mujeres preparan los mejores tacos de birria del centro de Madrid"* (Mami Tacos), 27 oct 2023.
+77. *(sin uso tras la revisión del 2026-11-10)*
 78. ManpowerGroup, *"La hostelería española se queda sin manos: el 75% de los empresarios no encuentran personal"*, 2026.
 79. Synergie España, informe sobre el empleo en hostelería 2026, vía InfoHoreca, *"La falta de personal y una rotación del 64% ponen en jaque la campaña de verano de la hostelería"*, 26 jun 2026.
 80. Randstad Research, vía InfoHoreca, *"La hostelería española afronta su mayor crisis de talento"*, 29 abr 2026.
