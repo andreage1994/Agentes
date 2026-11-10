@@ -328,11 +328,15 @@ Si el resto de este informe explica por qué falta sistema, esta sección muestr
 
 ### RASA — Cobertura: España
 
-**THE CONCEPT.** Cocktail lounge gastronómico inspirado en la India contemporánea.
+**THE CONCEPT.** Cocktail lounge gastronómico inspirado en la India contemporánea, y un proyecto de desarrollo de The Bar N' Bar de principio a fin: concepto y narrativa de marca, propuesta gastronómica y de coctelería, operación y cultura de servicio.
 
 **WHY IT WORKS.** Gastronomía, coctelería, diseño y hospitalidad funcionan como un único sistema desde el día uno — no como capas añadidas una tras otra.
 
-**THE IDEA BEHIND IT.** El reto nunca fue diseñar "un restaurante indio". Fue conseguir que cada decisión contara la misma historia sin caer en el cliché ni perder autenticidad. El sistema — narrativa, carta, operación — se construyó *antes* de abrir la puerta, no se ajustó después de ver qué funcionaba.
+**THE IDEA BEHIND IT.** El reto nunca fue diseñar "un restaurante indio". Fue conseguir que cada decisión contara la misma historia sin caer en el cliché ni perder autenticidad. El sistema (narrativa, carta, operación) se construyó *antes* de abrir la puerta, no se ajustó después de ver qué funcionaba.
+
+Y dentro de ese sistema, una pieza que casi siempre se deja para el final: el diseño de la hospitalidad. Un concepto puede estar perfectamente definido sobre el papel y diluirse en dos meses si el equipo no lo entiende. Por eso, en RASA, la forma de recibir, de explicar la carta, de recomendar un cóctel o de resolver un problema se trabajó con el mismo cuidado que la carta o el interiorismo [92].
+
+Eso supone algo más que una formación inicial. Supone construir una cultura de trabajo: que cada persona del equipo sepa qué quiere transmitir el concepto, por qué existe y qué valores lo sostienen, y que tenga los recursos para trasladarlo a cada mesa, cada día. Una hospitalidad sin diseño da pie a que cada uno interprete la idea a su manera. Con el tiempo, cada interpretación se aleja un poco más de la original, y el concepto se acaba diluyendo. Diseñada, la hospitalidad se convierte en lo contrario: en la parte del concepto que el cliente vive en primera persona y que hace que todo lo demás tenga sentido.
 
 **WHAT WE CAN LEARN.** RASA es el contraste directo de Mamatte: dos formas distintas de llegar al mismo sistema, una diseñándolo antes de abrir, la otra recomponiéndolo después de que el concepto ya hubiera crecido de forma desordenada. Más abajo, en esta misma sección, Cabin (Copenhague) resuelve el problema de RASA — cómo tratar una cocina de otra cultura sin caer en el cliché — por el camino opuesto: no por narrativa, por ausencia total de decorado. *"Los grandes conceptos se construyen antes de abrir la puerta."*
 
@@ -700,3 +704,4 @@ See you in six months.
 89. Time Out Barcelona, ficha de Entrepanes Díaz; The Infatuation, reseña de Entrepanes Díaz.
 90. Time Out Madrid, *"Estas mujeres preparan los mejores tacos de birria del centro de Madrid"* (Mami Tacos), 27 oct 2023.
 91. Directo al Paladar, *"Este bar de Barcelona solo quiere camareros de más de 50 años para que sirvan tapas del siglo pasado"*, 19 jun 2024.
+92. TBNB, caso propio RASA (`casos-propios-tbnb.md`): concepto y narrativa de marca, propuesta gastronómica y de coctelería, operación, flujos y cultura de servicio.
