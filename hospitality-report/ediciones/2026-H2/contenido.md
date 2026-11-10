@@ -88,15 +88,19 @@ El productor deja de ser un eslabón invisible y pasa a formar parte del relato.
 
 Barcelona lo cuenta desde formatos muy distintos.
 
+**Vereda: del bar de barrio al obrador.** En la esquina de Diputació con Villarroel, un local abandonado de 60 m² es hoy un bar de vinos naturales y cocina local, con la barra curva original restaurada y el terrazo recuperado [69]. La cocina trabaja con producto local y de temporada, y Vereda acaba de abrir un obrador propio que sigue la misma filosofía [70]. El criterio de compra ya no cabe solo en la carta del bar: se convierte en una segunda línea de negocio.
+
 **Sagàs Pagesos i Cuiners: la granja en la ciudad.** En el Born, casi toda la verdura, la carne, los huevos y los embutidos llegan de la granja de la familia Rovira, la que la familia lleva décadas trabajando en el Berguedà [52]. El nombre ya lo dice todo: primero campesinos, después cocineros.
 
 **Pirineu en Boca: un territorio entero.** Restaurante, carnicería y tienda a la vez, en el Eixample, con un único criterio: todo viene del Pirineo. Trabajan directamente con unos 70 pequeños productores de montaña [53].
 
 **Sartoria Panatieri: el origen en un producto cotidiano.** Rafa Panatieri y Jorge Sastre trabajan con producto ecológico, local y de temporada, y elaboran ellos mismos parte de los embutidos y los quesos [54]. Lo hacen con uno de los formatos más replicados del mundo, la pizza, y aun así han llegado a estar entre las mejores pizzerías del mundo según 50 Top Pizza [54].
 
+**Delacrem Terra: el origen en un helado.** Massimo Pignata, fundador de Delacrem, abrió en abril de 2025 en la calle Muntaner una heladería construida alrededor de pequeños productores de proximidad: avellana negreta de La Trencadora, una familia de Tarragona que la cultiva desde 1920; dulce de leche de La Garriga; quesos como el del Cadí, y sorbetes con la fruta de cada temporada. La carta rota a lo largo del año hasta unas ochenta recetas, según lo que da cada momento. *"Se trata de construir los sabores del helado a partir del producto, no al revés"*, explica Pignata [71].
+
 Madrid sigue la misma línea. En Quincé (Chueca), el mercado, la temporada y la compra diaria deciden qué entra y qué sale de una carta que cambia con frecuencia, y el vino sigue el mismo ritmo, con pequeños productores, bodegas e importadores [55]. Y de las cinco aperturas más esperadas en la ciudad en 2026, tres se definen por un producto o un origen: el atún rojo de Barbate en El Campero, la cocina gallega en Garelos y el producto de temporada en Varra [30].
 
-**TBNB TAKE.** Esto es TREND, no moda: la pregunta ya no es solo qué se quiere ofrecer, sino qué criterio se defiende detrás de cada ingrediente. Y no hace falta inventar una categoría nueva para tenerlo: Sartoria Panatieri lo aplica a una pizza, Sagàs a un bocadillo. Lo que sí hace falta es mirarlo antes de abrir, porque tiene un coste. Comprar en directo pide tiempo de alguien del equipo, una carta flexible y un escandallo que se actualiza con el mercado. Bien hecho, mejora la compra y le da a la sala algo que contar: qué ha llegado hoy, de dónde viene y por qué está en la carta. Sin esa disciplina, el food cost se come la idea [30].
+**TBNB TAKE.** Esto es TREND, no moda: la pregunta ya no es solo qué se quiere ofrecer, sino qué criterio se defiende detrás de cada ingrediente. Y no hace falta inventar una categoría nueva para tenerlo: Sartoria Panatieri lo aplica a una pizza, Sagàs a un bocadillo y Delacrem a un helado. Lo que sí hace falta es mirarlo antes de abrir, porque tiene un coste. Comprar en directo pide tiempo de alguien del equipo, una carta flexible y un escandallo que se actualiza con el mercado. Bien hecho, mejora la compra y le da a la sala algo que contar: qué ha llegado hoy, de dónde viene y por qué está en la carta. Sin esa disciplina, el food cost se come la idea [30].
 
 ### 3. The Experience Economy — una razón para ir, no un espectáculo
 
@@ -661,3 +665,6 @@ See you in six months.
 66. Time Out Madrid, *"Así es el restaurante donde cenó el Real Madrid: el nuevo icono de la noche en Madrid donde todo el mundo quiere estar"* (61, Grupo Mosh), feb 2026.
 67. Guía del Ocio Madrid, *"Sala Equis: cine, conciertos y presentaciones en el bar más alternativo de todo Madrid"*.
 68. Ara, *"Mesa Lobo, el restaurante en el que todo el mundo es importante"*, 14 ene 2025.
+69. Archinect, *"A SPACE ABOUT designs Vereda, the Barcelona restaurant that pays homage to the essence of the neighborhood bar"*; Raisin, ficha de Vereda Bar.
+70. TBNB (Andrea), nov 2026: cocina de producto local y de temporada y apertura del obrador propio de Vereda.
+71. Time Out Barcelona, *"Delacrem abre Delaterra, una heladería dedicada al mejor producto catalán de proximidad"*, 4 abr 2025.
