@@ -244,6 +244,7 @@ Barcelona tiene ejemplos de cómo hacerlo con concepto. Superauto, el nuevo proy
 **THE SIGNALS.**
 - **El producto como concepto entero.** En Madrid, de las cinco aperturas más esperadas de 2026, tres se definen por un producto o un origen [30]. La carta deja de ser un catálogo y pasa a ser una frase.
 - **Lo mismo, lejos del fine dining.** En los cuatro locales que visitamos en Copenhague, la comida se reduce a pocos platos de producto, con poca o ninguna elaboración en el pase, y el margen se concentra en la bebida [32].
+- **El monoplato como fórmula que se replica.** Café de Paris lleva desde 1942 sirviendo prácticamente un solo menú: ensalada, entrecot con su salsa de mantequilla y patatas a voluntad. La receta es de origen suizo y en Madrid ya tiene tres locales [82]. La carta mínima no es una moda de 2026: es un sistema que, cuando funciona, se puede repetir casi sin cambios.
 - **Un plato, varios formatos.** Mami Tacos no tiene una carta larga, tiene una receta servida de varias maneras [77]. Es la forma de dar variedad sin multiplicar la producción.
 
 **WHAT IT MEANS.** Menos referencias significan menos stock, menos merma, menos partidas en cocina y una formación mucho más rápida. Un equipo nuevo aprende cinco platos en días, no en meses. El escandallo se puede controlar de verdad porque hay poco que controlar. Y la cocina deja de depender de perfiles que el mercado no tiene.
@@ -688,3 +689,4 @@ See you in six months.
 79. Synergie España, informe sobre el empleo en hostelería 2026, vía InfoHoreca, *"La falta de personal y una rotación del 64% ponen en jaque la campaña de verano de la hostelería"*, 26 jun 2026.
 80. Randstad Research, vía InfoHoreca, *"La hostelería española afronta su mayor crisis de talento"*, 29 abr 2026.
 81. Informe de Fernando Múgica (gestor de traspasos de locales de restauración) sobre 2025, vía El Cronista y OKDiario, 2026.
+82. ¡Hola!, *"Entrecote Café de Paris: el restaurante de un solo plato"*, 8 mar 2024; Time Out Madrid, *"Este es uno de los platos históricos más vendidos de Madrid y es de origen suizo"*, 15 mar 2024, y *"Madrid convierte en bocadillo la legendaria receta del Café de Paris"*, 5 may 2025.
