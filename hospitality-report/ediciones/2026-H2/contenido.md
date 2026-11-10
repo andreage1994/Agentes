@@ -223,7 +223,6 @@ Barcelona tiene ejemplos de cómo hacerlo con concepto. Superauto, el nuevo proy
 
 **THE SIGNALS.**
 - **El mismo espacio, de la mañana a la madrugada.** El 8 de enero de 2026 abrió en Plaza de España, en el edificio que los madrileños llaman "la ballena", el Café Cervantes. Abre todos los días de ocho de la mañana a dos de la madrugada y sirve desde un café de 2,80 € a primera hora hasta un menú de 35 € por la noche [72].
-- **El día escala, pero tiene techo.** Las panaderías-cafetería con obrador crecen en red con tiendas pequeñas abiertas desde primera hora: 365 Obrador, en Barcelona, se ha marcado un objetivo de entre 20 y 25 aperturas al año [30]. Es un modelo que funciona muy bien por la mañana y que, por la tarde, tiene mucho menos que ofrecer.
 - **El precio como herramienta de franja.** El 53% de los españoles iría en horarios menos concurridos si eso le supone un mejor precio [73]. La hora valle deja de ser un problema y pasa a ser una oferta.
 
 **WHAT IT MEANS.** Una cafetería puede facturar muy bien por la mañana y quedarse vacía a partir de las cinco. Un bar de copas vive al revés. El local que cambia de ambiente a lo largo del día reparte el coste fijo entre muchas más ventas, y eso es justo lo que el bar español siempre hizo sin necesidad de ponerle nombre. Lo nuevo es que ahora tiene que hacerlo con concepto: la carta, la luz, la música y hasta el servicio tienen que cambiar con la hora sin que el sitio deje de ser reconocible.
