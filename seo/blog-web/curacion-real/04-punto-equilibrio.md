@@ -85,7 +85,7 @@ Es la cifra de ventas en la que cubres **todos** tus gastos, ni más ni menos. N
 
 Es la respuesta a la pregunta "¿cuánto tiene que facturar un bar para ser rentable?". No hay una cifra igual para todos: depende de tus costes.
 
-Y una vez lo superas, ¿cuánto deberías ganar? Según los benchmarks analizados por The Bar N' Bar, un margen neto sano en hostelería está **entre el 8 % y el 15 %**. Por debajo del 5 %, estás en zona de alto riesgo: cualquier imprevisto, como que se rompa la cámara frigorífica o que suba de golpe el aceite de oliva, puede poner en peligro el negocio.
+Y una vez lo superas, ¿cuánto deberías ganar? Según los márgenes de referencia que hemos analizado en The Bar N' Bar, un margen neto sano en hostelería está **entre el 8 % y el 15 %**. Por debajo del 5 %, estás en zona de alto riesgo: cualquier imprevisto, como que se rompa la cámara frigorífica o que suba de golpe el aceite de oliva, puede poner en peligro el negocio.
 
 ## ¿Cómo se calcula el punto de equilibrio? La fórmula
 
@@ -117,7 +117,7 @@ Siguiendo el ejemplo, 33.333 € al mes son unos 1.100 € al día de media. Con
 Error habitual: dividir el objetivo del mes entre 30 y ya. Un martes de lluvia nunca venderá como un sábado de primavera. Lo realista es repartirlo según cómo te va cada día de la semana:
 
 - **De lunes a miércoles:** suelen ser los días flojos. Pueden ser solo un 15-20 % de lo que vendes en la semana.
-- **De jueves a domingo:** el motor del negocio. Ahí se concentra la mayor parte, a menudo un 60-70 %.
+- **De jueves al mediodía del domingo:** el motor del negocio. Ahí se concentra la mayor parte, a menudo un 60-70 %.
 
 En la práctica, esas 44 personas de media pueden ser 25 un lunes y 80 un sábado. Lo importante es que la semana cuadre.
 
@@ -129,39 +129,39 @@ Si en el ejemplo el ticket medio sube de 25 € a 28 € (recomendando un postre
 
 ## ¿Cómo calcularlo paso a paso?
 
-Para dejar de trabajar a ciegas, te proponemos hacer esto cada mes, siempre igual:
+Para dejar de trabajar a ciegas, te proponemos seguir siempre los mismos pasos:
 
-### Paso 1: Saca tus ventas netas
+### Paso 1: saca tus ventas netas
 
 Pide al TPV el informe de ventas del mes y **quítale el IVA** (normalmente el 10 % en hostelería). Si trabajas con las ventas con IVA, todo lo demás saldrá inflado y te dará una falsa tranquilidad.
 
-### Paso 2: Suma todos tus gastos
+### Paso 2: suma todos tus gastos
 
 Todos. De las facturas de proveedores a la Seguridad Social, pasando por la comisión del datáfono, la limpieza o el mantenimiento de la maquinaria. Lo que pagas una vez al año, divídelo entre doce.
 
-### Paso 3: Calcula la materia prima que de verdad has consumido
+### Paso 3: calcula la materia prima que de verdad has consumido
 
 No es lo mismo lo que compras que lo que consumes. La cuenta es esta: **inventario inicial + compras del mes − inventario final = consumo real**. Para eso necesitas un buen [control de inventario](https://www.thebarnbarconsulting.com/control-de-inventario-restaurantes/).
 
-### Paso 4: Separa fijos y variables
+### Paso 4: separa fijos y variables
 
 Con todo sumado, clasifica cada gasto: ¿lo pagas igual vendas lo que vendas (fijo) o sube con las ventas (variable)? Calcula qué porcentaje de tus ventas se van en variables.
 
-### Paso 5: Aplica la fórmula
+### Paso 5: aplica la fórmula
 
 Costes fijos ÷ (1 − % de variables). Ya tienes tu punto de equilibrio. Compáralo con tus ventas netas del paso 1: ¿estás por encima o por debajo?
 
 ## Por qué tu punto de equilibrio caduca
 
-Aquí está lo que casi nadie cuenta: el punto de equilibrio **no se calcula una vez al abrir y se olvida**.
+Aquí está la clave: el punto de equilibrio **no se calcula una vez al abrir y se olvida**.
 
 Cada vez que sube el alquiler, el convenio, la luz o el precio del aceite, tu punto de equilibrio sube con ellos. Y en hostelería los costes no paran: en febrero de 2026, los precios de la restauración subían un 4,8 % anual, frente al 2,3 % de la inflación general, según el INE.
 
-Si calculaste tu punto de equilibrio hace dos años, probablemente hoy necesitas vender bastante más de lo que crees para quedarte igual. Nuestro consejo: **revísalo al menos cada seis meses**, y siempre que cambie un coste importante.
+Si calculaste tu punto de equilibrio hace dos años, probablemente hoy necesitas vender bastante más de lo que crees para quedarte igual. Nuestro consejo: **mide cada mes cómo vas frente a tu punto de equilibrio y recalcúlalo al menos cada seis meses**, y siempre que cambie un coste importante.
 
 ## Errores comunes que te hacen perder dinero
 
-La mayoría de los negocios no cierran por falta de clientes. Cierran por una suma de pequeños errores que se comen la ganancia sin hacer ruido.
+Muchos negocios no cierran por falta de clientes. Cierran por una suma de pequeños errores que se comen la ganancia sin hacer ruido.
 
 ### 1. Gestionar por intuición
 
@@ -179,7 +179,7 @@ Lo primero que entra es lo primero que sale. Si no se aplica, el producto caduca
 
 Aceptar el precio de siempre por costumbre, sin negociar volumen ni buscar alternativas. Cuando el margen es estrecho, unos pocos puntos de ahorro en compras pueden marcar la diferencia entre ganar y perder. Te damos ideas para [negociar con proveedores](https://www.thebarnbarconsulting.com/negociar-proveedores-restaurante/).
 
-### 5. No delegar ni estandarizar
+### 5. No estandarizar las recetas
 
 Si cada cocinero pone una cantidad distinta de guarnición, el coste del plato es imposible de controlar. Y el cliente lo nota: un día le sirven una cosa y otro día otra. Recetas fichadas y procesos claros lo evitan. Y ojo con los [platos vampiro](https://www.thebarnbarconsulting.com/platos-vampiro-rentabilidad-restaurante/), los que se venden mucho y dejan poco.
 
@@ -191,6 +191,6 @@ Y casi siempre aparece la misma sorpresa: el dueño cree que lo cubre de sobra y
 
 ## En resumen
 
-Tu punto de equilibrio es la línea que separa perder de ganar. Calcúlalo con tus números reales, bájalo al día a día para que el equipo lo entienda y revísalo cada vez que suban los costes. Vender más solo sirve si sabes desde dónde empiezas a ganar.
+Tu punto de equilibrio es la línea que separa perder de ganar. Calcúlalo con tus números reales, bájalo al día a día para que el equipo lo entienda y revísalo cada vez que suban los costes. Vender más solo sirve si sabes desde dónde empiezas a ganar. Si quieres ver el mapa completo, aquí te explicamos [cómo calcular la rentabilidad de tu negocio de hostelería](https://www.thebarnbarconsulting.com/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/).
 
-Si quieres calcular el tuyo y no sabes por dónde empezar, [escríbenos](https://www.thebarnbarconsulting.com/contacto/) y te ayudamos a hacerlo. Y si quieres ver el mapa completo, aquí te explicamos [cómo calcular la rentabilidad de tu negocio de hostelería](https://www.thebarnbarconsulting.com/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/).
+Si quieres calcular el tuyo y no sabes por dónde empezar, [escríbenos](https://www.thebarnbarconsulting.com/contacto/) y te ayudamos a hacerlo.

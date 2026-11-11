@@ -96,7 +96,7 @@ Para que la cuenta sea real tienes que tener claras tres cosas:
 
 Una vez al mes, siempre el mismo día, y con calma:
 
-1. **Suma tus ventas.** Tu TPV te da el total exacto del mes.
+1. **Suma tus ventas, sin IVA.** Tu TPV te da el total del mes con IVA; réstaselo, porque ese dinero no es tuyo.
 2. **Suma tus costes.** Todos: los que pagas cada mes y los que pagas una vez al año (prorrateados).
 3. **Resta.** Ventas menos costes.
 
@@ -126,7 +126,7 @@ Suben y bajan según lo que vendes.
 - **Suministros:** luz, agua y gas. Más horas abiertas y más cocina, más factura.
 - **Personal extra:** los refuerzos de fin de semana o temporada.
 
-Aquí es donde se escapa el dinero sin hacer ruido. La mayoría de dueños vigilan el alquiler, que no cambia, y no las mermas, las compras mal hechas o las raciones que crecen solas. Si quieres ir a por ellos, tenemos una guía para [reducir los gastos de un bar](https://www.thebarnbarconsulting.com/como-reducir-los-gastos-de-un-bar/) y otra sobre los [gastos hormiga](https://www.thebarnbarconsulting.com/gastos-hormiga-bar/) que se comen el margen.
+Aquí es donde se escapa el dinero sin hacer ruido. Muchos dueños vigilan el alquiler, que no cambia, y no las mermas, las compras mal hechas o las raciones que crecen solas. Si quieres ir a por esas fugas, tenemos una guía para [reducir los gastos de un bar](https://www.thebarnbarconsulting.com/como-reducir-los-gastos-de-un-bar/) y otra sobre los [gastos hormiga](https://www.thebarnbarconsulting.com/gastos-hormiga-bar/) que se comen el margen.
 
 ## ¿Qué porcentaje de rentabilidad es bueno para un restaurante?
 
@@ -166,17 +166,17 @@ Para que se vea claro, un ejemplo inventado (no es la media del sector, es para 
 | Cuota del préstamo de apertura | 1.500 € | 5 % |
 | **Beneficio antes de impuestos** | **3.500 €** | **12 %** |
 
-Parece cómodo, ¿verdad? Ahora imagina que, sin que nadie se dé cuenta, la materia prima pasa del 30 % al 34 %: un proveedor que sube, unas raciones que se van agrandando, algo de merma. Son 1.200 € más al mes. El beneficio baja a 2.300 €, **un tercio menos**, y el bar sigue igual de lleno.
+Parece cómodo, ¿verdad? Ojo: es antes de impuestos, así que el margen neto final será algo menor. Ahora imagina que, sin que nadie se dé cuenta, la materia prima pasa del 30 % al 34 %: un proveedor que sube, unas raciones que se van agrandando, algo de merma. Son 1.200 € más al mes. El beneficio baja a 2.300 €, **un tercio menos**, y el bar sigue igual de lleno.
 
 Por eso insistimos tanto en controlar los costes variables.
 
-**¿Y un bar sin cocina?** Suele tener menos personal y un coste de producto más bajo en bebida, así que el margen por venta es mejor. A cambio, el gasto por cliente es más bajo y depende mucho más del volumen. La cuenta es la misma; cambian los pesos.
+**¿Y un bar sin cocina?** Suele tener menos personal y la bebida cuesta menos de producir que la comida, así que el margen por venta es mejor. A cambio, el gasto por cliente es más bajo y depende mucho más del volumen. La cuenta es la misma; cambian los pesos.
 
 ## El escandallo: cuánto se le gana a cada plato
 
 Para que el margen bruto sea bueno tienes que conocer el coste real de cada plato y cada bebida. Eso es el escandallo.
 
-En resumen:
+Los tres pasos:
 
 1. **Calcula el coste real** de cada plato: todos los ingredientes, también la guarnición, el aceite o el pan.
 2. **Fija un porcentaje objetivo.** Como regla general, que la materia prima esté entre el 25 % y el 35 % del precio de venta.
@@ -188,12 +188,12 @@ El error que más vemos es poner precios "a ojo" o mirando al de al lado. Si qui
 
 ## Facturación o ganancia: ¿cuánto se gana en un bar al mes?
 
-Es la pregunta del millón, sobre todo en un bar pequeño. Y tiene trampa:
+Todo el mundo pregunta cuánto gana un bar, sobre todo uno pequeño. Y la pregunta tiene trampa:
 
 - **Facturación:** fácil de saber. Mide lo bien que vende tu equipo.
 - **Ganancia:** más difícil. Mide lo bien que gestionas el negocio.
 
-Dos bares que facturan lo mismo pueden ganar cosas muy distintas, como has visto en el ejemplo. Por eso no hay una cifra de "lo que gana un bar": depende de tu alquiler, tu equipo, tu carta y tus precios.
+Dos bares que facturan lo mismo pueden ganar cosas muy distintas. En el ejemplo, el mismo bar, igual de lleno, acababa ganando un tercio menos. Por eso no hay una cifra de "lo que gana un bar": depende de tu alquiler, tu equipo, tu carta y tus precios.
 
 ### El punto de equilibrio: el primer número que debes saber
 

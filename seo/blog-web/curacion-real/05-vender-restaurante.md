@@ -84,7 +84,7 @@ Un comprador serio no paga por tus lámparas de diseño. **Paga por lo que tu ne
 
 ### El lenguaje de la calculadora: el EBITDA
 
-En el sector se usa el EBITDA: el beneficio antes de intereses, impuestos y amortizaciones. Un restaurante se suele vender por entre 3 y 5 veces su EBITDA anual.
+En el sector se usa el EBITDA: el beneficio antes de intereses, impuestos y amortizaciones. Un restaurante suele venderse por un precio de entre 3 y 5 veces su EBITDA anual.
 
 - Si tu beneficio real es bajo, el precio será bajo, por muy buena que sea la zona.
 - Si tienes contabilidad "creativa" (dinero que entra y no se registra), ese dinero no existe para el comprador. Lo que no está en papel no vale nada en la negociación.
@@ -115,7 +115,7 @@ Si hoy no se cumplen, no pasa nada. Lo que te contamos a continuación es justo 
 Vender un restaurante es vender un paquete de derechos y obligaciones. Antes de sentarte a negociar, ordena la casa:
 
 - **La licencia de actividad:** al día y con el local cumpliendo la normativa actual. Si el comprador descubre que la salida de humos no es legal o que hay un requerimiento del ayuntamiento, el precio cae en picado. Te contamos qué revisar en el artículo sobre [licencias para abrir un restaurante](https://www.thebarnbarconsulting.com/licencias-abrir-restaurante/).
-- **El contrato de alquiler:** ¿cuántos años quedan? ¿Permite el traspaso? Si al comprador le quedan tres años, no podrá amortizar la compra y se echará atrás.
+- **El contrato de alquiler:** ¿cuántos años quedan? ¿Permite el traspaso? Si al comprador le quedan tres años, puede que no llegue a amortizar la compra y se eche atrás.
 - **Deudas:** Seguridad Social, Hacienda y proveedores, a cero. Nadie quiere comprar un problema ajeno.
 
 ## La operativa: ¿el negocio depende de ti?
@@ -132,7 +132,7 @@ Un comprador busca un negocio que funcione, no un trabajo de 14 horas. Para saca
 
 ## Factores que suben (o bajan) el precio de venta
 
-No todos los traspasos valen lo mismo. Esto es lo que de verdad mueve la aguja en una negociación:
+No todos los traspasos valen lo mismo. Esto es lo que de verdad pesa en una negociación:
 
 | Factor | Sube el precio | Baja el precio |
 |---|---|---|
@@ -156,7 +156,7 @@ Comprar un bar no es comprar un local bonito: es comprar un beneficio que se pue
 
 ## Nuestras recomendaciones para vender sin morir en el intento
 
-- **No tengas prisa.** Una venta bien hecha tarda entre 6 y 12 meses. Si vendes con urgencia, vendes barato.
+- **No tengas prisa.** Una venta bien hecha tarda entre 6 y 12 meses.
 - **Ten todos los papeles listos:** facturas, contratos, impuestos, nóminas. La transparencia da confianza y acelera el cierre.
 - **Sé discreto.** Si tu equipo o tus clientes se enteran antes de tiempo, la incertidumbre puede bajar el valor del negocio.
 - **Pide ayuda.** Puedes vender solo, igual que puedes operarte tú mismo de apendicitis. Posible, pero no recomendable. Alguien de fuera pone el precio con números, negocia sin emociones y protege tu confidencialidad.
@@ -165,4 +165,4 @@ Comprar un bar no es comprar un local bonito: es comprar un beneficio que se pue
 
 Vender tu restaurante es tu última decisión como dueño. Si has trabajado años para hacerlo crecer, que una mala negociación no lo tire por tierra. Cuanto más fácil se lo pongas al que viene, con números claros, papeles en orden y un negocio que funcione sin ti, más podrás pedir.
 
-¿Estás pensando en vender? Valoramos tu negocio con números reales, te ayudamos a prepararlo, buscamos al comprador adecuado y te acompañamos hasta el cierre. [Hablemos](https://www.thebarnbarconsulting.com/contacto/), sin humos y con los datos sobre la mesa.
+¿Estás pensando en vender? Valoramos tu negocio, buscamos al comprador adecuado y te acompañamos hasta el cierre. [Hablemos](https://www.thebarnbarconsulting.com/contacto/), sin humos y con los datos sobre la mesa.

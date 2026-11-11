@@ -70,9 +70,9 @@ preferís no tener que acordaros, se puede quitar el año del title y del H1.
 
 # Los 5 tipos de negocios de hostelería más rentables en 2026
 
-¿Sueñas con tu propio local, lleno de gente y de buenos ratos? Es una idea preciosa. Pero, seamos sinceros: la pasión no paga las facturas.
+¿Sueñas con tu propio local, lleno de gente y de buenos ratos? Es una idea preciosa. Pero la pasión no paga las facturas.
 
-El secreto casi nunca está en el plato de moda. Está en elegir **un modelo de negocio pensado desde el principio para ser eficiente**. Te contamos los cinco que más vemos funcionar, por qué lo hacen y qué tiene que salir bien para que funcionen en tu caso.
+El secreto casi nunca está en el plato de moda. Está en elegir **un modelo de negocio pensado desde el principio para que los números salgan**. Te contamos los cinco que más vemos funcionar, por qué lo hacen y qué tiene que salir bien en tu caso.
 
 ## 1. El bar de tapas
 
@@ -102,16 +102,16 @@ En pocos años el café ha pasado de ser "un café" a ser un motivo para salir d
 
 ## 3. El street food (food truck o local pequeño)
 
-La comida callejera de calidad ha cambiado el sector. Permite ofrecer algo rico y original con mucha menos inversión.
+La comida callejera de calidad permite ofrecer algo rico y original con mucha menos inversión.
 
 **¿Por qué es rentable?**
 
 - **Inversión inicial baja:** un food truck o un pequeño local para llevar cuesta mucho menos que un restaurante.
 - **Flexibilidad:** puedes ir a festivales, eventos o zonas con mucho paso.
-- **Menos gastos fijos:** menos alquiler y menos personal, así que el margen por plato es bueno.
+- **Menos gastos fijos:** menos alquiler y menos personal, así que necesitas vender menos para cubrir costes.
 - **Carta corta:** tres o cuatro platos estrella reducen la complejidad y el desperdicio.
 
-**¿Qué tiene que salir bien?** El producto tiene que ser único: algo que no encuentres en cualquier esquina. Y ojo, el margen por plato es bueno, pero las ventas dependen mucho de dónde estés y del tiempo que haga. Las redes sociales y la ubicación son tus mejores aliadas.
+**¿Qué tiene que salir bien?** El producto tiene que ser único: algo que no encuentres en cualquier esquina. Y ojo: el margen por plato es bueno, pero las ventas dependen mucho de dónde estés y del tiempo que haga. Por eso pesan tanto la ubicación y las redes sociales.
 
 ## 4. La bodega moderna (vinos y tablas)
 
@@ -135,13 +135,13 @@ Aunque parezca lo contrario, la alta cocina puede ser rentable. Pero es el model
 - **Ticket medio muy alto:** el menú degustación tiene un precio elevado, así que cada cliente deja mucho.
 - **Compras previsibles:** con un menú cerrado sabes qué ingredientes necesitas y en qué cantidad, así que las compras se planifican mejor.
 - **Reservas por adelantado:** sabes cuántos comensales tendrás y ajustas la producción.
-- **Se vende por sí solo:** la creatividad, la calidad y las reseñas son tu mejor marketing.
+- **Boca a boca:** la creatividad, la calidad y las reseñas hacen buena parte del marketing.
 
-**¿Qué tiene en contra?** Necesita un equipo amplio y muy cualificado, en cocina y en sala, y producto caro. Por eso sus márgenes son mucho más ajustados de lo que parece: en Francia, según un informe de Inpulse.ai, incluso restaurantes con estrella Michelin cierran el mes con un margen neto del 3-4 %. Es un modelo para quien lo tiene muy claro y controla cada número.
+**¿Qué tiene en contra?** Necesita un equipo amplio y muy cualificado, en cocina y en sala, y producto caro. Por eso sus márgenes son mucho más ajustados de lo que parece: en Francia, según un informe de Inpulse.ai, incluso restaurantes con estrella Michelin cierran el mes con un margen neto del 3-4 %, muy por debajo del 8-15 % que consideramos sano. Es un modelo para quien lo tiene muy claro y controla cada número.
 
 ## Nuevos modelos de negocio en restauración: qué tienen en común los que funcionan
 
-Si te fijas, los cinco tipos de negocio rentables comparten varias cosas. Y esas cosas importan más que el tipo de local:
+Si te fijas, los negocios rentables suelen compartir cuatro rasgos. Y esos rasgos importan más que el tipo de local:
 
 - **Pocas referencias.** Una carta corta se compra mejor, se produce más rápido y se tira menos.
 - **Ingredientes de precio estable.** Si tu plato estrella depende de un producto que cambia de precio cada mes, tu margen también.
@@ -154,7 +154,7 @@ Por eso, más que preguntarte "¿qué negocio es más rentable?", pregúntate: *
 
 ## ¿Cómo elegir tu negocio rentable y no fallar en el intento?
 
-La idea es solo el 10 %. El otro 90 % es el plan y la ejecución.
+La idea cuenta menos de lo que parece. Lo que decide es el plan y la ejecución.
 
 Muchos negocios cierran porque sus dueños se enamoran de la idea y no tienen detrás un plan, unos números y una forma de trabajar que la hagan funcionar. Un negocio rentable tiene un concepto claro, un control de costes serio, un equipo que sabe lo que hace y una marca con salero que atraiga a la gente.
 
@@ -167,7 +167,7 @@ Antes de decidir, haz dos cosas:
 
 Cuando alguien nos trae una idea, lo primero no es decirle si nos gusta. Es ponerla a prueba: cuánto hay que vender para no perder dinero, qué coste tiene cada plato, cuánta gente hace falta para sacarlo adelante y si el local acompaña.
 
-Es la primera fase de nuestro método, el [BAR Method](https://www.thebarnbarconsulting.com/bar-method/). A veces la idea sale reforzada. Otras veces hay que ajustarla. Y alguna vez la conclusión honesta es que no compensa. Mejor saberlo antes de firmar que después.
+Esa prueba es el diagnóstico con el que empieza nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/). A veces la idea sale reforzada. Otras veces hay que ajustarla. Y alguna vez la conclusión honesta es que no compensa. Mejor saberlo antes de firmar que después.
 
 ## En resumen
 

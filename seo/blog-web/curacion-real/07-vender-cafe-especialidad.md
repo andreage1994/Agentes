@@ -73,7 +73,7 @@ estaban marcados como H1 por error.
 
 El café de especialidad no es una moda. Es la evolución natural de la barra: pasar de "servir café" a servir **tu** café.
 
-En un barrio con un café en cada esquina, un café mediocre te cuesta más que 20 gramos de grano. Te cuesta clientes que no repiten, reputación y ticket. Te contamos qué hace falta para vender café de especialidad y que deje margen.
+En un barrio con un café en cada esquina, ahorrar en el grano sale caro. Un café mediocre te cuesta clientes que no repiten, reputación y ticket. Te contamos qué hace falta para vender café de especialidad y que deje margen.
 
 ## ¿Qué es el café de especialidad y por qué importa?
 
@@ -90,7 +90,7 @@ Por eso marca la diferencia:
 
 ## Cómo vender café de especialidad: lo que tiene que salir bien
 
-Pasarte al café de especialidad no es comprarte una máquina cara. Es montar una propuesta completa, y estas cinco piezas tienen que encajar.
+Para pasarte al café de especialidad no basta con una máquina cara: hace falta una propuesta completa, y estas cinco piezas tienen que encajar.
 
 ### 1. El grano adecuado para tu concepto
 
@@ -103,7 +103,7 @@ No todos los negocios necesitan el mismo café. Antes de elegir, piensa en:
 
 No se trata de elegir el café más caro. Se trata de elegir **el más coherente con tu negocio**, y un tostador que te acompañe.
 
-### 2. Un equipo que asegure que siempre sale igual
+### 2. Un equipamiento que asegure que siempre sale igual
 
 Una buena máquina no hace un buen café. Una mala máquina sí garantiza un mal café. Lo que necesitas:
 
@@ -118,9 +118,8 @@ La clave no es gastar más, sino gastar bien.
 
 No hay buen café sin buenas manos. Punto. Tu equipo tiene que dominar:
 
-- el ajuste diario de la molienda y la extracción
+- el ajuste diario de la molienda y los tiempos de extracción
 - la texturización de la leche (y un latte art sencillo, sin postureo)
-- los tiempos de extracción
 - cómo se sirve y cómo se explica
 - el mantenimiento básico de la máquina
 
@@ -139,7 +138,7 @@ Un café bien contado se vende solo, sin presionar a nadie.
 
 ### 5. Revisarlo con el tiempo
 
-El primer mes no es el definitivo. Hay que ajustar recetas, ver qué se vende y qué no, y afinar hasta que funcione como un reloj.
+El primer mes no es el definitivo. Hay que ajustar recetas, ver qué se vende y qué no, y afinar hasta que salga igual todos los días.
 
 ## Cómo cobrarlo y ponerlo en la carta
 
@@ -153,7 +152,7 @@ Aquí es donde se gana o se pierde el margen:
 
 ## ¿Qué cambia cuando introduces café de especialidad?
 
-- **El cliente nota la diferencia.** Y vuelve. Y te recomienda.
+- **El cliente vuelve.** Y te recomienda.
 - **Mejora el margen por taza.** Un producto mejor permite un precio mejor, y el cliente lo acepta porque la experiencia lo respalda.
 - **Tu negocio gana personalidad.** Ya no sirves café. Sirves tu café.
 - **Te conviertes en destino.** No una parada rápida, sino un sitio al que se va a propósito.
@@ -171,10 +170,10 @@ Si estás pensando en montar un negocio alrededor del café, la cafetería de es
 
 Hemos acompañado a bares, cafeterías y restaurantes en este salto. Algunos ejemplos están en nuestros proyectos, como [Religion Coffee](https://www.thebarnbarconsulting.com/religion-coffee/), [Geisha Coffee Shop](https://www.thebarnbarconsulting.com/geisha-coffee-shop/), [Lady Madrid](https://www.thebarnbarconsulting.com/lady-madrid/) o [Rascal](https://www.thebarnbarconsulting.com/rascal/).
 
-Nuestro trabajo cubre todo el camino: elegir el grano y el tostador, asesorar en el equipamiento, formar al equipo, diseñar la oferta y cómo se comunica, y quedarnos a tu lado hasta que funcione solo. Es la forma en que aplicamos nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/) a la barra del café.
+Nuestro trabajo cubre todo el camino. Elegimos contigo el grano y el tostador, asesoramos sobre el equipamiento, formamos al equipo, diseñamos la oferta y cómo se comunica, y nos quedamos a tu lado hasta que funcione solo. Es la forma en que aplicamos nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/) a la barra del café.
 
 ## En resumen
 
-Vender café de especialidad no es complicarse la vida: es subir el nivel de tu barra. Buen grano, buen equipo, gente que sepa prepararlo y contarlo, y un precio bien explicado. Si las cinco piezas encajan, el café deja de ser un complemento y se convierte en un motivo para venir.
+Vender café de especialidad es subir el nivel de tu barra. Buen grano, buen equipamiento, gente que sepa prepararlo y contarlo, y un precio bien explicado. Si las cinco piezas encajan, el café deja de ser un complemento y se convierte en un motivo para venir.
 
-Tú pones la pasión. Nosotros, el método. Si quieres dar el salto, [hablemos](https://www.thebarnbarconsulting.com/contacto/).
+Si quieres dar el salto y no sabes por dónde empezar, [hablemos](https://www.thebarnbarconsulting.com/contacto/).
