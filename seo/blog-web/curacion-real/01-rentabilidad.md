@@ -59,17 +59,12 @@ ti", que es del artículo de los 5 tipos de negocio, no de este.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Cuéntanoslo y lo miramos juntos" |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] **Plazos para ser rentable** (18-36 meses de cero, 12-24 en traspaso):
-  vienen del texto actual y no tienen fuente. ¿Los mantenemos como nuestra
-  experiencia?
-- [ ] **Márgenes brutos por producto** (vinos y licores 70-85 %, comida
-  60-75 %): también heredados, sin fuente. Son razonables; ¿los damos por
-  buenos?
-- [ ] El title del sitio empieza siempre por "The Bar N Bar - ". Es la
-  plantilla global de Rank Math. Recomendamos cambiarla a
-  `%title% | The Bar N' Bar` para todo el blog.
+- Plazos para ser rentable (18-36 meses de cero, 12-24 en traspaso): **se mantienen**, con el matiz de que dependen de la inversión y las proyecciones de cada local (capacidad, ticket medio y gastos). Ya añadido al texto.
+- Márgenes brutos por producto (vinos 70-85 %, comida 60-75 %): **se mantienen**.
+- Margen neto sano del 8-15 %: **se mantiene** como dato cerrado.
+- Plantilla de title de Rank Math: la subís vosotros, así que podéis cambiarla directamente (ver README).
 
 ---
 
@@ -213,7 +208,7 @@ Ya sabes calcular la rentabilidad. La siguiente pregunta es cuánto vas a espera
 - **Restaurante desde cero (con obra):** entre 18 y 36 meses.
 - **Traspaso de un local que ya funciona:** entre 12 y 24 meses.
 
-Lo que más acelera o retrasa ese plazo es la inversión inicial y el control de gastos desde el primer día. Cuanto más grande la inversión y más flojo el control, más tardas en recuperar tu dinero.
+Cada local es un mundo: el plazo real depende de la inversión y de las proyecciones de cada negocio, según su capacidad, su ticket medio y sus gastos. Lo que más lo acelera o lo retrasa es la inversión inicial y el control de gastos desde el primer día. Cuanto más grande la inversión y más flojo el control, más tardas en recuperar tu dinero.
 
 ## Lo que hacemos nosotros antes de tocar nada
 

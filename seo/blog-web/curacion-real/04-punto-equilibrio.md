@@ -60,14 +60,11 @@ posición 10, y entra el 0,5 %.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Te ayudamos a calcularlo" |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] **Reparto de ventas por días** (de lunes a miércoles, 15-20 % de la
-  semana; de jueves a domingo, 60-70 %): viene del texto publicado y no
-  tiene fuente. ¿Lo damos por bueno como nuestra experiencia?
-- [ ] **"Cómo lo trabajamos nosotros"** dice que, al calcularlo, el dueño
-  suele descubrir que está más cerca del límite de lo que creía. ¿Es así en
-  vuestra experiencia? Si no, se quita esa frase.
+- Reparto de ventas por días (15-20 % / 60-70 %): **se mantiene**.
+- Frase de "Cómo lo trabajamos nosotros" (el dueño suele estar más cerca del límite de lo que creía): **se mantiene**.
+- Margen neto sano del 8-15 %: **se mantiene**.
 
 ---
 

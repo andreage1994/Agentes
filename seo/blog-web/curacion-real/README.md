@@ -65,9 +65,19 @@ Cuando se publique el artículo curado, la URL que absorbe debe redirigir a
 
 ## Avisos que afectan a todo el blog
 
+Andrea y Sergio suben ellos mismos los artículos, así que pueden hacer los
+dos cambios sin esperar a Eleyuve:
+
 - **Plantilla de title de Rank Math:** hoy todos los titles empiezan por
   "The Bar N Bar - ". Eso gasta espacio y aleja la palabra clave del
-  principio. Recomendación: cambiar la plantilla a `%title% | The Bar N' Bar`.
+  principio. Cómo cambiarlo: WordPress → Rank Math → Títulos y metas →
+  Entradas → Plantilla de título único → `%title% %sep% %sitename%`. Así
+  queda, por ejemplo, "Cómo abrir un bar… - The Bar N Bar". Si una entrada
+  tiene un title propio en su caja de Rank Math, ese manda sobre la
+  plantilla.
 - **"Entrebares" sale como H1** en todos los artículos, por la cabecera de la
-  plantilla del blog. Así cada artículo tiene dos H1. Hay que pedirle a
-  Eleyuve que lo cambie a un párrafo o a un H2 en la plantilla.
+  plantilla del blog. Así cada artículo tiene dos H1. Cómo cambiarlo:
+  Plantillas → Theme Builder → Entrada individual → editar con Elementor →
+  pulsar el título "Entrebares" → en "Etiqueta HTML", cambiar H1 por H2 o
+  "p" → Actualizar. Si no aparece en Theme Builder, la plantilla la
+  gestiona Eleyuve y hay que pedírselo.

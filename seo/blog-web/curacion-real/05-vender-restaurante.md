@@ -60,16 +60,11 @@ conoces. Aprende a escoger si este método…").
 | 5. Conclusión corta | Sal de la hostelería con la cabeza alta |
 | 6. CTA suave | "Hablemos, sin humos y con los datos sobre la mesa" |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] **"Entre 3 y 5 veces el EBITDA anual"**: viene de los dos artículos
-  publicados, sin fuente. ¿Es el rango con el que trabajamos?
-- [ ] **Plazos** (una venta bien hecha tarda de 6 a 12 meses; transición de
-  1 a 3 meses): heredados, sin fuente. ¿Correctos?
-- [ ] **Servicio:** ¿buscamos comprador nosotros (el gemelo decía "nos
-  encargamos de contactar inversores o compradores serios") o solo valoramos
-  y acompañamos? El texto propuesto dice "te ayudamos a encontrar al
-  comprador adecuado". Ajustadlo a lo que hacemos de verdad.
+- "Entre 3 y 5 veces el EBITDA anual": **se mantiene**.
+- Plazos (venta de 6 a 12 meses, transición de 1 a 3): **se mantienen**.
+- Servicio: **buscamos comprador y acompañamos**. CTA ajustado ("buscamos al comprador adecuado y te acompañamos hasta el cierre").
 
 ---
 
@@ -170,4 +165,4 @@ Comprar un bar no es comprar un local bonito: es comprar un beneficio que se pue
 
 Vender tu restaurante es tu última decisión como dueño. Si has trabajado años para hacerlo crecer, que una mala negociación no lo tire por tierra. Cuanto más fácil se lo pongas al que viene, con números claros, papeles en orden y un negocio que funcione sin ti, más podrás pedir.
 
-¿Estás pensando en vender? Valoramos tu negocio con números reales, te ayudamos a prepararlo y a encontrar al comprador adecuado, y te acompañamos hasta el cierre. [Hablemos](https://www.thebarnbarconsulting.com/contacto/), sin humos y con los datos sobre la mesa.
+¿Estás pensando en vender? Valoramos tu negocio con números reales, te ayudamos a prepararlo, buscamos al comprador adecuado y te acompañamos hasta el cierre. [Hablemos](https://www.thebarnbarconsulting.com/contacto/), sin humos y con los datos sobre la mesa.

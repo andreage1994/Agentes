@@ -62,19 +62,11 @@ clics trae al blog**). Las dos se protegen: esos apartados se mantienen.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Cuéntanoslo y lo vemos juntos" |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] **Licencias:** ¿TBNB tramita las licencias directamente o coordina con
-  técnicos externos? El texto publicado decía "nos encargamos de toda esta
-  parte". La propuesta dice "te ayudamos a ordenar los trámites y
-  coordinamos con los técnicos". Hay que ajustarlo a lo que hacemos de
-  verdad.
-- [ ] **Dato de CaixaBank Research** (rotación empresarial en torno al 21 %,
-  enero-febrero de 2026): se leyó a través de buscador porque la web
-  original estaba bloqueada. Conviene abrir el informe y confirmarlo antes
-  de publicar.
-- [ ] **Búsqueda del local:** el texto publicado dice que ayudamos a buscar
-  el local. ¿Lo mantenemos?
+- Licencias: **coordinamos con técnicos externos**. Texto ajustado ("coordinamos con los técnicos externos que los firman").
+- Dato de CaixaBank Research (rotación del 21 %): **se usa**.
+- Búsqueda del local: **sí ayudamos a buscar local**. Añadida una frase en el paso 3.
 
 ---
 
@@ -143,6 +135,8 @@ Un bar no es solo un local, es un sitio al que apetece ir. La gente no va solo p
 
 **El consejo que más dinero ahorra:** antes de firmar el alquiler, comprueba que en ese local se puede conseguir la licencia que necesitas. Salida de humos, aforo, insonorización, distancia a otros bares… Un local precioso en el que no puedes abrir es el error más caro de todos. Te contamos [qué preguntar antes de firmar el local](https://www.thebarnbarconsulting.com/licencias-abrir-restaurante/).
 
+Si no sabes por dónde empezar, te ayudamos a buscar el local: que encaje con tu concepto, con tus números y con la licencia que necesitas.
+
 ## 4. Requisitos y licencias: qué se necesita para abrir un bar
 
 Llega la parte más pesada: la burocracia. Un error aquí retrasa la apertura y cuesta dinero.
@@ -153,7 +147,7 @@ Llega la parte más pesada: la burocracia. Un error aquí retrasa la apertura y 
 - **Registro sanitario y plan APPCC:** imprescindibles si vas a servir comida. El APPCC no es un papel para el cajón; te explicamos [la diferencia entre tenerlo y usarlo](https://www.thebarnbarconsulting.com/plan-appcc-hosteleria/).
 - **Otros trámites:** alta de la empresa, Seguridad Social, seguros, plan de prevención de incendios…
 
-Cada ayuntamiento tiene sus reglas y sus plazos, así que no te fíes de lo que le funcionó a otro en otra ciudad. Te ayudamos a ordenar los trámites para que cada permiso llegue a tiempo y coordinamos con los técnicos que los firman.
+Cada ayuntamiento tiene sus reglas y sus plazos, así que no te fíes de lo que le funcionó a otro en otra ciudad. Te ayudamos a ordenar los trámites para que cada permiso llegue a tiempo y coordinamos con los técnicos externos que los firman.
 
 ## 5. Contrata al equipo y organiza la operativa
 

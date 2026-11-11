@@ -59,14 +59,10 @@ preferís no tener que acordaros, se puede quitar el año del title y del H1.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Cuéntanosla y la miramos juntos" |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] ¿Ponemos **2026** en title y H1 (más clics, pero hay que actualizarlo
-  cada año) o lo **quitamos**?
-- [ ] Los dos datos de Inpulse.ai son de Francia y se citan como tal: food
-  cost del 24-30 % en pizzería napolitana y pasta artesanal, y margen neto
-  del 3-4 % incluso con estrella Michelin. Se leyeron a través de buscador,
-  no en la web original, que estaba bloqueada. ¿Os parece bien usarlos?
+- **Se deja 2026** en title y H1. Se irá actualizando en las siguientes curaciones.
+- Datos de Inpulse.ai (Francia): **se usan**, citados como mercado francés.
 
 ---
 

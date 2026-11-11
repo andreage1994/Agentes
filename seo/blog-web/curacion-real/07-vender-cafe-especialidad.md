@@ -60,14 +60,10 @@ estaban marcados como H1 por error.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Hablemos" |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] **Proyectos:** el texto enlaza a Religion Coffee y Geisha Coffee Shop
-  como proyectos de café en los que hemos trabajado. ¿Os parece bien
-  mencionarlos aquí?
-- [ ] **Marcas de máquinas** (La Marzocco, Sanremo, Victoria Arduino): vienen
-  del texto publicado. ¿Las mantenemos? Ojo, no hay ningún acuerdo
-  comercial que obligue a citarlas.
+- Proyectos: **se citan** Religion Coffee, Geisha Coffee Shop, Lady Madrid y Rascal.
+- Marcas: **se mantienen** La Marzocco, Sanremo y Victoria Arduino, y se añaden Slayer y Kees van der Westen (máquinas) y Mahlkönig, Mazzer y Eureka (molinillos). Ninguna tiene acuerdo comercial con nosotros.
 
 ---
 
@@ -111,8 +107,8 @@ No se trata de elegir el café más caro. Se trata de elegir **el más coherente
 
 Una buena máquina no hace un buen café. Una mala máquina sí garantiza un mal café. Lo que necesitas:
 
-- una máquina fiable (La Marzocco, Sanremo o Victoria Arduino son referencias habituales)
-- un molinillo de precisión: es tan importante como la máquina
+- una máquina fiable: La Marzocco, Sanremo, Victoria Arduino, Slayer o Kees van der Westen son referencias habituales en el café de especialidad
+- un molinillo de precisión, tan importante como la máquina: Mahlkönig, Mazzer o Eureka son de los más vistos en las barras de especialidad
 - un buen sistema de filtrado del agua
 - si encaja con tu concepto, métodos alternativos (V60, Chemex, Aeropress)
 
@@ -173,7 +169,7 @@ Si estás pensando en montar un negocio alrededor del café, la cafetería de es
 
 ## Cómo lo trabajamos nosotros
 
-Hemos acompañado a bares, cafeterías y restaurantes en este salto. Algunos ejemplos están en nuestros proyectos, como [Religion Coffee](https://www.thebarnbarconsulting.com/religion-coffee/) o [Geisha Coffee Shop](https://www.thebarnbarconsulting.com/geisha-coffee-shop/).
+Hemos acompañado a bares, cafeterías y restaurantes en este salto. Algunos ejemplos están en nuestros proyectos, como [Religion Coffee](https://www.thebarnbarconsulting.com/religion-coffee/), [Geisha Coffee Shop](https://www.thebarnbarconsulting.com/geisha-coffee-shop/), [Lady Madrid](https://www.thebarnbarconsulting.com/lady-madrid/) o [Rascal](https://www.thebarnbarconsulting.com/rascal/).
 
 Nuestro trabajo cubre todo el camino: elegir el grano y el tostador, asesorar en el equipamiento, formar al equipo, diseñar la oferta y cómo se comunica, y quedarnos a tu lado hasta que funcione solo. Es la forma en que aplicamos nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/) a la barra del café.
 
