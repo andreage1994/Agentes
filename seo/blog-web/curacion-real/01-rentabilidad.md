@@ -34,9 +34,10 @@ ti", que es del artículo de los 5 tipos de negocio, no de este.
   "cuánto se gana en un bar pequeño" y "rentabilidad de un restaurante
   ejemplo", que hoy traen visitas sin que el artículo las conteste. Los
   números son inventados y así se dice en el texto.
-- **El margen "sano" del 8-15 % ya no se da como dato cerrado.** No tiene
-  fuente, y los blogs que lo citan se contradicen (del 3 % al 20 %). Se
-  explica eso con honestidad, que es justo lo que nadie más hace.
+- **El margen neto sano del 8-15 % se mantiene como dato cerrado,** igual que
+  en el texto publicado ("por debajo del 5 %, peligro; por encima del 15 %,
+  excelente"). Decisión de Andrea, 2026-11-11. Solo se añade, debajo, el
+  consejo de calcularlo cada mes.
 - **El escandallo y el punto de equilibrio se resumen y enlazan** a sus
   artículos propios, en vez de repetirlos. Así este queda como "el mapa
   entero" y no compite con ellos.
@@ -149,9 +150,9 @@ Si tu margen bruto es bajo, da igual lo lleno que estés: no quedará dinero par
 
 Es lo que te queda de cada euro después de pagarlo **todo**: materia prima, sueldos, alquiler, luz, impuestos. Es tu beneficio real, y el número que importa.
 
-¿Y qué margen neto es "normal"? Aquí te vamos a ser sinceros. Si lo buscas en internet verás de todo: hay quien dice que entre el 3 % y el 5 %, quien dice que entre el 5 % y el 15 % y quien habla del 15-20 %. Casi ninguno cita de dónde sale. Lo único con fuente es lo que te contábamos arriba: en 2025, de media, la rentabilidad del sector bajó.
+¿Cuál es el margen de rentabilidad medio de un restaurante? Un margen neto sano en hostelería está **entre el 8 % y el 15 %**. Por debajo del 5 %, estás en peligro. Por encima del 15 %, estás haciendo un trabajo excelente.
 
-Por eso nuestro consejo es otro: **no te compares con una cifra de internet, compárate contigo**. Calcula tu margen neto cada mes. Si baja tres meses seguidos, algo ha cambiado (precios de proveedor, horas de personal, raciones) y toca buscarlo antes de que se note en el banco.
+Y un consejo: calcula tu margen neto cada mes. Si baja tres meses seguidos, algo ha cambiado (precios de proveedor, horas de personal, raciones) y toca buscarlo antes de que se note en el banco.
 
 Si quieres una forma rápida de ver si tu reparto de costes está desequilibrado, te contamos por qué la [regla 50/30/20 en la hostelería](https://www.thebarnbarconsulting.com/que-es-la-regla-50-30-20-en-la-hosteleria/) se convierte en un 60/30/10.
 
