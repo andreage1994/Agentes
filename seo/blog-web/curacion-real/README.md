@@ -38,9 +38,13 @@ suave. Cada archivo incluye una tabla que dice dónde está cada parte.
 | `05-vender-restaurante.md` | Lo que debes saber antes de vender un restaurante (absorbe "Cómo vender o comprar tu negocio con éxito") | Curación | 🟡 Pendiente de revisión |
 | `06-regla-50-30-20.md` | Qué es la regla 50/30/20 en la hostelería | Curación ligera | 🟡 Pendiente de revisión |
 | `07-vender-cafe-especialidad.md` | Cómo vender café de especialidad (absorbe "La transición al café de especialidad") | Curación | 🟡 Pendiente de revisión |
+| `08-horario-ininterrumpido.md` | Horario ininterrumpido en el restaurante (absorbe la copia "trampa-horario…") | Curación ligera | 🟡 Pendiente de revisión |
+| `09-reducir-gastos.md` | Cómo reducir los gastos de un bar | Curación ligera | 🟡 Pendiente de revisión |
+| `10-fin-monodosis.md` | El fin de las monodosis en restaurantes (absorbe "Por qué quitan las monodosis") | Curación | 🟠 **Corrección legal pendiente de validar** |
+| `11-crecer-tu-bar.md` | Cómo hacer crecer tu bar | Curación | 🟡 Pendiente de revisión |
+| `12-errores-abrir-restaurante.md` | Errores comunes al abrir un restaurante (absorbe su copia `-2`) | Curación | 🟡 Pendiente de revisión |
 | — | (EN) The 5 most profitable hospitality businesses | Curación | ⏸ Primero hay que juntar sus 16 copias |
 | — | (EN) Transitioning to specialty coffee (-3) | Curación | ⏸ Primero hay que juntar sus 5 copias |
-| — | Errores comunes al abrir un restaurante | Curación | ⬜ Pendiente |
 
 ## Redirecciones que hay que poner al publicar
 
@@ -51,6 +55,9 @@ Cuando se publique el artículo curado, la URL que absorbe debe redirigir a
 |---|---|
 | `/como-vender-o-comprar-tu-negocio-con-exito/` | `/lo-que-debes-saber-antes-de-vender-un-restaurante/` |
 | `/la-transicion-al-cafe-de-especialidad-con-the-bar-n-bar/` | `/como-vender-cafe-de-especialidad/` |
+| `/trampa-horario-ininterrumpido-restaurante/` | `/horario-ininterrumpido-restaurante/` |
+| `/por-que-quitan-los-monodosis-en-los-bares/` | `/fin-monodosis-restaurantes/` |
+| `/errores-comunes-al-abrir-un-restaurante-2/` | `/errores-comunes-al-abrir-un-restaurante/` |
 
 ## Fallos encontrados en los artículos publicados (arreglar ya, aunque no se publique la curación)
 
@@ -62,6 +69,19 @@ Cuando se publique el artículo curado, la URL que absorbe debe redirigir a
 - **Cómo vender café de especialidad:** la página tiene tres H1.
 - **Regla 50/30/20:** la tabla se ve como texto suelto separado por
   tabuladores.
+- **Fin de las monodosis:** dice que la prohibición de las monodosis de
+  plástico en sala entra en vigor el 12 de agosto de 2026. **Es el 1 de enero
+  de 2030** (Reglamento (UE) 2025/40, art. 25 y anexo V). Es el fallo más
+  urgente: es un dato legal y ya ha pasado la fecha que da el artículo.
+- **Errores comunes al abrir un restaurante:** sus 9 enlaces internos llevan
+  a búsquedas de Google.
+- **Cómo hacer crecer tu bar:** 2 enlaces a búsquedas de Google, 10 H1 y
+  promete una "primera auditoría gratuita" sin confirmar.
+- **Horario ininterrumpido:** se ven en la web dos enlaces mal pegados
+  ("como(https://…)" y "un análisis de(https://…)"). Además, el mismo texto
+  está publicado en dos URLs.
+- **Cómo reducir los gastos de un bar:** un enlace a una búsqueda de Google
+  y la meta description cortada a media frase.
 
 ## Avisos que afectan a todo el blog
 
