@@ -74,6 +74,8 @@ hostelería" (posición 7). El title la pone al principio.
 
 ## Pendiente de confirmar por Andrea/Sergio
 
+- [ ] **Lo que decimos que hacemos:** "este tipo de cambios de normativa son de lo primero que miramos". No somos un despacho jurídico. ¿Añadimos "para lo estrictamente legal, confírmalo con tu asesor; nosotros miramos cómo te afecta en el servicio y en el coste"? (decisión de Andrea y de Sergio, que lleva Legal).
+- [ ] **Plástico compostable:** se ha dejado matizado ("las fuentes no coinciden en el alcance: confírmalo con tu asesor"). ¿Lo dejamos así o lo quitamos?
 - [ ] **Validar la corrección de fechas** (2030 en lugar de agosto de 2026).
 - [ ] **Datos que no he podido verificar en fuente oficial**, heredados del
   texto publicado. Conviene comprobarlos en el texto del reglamento o con un
@@ -96,20 +98,20 @@ hostelería" (posición 7). El title la pone al principio.
 
 Seguro que lo has leído: "se acaban los sobres de kétchup y las tarrinas de mantequilla". Algunos titulares hablaron incluso de agosto de 2026. Calma: la prohibición de las monodosis de plástico en sala llega el **1 de enero de 2030**.
 
-Eso no significa que haya que esperar a 2029 para moverse. Te contamos qué dice exactamente la ley, qué queda prohibido, qué excepciones hay y cómo preparar tu bar o restaurante sin prisas ni gastos de más.
+Eso no significa que haya que esperar al último momento para moverse. Vamos a ver qué dice exactamente la ley, qué queda prohibido, qué excepciones hay y cómo preparar tu bar o restaurante sin prisas ni gastos de más.
 
 ## ¿Qué dice exactamente la normativa sobre las monodosis en los restaurantes?
 
 El cambio viene del Reglamento (UE) 2025/40 del Parlamento Europeo y del Consejo, de 19 de diciembre de 2024, sobre envases y residuos de envases. Se le conoce como PPWR, por sus siglas en inglés.
 
-A diferencia de una directiva, que cada país tiene que pasar a su propia ley, un reglamento europeo se aplica directamente en toda la Unión. España no puede aplazarlo ni suavizarlo. Afecta a restaurantes, bares, cafeterías y alojamientos turísticos.
+A diferencia de una directiva, que cada país tiene que pasar a su propia ley, un reglamento europeo se aplica directamente en toda la Unión. España no lo puede cambiar a su gusto. Afecta a restaurantes, bares, cafeterías y alojamientos turísticos.
 
 ### El calendario, fecha a fecha
 
 El reglamento no lo cambia todo de golpe. Va por fases:
 
 - **12 de agosto de 2026: el reglamento empieza a aplicarse.** Entre otras cosas, se limitan las sustancias químicas nocivas, como los PFAS, en los envases que tocan alimentos.
-- **Febrero de 2027: sanciones y envase del cliente.** Cada país tiene que tener listo su régimen de sanciones. Además, en la comida y bebida para llevar, el cliente podrá traer su propio envase reutilizable, sin pagar más por ello, y el local tendrá que informar de ello de forma visible.
+- **Febrero de 2027: sanciones y envase del cliente.** Cada país tiene que tener listo su régimen de sanciones. Además, en la comida y bebida para llevar, el cliente podrá traer su propio envase reutilizable sin pagar más, y el local tendrá que avisarlo de forma visible.
 - **Febrero de 2028: envases reutilizables para llevar.** Los locales que vendan comida para llevar tendrán que ofrecer también una opción en envase reutilizable, con un sistema de devolución. Las microempresas quedan exentas.
 - **1 de enero de 2030: adiós a las monodosis de plástico en sala.** Se prohíben las monodosis de plástico de un solo uso para lo que se consume en el local, y también las miniaturas de champú y gel de los hoteles, que tendrán que pasar a dispensadores recargables. En esa fecha también entra el límite del 50 % de espacio vacío en los envases de transporte y de comercio electrónico.
 
@@ -122,22 +124,22 @@ La prohibición va contra el plástico de usar y tirar que llega a la mesa del c
 - **Tarrinas de mantequilla, mermelada, miel, margarina o cremas para untar.**
 - **Sobres de azúcar, edulcorante, sal, pimienta o especias** con capas de plástico por dentro para protegerlos de la humedad.
 
-### Las excepciones que te salvan el servicio
+### Las excepciones
 
-La ley deja algunas vías que conviene conocer bien:
+La ley deja algunas vías abiertas:
 
 - **Comida para llevar y a domicilio.** Lo que el cliente se lleva o le llega a casa queda fuera. En los pedidos de delivery y para llevar, las monodosis de salsas o aceite pueden seguir usándose. Tiene sentido: así se transportan con seguridad los alimentos calientes y grasos.
-- **Sobres 100 % de papel.** La prohibición es para el plástico. Los sobres de azúcar, sal o pimienta hechos solo de papel, sin plastificar, siguen siendo legales en sala. Los proveedores ya están sacando papeles con barreras antigrasa naturales.
-- **Plástico compostable certificado.** En España, la Ley 7/2022 de residuos permite seguir usando en sala monodosis de plástico compostable certificado hasta 2030.
+- **Sobres 100 % de papel.** La prohibición es para el plástico. Los sobres de azúcar, sal o pimienta hechos solo de papel, sin plastificar, siguen siendo legales en sala. Algunos proveedores ya ofrecen papeles con barrera antigrasa natural.
+- **Plástico compostable certificado.** La Ley 7/2022 de residuos lo contempla en España hasta 2030, pero las fuentes no coinciden en el alcance: confírmalo con tu asesor antes de contar con ello.
 - **Hospitales y residencias.** Los centros sanitarios y las residencias de mayores quedan fuera, por higiene y por el control de dietas y alérgenos.
 
 ## El aceite de oliva: aceiteras que no se pueden rellenar
 
 Si hay un producto que da quebraderos de cabeza en España, es el aceite de oliva. Aquí ya teníamos una norma propia, anterior a la europea, y muy estricta.
 
-### La ley del aceite: adiós a las aceiteras rellenables
+### Qué dice la ley del aceite
 
-Desde el 1 de enero de 2014, el Real Decreto 895/2013 (y hoy el Real Decreto 760/2021, sobre la norma de calidad de los aceites de oliva) prohíbe las aceiteras rellenables en cualquier bar, restaurante o catering.
+Desde el 1 de enero de 2014, el Real Decreto 895/2013 prohíbe las aceiteras rellenables en cualquier bar, restaurante o catering. Hoy lo recoge también el Real Decreto 760/2021, la norma de calidad de los aceites de oliva.
 
 Hay dos motivos. Uno, proteger al cliente del fraude: evitar que se rellenen botellas de marca con aceite de peor calidad. Y dos, que el aceite conserve su sabor y sus propiedades, que se pierden rápido con la luz y el aire si el envase no cierra bien.
 
@@ -153,7 +155,7 @@ Hasta 2030 hay margen. Úsalo para cambiar con calma y sin gastar de más:
 1. **Haz inventario de tus monodosis:** qué usas, cuánto y en qué momento del servicio.
 2. **Agota el stock con cabeza.** No compres grandes cantidades de formatos que tendrás que retirar.
 3. **Habla ya con tus proveedores** sobre alternativas: dispensadores, sobres de papel, formatos grandes. Es buen momento para [negociar con ellos](https://www.thebarnbarconsulting.com/negociar-proveedores-restaurante/).
-4. **Calcula el coste.** Un dispensador bien elegido puede salir más barato por servicio que la monodosis. Uno mal elegido puede disparar la merma. Haz números antes de cambiar, como te contamos en [cómo reducir los gastos de un bar](https://www.thebarnbarconsulting.com/como-reducir-los-gastos-de-un-bar/).
+4. **Calcula el coste.** Un dispensador bien elegido puede salir más barato por servicio que la monodosis. Uno mal elegido puede disparar la merma. Haz números antes de cambiar. El método lo tienes en [cómo reducir los gastos de un bar](https://www.thebarnbarconsulting.com/como-reducir-los-gastos-de-un-bar/).
 5. **Forma al equipo** para servir salsas, aceite y azúcar en el nuevo formato con higiene y sin desperdiciar.
 
 ## Cómo lo trabajamos nosotros
@@ -162,6 +164,6 @@ Cuando revisamos la operativa de un local, este tipo de cambios de normativa son
 
 ## En resumen
 
-Las monodosis de plástico en sala tienen fecha de caducidad: el 1 de enero de 2030. Las de papel, las de comida para llevar y el aceite con cierre antirrelleno siguen siendo válidos. Aprovecha el margen que queda para cambiar con calma, agotar stock y elegir bien las alternativas.
+Las monodosis de plástico en sala tienen fecha de caducidad: el 1 de enero de 2030. Las de papel, las de comida para llevar y el aceite con cierre antirrelleno siguen siendo legales. Aprovecha el margen que queda para cambiar con calma, agotar stock y elegir bien las alternativas.
 
-Si quieres preparar tu local para el cambio sin perder dinero por el camino, [escríbenos](https://www.thebarnbarconsulting.com/contacto/) y lo vemos juntos.
+Si quieres preparar tu local para el cambio sin perder dinero por el camino, [escríbenos](https://www.thebarnbarconsulting.com/contacto/) y hacemos los números contigo.

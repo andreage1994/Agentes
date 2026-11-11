@@ -57,6 +57,7 @@ Las búsquedas que mejor posiciona son "ideas para bares pequeños"
 
 ## Pendiente de confirmar por Andrea/Sergio
 
+- [ ] **Lo que decimos que hacemos:** que el diagnóstico del BAR Method mira también "el marketing local", y que en "Un diseño que vende" hablemos de cómo influye el espacio en las ventas. ¿Entran en lo que hacemos? (La frase "en nuestros proyectos diseñamos antes de reformar" se ha quitado.)
 - [ ] **CTA:** ¿ofrecemos una "primera auditoría gratuita", como decía el
   texto publicado, o la reunión gratuita de 15 minutos? Se ha puesto la
   reunión.
@@ -75,7 +76,7 @@ Seguro que lo has visto mil veces: un bar lleno un martes cualquiera y otro, en 
 
 Muchos dueños creen que crecer es cambiar la decoración, hacer un par de promociones o lanzar ideas al azar. Eso da picos, no crecimiento. El crecimiento de verdad, el que sostiene un bar durante años, se apoya en tres pilares: **experiencia, costes y marketing local**.
 
-Un bar no es solo un sitio donde la gente bebe: es tu marca y tu mejor herramienta de venta. Vamos paso a paso.
+Vamos paso a paso.
 
 ## 1. Un diseño que vende (sobre todo si tu bar es pequeño)
 
@@ -89,14 +90,14 @@ La decoración no es solo estética: cambia cómo consume la gente.
 
 ### Aprovecha las paredes
 
-En un bar pequeño, las paredes valen oro. Estanterías altas y una contrabarra elevada dan sensación de abundancia y liberan metros útiles.
+En un bar pequeño, cada pared cuenta. Estanterías altas y una contrabarra elevada dan sensación de abundancia y liberan metros útiles.
 
 ### La música marca el ritmo
 
 - **Ritmo rápido:** más rotación.
 - **Ritmo lento:** la gente se queda más.
 
-Controlar la música es controlar las ventas sin tocar los precios. Por eso, en nuestros proyectos diseñamos antes de reformar: cada metro tiene que generar ingresos.
+La música influye en las ventas sin tocar los precios.
 
 ## 2. Ideas que atraen gente (y que funcionan en la vida real)
 
@@ -127,10 +128,10 @@ Tu carta no es una lista de precios: es tu mejor vendedor.
 
 ## 4. Venta sugerida: el crecimiento de cada día
 
-Uno de los secretos mejor guardados: recomendar es servir, no presionar.
+Recomendar es servir, no presionar.
 
-- **Upselling:** "Esta ginebra queda increíble con nuestra tónica premium, ¿te apetece probarla?"
-- **Cross-selling:** "Este tinto va perfecto con nuestras bravas. ¿Te traigo unas?"
+- **Subir de gama (upselling):** "Esta ginebra queda increíble con nuestra tónica premium, ¿te apetece probarla?"
+- **Completar el pedido (cross-selling):** "Este tinto va perfecto con nuestras bravas. ¿Te traigo unas?"
 
 Un equipo bien formado puede subir el ticket medio un 15-20 % sin crear ni un producto nuevo.
 
@@ -156,7 +157,7 @@ La gente necesita excusas para salir entre semana:
 - trivial o juegos de mesa;
 - noches temáticas relacionadas con tu concepto.
 
-Los eventos crean hábito. El hábito crea comunidad. Y la comunidad crea rentabilidad.
+Los eventos crean hábito, y el hábito llena el bar los días flojos. Eso sí, apunta lo que cuesta cada uno y lo que deja.
 
 ## 7. Servicio y reseñas: tu marketing más barato
 
@@ -170,9 +171,9 @@ Puedes tener el bar más bonito de la ciudad. Si el servicio flojea, no hay nada
 
 Muchas reseñas negativas no vienen de la comida, sino del servicio.
 
-### Tu equipo es tu crecimiento
+### Que tu equipo se quede
 
-Motivación, roles claros y turnos justos. Un buen equipo vende más que cualquier campaña, y si se queda contigo, todavía más: te damos ideas para [reducir la rotación de personal](https://www.thebarnbarconsulting.com/como-reducir-la-rotacion-de-personal-en-tu-bar/).
+Motivación, roles claros y turnos justos. Un buen equipo vende mucho, y si se queda contigo, más: aquí tienes cómo [reducir la rotación de personal](https://www.thebarnbarconsulting.com/como-reducir-la-rotacion-de-personal-en-tu-bar/).
 
 ## 8. Mídelo todo, porque crecer no va de intuición
 
@@ -183,24 +184,26 @@ Lo que no mides, lo pagas.
 - ventas por hora;
 - ticket medio;
 - rotación de mesas;
-- food cost y pour cost (lo que te cuesta cada copa servida);
+- materia prima (food cost) y pour cost, lo que te cuesta cada copa servida;
 - productividad del equipo;
-- inventario y mermas (aquí te contamos cómo llevar el [control de inventario](https://www.thebarnbarconsulting.com/control-de-inventario-restaurantes/)).
+- inventario y mermas (cómo llevarlo, en [control de inventario](https://www.thebarnbarconsulting.com/control-de-inventario-restaurantes/)).
 
 Y antes de crecer, ten claro tu [punto de equilibrio](https://www.thebarnbarconsulting.com/punto-de-equilibrio-en-restauracion-cuanto-necesitas-vender/): crecer en ventas solo sirve si sabes a partir de cuándo ganas.
 
 ### Que te encuentren en Google
 
-Salir en "el mejor bar cerca de mí" vale dinero. Cuida tu ficha de Google: fotos reales, horarios al día y respuesta a las reseñas. Es tráfico sin pagar publicidad.
+Salir en "el mejor bar cerca de mí" vale dinero. Cuida tu ficha de Google: fotos reales, horarios al día y respuesta a las reseñas. Son clientes que llegan sin pagar publicidad.
 
 ## Cómo lo trabajamos nosotros
 
-Muchos dueños se agotan porque hacen muy bien su trabajo (cocinar, servir) pero no les queda tiempo para la gestión y la estrategia. Crecer no va de trabajar más horas, sino de trabajar con más cabeza.
+Muchos dueños se agotan porque hacen muy bien su trabajo (cocinar, servir) pero no les queda tiempo para mirar los números y planificar. Crecer no depende de trabajar más horas, sino de dedicar tiempo a mirar el negocio desde fuera.
 
-Por eso, con nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/) miramos el bar entero: la operativa, los costes, la carta, el equipo y el marketing local. Y de ahí sale un plan claro, con un diseño que vende, una carta que deja margen, un equipo que recomienda sin presionar y los costes bajo control. Si quieres empezar por los números, aquí tienes [cómo reducir los gastos de un bar](https://www.thebarnbarconsulting.com/como-reducir-los-gastos-de-un-bar/) y la [regla 50/30/20 adaptada a la hostelería](https://www.thebarnbarconsulting.com/que-es-la-regla-50-30-20-en-la-hosteleria/).
+Por eso empezamos por el diagnóstico de nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/): miramos el bar entero, la operativa, los costes, la carta, el equipo y el marketing local. De ahí sale un plan claro para ti.
+
+Si quieres empezar por los números, aquí tienes [cómo reducir los gastos de un bar](https://www.thebarnbarconsulting.com/como-reducir-los-gastos-de-un-bar/) y la [regla 50/30/20 adaptada a la hostelería](https://www.thebarnbarconsulting.com/que-es-la-regla-50-30-20-en-la-hosteleria/).
 
 ## En resumen
 
-Hacer crecer tu bar no es cuestión de suerte. Es diseñar el espacio para vender, tener una carta que deje margen, un equipo que recomiende, promociones que no regalen el margen y unos pocos números que mires cada semana.
+Crecer es diseñar el espacio para vender, tener una carta que deje margen, un equipo que recomiende, promociones que no regalen margen y unos pocos números que mires con regularidad.
 
-Si quieres dejar de sobrevivir y empezar a crecer con cabeza, [hablemos en una reunión gratuita de 15 minutos](https://www.thebarnbarconsulting.com/contacto/).
+Si quieres ver por dónde empezar en tu bar, [hablemos en una reunión gratuita de 15 minutos](https://www.thebarnbarconsulting.com/contacto/).

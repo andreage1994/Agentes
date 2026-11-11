@@ -57,6 +57,8 @@ palabra clave al principio y cabe entero en Google.
 
 ## Pendiente de confirmar por Andrea/Sergio
 
+- [ ] **Lo que decimos que hacemos:** "una de las primeras cosas que hacemos es cruzar las ventas por franja horaria con los turnos del equipo; es habitual que aparezcan horas con más gente trabajando que vendiendo". ¿Es así?
+- [ ] **H1:** "está arruinando tu restaurante" es más tajante que la conclusión ("no es bueno ni malo por sí mismo"). Se mantiene por posición y clics. ¿De acuerdo?
 - [ ] **Cifras heredadas sin fuente:** prime cost sano del 55-60 %, subida
   media de los convenios del 4 % anual y coste de personal del 70-80 % de las
   ventas en las horas flojas. ¿Las damos por buenas como en los otros
@@ -70,23 +72,23 @@ palabra clave al principio y cabe entero en Google.
 
 Son las seis de la tarde. La terraza tiene buena pinta: unas cuantas mesas con cafés, cañas y algo de picar. Y tú miras con alivio, pensando que abrir todo el día está mereciendo la pena.
 
-Llega fin de mes y el margen es raquítico, o directamente negativo. No es mala suerte: es lo que pasa cuando se mira cuánto se factura y no cuánto se gana. Te contamos por qué abrir sin parar puede salirte caro y cómo saber si a ti te compensa.
+Llega fin de mes y el margen es raquítico, o directamente negativo. No es mala suerte: es lo que pasa cuando se mira cuánto se factura y no cuánto se gana. Vamos a ver por qué abrir sin parar puede salirte caro y cómo saber si a ti te compensa.
 
 ## La paradoja de la puerta abierta
 
 Tener la persiana siempre subida da sensación de negocio vivo. Pero cada hora abierta tiene un coste: personal, luz, cocina encendida, producto que se estropea. Si lo que vendes en esa hora no lo cubre, **cada hora abierta te resta**.
 
-Es lo que llamamos la paradoja de la puerta abierta. El problema no es abrir por la tarde. Es abrir **igual** por la tarde que al mediodía, con la misma carta y el mismo equipo.
+Es la paradoja de la puerta abierta. El problema no es abrir por la tarde. Es abrir **igual** por la tarde que al mediodía, con la misma carta y el mismo equipo.
 
 ## La trampa del dayparting mal hecho
 
-El dayparting es dividir el día en franjas y adaptar la oferta a cada una. Bien hecho, funciona. Mal hecho, es lo que está hundiendo a muchos restaurantes.
+El dayparting es dividir el día en franjas y adaptar la oferta a cada una. Bien hecho, funciona. Mal hecho, se come el margen.
 
-Abrir a las cinco de la tarde con la misma carta que a las dos es un error. Los platos de mediodía piden tiempo de cocina y personal que no encajan con lo que pide el cliente de la tarde, que quiere algo rápido y ligero. Para que el horario ininterrumpido no sea una ruina, el local tiene que cambiar por la tarde: pasar a ser un bar de picoteo o una cafetería. Y eso solo funciona si la marca es lo bastante clara como para no confundir al cliente.
+Abrir a las cinco de la tarde con la misma carta que a las dos es un error. Los platos de mediodía piden tiempo de cocina y personal que no encajan con lo que pide el cliente de la tarde, que quiere algo rápido y ligero. Para que el horario ininterrumpido no sea una ruina, el local tiene que cambiar por la tarde: pasar a ser un bar de picoteo o una cafetería. Y eso solo funciona si la marca es clara.
 
 ### ¿Por qué fallan las promociones de tarde?
 
-Muchos dueños intentan llenar la tarde con descuentos o happy hours. Sin un [escandallo](https://www.thebarnbarconsulting.com/escandallo-evitar-desperdicio-restaurante/) detrás, esas promociones atraen a un cliente que ocupa mesa, gasta luz y necesita servicio, pero deja un margen negativo.
+Muchos dueños intentan llenar la tarde con descuentos o happy hours. Sin un [escandallo](https://www.thebarnbarconsulting.com/escandallo-evitar-desperdicio-restaurante/) detrás, esas promociones pueden atraer a un cliente que ocupa mesa, gasta luz y necesita servicio, pero deja un margen negativo.
 
 Nuestro consejo: usa los datos de tu TPV para comprobar si la promoción trae clientes nuevos o si solo hace que los de siempre paguen menos por lo mismo.
 
@@ -96,13 +98,13 @@ Para saber si abrir todo el día tiene sentido, hay que mirar el **prime cost**:
 
 ### El coste del personal no baja por la tarde
 
-En España, los convenios de hostelería de 2025 han consolidado subidas salariales de un 4 % de media al año, y el control del registro horario y de las horas extra es cada vez más estricto. Tener el restaurante abierto de 16:00 a 20:00 exige, como mínimo, un cocinero, un camarero y un responsable de turno.
+En España, los convenios de hostelería de 2025 han consolidado subidas salariales de un 4 % de media al año, y el control del registro horario y de las horas extra es cada vez más estricto. Tener el restaurante abierto de 16:00 a 20:00 suele exigir, como mínimo, un cocinero, un camarero y un responsable de turno.
 
-Aunque en esas horas haya poco movimiento, esas personas cuestan lo mismo. Y si se suman los turnos partidos, que cada vez menos gente acepta, el problema crece. En las horas flojas, el personal puede llegar a suponer el 70-80 % de lo que se vende. Con la materia prima encima, el prime cost de esa franja supera con creces el 100 %: **pierdes dinero por cada hora que abres**.
+Aunque en esas horas haya poco movimiento, esas personas cuestan lo mismo. Y si se suman los turnos partidos, que cada vez menos gente acepta, el problema crece. En las horas flojas, el personal puede llegar a suponer el 70-80 % de lo que se vende. Con la materia prima encima, el prime cost de esa franja llega al 100 % o lo supera: **pierdes dinero por cada hora que abres**.
 
 ### La materia prima de la tarde tampoco es "puro beneficio"
 
-Existe la idea de que vender cafés y cañas por la tarde es casi todo ganancia, porque el producto cuesta poco. Pero como te contamos en [cómo calcular la rentabilidad de un negocio de hostelería](https://www.thebarnbarconsulting.com/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/), esos productos necesitan mucha rotación para pagar el espacio y al equipo que los sirve.
+Existe la idea de que vender cafés y cañas por la tarde es casi todo ganancia, porque el producto cuesta poco. Pero esos productos necesitan mucha rotación para pagar el espacio y al equipo que los sirve. Lo vemos en [cómo calcular la rentabilidad de un negocio de hostelería](https://www.thebarnbarconsulting.com/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/).
 
 Además, tener la cocina abierta todo el día aumenta la merma. Lo que se preparó para el mediodía pierde calidad tras horas en la línea, y acaba en la basura. Eso infla la materia prima sin que vendas un euro más.
 
@@ -115,7 +117,7 @@ Antes de decidir, haz números con tus datos, no con la sensación de la terraza
 3. **Calcula el prime cost de cada franja**, no solo el del mes entero.
 4. **Si una franja pierde dinero, tienes tres opciones:** cambiar la oferta (una carta corta de tarde que salga rápido), ajustar los turnos o cerrar esas horas.
 
-A veces la conclusión es que la tarde sí compensa, con otra carta y menos equipo. Otras, que lo más rentable es bajar la persiana unas horas. Lo importante es decidirlo con números. Si quieres ver cuánto necesitas vender para no perder, aquí te explicamos tu [punto de equilibrio](https://www.thebarnbarconsulting.com/punto-de-equilibrio-en-restauracion-cuanto-necesitas-vender/), y aquí los [errores de plantilla](https://www.thebarnbarconsulting.com/errores-plantilla-personal-restaurante/) que más dinero cuestan.
+A veces la conclusión es que la tarde sí compensa, con otra carta y menos equipo. Otras, que lo más rentable es bajar la persiana unas horas. Lo importante es decidirlo con números. Para ver cuánto necesitas vender para no perder, tienes tu [punto de equilibrio](https://www.thebarnbarconsulting.com/punto-de-equilibrio-en-restauracion-cuanto-necesitas-vender/). Y para ver dónde se te va el dinero en turnos, los [errores de plantilla](https://www.thebarnbarconsulting.com/errores-plantilla-personal-restaurante/) que más cuestan.
 
 ## Cómo lo miramos nosotros
 
@@ -127,4 +129,4 @@ Es parte del diagnóstico de nuestro [BAR Method](https://www.thebarnbarconsulti
 
 Abrir todo el día no es bueno ni malo por sí mismo. Lo que hunde el margen es abrir sin saber lo que cuesta cada hora. Mira tus ventas y tu personal franja a franja, y decide con datos si la tarde se queda, cambia o se cierra.
 
-Si no tienes claro si tus tardes te dan o te quitan dinero, [escríbenos](https://www.thebarnbarconsulting.com/contacto/) y lo miramos juntos.
+Si no tienes claro si tus tardes te dan o te quitan dinero, [escríbenos](https://www.thebarnbarconsulting.com/contacto/) y ponemos tus ventas por franja al lado de tu plantilla.

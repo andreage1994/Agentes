@@ -59,6 +59,8 @@ bar". El title y la meta nuevos las nombran.
 
 ## Pendiente de confirmar por Andrea/Sergio
 
+- [ ] **Lo que decimos que hacemos:** "ayudamos a poner en marcha los controles de compra, inventario y escandallos para que el ahorro se mantenga" (fase Run). ¿Es así?
+- [ ] **"Una fuga pequeña tira miles de litros al año":** cifra heredada sin fuente. ¿La dejamos?
 - [ ] ¿Os parece bien sustituir el reparto antiguo de la regla 50/30/20 por
   el resumen de vuestra regla 60/30/10, para que los dos artículos digan lo
   mismo?
@@ -71,7 +73,7 @@ bar". El title y la meta nuevos las nombran.
 
 ¿Sabes de verdad dónde se va el dinero de tu bar o de tu cafetería? Muchos dueños se centran en vender más y se olvidan de algo igual de importante: **gastar mejor**. Cada euro que no gastas de más va directo a tu beneficio.
 
-Te contamos cómo detectar los gastos que se te escapan y recortarlos sin perder calidad ni clientes.
+Aquí vemos cómo detectar los gastos que se te escapan y recortarlos sin perder calidad ni clientes.
 
 ## ¿Cuáles son los gastos fijos y variables de un bar?
 
@@ -98,11 +100,11 @@ Suben o bajan según lo que vendes.
 - **Limpieza y material de un solo uso:** servilletas, papel, bolsas para llevar…
 - **Reparaciones por el uso.**
 
-¿Por qué importa? Porque los fijos cuestan de tocar a corto plazo, pero en los variables puedes ver resultados en semanas. Si quieres ver el mapa completo, aquí te explicamos [cómo calcular la rentabilidad de un negocio de hostelería](https://www.thebarnbarconsulting.com/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/).
+¿Por qué importa? Porque los fijos cuestan de tocar a corto plazo, pero en los variables puedes ver resultados en semanas. Para ver todos los números juntos, tienes [cómo calcular la rentabilidad de un negocio de hostelería](https://www.thebarnbarconsulting.com/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/).
 
 ## ¿Cómo reducir los gastos en comida y bebida?
 
-La materia prima suele ser tu mayor gasto variable. Aquí una buena gestión ahorra mucho dinero.
+La materia prima suele ser tu mayor gasto variable. Aquí una buena gestión se nota enseguida en la cuenta.
 
 ### 1. Controla el inventario: ni de más, ni de menos
 
@@ -110,7 +112,7 @@ La materia prima suele ser tu mayor gasto variable. Aquí una buena gestión aho
 - **No compres por impulso.** Una oferta que se queda en el almacén es dinero parado que se puede estropear.
 - **Primero lo primero (FIFO).** Usa siempre antes lo que entró antes.
 
-Te contamos más en nuestro artículo sobre [control de inventario](https://www.thebarnbarconsulting.com/control-de-inventario-restaurantes/).
+Más sobre esto en nuestro artículo de [control de inventario](https://www.thebarnbarconsulting.com/control-de-inventario-restaurantes/).
 
 ### 2. Compra con cabeza
 
@@ -128,7 +130,7 @@ Te contamos más en nuestro artículo sobre [control de inventario](https://www.
 
 - **Dale una segunda vida al producto:** la verdura que ya no luce para ensalada sirve para una crema; el asado del día, para unas croquetas.
 - **Controla las raciones.** Si vuelve mucha comida en el plato, la ración es demasiado grande.
-- **Forma al equipo** para que no se desperdicie al cocinar ni al servir.
+- **Que todos sepan aprovechar:** en cocina y en sala se desperdicia lo mínimo.
 
 ## ¿Cómo reducir las mermas en un bar?
 
@@ -154,7 +156,7 @@ La merma es todo el producto que se pierde: lo que se estropea, lo que se prepar
 ### 4. Menos errores y más aprovechamiento
 
 - **Menos errores en cocina:** un plato mal hecho también es merma.
-- **Reaprovecha** lo que sobra, como ya hemos visto.
+- **Reaprovecha** lo que sobra.
 - **Recicla:** no es un ahorro directo, pero baja el coste de los residuos y mejora tu imagen.
 
 ## ¿Cuáles son 10 gastos innecesarios que puedes reducir en tu bar hoy mismo?
@@ -162,10 +164,10 @@ La merma es todo el producto que se pierde: lo que se estropea, lo que se prepar
 A veces el problema no son los grandes gastos, sino un montón de pequeños [gastos hormiga](https://www.thebarnbarconsulting.com/gastos-hormiga-bar/). Diez para empezar hoy:
 
 1. **Luces encendidas sin necesidad** en baños, almacén u oficina, y fuera de horario.
-2. **Equipos encendidos todo el día** que no hace falta tener así.
+2. **Máquinas y aparatos encendidos todo el día** sin necesidad.
 3. **Grifos que gotean.** Una fuga pequeña tira miles de litros al año.
 4. **Servilletas, pajitas o removedores de más.** Mejor en dispensador o bajo petición.
-5. **Productos de limpieza de marca cara**, cuando los profesionales concentrados funcionan igual por menos.
+5. **Productos de limpieza de marca cara**, cuando los profesionales concentrados suelen funcionar igual por menos.
 6. **Suscripciones que no usas:** apps, música, servicios. Revisa el extracto del banco.
 7. **Compras de urgencia,** que siempre salen más caras. Planifica.
 8. **Vajilla y cristalería que se rompe a menudo.** Revisa cómo se manipula y se lava, o invierte en piezas más resistentes.
@@ -176,7 +178,7 @@ A veces el problema no son los grandes gastos, sino un montón de pequeños [gas
 
 La regla 50/30/20 nace de las finanzas personales: 50 % para necesidades, 30 % para deseos y 20 % para ahorro. En un bar no cuadra tal cual, porque solo la materia prima y el personal ya se comen más de la mitad de lo que facturas.
 
-Por eso, con nuestros clientes la adaptamos así:
+Por eso, con nuestros clientes usamos la **regla 60/30/10**, que es la 50/30/20 adaptada a un bar:
 
 - **60 % para costes operativos:** alquiler, sueldos (entre el 25 % y el 35 % de lo que facturas), seguros, suministros, mantenimiento y gestoría.
 - **30 % para materia prima:** comida y bebida.
@@ -190,7 +192,7 @@ Recortar gastos es solo una parte. Para que la rentabilidad dure, el bar tambié
 
 ### 1. Invierte en tu equipo
 
-Un equipo bien formado se equivoca menos, sirve más rápido y tira menos producto. Si además está a gusto, se queda, y te ahorras lo que cuesta contratar y formar a alguien nuevo. Te damos ideas para [reducir la rotación de personal](https://www.thebarnbarconsulting.com/como-reducir-la-rotacion-de-personal-en-tu-bar/).
+Un equipo bien formado se equivoca menos, sirve más rápido y tira menos producto. Si además está a gusto, se queda, y te ahorras lo que cuesta contratar y formar a alguien nuevo. Aquí tienes cómo [reducir la rotación de personal](https://www.thebarnbarconsulting.com/como-reducir-la-rotacion-de-personal-en-tu-bar/).
 
 ### 2. Apóyate en la tecnología
 
@@ -208,6 +210,6 @@ Después no nos quedamos en el informe: ayudamos a poner en marcha los controles
 
 ## En resumen
 
-Reducir gastos no va de recortar a lo loco. Va de saber qué gastos tienes, controlar la materia prima y la merma, y quitar los pequeños gastos que se acumulan sin que te des cuenta. Cada euro que no se escapa es un euro de beneficio.
+Reducir gastos no va de recortar a lo loco. Va de saber qué gastos tienes, controlar la materia prima y la merma, y quitar los pequeños gastos que se acumulan sin que te des cuenta.
 
 Si quieres que alguien de fuera mire dónde se te está yendo el dinero, [escríbenos](https://www.thebarnbarconsulting.com/contacto/) y lo miramos contigo.
