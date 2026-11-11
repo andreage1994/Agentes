@@ -59,7 +59,7 @@ preferís no tener que acordaros, se puede quitar el año del title y del H1.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Cuéntanosla y la miramos juntos" |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - **Se deja 2026** en title y H1. Se irá actualizando en las siguientes curaciones.

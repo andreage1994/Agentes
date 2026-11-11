@@ -62,7 +62,7 @@ clics trae al blog**). Las dos se protegen: esos apartados se mantienen.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Cuéntanoslo y lo vemos juntos" |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - Caso real en la perspectiva TBNB: **Mantener** (Barcelona), "abrir en el lugar correcto, validando la ubicación y el mercado". Hechos tomados de `hospitality-report/casos-propios-tbnb.md` (presentación comercial de TBNB), sin cifras inventadas.
 - Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.

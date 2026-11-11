@@ -65,7 +65,7 @@ búsquedas, en peor posición.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Lo vemos juntos" |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - Cifras (seis meses de colchón, margen del 20 %, rotación >30 %, licencias de seis meses o más): **se mantienen**.
 - "Te acompañamos en la apertura hasta que el negocio funciona solo": **confirmado**.

@@ -36,7 +36,7 @@ ti", que es del artículo de los 5 tipos de negocio, no de este.
   números son inventados y así se dice en el texto.
 - **El margen neto sano del 8-15 % se mantiene como dato cerrado,** igual que
   en el texto publicado ("por debajo del 5 %, peligro; por encima del 15 %,
-  excelente"). Decisión de Andrea, 2026-11-11. Solo se añade, debajo, el
+  excelente"). Decisión confirmada el 2026-11-11. Solo se añade, debajo, el
   consejo de calcularlo cada mes.
 - **El escandallo y el punto de equilibrio se resumen y enlazan** a sus
   artículos propios, en vez de repetirlos. Así este queda como "el mapa
@@ -59,7 +59,7 @@ ti", que es del artículo de los 5 tipos de negocio, no de este.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Cuéntanoslo y lo miramos juntos" |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - Plazos para ser rentable (18-36 meses de cero, 12-24 en traspaso): **se mantienen**, con el matiz de que dependen de la inversión y las proyecciones de cada local (capacidad, ticket medio y gastos). Ya añadido al texto.

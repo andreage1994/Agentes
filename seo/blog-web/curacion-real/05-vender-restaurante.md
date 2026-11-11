@@ -60,7 +60,7 @@ conoces. Aprende a escoger si este método…").
 | 5. Conclusión corta | Sal de la hostelería con la cabeza alta |
 | 6. CTA suave | "Hablemos, sin humos y con los datos sobre la mesa" |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - "Entre 3 y 5 veces el EBITDA anual": **se mantiene**.

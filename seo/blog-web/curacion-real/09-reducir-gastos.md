@@ -57,7 +57,7 @@ bar". El title y la meta nuevos las nombran.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Lo miramos contigo" |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - Regla 50/30/20 alineada con la 60/30/10: **de acuerdo**.
 - "Ayudamos a poner en marcha los controles de compra, inventario y escandallos": **confirmado**.

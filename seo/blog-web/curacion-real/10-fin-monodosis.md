@@ -72,7 +72,7 @@ hostelería" (posición 7). El title la pone al principio.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Lo vemos juntos" |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - Corrección de fechas (prohibición en sala desde el 1 de enero de 2030): **validada**.
 - Excepción del plástico compostable: **quitada**.

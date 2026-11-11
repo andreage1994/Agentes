@@ -60,7 +60,7 @@ estaban marcados como H1 por error.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Hablemos" |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - Proyectos: **se citan** Religion Coffee, Geisha Coffee Shop, Lady Madrid y Rascal.

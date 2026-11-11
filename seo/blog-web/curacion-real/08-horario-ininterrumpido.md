@@ -55,7 +55,7 @@ palabra clave al principio y cabe entero en Google.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Lo miramos juntos" |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - Cifras (prime cost del 55-60 %, convenios +4 % anual, personal al 70-80 % en horas flojas): **se mantienen**.
 - "Cruzamos las ventas por franja horaria con los turnos del equipo": **confirmado**.

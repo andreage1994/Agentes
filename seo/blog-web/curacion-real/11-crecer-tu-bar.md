@@ -55,7 +55,7 @@ Las búsquedas que mejor posiciona son "ideas para bares pequeños"
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | Reunión gratuita de 15 minutos |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - CTA: **reunión gratuita de 15 minutos**, no auditoría gratuita.
 - "El marketing local" **no forma parte** de nuestro diagnóstico: quitado de la perspectiva TBNB. El marketing local se queda solo como consejo al lector.
@@ -195,7 +195,7 @@ Salir en "el mejor bar cerca de mí" vale dinero. Cuida tu ficha de Google: foto
 
 Muchos dueños se agotan porque hacen muy bien su trabajo (cocinar, servir) pero no les queda tiempo para mirar los números y planificar. Crecer no depende de trabajar más horas, sino de dedicar tiempo a mirar el negocio desde fuera.
 
-Por eso empezamos por el diagnóstico de nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/): miramos el bar entero: la operativa, los costes, la carta y el equipo. De ahí sale un plan claro para ti.
+Por eso empezamos por el diagnóstico de nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/), en el que miramos el bar entero: la operativa, los costes, la carta y el equipo. De ahí sale un plan claro para ti.
 
 Si quieres empezar por los números, aquí tienes [cómo reducir los gastos de un bar](https://www.thebarnbarconsulting.com/como-reducir-los-gastos-de-un-bar/) y la [regla 50/30/20 adaptada a la hostelería](https://www.thebarnbarconsulting.com/que-es-la-regla-50-30-20-en-la-hosteleria/).
 

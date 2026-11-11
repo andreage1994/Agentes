@@ -37,7 +37,7 @@ posición 10, y entra el 0,5 %.
   de restauración (4,8 %) frente al general (2,3 %), de febrero de 2026.
 - **Se mantiene el margen neto sano del 8-15 %** ("por debajo del 5 %, zona
   de alto riesgo"), como en el texto publicado y en el de rentabilidad.
-  Decisión de Andrea, 2026-11-11. Pasa de la introducción al concepto
+  Decisión confirmada el 2026-11-11. Pasa de la introducción al concepto
   principal, para que la introducción no supere las 6 líneas.
 - **Fuera, por no tener fuente:** "los restaurantes tiran más de 3.000 € en
   comida al año".
@@ -60,7 +60,7 @@ posición 10, y entra el 0,5 %.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Te ayudamos a calcularlo" |
 
-## Decisiones de Andrea (2026-11-11)
+## Decisiones confirmadas (2026-11-11)
 
 - Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - Reparto de ventas por días (15-20 % / 60-70 %): **se mantiene**.
