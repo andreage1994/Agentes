@@ -55,14 +55,11 @@ palabra clave al principio y cabe entero en Google.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Lo miramos juntos" |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] **Lo que decimos que hacemos:** "una de las primeras cosas que hacemos es cruzar las ventas por franja horaria con los turnos del equipo; es habitual que aparezcan horas con más gente trabajando que vendiendo". ¿Es así?
-- [ ] **H1:** "está arruinando tu restaurante" es más tajante que la conclusión ("no es bueno ni malo por sí mismo"). Se mantiene por posición y clics. ¿De acuerdo?
-- [ ] **Cifras heredadas sin fuente:** prime cost sano del 55-60 %, subida
-  media de los convenios del 4 % anual y coste de personal del 70-80 % de las
-  ventas en las horas flojas. ¿Las damos por buenas como en los otros
-  artículos?
+- Cifras (prime cost del 55-60 %, convenios +4 % anual, personal al 70-80 % en horas flojas): **se mantienen**.
+- "Cruzamos las ventas por franja horaria con los turnos del equipo": **confirmado**.
+- H1 "está arruinando tu restaurante": **se mantiene**.
 
 ---
 

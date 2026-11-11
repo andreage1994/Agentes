@@ -55,14 +55,11 @@ Las búsquedas que mejor posiciona son "ideas para bares pequeños"
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | Reunión gratuita de 15 minutos |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] **Lo que decimos que hacemos:** que el diagnóstico del BAR Method mira también "el marketing local", y que en "Un diseño que vende" hablemos de cómo influye el espacio en las ventas. ¿Entran en lo que hacemos? (La frase "en nuestros proyectos diseñamos antes de reformar" se ha quitado.)
-- [ ] **CTA:** ¿ofrecemos una "primera auditoría gratuita", como decía el
-  texto publicado, o la reunión gratuita de 15 minutos? Se ha puesto la
-  reunión.
-- [ ] **"Un equipo bien entrenado puede aumentar el ticket un 15-20 %":**
-  cifra heredada sin fuente. ¿La damos por buena?
+- CTA: **reunión gratuita de 15 minutos**, no auditoría gratuita.
+- "El marketing local" **no forma parte** de nuestro diagnóstico: quitado de la perspectiva TBNB. El marketing local se queda solo como consejo al lector.
+- Venta sugerida que sube el ticket un 15-20 %: **se mantiene**.
 
 ---
 
@@ -198,7 +195,7 @@ Salir en "el mejor bar cerca de mí" vale dinero. Cuida tu ficha de Google: foto
 
 Muchos dueños se agotan porque hacen muy bien su trabajo (cocinar, servir) pero no les queda tiempo para mirar los números y planificar. Crecer no depende de trabajar más horas, sino de dedicar tiempo a mirar el negocio desde fuera.
 
-Por eso empezamos por el diagnóstico de nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/): miramos el bar entero, la operativa, los costes, la carta, el equipo y el marketing local. De ahí sale un plan claro para ti.
+Por eso empezamos por el diagnóstico de nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/): miramos el bar entero: la operativa, los costes, la carta y el equipo. De ahí sale un plan claro para ti.
 
 Si quieres empezar por los números, aquí tienes [cómo reducir los gastos de un bar](https://www.thebarnbarconsulting.com/como-reducir-los-gastos-de-un-bar/) y la [regla 50/30/20 adaptada a la hostelería](https://www.thebarnbarconsulting.com/que-es-la-regla-50-30-20-en-la-hosteleria/).
 

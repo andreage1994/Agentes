@@ -72,23 +72,12 @@ hostelería" (posición 7). El title la pone al principio.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Lo vemos juntos" |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] **Lo que decimos que hacemos:** "este tipo de cambios de normativa son de lo primero que miramos". No somos un despacho jurídico. ¿Añadimos "para lo estrictamente legal, confírmalo con tu asesor; nosotros miramos cómo te afecta en el servicio y en el coste"? (decisión de Andrea y de Sergio, que lleva Legal).
-- [ ] **Plástico compostable:** se ha dejado matizado ("las fuentes no coinciden en el alcance: confírmalo con tu asesor"). ¿Lo dejamos así o lo quitamos?
-- [ ] **Validar la corrección de fechas** (2030 en lugar de agosto de 2026).
-- [ ] **Datos que no he podido verificar en fuente oficial**, heredados del
-  texto publicado. Conviene comprobarlos en el texto del reglamento o con un
-  asesor antes de publicar:
-  - derecho del cliente a traer su envase para llevar desde febrero de 2027
-    (art. 32);
-  - obligación de ofrecer envases reutilizables para llevar desde febrero
-    de 2028 (art. 33) y la exención para microempresas;
-  - excepción del plástico compostable certificado hasta 2030 por la Ley
-    7/2022 (las fuentes se contradicen);
-  - excepción para hospitales y residencias.
-- [ ] **Aceite de oliva:** Real Decreto 895/2013, vigente desde 2014, y Real
-  Decreto 760/2021. Se mantienen tal cual del texto publicado.
+- Corrección de fechas (prohibición en sala desde el 1 de enero de 2030): **validada**.
+- Excepción del plástico compostable: **quitada**.
+- Añadida la frase "para lo estrictamente legal, confírmalo con tu asesor; nosotros miramos cómo te afecta en el servicio y en el coste".
+- Siguen sin verificar en fuente oficial (heredados): envase propio del cliente (2027), reutilizables para llevar (2028), exención de microempresas, hospitales y residencias. Conviene que un asesor los mire antes de publicar.
 
 ---
 
@@ -130,7 +119,6 @@ La ley deja algunas vías abiertas:
 
 - **Comida para llevar y a domicilio.** Lo que el cliente se lleva o le llega a casa queda fuera. En los pedidos de delivery y para llevar, las monodosis de salsas o aceite pueden seguir usándose. Tiene sentido: así se transportan con seguridad los alimentos calientes y grasos.
 - **Sobres 100 % de papel.** La prohibición es para el plástico. Los sobres de azúcar, sal o pimienta hechos solo de papel, sin plastificar, siguen siendo legales en sala. Algunos proveedores ya ofrecen papeles con barrera antigrasa natural.
-- **Plástico compostable certificado.** La Ley 7/2022 de residuos lo contempla en España hasta 2030, pero las fuentes no coinciden en el alcance: confírmalo con tu asesor antes de contar con ello.
 - **Hospitales y residencias.** Los centros sanitarios y las residencias de mayores quedan fuera, por higiene y por el control de dietas y alérgenos.
 
 ## El aceite de oliva: aceiteras que no se pueden rellenar
@@ -160,7 +148,7 @@ Hasta 2030 hay margen. Úsalo para cambiar con calma y sin gastar de más:
 
 ## Cómo lo trabajamos nosotros
 
-Cuando revisamos la operativa de un local, este tipo de cambios de normativa son de lo primero que miramos: qué afecta al servicio, qué coste tiene y cómo se adapta el equipo. Es parte de cómo aplicamos nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/): que el cambio llegue planificado, no a última hora.
+Cuando revisamos la operativa de un local, este tipo de cambios de normativa son de lo primero que miramos: qué afecta al servicio, qué coste tiene y cómo se adapta el equipo. Es parte de cómo aplicamos nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/): que el cambio llegue planificado, no a última hora. Para lo estrictamente legal, confírmalo con tu asesor; nosotros miramos cómo te afecta en el servicio y en el coste.
 
 ## En resumen
 

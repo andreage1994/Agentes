@@ -57,13 +57,11 @@ bar". El title y la meta nuevos las nombran.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Lo miramos contigo" |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] **Lo que decimos que hacemos:** "ayudamos a poner en marcha los controles de compra, inventario y escandallos para que el ahorro se mantenga" (fase Run). ¿Es así?
-- [ ] **"Una fuga pequeña tira miles de litros al año":** cifra heredada sin fuente. ¿La dejamos?
-- [ ] ¿Os parece bien sustituir el reparto antiguo de la regla 50/30/20 por
-  el resumen de vuestra regla 60/30/10, para que los dos artículos digan lo
-  mismo?
+- Regla 50/30/20 alineada con la 60/30/10: **de acuerdo**.
+- "Ayudamos a poner en marcha los controles de compra, inventario y escandallos": **confirmado**.
+- "Una fuga pequeña tira miles de litros al año": **se mantiene**.
 
 ---
 

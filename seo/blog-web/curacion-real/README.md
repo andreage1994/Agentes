@@ -40,7 +40,7 @@ suave. Cada archivo incluye una tabla que dice dónde está cada parte.
 | `07-vender-cafe-especialidad.md` | Cómo vender café de especialidad (absorbe "La transición al café de especialidad") | Curación | 🟡 Pendiente de revisión |
 | `08-horario-ininterrumpido.md` | Horario ininterrumpido en el restaurante (absorbe la copia "trampa-horario…") | Curación ligera | 🟡 Pendiente de revisión |
 | `09-reducir-gastos.md` | Cómo reducir los gastos de un bar | Curación ligera | 🟡 Pendiente de revisión |
-| `10-fin-monodosis.md` | El fin de las monodosis en restaurantes (absorbe "Por qué quitan las monodosis") | Curación | 🟠 **Corrección legal pendiente de validar** |
+| `10-fin-monodosis.md` | El fin de las monodosis en restaurantes (absorbe "Por qué quitan las monodosis") | Curación | 🟡 Corrección legal validada por Andrea |
 | `11-crecer-tu-bar.md` | Cómo hacer crecer tu bar | Curación | 🟡 Pendiente de revisión |
 | `12-errores-abrir-restaurante.md` | Errores comunes al abrir un restaurante (absorbe su copia `-2`) | Curación | 🟡 Pendiente de revisión |
 | — | (EN) The 5 most profitable hospitality businesses | Curación | ⏸ Primero hay que juntar sus 16 copias |

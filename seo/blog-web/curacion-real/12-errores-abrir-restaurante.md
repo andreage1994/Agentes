@@ -65,19 +65,12 @@ búsquedas, en peor posición.
 | 5. Conclusión corta | En resumen |
 | 6. CTA suave | "Lo vemos juntos" |
 
-## Pendiente de confirmar por Andrea/Sergio
+## Decisiones de Andrea (2026-11-11)
 
-- [ ] **Lo que decimos que hacemos:** "los errores que más vemos" y "te acompañamos en la apertura hasta que el negocio funciona solo". ¿Es así?
-- [ ] **Licencias (nueva recomendación, sin aplicar):** el director propone cambiar "empieza los trámites antes de firmar el alquiler" (muchos trámites no se pueden empezar sin local) por "averigua qué licencia necesita ese local y cuánto tarda antes de firmar y, si puedes, pacta que el alquiler empiece cuando llegue la licencia". ¿Lo cambiamos?
-- [ ] **Materia prima "por debajo del 30 %"**: más estricto que el 30 % del artículo de la regla y que el 25-35 % del de rentabilidad. ¿Lo dejamos en "en torno al 30 %"?
-- [ ] **Cifras heredadas sin fuente:**
-  - la regla de oro: el fondo de maniobra debe cubrir al menos seis meses
-    de costes fijos;
-  - un margen de seguridad del 20 % en cada partida del presupuesto;
-  - una rotación de personal por encima del 30 % anual ya cuesta dinero;
-  - las licencias pueden tardar seis meses o más.
-
-  ¿Las damos por buenas como experiencia nuestra?
+- Cifras (seis meses de colchón, margen del 20 %, rotación >30 %, licencias de seis meses o más): **se mantienen**.
+- "Te acompañamos en la apertura hasta que el negocio funciona solo": **confirmado**.
+- Materia prima: **entre el 20 % y el 30 %, según el modelo de negocio y el producto**.
+- Licencias: **aplicada** la recomendación de averiguar la licencia antes de firmar y pactar que el alquiler empiece cuando llegue.
 
 ---
 
@@ -147,7 +140,7 @@ Muchos restaurantes venden bien pero no ganan dinero, porque no saben [calcular 
 El [escandallo](https://www.thebarnbarconsulting.com/escandallo-evitar-desperdicio-restaurante/) es el coste real de cada plato. Si pones los precios mirando lo que cobra el de al lado, estás jugando a la lotería.
 
 - **El error:** pensar que si el tomate cuesta 1 € y lo vendes a 5 €, ganas 4 €. Faltan el aceite, la sal y lo que se pierde al cocinarlo. Y todavía no has contado ni la luz ni el sueldo de quien lo cocina.
-- **La solución:** calcula el coste real de cada plato y cada bebida. La materia prima, de media, debería quedar por debajo del 30 % del precio de venta.
+- **La solución:** calcula el coste real de cada plato y cada bebida. La materia prima, de media, debería quedar entre el 20 % y el 30 % del precio de venta, según el modelo de negocio y el producto.
 
 ### No negociar desde el principio
 
@@ -183,7 +176,7 @@ Es la parte menos glamurosa, pero la que más poder tiene para frenar tu apertur
 El papeleo tarda, pero el alquiler corre desde el día que firmas.
 
 - **El error:** confiar en plazos optimistas. Pensar que la licencia de actividad o la de terraza llegarán en un par de meses, cuando pueden ser seis meses o más.
-- **La solución:** empieza los trámites antes de firmar el alquiler o el traspaso. Y si vas a [comprar un restaurante en traspaso](https://www.thebarnbarconsulting.com/comprar-restaurante-traspaso/), revisa que todas las licencias estén en regla antes de pagar.
+- **La solución:** averigua qué licencia necesita ese local y cuánto tarda antes de firmar y, si puedes, pacta que el alquiler empiece cuando llegue la licencia. Y si vas a [comprar un restaurante en traspaso](https://www.thebarnbarconsulting.com/comprar-restaurante-traspaso/), revisa que todas las licencias estén en regla antes de pagar.
 
 ### Insonorización y normativa
 
