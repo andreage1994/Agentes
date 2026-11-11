@@ -10,7 +10,7 @@
 | | Hoy | Propuesta |
 |---|---|---|
 | URL | `/punto-de-equilibrio-en-restauracion-cuanto-necesitas-vender/` | **Igual. No se toca.** |
-| Title (Google) | The Bar N Bar - ¿Cuánto tienes que vender para ganar dinero? | Punto de equilibrio en un restaurante: cómo calcularlo (con ejemplo) |
+| Title (Google) | The Bar N Bar - ¿Cuánto tienes que vender para ganar dinero? | Punto de equilibrio de un restaurante: cómo calcularlo |
 | Meta description | ¿Tu restaurante gana dinero o pierde sin que lo sepas? Aprende a calcular el punto de equilibrio y cuánto necesitas vender para ser rentable. | **Se mantiene.** Es buena. |
 | H1 | ¿Cuánto tienes que vender para ganar dinero? | Punto de equilibrio en restauración: cuánto tienes que vender para ganar dinero |
 
@@ -62,6 +62,7 @@ posición 10, y entra el 0,5 %.
 
 ## Decisiones de Andrea (2026-11-11)
 
+- Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - Reparto de ventas por días (15-20 % / 60-70 %): **se mantiene**.
 - Frase de "Cómo lo trabajamos nosotros" (el dueño suele estar más cerca del límite de lo que creía): **se mantiene**.
 - Margen neto sano del 8-15 %: **se mantiene**.

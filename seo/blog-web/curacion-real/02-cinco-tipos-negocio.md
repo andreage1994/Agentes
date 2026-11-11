@@ -10,7 +10,7 @@
 | | Hoy | Propuesta |
 |---|---|---|
 | URL | `/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024/` | **Igual. No se toca**, aunque diga 2024. Cambiarla haría perder su posición. |
-| Title (Google) | The Bar N Bar - Los 5 Tipos de Negocios de Hostelería Más Rentables en 2024 | Los 5 negocios de hostelería más rentables en 2026 (y por qué) |
+| Title (Google) | The Bar N Bar - Los 5 Tipos de Negocios de Hostelería Más Rentables en 2024 | Los 5 negocios de hostelería más rentables en 2026 |
 | Meta description | Conoce los 5 Tipos de Negocios de Hostelería Más Rentables en 2024. Aprende a escoger cual es el mejor para ti. | Bar de tapas, cafetería de especialidad, street food, bodega y cocina de autor: qué los hace rentables y qué tienen en común los modelos que funcionan. |
 | H1 | Los 5 Tipos de Negocios de Hostelería Más Rentables en 2024 | Los 5 tipos de negocios de hostelería más rentables en 2026 |
 
@@ -61,6 +61,7 @@ preferís no tener que acordaros, se puede quitar el año del title y del H1.
 
 ## Decisiones de Andrea (2026-11-11)
 
+- Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - **Se deja 2026** en title y H1. Se irá actualizando en las siguientes curaciones.
 - Datos de Inpulse.ai (Francia): **se usan**, citados como mercado francés.
 

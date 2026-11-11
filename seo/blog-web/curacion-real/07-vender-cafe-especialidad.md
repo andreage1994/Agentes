@@ -17,7 +17,7 @@ reorientados a dar consejos.
 |---|---|---|
 | URL | `/como-vender-cafe-de-especialidad/` | **Igual. No se toca.** |
 | Title (Google) | The Bar N Bar - Cómo vender café de especialidad | Cómo vender café de especialidad en tu bar o cafetería |
-| Meta description | Te traemos los trucos para cómo vender café de especialidad. No te pierdas nuestras indicaciones si quieres ofrecer un buen café! | Qué es el café de especialidad, qué tiene que salir bien para venderlo (grano, máquina, equipo y carta) y cómo cobrarlo sin que el cliente sienta que paga de más. |
+| Meta description | Te traemos los trucos para cómo vender café de especialidad. No te pierdas nuestras indicaciones si quieres ofrecer un buen café! | Qué es el café de especialidad, qué tiene que salir bien para venderlo (grano, máquina, equipo y carta) y cómo cobrarlo sin que el cliente proteste. |
 | H1 | ¿Listo para subir el nivel de tu café… y de tu negocio? | Cómo vender café de especialidad en tu bar o cafetería |
 
 **Por qué:** las búsquedas que le traen visitas son "cómo vender café" (646
@@ -62,6 +62,7 @@ estaban marcados como H1 por error.
 
 ## Decisiones de Andrea (2026-11-11)
 
+- Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - Proyectos: **se citan** Religion Coffee, Geisha Coffee Shop, Lady Madrid y Rascal.
 - Marcas: **se mantienen** La Marzocco, Sanremo y Victoria Arduino, y se añaden Slayer y Kees van der Westen (máquinas) y Mahlkönig, Mazzer y Eureka (molinillos). Ninguna tiene acuerdo comercial con nosotros.
 

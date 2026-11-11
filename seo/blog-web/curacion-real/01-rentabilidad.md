@@ -11,7 +11,7 @@ partir del texto real, mantener lo que funciona para SEO y reescribir el estilo.
 | | Hoy | Propuesta |
 |---|---|---|
 | URL | `/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/` | **Igual. No se toca.** |
-| Title (Google) | The Bar N Bar - Cómo calcular la rentabilidad de un negocio de hostelería | Rentabilidad de un restaurante o bar: cómo calcularla (con ejemplo) |
+| Title (Google) | The Bar N Bar - Cómo calcular la rentabilidad de un negocio de hostelería | Rentabilidad de un restaurante o bar: cómo calcularla |
 | Meta description | Conoce cómo calcular la rentabilidad de un negocio de hostelería. Aprende a escoger cual es el mejor para ti. | La fórmula, qué margen mirar y un ejemplo con los números de un mes entero. Para saber si tu bar o restaurante gana dinero, no solo si factura. |
 | H1 | Cómo calcular la rentabilidad de un negocio de hostelería | **Igual.** |
 
@@ -61,6 +61,7 @@ ti", que es del artículo de los 5 tipos de negocio, no de este.
 
 ## Decisiones de Andrea (2026-11-11)
 
+- Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - Plazos para ser rentable (18-36 meses de cero, 12-24 en traspaso): **se mantienen**, con el matiz de que dependen de la inversión y las proyecciones de cada local (capacidad, ticket medio y gastos). Ya añadido al texto.
 - Márgenes brutos por producto (vinos 70-85 %, comida 60-75 %): **se mantienen**.
 - Margen neto sano del 8-15 %: **se mantiene** como dato cerrado.

@@ -10,7 +10,7 @@
 | | Hoy | Propuesta |
 |---|---|---|
 | URL | `/guia-completa-para-abrir-un-bar/` | **Igual. No se toca.** |
-| Title (Google) | The Bar N Bar - Guía Completa para Abrir un Bar | Cómo abrir un bar: guía completa paso a paso (requisitos y ayudas) |
+| Title (Google) | The Bar N Bar - Guía Completa para Abrir un Bar | Cómo abrir un bar: guía paso a paso, requisitos y ayudas |
 | Meta description | Te presentamos la forma mejor optimizada que puedas encontrar con una Guía Completa para Abrir un Bar. No mueras en el intento. | Los pasos para abrir un bar en orden: plan de negocio, financiación y ayudas de cerveceras, local, licencias, equipo y apertura. Sin morir en el intento. |
 | H1 | Guía Completa para Abrir un Bar | Guía completa para abrir un bar |
 
@@ -64,6 +64,7 @@ clics trae al blog**). Las dos se protegen: esos apartados se mantienen.
 
 ## Decisiones de Andrea (2026-11-11)
 
+- Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - Licencias: **coordinamos con técnicos externos**. Texto ajustado ("coordinamos con los técnicos externos que los firman").
 - Dato de CaixaBank Research (rotación del 21 %): **se usa**.
 - Búsqueda del local: **sí ayudamos a buscar local**. Añadida una frase en el paso 3.

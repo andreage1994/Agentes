@@ -13,7 +13,7 @@ este, esa URL debe redirigir aquí (301).
 | | Hoy | Propuesta |
 |---|---|---|
 | URL | `/lo-que-debes-saber-antes-de-vender-un-restaurante/` | **Igual. No se toca.** |
-| Title (Google) | The Bar N Bar - Lo que debes saber antes de vender un restaurante | Vender un restaurante: lo que debes saber antes (y el mejor momento) |
+| Title (Google) | The Bar N Bar - Lo que debes saber antes de vender un restaurante | Vender un restaurante: el mejor momento y cuánto vale |
 | Meta description | Lo que debes saber antes de vender un restaurante Hay muchos que no conoces. Aprende a escoger si este método es el mejor para ti. | Cuánto vale de verdad tu restaurante, cuál es el mejor momento para venderlo y qué preparar antes de poner el cartel de "se traspasa". Sin vender la moto. |
 | H1 | Lo que debes saber antes de vender un restaurante | **Igual.** |
 
@@ -62,6 +62,7 @@ conoces. Aprende a escoger si este método…").
 
 ## Decisiones de Andrea (2026-11-11)
 
+- Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - "Entre 3 y 5 veces el EBITDA anual": **se mantiene**.
 - Plazos (venta de 6 a 12 meses, transición de 1 a 3): **se mantienen**.
 - Servicio: **buscamos comprador y acompañamos**. CTA ajustado ("buscamos al comprador adecuado y te acompañamos hasta el cierre").
