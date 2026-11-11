@@ -117,7 +117,7 @@ Un bar no es un negocio barato de abrir. La buena noticia es que no tiene por qu
 - **Inversores:** familia, amigos o inversores profesionales.
 - **Crowdfunding:** muchas personas que aportan pequeñas cantidades.
 
-**Ayudas y subvenciones para abrir un bar.** Mucha gente no lo sabe, pero ayuntamientos, comunidades autónomas y el Estado tienen programas de apoyo a quien emprende. No son un regalo, pero pueden aliviar mucho la inversión. En nuestro artículo sobre [ayudas para montar un bar](https://www.thebarnbarconsulting.com/ayudas-montar-bar/) vemos cuáles hay y qué preguntar antes de aceptarlas.
+**Ayudas y subvenciones para abrir un bar.** Mucha gente no lo sabe, pero ayuntamientos, comunidades autónomas y el Estado tienen programas de apoyo a quien emprende. No son un regalo, pero pueden aliviar mucho la inversión. Vemos cuáles hay y qué preguntar antes de aceptarlas en nuestro artículo sobre [ayudas para montar un bar](https://www.thebarnbarconsulting.com/ayudas-montar-bar/).
 
 **Ayudas de proveedores para montar un bar.** Las grandes cerveceras, como Mahou o Estrella Galicia, ayudan a abrir bares nuevos. A cambio de un contrato de exclusividad (solo vendes su cerveza), pueden ofrecerte:
 
