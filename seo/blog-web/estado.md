@@ -1,5 +1,15 @@
 # Estado — Blog Web TBNB
 
+## 2026-11-11 — Curación real, Ola 1: primeros 3 artículos curados sobre el texto publicado
+
+Por fin se ha podido leer el texto publicado (con navegador y reintentos,
+porque la web da errores 502 intermitentes). Curados sobre ese texto, según
+el punto 5 del manual de Andrea, los tres artículos con más tráfico:
+rentabilidad, los 5 tipos de negocio y la guía para abrir un bar. Están en
+`curacion-real/`, con su ficha SEO, los cambios, los pendientes y el texto
+listo para pegar. **Pendiente de revisión de Andrea/Sergio; no publicado.**
+Seguimiento de la Ola 1 en `curacion-real/README.md`.
+
 ## ⚠️ 2026-11-04 — Diagnóstico de Andrea: la "curación" de los 14 blogs no es curación real
 
 **Andrea tiene razón y hay que parar aquí antes de seguir.** Lo que se ha
