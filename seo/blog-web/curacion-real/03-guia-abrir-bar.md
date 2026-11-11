@@ -64,6 +64,7 @@ clics trae al blog**). Las dos se protegen: esos apartados se mantienen.
 
 ## Decisiones de Andrea (2026-11-11)
 
+- Caso real en la perspectiva TBNB: **Mantener** (Barcelona), "abrir en el lugar correcto, validando la ubicación y el mercado". Hechos tomados de `hospitality-report/casos-propios-tbnb.md` (presentación comercial de TBNB), sin cifras inventadas.
 - Title de Google acortado a 60 caracteres o menos, para que Google no lo corte.
 - Licencias: **coordinamos con técnicos externos**. Texto ajustado ("coordinamos con los técnicos externos que los firman").
 - Dato de CaixaBank Research (rotación del 21 %): **se usa**.
@@ -184,6 +185,8 @@ Los repasamos con más detalle en [los errores comunes al abrir un restaurante](
 Abrir un bar es de las aventuras más bonitas y más exigentes que hay. Son muchas piezas a la vez: números, papeles, local, carta, equipo.
 
 Nosotros trabajamos con nuestro propio método, el [BAR Method](https://www.thebarnbarconsulting.com/bar-method/). Primero, un diagnóstico: ver si la idea y los números se sostienen antes de gastar un euro. Después, el diseño del concepto, la carta y la operativa. Y al final, la implementación, a tu lado, hasta que el bar funcione solo.
+
+Un ejemplo: **Mantener**, en Barcelona. Sus fundadores querían abrir un restaurante de cocina latina contemporánea y nos llamaron cuando el proyecto era todavía una idea y un local vacío. Lo primero fue asegurarnos de que abrían en el lugar correcto: validamos la ubicación y el mercado, comprobamos que el espacio encajaba con la operación y negociamos el alquiler. Después coordinamos la obra, el interiorismo y los proveedores, diseñamos cómo se iba a trabajar en sala, barra y cocina, y montamos el equipo antes de abrir. Hoy Mantener funciona tal y como lo soñaron sus fundadores. Puedes verlo en [nuestro proyecto con Mantener](https://www.thebarnbarconsulting.com/mantener/). Empezar bien, para no sufrir después.
 
 ## En resumen
 
