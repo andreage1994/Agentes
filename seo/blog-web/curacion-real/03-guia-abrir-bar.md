@@ -51,6 +51,17 @@ clics trae al blog**). Las dos se protegen: esos apartados se mantienen.
   ("Navengando", "alguién"), "hemos ayudado a decenas de emprendedores", los
   títulos en Mayúsculas Cada Palabra y los enlaces que llevaban a la Home.
 
+## Estructura del manual (punto 3)
+
+| Parte | Dónde está |
+|---|---|
+| 1. Introducción breve (4-6 líneas) | Los dos primeros párrafos |
+| 2. Concepto principal | Los pasos para abrir un bar, en resumen |
+| 3. Desarrollo | Los 6 pasos · Los errores que más vemos |
+| 4. Perspectiva TBNB | No abras solo: cómo lo trabajamos nosotros |
+| 5. Conclusión corta | En resumen |
+| 6. CTA suave | "Cuéntanoslo y lo vemos juntos" |
+
 ## Pendiente de confirmar por Andrea/Sergio
 
 - [ ] **Licencias:** ¿TBNB tramita las licencias directamente o coordina con
@@ -71,11 +82,9 @@ clics trae al blog**). Las dos se protegen: esos apartados se mantienen.
 
 # Guía completa para abrir un bar
 
-¿Te has imaginado alguna vez detrás de la barra, sirviendo la primera caña en un bar que es solo tuyo? Es un sueño precioso. Pero entre el sueño y la realidad hay una montaña de papeles, permisos, números y decisiones.
+¿Te has imaginado detrás de la barra, sirviendo la primera caña en un bar que es solo tuyo? Entre ese sueño y la realidad hay una montaña de papeles, permisos y números.
 
-Mucha gente se queda a mitad de camino. Otra abre sin plan y cierra antes de tiempo: la restauración tiene una de las tasas de rotación de empresas más altas de la economía española, en torno al 21 %, según CaixaBank Research. No tienes por qué ser parte de esa cifra.
-
-Abrir un bar es mucho más fácil si sabes qué pasos dar y en qué orden. Aquí los tienes, sin rodeos.
+Mucha gente abre sin plan y cierra antes de tiempo: la restauración tiene una de las tasas de rotación de empresas más altas de España, en torno al 21 %, según CaixaBank Research. Abrir es mucho más fácil si sabes qué pasos dar y en qué orden. Aquí los tienes.
 
 ## Los pasos para abrir un bar, en resumen
 
@@ -175,10 +184,14 @@ Ya está todo listo. Ahora falta que la gente se entere y hable de ti.
 
 Los repasamos con más detalle en [los errores comunes al abrir un restaurante](https://www.thebarnbarconsulting.com/errores-comunes-al-abrir-un-restaurante/).
 
-## No abras solo
+## No abras solo: cómo lo trabajamos nosotros
 
 Abrir un bar es de las aventuras más bonitas y más exigentes que hay. Son muchas piezas a la vez: números, papeles, local, carta, equipo.
 
 Nosotros trabajamos con nuestro propio método, el [BAR Method](https://www.thebarnbarconsulting.com/bar-method/). Primero, un diagnóstico: ver si la idea y los números se sostienen antes de gastar un euro. Después, el diseño del concepto, la carta y la operativa. Y al final, la implementación, a tu lado, hasta que el bar funcione solo.
+
+## En resumen
+
+Abrir un bar con éxito no va de tener la mejor idea. Va de hacer las cosas en orden: números primero, local con licencia después, y equipo y carta pensados para que el negocio funcione desde el primer día.
 
 Si tienes un bar en la cabeza y quieres saber por dónde empezar, [cuéntanoslo](https://www.thebarnbarconsulting.com/contacto/) y lo vemos juntos.

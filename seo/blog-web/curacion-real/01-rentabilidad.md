@@ -47,6 +47,17 @@ ti", que es del artículo de los 5 tipos de negocio, no de este.
   "el conocimiento de las grandes cadenas", los títulos en Mayúsculas
   Cada Palabra y las repeticiones.
 
+## Estructura del manual (punto 3)
+
+| Parte | Dónde está |
+|---|---|
+| 1. Introducción breve (4-6 líneas) | Los dos primeros párrafos |
+| 2. Concepto principal | ¿Cómo se calcula la rentabilidad de un restaurante o bar? |
+| 3. Desarrollo | Gastos · Qué porcentaje es bueno · Ejemplo con números · Escandallo · Facturación o ganancia · Cuánto tarda |
+| 4. Perspectiva TBNB | Lo que hacemos nosotros antes de tocar nada |
+| 5. Conclusión corta | En resumen |
+| 6. CTA suave | "Cuéntanoslo y lo miramos juntos" |
+
 ## Pendiente de confirmar por Andrea/Sergio
 
 - [ ] **Plazos para ser rentable** (18-36 meses de cero, 12-24 en traspaso):
@@ -65,13 +76,9 @@ ti", que es del artículo de los 5 tipos de negocio, no de este.
 
 # Cómo calcular la rentabilidad de un negocio de hostelería
 
-Sábado por la noche. Tu bar está lleno, la música suena, el equipo no para y la caja no deja de sonar. Y piensas: "esto es oro puro".
+Sábado por la noche. El bar lleno, el equipo sin parar, la caja sonando. Llega fin de mes, abres el banco y el número no se parece en nada a ese sábado. ¿Te suena?
 
-Llega fin de mes, abres la cuenta del banco y el número no se parece en nada a ese sábado. ¿Te suena?
-
-Es el gran engaño de la hostelería: **facturar mucho no es lo mismo que ganar mucho**. Y no te pasa solo a ti. En 2025 la facturación del sector subió un 3,1 % y, a la vez, la rentabilidad cayó un 0,9 %, según el Anuario de la Hostelería de España. Más caja, menos beneficio.
-
-La buena noticia es que la rentabilidad no va de suerte ni de estar lleno. Va de unos pocos números que puedes controlar. Te los contamos sin tecnicismos.
+Es el gran engaño de la hostelería: **facturar mucho no es lo mismo que ganar mucho**. En 2025 la facturación del sector subió un 3,1 % y la rentabilidad cayó un 0,9 %, según el Anuario de la Hostelería de España. Te contamos cómo calcular la tuya, sin tecnicismos.
 
 ## ¿Cómo se calcula la rentabilidad de un restaurante o bar?
 
@@ -146,7 +153,7 @@ Es lo que te queda de cada euro después de pagarlo **todo**: materia prima, sue
 
 Por eso nuestro consejo es otro: **no te compares con una cifra de internet, compárate contigo**. Calcula tu margen neto cada mes. Si baja tres meses seguidos, algo ha cambiado (precios de proveedor, horas de personal, raciones) y toca buscarlo antes de que se note en el banco.
 
-Si quieres una forma rápida de ver si tu reparto de costes está desequilibrado, la [regla 50/30/20 en la hostelería](https://www.thebarnbarconsulting.com/que-es-la-regla-50-30-20-en-la-hosteleria/) es un buen punto de partida.
+Si quieres una forma rápida de ver si tu reparto de costes está desequilibrado, te contamos por qué la [regla 50/30/20 en la hostelería](https://www.thebarnbarconsulting.com/que-es-la-regla-50-30-20-en-la-hosteleria/) se convierte en un 60/30/10.
 
 ## Un ejemplo con números: el mes de un bar de tamaño medio
 
@@ -212,5 +219,9 @@ Lo que más acelera o retrasa ese plazo es la inversión inicial y el control de
 Cuando entramos en un negocio, no empezamos por la carta ni por la decoración. Empezamos por los números. Es la primera fase de nuestro método, el [BAR Method](https://www.thebarnbarconsulting.com/bar-method/): entender cómo está el tablero antes de mover ninguna pieza.
 
 Casi siempre el dinero que falta no está en un solo sitio. Está repartido en pequeñas fugas: un precio que no se ha actualizado, un turno que sobra, un plato que se vende mucho y deja poco.
+
+## En resumen
+
+Calcular la rentabilidad no es cosa de contables. Es saber cada mes cuánto entra, cuánto sale y qué queda. Si lo haces siempre igual y a tiempo, verás las fugas antes de que lleguen al banco.
 
 Si tu bar está lleno y no entiendes por qué no te salen las cuentas, [cuéntanoslo](https://www.thebarnbarconsulting.com/contacto/) y lo miramos juntos.

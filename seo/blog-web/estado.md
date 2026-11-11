@@ -1,5 +1,17 @@
 # Estado — Blog Web TBNB
 
+## 2026-11-11 (tarde) — 4 artículos más curados y estructura del manual aplicada a los 7
+
+A petición de Andrea se han curado también la regla 50/30/20, punto de
+equilibrio, vender un restaurante (absorbe "Cómo vender o comprar tu negocio
+con éxito") y café de especialidad (absorbe "La transición al café de
+especialidad"). Andrea recordó que hay que mantener siempre la estructura
+del punto 3 del manual. Se ha revisado en los 7: ahora todos tienen
+introducción de 4-6 líneas, concepto, desarrollo, perspectiva TBNB,
+conclusión corta y CTA suave, y cada archivo lo señala en una tabla. Hay
+fallos en los artículos publicados que conviene arreglar ya; están en
+`curacion-real/README.md`.
+
 ## 2026-11-11 — Curación real, Ola 1: primeros 3 artículos curados sobre el texto publicado
 
 Por fin se ha podido leer el texto publicado (con navegador y reintentos,

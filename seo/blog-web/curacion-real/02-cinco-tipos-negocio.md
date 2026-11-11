@@ -48,6 +48,17 @@ preferís no tener que acordaros, se puede quitar el año del title y del H1.
 - **Frontera con la guía para abrir un bar:** este artículo es "qué modelo
   elegir"; la guía, "cómo ejecutar la apertura". Este no entra en trámites.
 
+## Estructura del manual (punto 3)
+
+| Parte | Dónde está |
+|---|---|
+| 1. Introducción breve (4-6 líneas) | Los dos primeros párrafos |
+| 2. Concepto principal | Cada tipo explica por qué es rentable y qué tiene que salir bien |
+| 3. Desarrollo | Los 5 tipos · Nuevos modelos de negocio · Cómo elegir |
+| 4. Perspectiva TBNB | Cómo lo vemos en The Bar N' Bar |
+| 5. Conclusión corta | En resumen |
+| 6. CTA suave | "Cuéntanosla y la miramos juntos" |
+
 ## Pendiente de confirmar por Andrea/Sergio
 
 - [ ] ¿Ponemos **2026** en title y H1 (más clics, pero hay que actualizarlo
@@ -63,11 +74,9 @@ preferís no tener que acordaros, se puede quitar el año del title y del H1.
 
 # Los 5 tipos de negocios de hostelería más rentables en 2026
 
-¿Sueñas con tu propio local? Ese sitio lleno de gente, de risas, de buenos ratos. Es una idea preciosa. Pero, seamos sinceros: la pasión no paga las facturas.
+¿Sueñas con tu propio local, lleno de gente y de buenos ratos? Es una idea preciosa. Pero, seamos sinceros: la pasión no paga las facturas.
 
-De nada sirve abrir el restaurante más bonito de la calle si la caja no cuadra. Y casi nunca el secreto está en una idea loca o en el plato de moda. Está en elegir **un modelo de negocio pensado desde el principio para ser eficiente**.
-
-Te contamos los cinco tipos de negocio de hostelería que más vemos funcionar, por qué lo hacen y qué tienen que salir bien para que funcionen también en tu caso.
+El secreto casi nunca está en el plato de moda. Está en elegir **un modelo de negocio pensado desde el principio para ser eficiente**. Te contamos los cinco que más vemos funcionar, por qué lo hacen y qué tiene que salir bien para que funcionen en tu caso.
 
 ## 1. El bar de tapas
 
@@ -158,4 +167,14 @@ Antes de decidir, haz dos cosas:
 1. **Echa números.** Te explicamos cómo en el artículo sobre [cómo calcular la rentabilidad de un negocio de hostelería](https://www.thebarnbarconsulting.com/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/).
 2. **Mira todo lo que implica abrir**, del local a las licencias, en nuestra [guía completa para abrir un bar](https://www.thebarnbarconsulting.com/guia-completa-para-abrir-un-bar/).
 
-Si tienes una idea y quieres saber si se sostiene antes de firmar nada, eso es justo lo que hacemos en la primera fase del [BAR Method](https://www.thebarnbarconsulting.com/bar-method/). [Cuéntanos tu idea](https://www.thebarnbarconsulting.com/contacto/) y la miramos juntos.
+## Cómo lo vemos en The Bar N' Bar
+
+Cuando alguien nos trae una idea, lo primero no es decirle si nos gusta. Es ponerla a prueba: cuánto hay que vender para no perder dinero, qué coste tiene cada plato, cuánta gente hace falta para sacarlo adelante y si el local acompaña.
+
+Es la primera fase de nuestro método, el [BAR Method](https://www.thebarnbarconsulting.com/bar-method/). A veces la idea sale reforzada. Otras veces hay que ajustarla. Y alguna vez la conclusión honesta es que no compensa. Mejor saberlo antes de firmar que después.
+
+## En resumen
+
+No hay un tipo de negocio rentable por sí solo. Hay negocios bien pensados: carta corta, costes estables, recetas que se repiten igual y un buen margen en la bebida o mucha rotación. Elige el modelo que encaje contigo y comprueba los números antes de lanzarte.
+
+Si tienes una idea y quieres saber si se sostiene, [cuéntanosla](https://www.thebarnbarconsulting.com/contacto/) y la miramos juntos.
