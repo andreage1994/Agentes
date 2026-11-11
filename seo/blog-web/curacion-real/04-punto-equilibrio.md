@@ -35,11 +35,12 @@ posición 10, y entra el 0,5 %.
 - **Nuevo apartado: "Por qué tu punto de equilibrio caduca"**, el ángulo
   propio que marcó la estrategia de curación. Usa un dato verificado: el IPC
   de restauración (4,8 %) frente al general (2,3 %), de febrero de 2026.
-- **Fuera, por no tener fuente:**
-  - "Según los benchmarks analizados por The Bar N' Bar, un margen sano está
-    entre el 8 % y el 15 %". Además, el artículo de rentabilidad curado ya no
-    lo afirma.
-  - "Los restaurantes tiran más de 3.000 € en comida al año".
+- **Se mantiene el margen neto sano del 8-15 %** ("por debajo del 5 %, zona
+  de alto riesgo"), como en el texto publicado y en el de rentabilidad.
+  Decisión de Andrea, 2026-11-11. Pasa de la introducción al concepto
+  principal, para que la introducción no supere las 6 líneas.
+- **Fuera, por no tener fuente:** "los restaurantes tiran más de 3.000 € en
+  comida al año".
 - **Arreglado:** en la web se ve el texto "consultoría online(https://...)"
   tal cual, porque un enlace se pegó mal.
 - **Tono:** el texto publicado es impersonal ("se debe", "se deben sumar").
@@ -86,6 +87,8 @@ Es la cifra de ventas en la que cubres **todos** tus gastos, ni más ni menos. N
 - Si vendes **por encima**, a partir de ahí empiezas a ganar.
 
 Es la respuesta a la pregunta "¿cuánto tiene que facturar un bar para ser rentable?". No hay una cifra igual para todos: depende de tus costes.
+
+Y una vez lo superas, ¿cuánto deberías ganar? Según los benchmarks analizados por The Bar N' Bar, un margen neto sano en hostelería está **entre el 8 % y el 15 %**. Por debajo del 5 %, estás en zona de alto riesgo: cualquier imprevisto, como que se rompa la cámara frigorífica o que suba de golpe el aceite de oliva, puede poner en peligro el negocio.
 
 ## ¿Cómo se calcula el punto de equilibrio? La fórmula
 
