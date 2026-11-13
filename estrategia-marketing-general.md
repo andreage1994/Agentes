@@ -7,6 +7,13 @@
 criterio, para decidir con sentido qué canal reforzar, qué cliente
 priorizar y qué no hacer.
 
+> **Actualización 2026-11-13 (Andrea):** Laura Callejo y Ava Caughron son
+> freelance puntuales, **no equipo fijo**: el equipo de marketing real son
+> Andrea y Sergio, ~5 h/semana cada uno. Donde este documento les asigna
+> un canal, ya no aplica. Los leads recientes llegaron por recomendación
+> de una IA y por Google; la newsletter tiene 0 contactos. Prioridades
+> vigentes en `plan-marketing-tbnb-90-dias.md`.
+
 ## 1. Estrella polar y objetivo
 
 **Estrella polar:** número de clientes activos de valor.

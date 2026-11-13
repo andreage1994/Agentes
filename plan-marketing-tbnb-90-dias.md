@@ -1,169 +1,210 @@
 # Plan de marketing TBNB — 90 días (nov 2026 – feb 2027)
 
 **Pedido por Andrea, 2026-11-13.** Motivo: "tocamos mil cosas, no entran
-leads, y somos solo Sergio y yo". Este documento no añade canales: decide
-**qué se hace, qué se mantiene al mínimo y qué se aparca**, con un
-reparto de horas realista para dos personas.
+leads, y no tenemos una dirección clara y cohesiva".
 
-Se apoya en lo ya decidido (`estrella-polar-tbnb.md`,
-`estrategia-marketing-general.md`) y en datos reales del repo. No lo
-sustituye: lo baja a un plan con prioridades y fecha de revisión.
+**Versión 2 (mismo día)**, rehecha con datos reales que dio Andrea:
 
----
+- **Equipo fijo: solo Andrea y Sergio.** Laura Callejo y Ava Caughron son
+  freelance puntuales, no equipo (aunque aparezcan en la web).
+- **Tiempo real: ~5 h/semana cada uno = 10 h/semana en total.**
+- **Origen de los leads recientes: uno por recomendación de una IA, otro
+  por Google (web).** Ninguno por redes ni por contacto directo.
+- **Newsletter: 0 contactos** a los que enviar hoy.
 
-## 1. Diagnóstico en 5 líneas
-
-1. **No es un problema de contenido, es de cierre.** Producimos mucho
-   (7 artículos de blog, calendarios de RRSS, un Report redactado, 2
-   páginas web) y contactamos poco: **7 "Notas desde la Barra" están
-   redactadas y ninguna se ha enviado** (`potential-spotting/estado.md`).
-2. **Pagamos tráfico que no tiene dónde aterrizar.** Google Ads: ~600 €/mes,
-   259 clics, **2 conversiones** (solo clic a WhatsApp), todo a la home,
-   sin botón de agendar cita (`marketing-tbnb-sem-google-ads.md`).
-3. **Nada se mide.** Ningún canal registra leads en Odoo; no sabemos de
-   dónde viene cada cliente.
-4. **Demasiados frentes para dos personas.** 7 canales + Ads + web + blog
-   + Report, y encima ideas nuevas (webinars, LinkedIn Ads). Cada uno
-   pide aprobación de Andrea o Sergio → cuello de botella.
-5. **Lo que más convierte en consultoría B2B pequeña** (relación directa,
-   referidos de clientes, prescriptores) **es justo lo que menos tiempo
-   recibe hoy.**
-
-> Hipótesis a validar (ver sección 7): la mayoría de nuestros clientes
-> actuales vinieron por contacto directo o recomendación, no por la web
-> ni por redes. Si es así, el plan de abajo es el correcto.
+Esto tumba la hipótesis de la versión 1 (que los clientes venían sobre
+todo por relación directa). **Lo que está funcionando es que nos
+encuentren.** El plan gira alrededor de eso.
 
 ---
 
-## 2. Cómo se reparte el tiempo
+## 1. La dirección, en una frase
 
-Tres motores, por orden de importancia. **El primero se protege siempre;
-el tercero es lo primero que se recorta si no hay tiempo.**
+> **Que cuando el dueño de un bar o restaurante pregunte a Google o a una
+> IA cómo arreglar su negocio, aparezcamos nosotros, y que lo que
+> encuentre le dé motivos para escribirnos.**
 
-| Motor | Para qué | % del tiempo de marketing | Qué entra |
-|---|---|---|---|
-| **1. Captación directa** | Generar conversaciones con dueños este trimestre | **~60 %** | Potential Spotting, referidos de clientes, prescriptores, seguimiento de leads |
-| **2. Confianza** | Que quien nos conoce nos recuerde y nos crea | **~30 %** | LinkedIn (perfiles personales), Hospitality Report, newsletter mensual |
-| **3. Base** | Que quien nos busca encuentre y pueda contactar | **~10 %** | Web que convierte, Google Business, blog en goteo, Google Ads con condiciones |
+Todo lo que hagamos tiene que servir a esa frase. Si no la sirve, no se
+hace este trimestre.
 
-Referencia de capacidad (a confirmar): **~4 h/semana cada uno** dedicadas
-a marketing. Si Laura y Ava tienen horas reales, absorben la *producción*
-del motor 2 y 3; Andrea y Sergio se quedan con el motor 1, que no se
-puede delegar.
+La **web es el centro**: es lo que leen Google y las IA, y es donde se
+convierte. Todo lo demás (LinkedIn, Report, Google Business, contacto
+directo) **o alimenta la web o lleva gente a ella**.
 
 ---
 
-## 3. Vuestras ideas, una a una
+## 2. Un sistema, no siete canales: "un tema al mes"
 
-| Idea | Veredicto | Por qué |
+Esto es lo que da cohesión. Cada mes se elige **un tema**, ligado a un
+servicio del BAR Method que queremos vender, y se reaprovecha en todo:
+
+```
+Tema del mes (ej.: "por qué tu carta no es rentable")
+   │
+   ├─► 1 artículo o página en la web  ← lo que leen Google y las IA
+   ├─► 4 posts de LinkedIn (2 Andrea, 2 Sergio) sacados del artículo
+   ├─► 1 publicación de Google Business enlazando al artículo
+   └─► (opcional) 1 carrusel de Instagram con lo mismo
+```
+
+Se escribe **una vez**, se publica en cuatro sitios. Los especialistas de
+`seo/blog-web/` y `comunicacion-redes-sociales/` producen los borradores;
+Andrea y Sergio solo aprueban y añaden su experiencia real.
+
+Temas propuestos (a validar):
+- **Diciembre:** rentabilidad / escandallo de carta (es lo que ya busca
+  la gente en Ads: *rentabilidad restaurantes*).
+- **Enero:** abrir o relanzar un local con método (cuesta de enero,
+  muchos proyectos se deciden ahora).
+- **Febrero:** lanzamiento del Hospitality Report.
+
+---
+
+## 3. Tres motores, con horas reales (10 h/semana)
+
+| Motor | Horas/semana | Qué entra |
 |---|---|---|
-| **Posicionamiento en IA (GEO)** | ✅ Sí, pero **no como proyecto aparte** | Las IA recomiendan a quien aparece claro en su web y mencionado en otros sitios (prensa, listados, reseñas). Sale como efecto de hacer bien web + Report + reseñas. Coste extra: casi cero. |
-| **LinkedIn** | ✅ **Canal de contenido nº 1** | Pero desde los **perfiles personales** de Andrea y Sergio, no la página de empresa, y con conversación (comentar, escribir) además de publicar. |
-| **Web perfecta** | ❌ No. **Web que convierte** | Botón "Agendar cita", publicar las 2 páginas ya hechas, formulario medido. Después, se deja de tocar. Perfeccionar la web es la trampa de tiempo más típica. |
-| **Blog** | 🟡 Mantener al mínimo | Ya hay 7 artículos. Máximo 1–2 al mes, solo temas que venden un servicio. El SEO tarda 6–12 meses: no cuenta para leads este trimestre. |
-| **Mejorar entradas de web** | 🟡 Solo lo que pide Ads | El contenido de marketing/asesoría/consultoría que pidió el gestor SEM. Nada más. |
-| **Mail marketing** | ✅ Sí, pequeño | 1 newsletter al mes a contactos que ya existen (clientes, ex-clientes, prospectos). Recicla el Report y LinkedIn: no se escribe desde cero. |
-| **Hospitality Report** | ✅ **Pieza central** del motor 2 | Terminarlo y lanzarlo con gate. De él salen 2–3 meses de LinkedIn, newsletter y la excusa para escribir a prensa y prescriptores. Decidir si es semestral o anual **después** de ver descargas. |
-| **Ad en LinkedIn** | ⏸️ Aparcado | Clic caro, poco dueño de bar en LinkedIn, y aún no hay gate montado al que mandar tráfico. Se revisa tras el lanzamiento del Report. |
-| **Webinars** | ⏸️ Aparcado | Mucho esfuerzo y hace falta audiencia para llenarlos. Si algún día: **un solo webinar de presentación del Report**, no un canal nuevo. |
-| **Instagram** | 🟡 Mantener al mínimo | Escaparate de casos y trabajo real (lo que mira un dueño antes de llamar). 1 publicación/semana como mucho, sin perseguir crecimiento. |
-| **Google Business** | 🟡 Mantener al mínimo | 1 publicación cada 2 semanas + pedir reseña a cada cliente al cerrar proyecto. |
-| **Google Ads** | ⚠️ Con condición | Ver sección 5. |
+| **1. Que nos encuentren** (web, Google, IA) | **~4,5 h** | Web que convierte, contenido del tema del mes, visibilidad en IA, reseñas y menciones, Google Ads con condición |
+| **2. Contacto directo** | **~3 h** | Enviar las Notas desde la Barra, referidos y reseñas de clientes actuales |
+| **3. Confianza** (LinkedIn + Report) | **~2,5 h** | LinkedIn desde perfiles personales, lanzamiento del Report |
+
+### Reparto por persona (según `CLAUDE.md`)
+
+**Andrea (5 h):**
+- 1 h — reunión de los lunes con Sergio (aprobar todo en bloque).
+- 1,5 h — contenido del tema del mes: revisar el artículo y añadir
+  experiencia propia.
+- 1,5 h — contacto directo: Notas desde la Barra, clientes, seguimiento.
+- 1 h — LinkedIn: 1 post propio + 10 min/día comentando y escribiendo.
+
+**Sergio (5 h):**
+- 1 h — reunión de los lunes.
+- 1,5 h — web y visibilidad en IA (Angel, páginas, fichas, directorios).
+- 1 h — LinkedIn: 1 post propio + comentar.
+- 1 h — Google Ads (gestor), Google Business, Odoo.
+- 0,5 h — prueba mensual en IA (ver sección 5).
 
 ---
 
-## 4. Lo que falta y es lo que más rinde
+## 4. Qué se hace, qué se mantiene y qué se para
 
-1. **Enviar lo que ya está hecho.** Las 7 Notas desde la Barra, en un
-   bloque de aprobación de 1 hora, esta semana.
-2. **Referidos de clientes actuales** (Casa Clementina, Geisha, Lady
-   Madrid, The Lokal): una conversación con cada uno para pedir (a) un
-   testimonio o caso publicable y (b) si conocen a alguien a quien le
-   vendríamos bien. Es la fuente de leads más barata que existe.
-3. **Prescriptores**: 3–5 personas que hablan cada día con dueños de
-   bares (distribuidores de bebida, proveedores de TPV, gestorías del
-   sector, escuelas de hostelería). Un café con cada uno en el trimestre.
-4. **Seguimiento**: cada conversación nueva, a Odoo (o a una hoja simple
-   mientras tanto) con una columna **"¿cómo nos conociste?"**.
-
----
-
-## 5. Google Ads: regla de decisión
-
-Hoy cuesta ~300 € por conversión y la conversión es un clic a WhatsApp,
-no un lead. Antes de seguir invirtiendo sin más:
-
-1. Montar el botón "Agendar cita" y medirlo como conversión.
-2. Pedir al gestor una **landing propia** en vez de la home, y revisar
-   Barcelona (gastó lo mismo que Madrid con 0 conversiones).
-3. Dar **60 días** con eso arreglado. Si no salen al menos **2–3
-   reuniones reales** al mes, pausar y mover ese presupuesto al
-   lanzamiento del Report.
+| Frente | Veredicto | Por qué |
+|---|---|---|
+| **Web** | ✅ **Prioridad nº 1** | Es por donde ya han llegado leads. Pero web *que convierte*, no web perfecta. |
+| **Posicionamiento en IA** | ✅ **Prioridad, dentro de la web** | Ya nos ha traído un lead. Ver sección 5. |
+| **Blog / páginas** | ✅ 1 pieza al mes (tema del mes) | Mejor una buena y reaprovechada que siete sueltas. |
+| **LinkedIn** | ✅ Perfiles personales | Repite el tema del mes. No es un canal aparte, es altavoz. |
+| **Hospitality Report** | ✅ Lanzar en febrero | Ahora tiene un segundo papel: **es la forma de conseguir los primeros contactos para la newsletter** (descarga a cambio de email). |
+| **Potential Spotting** | ✅ Enviar lo que hay, luego al mínimo | 7 Notas ya redactadas sin enviar. Se envían. Después, solo 2–3 al mes, no tandas grandes. |
+| **Clientes actuales** | ✅ Pedir reseña + referido | Las reseñas en Google también las leen las IA. |
+| **Google Business** | 🟡 Mínimo | 1 publicación cada 2 semanas (la del tema del mes). |
+| **Google Ads** | ⚠️ Con condición | Ver sección 6. |
+| **Instagram** | 🟡 Mínimo u opcional | Solo si sobra tiempo, reutilizando el tema del mes. No trae leads hoy. |
+| **Newsletter** | ⏸️ **Parada hasta tener lista** | No hay a quién enviarla. Se activa cuando el Report haya captado los primeros emails. |
+| **Ad en LinkedIn** | ⏸️ Aparcado | Se revisa tras el lanzamiento del Report. |
+| **Webinars** | ⏸️ Aparcado | Como mucho, uno para presentar el Report. |
 
 ---
 
-## 6. Plan de 90 días
+## 5. Visibilidad en IA: qué hacer, en concreto
 
-### Semanas 1–2 — Desatascar (cosas ya hechas que no han salido)
+Las IA (ChatGPT, Gemini, Perplexity) recomiendan a quien **se explica con
+claridad en su web** y **aparece mencionado en otros sitios**. No hace
+falta un proyecto aparte, sí estas acciones:
+
+1. **Preguntar a los dos leads recientes**: qué IA usaron, qué le
+   preguntaron y qué buscaron en Google. Es el dato más valioso que
+   tenemos ahora mismo.
+2. **Páginas de servicio que respondan preguntas**: qué hacemos, para
+   quién, en qué ciudades, cómo trabajamos, casos reales, preguntas
+   frecuentes. Las 2 páginas ya redactadas (Marketing, Consultoría) van
+   en esa línea: publicarlas.
+3. **Datos técnicos que ayudan a las IA** (encargo para Angel): marcado de
+   datos estructurados (Organization, Service, FAQ), y que nombre,
+   descripción y ciudades sean idénticos en web, Google Business,
+   LinkedIn y directorios.
+4. **Menciones fuera de nuestra web**: reseñas de clientes en Google,
+   aparecer en directorios y listados de consultoras de hostelería, y
+   que el Report salga citado en algún medio del sector.
+5. **Prueba mensual (30 min, Sergio)**: hacer las mismas 5 preguntas en
+   ChatGPT, Gemini y Perplexity (ej.: *"consultoría para restaurantes en
+   Madrid"*, *"cómo mejorar la rentabilidad de mi bar"*) y anotar si
+   aparece TBNB. Es nuestra forma de medir esto sin herramientas.
+
+---
+
+## 6. Google Ads: regla de decisión
+
+Hoy: ~600 €/mes, 2 conversiones (clic a WhatsApp), todo a la home.
+
+1. Botón "Agendar cita" en la home, medido como conversión.
+2. Pedir al gestor una **landing propia** y revisar Barcelona (gastó lo
+   mismo que Madrid con 0 conversiones).
+3. **60 días** con eso arreglado. Si no salen al menos 2–3 reuniones
+   reales al mes, pausar y mover el presupuesto al lanzamiento del Report.
+
+---
+
+## 7. Plan de 90 días
+
+### Semanas 1–2 — Desatascar
+- [ ] Preguntar a los 2 leads recientes de dónde vinieron exactamente — Andrea
 - [ ] Aprobar y enviar las 7 Notas desde la Barra — Andrea + Sergio
-- [ ] Botón "Agendar cita" en home + medición — Sergio (Angel)
-- [ ] Cerrar URL y aprobar las 2 páginas web (Marketing, Consultoría) — Andrea + Sergio
-- [ ] Crear columna "origen del lead" en Odoo o en una hoja — Sergio
-- [ ] Responder las preguntas de la sección 7 — Andrea + Sergio
+- [ ] Botón "Agendar cita" + medición — Sergio (Angel)
+- [ ] Cerrar URL y publicar las 2 páginas web (Marketing, Consultoría) — Andrea + Sergio
+- [ ] Columna "¿cómo nos conociste?" en Odoo o en una hoja — Sergio
+- [ ] Primera prueba en IA (línea base) — Sergio
+- [ ] Elegir los temas de diciembre, enero y febrero — Andrea + Sergio
 
-### Mes 1 — Ritmo de captación
-- [ ] Conversación de referidos/testimonio con los 4 clientes — Andrea
-- [ ] Nueva tanda de Potential Spotting (SOP quincenal ya existe) — Andrea/Sergio
-- [ ] LinkedIn personal: 1 post/semana cada uno + 15 min/día de comentar y escribir — Andrea y Sergio
+### Mes 1 (diciembre) — Arrancar el sistema
+- [ ] Tema del mes: artículo + 4 posts LinkedIn + Google Business
+- [ ] Pedir reseña en Google y referido a los 4 clientes actuales — Andrea
+- [ ] Encargo a Angel: datos estructurados + coherencia de nombre/ciudades — Sergio
 - [ ] Hablar con el gestor SEM: landing + Barcelona — Sergio
 
-### Mes 2 — Lanzar el Report
-- [ ] Diseño + gate del Hospitality Report — Sergio + Ava
-- [ ] Lanzamiento: LinkedIn, newsletter, envío personal a clientes, prescriptores y 10 periodistas/medios del sector
-- [ ] Primera newsletter mensual — Andrea
+### Mes 2 (enero) — Repetir y preparar el Report
+- [ ] Tema del mes (mismo formato)
+- [ ] Diseño y gate del Hospitality Report (encargo puntual a freelance) — Sergio
+- [ ] Alta en 3–5 directorios/listados del sector — Sergio
+- [ ] Decisión sobre Google Ads (fin de los 60 días)
 
-### Mes 3 — Medir y cortar
-- [ ] Cafés con 3–5 prescriptores — Andrea/Sergio
-- [ ] **Revisión del día 90** (mediados de febrero 2027): qué canal trajo
-  conversaciones reales → se refuerza; lo que no → se recorta o se aparca.
-  Decidir aquí Google Ads, LinkedIn Ads y frecuencia del Report.
+### Mes 3 (febrero) — Lanzar y revisar
+- [ ] Lanzamiento del Report: LinkedIn, envío personal a clientes y
+  contactos, 10 medios del sector
+- [ ] Primera newsletter, solo si ya hay emails captados
+- [ ] **Revisión del día 90 (mediados de febrero 2027)**: qué trajo
+  conversaciones → se refuerza; lo que no → se corta.
 
 ### Ritmo semanal fijo
-- **Lunes, 1 h juntos**: aprobar todo lo pendiente de la semana en bloque
-  (Notas, posts, newsletter). Lo que no se aprueba el lunes, espera al
-  siguiente — así la aprobación deja de ser un goteo diario.
-- **Viernes, 15 min**: apuntar conversaciones nuevas y su origen.
+- **Lunes, 1 h juntos**: aprobar todo lo de la semana en bloque. Lo que
+  no se aprueba el lunes, espera al siguiente.
+- **Viernes, 10 min**: apuntar contactos nuevos y de dónde vienen.
 
 ---
 
-## 7. Las únicas 3 métricas
+## 8. Las únicas 3 métricas
 
-1. **Conversaciones nuevas con dueños/gestores al mes** (objetivo
-   orientativo: 8–10).
+1. **Contactos entrantes al mes y su origen** (web, IA, Google Ads,
+   LinkedIn, contacto directo, recomendación).
 2. **Reuniones y propuestas enviadas al mes.**
 3. **Clientes nuevos** (la estrella polar).
 
-Seguidores, likes, visitas y aperturas se miran, pero **no deciden nada**.
-
-### Preguntas que solo vosotros podéis responder
-- ¿De dónde vino cada uno de los clientes actuales? (confirma o tumba la
-  hipótesis del diagnóstico)
-- ¿Cuántas horas reales a la semana tenéis cada uno para marketing?
-- ¿Laura y Ava trabajan horas fijas en esto o es puntual?
-- ¿Cuántos contactos tenemos hoy para la newsletter (aunque sea en Gmail)?
+Más la prueba mensual en IA (¿aparecemos o no?). Seguidores, likes y
+visitas se miran, pero **no deciden nada**.
 
 ---
 
-## 8. Filtro para ideas nuevas
+## 9. Filtro para ideas nuevas
 
-Antes de empezar cualquier idea nueva (como los webinars), 3 preguntas:
+Antes de empezar cualquier idea nueva, 3 preguntas:
 
-1. **¿Nos acerca a una conversación con un dueño en los próximos 90 días?**
-2. **¿Cuántas horas cuesta, de verdad, contando aprobaciones?**
+1. **¿Ayuda a que un dueño nos encuentre o nos escriba en los próximos
+   90 días?**
+2. **¿Cuántas horas cuesta, contando aprobaciones?** (tenemos 10 a la
+   semana entre los dos)
 3. **¿Qué dejamos de hacer para hacerla?**
 
-Si no hay buena respuesta a las tres, va a la lista de aparcadas y se
-revisa el día 90.
+Si no hay buena respuesta a las tres, va a aparcadas y se revisa el día 90.
 
-**Ideas aparcadas hoy:** webinars · LinkedIn Ads · rediseño de web ·
-GEO como proyecto propio · crecimiento de Instagram · nuevos canales.
+**Aparcadas hoy:** webinars · LinkedIn Ads · rediseño de web ·
+crecimiento de Instagram · newsletter (hasta tener lista) · canales nuevos.

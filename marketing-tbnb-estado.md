@@ -15,6 +15,13 @@ Construido con datos reales ya documentados en el repo (no estimados):
 documentos. Donde no hay dato real (métricas de alcance, tráfico,
 conversión), el panel lo marca como hueco en vez de rellenarlo.
 
+> **Actualización 2026-11-13 (Andrea):** Laura Callejo y Ava Caughron son
+> freelance puntuales, **no equipo fijo**: el equipo de marketing real son
+> Andrea y Sergio, ~5 h/semana cada uno. Donde este documento les asigna
+> un canal, ya no aplica. Los leads recientes llegaron por recomendación
+> de una IA y por Google; la newsletter tiene 0 contactos. Prioridades
+> vigentes en `plan-marketing-tbnb-90-dias.md`.
+
 ## Estrella polar y objetivo del marketing — resuelto (2026-10-08)
 
 Sergio y Andrea cerraron la estrella polar de TBNB: **número de clientes
