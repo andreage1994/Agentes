@@ -90,6 +90,7 @@ Es el plato que ya está funcionando, el que te da de comer a ti, no solo al cli
 ### Caballos de batalla: margen bajo, popularidad alta
 
 Es el plato que da de comer al negocio en volumen, no en margen. Se pide mucho porque el cliente ya lo espera de ti, y eso es justo lo que hace que tocarlo sea delicado.
+
 - No se sube de precio de golpe porque perderías volumen. Primero se mira si el escandallo tiene margen de renegociar proveedor o de ajustar ligeramente la ración, y solo si eso no basta se sube precio, y poco a poco.
 - Si tiene mucha demanda garantizada, puede convenirte mantenerlo con margen ajustado a propósito, siempre que arrastre venta de algo con más margen al lado (una bebida, un extra, un segundo plato).
 - No lo escondas nunca en la carta pensando en «empujar» otra cosa: es lo que trae a la gente por la puerta, y quitarle visibilidad no cambia su coste, solo te hace perder pedidos.
@@ -97,6 +98,7 @@ Es el plato que da de comer al negocio en volumen, no en margen. Se pide mucho p
 ### Puzles: margen alto, popularidad baja
 
 El margen ya está resuelto. El problema no es el plato, es que nadie lo pide.
+
 - No se quita de la carta a la primera. Antes se prueba a renombrarlo — muchas veces el problema es el nombre, no el plato.
 - Se mueve a una posición más visible, cerca de las estrellas, para que se beneficie de esa atención.
 - Se convierte en la recomendación del camarero o en la sugerencia oral al tomar nota: el margen ya está ahí, solo falta que se pida.
@@ -104,6 +106,7 @@ El margen ya está resuelto. El problema no es el plato, es que nadie lo pide.
 ### Perros: margen bajo, popularidad baja
 
 Son los candidatos claros a salir de la carta, pero «candidato claro» no significa automático.
+
 - Antes de eliminarlo, mira si sus ingredientes se pueden reaprovechar en otro plato de la carta, si es así, quitarlo no genera desperdicio adicional, solo simplifica el inventario.
 - Si tiene un puñado de clientes fijos que solo piden eso, valora si compensa mantenerlo como excepción o si de verdad pesa más simplificar la operativa.
 - No lo sustituyas por otro plato nuevo «porque sí»: cada plato añadido es más inventario, más proveedor y más complejidad de cocina, y ese es justo el problema que estás intentando resolver.
