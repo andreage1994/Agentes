@@ -116,7 +116,7 @@ Con el escandallo decides qué hacer con los perros (rehacerlos para que cuesten
 
 ### 2. Comprar mejor y tirar menos
 
-Si sabes la receta exacta, sabes cuánto tienes que comprar según lo que prevés vender. Tienes menos stock parado, se te caduca menos producto y negocias mejor con los proveedores, porque conoces tu consumo real. Y no es solo una cuestión de dinero: en 2025, la hostelería y el consumo fuera de casa tiraron en España 28 millones de kilos de comida, según el [Ministerio de Agricultura](https://www.mapa.gob.es/es/prensa/ultimas-noticias/detalle_noticias/el-desperdicio-alimentario-en-espa-a-se-reduce-cerca-de-un-20---respecto-a-2020-/90c2732b-a6e0-4277-9fb9-97fd5872994b). Es un 20 % menos que en 2020: se puede bajar.
+Si sabes la receta exacta, sabes cuánto tienes que comprar según lo que prevés vender. Tienes menos stock parado, se te caduca menos producto y negocias mejor con los proveedores, porque conoces tu consumo real. Y no es solo una cuestión de dinero: en 2025, la hostelería y el consumo fuera de casa tiraron en España 28 millones de kilos o litros de comida y bebida, según el [Ministerio de Agricultura](https://www.mapa.gob.es/es/prensa/ultimas-noticias/detalle_noticias/el-desperdicio-alimentario-en-espa-a-se-reduce-cerca-de-un-20---respecto-a-2020-/90c2732b-a6e0-4277-9fb9-97fd5872994b). Es un 20 % menos que en 2020: se puede bajar.
 
 ### 3. Detectar fugas
 

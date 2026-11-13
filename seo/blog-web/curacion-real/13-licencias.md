@@ -136,6 +136,7 @@ Ninguno de estos errores viene de mala suerte. Vienen de decidir el local, la ob
 Ya lo avisábamos en nuestro artículo sobre [errores comunes al abrir un restaurante](https://www.thebarnbarconsulting.com/errores-comunes-al-abrir-un-restaurante/): licencias, tasas municipales y proyecto técnico mal planificados pueden disparar el presupuesto inicial bastante más de lo previsto.
 
 ## Checklist rápido para no llegar a la apertura con sorpresas
+
 - Certificado de compatibilidad urbanística del local, antes de firmar el alquiler. Es la pregunta que se salta más veces, y la más cara de saltarse.
 - Aforo objetivo, no aforo deseado. Decide cuánta gente quieres tener dentro y confirma que el local lo admite, no al revés.
 - Música, extracción de humos, vibraciones: dilo desde el principio. Son los factores que más fácil convierten tu actividad en «clasificada», con trámite más largo.

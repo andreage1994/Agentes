@@ -109,7 +109,9 @@ No somos consultores de oficina: venimos de la barra. Nuestro trabajo es poner o
 
 ### Negocia con datos, no con súplicas
 
-Un proveedor es un comerciante experto y conoce su negocio mejor que tú. Para negociar de igual a igual, necesitas tus números. Te enseñamos a usar tus históricos de compra para pedir mejores condiciones: si compras 100 cajas de cerveza al mes, ya tienes con qué negociar, y conviene que lo hagas como tal. Esa parte la podemos trabajar online: nos pasas los números y la información del restaurante, y los analizamos sin necesidad de desplazarnos. Donde sí vamos en persona es a ver la operativa, el servicio, el flujo de trabajo y al equipo. Para eso hace falta un buen [control de inventario](https://www.thebarnbarconsulting.com/control-de-inventario-restaurantes/).
+Un proveedor es un comerciante experto y conoce su negocio mejor que tú. Para negociar de igual a igual, necesitas tus números. Te enseñamos a usar tus históricos de compra para pedir mejores condiciones: si compras 100 cajas de cerveza al mes, ya tienes con qué negociar, y conviene que lo hagas como tal. Para eso hace falta un buen [control de inventario](https://www.thebarnbarconsulting.com/control-de-inventario-restaurantes/).
+
+Esta parte la podemos trabajar online: nos pasas los números y la información del restaurante, y los analizamos sin necesidad de desplazarnos. Donde sí vamos en persona es a ver la operativa, el servicio, el flujo de trabajo y al equipo.
 
 ### La fuerza de concentrar
 

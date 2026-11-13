@@ -291,3 +291,19 @@ Ninguno de los seis tiene un caso de cliente en la "Perspectiva TBNB", igual que
 - **13:** el title promete "en Madrid y Barcelona", pero el artículo trata el tema general y solo una sección compara las dos ciudades; el propio cuerpo avisa de que no se asuma que las reglas de una ciudad valen para otra. El title viene del interés de búsqueda del artículo absorbido, así que no se discute. La meta (que se mantiene) no nombra las ciudades.
 - **15:** la meta nueva dice "los cuatro pasos" y el artículo tiene cuatro pasos. Correcto.
 - **17:** la meta nueva (≈155 caracteres) puede cortarse. Lo decide SEO.
+
+---
+
+## Aplicado (2026-11-13)
+
+Aplicado en 10 y 13-18, respetando las decisiones de Sergio:
+
+- **13:** frase de Madrid alineada con el cuerpo; consejo del alquiler; "suele" en el titular; "Mejor saberlo antes de firmar"; costes sin el "no es X"; CTA propio; rayas unificadas en la intro.
+- **14:** todo lo añadido, rebajado y con el H3 "Cómo presentar los precios"; erratas del original corregidas (párrafo duplicado, comillas, signos, títulos). El 10-15 % del 14 y el 5 % del 16 se dejan: son palancas distintas.
+- **15:** H2 de ejemplos, fuera el eslogan, menos "no es X" y "sin perder X", H2 "Cómo lo trabajamos nosotros", cita de Sergio. Compá se mantiene (confirmado).
+- **16:** se mantiene "Gana un 10% más" (decisión de Sergio). Concentrar y competencia reconciliados, pago aplazado o pronto pago, ejemplo inventado, enlace a la carta, frase final arreglada y matiz online/presencial.
+- **17:** H2 de soluciones, menos absolutos, enlace al escandallo, listas sin repeticiones, CTA propio, cita de Andrea.
+- **18:** todas las propuestas de la tabla, y el dato del desperdicio cambiado por el oficial del MAPA de 2025.
+- **10:** pasos 5-7 tal cual la propuesta; fuera "lavar a alta temperatura".
+
+**No aplicado:** los casos RASA y Lady Madrid (hace falta el permiso del cliente), el cambio opcional de apertura del 16 y mover apartados en 13 y 14.

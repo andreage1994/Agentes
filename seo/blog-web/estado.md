@@ -1554,3 +1554,10 @@ artículo publicado hoy.
 |---|---|---|---|
 | #5 Horario ininterrumpido | 🟡 Revisión hecha — listo para Andrea/Sergio (ajuste de enlace interno aplicado; pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-05-horario-ininterrumpido.md`](articulos/curacion-05-horario-ininterrumpido.md) | `/horario-ininterrumpido-restaurante/` |
 | #6 The 5 Most Profitable Hospitality Businesses (EN) | 🟡 Revisión hecha — listo para Andrea/Sergio (sin cambios necesarios; pendiente comparación con el artículo en vivo) | [`seo/blog-web/articulos/curacion-06-en-5-tipos-negocio.md`](articulos/curacion-06-en-5-tipos-negocio.md) | `/en/the-5-most-profitable-hospitality-businesses-in-2024/` |
+
+## 2026-11-13 — Fusiones 13-18 cerradas; los 18 textos, listos para publicar
+
+- Juntados los gemelos en español (13 licencias, 14 carta, 15 concepto, 16 proveedores, 17 problemas diarios, 18 escandallo). Revisados por el director de redacción (`curacion-real/revision-director-redaccion-3.md`) y con las respuestas de Sergio aplicadas.
+- Dato de desperdicio alimentario actualizado con el informe del MAPA de 2025. Fechas del Reglamento (UE) 2025/40 del artículo 10 comprobadas en el texto oficial (BOE).
+- Pestañas 13-18 añadidas al documento "Textos finales"; pestaña 10 y resumen actualizados.
+- Chuleta de 18 redirecciones en `curacion-real/README.md`: 11 se pueden poner ya y 7 después de publicar el texto que se queda.

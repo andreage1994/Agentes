@@ -66,7 +66,7 @@ Un rediseño de carta bien hecho puede subir el beneficio entre un 10% y un 15%.
 
 La ingeniería del menú es una matriz que cruza dos datos de cada plato: el margen de contribución (precio menos coste) y la popularidad (qué porcentaje de las ventas representa). La idea es de 1982, de los profesores Michael Kasavana y Donald Smith, pero da igual el año: sigue siendo el marco que usa cualquiera que se tome en serio el diseño de una carta.
 
-### Cruza esos dos ejes y salen cuatro tipos de plato:
+### Cruza esos dos ejes y salen cuatro tipos de plato
 
 - Estrellas: alto margen, alta popularidad. Se protegen y se destacan visualmente en la carta.
 - Caballos de batalla: bajo margen, alta popularidad. El cliente los pide mucho, pero dejan poco. Se mantienen por fidelidad, intentando mejorar el margen sin perder volumen.
@@ -83,7 +83,7 @@ Aquí es donde la matriz deja de ser un cuadrante bonito y se convierte en una d
 
 Es el plato que ya está funcionando, el que te da de comer a ti, no solo al cliente. El error más caro con una estrella no es tocarla mal, es no protegerla.
 
-No la muevas de la carta ni le cambies la ración «para renovar» — cualquier variación se nota, y lo único que puede pasar es que empeore.
+- No la muevas de la carta ni le cambies la ración «para renovar» — cualquier variación se nota, y lo único que puede pasar es que empeore.
 - Vigila al proveedor con más cuidado que con ningún otro plato: si baja la calidad del ingrediente clave sin que tú lo notes, el cliente sí lo va a notar.
 - Dale la posición más visible de la carta (arriba, con foto, en un recuadro) y úsala para arrastrar venta de otros platos con más margen que ella (una guarnición, un maridaje, un postre).
 
@@ -94,27 +94,29 @@ Es el plato que da de comer al negocio en volumen, no en margen. Se pide mucho p
 - Si tiene mucha demanda garantizada, puede convenirte mantenerlo con margen ajustado a propósito, siempre que arrastre venta de algo con más margen al lado (una bebida, un extra, un segundo plato).
 - No lo escondas nunca en la carta pensando en «empujar» otra cosa: es lo que trae a la gente por la puerta, y quitarle visibilidad no cambia su coste, solo te hace perder pedidos.
 
-### Puzles: Margen alto, popularidad baja
+### Puzles: margen alto, popularidad baja
 
 El margen ya está resuelto. El problema no es el plato, es que nadie lo pide.
 - No se quita de la carta a la primera. Antes se prueba a renombrarlo — muchas veces el problema es el nombre, no el plato.
 - Se mueve a una posición más visible, cerca de las estrellas, para que se beneficie de esa atención.
 - Se convierte en la recomendación del camarero o en la sugerencia oral al tomar nota: el margen ya está ahí, solo falta que se pida.
 
-### Perros: Bajo margen y baja popularidad.
+### Perros: margen bajo, popularidad baja
 
 Son los candidatos claros a salir de la carta, pero «candidato claro» no significa automático.
 - Antes de eliminarlo, mira si sus ingredientes se pueden reaprovechar en otro plato de la carta, si es así, quitarlo no genera desperdicio adicional, solo simplifica el inventario.
 - Si tiene un puñado de clientes fijos que solo piden eso, valora si compensa mantenerlo como excepción o si de verdad pesa más simplificar la operativa.
 - No lo sustituyas por otro plato nuevo «porque sí»: cada plato añadido es más inventario, más proveedor y más complejidad de cocina, y ese es justo el problema que estás intentando resolver.
 
-## El ejemplo de la carta italiana, con nombre y apellido en cada cuadrante.
+## El ejemplo de la carta italiana, con nombre y apellido en cada cuadrante
+
 - La linguine es la estrella: margen alto, la pide todo el mundo, y la decisión correcta es no tocarla: protegerla, destacarla y cuidar al proveedor de marisco para que la calidad no varíe nunca.
 - El pollo parmesano es el caballo de batalla: gusta mucho, pero el coste de producto (pollo, queso, panko) y la mano de obra del empanizado dejan poco margen antes de subir precio, se mira si se puede ajustar la cantidad de queso sin que se note o negociar mejor el pollo por volumen, y si al final hay que subir precio, se sube 50 céntimos, no dos euros de golpe.
 - Una pasta de temporada es el puzle escondido: tiene buen margen porque el ingrediente de temporada suele ser más barato, pero se pide poco porque cambia de nombre cada mes y no genera confianza, la solución no es bajarle el precio, es darle un nombre fijo («la pasta del chef», con contenido rotativo) y colocarla junto a la linguine.
 - Y la ensalada poco pedida y poco rentable es el perro: antes de quitarla, se comprueba si la lechuga y el tomate ya se usan en otro plato de la carta, si es así, eliminarla no cuesta nada extra.
 
-## Un segundo ejemplo, en un bar de tapas.
+## Un segundo ejemplo, en un bar de tapas
+
 - Las patatas bravas son la estrella: patata barata, salsa que se hace en lote grande, y la pide casi toda la mesa, no hace falta tocarlas, y menos aún «subirlas de gama» con ingredientes caros que nadie ha pedido así.
 - Las croquetas caseras son el caballo de batalla: las piden todas las mesas, pero la mano de obra de hacerlas a mano y freírlas por tandas se come buena parte del margen, antes de subir el precio, se valora si conviene semi-industrializar parte del proceso (comprar la base de bechamel y rebozar y freír en casa) sin que el cliente note diferencia de sabor, y se ajusta la ración (de seis a cinco unidades) antes de tocar el precio.
 - El pescado del día es el puzle: buen margen porque se compra según mercado, pero casi nadie lo pide porque en la carta aparece al final, con letra pequeña y sin nombre de la pieza, cambiar «pescado del día» por «lubina salvaje del día», subirlo a la parte alta de la carta y que el camarero lo mencione al tomar nota puede bastar para que empiece a pedirse.
@@ -184,6 +186,7 @@ Una carta apretada se lee mal y puede parecer barata. Dejar aire alrededor de un
 Aunque tengas carta en papel, una versión digital con QR te permite cambiar precios sin reimprimir, retirar un plato agotado o probar una novedad en segundos. Es una forma barata de mantener la carta al día cuando los costes se mueven. Cómo vigilarlos, en [food cost](https://www.thebarnbarconsulting.com/food-cost-restaurantes/).
 
 ## Checklist antes de mandar tu carta a imprenta
+
 - ¿Has clasificado cada plato en la matriz de ingeniería del menú, ajustando el criterio si eres un bar de tapas donde el ticket se arma por mesa?
 - ¿Sabes qué hacer con cada cuadrante, no solo dónde cae cada plato, sino qué decisión tomas con el precio, la ración, la posición o el proveedor?
 - ¿Has cruzado esa clasificación con el food cost real de cada plato, no con el de hace uno o dos años?

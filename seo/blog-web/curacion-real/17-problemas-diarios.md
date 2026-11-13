@@ -17,7 +17,7 @@ que se queda no tenga.
 |---|---|---|
 | URL | `/problemas-diarios-de-un-restaurante/` | **Igual. No se toca.** |
 | Title (Google) | The Bar N Bar - Problemas diarios de un restaurante | Problemas diarios de un restaurante y cómo resolverlos |
-| Meta description | Problemas diarios de un restaurante. Antes de iniciarte en un negocio como un restaurante, o si ya lo tienes, conócelos! | Errores que se repiten, comunicación que falla, improvisación y un equipo que no dura: los problemas diarios de un restaurante y cómo resolverlos de raíz. |
+| Meta description | Problemas diarios de un restaurante. Antes de iniciarte en un negocio como un restaurante, o si ya lo tienes, conócelos! | Errores que se repiten, comunicación que falla, improvisación y un equipo que no dura: los problemas diarios de un restaurante y cómo resolverlos. |
 | H1 | Problemas diarios de un restaurante | **Igual.** |
 
 **Por qué:** sale para "problemas en un restaurante" (posición 11), "problemas
