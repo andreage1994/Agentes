@@ -6,8 +6,10 @@ publicado.
 **Curado:** 2026-11-11, sobre el texto publicado hoy (copia en
 `original/fin-monodosis-restaurantes.md`).
 **Absorbe a:** `/por-que-quitan-los-monodosis-en-los-bares/`. Al publicar
-este, esa URL debe redirigir aquí (301). Su texto no se ha podido leer
-(error 502); si tiene algo útil, se incorpora antes de publicar.
+este, esa URL debe redirigir aquí (301). Leído el 2026-11-13: repite la
+fecha errónea (agosto de 2026). Se han rescatado dos consejos: la higiene de
+los dispensadores y el control de la dosis (pasos 5 y 6 de "Cómo preparar tu
+bar o restaurante").
 **Proceso:** punto 5 del manual de Andrea, con la estructura del punto 3.
 
 ## ⚠️ Corrección legal: el artículo publicado tiene mal las fechas
@@ -144,7 +146,9 @@ Hasta 2030 hay margen. Úsalo para cambiar con calma y sin gastar de más:
 2. **Agota el stock con cabeza.** No compres grandes cantidades de formatos que tendrás que retirar.
 3. **Habla ya con tus proveedores** sobre alternativas: dispensadores, sobres de papel, formatos grandes. Es buen momento para [negociar con ellos](https://www.thebarnbarconsulting.com/negociar-proveedores-restaurante/).
 4. **Calcula el coste.** Un dispensador bien elegido puede salir más barato por servicio que la monodosis. Uno mal elegido puede disparar la merma. Haz números antes de cambiar. El método lo tienes en [cómo reducir los gastos de un bar](https://www.thebarnbarconsulting.com/como-reducir-los-gastos-de-un-bar/).
-5. **Forma al equipo** para servir salsas, aceite y azúcar en el nuevo formato con higiene y sin desperdiciar.
+5. **Ojo con la higiene de los dispensadores.** Un bote de salsa en mesa lo tocan decenas de personas al día. Rellenarlo sin limpiarlo es un riesgo. Actualiza tu [plan APPCC](https://www.thebarnbarconsulting.com/plan-appcc-hosteleria/) y que el equipo desmonte, lave a alta temperatura y desinfecte cada dispensador antes de rellenarlo.
+6. **Controla la dosis.** Con la monodosis sabías exactamente cuánto gastaba cada cliente. Con un bote, el consumo se puede disparar. Elige dispensadores con dosis fija por pulsación o sirve la salsa en pequeños cuencos reutilizables con la cantidad justa.
+7. **Forma al equipo** para servir salsas, aceite y azúcar en el nuevo formato con higiene y sin desperdiciar.
 
 ## Cómo lo trabajamos nosotros
 

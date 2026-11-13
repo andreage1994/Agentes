@@ -40,24 +40,62 @@ suave. Cada archivo incluye una tabla que dice dónde está cada parte.
 | `07-vender-cafe-especialidad.md` | Cómo vender café de especialidad (absorbe "La transición al café de especialidad") | Curación | 🟡 Pendiente de revisión |
 | `08-horario-ininterrumpido.md` | Horario ininterrumpido en el restaurante (absorbe la copia "trampa-horario…") | Curación ligera | 🟡 Pendiente de revisión |
 | `09-reducir-gastos.md` | Cómo reducir los gastos de un bar | Curación ligera | 🟡 Pendiente de revisión |
-| `10-fin-monodosis.md` | El fin de las monodosis en restaurantes (absorbe "Por qué quitan las monodosis") | Curación | 🟡 Corrección legal validada por Andrea |
+| `10-fin-monodosis.md` | El fin de las monodosis en restaurantes (absorbe "Por qué quitan las monodosis") | Curación | 🟡 Corrección legal validada |
 | `11-crecer-tu-bar.md` | Cómo hacer crecer tu bar | Curación | 🟡 Pendiente de revisión |
 | `12-errores-abrir-restaurante.md` | Errores comunes al abrir un restaurante (absorbe su copia `-2`) | Curación | 🟡 Pendiente de revisión |
+| `13-licencias.md` | Licencias para abrir un restaurante (absorbe "Licencias de apertura de restaurantes") | Fusión | 🟡 Pendiente de revisión |
+| `14-carta.md` | Cómo diseñar la carta de un restaurante (absorbe "Cómo crear una carta de menú") | Fusión | 🟡 Pendiente de revisión |
+| `15-concepto-hosteleria.md` | Cómo crear un concepto de hostelería (URL antigua, texto del nuevo) | Fusión | 🟡 Pendiente de revisión |
+| `16-negociar-proveedores.md` | Negociar con proveedores (su gemelo es una copia exacta) | Fusión | 🟡 Pendiente de revisión |
+| `17-problemas-diarios.md` | Problemas diarios de un restaurante (absorbe la versión de 2024) | Fusión | 🟡 Pendiente de revisión |
+| `18-escandallo.md` | El escandallo (su gemelo ya estaba borrado, da 404) | Fusión | 🟡 Pendiente de revisión |
 | — | (EN) The 5 most profitable hospitality businesses | Curación | ⏸ Primero hay que juntar sus 16 copias |
 | — | (EN) Transitioning to specialty coffee (-3) | Curación | ⏸ Primero hay que juntar sus 5 copias |
 
-## Redirecciones que hay que poner al publicar
+## Chuleta de redirecciones para Rank Math
 
-Cuando se publique el artículo curado, la URL que absorbe debe redirigir a
-él con un 301 (Rank Math → Redirections):
+Rank Math → Redirecciones → Añadir nueva. En "URL de origen" va la columna
+**De** (solo el texto entre barras). En "URL de destino" va la dirección
+completa: `https://www.thebarnbarconsulting.com` + la columna **A**. Tipo:
+**301 Movido permanentemente**.
 
-| De | A |
-|---|---|
-| `/como-vender-o-comprar-tu-negocio-con-exito/` | `/lo-que-debes-saber-antes-de-vender-un-restaurante/` |
-| `/la-transicion-al-cafe-de-especialidad-con-the-bar-n-bar/` | `/como-vender-cafe-de-especialidad/` |
-| `/trampa-horario-ininterrumpido-restaurante/` | `/horario-ininterrumpido-restaurante/` |
-| `/por-que-quitan-los-monodosis-en-los-bares/` | `/fin-monodosis-restaurantes/` |
-| `/errores-comunes-al-abrir-un-restaurante-2/` | `/errores-comunes-al-abrir-un-restaurante/` |
+### Se pueden poner ya
+
+Son copias exactas, artículos que ya no existen o enlaces internos rotos. No
+dependen de publicar ningún texto nuevo.
+
+| # | De | A | Por qué |
+|---|---|---|---|
+| 1 | `trampa-horario-ininterrumpido-restaurante` | `/horario-ininterrumpido-restaurante/` | Copia exacta |
+| 2 | `negociacion-proveedores-rentabilidad-hosteleria` | `/negociar-proveedores-restaurante/` | Copia exacta |
+| 3 | `errores-comunes-al-abrir-un-restaurante-2` | `/errores-comunes-al-abrir-un-restaurante/` | Copia |
+| 4 | `tu-restaurante-esta-lleno-pero-no-ganas-dinero` | `/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/` | Compite con el nº 1 y da cifras distintas |
+| 5 | `rentabilidad-restaurante-lleno-sin-beneficios` | `/como-calcular-la-rentabilidad-de-un-negocio-de-hosteleria/` | Mismo texto que el 4 |
+| 6 | `restaurante-factura-pero-no-gana` | `/los-7-errores-de-tu-pagina-web-de-hosteleria/` | Habla de webs, no de rentabilidad |
+| 7 | `evitar-desperdicio-alimentos-restaurante` | `/escandallo-evitar-desperdicio-restaurante/` | Ya da error 404 |
+| 8 | `ayudas-para-montar-un-bar` | `/ayudas-montar-bar/` | Enlace interno roto en los artículos del 4 de noviembre |
+| 9 | `estrella-galicia-te-monta-el-bar` | `/estrella-galicia/` | Ídem |
+| 10 | `food-cost-2026-por-que-el-calculo-ya-no-vale` | `/food-cost-restaurantes/` | Ídem |
+| 11 | `licencias-para-abrir-un-restaurante` | `/licencias-abrir-restaurante/` | Ídem |
+
+### Cuando se publique el texto nuevo del artículo que se queda
+
+Primero se pega el texto curado en el que se queda; después, la redirección.
+Si no, se perdería lo que se ha rescatado del gemelo.
+
+| # | De | A | Texto que hay que publicar antes |
+|---|---|---|---|
+| 12 | `como-vender-o-comprar-tu-negocio-con-exito` | `/lo-que-debes-saber-antes-de-vender-un-restaurante/` | `05-vender-restaurante.md` |
+| 13 | `la-transicion-al-cafe-de-especialidad-con-the-bar-n-bar` | `/como-vender-cafe-de-especialidad/` | `07-vender-cafe-especialidad.md` |
+| 14 | `por-que-quitan-los-monodosis-en-los-bares` | `/fin-monodosis-restaurantes/` | `10-fin-monodosis.md` |
+| 15 | `licencias-de-apertura-de-restaurantes` | `/licencias-abrir-restaurante/` | `13-licencias.md` |
+| 16 | `como-crear-una-carta-de-menu` | `/como-disenar-carta-restaurante/` | `14-carta.md` |
+| 17 | `como-crear-un-concepto-de-hosteleria` | `/descubre-el-arte-de-analizar-un-concepto-de-hosteleria-con-the-bar-n-bar-desde-la-inspiracion-hasta-la-ejecucion/` | `15-concepto-hosteleria.md` |
+| 18 | `la-solucion-a-los-problemas-del-dia-a-dia-en-restaurantes-mal-gestionados-con-the-bar-n-bar` | `/problemas-diarios-de-un-restaurante/` | `17-problemas-diarios.md` |
+
+Después de cada redirección: escribir la dirección vieja en el navegador y
+comprobar que lleva a la nueva. Y pasar el artículo viejo a **Borrador** (no
+borrarlo).
 
 ## Fallos encontrados en los artículos publicados (arreglar ya, aunque no se publique la curación)
 
