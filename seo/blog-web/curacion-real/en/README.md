@@ -56,10 +56,9 @@ Copias exactas o URLs que no tienen el artículo que dicen tener.
 | 7 | `en/why-single-dose-portions-are-vanishing-from-bars` | `/en/end-single-dose-restaurants/` | `EN-10-single-dose.md` |
 | 8 | `en/espresso-tonic` | `/en/espresso-tonic-the-gold-mine-for-your-bar/` | `EN-espresso-tonic.md` (**imprescindible**: hoy esa URL tiene el artículo de webs) |
 
-### Pendientes de comprobar
+### También se pueden poner ya (comprobado el 2026-11-13)
 
-Cada "copia" va a la URL propia de su artículo, si esa URL tiene el mismo
-texto. Se está comprobando (la web da error 502 a menudo).
+Cada "copia" tiene exactamente el mismo texto que la URL propia de su artículo.
 
 | # | De | A |
 |---|---|---|
