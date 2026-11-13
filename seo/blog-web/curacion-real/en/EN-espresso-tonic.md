@@ -64,15 +64,13 @@ servirlo). La meta publicada habla de "este verano" y caduca.
 | 5. Conclusión corta | In short |
 | 6. CTA suave | "We'll look at it with you" |
 
-## Pendiente de confirmar
+## Decisiones confirmadas (2026-11-13)
 
-- [ ] **Cifras de negocio del texto publicado:** cuesta "menos de un euro" de
-  producir, se prepara en "menos de tres minutos" y el cliente paga "más de
-  cinco euros". ¿Las damos por buenas? Se han dejado como orientación.
-- [ ] **Datos de historia:** el origen en Koppi (Helsingborg, Suecia) hacia
-  2007 está bien documentado. El texto publicado decía que nació "en Oslo"
-  y que Caffè Nero lo lanzó con Fever-Tree en 2019; no lo he podido
-  confirmar, así que se ha dejado solo lo de Koppi.
+- **Cifras de negocio:** cuesta menos de un euro de producir, se prepara en
+  menos de tres minutos y el cliente paga más de cinco euros. **Confirmadas.**
+- **Historia:** solo el origen en Koppi (Helsingborg, Suecia) hacia 2007. Fuera
+  "nació en Oslo" y lo de Caffè Nero y Fever-Tree en 2019, que no se ha podido
+  confirmar. **Confirmado.**
 
 ---
 
@@ -80,7 +78,7 @@ servirlo). La meta publicada habla de "este verano" y caduca.
 
 # Espresso tonic: the gold mine for your bar
 
-Some drinks fill a table. Others fill your margin. Espresso tonic does both: it costs little to make, it's quick to prepare and customers are happy to pay for it, because it looks and tastes like something special.
+Some drinks fill a table. Others fill your margin. Espresso tonic does both: it costs less than one euro to make, it's ready in under three minutes and customers are happy to pay more than five euros for it, because it looks and tastes like something special.
 
 But it only works if it's served well. Let's look at what espresso tonic is, why coffee and tonic get on so well, the mistakes that waste money at the bar, and two recipes to put on your menu.
 
