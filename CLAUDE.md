@@ -58,6 +58,9 @@ Gmail, Google Calendar, Google Drive, Asana (gestión de proyectos y leads), Odo
 - `marketing-tbnb-estado.md` — panel de estado del propio marketing de
   TBNB (no de un cliente): canales, equipo, bloqueantes y huecos de
   información, con enlace al dashboard.
+- `plan-marketing-tbnb-90-dias.md` — plan de prioridades de marketing de TBNB
+  (nov 2026 – feb 2027): qué se hace, qué se mantiene al mínimo y qué se
+  aparca, con reparto de tiempo para dos personas y revisión al día 90.
 - `marketing-tbnb-sem-google-ads.md` — canal de búsqueda de pago (Google
   Ads) de la propia web de TBNB, gestionado por un gestor SEM externo:
   minutas de seguimiento, datos de los informes y pendientes que nos
