@@ -12,7 +12,7 @@ en `original/`).
 | | Hoy | Propuesta |
 |---|---|---|
 | URL | `/como-disenar-carta-restaurante/` | **Igual. No se toca.** |
-| Title (Google) | ¿Cómo diseñar la carta de un restaurante? | Consejos y pasos | **Se mantiene.** |
+| Title (Google) | ¿Cómo diseñar la carta de un restaurante? \| Consejos y pasos | **Se mantiene.** |
 | Meta description | Cómo diseñar la carta de un restaurante para mejorar su rentabilidad, ingeniería de menú, food cost, precios, raciones y diseño antes de la estética. | **Se mantiene.** |
 | H1 | Diseñar la carta de un restaurante: por qué la estética es lo último que se decide | **Igual.** |
 
