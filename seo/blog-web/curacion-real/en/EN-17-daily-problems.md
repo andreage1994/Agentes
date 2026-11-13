@@ -9,8 +9,9 @@
   publicado en esa URL no es de problemas diarios**, sino una copia del
   artículo "The 5 most profitable types of restaurants". No hay nada que
   rescatar para este tema.
-- `/en/fix-your-restaurants-daily-problems/` (2 impresiones). Pendiente de
-  descargar para confirmar qué contiene (la web daba error).
+- `/en/fix-your-restaurants-daily-problems/` (2 impresiones). Comprobado:
+  **tampoco es de problemas diarios**. Tiene la misma copia del artículo de
+  los 5 tipos de restaurante.
 **Espejo en español:** `17-problemas-diarios.md`. El texto publicado en inglés
 es la traducción del de 2024 en español: los mismos cuatro problemas y las
 mismas cuatro soluciones. Se usa el texto curado del 17, en inglés, con sus

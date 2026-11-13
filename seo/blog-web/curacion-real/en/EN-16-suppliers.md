@@ -4,8 +4,8 @@
 **Hecho:** 2026-11-13, sobre el texto publicado hoy (copia en `../original/en/`).
 **Se queda:** `/en/negotiate-restaurant-suppliers/` (59 impresiones al año).
 **Redirige (301):** `/en/supplier-negotiation-restaurant-profitability/` (1
-impresión). Pendiente de descargar para confirmarlo (la web daba error). Su
-gemelo en español era una copia exacta.
+impresión). Comprobado: **tiene exactamente el mismo texto** que el que se
+queda, igual que su gemelo en español.
 **Espejo en español:** `16-negociar-proveedores.md`. Se aplican las mismas
 decisiones confirmadas el 2026-11-13.
 

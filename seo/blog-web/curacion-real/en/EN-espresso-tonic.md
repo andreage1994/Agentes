@@ -50,8 +50,10 @@ servirlo). La meta publicada habla de "este verano" y caduca.
   "organoleptic suicide", "magic".
 - **Lo que faltaba:** la perspectiva TBNB, una conclusión corta, el CTA y
   enlaces internos (el texto publicado no tiene ninguno).
-- **Enlaces internos en inglés:** vender café de especialidad, bebidas sin
-  alcohol rentables, BAR Method y contacto.
+- **Enlaces internos en inglés:** bebidas sin alcohol rentables, BAR Method y
+  contacto. **No se enlaza** `/en/how-to-sell-specialty-coffee/`: lo que hay
+  publicado en esa URL es una copia de "The 5 most profitable types of
+  restaurants", no el artículo de café.
 
 ## Estructura del manual (punto 3)
 
@@ -103,8 +105,6 @@ The choice of coffee isn't negotiable:
 
 - **Light or medium roast specialty coffee:** beans from origins like Ethiopia or Kenya, with fruity, citrus and floral notes. Their acidity is lifted by the bubbles.
 - **Dark roast or *torrefacto* coffee:** the enemy of this drink. Burnt and ashy notes clash with the quinine and give a metallic, harsh drink that customers won't order twice.
-
-If you're already working with specialty coffee, here's [how to sell it](https://www.thebarnbarconsulting.com/en/how-to-sell-specialty-coffee/) so customers see the value.
 
 ## Three mistakes that ruin it (and cost you money)
 
