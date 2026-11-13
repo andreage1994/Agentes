@@ -5,9 +5,10 @@
 **Se queda:** `/en/end-single-dose-restaurants/` (1.305 impresiones al año,
 posición 6).
 **Redirige (301):** `/en/why-single-dose-portions-are-vanishing-from-bars/`
-(458 impresiones). Pendiente de descargar para comprobar si aporta algo (la
-web daba error). Su gemelo en español no aportaba nada y repetía la fecha
-equivocada.
+(458 impresiones). Comprobado: es la versión en inglés de "Por qué quitan las
+monodosis" y repite la fecha equivocada (12 de agosto de 2026). Lo único útil
+que aporta (higiene de los dispensadores y control de la dosis) ya está en
+los pasos 5 y 6, igual que en español, sin "lavar a alta temperatura".
 **Espejo en español:** `10-fin-monodosis.md`. Se aplican las mismas
 correcciones y decisiones.
 

@@ -5,8 +5,8 @@
 **Se queda:** `/en/restaurant-profitability-full-but-not-profitable/` (1 clic y
 256 impresiones al año).
 **Redirige (301):** `/en/restaurant-full-but-not-making-money/` (69
-impresiones). Pendiente de descargar para confirmar su texto (la web daba
-error).
+impresiones). Comprobado: **tiene exactamente el mismo texto** que el que se
+queda.
 **Las "copias" de *Your restaurant generates revenue but makes no profit*
 no entran aquí:** son otros artículos publicados en la URL equivocada (ver
 `README.md` de esta carpeta).
