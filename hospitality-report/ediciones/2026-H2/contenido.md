@@ -425,6 +425,16 @@ Casi cualquier informe internacional de 2026 repite la misma idea: el cliente sa
 
 **TBNB TAKE.** Si salir es una forma de desconectar, el bar ya no compite solo con el bar de enfrente. Compite con cualquier plan que prometa lo mismo: una tarde en un spa, un concierto, una cena en casa de amigos. Lo que se vende no es solo comida y bebida. Es un rato que merezca la pena.
 
+Para un dueño, eso cambia la pregunta con la que se diseña la oferta. Ya no basta con preguntarse qué quiere comer el cliente. Hay que preguntarse con quién viene, para qué y cuánto tiempo quiere quedarse. Y la respuesta se traduce en decisiones muy concretas:
+
+- **Una carta pensada para compartir, no solo para pedir.** Si el cliente sale con amigos, la carta tiene que facilitar que la mesa pida junta: platos para el centro, raciones que se puedan ampliar, jarras o botellas en lugar de solo copas. Es más cómodo para el grupo y, bien escandallado, sube el ticket de la mesa.
+- **Un formato para cada ocasión.** No es lo mismo un afterwork de cuatro compañeros que una cena de pareja o una celebración de diez. Definir qué ocasiones quiere captar el local, y cuáles no, permite diseñar para cada una su espacio (barra, mesa alta, mesa grande), su oferta y su forma de reservar.
+- **Un ritmo de servicio que no eche al cliente.** Si lo que se vende es un rato, el servicio tiene que acompañar ese rato: no levantar platos antes de tiempo ni traer la cuenta sin que se pida, y saber proponer la siguiente ronda o el postre en el momento justo. La sobremesa bien llevada es facturación, no tiempo perdido.
+- **Un espacio donde se pueda hablar.** La acústica, la luz y la distancia entre mesas deciden si un grupo se queda una hora o tres. Un local precioso en el que no se oye a quien tienes enfrente pierde justo al cliente que viene a desconectar.
+- **Un motivo para volver juntos.** Un plan fijo que el grupo pueda hacer suyo (el vermut del domingo, la mesa del jueves, una pequeña programación) convierte una visita en costumbre. El consumo social se repite cuando el sitio pasa a formar parte de la vida del grupo.
+
+Nada de esto exige reformar el local. Exige decidir antes para qué ocasiones existe el negocio y construir la carta, el servicio y el espacio alrededor de esa decisión.
+
 **El día le gana terreno a la noche.** La mitad de los españoles ha recortado el ocio nocturno y lo ha pasado a franjas de día, el 48% sale más a comer al mediodía que a cenar y el 30% ha adelantado sus horarios. El 70% toma el aperitivo los fines de semana y el 58% participa en el tardeo [73]. No es una moda de verano: es un cambio de rutina que ya explicamos desde el lado del negocio en el Shift 1.
 
 **Se elige con más cuidado, y con todo a la vista.** El 20% gasta menos que el año pasado cuando sale, el 37% opta por menús más reducidos y el 53% iría en horarios menos concurridos si le sale más barato [73]. Antes de decidir, se informa: el 75% consulta la carta antes de reservar y el 59% da más peso a las opiniones de otros clientes que al precio. Una mala reseña es el principal motivo para no reservar en el 62% de los casos [65]. Entre los más jóvenes, el 46% considera deshonesto que un restaurante esconda su carta o sus precios en redes o en su web, y los dos grandes motivos para no volver son una mala relación calidad-precio (76,5%) y un mal servicio (75,8%) [108].
