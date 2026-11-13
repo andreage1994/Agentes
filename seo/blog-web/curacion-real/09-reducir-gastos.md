@@ -1,6 +1,6 @@
 # Curación 09 — Cómo reducir los gastos de un bar
 
-**Estado:** propuesta, pendiente de revisión de Andrea/Sergio. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-11). No publicado.
 **Curado:** 2026-11-11, sobre el texto publicado hoy (copia en
 `original/como-reducir-los-gastos-de-un-bar.md`).
 **Tipo de trabajo:** en el plan era un "retoque", pero se ha hecho una

@@ -1,6 +1,6 @@
 # Fusión 14 — Cómo diseñar la carta de un restaurante
 
-**Estado:** propuesta, pendiente de revisión. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-13). No publicado.
 **Hecho:** 2026-11-13, sobre el texto publicado hoy de las dos URLs (copias
 en `original/`).
 **Se queda:** `/como-disenar-carta-restaurante/` (el artículo nuevo, publicado el
@@ -33,10 +33,24 @@ en `original/`).
 - **Estructura del manual:** se añaden una conclusión y un CTA. La
   perspectiva TBNB ya estaba al final ("En TBNB vemos la misma escena…").
 
-## Pendiente de confirmar
+## Decisiones confirmadas (2026-11-13)
 
-- Nada que confirmar: no se ha añadido ninguna cifra ni afirmación sobre
-  nuestros servicios.
+- No se ha añadido ninguna cifra ni afirmación sobre nuestros servicios.
+- **Revisión del director de redacción** (`revision-director-redaccion-3.md`)
+  aplicada en lo añadido: el apartado de diseño se rebaja ("mucha gente",
+  "suele", "conviene"), el H3 de precios pasa a "Cómo presentar los precios"
+  (el anterior chocaba con el anclaje), el euro se conecta con el estudio de
+  Cornell, y el CTA es propio.
+- **Erratas del texto publicado corregidas** (sin cambiar el sentido): el
+  párrafo de Coca-Cola Lens estaba repetido; faltaban dos puntos en "no
+  tocarla: protegerla", un espacio tras una coma y un signo "?"; las comillas
+  de cierre «…» estaban al revés; mayúsculas y puntos finales en los
+  títulos.
+- **Aviso:** la intro dice que un rediseño de carta puede subir el beneficio
+  un 10-15 % (texto publicado, con su advertencia de que no hay un estudio
+  único). El 16 da un 5 % para destacar los platos con más margen. Son
+  palancas distintas (rediseño completo frente a una sola acción), así que
+  se dejan las dos.
 
 ---
 
@@ -65,7 +79,7 @@ Esta matriz funciona mejor de lo que parece a primera vista, y peor de lo que pr
 
 Aquí es donde la matriz deja de ser un cuadrante bonito y se convierte en una decisión de carta. Saber que un plato es un «puzle» no sirve de nada si no sabes qué hacer con esa información al día siguiente. Esto es lo que cambia de verdad una carta — no clasificarla, sino actuar sobre cada cuadrante con el escandallo real en la mano.
 
-### Estrellas: Margen alto, popularidad alta.
+### Estrellas: margen alto, popularidad alta
 
 Es el plato que ya está funcionando, el que te da de comer a ti, no solo al cliente. El error más caro con una estrella no es tocarla mal, es no protegerla.
 
@@ -73,7 +87,7 @@ No la muevas de la carta ni le cambies la ración «para renovar» — cualquier
 - Vigila al proveedor con más cuidado que con ningún otro plato: si baja la calidad del ingrediente clave sin que tú lo notes, el cliente sí lo va a notar.
 - Dale la posición más visible de la carta (arriba, con foto, en un recuadro) y úsala para arrastrar venta de otros platos con más margen que ella (una guarnición, un maridaje, un postre).
 
-### Caballos de batalla: Margen bajo, popularidad alta
+### Caballos de batalla: margen bajo, popularidad alta
 
 Es el plato que da de comer al negocio en volumen, no en margen. Se pide mucho porque el cliente ya lo espera de ti, y eso es justo lo que hace que tocarlo sea delicado.
 - No se sube de precio de golpe porque perderías volumen. Primero se mira si el escandallo tiene margen de renegociar proveedor o de ajustar ligeramente la ración, y solo si eso no basta se sube precio, y poco a poco.
@@ -95,7 +109,7 @@ Son los candidatos claros a salir de la carta, pero «candidato claro» no signi
 - No lo sustituyas por otro plato nuevo «porque sí»: cada plato añadido es más inventario, más proveedor y más complejidad de cocina, y ese es justo el problema que estás intentando resolver.
 
 ## El ejemplo de la carta italiana, con nombre y apellido en cada cuadrante.
-- La linguine es la estrella: margen alto, la pide todo el mundo, y la decisión correcta es no tocarla protegerla, destacarla y cuidar al proveedor de marisco para que la calidad no varíe nunca.
+- La linguine es la estrella: margen alto, la pide todo el mundo, y la decisión correcta es no tocarla: protegerla, destacarla y cuidar al proveedor de marisco para que la calidad no varíe nunca.
 - El pollo parmesano es el caballo de batalla: gusta mucho, pero el coste de producto (pollo, queso, panko) y la mano de obra del empanizado dejan poco margen antes de subir precio, se mira si se puede ajustar la cantidad de queso sin que se note o negociar mejor el pollo por volumen, y si al final hay que subir precio, se sube 50 céntimos, no dos euros de golpe.
 - Una pasta de temporada es el puzle escondido: tiene buen margen porque el ingrediente de temporada suele ser más barato, pero se pide poco porque cambia de nombre cada mes y no genera confianza, la solución no es bajarle el precio, es darle un nombre fijo («la pasta del chef», con contenido rotativo) y colocarla junto a la linguine.
 - Y la ensalada poco pedida y poco rentable es el perro: antes de quitarla, se comprueba si la lechuga y el tomate ya se usan en otro plato de la carta, si es así, eliminarla no cuesta nada extra.
@@ -103,14 +117,12 @@ Son los candidatos claros a salir de la carta, pero «candidato claro» no signi
 ## Un segundo ejemplo, en un bar de tapas.
 - Las patatas bravas son la estrella: patata barata, salsa que se hace en lote grande, y la pide casi toda la mesa, no hace falta tocarlas, y menos aún «subirlas de gama» con ingredientes caros que nadie ha pedido así.
 - Las croquetas caseras son el caballo de batalla: las piden todas las mesas, pero la mano de obra de hacerlas a mano y freírlas por tandas se come buena parte del margen, antes de subir el precio, se valora si conviene semi-industrializar parte del proceso (comprar la base de bechamel y rebozar y freír en casa) sin que el cliente note diferencia de sabor, y se ajusta la ración (de seis a cinco unidades) antes de tocar el precio.
-- El pescado del día es el puzle: buen margen porque se compra según mercado, pero casi nadie lo pide porque en la carta aparece al final, con letra pequeña y sin nombre de la pieza, cambiar «pescado del día» por «lubina salvaje del día«, subirlo a la parte alta de la carta y que el camarero lo mencione al tomar nota puede bastar para que empiece a pedirse.
+- El pescado del día es el puzle: buen margen porque se compra según mercado, pero casi nadie lo pide porque en la carta aparece al final, con letra pequeña y sin nombre de la pieza, cambiar «pescado del día» por «lubina salvaje del día», subirlo a la parte alta de la carta y que el camarero lo mencione al tomar nota puede bastar para que empiece a pedirse.
 - Y la ensalada mixta genérica es el perro: margen ajustado y casi nadie la pide en un bar donde se va a compartir, no a comer sano — antes de eliminarla del todo, se mira si la lechuga y el tomate sobrante se pueden aprovechar en otra tapa de la carta, como un pan con tomate o un guacamole.
 
 ## Cruzar rentabilidad con lo que el cliente percibe como valor
 
 Tener la matriz resuelta no es tener la carta resuelta. Un plato puede ser una estrella en el papel y no bastar, porque el cliente no compra solo margen bien calculado, compra percepción de valor.
-
-Coca-Cola Lens lo resume bien: al cliente le pesan la conveniencia, la calidad y consistencia de la ración, la variedad y el precio, casi a partes iguales, y hoy el precio pesa más que hace dos años, según McKinsey, que sitúa precio y valor percibido como la primera causa de abandono de marca.
 
 Coca-Cola Lens lo resume bien: al cliente le pesan la conveniencia, la calidad y consistencia de la ración, la variedad y el precio, casi a partes iguales, y hoy el precio pesa más que hace dos años, según McKinsey, que sitúa precio y valor percibido como la primera causa de abandono de marca.
 
@@ -129,7 +141,7 @@ Antes de diseñar, ten claro qué estás diseñando:
 - **El menú del día** vive del volumen, la rotación y la rapidez.
 - **La carta** vive del margen, la experiencia y el ticket medio.
 
-Las dos pueden convivir en el mismo local, pero no se piensan igual. Si quieres que el menú del día también deje dinero, te lo contamos en [cómo hacer un menú del día rentable](https://www.thebarnbarconsulting.com/menu-del-dia-rentable/).
+Las dos pueden convivir en el mismo local, pero no se piensan igual. Si quieres que el menú del día también deje dinero, lo vemos en [cómo hacer un menú del día rentable](https://www.thebarnbarconsulting.com/menu-del-dia-rentable/).
 
 ## Errores en el diseño de la carta de un restaurante que cuestan dinero
 
@@ -139,11 +151,11 @@ Cuantas más alternativas parecidas hay, más cuesta decidir, hay estudios de ne
 
 ### Anclaje de precio mal hecho
 
-Colocar el plato más caro de cada categoría junto a uno de precio medio, para que este último parezca razonable, es una técnica clásica que consultores de menú como Gregg Rapp llevan explicando desde hace años. Funciona igual la variante inversa, poner un caballo de batalla o un perro con precio alto junto a una estrella para que esta parezca más razonable en comparación. Quitar el símbolo de la moneda también sigue funcionando, un estudio de Cornell University y la Culinary Institute of America de 2007 nada reciente, pero sigue siendo la referencia que se repite en el sector, encontró que los comensales que veían precios sin «$» ni la palabra «dólares» gastaban un 8,15% más de media. Dicho esto, no conviene forzar la mano, el anclaje agresivo está perdiendo eficacia porque el cliente cada vez lo detecta más, y detectarlo genera desconfianza. Usarlo con mesura pesa más que usarlo como truco.
+Colocar el plato más caro de cada categoría junto a uno de precio medio, para que este último parezca razonable, es una técnica clásica que consultores de menú como Gregg Rapp llevan explicando desde hace años. Funciona igual la variante inversa, poner un caballo de batalla o un perro con precio alto junto a una estrella para que esta parezca más razonable en comparación. Quitar el símbolo de la moneda también sigue funcionando, un estudio de Cornell University y el Culinary Institute of America de 2007 (nada reciente, pero sigue siendo la referencia que se repite en el sector) encontró que los comensales que veían precios sin «$» ni la palabra «dólares» gastaban un 8,15% más de media. Dicho esto, no conviene forzar la mano, el anclaje agresivo está perdiendo eficacia porque el cliente cada vez lo detecta más, y detectarlo genera desconfianza. Usarlo con mesura pesa más que usarlo como truco.
 
-### Tamaño de ración mal pensado para tu tipo de cliente.
+### Tamaño de ración mal pensado para tu tipo de cliente
 
-Aquí no hay una respuesta única. Por un lado, vuelve la tendencia de raciones generosas,hamburguesa gruesa, steakhouse con cortes grandes. Por otro, el 54% de los consumidores dice preferir raciones más pequeñas, según Coca-Cola Lens. No creemos que sean datos contradictorios sobre el mismo cliente, probablemente son ocasiones de consumo distintas, indulgencia puntual frente a comida cotidiana o familiar. Es una hipótesis nuestra, todavía por validar, no una conclusión cerrada, pero es la pregunta correcta para diseñar el tamaño de ración, no «¿grande o pequeña?«, sino «¿para qué ocasión viene mi cliente a este plato?«.
+Aquí no hay una respuesta única. Por un lado, vuelve la tendencia de raciones generosas, hamburguesa gruesa, steakhouse con cortes grandes. Por otro, el 54% de los consumidores dice preferir raciones más pequeñas, según Coca-Cola Lens. No creemos que sean datos contradictorios sobre el mismo cliente, probablemente son ocasiones de consumo distintas, indulgencia puntual frente a comida cotidiana o familiar. Es una hipótesis nuestra, todavía por validar, no una conclusión cerrada, pero es la pregunta correcta para diseñar el tamaño de ración, no «¿grande o pequeña?», sino «¿para qué ocasión viene mi cliente a este plato?».
 
 ## Cuando llega el diseño: cómo guiar la mirada
 
@@ -151,13 +163,13 @@ Una vez decidido qué va en la carta y a qué precio, el diseño tiene un trabaj
 
 ### Dónde mira la gente
 
-Cuando abren la carta, la mayoría no lee: escanea. Los primeros sitios donde va la vista suelen ser el centro y las esquinas superiores. Es lo que se conoce como el triángulo dorado, y ahí es donde tienen que estar tus estrellas.
+Cuando abren la carta, mucha gente no lee: escanea. Los primeros sitios donde va la vista suelen ser el centro y las esquinas superiores. Es lo que se conoce como el triángulo dorado, y ahí conviene poner tus estrellas.
 
-### Precios que no compiten entre sí
+### Cómo presentar los precios
 
-- **No pongas los precios en columna.** Si están alineados a la derecha, el cliente los compara de arriba abajo y acaba eligiendo por precio, no por plato.
-- **Prueba a quitar el símbolo del euro.** Hace que la atención vaya al plato y no al coste.
-- **Elige los decimales según tu posicionamiento.** Un precio redondo transmite calidad; un ,95 suena a oferta.
+- **Evita poner los precios en columna.** Si están alineados a la derecha, el cliente tiende a compararlos de arriba abajo y a elegir por precio, no por plato.
+- **Prueba a quitar el símbolo del euro.** Es el efecto del estudio de Cornell que citamos más arriba: la atención va al plato y no al coste.
+- **Elige los decimales según tu posicionamiento.** Un precio redondo suele transmitir calidad; uno acabado en ,95 suena más a oferta.
 
 ### Descripciones que venden sin exagerar
 
@@ -165,11 +177,11 @@ Cuando abren la carta, la mayoría no lee: escanea. Los primeros sitios donde va
 
 ### Espacio en blanco
 
-Una carta apretada se lee mal y parece barata. Dejar aire alrededor de un plato lo hace destacar sin necesidad de recuadros ni colores.
+Una carta apretada se lee mal y puede parecer barata. Dejar aire alrededor de un plato lo hace destacar sin necesidad de llenarla de recuadros ni colores.
 
 ### La carta digital
 
-Aunque tengas carta en papel, una versión digital con QR te permite cambiar precios sin reimprimir, retirar un plato agotado o probar una novedad en segundos. Es la forma más barata de mantener la carta al día cuando los costes se mueven, como te contamos en [food cost](https://www.thebarnbarconsulting.com/food-cost-restaurantes/).
+Aunque tengas carta en papel, una versión digital con QR te permite cambiar precios sin reimprimir, retirar un plato agotado o probar una novedad en segundos. Es una forma barata de mantener la carta al día cuando los costes se mueven. Cómo vigilarlos, en [food cost](https://www.thebarnbarconsulting.com/food-cost-restaurantes/).
 
 ## Checklist antes de mandar tu carta a imprenta
 - ¿Has clasificado cada plato en la matriz de ingeniería del menú, ajustando el criterio si eres un bar de tapas donde el ticket se arma por mesa?
@@ -178,7 +190,7 @@ Aunque tengas carta en papel, una versión digital con QR te permite cambiar pre
 - ¿La carta resuelve al menos uno de los ejes de valor (conveniencia, calidad, variedad, precio), o solo se ve bien?
 - ¿El número de opciones está pensado para que decidir sea fácil, no para presumir de catálogo?
 - ¿Los precios están anclados con criterio, sin abusar de un truco que el cliente ya empieza a detectar?
-- ¿El tamaño de ración responde a la ocasión de consumo real de tu cliente, no a una moda de temporada
+- ¿El tamaño de ración responde a la ocasión de consumo real de tu cliente, no a una moda de temporada?
 - Solo si todo lo anterior está resuelto: ¿la estética (tipografía, papel, fotos) refuerza esa decisión o la tapa?
 
 En TBNB vemos la misma escena una y otra vez: cartas preciosas, con el food cost sin recalcular y platos que nadie ha vuelto a mirar desde que se imprimieron. La estética no es el problema. El problema es decidirla primero, cuando debería ser el último paso de una decisión que ya estaba tomada.
@@ -187,4 +199,4 @@ En TBNB vemos la misma escena una y otra vez: cartas preciosas, con el food cost
 
 Una carta que vende se decide en este orden: primero qué platos y a qué precio, con la [ingeniería de menú](https://www.thebarnbarconsulting.com/platos-vampiro-rentabilidad-restaurante/) y el [escandallo](https://www.thebarnbarconsulting.com/escandallo-evitar-desperdicio-restaurante/) en la mano; después, cómo se presentan. La estética importa, pero llega al final.
 
-Si quieres que revisemos tu carta antes de mandarla a imprenta, [cuéntanos en qué punto estás](https://www.thebarnbarconsulting.com/contacto/) y la miramos juntos.
+Si quieres que revisemos tu carta antes de mandarla a imprenta, [cuéntanos cómo es](https://www.thebarnbarconsulting.com/contacto/) y te decimos por dónde empezar.

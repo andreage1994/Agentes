@@ -1,6 +1,6 @@
 # Curación 12 — Errores comunes al abrir un restaurante
 
-**Estado:** propuesta, pendiente de revisión de Andrea/Sergio. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-11). No publicado.
 **Curado:** 2026-11-11, sobre el texto publicado hoy (copia en
 `original/errores-comunes-al-abrir-un-restaurante.md`).
 **Absorbe a:** `/errores-comunes-al-abrir-un-restaurante-2/` (copia en

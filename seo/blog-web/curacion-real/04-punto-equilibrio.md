@@ -1,6 +1,6 @@
 # Curación 04 — Punto de equilibrio en restauración
 
-**Estado:** propuesta, pendiente de revisión de Andrea/Sergio. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-11). No publicado.
 **Curado:** 2026-11-11, sobre el texto publicado hoy (copia en
 `original/punto-de-equilibrio-en-restauracion-cuanto-necesitas-vender.md`).
 **Proceso:** punto 5 del manual de Andrea, con la estructura del punto 3.

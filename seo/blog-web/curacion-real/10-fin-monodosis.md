@@ -1,7 +1,7 @@
 # Curación 10 — El fin de las monodosis en restaurantes
 
-**Estado:** propuesta, pendiente de revisión de Andrea/Sergio. **Tiene una
-corrección legal importante que hay que validar antes de publicar.** No
+**Estado:** listo para publicar. La corrección legal está validada y las
+fechas, comprobadas en el texto oficial del reglamento (2026-11-13). No
 publicado.
 **Curado:** 2026-11-11, sobre el texto publicado hoy (copia en
 `original/fin-monodosis-restaurantes.md`).
@@ -79,7 +79,8 @@ hostelería" (posición 7). El title la pone al principio.
 - Corrección de fechas (prohibición en sala desde el 1 de enero de 2030): **validada**.
 - Excepción del plástico compostable: **quitada**.
 - Añadida la frase "para lo estrictamente legal, confírmalo con tu asesor; nosotros miramos cómo te afecta en el servicio y en el coste".
-- Siguen sin verificar en fuente oficial (heredados): envase propio del cliente (2027), reutilizables para llevar (2028), exención de microempresas, hospitales y residencias. Conviene que un asesor los mire antes de publicar.
+- Pasos 5 y 6 nuevos (2026-11-13), revisados por el director de redacción: fuera "lavar a alta temperatura" (especificación sanitaria sin fuente) y se aclara que el aceite de oliva no admite envases rellenables.
+- **Verificados el 2026-11-13 en el texto oficial del Reglamento (UE) 2025/40 ([BOE, DOUE-L-2025-80087](https://www.boe.es/buscar/doc.php?id=DOUE-L-2025-80087)):** sanciones y envase propio del cliente a más tardar el 12 de febrero de 2027 (arts. 68 y 32, sin coste mayor y con cartel visible); reutilizables para llevar a más tardar el 12 de febrero de 2028, con exención para microempresas (art. 33); excepción de hospitales, clínicas y residencias con asistencia médica (anexo V, punto 4, letra b). Se corrige esta última: el reglamento no habla de "control de dietas y alérgenos", sino de cuidados individualizados por motivos médicos.
 
 ---
 
@@ -121,7 +122,7 @@ La ley deja algunas vías abiertas:
 
 - **Comida para llevar y a domicilio.** Lo que el cliente se lleva o le llega a casa queda fuera. En los pedidos de delivery y para llevar, las monodosis de salsas o aceite pueden seguir usándose. Tiene sentido: así se transportan con seguridad los alimentos calientes y grasos.
 - **Sobres 100 % de papel.** La prohibición es para el plástico. Los sobres de azúcar, sal o pimienta hechos solo de papel, sin plastificar, siguen siendo legales en sala. Algunos proveedores ya ofrecen papeles con barrera antigrasa natural.
-- **Hospitales y residencias.** Los centros sanitarios y las residencias de mayores quedan fuera, por higiene y por el control de dietas y alérgenos.
+- **Hospitales, clínicas y residencias con asistencia médica.** Quedan fuera cuando las monodosis hacen falta por seguridad e higiene, porque se dan cuidados individualizados por motivos médicos.
 
 ## El aceite de oliva: aceiteras que no se pueden rellenar
 
@@ -146,9 +147,9 @@ Hasta 2030 hay margen. Úsalo para cambiar con calma y sin gastar de más:
 2. **Agota el stock con cabeza.** No compres grandes cantidades de formatos que tendrás que retirar.
 3. **Habla ya con tus proveedores** sobre alternativas: dispensadores, sobres de papel, formatos grandes. Es buen momento para [negociar con ellos](https://www.thebarnbarconsulting.com/negociar-proveedores-restaurante/).
 4. **Calcula el coste.** Un dispensador bien elegido puede salir más barato por servicio que la monodosis. Uno mal elegido puede disparar la merma. Haz números antes de cambiar. El método lo tienes en [cómo reducir los gastos de un bar](https://www.thebarnbarconsulting.com/como-reducir-los-gastos-de-un-bar/).
-5. **Ojo con la higiene de los dispensadores.** Un bote de salsa en mesa lo tocan decenas de personas al día. Rellenarlo sin limpiarlo es un riesgo. Actualiza tu [plan APPCC](https://www.thebarnbarconsulting.com/plan-appcc-hosteleria/) y que el equipo desmonte, lave a alta temperatura y desinfecte cada dispensador antes de rellenarlo.
-6. **Controla la dosis.** Con la monodosis sabías exactamente cuánto gastaba cada cliente. Con un bote, el consumo se puede disparar. Elige dispensadores con dosis fija por pulsación o sirve la salsa en pequeños cuencos reutilizables con la cantidad justa.
-7. **Forma al equipo** para servir salsas, aceite y azúcar en el nuevo formato con higiene y sin desperdiciar.
+5. **Cuida la higiene de los dispensadores.** Un bote de salsa en mesa pasa por muchas manos a lo largo del día. Rellenarlo sin limpiarlo es un riesgo. Actualiza tu [plan APPCC](https://www.thebarnbarconsulting.com/plan-appcc-hosteleria/) para incluirlos: el equipo tiene que desmontar, lavar y desinfectar cada dispensador antes de rellenarlo. Esto vale para las salsas: el aceite de oliva tiene su propia norma y ahí no sirven los envases rellenables (lo vemos más arriba).
+6. **Controla la dosis.** Con la monodosis, la ración venía medida de fábrica. Con un bote, el consumo se puede disparar. Elige dispensadores con dosis fija por pulsación o sirve la salsa en pequeños cuencos reutilizables con la cantidad justa.
+7. **Forma al equipo** para que todos lo hagan igual, del primer turno al de cierre.
 
 ## Cómo lo trabajamos nosotros
 

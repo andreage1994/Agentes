@@ -1,6 +1,6 @@
 # Curación 08 — Horario ininterrumpido en el restaurante
 
-**Estado:** propuesta, pendiente de revisión de Andrea/Sergio. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-11). No publicado.
 **Curado:** 2026-11-11, sobre el texto publicado hoy (copia en
 `original/horario-ininterrumpido-restaurante.md`).
 **Absorbe a:** `/trampa-horario-ininterrumpido-restaurante/`, que tiene

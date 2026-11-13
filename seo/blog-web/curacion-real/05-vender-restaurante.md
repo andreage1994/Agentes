@@ -1,6 +1,6 @@
 # Curación 05 — Lo que debes saber antes de vender un restaurante
 
-**Estado:** propuesta, pendiente de revisión de Andrea/Sergio. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-11). No publicado.
 **Curado:** 2026-11-11, sobre el texto publicado hoy (copia en
 `original/lo-que-debes-saber-antes-de-vender-un-restaurante.md`).
 **Absorbe a:** `/como-vender-o-comprar-tu-negocio-con-exito/` (copia en

@@ -1,6 +1,6 @@
 # Curación 07 — Cómo vender café de especialidad
 
-**Estado:** propuesta, pendiente de revisión de Andrea/Sergio. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-11). No publicado.
 **Curado:** 2026-11-11, sobre el texto publicado hoy (copia en
 `original/como-vender-cafe-de-especialidad.md`).
 **Absorbe a:** `/la-transicion-al-cafe-de-especialidad-con-the-bar-n-bar/`

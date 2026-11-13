@@ -14,8 +14,7 @@ blog, explicado fácil* y de `../../canibalizacion-blog-2026-11-06.md`.
 1. **Ficha SEO:** URL (no se toca nunca), title, meta description y H1, cómo
    están hoy y la propuesta.
 2. **Qué ha cambiado y por qué.**
-3. **Pendiente de confirmar:** lo que tienen que decidir Andrea o Sergio
-   antes de publicar.
+3. **Decisiones confirmadas:** lo que han decidido Andrea o Sergio.
 4. **Texto curado,** listo para pegar en WordPress.
 
 La carpeta `original/` guarda una copia del texto publicado tal y como
@@ -31,24 +30,24 @@ suave. Cada archivo incluye una tabla que dice dónde está cada parte.
 
 | Archivo | Artículo | Trabajo | Estado |
 |---|---|---|---|
-| `01-rentabilidad.md` | Cómo calcular la rentabilidad de un negocio de hostelería | Curación | 🟡 Pendiente de revisión |
-| `02-cinco-tipos-negocio.md` | Los 5 tipos de negocios de hostelería más rentables | Curación | 🟡 Pendiente de revisión |
-| `03-guia-abrir-bar.md` | Guía completa para abrir un bar | Curación | 🟡 Pendiente de revisión |
-| `04-punto-equilibrio.md` | Punto de equilibrio en restauración | Curación | 🟡 Pendiente de revisión |
-| `05-vender-restaurante.md` | Lo que debes saber antes de vender un restaurante (absorbe "Cómo vender o comprar tu negocio con éxito") | Curación | 🟡 Pendiente de revisión |
-| `06-regla-50-30-20.md` | Qué es la regla 50/30/20 en la hostelería | Curación ligera | 🟡 Pendiente de revisión |
-| `07-vender-cafe-especialidad.md` | Cómo vender café de especialidad (absorbe "La transición al café de especialidad") | Curación | 🟡 Pendiente de revisión |
-| `08-horario-ininterrumpido.md` | Horario ininterrumpido en el restaurante (absorbe la copia "trampa-horario…") | Curación ligera | 🟡 Pendiente de revisión |
-| `09-reducir-gastos.md` | Cómo reducir los gastos de un bar | Curación ligera | 🟡 Pendiente de revisión |
-| `10-fin-monodosis.md` | El fin de las monodosis en restaurantes (absorbe "Por qué quitan las monodosis") | Curación | 🟡 Corrección legal validada |
-| `11-crecer-tu-bar.md` | Cómo hacer crecer tu bar | Curación | 🟡 Pendiente de revisión |
-| `12-errores-abrir-restaurante.md` | Errores comunes al abrir un restaurante (absorbe su copia `-2`) | Curación | 🟡 Pendiente de revisión |
-| `13-licencias.md` | Licencias para abrir un restaurante (absorbe "Licencias de apertura de restaurantes") | Fusión | 🟡 Pendiente de revisión |
-| `14-carta.md` | Cómo diseñar la carta de un restaurante (absorbe "Cómo crear una carta de menú") | Fusión | 🟡 Pendiente de revisión |
-| `15-concepto-hosteleria.md` | Cómo crear un concepto de hostelería (URL antigua, texto del nuevo) | Fusión | 🟡 Pendiente de revisión |
-| `16-negociar-proveedores.md` | Negociar con proveedores (su gemelo es una copia exacta) | Fusión | 🟡 Pendiente de revisión |
-| `17-problemas-diarios.md` | Problemas diarios de un restaurante (absorbe la versión de 2024) | Fusión | 🟡 Pendiente de revisión |
-| `18-escandallo.md` | El escandallo (su gemelo ya estaba borrado, da 404) | Fusión | 🟡 Pendiente de revisión |
+| `01-rentabilidad.md` | Cómo calcular la rentabilidad de un negocio de hostelería | Curación | ✅ Listo para publicar |
+| `02-cinco-tipos-negocio.md` | Los 5 tipos de negocios de hostelería más rentables | Curación | ✅ Listo para publicar |
+| `03-guia-abrir-bar.md` | Guía completa para abrir un bar | Curación | ✅ Listo para publicar |
+| `04-punto-equilibrio.md` | Punto de equilibrio en restauración | Curación | ✅ Listo para publicar |
+| `05-vender-restaurante.md` | Lo que debes saber antes de vender un restaurante (absorbe "Cómo vender o comprar tu negocio con éxito") | Curación | ✅ Listo para publicar |
+| `06-regla-50-30-20.md` | Qué es la regla 50/30/20 en la hostelería | Curación ligera | ✅ Listo para publicar |
+| `07-vender-cafe-especialidad.md` | Cómo vender café de especialidad (absorbe "La transición al café de especialidad") | Curación | ✅ Listo para publicar |
+| `08-horario-ininterrumpido.md` | Horario ininterrumpido en el restaurante (absorbe la copia "trampa-horario…") | Curación ligera | ✅ Listo para publicar |
+| `09-reducir-gastos.md` | Cómo reducir los gastos de un bar | Curación ligera | ✅ Listo para publicar |
+| `10-fin-monodosis.md` | El fin de las monodosis en restaurantes (absorbe "Por qué quitan las monodosis") | Curación | ✅ Listo para publicar |
+| `11-crecer-tu-bar.md` | Cómo hacer crecer tu bar | Curación | ✅ Listo para publicar |
+| `12-errores-abrir-restaurante.md` | Errores comunes al abrir un restaurante (absorbe su copia `-2`) | Curación | ✅ Listo para publicar |
+| `13-licencias.md` | Licencias para abrir un restaurante (absorbe "Licencias de apertura de restaurantes") | Fusión | ✅ Listo para publicar |
+| `14-carta.md` | Cómo diseñar la carta de un restaurante (absorbe "Cómo crear una carta de menú") | Fusión | ✅ Listo para publicar |
+| `15-concepto-hosteleria.md` | Cómo crear un concepto de hostelería (URL antigua, texto del nuevo) | Fusión | ✅ Listo para publicar |
+| `16-negociar-proveedores.md` | Negociar con proveedores (su gemelo es una copia exacta) | Fusión | ✅ Listo para publicar |
+| `17-problemas-diarios.md` | Problemas diarios de un restaurante (absorbe la versión de 2024) | Fusión | ✅ Listo para publicar |
+| `18-escandallo.md` | El escandallo (su gemelo ya estaba borrado, da 404) | Fusión | ✅ Listo para publicar |
 | — | (EN) The 5 most profitable hospitality businesses | Curación | ⏸ Primero hay que juntar sus 16 copias |
 | — | (EN) Transitioning to specialty coffee (-3) | Curación | ⏸ Primero hay que juntar sus 5 copias |
 

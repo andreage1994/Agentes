@@ -1,6 +1,6 @@
 # Curación 02 — Los 5 tipos de negocios de hostelería más rentables
 
-**Estado:** propuesta, pendiente de revisión de Andrea/Sergio. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-11). No publicado.
 **Curado:** 2026-11-11, sobre el texto publicado hoy (copia en
 `original/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024.md`).
 **Proceso:** punto 5 del manual de Andrea.

@@ -1,6 +1,6 @@
 # Fusión 13 — Licencias para abrir un restaurante
 
-**Estado:** propuesta, pendiente de revisión. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-13). No publicado.
 **Hecho:** 2026-11-13, sobre el texto publicado hoy de las dos URLs (copias
 en `original/`).
 **Se queda:** `/licencias-abrir-restaurante/` (el artículo nuevo, publicado el
@@ -37,12 +37,17 @@ Barcelona, conviene que el title las nombre.
   artículo no tenía. La perspectiva TBNB ya estaba ("En TBNB, parte de
   acompañar una apertura…").
 
-## Pendiente de confirmar
+## Decisiones confirmadas (2026-11-13)
 
-- [ ] **Costes orientativos** (proyecto técnico 2.000-8.000 €, acústica
-  3.000-20.000 €, humos 8.000-30.000 €, tasas 600-4.000 €). El artículo
-  antiguo decía "según proyectos reales TBNB". ¿Los damos por buenos?
-- [ ] **Plazos:** Barcelona de 4 a 8 meses, Madrid de 2 a 6. ¿Correctos?
+- **Costes orientativos** (proyecto técnico 2.000-8.000 €, acústica
+  3.000-20.000 €, humos 8.000-30.000 €, tasas 600-4.000 €): **confirmados**.
+- **Plazos** (Barcelona de 4 a 8 meses, Madrid de 2 a 6): **confirmados**.
+- **Revisión del director de redacción** (`revision-director-redaccion-3.md`)
+  aplicada en lo añadido: la frase de Madrid se alinea con el cuerpo (el
+  proyecto técnico se pide en la actividad clasificada, no "en cualquier
+  caso"), se añade el consejo del alquiler (el mismo del 12), "suele" en el
+  titular de las dos ciudades y CTA propio. En el texto publicado solo se
+  unifican las rayas.
 
 ---
 
@@ -50,7 +55,7 @@ Barcelona, conviene que el title las nombre.
 
 # Licencias para abrir un restaurante: qué preguntar antes de firmar el local, no después
 
-Antes de preguntarte qué licencia necesitas para abrir un restaurante, pregúntate si el local que estás a punto de firmar admite la actividad que quieres montar ahí. Esa comprobación —el certificado de compatibilidad urbanística— se hace antes del contrato de alquiler, no después. Es el paso que más veces vemos saltarse en consultoría.
+Antes de preguntarte qué licencia necesitas para abrir un restaurante, pregúntate si el local que estás a punto de firmar admite la actividad que quieres montar ahí. Esa comprobación (el certificado de compatibilidad urbanística) se hace antes del contrato de alquiler, no después. Es el paso que más veces vemos saltarse en consultoría.
 
 La licencia que te toca no depende solo de que sirvas comida. Depende del aforo que quieras tener, de si pondrás música, de si necesitas extracción de humos y de si quieres terraza. Todo eso se suele decidir sin darse cuenta antes de mirar la licencia, cuando debería ser justo al revés.
 
@@ -73,7 +78,7 @@ Así que antes de decidir «quiero terraza» o «quiero poner música en directo
 
 ## Madrid o Barcelona: no juegan con las mismas reglas
 
-Las dos ciudades siguen la normativa estatal, pero cada ayuntamiento añade sus propias reglas. La versión corta: **Barcelona es más estricta, más técnica y más lenta; Madrid es más flexible y más ágil, pero igual de seria en lo esencial.**
+Las dos ciudades siguen la normativa estatal, pero cada ayuntamiento añade sus propias reglas. La versión corta: **Barcelona suele ser más estricta, más técnica y más lenta; Madrid, más flexible y más ágil, pero igual de seria en lo esencial.**
 
 | Requisito | Barcelona | Madrid |
 | --- | --- | --- |
@@ -83,18 +88,20 @@ Las dos ciudades siguen la normativa estatal, pero cada ayuntamiento añade sus 
 | Saturación de la zona | Alta: hay barrios cerrados a nuevas aperturas | Menor |
 | Plazos habituales | De 4 a 8 meses, o más | De 2 a 6 meses, según el distrito y la actividad |
 
-En **Barcelona**, la extracción de humos es donde más proyectos se atascan: si el local no tiene salida a la cubierta, toca una obra compleja o buscar otro local. En **Madrid**, muchas actividades pueden abrir con declaración responsable, pero si tu actividad es de impacto medio o alto necesitarás licencia completa, y en cualquier caso un proyecto firmado por un técnico.
+En **Barcelona**, la extracción de humos es donde más proyectos se atascan: si el local no tiene salida a la cubierta, toca una obra compleja o buscar otro local. Mejor saberlo antes de firmar. En **Madrid**, muchas actividades pueden abrir con declaración responsable, pero si tu actividad es clasificada necesitarás licencia completa y un proyecto firmado por un técnico.
+
+Con plazos así, el alquiler corre mientras esperas. Si puedes, pacta que empiece a contar cuando llegue la licencia.
 
 ### Lo que suele costar, de forma orientativa
 
-Por lo que vemos en los proyectos en los que trabajamos:
+Por lo que vemos en nuestros proyectos:
 
 - **Proyecto técnico:** entre 2.000 € y 8.000 €.
 - **Acústica e insonorización:** entre 3.000 € y 20.000 €.
 - **Extracción de humos:** entre 8.000 € y 30.000 €.
 - **Tasas municipales:** entre 600 € y 4.000 €.
 
-No es un gasto inesperado: forma parte de la inversión real de abrir un restaurante, y tiene que estar en tu presupuesto desde el primer día.
+Es parte de la inversión real de abrir un restaurante y tiene que estar en tu presupuesto desde el primer día. Los rangos son amplios porque cada local y cada ciudad son distintos.
 
 ## El orden que evita perder tiempo y dinero: qué mirar antes de firmar el contrato de alquiler
 
@@ -141,4 +148,4 @@ Nada de esta lista sustituye a una gestoría especializada en el trámite concre
 
 La licencia no es un papel que se pide al final: es una pregunta que hay que hacer antes de firmar el local. Comprueba la compatibilidad urbanística, cuenta con las reglas de tu ciudad (no es lo mismo Madrid que Barcelona) y valida la actividad antes de empezar la obra.
 
-Si tienes un local en el punto de mira y quieres saber si sirve para lo que quieres montar, [cuéntanoslo](https://www.thebarnbarconsulting.com/contacto/) antes de firmar y lo miramos juntos.
+Si tienes un local en el punto de mira y quieres saber si sirve para lo que quieres montar, [cuéntanoslo](https://www.thebarnbarconsulting.com/contacto/) antes de firmar y vemos qué hay que comprobar.

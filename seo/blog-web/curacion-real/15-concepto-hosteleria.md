@@ -1,6 +1,6 @@
 # Fusión 15 — Cómo crear un concepto de hostelería
 
-**Estado:** propuesta, pendiente de revisión. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-13). No publicado.
 **Hecho:** 2026-11-13, sobre el texto publicado hoy de las dos URLs (copias
 en `original/`).
 **Se queda (la URL):** `/descubre-el-arte-de-analizar-un-concepto-de-hosteleria-con-the-bar-n-bar-desde-la-inspiracion-hasta-la-ejecucion/`.
@@ -29,28 +29,34 @@ búsqueda que más vistas le trae ("creación de concepto de restaurante").
   mismos cuatro ejemplos. Se usa el texto nuevo, que está mejor escrito, en la
   URL antigua.
 - **Se mantienen** los apartados, los cuatro elementos, los cuatro ejemplos,
-  los cuatro pasos y el bloque "Cómo lo hacemos en The Bar N' Bar".
+  los cuatro pasos y el bloque de lo que hacemos nosotros.
 - **Fuera:**
   - "Un concepto es tu ADN", un cliché que ya se quitó en otros artículos;
   - el destacado "La gestoría no muere por falta de clientes, si no por falta
     de gestión", que no tiene que ver con el tema y tiene una errata;
   - los "✔" de los títulos;
   - el H1 duplicado del final ("Hagamos realidad tu idea").
-- **Enlaces externos:** se mantienen los de Noma, Fismuler y Tramo. **Se
-  quita el de Compá**, que llevaba a `compacalabrese.com`, una web que no
-  parece la del restaurante de Barcelona descrito.
+- **Enlaces externos:** se mantienen los de Noma, Fismuler, Tramo y Compá
+  (`compacalabrese.com`, confirmado el 2026-11-13).
 - **Enlaces internos nuevos:** los 5 tipos de negocio rentables, la guía para
   abrir un bar, diseñar la carta y BAR Method.
 - **Estructura del manual:** se añaden una conclusión y un CTA.
 
-## Pendiente de confirmar
+## Decisiones confirmadas (2026-11-13)
 
-- [ ] **Lo que decimos que hacemos** en "Cómo lo hacemos en The Bar N' Bar":
-  naming, narrativa y posicionamiento; el viaje del cliente; la carta
-  (ingeniería de menú, precios y temporada); formar al equipo en el concepto;
-  la operativa, y acompañar la evolución. Viene del texto publicado. ¿Es así?
-- [ ] **Compá (Barcelona):** ¿es el restaurante que queríamos citar? Si sí,
-  ¿cuál es su web? Si no, se quita el ejemplo.
+- **Lo que decimos que hacemos** (naming, narrativa y posicionamiento; el
+  viaje del cliente; la carta; formar al equipo en el concepto; la operativa,
+  y acompañar la evolución): **confirmado**.
+- **Compá (Barcelona):** se mantiene, con su web `https://compacalabrese.com/`.
+- **Revisión del director de redacción** (`revision-director-redaccion-3.md`)
+  aplicada: el H2 "Ejemplos que demuestran que el concepto lo es todo" pasa a
+  "Ejemplos de conceptos que funcionan" (contradecía al 02 y al 03); fuera el
+  eslogan "Bien hecho o no hecho"; menos "no es X, es Y" y "sin perder X";
+  el H2 de la perspectiva pasa a "Cómo lo trabajamos nosotros", como en el
+  resto del blog; se añade la cita real de Sergio (de `equipo-tbnb.md`, la
+  misma que está en `/bar-method/`).
+- **No se ha añadido el caso RASA** que propone el director: nombrar a un
+  cliente necesita su permiso. Si lo tenéis, se puede añadir después.
 
 ---
 
@@ -58,11 +64,9 @@ búsqueda que más vistas le trae ("creación de concepto de restaurante").
 
 # Cómo crear un concepto de hostelería: de la inspiración a la ejecución
 
-**Tu idea, tu estilo, tu negocio. Bien hecho o no hecho.**
-
 En hostelería, un concepto no es "qué platos vas a servir" ni "cómo quieres que se vea el local". Es la mirada que convierte una idea en un negocio, y un negocio en una experiencia. Y aquí viene la clave: un concepto no se diseña para gustar a todos, se diseña para que alguien no pueda olvidarlo.
 
-Te contamos qué es, de qué está hecho y cómo crear el tuyo paso a paso.
+Vamos a ver qué es, de qué está hecho y cómo crear el tuyo paso a paso.
 
 ## Qué es un concepto de hostelería
 
@@ -74,12 +78,12 @@ Un concepto bien construido:
 
 - **Define quién eres.** No solo tu marca visual, sino tu tono, tus decisiones, tu carta, tu música y cómo atiende tu equipo.
 - **Da forma a la experiencia completa.** Desde la reserva hasta la cuenta, todo tiene que contar la misma historia.
-- **Te diferencia en un mercado saturado.** Madrid, Barcelona o Valencia están llenas de sitios bonitos. Lo que falta es coherencia con alma.
+- **Te diferencia en un mercado saturado.** Madrid, Barcelona o Valencia están llenas de sitios bonitos. Lo que falta es coherencia.
 - **Te permite crecer sin perder identidad.** Un concepto sólido aguanta tendencias, cambios de equipo, nuevas líneas de negocio e incluso nuevos locales. Uno flojo se rompe al primer giro.
 
 ## Los elementos de un concepto ganador
 
-No es la decoración. No es la carta. No es el storytelling. Es lo que une todo eso.
+La decoración, la carta y la historia que cuentas son parte del concepto. Lo que lo hace concepto es lo que las une.
 
 ### 1. Identidad de marca
 
@@ -97,16 +101,16 @@ No "somos distintos porque sí", sino distintos porque hay un gesto, un ritual, 
 
 Un concepto no es rígido. Tiene que evolucionar sin perder su verdad: crecer sí, transformarse sí, diluirse no.
 
-## Ejemplos que demuestran que el concepto lo es todo
+## Ejemplos de conceptos que funcionan
 
 - **[Noma](https://noma.dk/) (Copenhague):** producto, técnica, entorno e historia trabajando como un solo cuerpo. Más que un restaurante, una declaración cultural.
 - **[Fismuler](https://www.fismuler.com/madrid/) (Madrid y Barcelona):** la naturalidad como identidad. Un concepto que hace que lo sencillo parezca inevitablemente auténtico.
 - **[Tramo](https://espaciotramo.com/) y MO de Movimiento (Madrid):** rituales, temporada, sostenibilidad y un punto de vista propio.
-- **Compá (Barcelona):** una forma de entender el Mediterráneo a través de la hospitalidad y la atención al detalle.
+- **[Compá](https://compacalabrese.com/) (Barcelona):** una forma de entender el Mediterráneo a través de la hospitalidad y la atención al detalle.
 
 No son "sitios de moda". Son conceptos completos.
 
-## Cómo crear tu concepto, paso a paso
+## Cómo crear el concepto de tu bar o restaurante, paso a paso
 
 ### 1. Investiga el mercado
 
@@ -116,7 +120,7 @@ No para copiar, sino para entender:
 - qué hueco no está cubierto;
 - cómo compra, cómo come y qué busca.
 
-Los mejores conceptos nacen de la observación, no de Pinterest. Si aún dudas del formato, mira qué tienen en común [los tipos de negocio de hostelería más rentables](https://www.thebarnbarconsulting.com/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024/).
+Los mejores conceptos nacen de la observación, no de Pinterest. ¿Dudas entre formatos? Mira qué tienen en común [los tipos de negocio de hostelería más rentables](https://www.thebarnbarconsulting.com/los-5-tipos-de-negocios-de-hosteleria-mas-rentables-en-2024/).
 
 ### 2. Define tu visión y tu misión (sin palabras vacías)
 
@@ -126,7 +130,7 @@ Tu visión es tu norte. Tu misión, cómo piensas llegar. Sin eso claro, cada de
 
 Un concepto funciona cuando:
 
-- tu carta lo respira (aquí te contamos [cómo diseñar la carta](https://www.thebarnbarconsulting.com/como-disenar-carta-restaurante/));
+- tu carta lo respira (lo vemos en [cómo diseñar la carta](https://www.thebarnbarconsulting.com/como-disenar-carta-restaurante/));
 - tu marca lo dice;
 - tu equipo lo ejecuta;
 - tu espacio lo sostiene;
@@ -138,21 +142,23 @@ Si falta una pieza, el cliente lo nota.
 
 No existe el concepto perfecto a la primera. Existe el concepto que se prueba, se mide y se afina.
 
-## Cómo lo hacemos en The Bar N' Bar
+## Cómo lo trabajamos nosotros
 
 Convertimos tu idea en un concepto con:
 
 - **Identidad clara:** nombre, historia, posicionamiento y personalidad.
-- **Experiencia coherente:** el recorrido completo del cliente, pensado al detalle.
+- **Experiencia coherente:** el recorrido completo del cliente, de la reserva a la cuenta.
 - **Una carta alineada:** producto, ingeniería de menú, precios y temporada.
 - **Un equipo formado en el concepto:** el concepto no vive en una presentación, vive en las personas que lo ejecutan.
 - **Una operativa que lo sostiene:** el local y la forma de trabajar tienen que reforzar el concepto, no sabotearlo.
-- **Evolución continua:** te acompañamos a ajustar, mejorar y crecer sin perder la esencia.
+- **Evolución continua:** te acompañamos a ajustar y mejorar mientras el negocio crece.
 
-Es la fase de diseño de nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/), que empieza siempre por comprobar que la idea y los números se sostienen.
+Como dice Sergio, nuestro socio fundador: *"Un buen concepto necesita un buen sistema. Sin eso, todo lo demás es improvisar con estilo."*
+
+Es la fase de diseño de nuestro [BAR Method](https://www.thebarnbarconsulting.com/bar-method/). Antes va el diagnóstico: comprobar que la idea y los números se sostienen.
 
 ## En resumen
 
-Un concepto bien construido no es un adorno: es la estructura que sostiene todo lo demás. Sabe a quién se dirige, se nota en cada detalle del local y evoluciona sin perder su esencia. Y cuando lo tengas, el siguiente paso es ponerlo en marcha: aquí tienes nuestra [guía completa para abrir un bar](https://www.thebarnbarconsulting.com/guia-completa-para-abrir-un-bar/).
+Un concepto bien construido no es un adorno: sostiene todo lo demás. Sabe a quién se dirige, se nota en cada detalle del local y se ajusta con el tiempo. Y cuando lo tengas, el siguiente paso es ponerlo en marcha: aquí tienes nuestra [guía completa para abrir un bar](https://www.thebarnbarconsulting.com/guia-completa-para-abrir-un-bar/).
 
-Si tienes una idea y quieres convertirla en un concepto que funcione, [cuéntanosla](https://www.thebarnbarconsulting.com/contacto/) y le damos forma juntos.
+Si tienes una idea y quieres convertirla en un concepto que funcione, [cuéntanosla](https://www.thebarnbarconsulting.com/contacto/) y te ayudamos a darle forma.

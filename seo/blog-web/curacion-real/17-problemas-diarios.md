@@ -1,6 +1,6 @@
 # Fusión 17 — Problemas diarios de un restaurante
 
-**Estado:** propuesta, pendiente de revisión. No publicado.
+**Estado:** listo para publicar (decisiones confirmadas el 2026-11-13). No publicado.
 **Hecho:** 2026-11-13, sobre el texto publicado hoy de las dos URLs (copias
 en `original/`).
 **Se queda:** `/problemas-diarios-de-un-restaurante/` (11 clics y 898 vistas al
@@ -51,17 +51,24 @@ sin abrir).
 |---|---|
 | 1. Introducción breve | Los dos primeros párrafos |
 | 2. Concepto principal | No es mala suerte: es falta de sistemas |
-| 3. Desarrollo | Los cuatro problemas · Qué hacer con cada uno |
+| 3. Desarrollo | Los cuatro problemas · Qué hacer para resolverlos |
 | 4. Perspectiva TBNB | Cómo lo trabajamos nosotros |
 | 5. Conclusión corta | En resumen |
-| 6. CTA suave | "Lo vemos juntos" |
+| 6. CTA suave | "Vemos por dónde empezar" |
 
-## Pendiente de confirmar
+## Decisiones confirmadas (2026-11-13)
 
-- [ ] **Lo que decimos que hacemos:** formación en el propio local, manuales y
-  protocolos a medida, ayuda con herramientas digitales (Trello, Google
-  Workspace, apps de inventario y escandallos), un plan operativo y seguimiento
-  después. Viene del texto publicado. ¿Es así?
+- **Lo que decimos que hacemos** (formación en el propio local, protocolos a
+  medida, ayuda con herramientas digitales, plan operativo y seguimiento):
+  **confirmado**.
+- **Revisión del director de redacción** (`revision-director-redaccion-3.md`)
+  aplicada: el H2 de las soluciones ya no promete "una por problema", menos
+  "no es X, es Y" y absolutos ("es imposible", "de raíz"), enlace al
+  escandallo, listas sin repeticiones, CTA propio y la cita real de Andrea
+  (de `equipo-tbnb.md`, la misma que está en `/bar-method/`).
+- **No se ha añadido el caso Lady Madrid** que propone el director: nombrar a
+  un cliente necesita su permiso, y sus cifras están bloqueadas. Si lo
+  tenéis, se puede añadir después.
 
 ---
 
@@ -69,13 +76,13 @@ sin abrir).
 
 # Problemas diarios de un restaurante
 
-Si cada semana luchas con los mismos errores, los mismos incendios y las mismas frustraciones, no es casualidad. No es el personal, no es la cocina y no es la mala suerte.
+Si cada semana luchas con los mismos errores, los mismos incendios y las mismas frustraciones, no es casualidad.
 
-Vemos muchos restaurantes con potencial, buena comida y buena idea, atrapados en un día a día caótico que les roba tiempo, dinero y energía. Te contamos cuáles son los problemas que más se repiten y cómo resolverlos de raíz.
+Vemos muchos restaurantes con potencial, buena comida y buena idea, atrapados en un día a día caótico que les roba tiempo, dinero y energía. Vamos a ver los problemas que más se repiten y cómo resolverlos.
 
 ## No es mala suerte: es falta de sistemas
 
-Un restaurante rara vez se hunde por un gran problema. Lo que lo desgasta son los pequeños problemas que se repiten cada día porque nadie ha decidido cómo se hacen las cosas. Cuando cada turno trabaja "a su manera", el resultado depende de quién esté ese día.
+Un restaurante no suele hundirse por un gran problema. Lo que lo desgasta son los pequeños problemas que se repiten cada día porque nadie ha decidido cómo se hacen las cosas. Cuando cada turno trabaja "a su manera", el resultado depende de quién esté ese día.
 
 La buena noticia es que casi todos tienen la misma solución: orden, procesos claros y un equipo que sabe qué se espera de él.
 
@@ -83,7 +90,7 @@ La buena noticia es que casi todos tienen la misma solución: orden, procesos cl
 
 ### 1. Los mismos errores, una y otra vez
 
-Dos personas preparan el mismo plato de dos formas distintas, cada turno trabaja a su manera, y la apertura y el cierre dependen de quién esté. No es mala suerte: es que faltan sistemas.
+Dos personas preparan el mismo plato de dos formas distintas y la apertura y el cierre dependen de quién esté.
 
 ### 2. Comunicación que se pierde por el camino
 
@@ -91,13 +98,15 @@ Dos personas preparan el mismo plato de dos formas distintas, cada turno trabaja
 
 ### 3. Improvisación constante
 
-Cuando no hay procesos, cada día es un experimento. El equipo se desgasta, tú te desgastas, y el cliente lo nota.
+Cuando no hay procesos, cada día es un experimento. El equipo se desgasta, tú te desgastas, y el cliente lo nota. Como dice Andrea, nuestra socia de operaciones: *"La hospitalidad no se improvisa. Se diseña, se entrena y se mantiene. Todos los días."*
 
 ### 4. Un equipo que no dura
 
-La gente no se va por el trabajo duro, sino por la falta de rumbo. Sin formación ni objetivos claros, es imposible que el equipo se quede. Te contamos cómo [reducir la rotación de personal](https://www.thebarnbarconsulting.com/como-reducir-la-rotacion-de-personal-en-tu-bar/) y qué [errores de plantilla](https://www.thebarnbarconsulting.com/errores-plantilla-personal-restaurante/) cuestan más dinero.
+Mucha gente no se va por el trabajo duro, sino por la falta de rumbo. Sin formación ni objetivos claros, cuesta que el equipo se quede. Aquí tienes cómo [reducir la rotación de personal](https://www.thebarnbarconsulting.com/como-reducir-la-rotacion-de-personal-en-tu-bar/) y qué [errores de plantilla](https://www.thebarnbarconsulting.com/errores-plantilla-personal-restaurante/) cuestan más dinero.
 
-## Qué hacer con cada uno
+## Qué hacer para resolverlos
+
+No hay una solución por problema: las cuatro se apoyan entre sí.
 
 ### 1. Forma al equipo en lo que de verdad importa
 
@@ -109,7 +118,7 @@ No un curso de "sonreír más", sino:
 - un protocolo para gestionar las quejas;
 - liderazgo para encargados y jefes de sala.
 
-Un equipo bien formado te ahorra más dinero del que crees.
+Un equipo bien formado se nota en la cuenta.
 
 ### 2. Pon por escrito cómo se hacen las cosas
 
@@ -117,32 +126,31 @@ Manuales que se usen, no documentos que nadie abre:
 
 - cómo se abre y cómo se cierra;
 - cómo es el servicio;
-- recetas estandarizadas;
+- recetas estándar;
 - cómo se mueve la cocina y el pase;
 - listas de comprobación diarias y semanales;
 - quién hace qué en cada turno.
 
-El resultado es que todo sale igual, incluso cuando tú no estás. Y si sirves comida, el [plan APPCC](https://www.thebarnbarconsulting.com/plan-appcc-hosteleria/) forma parte de esos procesos: tenerlo no basta, hay que usarlo.
+Lo que buscas: que todo salga igual, incluso cuando tú no estás. Y si sirves comida, el [plan APPCC](https://www.thebarnbarconsulting.com/plan-appcc-hosteleria/) forma parte de esos procesos: tenerlo no basta, hay que usarlo.
 
 ### 3. Apóyate en pocas herramientas digitales, pero bien elegidas
 
-No necesitas 20 aplicaciones, necesitas las correctas:
+Con pocas aplicaciones basta, si son las correctas:
 
 - Trello u otra herramienta para las tareas y su seguimiento;
 - Google Workspace para que la comunicación sea clara;
-- una app de inventario y escandallos;
+- una app de inventario y [escandallos](https://www.thebarnbarconsulting.com/escandallo-evitar-desperdicio-restaurante/);
 - un panel con tus números clave que puedas mirar desde el móvil.
 
 Lo que antes te llevaba horas, te puede llevar minutos.
 
 ### 4. Haz un plan operativo
 
-Tu restaurante no necesita más esfuerzo, necesita dirección. Un buen plan ordena:
+Más que esfuerzo, tu restaurante necesita dirección. Un buen plan ordena:
 
 - la operativa;
 - la gestión del equipo;
 - el control de costes;
-- cómo fluye el trabajo;
 - los objetivos de cada trimestre;
 - hacia dónde quieres crecer.
 
@@ -155,13 +163,12 @@ Lo hacemos contigo, no por encima de ti. Con nuestro [BAR Method](https://www.th
 - formamos al equipo en tu propio local;
 - creamos los protocolos para tu concepto, no plantillas genéricas;
 - te acompañamos paso a paso al poner en marcha las herramientas digitales;
-- hacemos seguimiento para que lo que cambia se mantenga;
-- y ajustamos lo que haga falta para que la mejora no se pierda.
+- y hacemos seguimiento, ajustando lo que haga falta para que lo que cambia se mantenga.
 
 No es venir un día y soltar consejos. Es acompañar desde dentro.
 
 ## En resumen
 
-Cuando un restaurante funciona con sistemas, hay menos errores, menos estrés, un equipo más estable, clientes más contentos y márgenes más sanos. Y tú pasas de apagar incendios a dirigir tu negocio.
+Cuando un restaurante funciona con sistemas, hay menos errores, menos estrés y un equipo más estable. Y tú pasas de apagar incendios a dirigir tu negocio.
 
-Si quieres recuperar el control de tu restaurante, [escríbenos](https://www.thebarnbarconsulting.com/contacto/) y lo vemos juntos.
+Si quieres que revisemos cómo se trabaja hoy en tu restaurante, [escríbenos](https://www.thebarnbarconsulting.com/contacto/) y vemos por dónde empezar.
