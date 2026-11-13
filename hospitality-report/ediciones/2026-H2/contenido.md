@@ -419,7 +419,7 @@ Por eso el sistema se construyó entero *antes* de abrir la puerta, no se ajust�
 ## 05. GUEST CULTURE
 *Entender al nuevo cliente antes de diseñar para él.*
 
-Casi cualquier informe internacional de 2026 repite la misma idea: el cliente sale menos, socializa en casa y se refugia en su burbuja. En España, los datos cuentan otra historia. El cliente español no ha dejado de salir. Lo que ha cambiado es por qué sale, a qué hora, qué bebe, cómo elige y qué castiga.
+El cliente español no ha dejado de salir. Lo que ha cambiado es por qué sale, a qué hora, qué bebe, cómo elige y qué castiga.
 
 **Se sale para desconectar, no por costumbre.** El 66% de los españoles sale a bares y restaurantes igual o más que hace un año, y entre los jóvenes la cifra sube al 76%. Casi la mitad, el 47%, sigue saliendo pese a la subida de precios porque lo necesita para desconectar [73]. Y mientras los grandes mercados europeos perdían visitas en 2025, España mantuvo las suyas, unas 7.200 millones al año [39].
 
@@ -455,7 +455,7 @@ Quien resuelve esto gana dos veces: recupera el ticket de la persona que ya no b
 
 **Real o artificial.** El estudio *Así come la Gen Z*, con 600 jóvenes de 17 a 30 años, resume a toda una generación en una sola pregunta: no si algo es moderno o clásico, sino si es real o artificial. La autenticidad es, según sus autores, el único activo capaz de diferenciar [108]. Y esa generación se divide en dos tribus que conviven. La que llaman *Newstalgia* busca descubrir y valora la estética (52,7%) y los platos que llaman la atención (48,4%). La que llaman *Back to Basics* busca cocina tradicional y locales de siempre, y para el 73% lo decisivo es una comida auténtica y sin adornos [108]. Las dos coinciden en algo más: para el 46%, comer sano es comer producto de calidad; solo el 3,8% lo asocia a contar calorías [108]. El resto de los españoles va en la misma dirección: el 45% valora el atractivo de la restauración local con personalidad propia, y el 68% quiere locales acogedores y tranquilos [73].
 
-**TBNB TAKE.** El cliente español de 2026 no es el que describen los informes anglosajones. No se encierra en casa: sale más de día, bebe menos, elige con lupa y castiga lo que huele a impostado. Diseñar para él significa cuatro cosas muy concretas: una oferta de día con identidad propia, la carta y los precios a la vista antes de que entre, una bebida sin alcohol tratada en serio y una autenticidad que aguante tanto la primera foto como la segunda visita. Lo que todavía no sabemos, y no vamos a fingir que sí, es si el ocio en casa crece en paralelo en España. Los datos dicen que aquí no se sale menos. No dicen que en casa no pase nada.
+**TBNB TAKE.** El cliente español de 2026 sale más de día, bebe menos, elige con lupa y castiga lo que huele a impostado. Diseñar para él significa cuatro cosas muy concretas: una oferta de día con identidad propia, la carta y los precios a la vista antes de que entre, una bebida sin alcohol tratada en serio y una autenticidad que aguante tanto la primera foto como la segunda visita.
 
 ---
 
