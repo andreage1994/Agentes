@@ -467,7 +467,17 @@ Quien resuelve esto gana dos veces: recupera el ticket de la persona que ya no b
 
 Compartir no es un formato de moda importado. Es la forma española de salir. Lo que sí ha cambiado es lo que se espera de cada plato: el 37% de los españoles ya opta por menús más reducidos cuando sale [73], y eso empuja a pedir más platos pequeños para el centro y menos principales individuales. El problema es que muchos restaurantes, más allá del bar de tapas clásico, siguen diseñando platos pensados para una persona y luego los sacan "al centro" sin haberlos adaptado: raciones que no se pueden dividir, piezas impares para una mesa de cuatro, platos que se desmontan al pasar de mano en mano.
 
-**TBNB TAKE.** El emplatado es logística de sistema, no solo estética. Diseñar para compartir significa pensar gramajes que se puedan repartir entre dos y cuatro personas, servir piezas en número par, elegir platos que aguanten viajar por la mesa y organizar la salida de cocina para la mesa entera, no plato a plato. Cada carta que no se ha diseñado pensando en cuántas personas se sientan a la mesa deja sobre ella, todos los días, fricción, ración desperdiciada y un servicio más lento, de forma invisible hasta que alguien se para a mirarlo.
+**TBNB TAKE.** Una carta no se diseña solo pensando en qué se va a comer. Se diseña pensando en cómo se va a comer. Y si cada vez más mesas comparten, esa pregunta pasa a estar en el centro del desarrollo de cada plato.
+
+La buena experiencia de consumo es la que no se nota. El cliente no debería tener que pensar cómo repartir una pieza entre cuatro, cómo servirse sin desmontar el plato o con qué cubierto atacar algo que llega entero al centro de la mesa. Cada vez que tiene que resolver un problema para comer, el plato pierde, por bueno que sea.
+
+Por eso, al desarrollar una carta, conviene hacerse tres preguntas antes de dar un plato por cerrado:
+
+- **¿La ración funciona para la mesa real?** Gramajes que se puedan repartir entre dos, tres o cuatro personas, piezas en número par y la opción de ampliar una ración cuando la mesa es grande.
+- **¿La presentación ayuda a compartir?** Platos que se puedan pasar de mano en mano sin desmontarse, producto ya cortado o fácil de dividir, el recipiente y el cubierto adecuados para servirse, y salsas o guarniciones que no obliguen a elegir quién se las queda.
+- **¿El ritmo de cocina acompaña a la mesa?** Una salida pensada para el grupo, no plato a plato, para que todos coman a la vez y la conversación no se rompa cada vez que llega algo nuevo.
+
+Cuando un plato está pensado así, comer es fácil y agradable, y la mesa habla de la comida, no de cómo comérsela. Cuando no lo está, aparece una fricción pequeña que nadie menciona pero que todo el mundo siente, y que se paga en raciones que sobran, en servicios más lentos y en clientes que no saben explicar por qué no volvieron.
 
 **DRINKS.**
 
