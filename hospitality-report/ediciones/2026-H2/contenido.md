@@ -344,7 +344,7 @@ Si The Big Picture cuenta qué espera hoy el cliente y The Shifts cómo se reorg
 
 **WHY IT WORKS.** El precio bajo no es una renuncia. Es el argumento de marca. Pompette vende vino natural bueno al precio de una cerveza, con margen de tienda y no de restaurante: pocas referencias abiertas, poca merma, poco personal.
 
-**THE IDEA BEHIND IT.** El journey se diseñó en tres pasos deliberados. Pompette capta al cliente con precio bajo. Villette — ladrillo visto en un edificio que fue instituto y parque de bomberos, techos altos, farolillos de papel, luz rosada — lo retiene y le sube el ticket (principal por debajo de 150 DKK) con la confianza que Pompette ya ganó.
+**THE IDEA BEHIND IT.** El journey se diseñó en tres pasos deliberados. Pompette capta al cliente con precio bajo. Villette — ladrillo visto en un edificio que fue instituto y parque de bomberos, techos altos, farolillos de papel, luz rosada — lo retiene y le sube el ticket (principales por debajo de unos 20 €) con la confianza que Pompette ya ganó.
 
 **WHAT WE CAN LEARN.** El grupo reparte los momentos del día entre tres marcas. El caso siguiente, Rascal, resuelve lo mismo dentro de un único local. Y conecta con el Shift 2: aquí el ticket bajo y la rotación son la palanca de margen, no la carta de autor.
 
@@ -481,7 +481,7 @@ Cuando un plato está pensado así, comer es fácil y agradable, y la mesa habla
 
 **DRINKS.**
 
-En Sonny (Copenhague), un matcha ceremonial cuesta entre 85 y 95 coronas danesas. Un espresso, en el mismo mostrador, cuesta 40. La carta de bebida es más larga que la de platos: colágeno, lion's mane, espirulina y electrolitos repartidos entre zumos, kombuchas y golden lattes, cada ingrediente con el proveedor nombrado en el menú, como una firma compartida [32].
+En Sonny (Copenhague), un matcha ceremonial cuesta entre 11,50 y 12,50 € aproximadamente. Un espresso, en el mismo mostrador, unos 5,50 €. La carta de bebida es más larga que la de platos: colágeno, lion's mane, espirulina y electrolitos repartidos entre zumos, kombuchas y golden lattes, cada ingrediente con el proveedor nombrado en el menú, como una firma compartida [32].
 
 A 95€, Mont Bar (Barcelona) vende un maridaje de diez bebidas sin una gota de alcohol [30]. En Berlín, dentro del Funkhaus — el antiguo edificio de la radio estatal de la RDA —, Circadian sirve gyokuro con dieciocho horas de extracción en frío, en una mesa compartida con un lado para quien sirve y otro para quien recibe: no lo llaman ceremonia, lo llaman ritual [34]. Tres ciudades, tres formatos, la misma tensión resuelta de tres formas distintas: cómo cobrar más por lo que el cliente ya no bebe.
 
