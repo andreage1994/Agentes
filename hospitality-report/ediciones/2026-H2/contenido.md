@@ -497,12 +497,6 @@ El chocolate está recorriendo el mismo camino que el café hace diez años. En 
 
 **TBNB TAKE.** El pequeño lujo es uno de los mejores negocios que tiene hoy la hostelería: ticket bajo, margen alto y un cliente que se va con la sensación de haberse dado un capricho. Para un bar o un restaurante, la oportunidad está sobre todo en el final: un café de filtro bien explicado, un cacao de origen, una pieza de chocolate con el café o un digestivo sin alcohol de elaboración propia. Son pedidos que el cliente hace sin pensarlo mucho y que suben el ticket sin pedirle un gasto grande. La condición es que la calidad sea real y que haya algo que contar detrás, el origen, el productor o la forma de hacerlo. Un capricho que solo es más caro, pero no mejor, se paga una vez.
 
-
-**Clasificado, sin mezclar ruido con tendencia:**
-- **TREND** — vuelta a la hamburguesa gruesa y jugosa, y al steakhouse "reimaginado", ligados a la cultura de proteína/GLP-1 y a la nostalgia [23].
-- **TREND** — la fibra como próximo macronutriente estrella, también impulsada por la cultura GLP-1 [23].
-- **A vigilar como posible NOISE** — el "punto dulce" visual de la carta y la psicología del color: muy repetido por consultores de menú, pero los estudios reales de eye-tracking son menos concluyentes de lo que el gremio sugiere.
-
 ---
 
 ## 07. BUSINESS OF HOSPITALITY
