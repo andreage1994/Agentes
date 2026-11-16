@@ -1,226 +1,170 @@
-# Plan de marketing de TBNB — próximos 3 meses
+# Plan de marketing de TBNB — versión simple
 
 **Para Andrea y Sergio. Noviembre 2026 – febrero 2027.**
+**Versión 3 (16-11-2026).** Sustituye a las versiones anteriores de este
+plan y une en un solo sitio el plan de networking de Barcelona
+(`TBNB_Estrategia_Networking_Barcelona_v3`).
 
-Escrito para leerse en 10 minutos, sin saber de marketing. Las palabras
-técnicas, cuando no hay más remedio, van explicadas entre paréntesis.
-
----
-
-## 1. Qué está pasando
-
-- **Hacemos muchas cosas a la vez** (Instagram, LinkedIn, blog, web,
-  anuncios, informe, emails…) y **solo somos dos, con unas 5 horas a la
-  semana cada uno.** No da para todo.
-- **Los últimos clientes que nos han escrito nos encontraron solos:** uno
-  porque se lo recomendó una inteligencia artificial (tipo ChatGPT) y
-  otro porque nos encontró en Google.
-- **Nadie nos ha escrito por Instagram, LinkedIn ni por emails.**
-- **Pagamos unos 600 € al mes en anuncios de Google** y en el último mes
-  solo 2 personas pulsaron el botón de WhatsApp. Ninguna se ha
-  convertido en cliente que sepamos.
-- **Tenemos trabajo hecho que nunca ha salido:** 7 cartas a bares
-  ("Notas desde la Barra") escritas y sin enviar, y 2 páginas nuevas de
-  la web sin publicar.
-
-**Conclusión:** lo que funciona es que **nos encuentren cuando buscan
-ayuda.** Ahí vamos a poner casi todo el esfuerzo.
+**Este es el único plan de marketing.** Si algo no está aquí, no se hace
+hasta la revisión de febrero.
 
 ---
 
-## 2. Hacia dónde vamos (una sola idea)
+## 1. Lo que sabemos
 
-> **Cuando el dueño de un bar busque en Google o pregunte a una IA cómo
-> mejorar su negocio, tiene que salir TBNB. Y cuando entre en nuestra
-> web, tiene que ver fácil cómo escribirnos.**
+- **Somos dos, con 10 horas a la semana entre los dos.**
+- **Los 2 últimos clientes que nos escribieron nos encontraron solos:**
+  uno por una IA (tipo ChatGPT) y otro por Google.
+- **Nadie nos ha escrito por Instagram, LinkedIn ni por las cartas a
+  bares.**
+- En consultoría, el resto de clientes suelen llegar **por conocer a
+  alguien en persona** o **porque alguien nos recomienda.**
 
-Todo lo que hagamos estos 3 meses tiene que ayudar a eso.
-**Si algo no ayuda, no se hace ahora.**
-
-La **web** es lo más importante, porque es lo que leen Google y las IA, y
-es donde el cliente nos escribe.
-
----
-
-## 3. Cómo lo hacemos: un tema al mes
-
-En vez de pensar qué publicar en cada sitio por separado, **cada mes
-elegimos un solo tema** y lo usamos en todas partes:
-
-1. **Un artículo en la web** sobre ese tema (Claude prepara el borrador,
-   nosotros lo revisamos y añadimos nuestra experiencia).
-2. **4 publicaciones en LinkedIn** sacadas de ese artículo: 2 de Andrea y
-   2 de Sergio, desde vuestros perfiles personales.
-3. **1 publicación en la ficha de Google** (la que sale en Google Maps)
-   enlazando al artículo.
-
-**Se escribe una vez y se usa en tres sitios.** Así todo cuenta lo mismo
-y no tenemos que inventar contenido nuevo para cada red.
-
-**Temas propuestos** (los podéis cambiar):
-- **Diciembre:** cómo hacer que tu carta dé dinero.
-- **Enero:** abrir o renovar un local sin improvisar.
-- **Febrero:** presentación del Hospitality Report.
+Así que solo hay **3 cosas que nos traen clientes**. Todo el plan se
+reduce a ellas.
 
 ---
 
-## 4. Qué hace cada uno cada semana
+## 2. Las 3 únicas cosas que hacemos
 
-### Los dos juntos — lunes, 1 hora
-Revisáis y aprobáis **todo lo de la semana de una vez** (artículo,
-publicaciones, cartas a bares). Lo que no se aprueba el lunes, espera al
-lunes siguiente. Así dejáis de ir aprobando cosas sueltas cada día.
+### 1. Que nos encuentren — Sergio, 2 h/semana
+Cuando alguien busca ayuda en Google o en una IA, que salga TBNB y que
+le sea fácil escribirnos.
 
-### Andrea — 4 horas más
-- **1,5 h:** revisar el artículo del mes y añadirle experiencia real.
-- **1,5 h:** hablar con bares y clientes (cartas a bares, pedir
-  recomendaciones a clientes, responder a quien escriba).
-- **1 h:** LinkedIn: tu publicación de la semana y 10 minutos al día
-  comentando a otros del sector.
+- Poner el botón **"Agendar cita"** en la web.
+- **Publicar las 2 páginas nuevas** (Marketing y Consultoría) que ya
+  están escritas.
+- **Pedir una reseña en Google** a cada cliente actual y a cada cliente
+  que termine un proyecto.
+- Pasar a Angel (el informático de la web) un único encargo con los
+  ajustes que ayudan a Google y a las IA a entender la web.
+- **Después, no se toca más la web** hasta febrero.
 
-### Sergio — 4 horas más
-- **1,5 h:** la web: hablar con Angel (el informático de la web), publicar
-  páginas, que todo esté bien.
-- **1 h:** LinkedIn: tu publicación de la semana y comentar.
-- **1 h:** anuncios de Google (hablar con quien los gestiona), ficha de
-  Google y apuntar los contactos nuevos.
-- **30 min al mes:** la prueba de las IA (punto 6).
+### 2. Que nos conozcan en persona en Barcelona — Andrea, 3 h/semana
+Lo que más confianza genera: que el dueño nos ponga cara.
 
----
+- **Visitar 2 locales a la semana** (cafeterías y restaurantes elegidos),
+  tal como explica el plan de networking.
+- **Escribir a 1 persona que recomienda a la semana** (alguien que habla
+  cada día con dueños): agencias de traspasos, distribuidores de bebida,
+  interioristas.
+- **Solo 2 instituciones:** Gremi de Restauració y CETT. Un email a cada
+  una, nada más hasta que respondan.
+- **Después de cada visita o café:** conectar con esa persona en LinkedIn.
 
-## 5. Qué hacemos y qué dejamos
+### 3. El Hospitality Report como excusa para escribir — los dos, hasta lanzarlo
+El Report no es para "salir en redes". **Es un motivo para escribir a
+gente y abrir conversaciones.**
 
-### ✅ Hacemos
-- **Web:** que sea clara y que sea fácil escribirnos. No hace falta que
-  sea perfecta.
-- **Salir en Google y en las IA** (ver punto 6).
-- **Un artículo al mes** (el tema del mes).
-- **LinkedIn** desde vuestros perfiles, repitiendo el tema del mes.
-- **Enviar las 7 cartas a bares** que ya están escritas.
-- **Pedir a nuestros 4 clientes** una reseña en Google y si conocen a
-  alguien a quien podamos ayudar.
-- **Hospitality Report en febrero.** Se podrá descargar gratis dejando el
-  email: así conseguiremos los primeros contactos para enviar emails más
-  adelante.
+- **Lanzarlo la primera semana de diciembre**, con un diseño sencillo.
+  Mejor publicado en diciembre que perfecto en marzo.
+- **Enviarlo uno a uno**, con un mensaje personal, a todos los que
+  hayamos conocido (locales, recomendadores, Gremi, CETT, clientes).
+- **Proponerlo a 2 podcasts** (no a 4): Entre Hosteleros y Entre
+  Fogones (Makro).
+- **De enero a febrero:** sacar de él las publicaciones de LinkedIn.
 
-### 🟡 Lo mínimo
-- **Ficha de Google (Google Maps):** una publicación cada 2 semanas.
-- **Instagram:** solo si sobra tiempo, reutilizando el tema del mes. Hoy
-  no nos trae clientes.
-- **Cartas a bares nuevos:** después de enviar las 7, solo 2 o 3 al mes.
-
-### ⏸️ Ahora no
-- **Emails a una lista (newsletter):** no tenemos a quién enviarlos
-  todavía. Empezamos cuando el Report nos dé los primeros contactos.
-- **Anuncios en LinkedIn:** caros y todavía no hay nada a donde llevar a
-  la gente. Lo pensamos después del Report.
-- **Webinars (charlas online):** mucho trabajo y aún no hay público. Como
-  mucho, uno para presentar el Report.
-- **Rehacer la web entera.**
+### LinkedIn — 1 h/semana cada uno
+- **1 publicación a la semana entre los dos** (una semana Andrea, otra
+  Sergio), sacada del Report o de lo que veis en las visitas.
+- El resto del tiempo, **responder y escribir a gente concreta**, no
+  publicar más.
 
 ---
 
-## 6. Cómo salir en Google y en las IA
+## 3. Lo que dejamos de hacer (y por qué)
 
-Las IA como ChatGPT recomiendan a quien **explica muy claro en su web qué
-hace** y a quien **otros mencionan** (reseñas, listados, prensa). Por eso:
+| Dejamos | Por qué |
+|---|---|
+| **Instagram** | No nos ha traído ningún cliente. El perfil se queda como está, sin publicar. |
+| **Artículos nuevos del blog** | Ya hay 7. Corregirlos y escribir más se ha comido mucho tiempo, y Google tarda meses en notarlo. Se retoma en febrero si hay tiempo. |
+| **Publicaciones en la ficha de Google** | Lo que importa ahí son las **reseñas**, no las publicaciones. |
+| **Investigar bares nuevos para escribirles cartas** | 7 cartas escritas y ninguna enviada: el sistema es demasiado lento. **Se envían esta semana las 7 y se para.** Las visitas en persona hacen lo mismo, mejor. |
+| **Newsletter** | No tenemos a quién enviarla. |
+| **Webinars, anuncios en LinkedIn** | Mucho tiempo o dinero, y todavía no hay público. |
+| **Eventos propios** (Cuentas Claras, Lunes de Barra, Trend Walk, Bar Talks) | Buena idea **cuando tengamos una red**. Hoy no. Se habla en febrero. |
+| **Ferias** | Como mucho **una** por trimestre, con lista de 3–5 personas a conocer. El Gastronomic Forum ya pasó; la siguiente opción es la Barcelona Wine Week (febrero), solo si encaja. |
+| **Más instituciones** (Culinary Hub, Barcelona Activa, AEDH…) | Primero ver qué pasa con Gremi y CETT. |
+| **Más planes, paneles y documentos de estrategia** | Incluidos los que os he preparado yo. Ya tenemos suficiente plan: lo que falta es hacerlo. |
 
-1. **Preguntar a los 2 clientes que nos encontraron solos** qué
-   escribieron exactamente en Google o en la IA. Es lo más útil que
-   podemos saber ahora mismo.
-2. **Que la web responda a lo que pregunta un dueño:** qué hacemos, para
-   quién, en qué ciudades, cómo trabajamos, ejemplos de clientes y
-   preguntas frecuentes. Las 2 páginas nuevas ya van en esa línea:
-   publicarlas.
-3. **Pedir a Angel unos ajustes técnicos** que ayudan a Google y a las IA
-   a entender la web, y revisar que nombre, descripción y ciudades sean
-   iguales en la web, la ficha de Google y LinkedIn. (Le pasamos el
-   encargo escrito.)
-4. **Que otros hablen de nosotros:** reseñas de clientes en Google,
-   aparecer en listados de consultoras de hostelería, y que algún medio
-   del sector hable del Report.
-5. **Prueba de las IA, una vez al mes (Sergio, 30 min):** hacer siempre las
-   mismas 5 preguntas en ChatGPT, Gemini y Perplexity (por ejemplo,
-   *"consultoría para restaurantes en Madrid"*) y apuntar si salimos.
+### Anuncios de Google: decisión con fecha
+Pagamos ~600 € al mes y en el último mes solo 2 personas pulsaron
+WhatsApp. **Tras poner el botón "Agendar cita", 2 meses más de prueba.**
+Si a mediados de enero no han salido al menos 2–3 reuniones al mes,
+**se paran** y ese dinero se usa en otra cosa.
 
 ---
 
-## 7. Anuncios de Google: probar 2 meses más y decidir
+## 4. Vuestra semana
 
-Hoy pagamos 600 € al mes y casi no llega nadie. Antes de seguir:
+| Cuándo | Andrea | Sergio |
+|---|---|---|
+| **Lunes, 30 min juntos** | Aprobar todo lo de la semana de una vez | Ídem |
+| **Lunes** | Elegir los 2 locales a visitar | — |
+| **Martes o miércoles** | Visitar 2 locales (1,5 h) | Web, Angel o reseñas (1 h) |
+| **Jueves** | Escribir a 1 recomendador (30 min) | Web, Angel o reseñas (1 h) |
+| **Cuando toque** | LinkedIn: publicación (si es tu semana) y responder (1 h) | LinkedIn: ídem (1 h) |
+| **Viernes, 15 min** | Apuntar en Odoo con quién hemos hablado | Apuntar los contactos que llegan por la web |
 
-1. **Poner un botón "Agendar cita"** bien visible en la web.
-2. **Pedir a quien gestiona los anuncios** que lleve a la gente a una
-   página pensada para ellos (no a la portada), y que revise Barcelona,
-   que gasta lo mismo que Madrid y no ha traído a nadie.
-3. **Esperar 2 meses.** Si no salen al menos 2 o 3 reuniones al mes,
-   **se paran los anuncios** y ese dinero va al lanzamiento del Report.
+**Unas 5 horas cada uno.** Si una semana no da, lo primero que se quita
+es LinkedIn. **Lo último, las visitas y responder a quien escribe.**
 
 ---
 
-## 8. Calendario
+## 5. Calendario
 
-### Próximas 2 semanas: sacar lo que ya está hecho
-- [ ] Preguntar a los 2 clientes recientes cómo nos encontraron — Andrea
-- [ ] Revisar y enviar las 7 cartas a bares — Andrea y Sergio
-- [ ] Botón "Agendar cita" en la web — Sergio (con Angel)
-- [ ] Publicar las 2 páginas nuevas de la web — Andrea y Sergio
-- [ ] Empezar a apuntar cada contacto nuevo y cómo nos conoció — Sergio
-- [ ] Primera prueba de las IA — Sergio
-- [ ] Elegir los temas de diciembre, enero y febrero — los dos
+### Esta semana y la siguiente (hasta el 28 de noviembre)
+- [ ] Revisar y enviar las 7 cartas a bares ya escritas — los dos
+- [ ] Botón "Agendar cita" + publicar las 2 páginas nuevas — Sergio
+- [ ] Preguntar a los 2 últimos clientes qué buscaron exactamente en
+  Google o en la IA — Andrea
+- [ ] Email a Gremi y a CETT — Andrea
+- [ ] Cerrar el Report para lanzarlo — los dos
 
-### Diciembre: arrancar
-- [ ] Tema del mes: artículo + LinkedIn + ficha de Google
-- [ ] Pedir reseña y recomendación a los 4 clientes — Andrea
-- [ ] Encargo técnico a Angel (punto 6) — Sergio
-- [ ] Hablar con quien gestiona los anuncios (punto 7) — Sergio
+### Diciembre
+- [ ] **Lanzar el Report** (primera semana) y enviarlo uno a uno
+- [ ] Proponerlo a 2 podcasts — Andrea
+- [ ] Pedir reseña en Google a los 4 clientes actuales — Andrea
+- [ ] Visitas y recomendadores, cada semana
 
-### Enero: repetir y preparar el Report
-- [ ] Tema del mes (igual que diciembre)
-- [ ] Diseño del Report y página de descarga (encargo a un freelance) — Sergio
-- [ ] Darnos de alta en 3–5 listados de consultoras de hostelería — Sergio
-- [ ] Decidir si seguimos con los anuncios de Google
+### Enero
+- [ ] Publicaciones de LinkedIn a partir del Report
+- [ ] Visitas y recomendadores, cada semana
+- [ ] **Decidir si seguimos con los anuncios de Google** (mediados de enero)
 
-### Febrero: lanzar y revisar
-- [ ] Lanzar el Report: LinkedIn, envío personal a contactos y a 10
-  medios del sector
+### Febrero
 - [ ] **Reunión de revisión (mediados de febrero):** lo que ha traído
-  contactos se refuerza; lo que no, se deja.
+  conversaciones se queda; lo que no, se deja. Aquí se decide si
+  volvemos al blog, a Instagram o a algún evento propio.
 
 ---
 
-## 9. Cómo sabremos si funciona
+## 6. Cómo sabremos si funciona
 
-Solo miramos **3 cosas**, una vez al mes:
+Una vez al mes, **3 números**, apuntados en Odoo:
 
-1. **Cuánta gente nos ha escrito** y **cómo nos conoció** (Google, IA,
-   anuncios, LinkedIn, recomendación…).
-2. **Cuántas reuniones y presupuestos** hemos tenido.
-3. **Cuántos clientes nuevos.**
+1. **¿Con cuántos dueños hemos hablado?** (en persona o porque nos
+   escribieron) y **cómo nos conocieron**.
+2. **¿Cuántas reuniones y presupuestos** hemos tenido?
+3. **¿Cuántos clientes nuevos?**
 
-Y la prueba de las IA: ¿salimos o no?
-
-Los "me gusta", seguidores y visitas no deciden nada.
-
----
-
-## 10. Antes de empezar algo nuevo
-
-Cuando surja una idea nueva (como los webinars), tres preguntas:
-
-1. **¿Ayuda a que un dueño de bar nos encuentre o nos escriba en los
-   próximos 3 meses?**
-2. **¿Cuántas horas nos cuesta de verdad?** (tenemos 10 a la semana entre
-   los dos)
-3. **¿Qué dejamos de hacer para hacerla?**
-
-Si no hay buena respuesta a las tres, **se apunta y se habla en la
-revisión de febrero.**
+Referencia orientativa al mes: **8 visitas, 4 conversaciones de verdad
+con dueños, 1–2 reuniones.**
 
 ---
 
-*Datos de partida (dados por Andrea, 13-11-2026): equipo fijo Andrea y
-Sergio, ~5 h/semana cada uno; Laura y Ava son freelance puntuales; los 2
-últimos contactos llegaron por una IA y por Google; 0 contactos para
-emails. Anuncios de Google: informe del 19-09 al 18-10-2026
-(`marketing-tbnb-sem-google-ads.md`).*
+## 7. Cuando se os ocurra una idea nueva
+
+Se apunta al final de este documento y **no se hace hasta febrero**,
+salvo que responda "sí" a las tres:
+
+1. ¿Nos acerca a hablar con un dueño de bar **este mes**?
+2. ¿Cabe en nuestras 10 horas **sin quitar las visitas**?
+3. ¿Sabemos qué dejamos de hacer para hacerla?
+
+### Ideas apuntadas para febrero
+- Webinars
+- Anuncios en LinkedIn
+- Eventos propios (Cuentas Claras, Lunes de Barra, Trend Walk, Bar Talks)
+- Volver al blog e Instagram
+- Newsletter
