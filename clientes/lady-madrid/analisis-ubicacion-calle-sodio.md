@@ -57,18 +57,34 @@ a residencial de obra nueva).
   cubiertos/día × ticket medio), reutilizando la estructura de ramp-up ya
   construida para Casa Clementina sobre este mismo local.
 
+## Resuelto en una segunda ronda (2026-11-17)
+
+- **Demografía/renta de barrio** — conseguida a nivel de barrio (Palos de
+  la Frontera): renta per cápita 21.157€ (2023, ~8% sobre la media de
+  Madrid), renta media por hogar 42.254€ (2022), población ~26.000 hab.
+  (2025), tasa de paro del distrito Arganzuela 5,1% (2025). **Fuente: un
+  agregador que cita el panel oficial de indicadores de distritos y
+  barrios del Ayuntamiento de Madrid — no se ha podido verificar
+  directamente contra el PDF oficial** (varios intentos de descarga
+  directa en datos.madrid.es dieron error 404 esta sesión y la anterior).
+  Viability score de "Ubicación" subido de 4/5 a 5/5 con esta información.
+- **Visibilidad del local** — confirmada por Sergio: local en esquina, con
+  terraza y ventanales. Viability score de "Visibilidad" puesto en 5/5.
+- **Coste de adecuación/branding** — Sergio confirma que la cifra no está
+  en sus manos ("la desconozco, ni está en mis manos"). Se deja
+  redactado en el informe como la prioridad inicial a ejecutar para
+  adaptar el espacio a la identidad de marca de Lady Madrid, en vez de
+  como una pregunta pendiente de respuesta — no es un hueco de
+  información, es una decisión de negocio todavía no tomada.
+
 ## Pendiente / huecos de información reales
 
-- **Demografía/renta oficial de barrio** — no verificada a nivel de barrio
-  en esta sesión (las fuentes oficiales de datos.madrid.es dieron error
-  404 al intentar descargarlas). Solo contexto de ciudad (PIB per cápita
-  Madrid capital).
-- **Visibilidad del local** — pendiente de confirmar con visita in situ o
-  fotos de la calle concreta.
-- **Coste de adecuación/branding** — sin cifra concreta todavía (Sergio
-  confirma que es mínimo, pero no se ha dado un presupuesto).
-- **Viability score** — puntuado 1-5 por criterio para el único local
-  evaluado; "Visibilidad" queda sin puntuar hasta la visita in situ.
+- **Coste de adecuación/branding** — sigue sin cifra concreta (ver
+  arriba: es la prioridad inicial a decidir, no un dato que falte por
+  buscar).
+- **Verificación oficial de la cifra de renta/demografía** — el dato de
+  barrio se ha podido conseguir, pero solo vía un agregador que cita al
+  Ayuntamiento, no contra la fuente primaria directamente.
 
 ## Fuentes usadas
 
@@ -80,5 +96,25 @@ a residencial de obra nueva).
 - Búsqueda web (WebSearch/WebFetch) para barrio, conectividad y
   competidores — fuentes citadas inline en el propio Sheet donde aplica.
 - Datos dados directamente por Sergio: competidores reales (Bite Me, Dot,
-  Amazonia Asahi/Açaí, Un Mar), resolución del subarriendo, y
-  confirmación de que el aforo es mayor que los locales actuales.
+  Amazonia Asahi/Açaí, Un Mar), resolución del subarriendo, confirmación
+  de que el aforo es mayor que los locales actuales, visibilidad del
+  local (esquina, terraza, ventanales), y que la cifra de inversión en
+  adecuación no está en sus manos.
+- Renta/demografía de barrio (21.157€ per cápita 2023, 42.254€ renta de
+  hogar 2022): agregador doorline.ai, que cita como fuente el panel de
+  indicadores de distritos y barrios del Ayuntamiento de Madrid —
+  intentos directos de descargar el PDF oficial en datos.madrid.es
+  dieron error 404 en dos sesiones distintas.
+
+## Entregable
+
+- `clientes/lady-madrid/entregables/LADY_MADRID_LOCATION_VALIDATION_REPORT_X_TBNB.pptx`
+  — Location Validation Report, 11 slides, construido sobre la plantilla
+  que subió Sergio con todo el contenido de este Sheet. También existe
+  una copia en su Google Drive
+  (`https://drive.google.com/file/d/1uT72-fFQUpwfi4-hSTxT8nNSDY5xTVsC`,
+  un .pptx subido, no una Google Slides nativa) — esa copia **no se ha
+  podido editar directamente** porque esta sesión no tiene el conector de
+  Google Slides habilitado (solo Drive y Sheets). Hay que reemplazarla a
+  mano (Drive → "Gestionar versiones" → subir la versión nueva del
+  archivo del repo) para que el enlace que ya tiene Sergio se actualice.

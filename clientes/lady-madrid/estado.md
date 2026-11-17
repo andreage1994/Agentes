@@ -796,3 +796,40 @@ por confirmada en el deck; si ese cambio no lo hizo Sergio, revisarlo.
    modalidad b) antes de dar el documento por definitivo.
 4. Aprobación final antes de que esto salga de TBNB — no se ha enviado a
    nadie fuera del equipo.
+
+## 2026-11-17 — Segunda ronda: demografía real, visibilidad y adecuación
+
+Sergio pidió reintentar la investigación de demografía del barrio y
+aclaró dos puntos, que se incorporaron al Sheet y al deck:
+
+- **Demografía/renta de barrio, conseguida:** Palos de la Frontera —
+  renta per cápita 21.157€ (2023, ~8% sobre la media de Madrid), renta
+  media por hogar 42.254€ (2022), ~26.000 hab. (2025). **Fuente: un
+  agregador que cita el panel oficial del Ayuntamiento de Madrid — no
+  verificado contra el PDF oficial directamente** (404 reiterado en
+  datos.madrid.es). Viability score de Ubicación sube de 4/5 a 5/5.
+- **Visibilidad:** Sergio confirma que el cambio a "SI" en el Sheet lo
+  hizo él — es un local en esquina, con terraza y ventanales, muy buena
+  visibilidad. Viability score de Visibilidad puesto en 5/5.
+- **Coste de adecuación:** Sergio aclara que la cifra "la desconozco, ni
+  está en mis manos", pero pide dejar constancia en el informe de que
+  eso es lo que se debe priorizar inicialmente para adaptar el espacio a
+  la identidad de marca de Lady Madrid — se reformuló en el deck y el
+  Sheet como prioridad de negocio, no como pregunta pendiente de
+  respuesta.
+
+Actualizado el Sheet (pestañas 2, 5, 6 y 7) y el deck
+`clientes/lady-madrid/entregables/LADY_MADRID_LOCATION_VALIDATION_REPORT_X_TBNB.pptx`
+(slides 3, 4, 7, 9, 10 y 11; Next steps queda en 3 puntos tras quitar el
+de demografía, ya resuelto).
+
+Sergio pidió también aplicar los cambios directamente sobre su copia en
+Google Drive
+(`https://drive.google.com/file/d/1uT72-fFQUpwfi4-hSTxT8nNSDY5xTVsC`).
+**No ha sido posible**: es un .pptx subido a Drive (no una Google Slides
+nativa), y esta sesión solo tiene habilitados los conectores de Google
+Drive y Google Sheets — sin el conector de Google Slides no hay forma de
+escribir contenido en un archivo de Drive ya existente. Pendiente: que
+alguien reemplace esa copia a mano (Drive → Gestionar versiones → subir
+el archivo actualizado del repo) o que se habilite el conector de Google
+Slides en el chat para poder hacerlo directamente la próxima vez.
