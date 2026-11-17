@@ -1,10 +1,15 @@
 # Instagram TBNB — Diciembre 2026
 ## Redacción completa · versión de trabajo para aprobación
 
-**Estado:** borrador editorial, en desarrollo. Fechas todavía sin asignar —
-pendiente de que `director-marketing` cierre el calendario con fechas
-exactas y de reels por añadir. Ninguna pieza está aprobada para publicar
-hasta la revisión expresa de Andrea o Sergio.
+**Estado:** borrador editorial, en desarrollo. Fechas provisionales (cada
+3-4 días) — pendiente de que `director-marketing` cierre el calendario con
+fechas exactas y de reels por añadir. Ninguna pieza está aprobada para
+publicar hasta la revisión expresa de Andrea o Sergio.
+
+**Mismo contenido subido también a la hoja de cálculo maestra**
+([SMM TBNB x MOON · Calendario 2026](https://docs.google.com/spreadsheets/d/1hOBms5p3sBYOZ84_k88DfdrNHT-xZ-wDsx05j_ZRPxc/edit#gid=1529609756),
+pestaña DICIEMBRE, filas 4-11) — mantener ambos en sync si se edita
+cualquiera de los dos.
 
 **Criterio de redacción:** carruseles editoriales con una idea por slide;
 tono cercano, insider y profesional, sin sonar a consultora promocional ni
@@ -13,7 +18,10 @@ el caption pasa a ser de una sola línea (la frase de cierre del carrusel,
 no un desarrollo en varios párrafos) — cada publicación lleva el desarrollo
 completo en slides y el caption reducido a una línea.
 
-**Fuente del caso real (pieza 4):** contenido verbatim de
+**Reparto de pilares (igual proporción que noviembre):** 2 Gastro
+tradición, 3 Gastro tendencia, 3 Servicios TBNB.
+
+**Fuente del caso real (pieza 2):** contenido verbatim de
 [thebarnbarconsulting.com/confidencial](https://www.thebarnbarconsulting.com/confidencial/)
 — la propia página no da nombre de hotel, fechas ni cifras, así que la
 pieza tampoco los inventa.
@@ -21,7 +29,7 @@ pieza tampoco los inventa.
 ---
 
 ## 1 · Gastro tradición — serie fija
-**Fecha:** pendiente
+**Fecha:** 2 dic (provisional)
 **Serie:** ¿Qué podemos aprender de los bares de toda la vida?
 **Formato:** carrusel editorial
 
@@ -57,79 +65,9 @@ El trato es lo que te hace decir "este es mi favorito" — no el plato.
 
 ---
 
-## 2 · Gastro tendencia
-**Fecha:** pendiente
-**Formato:** carrusel editorial
-
-### Slides
-
-**Slide 1 — Portada**
-La IA ya sabe recomendarte un restaurante.
-
-**Slide 2**
-Sabe qué sitio tiene mejores reseñas, qué carta se parece a lo que ya te gusta, qué horario te conviene.
-
-**Slide 3**
-Lo que no sabe es cómo te vas a sentir cuando llegues.
-
-**Slide 4**
-Eso sigue dependiendo de una persona — de que alguien te mire, te recuerde, te trate como a ti y no como a cualquiera.
-
-**Slide 5**
-La recomendación de un amigo. El camarero que se acuerda de tu mesa. El gesto que nadie programó.
-
-**Slide 6**
-Eso no se automatiza. Se vive.
-
-**Slide 7 — Cierre**
-Cuanta más tecnología hay alrededor, más vale lo que solo una persona puede darte.
-
-### Caption
-
-La IA ya sabe recomendarte un restaurante. Lo que no sabe es cómo vas a sentirte cuando llegues.
-
----
-
-## 3 · Gastro tradición — serie fija
-**Fecha:** pendiente
-**Serie:** ¿Qué podemos aprender de los bares de toda la vida?
-**Formato:** carrusel editorial
-**Perspectiva (pedida por Sergio):** inspiración en los bares que nunca
-cierran por la tarde y funcionan como punto de encuentro — leída en clave
-de rentabilidad (cada hora abierta es una oportunidad de negocio), no solo
-de nostalgia.
-
-### Slides
-
-**Slide 1 — Portada**
-Hay bares que nunca cierran entre el servicio de comidas y el de cenas.
-
-**Slide 2**
-No es que no sepan organizarse. Es que esa franja también es su negocio.
-
-**Slide 3**
-Esa hora muerta de media tarde es, para ellos, la hora del vermut, de la merienda, del café con alguien antes de volver a casa.
-
-**Slide 4**
-Mientras muchos locales echan el cierre entre servicios, el bar de barrio la convierte en el motivo por el que alguien entra sin tener hambre.
-
-**Slide 5**
-No es nostalgia. Es rentabilidad: cada hora con las luces encendidas sin una razón para que alguien entre es una hora de alquiler que no se está devolviendo.
-
-**Slide 6**
-La pregunta no es si merece la pena abrir por la tarde. Es si tienes algo que ofrecer en esa franja, o solo las luces encendidas.
-
-**Slide 7 — Cierre**
-El bar de toda la vida no rentabiliza la tarde por tradición. La rentabiliza porque construyó una razón para estar ahí.
-
-### Caption
-
-Cada hora con las luces encendidas sin una razón para que alguien entre es una hora que no se está rentabilizando.
-
----
-
-## 4 · Servicios TBNB — caso real
-**Fecha:** pendiente
+## 2 · Servicios TBNB — caso real
+**Fecha:** 5 dic (provisional)
+**Serie:** Detrás de la barra, casos de éxito
 **Formato:** carrusel editorial
 **Fuente:** contenido verbatim de [thebarnbarconsulting.com/confidencial](https://www.thebarnbarconsulting.com/confidencial/)
 — sin nombre de hotel, fechas ni cifras, porque la página tampoco los da.
@@ -167,41 +105,158 @@ A veces el problema de un negocio no es lo que vende, sino cómo lo está contan
 
 ---
 
-## 5 · Cosas que nadie te dice cuando abres un restaurante
-**Fecha:** pendiente
+## 3 · Gastro tradición — serie fija
+**Fecha:** 9 dic (provisional)
+**Serie:** ¿Qué podemos aprender de los bares de toda la vida?
+**Formato:** carrusel editorial
+**Perspectiva (pedida por Sergio):** inspiración en los bares que nunca
+cierran por la tarde y funcionan como punto de encuentro — leída en clave
+de rentabilidad (cada hora abierta es una oportunidad de negocio), no solo
+de nostalgia.
+
+### Slides
+
+**Slide 1 — Portada**
+Hay bares que nunca cierran entre el servicio de comidas y el de cenas.
+
+**Slide 2**
+No es que no sepan organizarse. Es que esa franja también es su negocio.
+
+**Slide 3**
+Esa hora muerta de media tarde es, para ellos, la hora del vermut, de la merienda, del café con alguien antes de volver a casa.
+
+**Slide 4**
+Mientras muchos locales echan el cierre entre servicios, el bar de barrio la convierte en el motivo por el que alguien entra sin tener hambre.
+
+**Slide 5**
+No es nostalgia. Es rentabilidad: cada hora con las luces encendidas sin una razón para que alguien entre es una hora de alquiler que no se está devolviendo.
+
+**Slide 6**
+La pregunta no es si merece la pena abrir por la tarde. Es si tienes algo que ofrecer en esa franja, o solo las luces encendidas.
+
+**Slide 7 — Cierre**
+El bar de toda la vida no rentabiliza la tarde por tradición. La rentabiliza porque construyó una razón para estar ahí.
+
+### Caption
+
+Cada hora con las luces encendidas sin una razón para que alguien entre es una hora que no se está rentabilizando.
+
+---
+
+## 4 · Gastro tendencia — IA y hospitalidad
+**Fecha:** 12 dic (provisional)
+**Formato:** carrusel editorial
+**Perspectiva (pedida por Sergio, reescrita sobre la versión anterior):**
+somos seres sociales — necesitamos la conexión humana para que una
+experiencia tenga valor real, más allá de lo que la tecnología pueda
+organizar.
+
+### Slides
+
+**Slide 1 — Portada**
+La IA puede organizar tu cena perfecta.
+
+**Slide 2**
+Sabe qué pedir, dónde, a qué hora, con qué maridaje.
+
+**Slide 3**
+Pero somos seres sociales — una experiencia solo tiene valor completo si alguien la comparte con nosotros.
+
+**Slide 4**
+La mejor mesa, el mejor vino, el plato perfecto: todo pesa menos si no hay nadie real al otro lado, ni compañía, ni quien te atiende.
+
+**Slide 5**
+La hospitalidad siempre ha sido eso: una persona haciendo que otra persona se sienta acompañada, vista, cuidada.
+
+**Slide 6**
+Cuanta más tecnología organiza lo de fuera, más valor tiene lo que pasa entre personas en la mesa.
+
+**Slide 7 — Cierre**
+La IA puede perfeccionar la logística de una experiencia. La conexión humana sigue siendo lo que le da sentido.
+
+### Caption
+
+La IA puede perfeccionar la logística de una experiencia. La conexión humana sigue siendo lo que le da sentido.
+
+---
+
+## 5 · Servicios TBNB — Detrás de la barra
+**Fecha:** 16 dic (provisional)
 **Formato:** carrusel editorial
 
 ### Slides
 
 **Slide 1 — Portada**
-Cerrar unos días en Navidad no es "perder ventas".
+Cada diciembre nos llega la misma frase: "no damos abasto".
 
 **Slide 2**
-Es la decisión que parece ir contra el negocio, pero a veces es la que más lo protege.
+Y casi siempre la primera idea es contratar más gente para el pico.
 
 **Slide 3**
-Un servicio de Nochebuena o Año Nuevo factura más, sí. También cuesta más: horas extra, cansancio acumulado, un equipo que llega a enero quemado.
+Pero antes de sumar personal, miramos otra cosa: cómo está secuenciado el servicio.
 
 **Slide 4**
-La pregunta no es cuánto se deja de ganar cerrando. Es cuánto cuesta, en realidad, abrir esos días.
+Muchas veces el problema no es que falte gente. Es que todos hacen lo mismo a la vez, en el momento equivocado.
 
 **Slide 5**
-A veces la cuenta sale a favor de abrir. A veces no. Depende del negocio, no de la presión de "todo el mundo abre".
+Quién prepara, quién sirve, quién cobra, cuándo entra cada turno — antes de añadir una persona más, hay que saber si el problema es de volumen o de orden.
 
 **Slide 6**
-Decidirlo con esa cuenta hecha es gestión. Decidirlo por culpa o por costumbre, no.
+Contratar sin resolver la secuencia solo reparte el caos entre más personas.
 
 **Slide 7 — Cierre**
-Cerrar no siempre es rentable. Pero tampoco lo es abrir sin hacer la cuenta.
+Antes de preguntarte cuánta gente necesitas para diciembre, pregúntate si tu servicio está bien secuenciado el resto del año.
 
 ### Caption
 
-Cerrar en Navidad no es perder ventas. Es una decisión de negocio, con una cuenta detrás.
+Antes de contratar más gente para diciembre, miramos si el servicio está bien secuenciado el resto del año.
 
 ---
 
-## 6 · Rentabilidad incómoda
-**Fecha:** pendiente
+## 6 · Cosas que nadie te dice cuando abres un restaurante
+**Fecha:** 19 dic (provisional)
+**Formato:** carrusel editorial
+**Perspectiva (pedida por Sergio, reescrita sobre la versión anterior):**
+no quedarse solo en la reflexión — dar la herramienta de cálculo real para
+que el lector pueda decidir si le compensa abrir o cerrar.
+
+### Slides
+
+**Slide 1 — Portada**
+Cerrar unos días en Navidad no es "perder ventas". Es un cálculo que casi nadie hace.
+
+**Slide 2**
+Antes de decidir, falta una cuenta real: cuánto te cuesta de verdad abrir ese día.
+
+**Slide 3**
+Empieza por el ingreso extra: ticket medio más alto × cobertura estimada de ese servicio.
+
+**Slide 4**
+Réstale el coste de personal: horas extra, y el recargo o descanso compensatorio que toca por trabajar festivo según tu convenio.
+
+**Slide 5**
+Réstale también el sobrecoste del producto de temporada — marisco, menú especial, lo que encarezca ese servicio en concreto.
+
+**Slide 6**
+Lo que queda es el margen real de abrir ese día. No lo que factura. Lo que deja.
+
+**Slide 7**
+Si el margen es claro, compensa abrir. Si apenas cubre el extra de coste, compensa más cerrar.
+
+**Slide 8 — Cierre**
+La pregunta no es cuánto facturas en Navidad. Es cuánto te queda después de pagar lo que cuesta facturarlo.
+
+### Caption
+
+La pregunta no es cuánto facturas en Navidad. Es cuánto te queda después de pagar lo que cuesta facturarlo.
+
+*Nota interna: no se cita ningún % de recargo por festivo — varía por convenio colectivo y necesitaría revisión jurídica antes de publicar una cifra concreta, igual que la pieza de proveedores de noviembre.*
+
+---
+
+## 7 · Rentabilidad incómoda
+**Fecha:** 23 dic (provisional)
+**Serie:** Rentabilidad incómoda
 **Formato:** carrusel editorial
 **Tema:** food cost real vía inventario mensual (teórico vs. real) — ángulo
 distinto al artículo de blog ya publicado sobre food cost (que habla de
@@ -236,8 +291,8 @@ El escandallo dice lo que debería pasar. El inventario dice lo que está pasand
 
 ---
 
-## 7 · Gastro tendencia — inspiración de otros sectores
-**Fecha:** pendiente
+## 8 · Gastro tendencia — inspiración de otros sectores
+**Fecha:** 27 dic (provisional)
 **Serie:** Inspiración de otros sectores
 **Concepto:** membresías de retail premium/fitness, frente a la tarjeta de sellos clásica
 **Formato:** carrusel editorial
@@ -273,7 +328,9 @@ El descuento te dice que vuelvas porque es más barato. La membresía te dice qu
 
 ## Pendiente antes de aprobar
 
-- Asignar fechas exactas de diciembre a las 7 piezas (`director-marketing`).
+- Asignar fechas exactas de diciembre a las 8 piezas (`director-marketing`).
 - Decidir y añadir los reels del mes (prioridad 2 del brief, sin ninguna pieza asignada todavía).
-- Confirmar si la pieza 4 (caso Confidencial) lleva CTA con enlace a la página, y revisar que el copy siga fiel a lo publicado si la página cambia.
+- Confirmar si la pieza 2 (caso Confidencial) lleva CTA con enlace a la página, y revisar que el copy siga fiel a lo publicado si la página cambia.
+- Revisión jurídica pendiente del % de recargo por festivo si se decide citar una cifra concreta en la pieza 6.
 - Aprobación de Andrea/Sergio pieza por pieza. Ninguna pieza está aprobada automáticamente por estar redactada.
+- La hoja de cálculo maestra (pestaña DICIEMBRE) conserva debajo de estas 8 piezas restos sueltos de la plantilla de noviembre (a partir de la fila ~16) — pendiente de decidir si se limpian.
