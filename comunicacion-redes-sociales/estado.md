@@ -1,8 +1,18 @@
 # Estado — Comunicación y Redes Sociales
 
-**Última actualización:** 2026-10-29.
+**Última actualización:** 2026-11-17.
 
 ## En curso
+
+- **Calendario de Instagram de diciembre** (`instagram/calendario-diciembre.md`)
+  — brainstorming y redacción en curso directamente con Sergio, 7 piezas
+  redactadas por bloque (gastro tradición x2, gastro tendencia x2, servicios
+  TBNB con el caso real de `thebarnbarconsulting.com/confidencial`, "cosas
+  que nadie te dice" sobre cerrar en Navidad, y rentabilidad incómoda sobre
+  inventario mensual). **Cambio de criterio para diciembre:** el caption
+  pasa a ser de una sola línea, no el desarrollo en varios párrafos que se
+  usaba en octubre/noviembre. Pendiente: fechas exactas, reels del mes, y
+  aprobación de Andrea/Sergio pieza por pieza.
 
 - Revisión del calendario de Instagram de octubre (`instagram/calendario-octubre.md`)
   con `director-estrategia-marca-comunicacion`, a petición de Andrea.
