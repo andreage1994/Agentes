@@ -6,8 +6,12 @@
 viene" y "Qué hemos visto" desarrollados por mí con su aprobación, tras dos
 rondas de revisión. Pendiente de aprobación final de Andrea y de que
 `director-marketing` asigne fecha exacta a cada semana. Subido también a la
-hoja de cálculo maestra, pestaña **CALENDARIO HISTORIAS** (reutiliza la
-misma pestaña mes a mes — la cabecera ya dice "DICIEMBRE").
+hoja de cálculo maestra, pestaña **CALENDARIO HISTORIAS** — **filas 10-17**
+(bloque propio con su propia cabecera "DICIEMBRE"). El bloque de noviembre
+(filas 1-8) se queda intacto arriba — un primer intento sobrescribió
+noviembre por error al reutilizar las mismas celdas; se restauró y a partir
+de ahora cada mes añade su propio bloque más abajo en vez de sustituir el
+anterior.
 
 4 bloques × 4 semanas = 16 piezas.
 
