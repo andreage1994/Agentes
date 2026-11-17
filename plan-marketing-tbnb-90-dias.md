@@ -21,13 +21,23 @@ hasta la revisión de febrero.
 | 1 | **Instagram** | ✅ Decidido (17-11) | **4 publicaciones al mes** (antes 8). Las historias, libres, cuando haya algo real. |
 | 2 | **Diseño de Instagram (freelance)** | ✅ Decidido (17-11) | Renegociar la cuota de 8 a 4 diseños (**de 400 € a ~200 €/mes**). Pedir cada diseño también en formato LinkedIn y ficha de Google. |
 | 3 | **Blog** | ✅ Decidido (17-11) | **Seguir publicando**, 1 artículo al mes sobre el tema del mes. Lleva poco tiempo (Claude prepara y ayuda a subirlo). |
-| 4 | Publicaciones en la ficha de Google | 🟡 Por revisar | Propuesta: 2 al mes reutilizando el diseño de Instagram + pedir reseñas. |
+| 4 | **Ficha de Google** | ✅ Decidido (17-11) | **1 publicación a la semana** (como ahora), usando los 4 diseños de Instagram del mes. **Arreglar las reseñas:** convertir el feedback de cliente en reseña de Google (ver sección 2). |
 | 5 | Cartas a bares (Notas desde la Barra) | 🟡 Por revisar | Propuesta: enviar las 7 ya escritas y no investigar más bares por ahora. |
 | 6 | Plan de networking | 🟡 Por revisar | Propuesta: visitas + 1 recomendador/semana + Gremi y CETT + 2 podcasts. |
-| 7 | LinkedIn | 🟡 Por revisar | Propuesta: 1 publicación/semana entre los dos. |
+| 7 | **LinkedIn** | ✅ Decidido (17-11) | **4 publicaciones al mes, desde los perfiles personales** (2 Andrea, 2 Sergio); la página de empresa las comparte. 10 min de respuesta el día que se publica. |
 | 8 | Hospitality Report | 🟡 Por revisar | Propuesta: primera semana de diciembre, diseño sencillo. |
 | 9 | Google Ads (~600 €/mes) | 🟡 Por revisar | Propuesta: 2 meses más y decidir a mediados de enero. |
 | 10 | Reparto de horas | 🟡 Por revisar | Propuesta: Sergio, web y reseñas; Andrea, visitas. |
+
+### Dónde estábamos fallando y qué cambia (lo aprendido en la revisión)
+
+| Dónde fallábamos | Qué cambia | Qué esperamos conseguir |
+|---|---|---|
+| **Pagábamos 8 diseños de Instagram**, un canal que no nos ha traído clientes | 4 diseños, y se reutilizan en LinkedIn y Google | ~200 €/mes menos, menos tiempo buscando imágenes, todo con la misma imagen |
+| **Buscábamos imágenes y contenido por separado** para cada canal | Un tema al mes, un diseño, cuatro canales | Menos horas, mensaje coherente |
+| **Pedimos feedback a los clientes, pero casi no llega a Google** | Pedir que ese mismo feedback se copie como reseña, con enlace directo | Más reseñas: más confianza para quien nos encuentra en Google y más probabilidad de que las IA nos recomienden |
+| **Publicábamos en LinkedIn desde la página de empresa**, que ve muy poca gente | Mismas 4 publicaciones, desde los perfiles de Andrea y Sergio | Mucha más gente ve lo mismo, con el mismo esfuerzo |
+| **La web no tenía una forma fácil de pedir cita** | ✅ Botón "Agendar cita" con Calendly | Que quien llega pueda escribirnos en un clic, y poder contarlo |
 
 ### Ya hecho
 - ✅ **Botón "Agendar cita"** en la portada de la web, enlazado a Calendly
@@ -67,8 +77,18 @@ le sea fácil escribirnos.
 - ✅ Botón **"Agendar cita"** en la web — hecho.
 - **Publicar las 2 páginas de servicio** si aún no están (ver arriba).
 - ✅ **1 artículo de blog al mes** sobre el tema del mes.
-- **Pedir una reseña en Google** a cada cliente actual y a cada cliente
-  que termine un proyecto.
+- ✅ **Convertir el feedback de cliente en reseñas de Google.** Ya existe
+  un proceso para pedir feedback al terminar; se le añade un paso:
+  1. Si el feedback es bueno, pedir al cliente que **copie eso mismo en
+     Google** ("nos ha encantado lo que nos has escrito, ¿te importaría
+     pegarlo en Google?").
+  2. Mandar el **enlace directo** para dejar la reseña (se saca de la
+     ficha de Google).
+  3. Por **WhatsApp**, de Andrea o Sergio con su nombre, justo después
+     del feedback.
+  4. **Un solo recordatorio** a la semana si no la ha dejado.
+  - Una sola vez: pedirla también a los clientes que ya terminaron
+    (Casa Clementina, Geisha, Lady Madrid, The Lokal…).
 - Pasar a Angel (el informático de la web) un único encargo con los
   ajustes que ayudan a Google y a las IA a entender la web.
 
@@ -81,7 +101,8 @@ le sea fácil escribirnos.
   con dueños): agencias de traspasos, distribuidores de bebida,
   interioristas.
 - **Instituciones:** Gremi de Restauració y CETT.
-- **Después de cada visita o café:** conectar con esa persona en LinkedIn.
+- ✅ **Después de cada visita o café:** conectar con esa persona en LinkedIn
+  desde el perfil personal.
 
 ### 3. El Hospitality Report como excusa para escribir
 *(Propuesta, punto 8 por revisar.)*
@@ -104,8 +125,8 @@ Cada mes, **un solo tema** se usa en todos los canales:
 |---|---|---|
 | **Blog** ✅ | 1 artículo | Claude prepara, vosotros revisáis y publicáis |
 | **Instagram** ✅ | 4 publicaciones + historias libres | Texto: vosotros con Claude. Diseño: freelance |
-| **LinkedIn** 🟡 | 4 publicaciones (1/semana entre los dos) | Vosotros, reutilizando el diseño de Instagram |
-| **Ficha de Google** 🟡 | 2 publicaciones | Vosotros, reutilizando el diseño de Instagram |
+| **LinkedIn** ✅ | 4 publicaciones (2 Andrea, 2 Sergio, desde sus perfiles; la página de empresa comparte) | Vosotros con Claude, en primera persona, reutilizando el diseño de Instagram |
+| **Ficha de Google** ✅ | 4 publicaciones (1/semana) | Vosotros con Claude, con los diseños de Instagram |
 
 **Se escribe una vez y se usa en todas partes**, y así no hay que buscar
 imágenes aparte.
