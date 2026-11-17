@@ -734,3 +734,29 @@ Siguen abiertas, igual que antes: foto/plano del interior del obrador
 (4.c), visita de TBNB a sala en hora punta para confirmar circulaciones
 y puntos críticos (4.b/4.f), fotos de señalética (4.e), y el mismo tipo
 de dato (esquema + modelo) para Parquesur (4.h).
+
+## 2026-11-17 — Nuevo local: Calle Sodio 3 (análisis de ubicación y viabilidad)
+
+Lady Madrid decide coger un tercer local, Calle Sodio 3 (28045 Madrid) —
+**el mismo local físico** sobre el que TBNB hizo la proyección financiera
+de Casa Clementina (otro cliente); Casa Clementina decidió traspasarlo en
+vez de abrir, y Lady Madrid lo ha cogido. Completado el documento maestro
+de Análisis de Ubicación y Viabilidad (Google Sheet, plantilla BAR
+Method) — detalle completo en
+`clientes/lady-madrid/analisis-ubicacion-calle-sodio.md`.
+
+Resuelto en esta ronda: subarriendo/Panadario (riesgo heredado de Casa
+Clementina) ya aprobado para el traspaso a Lady Madrid; licencia ya
+resuelta (heredada de Casa Clementina, misma actividad "CAFEBAR");
+reforma mínima (obra ya ejecutada, mismo concepto); aforo real de 44 pax,
+confirmado por Sergio como **significativamente mayor** que Plaza
+República Dominicana y Parquesur — salto de escala importante, no un
+tercer local más del mismo tamaño. Entorno competitivo real identificado
+(Bite Me Café, Dot Café Bar como directos; Amazonia Açaí Atocha y Un Mar
+como indirectos). A petición explícita de Sergio, **no se construyó
+proyección financiera completa** — solo la viabilidad de ubicación, con
+una estimación de ingresos de referencia (no un modelo de 12 meses).
+
+Pendiente: demografía/renta oficial de barrio (fuente oficial dio error
+404 en esta sesión), visibilidad del local (pendiente de visita in situ),
+coste concreto de adecuación/branding (sin cifra todavía).
