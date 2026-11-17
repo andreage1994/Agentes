@@ -4,15 +4,23 @@
 
 ## En curso
 
-- **Calendario de Instagram de diciembre** (`instagram/calendario-diciembre.md`)
-  — brainstorming y redacción en curso directamente con Sergio, 7 piezas
-  redactadas por bloque (gastro tradición x2, gastro tendencia x2, servicios
-  TBNB con el caso real de `thebarnbarconsulting.com/confidencial`, "cosas
-  que nadie te dice" sobre cerrar en Navidad, y rentabilidad incómoda sobre
-  inventario mensual). **Cambio de criterio para diciembre:** el caption
-  pasa a ser de una sola línea, no el desarrollo en varios párrafos que se
-  usaba en octubre/noviembre. Pendiente: fechas exactas, reels del mes, y
-  aprobación de Andrea/Sergio pieza por pieza.
+- **Calendario de Instagram (feed) de diciembre — cerrado**
+  (`instagram/calendario-diciembre.md`), 11 piezas finales, también subidas
+  a la hoja de cálculo maestra (pestaña DICIEMBRE). Caption de una sola
+  línea, cambio de criterio respecto a octubre/noviembre. Pendiente:
+  resolver colisión de fecha entre piezas 7 y 10 (ambas 23 dic), fechas
+  definitivas del resto, reels del mes, y aprobación de Andrea/Sergio
+  pieza por pieza.
+
+- **Calendario de Instagram Stories de diciembre — cerrado**
+  (`instagram/calendario-historias-diciembre.md`), 16 piezas (4 bloques ×
+  4 semanas: Para volver, Dónde trabajamos los miércoles, Lo que se viene,
+  Qué hemos visto), también subidas a la hoja de cálculo maestra (pestaña
+  CALENDARIO HISTORIAS, que se reutiliza mes a mes — cabecera actualizada
+  de NOVIEMBRE a DICIEMBRE). Los 8 sitios reales de "Para volver" y "Dónde
+  trabajamos" los dio Sergio directamente, sin verificación externa
+  adicional en esta ronda (a diferencia de noviembre). Pendiente: fecha
+  exacta de cada semana y aprobación final de Andrea.
 
 - Revisión del calendario de Instagram de octubre (`instagram/calendario-octubre.md`)
   con `director-estrategia-marca-comunicacion`, a petición de Andrea.
