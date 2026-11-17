@@ -5,6 +5,11 @@
 plan y une en un solo sitio el plan de networking de Barcelona
 (`TBNB_Estrategia_Networking_Barcelona_v3`).
 
+> **⚠️ BORRADOR EN REVISIÓN (17-11-2026).** Andrea y Sergio lo están
+> revisando punto por punto. **Nada de este documento está decidido
+> todavía.** Primer cambio pedido por Andrea: Instagram no se elimina, se
+> reduce de 8 a 4 publicaciones al mes (pendiente de cerrar).
+
 **Este es el único plan de marketing.** Si algo no está aquí, no se hace
 hasta la revisión de febrero.
 
