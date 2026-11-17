@@ -117,29 +117,23 @@ de nostalgia.
 ### Slides
 
 **Slide 1 — Portada**
-Hay bares que nunca cierran entre el servicio de comidas y el de cenas.
+No todas las horas de tu negocio valen lo mismo. Pero todas cuestan lo mismo.
 
 **Slide 2**
-No es que no sepan organizarse. Es que esa franja también es su negocio.
+Los bares de toda la vida no cierran esa franja muerta de media tarde — la ocupan, y se convierten en el sitio al que piensas ir para ese vermut, ese café, esos vinos antes de cenar.
 
 **Slide 3**
-Esa hora muerta de media tarde es, para ellos, la hora del vermut, de la merienda, del café con alguien antes de volver a casa.
+Si cierras esa franja, no solo dejas de facturar esa hora. Dejas de ser el sitio al que alguien piensa ir en ese momento — y esa posición, una vez perdida, cuesta recuperarla.
 
 **Slide 4**
-Mientras muchos locales echan el cierre entre servicios, el bar de barrio la convierte en el motivo por el que alguien entra sin tener hambre.
+Pero ocupar la franja no es solo abrir y dejar las luces encendidas. El ambiente, la carta y el espacio tienen que responder a ese momento concreto, no ser los mismos de comida o cena.
 
-**Slide 5**
-No es nostalgia. Es rentabilidad: cada hora con las luces encendidas sin una razón para que alguien entre es una hora de alquiler que no se está devolviendo.
-
-**Slide 6**
-La pregunta no es si merece la pena abrir por la tarde. Es si tienes algo que ofrecer en esa franja, o solo las luces encendidas.
-
-**Slide 7 — Cierre**
-El bar de toda la vida no rentabiliza la tarde por tradición. La rentabiliza porque construyó una razón para estar ahí.
+**Slide 5 — Cierre**
+No se rentabiliza una franja horaria abriendo las puertas. Se rentabiliza construyendo, para esa franja, una razón real para ir.
 
 ### Caption
 
-Cada hora con las luces encendidas sin una razón para que alguien entre es una hora que no se está rentabilizando.
+No se rentabiliza una franja horaria abriendo las puertas. Se rentabiliza construyendo una razón real para ir.
 
 ---
 
