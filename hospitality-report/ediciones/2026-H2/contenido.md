@@ -581,17 +581,13 @@ Lo que todavía no ocupa una sección propia, pero ya se mueve. Cada fila lleva 
 ## 10. EARLY SIGNAL
 *Todavía no es tendencia. Pero estamos mirando.*
 
+Señales que todavía no tienen la fuerza de una tendencia, pero que, si se confirman, cambiarán cómo se diseña un local.
+
 | Señal | Dónde se detectó | Por qué podría escalar | Fuente |
 |---|---|---|---|
-| IA generativa, avatares y "mundos virtuales" en restauración | Encuesta global Deloitte | Adopción diaria todavía marginal, pero con mayor plan de desarrollo futuro que cualquier otra tecnología de la encuesta. | [6] |
-| Visión por computador para detectar defectos o contaminación de alimentos | Pilotos citados por Deloitte | IA aplicada a seguridad alimentaria, no solo a experiencia de cliente — ángulo todavía poco explotado. | [6] |
-| RoboCake (robot comestible) | Laboratorio experimental de EHL | Prueba de concepto de robótica + gastronomía — provocación creativa, no producto listo. | [1] |
-| Economía de la experiencia inmersiva (AR/VR, storytelling, diseño sensorial) | Una de las 5 grandes tendencias de EHL | Hoteles y restaurantes posicionándose como "arquitectos de experiencias" — incipiente, pero ya en la conversación estratégica del sector. | [1] |
-| "Powered by pop" — refrescos funcionales de sabor complejo | Una de las 6 direcciones de producto de WGSN | Cruce entre funcionalidad e indulgencia sensorial en bebidas sin alcohol — categoría todavía en construcción. | [19] |
-| Circadian — atelier de té sin alcohol, mesa compartida anfitrión/invitado | Funkhaus, Berlín | Sin equivalente documentado en España; conecta con la categoría de bebida funcional de 06, llevada a un formato de ritual. | [34] |
-| Lille Bakery frente a Juno the Bakery — dos modelos de panadería de especialidad en la misma ciudad | Copenhague | Culto y cola diaria (Juno) frente a barrio y recurrencia (Lille) — sin equivalente documentado en España en el material disponible. | [33][35] |
+| Mesa para uno en el país de compartir | España | Casi un tercio de las visitas a restaurantes en España (32%) ya se hacen en solitario, según el Observatorio de Restaurantes de Marca de Circana y KPMG [125]. Detrás hay un cambio demográfico de fondo: los hogares de una sola persona son ya el 28% en España, y la previsión es que lleguen al 33,5% en 2039; en Barcelona ya son el 31,6% [125]. El Gremi de Restauració de Barcelona habla de un aumento sostenido del comensal solo desde 2022, y hay locales que ya lo han convertido en concepto, como Paellería, especializada en paellas individuales [125]. Lo que todavía falta es diseño: barras pensadas para comer, raciones individuales en cartas hechas para compartir y una forma de recibir a quien llega solo sin que se sienta una mesa perdida. | [125] |
 | La fermentación como producto propio: obradores de koji y "laboratorios de tiempo" | Delta del Ebro / País Vasco | Kenshô, en l'Ampolla, produjo en 2015 el primer sake de España y hoy elabora con koji su propio amazake, miso y tamari, con visitas y catas en una masía de 1945 [106]. En Irun, Ama Brewery, fundada por dos miembros del equipo de I+D de Mugaritz, embotella *pét-nat* de té fermentado, con muy poco alcohol, tratado con la precisión de un espumoso [107]. Todavía son productores, no hostelería. Pero apuntan a un tipo de bebida y de despensa que las barras más inquietas ya empiezan a pedir. | [106][107] |
-| El comensal solo y la barra | EEUU / España | Reservas individuales +23% en EEUU, con gasto medio de 94$ frente a 60$ del total; en España, señal todavía débil y localizada en turismo y negocios — vigilar si el modelo de barra (Barr, Pompette) se replica como respuesta. | [30] |
+| Lille Bakery frente a Juno the Bakery — dos modelos de panadería de especialidad en la misma ciudad | Copenhague | Culto y cola diaria (Juno) frente a barrio y recurrencia (Lille) — sin equivalente documentado en España en el material disponible. | [33][35] |
 
 **La pregunta que dejamos abierta: ¿espacio para retener, o espacio para rotar?**
 
@@ -751,3 +747,4 @@ See you in six months.
 122. Alimarket, *"Fini Golosinas se suma al fenómeno del chocolate Dubai"*, 2026.
 123. Infobae, *"Las coctelerías se adaptan a los jóvenes abstemios y sobrio-curiosos"*, por Ana Plaza, 9 ene 2026.
 124. Vinetur, *"Barceló Torre de Madrid impulsa el tardeo con mocktails y DJs locales en Garra"*, 11 mar 2026.
+125. The Local España, *"Why eating out alone is no longer considered taboo in Spain"*, 13 nov 2026 (cita el Observatorio de Restaurantes de Marca 2025 de Circana y KPMG, datos del INE y del padrón de Barcelona, y al Gremi de Restauració).
