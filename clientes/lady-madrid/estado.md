@@ -760,3 +760,39 @@ una estimación de ingresos de referencia (no un modelo de 12 meses).
 Pendiente: demografía/renta oficial de barrio (fuente oficial dio error
 404 en esta sesión), visibilidad del local (pendiente de visita in situ),
 coste concreto de adecuación/branding (sin cifra todavía).
+
+## 2026-11-17 — Location Validation Report (pptx) construido sobre el Sheet
+
+A partir de la plantilla pptx que subió Sergio
+(`LADY_MADRID_LOCATION_VALIDATION_REPORT_X_TBNB.pptx`) y de todo lo ya
+cerrado en el Sheet de Análisis de Ubicación y Viabilidad, se construyó el
+deck completo: `clientes/lady-madrid/entregables/LADY_MADRID_LOCATION_VALIDATION_REPORT_X_TBNB.pptx`
+(11 slides).
+
+**Cambio estructural sobre la plantilla, no confirmado todavía con
+Sergio:** la plantilla original traía un índice pensado para comparar
+varios locales ("modalidad b" — Search methodology, Comparative
+assessment, Comparative conclusions). Como aquí solo hay un local
+decidido (Calle Sodio 3, sin "Local 2"), esas tres secciones se quitaron
+y el índice quedó en 4 puntos: Resumen ejecutivo, Individual location
+review (con sub-secciones a-f: Análisis de ubicación, Entorno
+competitivo, Viabilidad operativa, Viabilidad de adecuación, Viabilidad
+de licencias, Viability score), Final recommendations y Next steps. La
+diapositiva de tabla comparativa de la plantilla (una imagen fija
+pensada para 5 locales en columnas) se eliminó del todo — no servía para
+un único local y no era texto editable.
+
+El contenido de cada sección es el ya cerrado en el Sheet, sin datos
+nuevos. En el Sheet, la fila "Visibilidad" de la pestaña 7 (Viability
+score) aparece ahora como "SI" (antes estaba pendiente) — se ha dado
+por confirmada en el deck; si ese cambio no lo hizo Sergio, revisarlo.
+
+**Pendiente de validar por Sergio/Andrea:**
+1. Cifra concreta de inversión en branding/adecuación (confirmado
+   "mínimo", sin número).
+2. Demografía/renta oficial del barrio, si se quiere afinar el perfil de
+   cliente (fuente oficial no disponible esta ronda).
+3. El cambio de estructura del índice (quitar las secciones de
+   modalidad b) antes de dar el documento por definitivo.
+4. Aprobación final antes de que esto salga de TBNB — no se ha enviado a
+   nadie fuera del equipo.
