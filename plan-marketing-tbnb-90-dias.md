@@ -69,7 +69,7 @@ de ellos.
 | 2 | **Cartas a bares** | Revisar las 7 escritas en 1 hora, enviar las buenas y, a partir de ahora, carta solo **después** de una visita. |
 | 3 | **Google Ads** | Pausar las campañas cuando Facu lo deje y decidir en enero si se relanza una pequeña, llevada por Sergio con Claude (sección 6). |
 | 4 | **Salir en las IA** | Plan de 4 pasos de la sección 2. |
-| 5 | **Páginas de servicio** | Marketing gastronómico y Abrir restaurante/bar están escritas pero sin publicar. ¿Las monta Sergio con ayuda de Claude? |
+| 5 | **Orden de la web: Servicios y BAR Method** | Servicios como puerta principal del menú (por problema del cliente) y BAR Method como "cómo lo hacemos", enlazados entre sí. Detalle en el frente A. |
 | 6 | **Reparto de horas** | Sección 7. |
 
 ### Ya hecho o decidido
@@ -90,8 +90,20 @@ encontró por Google y otro porque se lo recomendó una IA (tipo ChatGPT).
 ### La web
 - ✅ Botón **"Agendar cita"** (15 min) — hecho.
 - ✅ **1 artículo de blog al mes** sobre el tema del mes.
-- 🟡 **Publicar las 2 páginas de servicio**, montadas por Sergio con la
-  guía de Claude, ahora que no está Angel.
+- ✅ **Páginas de servicio publicadas** en el menú "Servicios" (comprobado
+  19-11): Marketing gastronómico, Abrir un bar o restaurante y
+  Rentabilizar tu restaurante.
+- 🟡 **Ordenar Servicios y BAR Method** para que no se confundan:
+  - **Servicios = qué problema resolvemos.** Es lo que busca la gente en
+    Google y en las IA. Va primero en el menú, con una página resumen
+    organizada por situación ("quiero abrir", "mi restaurante no da
+    dinero", "necesito que me conozcan", "quiero traspasar").
+  - **BAR Method = cómo lo hacemos.** Es lo que nos diferencia. Lleva un
+    bloque "¿Por dónde empiezas tú?" que enlaza a cada servicio.
+  - **Cada página de servicio** lleva un bloque "Cómo lo hacemos: BAR
+    Method" (qué fases aplica), un caso real, preguntas frecuentes y el
+    botón de cita. La de rentabilidad, además, el test.
+  - **Traspasos** pasa a ser un servicio más dentro del desplegable.
 
 ### Reseñas en Google ✅
 Se añade un paso al proceso de feedback que ya existe:
