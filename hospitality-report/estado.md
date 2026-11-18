@@ -1,5 +1,10 @@
 # Estado — Hospitality Report
 
+> **Cambio de fecha (18-11-2026, Andrea y Sergio):** el lanzamiento pasa de
+> la primera semana de diciembre a **enero de 2027**, para dejar diciembre al
+> test de rentabilidad (ver `plan-marketing-tbnb-90-dias.md`). El
+> `retroplanning-2026-h2.md` queda desfasado en fechas hasta que se rehaga.
+
 **Cadencia:** semestral (H1 / H2).
 **Última actualización:** 2026-10-29.
 

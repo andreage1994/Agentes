@@ -25,7 +25,8 @@ hasta la revisión de febrero.
 | 5 | Cartas a bares (Notas desde la Barra) | 🟡 Por revisar | Propuesta: enviar las 7 ya escritas y no investigar más bares por ahora. |
 | 6 | Plan de networking | 🟡 Por revisar | Propuesta: visitas + 1 recomendador/semana + Gremi y CETT + 2 podcasts. |
 | 7 | **LinkedIn** | ✅ Decidido (17-11) | **4 publicaciones al mes, desde los perfiles personales** (2 Andrea, 2 Sergio); la página de empresa las comparte. 10 min de respuesta el día que se publica. |
-| 8 | Hospitality Report | 🟡 Por revisar | Propuesta: primera semana de diciembre, diseño sencillo. |
+| 8 | **Hospitality Report** | ✅ Fecha decidida (18-11) | **Se lanza en enero** (antes diciembre), para dejar diciembre al test. Diseño sencillo; resto por revisar. |
+| 11 | **Email marketing: test de rentabilidad** | ✅ Decidido (18-11) | **Test de rentabilidad** (10 preguntas, 3 min) que da un resultado y 3 consejos. **El email se pide al final**, para enviar el resultado. Entra solo en Mailchimp y arrancan los emails automáticos ya hechos. **Se monta y se lanza en diciembre.** Borrador: `marketing-tbnb-test-rentabilidad.md`. |
 | 9 | Google Ads (~600 €/mes) | 🟡 Por revisar | Propuesta: 2 meses más y decidir a mediados de enero. |
 | 10 | Reparto de horas | 🟡 Por revisar | Propuesta: Sergio, web y reseñas; Andrea, visitas. |
 
@@ -37,6 +38,7 @@ hasta la revisión de febrero.
 | **Buscábamos imágenes y contenido por separado** para cada canal | Un tema al mes, un diseño, cuatro canales | Menos horas, mensaje coherente |
 | **Pedimos feedback a los clientes, pero casi no llega a Google** | Pedir que ese mismo feedback se copie como reseña, con enlace directo | Más reseñas: más confianza para quien nos encuentra en Google y más probabilidad de que las IA nos recomienden |
 | **Publicábamos en LinkedIn desde la página de empresa**, que ve muy poca gente | Mismas 4 publicaciones, desde los perfiles de Andrea y Sergio | Mucha más gente ve lo mismo, con el mismo esfuerzo |
+| **Teníamos los emails automáticos montados pero ningún correo al que enviarlos** | Test de rentabilidad que da valor y pide el correo al final | Empezar a tener una lista de dueños interesados, y que los emails ya hechos sirvan para algo |
 | **La web no tenía una forma fácil de pedir cita** | ✅ Botón "Agendar cita" con Calendly | Que quien llega pueda escribirnos en un clic, y poder contarlo |
 
 ### Ya hecho
@@ -109,11 +111,46 @@ le sea fácil escribirnos.
 
 El Report **es un motivo para escribir a gente y abrir conversaciones.**
 
-- **Lanzarlo la primera semana de diciembre**, con un diseño sencillo.
+- ✅ **Lanzarlo en enero** (decidido 18-11; diciembre queda para el test
+  de rentabilidad), con un diseño sencillo.
 - **Enviarlo uno a uno**, con un mensaje personal, a todos los que
   hayamos conocido.
 - **Proponerlo a 2 podcasts:** Entre Hosteleros y Entre Fogones (Makro).
 - **De enero a febrero:** sacar de él publicaciones e ideas para el blog.
+
+### 4. El test de rentabilidad: la puerta para conseguir correos ✅
+*(Decidido 18-11-2026.)*
+
+Ya tenemos los emails automáticos montados en Mailchimp, pero **nadie
+entraba en ellos porque no teníamos forma de conseguir correos.** El test
+es esa puerta.
+
+```
+Publicación (Instagram, LinkedIn, Google, blog, web, tras cada visita)
+   → Test de rentabilidad (10 preguntas, 3 min)
+   → Al final: "¿a qué email te enviamos tu resultado?"
+   → Resultado + 3 consejos (en pantalla y por email)
+   → Emails automáticos que ya existen (bienvenida → casos → cita)
+   → Botón "Agendar cita" (Calendly)
+```
+
+- **Un solo test**, sobre rentabilidad. Las otras ideas (hospitalidad,
+  APPCC, concepto) esperan a ver cómo funciona este.
+- **El correo se pide al final**: quien ya ha contestado quiere ver su
+  resultado.
+- **El resultado decide qué emails recibe**: nota baja → antes la
+  invitación a cita; nota alta → más contenido útil.
+- **Primero, sin pagar:** un mes moviéndolo con lo que ya publicamos. Si
+  funciona, el dinero de Google Ads (decisión de enero) puede pasar a
+  anunciar el test.
+- **Legal (Sergio):** casilla de política de privacidad + confirmación
+  por email en Mailchimp.
+- **Cómo sabremos si funciona:** correos que entran al mes y cuántos
+  piden cita. Orientativo: 30–50 correos en dos meses y 2–3 citas.
+- **Ojo con las fechas:** la segunda quincena de diciembre los dueños
+  están a tope con Navidad. Mejor lanzarlo **antes del 12 de diciembre**
+  y darle un segundo empujón la primera semana de enero (la "cuesta de
+  enero", cuando más se piensa en costes).
 
 ---
 
@@ -131,8 +168,8 @@ Cada mes, **un solo tema** se usa en todos los canales:
 **Se escribe una vez y se usa en todas partes**, y así no hay que buscar
 imágenes aparte.
 
-**Temas propuestos:** diciembre y enero, el Hospitality Report; febrero,
-por decidir.
+**Temas:** ✅ **diciembre, rentabilidad** (con el test); **enero, el
+Hospitality Report**; febrero, por decidir.
 
 ---
 
@@ -141,7 +178,6 @@ por decidir.
 | Propuesta | Por qué |
 |---|---|
 | **Investigar bares nuevos para escribirles cartas** | 7 cartas escritas y ninguna enviada. Enviar las 7 y, de momento, sustituirlo por visitas en persona. *(Punto 5)* |
-| **Newsletter** | No tenemos a quién enviarla. El Report puede darnos los primeros contactos. |
 | **Webinars, anuncios en LinkedIn** | Mucho tiempo o dinero, y todavía no hay público. |
 | **Eventos propios** (Cuentas Claras, Lunes de Barra, Trend Walk, Bar Talks) | Buena idea cuando haya red. Se habla en febrero. *(Punto 6)* |
 | **Ferias** | Como mucho una por trimestre. Siguiente opción: Barcelona Wine Week (febrero), si encaja. *(Punto 6)* |
@@ -182,8 +218,21 @@ escribe.**
 - [ ] Confirmar si las 2 páginas de servicio están publicadas
 - [ ] Terminar la revisión de este plan (puntos 4 a 10)
 
-### Diciembre, enero y febrero
-Se completa cuando cerremos los puntos 4 a 10.
+### Test de rentabilidad (decidido 18-11)
+- [ ] Revisar el borrador de preguntas y resultados — Andrea
+- [ ] Elegir la herramienta del test (que pase email y resultado a Mailchimp) — Sergio
+- [ ] Montar el test + casilla de privacidad — Sergio (o Angel)
+- [ ] Conectar cada resultado con los emails automáticos ya hechos — Sergio, con Claude
+- [ ] Publicaciones de diciembre sobre rentabilidad, con enlace al test
+- [ ] **Lanzar antes del 12 de diciembre**; segundo empujón primera semana de enero
+- [ ] Newsletter mensual: arranca en cuanto entren los primeros correos
+
+### Enero
+- [ ] Lanzar el Hospitality Report
+- [ ] Decidir Google Ads (¿seguir, parar o usarlo para anunciar el test?)
+
+### Resto de diciembre, enero y febrero
+Se completa cuando cerremos los puntos que quedan.
 
 **Reunión de revisión a mediados de febrero:** lo que ha traído
 conversaciones se queda; lo que no, se deja.
@@ -215,4 +264,3 @@ salvo que responda "sí" a las tres:
 - Webinars
 - Anuncios en LinkedIn
 - Eventos propios (Cuentas Claras, Lunes de Barra, Trend Walk, Bar Talks)
-- Newsletter

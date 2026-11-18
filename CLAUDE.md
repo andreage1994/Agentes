@@ -61,6 +61,8 @@ Gmail, Google Calendar, Google Drive, Asana (gestión de proyectos y leads), Odo
 - `plan-marketing-tbnb-90-dias.md` — plan de prioridades de marketing de TBNB
   (nov 2026 – feb 2027): qué se hace, qué se mantiene al mínimo y qué se
   aparca, con reparto de tiempo para dos personas y revisión al día 90.
+- `marketing-tbnb-test-rentabilidad.md` — test de rentabilidad para captar
+  correos (preguntas, resultados, conexión con Mailchimp), lanzamiento dic 2026.
 - `marketing-tbnb-sem-google-ads.md` — canal de búsqueda de pago (Google
   Ads) de la propia web de TBNB, gestionado por un gestor SEM externo:
   minutas de seguimiento, datos de los informes y pendientes que nos
