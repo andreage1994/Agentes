@@ -1,5 +1,10 @@
 # Marketing TBNB — SEM / Google Ads
 
+> **Fin de la colaboración (19-11-2026):** Andrea y Sergio deciden prescindir
+> del gestor SEM (Facu) tras 3 meses sin resultados. Google Ads pasa a
+> llevarse internamente (Sergio, con Claude). Propuesta y pasos de traspaso en
+> `plan-marketing-tbnb-90-dias.md`, sección 6.
+
 **Qué es:** el canal de búsqueda de pago (Google Ads) de la propia web de
 TBNB, gestionado por un gestor SEM externo. No es uno de los 7 canales de
 `comunicacion-redes-sociales/` (esos son contenido orgánico que publicamos

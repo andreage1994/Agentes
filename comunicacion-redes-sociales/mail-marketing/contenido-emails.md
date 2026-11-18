@@ -806,7 +806,7 @@ realidad.
 Si algo de esto te ha sonado parecido a lo que te pasa a ti, no hace falta
 que sigas leyendo casos. Hablemos directamente del tuyo.
 
-Te proponemos 30 minutos, gratis, sin compromiso. No es una llamada
+Te proponemos 15 minutos, gratis, sin compromiso. No es una llamada
 comercial disfrazada de diagnóstico — es justo lo contrario: miramos tu
 negocio, te decimos lo que vemos, y si tiene sentido seguir, seguimos. Si
 no, también te lo decimos.

@@ -200,11 +200,10 @@ nuevo:
 En todos los casos, el **interés** se marca como **rentabilidad**,
 porque es lo que el email de bienvenida usa para personalizarse.
 
-### ⚠️ Una incoherencia a corregir antes de lanzar
-El email de invitación a cita (Consideración, día 9) habla de una
-**llamada de 30 minutos**, pero el Calendly de la web es de **15 minutos**.
-Hay que decidir cuál es la buena y que todo diga lo mismo (emails, test,
-web).
+### ✅ Duración de la cita: siempre 15 minutos
+Decidido el 19-11-2026. El email de invitación a cita (Consideración, día 9)
+decía 30 minutos y ya está corregido en `contenido-emails.md`. Si ya estaba
+cargado en Mailchimp, hay que cambiarlo también allí.
 
 ---
 
@@ -213,9 +212,8 @@ web).
 | Paso | Quién |
 |---|---|
 | Revisar preguntas, cifras [validar] y resultados | Andrea |
-| Decidir la duración de la cita: 15 o 30 min | Andrea y Sergio |
 | Elegir la herramienta: que puntúe, pida el correo al final y pase email + resultado a Mailchimp sin trabajo manual | Sergio |
-| Montar el test y el texto legal de privacidad | Sergio (o Angel) |
+| Montar el test y el texto legal de privacidad | Sergio, con Claude |
 | Crear las etiquetas en Mailchimp y conectar cada resultado con su flujo | Sergio, con Claude |
 | Hacer el test una vez de principio a fin con un email de prueba | Los dos |
 | Publicaciones de diciembre (tema rentabilidad) con el enlace | Vosotros con Claude |

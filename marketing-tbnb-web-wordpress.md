@@ -1,5 +1,10 @@
 # Marketing TBNB — Web / WordPress (Angel Vicedo, freelancer)
 
+> **Fin de la colaboración (19-11-2026):** Angel Vicedo deja de trabajar con
+> TBNB. La web pasa a llevarse internamente (Sergio, con Claude). Pasos de
+> traspaso (contraseñas, usuario, hosting/dominio, copia de seguridad) en
+> `plan-marketing-tbnb-90-dias.md`, sección 8.
+
 **Qué es:** el mantenimiento técnico y la puesta al día de la web de TBNB
 (WordPress + WooCommerce + Elementor Pro + WPML + ACF Pro), llevado por
 **Angel Vicedo** ([angelvicedo.com](https://www.angelvicedo.com/)),
