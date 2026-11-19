@@ -522,6 +522,23 @@ The Shifts cuenta cómo se está reorganizando el negocio. Esta sección baja a 
 
 **TBNB TAKE.** El menú del día ya no puede ser una casilla fija de la operación. Hay que tratarlo como un producto más: con su propio escandallo, su margen por cubierto comparado con el de la carta y una decisión clara sobre su papel. O atrae tráfico que luego deja margen (el café, el postre, la vuelta por la tarde), o es una fuga que se paga con el esfuerzo de toda la cocina a mediodía.
 
+Los números de quien lo vive lo dejan claro. En un bar-restaurante que sirve unos 40 menús al día a 12 €, cada menú cuesta unos 8 € de hacer: *"Luego hasta 12 euros es el beneficio. No me queda más"* [131]. En El Labriego, en Madrid, su dueño calcula que haría falta vender más de cien menús al día para que saliera rentable, y lo mantiene, sobre todo, porque lo tienen todos los locales de alrededor [130].
+
+Por eso la pregunta no es si el menú del día funciona, sino si funciona para tu negocio. Tiene ventajas reales:
+
+- **Llena la franja más difícil.** El mediodía entre semana es el momento en que más cuesta tener el local lleno, y el menú lo resuelve.
+- **Ordena la cocina.** Se sabe cuántos platos se van a servir y con qué producto, lo que permite comprar mejor, aprovechar género y reducir merma.
+- **Es una puerta de entrada.** El cliente que prueba el local a 15 € puede volver a cenar o el fin de semana, si lo que encuentra le convence.
+- **A veces es lo que espera el barrio.** En zonas de oficinas o de vida de barrio, no tenerlo puede dejar fuera a una parte importante del cliente de diario.
+
+Y tiene desventajas que conviene mirar de frente:
+
+- **El margen es mínimo,** y depende de vender mucho volumen. Si las oficinas de alrededor se vacían por el teletrabajo, el modelo se resiente enseguida [130].
+- **Ocupa la mejor franja con el ticket más bajo.** Cocina y sala trabajan a pleno rendimiento al mediodía para el cubierto que menos deja, y puede restar ventas a la carta.
+- **Puede posicionar el local donde no quiere estar.** Un sitio que se conoce por su menú del día corre el riesgo de quedarse ahí: el cliente lo asocia al mediodía barato y no piensa en él para una cena, una celebración o un sábado. Y si el menú se hace sin el mismo cuidado que la carta, arrastra la percepción de calidad de todo el sitio.
+
+Para decidir con criterio, cuatro preguntas. ¿Cuántos menús hay que vender al día para que compense, con su coste real de producto, personal y energía, y se llega a esa cifra? ¿El cliente del menú vuelve en otros momentos o solo viene a eso? ¿El menú se parece al concepto, o podría ser el de cualquier bar de la calle? ¿Hay una fórmula mejor para este negocio: medio menú, un plato del día, un menú solo algunos días o uno más corto y a mejor precio? Si el concepto aspira a ser destino de cena o de fin de semana, el menú tiene que parecerse a la carta, no al bar de al lado. Si no puede, quizá es mejor un plato del día bien hecho que un menú que diluya la marca.
+
 **Costes que no se mueven en la misma dirección.** El aceite de oliva virgen extra ha caído en origen un 61,5% desde su máximo de enero de 2024 [117]. El café, en cambio, acumula subidas de entre el 30% y el 40% en dos años, y el cacao y el chocolate están entre los alimentos que más se han encarecido [118].
 
 **TBNB TAKE.** Un escandallo que no se revisa da un margen ficticio, en las dos direcciones. Si el café sube y la taza sigue al mismo precio, se pierde dinero en cada servicio sin que nadie lo vea. Si el aceite baja y no se recalcula nada, se está desaprovechando margen. Revisar los escandallos de los productos clave cada trimestre y subir precios de forma selectiva, plato a plato y no en bloque, protege el margen sin castigar al cliente que mejor compara.
@@ -764,3 +781,5 @@ See you in six months.
 127. Time Out Barcelona, ficha de Entre Latas (Torrijos, 16).
 128. Ara, *"Les Cosines: el nuevo lugar para hacer el vermut en el barrio de Gràcia"*, mar 2026.
 129. Barcelona Secreta, *"Las mejores bodegas para hacer el vermut en Gràcia"* (Bodega Tano), 2026.
+130. El Español, *"Carlos, dueño de un restaurante: 'Tendrías que vender ciento y pico menús al día para que te saliera rentable'"* (El Labriego, Madrid), 3 ago 2026.
+131. El Español, *"María, dueña de un restaurante: vendo menús del día a 12 euros"*, 29 jul 2026.
