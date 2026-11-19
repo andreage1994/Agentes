@@ -421,7 +421,9 @@ Por eso el sistema se construyó entero *antes* de abrir la puerta, no se ajust�
 
 El cliente español no ha dejado de salir. Lo que ha cambiado es por qué sale, a qué hora, qué bebe, cómo elige y qué castiga.
 
-**Se sale para desconectar, no por costumbre.** El 66% de los españoles sale a bares y restaurantes igual o más que hace un año, y entre los jóvenes la cifra sube al 76%. Casi la mitad, el 47%, sigue saliendo pese a la subida de precios porque lo necesita para desconectar [73]. Y mientras los grandes mercados europeos perdían visitas en 2025, España mantuvo las suyas, unas 7.200 millones al año [39].
+### Se sale para desconectar, no por costumbre
+
+El 66% de los españoles sale a bares y restaurantes igual o más que hace un año, y entre los jóvenes la cifra sube al 76%. Casi la mitad, el 47%, sigue saliendo pese a la subida de precios porque lo necesita para desconectar [73]. Y mientras los grandes mercados europeos perdían visitas en 2025, España mantuvo las suyas, unas 7.200 millones al año [39].
 
 **TBNB TAKE.** Si salir es una forma de desconectar, el bar ya no compite solo con el bar de enfrente. Compite con cualquier plan que prometa lo mismo: una tarde en un spa, un concierto, una cena en casa de amigos. Lo que se vende no es solo comida y bebida. Es un rato que merezca la pena.
 
@@ -435,13 +437,19 @@ Para un dueño, eso cambia la pregunta con la que se diseña la oferta. Ya no ba
 
 Nada de esto exige reformar el local. Exige decidir antes para qué ocasiones existe el negocio y construir la carta, el servicio y el espacio alrededor de esa decisión.
 
-**El día le gana terreno a la noche.** La mitad de los españoles ha recortado el ocio nocturno y lo ha pasado a franjas de día, el 48% sale más a comer al mediodía que a cenar y el 30% ha adelantado sus horarios. El 70% toma el aperitivo los fines de semana y el 58% participa en el tardeo [73]. No es una moda de verano: es un cambio de rutina que ya explicamos desde el lado del negocio en el Shift 1.
+### El día le gana terreno a la noche
 
-**Se elige con más cuidado, y con todo a la vista.** El 20% gasta menos que el año pasado cuando sale, el 37% opta por menús más reducidos y el 53% iría en horarios menos concurridos si le sale más barato [73]. Antes de decidir, se informa: el 75% consulta la carta antes de reservar y el 59% da más peso a las opiniones de otros clientes que al precio. Una mala reseña es el principal motivo para no reservar en el 62% de los casos [65]. Entre los más jóvenes, el 46% considera deshonesto que un restaurante esconda su carta o sus precios en redes o en su web, y los dos grandes motivos para no volver son una mala relación calidad-precio (76,5%) y un mal servicio (75,8%) [108].
+La mitad de los españoles ha recortado el ocio nocturno y lo ha pasado a franjas de día, el 48% sale más a comer al mediodía que a cenar y el 30% ha adelantado sus horarios. El 70% toma el aperitivo los fines de semana y el 58% participa en el tardeo [73]. No es una moda de verano: es un cambio de rutina que ya explicamos desde el lado del negocio en el Shift 1.
+
+### Se elige con más cuidado, y con todo a la vista
+
+El 20% gasta menos que el año pasado cuando sale, el 37% opta por menús más reducidos y el 53% iría en horarios menos concurridos si le sale más barato [73]. Antes de decidir, se informa: el 75% consulta la carta antes de reservar y el 59% da más peso a las opiniones de otros clientes que al precio. Una mala reseña es el principal motivo para no reservar en el 62% de los casos [65]. Entre los más jóvenes, el 46% considera deshonesto que un restaurante esconda su carta o sus precios en redes o en su web, y los dos grandes motivos para no volver son una mala relación calidad-precio (76,5%) y un mal servicio (75,8%) [108].
 
 **TBNB TAKE.** El cliente llega con la decisión casi tomada, y la toma con lo que encuentra antes de entrar. La carta publicada, los precios visibles y lo que dicen las reseñas forman parte del concepto tanto como la sala. Un negocio que no enseña lo que vende está perdiendo clientes que nunca sabrá que tuvo.
 
-**Se bebe menos, y mejor.** El 26,3% de los jóvenes españoles ya no bebe alcohol en las comidas o las cenas, el 38,7% dice que no lo necesita para divertirse y el 20% prefiere una sola copa premium a varias normales [108]. El mercado lo confirma: el vino sin o bajo en alcohol ha crecido un 66,6% en tres años, la cerveza 0,0 ya mueve 252 millones de euros (+6,3%) y los espirituosos sin alcohol han crecido un 64% en volumen entre 2021 y 2024 [30]. Es el cliente para el que trabajan Botanicus o Sense Shop (04. Concept Watch).
+### Se bebe menos, y mejor
+
+El 26,3% de los jóvenes españoles ya no bebe alcohol en las comidas o las cenas, el 38,7% dice que no lo necesita para divertirse y el 20% prefiere una sola copa premium a varias normales [108]. El mercado lo confirma: el vino sin o bajo en alcohol ha crecido un 66,6% en tres años, la cerveza 0,0 ya mueve 252 millones de euros (+6,3%) y los espirituosos sin alcohol han crecido un 64% en volumen entre 2021 y 2024 [30]. Es el cliente para el que trabajan Botanicus o Sense Shop (04. Concept Watch).
 
 **TBNB TAKE.** El cliente que bebe menos no gasta menos si encuentra algo que merezca la pena. El error es seguir tratándolo como la excepción. Ya no vale con una carta "sin alcohol" que en realidad es la lista de refrescos de siempre: quien no bebe la lee en dos segundos, pide agua y se va habiendo gastado la mitad que el resto de la mesa.
 
@@ -453,7 +461,9 @@ La clave para que ese cliente consuma más está en ofrecerle algo que de verdad
 
 Quien resuelve esto gana dos veces: recupera el ticket de la persona que ya no bebe y le da a toda la mesa un motivo más para hablar del sitio.
 
-**Real o artificial.** El estudio *Así come la Gen Z*, con 600 jóvenes de 17 a 30 años, resume a toda una generación en una sola pregunta: no si algo es moderno o clásico, sino si es real o artificial. La autenticidad es, según sus autores, el único activo capaz de diferenciar [108]. Y esa generación se divide en dos tribus que conviven. La que llaman *Newstalgia* busca descubrir y valora la estética (52,7%) y los platos que llaman la atención (48,4%). La que llaman *Back to Basics* busca cocina tradicional y locales de siempre, y para el 73% lo decisivo es una comida auténtica y sin adornos [108]. Las dos coinciden en algo más: para el 46%, comer sano es comer producto de calidad; solo el 3,8% lo asocia a contar calorías [108]. El resto de los españoles va en la misma dirección: el 45% valora el atractivo de la restauración local con personalidad propia, y el 68% quiere locales acogedores y tranquilos [73].
+### Real o artificial
+
+El estudio *Así come la Gen Z*, con 600 jóvenes de 17 a 30 años, resume a toda una generación en una sola pregunta: no si algo es moderno o clásico, sino si es real o artificial. La autenticidad es, según sus autores, el único activo capaz de diferenciar [108]. Y esa generación se divide en dos tribus que conviven. La que llaman *Newstalgia* busca descubrir y valora la estética (52,7%) y los platos que llaman la atención (48,4%). La que llaman *Back to Basics* busca cocina tradicional y locales de siempre, y para el 73% lo decisivo es una comida auténtica y sin adornos [108]. Las dos coinciden en algo más: para el 46%, comer sano es comer producto de calidad; solo el 3,8% lo asocia a contar calorías [108]. El resto de los españoles va en la misma dirección: el 45% valora el atractivo de la restauración local con personalidad propia, y el 68% quiere locales acogedores y tranquilos [73].
 
 **TBNB TAKE.** El cliente español de 2026 sale más de día, bebe menos, elige con lupa y castiga lo que huele a impostado. Diseñar para él significa cuatro cosas muy concretas: una oferta de día con identidad propia, la carta y los precios a la vista antes de que entre, una bebida sin alcohol tratada en serio y una autenticidad que aguante tanto la primera foto como la segunda visita.
 
