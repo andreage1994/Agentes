@@ -15,10 +15,11 @@ tecnología, cambios culturales y comportamiento del cliente.
 
 ## 02. THE BIG PICTURE
 *El tablero está cambiando.*
-"Hospitality by Numbers": 8-12 indicadores relevantes (ventas, ticket medio,
-costes de personal, food cost, aperturas/cierres, precios, gasto del consumidor,
-reservas, delivery, turismo, empleo, inversión). No llenar páginas de datos:
-encontrar los datos que cuentan una historia.
+Desde la edición H2 2026: vista general de las tendencias que están
+transformando la manera de entender la hostelería (no una lista de
+indicadores). Introducción que enmarca la idea central y presenta las
+tendencias, y un bloque por tendencia con casos reales (España primero) y
+TBNB TAKE. Los datos macro van en el Opening.
 
 ## 03. THE SHIFTS
 *Lo que está dejando de ser como antes.*
@@ -62,13 +63,12 @@ propia de TBNB, no un resumen de fuentes.
 ## 09. THE RADAR
 *Restaurantes, ideas y movimientos que merece la pena seguir.*
 Sección rápida y visual: ↑ RISING · → STABLE · ↓ COOLING · ⚠ OVERHYPED ·
-● EARLY SIGNAL.
+● EARLY SIGNAL. Desde la edición H2 2026 incluye también las señales
+pequeñas (antes sección propia "Early Signal"), cada una con fuente y razón
+de por qué podría escalar. Puede cerrar con una pregunta abierta cuando una
+señal tiene evidencia mixta.
 
-## 10. EARLY SIGNAL
-*Todavía no es tendencia. Pero estamos mirando.*
-Señales pequeñas con fuente y razón de por qué podrían escalar.
-
-## 11. CLOSING — HOSPITALITY NEVER STANDS STILL
+## 10. CLOSING — HOSPITALITY NEVER STANDS STILL
 *Porque en hostelería, lo que funciona hoy puede cambiar mañana.*
 Síntesis y visión de cierre. "Nuestro trabajo no consiste únicamente en observar
 esos cambios. Consiste en entender cuáles importan." Cierra con "See you in six

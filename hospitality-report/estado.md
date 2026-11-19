@@ -1,7 +1,7 @@
 # Estado — Hospitality Report
 
 **Cadencia:** semestral (H1 / H2).
-**Última actualización:** 2026-11-05.
+**Última actualización:** 2026-11-19.
 
 ## Revisión de Andrea, sección por sección (2026-11-05)
 
@@ -20,8 +20,12 @@ Andrea revisa la edición H2 2026 punto por punto en una sesión de chat.
   concepto que el cliente identifique a la primera" + seis líneas propuestas
   por Andrea (The New Coffee Culture, Beyond the Menu, The Experience
   Economy, The New Social Spaces, Design with Purpose, The Return of
-  Hospitality). Pendiente decidir si este enfoque se lleva también a la
-  plantilla para próximas ediciones.
+  Hospitality). Llevado también a la plantilla (2026-11-19).
+
+- **Estructura (2026-11-19):** Early Signal se fusiona con The Radar a petición
+  de Andrea; el informe pasa de 11 a 10 secciones (Closing = 10). Cambio
+  aplicado también en `plantilla-indice.md`. Todas las secciones revisadas
+  una vez; queda una revisión final de fuentes, coherencia y tono.
 
 ## Retomar la edición H2 2026 hacia versión publicable (2026-10-29)
 
